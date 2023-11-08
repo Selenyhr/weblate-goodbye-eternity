@@ -107,16 +107,21 @@
 #
 # FIRST AUTHOR < EMAIL @ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-07 19:57+0100\n"
+"PO-Revision-Date: 2023-11-08 00:50+0000\n"
+"Last-Translator: Hoang Nhat Minh <hoangnhatminh19102007@gmail.com>\n"
+"Language-Team: Vietnamese <https://translations.teot-studio.com/projects/"
+"goodbye-eternity/game-translation/vi/>\n"
 "Language: vi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8-bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.17\n"
 
 #: game/story/introduction.dialogue
 msgctxt "intro_90fcefcc"
@@ -2014,9 +2019,10 @@ msgid "Faire une sieste"
 msgstr "Ngủ trưa"
 
 #: game/story/home_player_saito_room.dialogue
+#, fuzzy
 msgctxt "te3295a8205"
 msgid "Il me reste des choses à faire aujourd'hui avant d'aller dormir."
-msgstr ""
+msgstr "Vẫn còn phải xử lý chút việc nữa mới yên giấc nổi."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "tbb2b1ca43a"
@@ -3071,7 +3077,7 @@ msgstr "Mnnnh..."
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_2bc7d297"
 msgid "Mhhh..."
-msgstr ""
+msgstr "Mhhh..."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "sexe_asami_l_6da78720"
@@ -3536,7 +3542,7 @@ msgstr "Nhưng..."
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_4543e5f3"
 msgid "Mais..."
-msgstr ""
+msgstr "Nhưng..."
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_c99971cb"
@@ -3571,12 +3577,12 @@ msgstr "Nhưng..."
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_13d8606f"
 msgid "Mais..."
-msgstr ""
+msgstr "Nhưng..."
 
 #: game/story/bus_stop.dialogue
 msgctxt "bus_stop_a6a070f1"
 msgid "Mais..."
-msgstr ""
+msgstr "Nhưng..."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "talk_noriko_943ae61a"
@@ -3801,7 +3807,7 @@ msgstr "Được rồi..."
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_c356cad9"
 msgid "Je vois..."
-msgstr ""
+msgstr "Đã... hiểu..."
 
 #: game/story/konbini_exterior.dialogue
 msgctxt "konbini_exterior_2b27740b"
@@ -3819,9 +3825,10 @@ msgid "Alors ?"
 msgstr "Thế ?"
 
 #: game/story/home_player_saito_room.dialogue
+#, fuzzy
 msgctxt "home_player_room_df50e201"
 msgid "Alors ?"
-msgstr ""
+msgstr "Thế ?"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_5a183b7b"
@@ -3861,12 +3868,12 @@ msgstr "Thế nào ?"
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_5e1cc29e"
 msgid "Alors ?"
-msgstr ""
+msgstr "Thế ?"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "home_kimochi_exterior_5e1cc29e"
 msgid "Alors ?"
-msgstr ""
+msgstr "Thế ?"
 
 #: game/story/home_minato_exterior.dialogue
 msgctxt "home_minato_exterior_8944804e"
@@ -3956,7 +3963,7 @@ msgstr "Ngày mai sẽ hay."
 #: game/story/home_player_saito_room.dialogue
 msgctxt "t2aa9fab2bb"
 msgid "Je me suis déjà pas mal entraîné. On verra plus tard."
-msgstr ""
+msgstr "Gym giủng hôm nay thế là đủ rồi. Để mai qua tiếp."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "halteres_a47363ab"
@@ -4136,7 +4143,7 @@ msgstr "[i]Ngày mai chúng ta sẽ tiếp tục![/i]"
 #: game/story/home_player_saito_room.dialogue
 msgctxt "t36a9506a5f"
 msgid "Vous sentez avoir gagné en force."
-msgstr ""
+msgstr "Bạn cảm tưởng nhựa sống như đang chảy rần rật trong huyết mạch"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "halteres_16a58356"
@@ -4594,9 +4601,10 @@ msgid "À vos ordres !"
 msgstr "Như bà muốn !"
 
 #: game/story/home_player_saito_room.dialogue
+#, fuzzy
 msgctxt "home_player_room_1e36043d"
 msgid "À vos ordres !"
-msgstr ""
+msgstr "Chơi luôn !"
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_d0f70235"
@@ -6656,7 +6664,7 @@ msgstr "Hửm, chuyện gì đấy, kể tôi nghe với ?"
 #: game/story/home_player_saito_room.dialogue
 msgctxt "tb062009e0f"
 msgid "{{asami.n}} ?"
-msgstr ""
+msgstr "{{asami.n}} ?"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_8784b75b"
@@ -8729,19 +8737,22 @@ msgid "M-"
 msgstr "Nh-"
 
 #: game/story/home_player_corridor.dialogue
+#, fuzzy
 msgctxt "home_player_corridor_b96b4517"
 msgid "M-"
-msgstr ""
+msgstr "Đụ-"
 
 #: game/story/home_player_noriko_room.dialogue
+#, fuzzy
 msgctxt "menu_rejet_noriko_final_8f3ab287"
 msgid "M-"
-msgstr ""
+msgstr "Vã-"
 
 #: game/story/home_player_noriko_room.dialogue
+#, fuzzy
 msgctxt "talk_noriko_8f3ab287"
 msgid "M-"
-msgstr ""
+msgstr "Loằ-"
 
 #: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
 msgctxt "yasuka_love_sexe_repeat_79977168"
@@ -8814,9 +8825,10 @@ msgid "Exactement !"
 msgstr "Phải đó!"
 
 #: game/story/dojo_exterior.dialogue
+#, fuzzy
 msgctxt "dojo_exterior_e12a02e3"
 msgid "Exactement !"
-msgstr ""
+msgstr "Đụ mẹ chuẩn chỉ !"
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_0eef4f76"
@@ -8824,14 +8836,16 @@ msgid "Exactement !"
 msgstr "Chuẩn !"
 
 #: game/story/home_asami_asami_room.dialogue
+#, fuzzy
 msgctxt "home_asami_asami_room_02896704"
 msgid "Exactement !"
-msgstr ""
+msgstr "Chuẩn ròi !"
 
 #: game/story/home_asami_asami_room.dialogue
+#, fuzzy
 msgctxt "home_asami_asami_room_9dc8c52d"
 msgid "Exactement !"
-msgstr ""
+msgstr "Chuẩn không cần chỉnh !"
 
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "talk_thugs_dea6ba58"
@@ -10194,9 +10208,10 @@ msgid "Je suppose que je te dois bien ça."
 msgstr "Anh nợ em thật."
 
 #: game/story/home_player_saito_room.dialogue
+#, fuzzy
 msgctxt "t483193d969"
 msgid "[hint=ROUTE MALEDOM]Maintenant, on est quitte !"
-msgstr ""
+msgstr "[hint=ROUTE MALEDOM]Giờ thì hòa rồi nhé !"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_b00a7050"
@@ -10204,9 +10219,10 @@ msgid "C'est bon maintenant ? Je peux m'habiller ?"
 msgstr "Ổn rồi chứ ? Anh mặc quần áo được chưa ?"
 
 #: game/story/home_player_saito_room.dialogue
+#, fuzzy
 msgctxt "tc3c1f61be2"
 msgid "[hint=ROUTE FEMDOM]Pardon pour avoir t'avoir fait ça."
-msgstr ""
+msgstr "[hint=ROUTE FEMDOM] Xin lỗi vì đã gây ra cho em mớ rắc rối này."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_68674be4"
@@ -10216,7 +10232,7 @@ msgstr "Bao biện chỉ cho lũ yếu đuối thoi !"
 #: game/story/home_player_saito_room.dialogue
 msgctxt "t45d5eea07a"
 msgid "Oh, je l'avais totalement oublié"
-msgstr ""
+msgstr "À, ừ nhỉ, tí anh quên mất"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "t4f4c7599ae"
@@ -10291,42 +10307,45 @@ msgstr "Không chắc nữa."
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_73807b0e"
 msgid "Bon... Les ennuis avec les filles, c'est terminé."
-msgstr ""
+msgstr "Bà mọe ơi... cuối cùng cũng xong công chuyện với các con vợ ròi."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_52d2b391"
 msgid "{{sakuya.n}} s'est calmée et ne devrait plus poser de problèmes."
 msgstr ""
+"{{sakuya.n}} thì đã bớt hít ke lại và chắc sẽ không lên cơn thêm lần nào nữa."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_4e8de882"
 msgid "{{asami.n}} m'a pardonné."
-msgstr ""
+msgstr "{{asami.n}} thì đã xin lỗi mình."
 
 #: game/story/home_player_saito_room.dialogue
+#, fuzzy
 msgctxt "home_player_room_f66c44f2"
 msgid "Et {{yasuka.n}}... est toujours aussi parfaite."
 msgstr ""
+"Chuyện với {{yasuka.n}} thì... vẫn êm đềm trướng rủ màn che tự thuở nào."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_30dff5fb"
 msgid "Il est temps de se prendre en main et d'aller au dojo !"
-msgstr ""
+msgstr "Đã tới lúc thích hợp, xách cái mông tới Võ Đường đê !"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_9ceb7aa8"
 msgid "Je ne pourrai pas compter éternellement sur les autres pour m'aider à chaque fois."
-msgstr ""
+msgstr "Cứ ngồi ăn bám anh em mãi, nhục bỏ bà đi ấy."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_a22d2ca0"
 msgid "{{akira.n}} ne devrait plus poser de problèmes non plus..."
-msgstr ""
+msgstr "{{akira.n}} chắc là... chắc là... rất chi là chắc là rồi..."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_d8eb6dfd"
 msgid "Hmmm... Je peux savoir ce que j'ai fais de travers ?"
-msgstr ""
+msgstr "Ờmmm... Tôi có thể được biết là tôi đã fucked up cái giề không ?"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_53bea5af"
