@@ -107,16 +107,21 @@
 #
 # FIRST AUTHOR < EMAIL @ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-07 15:25+0100\n"
+"PO-Revision-Date: 2023-11-08 15:21+0000\n"
+"Last-Translator: Development team <info@teot-studio.com>\n"
+"Language-Team: English <https://translations.teot-studio.com/projects/"
+"goodbye-eternity/game-translation/en/>\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8-bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.17\n"
 
 #: game/story/introduction.dialogue
 msgctxt "intro_90fcefcc"
@@ -8886,7 +8891,9 @@ msgstr "{{saito.n}} accompanied {{yasuka.n}} to her room. She put up no resistan
 #: game/story/home_player_saito_room.dialogue
 msgctxt "yasuka_wake_up_saito_863d32ba"
 msgid "Elle semblait déçue, mais également dans un état d'ébriété qu'il n'avait jamais vu encore."
-msgstr "She seemed disappointed, but she was also in a drunken state {{saito.n}} had never seen before."
+msgstr ""
+"She seemed disappointed, but she was also in a drunken state he had never "
+"seen before."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "yasuka_wake_up_saito_8d334278"
@@ -9341,7 +9348,7 @@ msgstr "Next time you want to enter {{saito.n}}'s room or any other room, you'll
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_76b34df1"
 msgid "Est-ce que je me suis bien fait comprendre {{noriko.n}} ?"
-msgstr "Have I made myself clear?"
+msgstr "Have I made myself clear {{noriko.n}}?"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "home_player_exterior_31e6421f"
@@ -12306,7 +12313,7 @@ msgstr "FUCK YOU!"
 #: game/story/home_player_hallway.dialogue
 msgctxt "home_player_hallway_999598bf"
 msgid "VA TE FAIRE FOUTRE !"
-msgstr "Go fuck yourself, {{saito.n}}"
+msgstr "GO FUCK YOURSELF!"
 
 #: game/story/canal.dialogue
 msgctxt "canal_2d9c740f"
@@ -13306,7 +13313,7 @@ msgstr "You will obey me, understand?"
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "pc_noriko_f8001b90"
 msgid "Est-ce que je me suis bien fait comprendre cette fois-ci ?"
-msgstr "{{noriko.n}}, do I make myself clear?"
+msgstr "Have I made myself clear?"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "pc_noriko_e2cb7a2e"
@@ -13591,7 +13598,9 @@ msgstr "As long as you keep your mouth shut around me, I won't do anything."
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_0f230e58"
 msgid "Recommence ton cinéma et soit sûre que je l'utiliserais."
-msgstr "But if you decide to be your usual charming self again, {{yasuka.n}} will hear every second of this tape."
+msgstr ""
+"But if you decide to be your usual charming self again, you can rest assured "
+"I will make good use of this tape."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_7074cdd1"
@@ -17601,7 +17610,7 @@ msgstr "Oh shit, I'm way too excited to think rationally now!"
 #: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
 msgctxt "sleeping_with_yasuka_2_1f978e50"
 msgid "Quitte à passer à l'acte, je préfère que ce soit avec moi."
-msgstr "If she has to do it, I'd prefer prefer it to be with me."
+msgstr "If she has to do it, I'd prefer it to be with me."
 
 #: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
 msgctxt "sleeping_with_yasuka_2_a5acbba5"
@@ -18591,7 +18600,9 @@ msgstr "...Okay."
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_e87cd746"
 msgid "Alors ne t'inquiète plus pour moi, je suis une grande fille à présent, va donc te coucher, il est déjà très tard."
-msgstr "I can take care of myself! I've taken care of you and {{noriko.n}} all this time, right? Now it's late, so let's both get to bed."
+msgstr ""
+"So you no longer need to worry about me, I'm a strong woman. You can go to "
+"bed now, it's pretty late already."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_01b802fe"
@@ -20981,7 +20992,7 @@ msgstr "No thank you. I'm fine..."
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_4efc3390"
 msgid "Donc... Tu es donc la dernière personne à avoir parlé à {{saito.n}} hier soir..."
-msgstr "So... So you were the last person to talk to {{saito.n}} last night..."
+msgstr "So... you were the last person to talk to {{saito.n}} last night..."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_de909dee"
@@ -21736,7 +21747,7 @@ msgstr "You can even sell your ass, I don't give a shit!"
 #: game/story/home_player_hallway.dialogue
 msgctxt "home_player_hallway_bf20c6b7"
 msgid "Alors mes chéris, vous parlez de quoi depuis tout à l'heure ?"
-msgstr "{{noriko.n}}, I heard you yelling. What's going on?"
+msgstr "What have you been talking about, my sweethearts?"
 
 #: game/story/home_player_hallway.dialogue
 msgctxt "home_player_hallway_7d6db047"
@@ -22291,7 +22302,7 @@ msgstr "It's too late to go running. Better go and see if they're hiring at the 
 #: game/story/home_player_exterior.dialogue
 msgctxt "home_player_exterior_58ce082b"
 msgid "Attends !"
-msgstr "{{saito.n}}!"
+msgstr "Wait!"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "home_player_exterior_e0686807"
@@ -22316,7 +22327,7 @@ msgstr "But...!"
 #: game/story/home_player_exterior.dialogue
 msgctxt "home_player_exterior_79d38090"
 msgid "DÉGAGE BORDEL !!!"
-msgstr "Just go away, {{noriko.n}}!"
+msgstr "JUST GO AWAY FOR FUCK'S SAKE!!!"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "t5d6eae1f92"
@@ -22346,12 +22357,12 @@ msgstr "So go do those! Mind your own business, and I'll mind mine."
 #: game/story/home_player_exterior.dialogue
 msgctxt "home_player_exterior_e246180e"
 msgid "Ne m'oblige pas à de venir violent {{noriko.n}}."
-msgstr "You know, when you're all quiet like that, you've got a pretty cute face."
+msgstr "I would hate having to be violent {{noriko.n}}."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "home_player_exterior_b2e38d4e"
 msgid "Je le répèterai une dernière fois..."
-msgstr "It'd be a shame to have to break something so cute."
+msgstr "So I'll repeat it one last time..."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "home_player_exterior_6296a31f"
@@ -22443,12 +22454,14 @@ msgstr "I don't give a fuck."
 #: game/story/home_player_exterior.dialogue
 msgctxt "home_player_exterior_a296c3f2"
 msgid "Tu crois que tes menaces à deux balles me font peur ?"
-msgstr "Go ahead. Try it. Do your worst."
+msgstr "Do you think all of your yapping is scaring me?"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "home_player_exterior_5e62fbdc"
 msgid "Si tu veux jouer à ce petit jeu-là avec moi, tu as déjà perdu {{noriko.n}}."
-msgstr "Can't be worse than anything I've already gone through."
+msgstr ""
+"I wouldn't recommend you to keep playing this little game. You'll lose "
+"{noriko.n}."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "home_player_exterior_41624ec4"
@@ -22525,7 +22538,7 @@ msgstr "...be friends? What do you think?"
 #: game/story/home_player_exterior.dialogue
 msgctxt "home_player_exterior_29cd7803_2"
 msgid "Va mourir !"
-msgstr "Go fuck yourself, {{saito.n}}."
+msgstr "Go to hell!"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "home_player_exterior_151399b3"
@@ -24685,7 +24698,7 @@ msgstr "But I'm sure he's lying about it."
 #: game/story/home_player_exterior.dialogue
 msgctxt "home_player_exterior_9af700af"
 msgid "Le fait qu'il soit si déterminé est un véritable problème."
-msgstr "The fact that {{akira.n}}'s so determined is a real problem."
+msgstr "The fact that he's so determined is a real problem."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "home_player_exterior_e66fe46a"
@@ -24725,7 +24738,7 @@ msgstr "He really looks like a sexual predator."
 #: game/story/home_player_exterior.dialogue
 msgctxt "home_player_exterior_8e69692d"
 msgid "Il n'y a aucune chance pour qu'elle se laisse avoir, mais..."
-msgstr "There's no way {{yasuka.n}} will be fooled, but..."
+msgstr "There's no way she will be fooled, but..."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "home_player_exterior_df70706e"
@@ -26140,12 +26153,12 @@ msgstr "But if I'm wrong and you have a death wish, say so!"
 #: game/story/dojo_exterior.dialogue
 msgctxt "dojo_exterior_3b492d5b"
 msgid "Je vais te faire gagner du temps."
-msgstr "When I'm done, I'll even do the autopsy! Cause of death: {{akira.n}}."
+msgstr "I will keep things short."
 
 #: game/story/dojo_exterior.dialogue
 msgctxt "dojo_exterior_43cb2245"
 msgid "Barre-toi j'te dis !"
-msgstr "No, but seriously, get out of here."
+msgstr "Fuck off now!"
 
 #: game/story/dojo_exterior.dialogue
 msgctxt "dojo_exterior_c8532248"
@@ -29921,7 +29934,7 @@ msgstr "Fuck, what do you want?"
 #: game/story/park.dialogue
 msgctxt "park_a9b69c9e"
 msgid "On t'a jamais dit qu'il fallait partager ?"
-msgstr "Did't anybody tell you, you have to share?"
+msgstr "Didn't anybody tell you, you have to share?"
 
 #: game/story/park.dialogue
 msgctxt "park_38c5fca1"
@@ -31906,7 +31919,7 @@ msgstr "I'm so happy to see you!"
 #: game/story/park.dialogue
 msgctxt "asami_choice_77cad50b"
 msgid "Je voulais passer chez toi, mais tu m'as rejoint finalement."
-msgstr "I was going to to swing by your place, but you finally came over."
+msgstr "I was going to swing by your place, but you finally came over."
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_2a9b6071"
@@ -37156,7 +37169,7 @@ msgstr "What?! The thugs?! You mean you were the one chasing them?"
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_0b25b15c"
 msgid "Et pas seulement, je me suis occupée également de l'ex-propriétaire de la boutique de café."
-msgstr "Not only that, I also took care of the the coffee shop's former owner."
+msgstr "Not only that, I also took care of the coffee shop's former owner."
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_7b0619e4"
@@ -44966,7 +44979,7 @@ msgstr "That went much better than I thought..."
 #: game/story/love_hotel_exterior.dialogue
 msgctxt "love_hotel_exterior_a4b20747"
 msgid "Après pour les menaces de mort... ça reste du {{akira.n}} tout craché."
-msgstr "As for the death threats... That's just {{akira.n}} being {{akira.n}}."
+msgstr "As for the death threats... That's just {{akira.n}} being himself."
 
 #: game/story/love_hotel_exterior.dialogue
 msgctxt "love_hotel_exterior_d0661f86"
@@ -45306,7 +45319,7 @@ msgstr "Meanwhile, in one of the many rooms of the love hotel..."
 #: game/story/love_hotel_reception.dialogue
 msgctxt "love_hotel_reception_06edcb46"
 msgid "Aaah ma chère, ma très chère {{yasuka.n}}."
-msgstr "Hehehe..."
+msgstr "My dear, dear {{yasuka.n}}."
 
 #: game/story/love_hotel_reception.dialogue
 msgctxt "love_hotel_reception_729757db"
@@ -47506,7 +47519,7 @@ msgstr "Oh, that doesn't surprise me! That guy is a real genius. He has a shitty
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "kimochi_password_6dfc1569"
 msgid "Il le tient par les couilles !"
-msgstr "He's got {{akira.n}} by the balls!"
+msgstr "He's got him by the balls!"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "kimochi_password_b2962765"
@@ -52817,7 +52830,8 @@ msgstr "I've searched for you everywhere in town."
 #: game/story/konbini_exterior.dialogue
 msgctxt "konbini_exterior_7008915d"
 msgid "{{minato.n}} était très inquiet qu'il ne te soit arrivé quelque chose, comme d'habitude tu me diras."
-msgstr "{{minato.n}} was very worried that something had happened to you, as as usual."
+msgstr ""
+"{{minato.n}} was very worried that something had happened to you, as usual."
 
 #: game/story/konbini_exterior.dialogue
 msgctxt "konbini_exterior_895c03e8"
@@ -53732,7 +53746,7 @@ msgstr "Hey, that's not wh-"
 #: game/story/home_minato_exterior.dialogue
 msgctxt "home_minato_exterior_92f584b1"
 msgid "Quant à ma petite amie, tu viens de la voir."
-msgstr "{{chiaki.n}}'s fine, and you just met my girlfriend."
+msgstr "And if you're wondering about my girlfriend, you just met her."
 
 #: game/story/home_minato_exterior.dialogue
 msgctxt "home_minato_exterior_4e43ff82"
