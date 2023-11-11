@@ -112,8 +112,8 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-07 19:57+0100\n"
-"PO-Revision-Date: 2023-11-11 17:21+0000\n"
-"Last-Translator: Development team <info@teot-studio.com>\n"
+"PO-Revision-Date: 2023-11-12 19:37+0000\n"
+"Last-Translator: Veydzher <veydzherdgswift008@gmail.com>\n"
 "Language-Team: Ukrainian <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/uk/>\n"
 "Language: uk\n"
@@ -3669,7 +3669,7 @@ msgstr "Використовуйте слину, так буде легше."
 #: game/story/home_player_saito_room.dialogue
 msgctxt "talk_noriko_1df51157"
 msgid "Hmmmm, mmh, hmmmm, hmm..."
-msgstr "Хм-м-м-м м-м-м хм-м-м-м хм-м-м-м хм-м..."
+msgstr "Гм-м-м, м-м-м, гм-м-м, гм-м-м, гм-м..."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "talk_noriko_628457c6"
@@ -8469,7 +8469,7 @@ msgstr "Чого... Чого ти хочеш?"
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_c1da6f66"
 msgid "Je ne sais pas ce que tu as fait avec le patron de {{yasuka.n}}."
-msgstr "Я не знаю, що ти зробила з жирною свинею."
+msgstr "Я не знаю, що ти зробила з босом {{yasuka.n}}."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_ec60091f"
@@ -8894,7 +8894,9 @@ msgstr "{{saito.n}} провів {{yasuka.n}} до її кімнати. Вона
 #: game/story/home_player_saito_room.dialogue
 msgctxt "yasuka_wake_up_saito_863d32ba"
 msgid "Elle semblait déçue, mais également dans un état d'ébriété qu'il n'avait jamais vu encore."
-msgstr "Вона виглядала розчарованою, але вона також була в такому п'яному стані, якого {{saito.n}} ніколи раніше не бачив."
+msgstr ""
+"Вона виглядала розчарованою, але також була така п’яна, якої він ніколи "
+"раніше не бачив."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "yasuka_wake_up_saito_8d334278"
@@ -9349,7 +9351,7 @@ msgstr "Наступного разу, коли захочеш зайти в к�
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_76b34df1"
 msgid "Est-ce que je me suis bien fait comprendre {{noriko.n}} ?"
-msgstr "Я зрозуміло висловилася?"
+msgstr "Я зрозуміло висловилася, {{noriko.n}}?"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "home_player_exterior_31e6421f"
@@ -12314,7 +12316,7 @@ msgstr "ПІШОВ ТИ!"
 #: game/story/home_player_hallway.dialogue
 msgctxt "home_player_hallway_999598bf"
 msgid "VA TE FAIRE FOUTRE !"
-msgstr "Йди до біса, {{saito.n}}"
+msgstr "ТА ПІШОВ ТИ В ДУПУ!"
 
 #: game/story/canal.dialogue
 msgctxt "canal_2d9c740f"
@@ -13314,7 +13316,7 @@ msgstr "Ти будеш мене слухатися, зрозуміла?"
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "pc_noriko_f8001b90"
 msgid "Est-ce que je me suis bien fait comprendre cette fois-ci ?"
-msgstr "{{noriko.n}}, я чітко висловлююсь?"
+msgstr "Я чітко висловився?"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "pc_noriko_e2cb7a2e"
@@ -13599,7 +13601,9 @@ msgstr "Допоки ти триматимеш язик за зубами, я н
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_0f230e58"
 msgid "Recommence ton cinéma et soit sûre que je l'utiliserais."
-msgstr "Але якщо ти вирішиш знову стати собою, {{yasuka.n}} почує кожну секунду цього запису."
+msgstr ""
+"Але якщо ти вирішиш знову стати собою, можеш упевнитися, що використаю цей "
+"запис з користю."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_7074cdd1"
@@ -14009,7 +14013,7 @@ msgstr "Що мені це дасть?"
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_c78344cb"
 msgid "...La satisfaction d'avoir aidé {{yasuka.n}} ?"
-msgstr "...Задоволення від того, що допомогла мамі?"
+msgstr "...Задоволення від того, що ти допомогла {{yasuka.n}}?"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_033a7dca"
@@ -18599,7 +18603,9 @@ msgstr "...Гаразд."
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_e87cd746"
 msgid "Alors ne t'inquiète plus pour moi, je suis une grande fille à présent, va donc te coucher, il est déjà très tard."
-msgstr "Я можу про себе подбати! Я ж увесь цей час дбала про тебе з {{noriko.n}}, так? Зараз уже пізно, тож давайте обидва лягайте спати."
+msgstr ""
+"Тож, за мене можеш більше не хвилюватися, я сильна жінка. Можеш лягати "
+"спати, вже досить пізно."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_01b802fe"
@@ -20654,7 +20660,7 @@ msgstr "Я хочу зробити вас обох щасливими."
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_87081007"
 msgid "Alors, amusez-vous toi et à {{noriko.n}}."
-msgstr "Тож веселіться обоє."
+msgstr "Тож веселіться, ти та {{noriko.n}}."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_159d3215"
@@ -21744,7 +21750,7 @@ msgstr "Ти навіть можеш продати свою дупу, мені 
 #: game/story/home_player_hallway.dialogue
 msgctxt "home_player_hallway_bf20c6b7"
 msgid "Alors mes chéris, vous parlez de quoi depuis tout à l'heure ?"
-msgstr "{{noriko.n}}, я чула твій крик. Що сталося?"
+msgstr "Про що ви говорили, мої дорогі?"
 
 #: game/story/home_player_hallway.dialogue
 msgctxt "home_player_hallway_7d6db047"
@@ -22299,7 +22305,7 @@ msgstr "Пізно вже бігати. Краще піти й подивити�
 #: game/story/home_player_exterior.dialogue
 msgctxt "home_player_exterior_58ce082b"
 msgid "Attends !"
-msgstr "{{saito.n}}!"
+msgstr "Стривай!"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "home_player_exterior_e0686807"
@@ -22324,7 +22330,7 @@ msgstr "Але...!"
 #: game/story/home_player_exterior.dialogue
 msgctxt "home_player_exterior_79d38090"
 msgid "DÉGAGE BORDEL !!!"
-msgstr "Просто йди геть, {{noriko.n}}!"
+msgstr "ПРОСТО ЙДИ ГЕТЬ, ЗАРАДИ БОГА!!!"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "t5d6eae1f92"
@@ -22354,7 +22360,7 @@ msgstr "То йди й зроби це! Займайся своїми справ
 #: game/story/home_player_exterior.dialogue
 msgctxt "home_player_exterior_e246180e"
 msgid "Ne m'oblige pas à de venir violent {{noriko.n}}."
-msgstr "Знаєш, коли ти так мовчиш, у тебе гарне личко."
+msgstr "Я б не хотів бути жорстоким, {{noriko.n}}."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "home_player_exterior_b2e38d4e"
@@ -22456,7 +22462,8 @@ msgstr "Уперед. Спробуй це. Зроби все можливе."
 #: game/story/home_player_exterior.dialogue
 msgctxt "home_player_exterior_5e62fbdc"
 msgid "Si tu veux jouer à ce petit jeu-là avec moi, tu as déjà perdu {{noriko.n}}."
-msgstr "Не може бути гірше за все, через що я вже пройшов."
+msgstr ""
+"Я б не радив тобі продовжувати грати в цю гру. Ти програєш, {{noriko.n}}."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "home_player_exterior_41624ec4"
@@ -22535,7 +22542,7 @@ msgstr "...бути друзями? Як думаєш?"
 #: game/story/home_player_exterior.dialogue
 msgctxt "home_player_exterior_29cd7803_2"
 msgid "Va mourir !"
-msgstr "Йди до біса, {{saito.n}}."
+msgstr "Йди до біса!"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "home_player_exterior_151399b3"
@@ -24695,7 +24702,7 @@ msgstr "Але я впевнений, що він бреше."
 #: game/story/home_player_exterior.dialogue
 msgctxt "home_player_exterior_9af700af"
 msgid "Le fait qu'il soit si déterminé est un véritable problème."
-msgstr "Те, що {{akira.n}} налаштований так рішуче, є справжньою проблемою."
+msgstr "Те, що він такий рішучий, є справжньою проблемою."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "home_player_exterior_e66fe46a"
@@ -24735,7 +24742,7 @@ msgstr "Він справді схожий на сексуального хиж�
 #: game/story/home_player_exterior.dialogue
 msgctxt "home_player_exterior_8e69692d"
 msgid "Il n'y a aucune chance pour qu'elle se laisse avoir, mais..."
-msgstr "{{yasuka.n}} нізащо не обдуриш, але..."
+msgstr "Її нізащо не обдуриш, але..."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "home_player_exterior_df70706e"
@@ -26150,7 +26157,7 @@ msgstr "Але якщо я помиляюся і у тебе є бажання �
 #: game/story/dojo_exterior.dialogue
 msgctxt "dojo_exterior_3b492d5b"
 msgid "Je vais te faire gagner du temps."
-msgstr "Коли я закінчу, я навіть зроблю розтин! Причина смерті: {{akira.n}}."
+msgstr "Я говоритиму коротко."
 
 #: game/story/dojo_exterior.dialogue
 msgctxt "dojo_exterior_43cb2245"
@@ -42661,7 +42668,7 @@ msgstr "Добраніч, {{sayuri.n}}."
 #: game/story/home_asami_livingroom.dialogue
 msgctxt "home_asami_livingroom_bd9e260d"
 msgid "... Bonne nuit, {{saito.n}}."
-msgstr "...Добраніч, {{гравець.n}}."
+msgstr "...На добраніч, {{saito.n}}."
 
 #: game/story/home_asami_livingroom.dialogue
 msgctxt "home_asami_livingroom_193cb03c"
@@ -45316,7 +45323,7 @@ msgstr "Тим часом в одному з численних номерів �
 #: game/story/love_hotel_reception.dialogue
 msgctxt "love_hotel_reception_06edcb46"
 msgid "Aaah ma chère, ma très chère {{yasuka.n}}."
-msgstr "Хе-хе-хе..."
+msgstr "Моя люба, люба {{yasuka.n}}."
 
 #: game/story/love_hotel_reception.dialogue
 msgctxt "love_hotel_reception_729757db"
@@ -45691,7 +45698,7 @@ msgstr "Думаю, вже пізно повертатися..."
 #: game/story/love_hotel_reception.dialogue
 msgctxt "love_hotel_reception_e12e539e"
 msgid "Si c'est {{saito.n}} que tu veux... Il est tout à toi à présent !"
-msgstr "Якщо ти хочеш мене... Я тепер твій!"
+msgstr "Якщо ти хочеш {{saito.n}}... Він тепер увесь твій!"
 
 #: game/story/love_hotel_reception.dialogue
 msgctxt "love_hotel_reception_f6df30b3"
@@ -47516,7 +47523,7 @@ msgstr "О, це мене не дивує! Цей хлопець — справ�
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "kimochi_password_6dfc1569"
 msgid "Il le tient par les couilles !"
-msgstr "Він взяв {{akira.n}} за яйця!"
+msgstr "Він схопив його за яйця!"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "kimochi_password_b2962765"
@@ -53741,7 +53748,7 @@ msgstr "Гей, це не те, щ-"
 #: game/story/home_minato_exterior.dialogue
 msgctxt "home_minato_exterior_92f584b1"
 msgid "Quant à ma petite amie, tu viens de la voir."
-msgstr "{{chiaki.n}} в порядку, і ти щойно познайомився з моєю дівчиною."
+msgstr "А якщо тобі цікаво про мою дівчину, то ти щойно з нею познайомився."
 
 #: game/story/home_minato_exterior.dialogue
 msgctxt "home_minato_exterior_4e43ff82"
