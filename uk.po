@@ -107,21 +107,27 @@
 #
 # FIRST AUTHOR < EMAIL @ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-07 19:57+0100\n"
+"PO-Revision-Date: 2023-11-11 17:21+0000\n"
+"Last-Translator: Veydzher <veydzherdgswift008@gmail.com>\n"
+"Language-Team: Ukrainian <https://translations.teot-studio.com/projects/"
+"goodbye-eternity/game-translation/uk/>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8-bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.17\n"
 
 #: game/story/introduction.dialogue
 msgctxt "intro_90fcefcc"
 msgid "Je ne sais plus à quel moment les choses sont devenues incontrôlables."
-msgstr "Я не знаю, як усе вийшло з-під контролю."
+msgstr "Я не знаю, як все вийшло з-під контролю."
 
 #: game/story/introduction.dialogue
 msgctxt "intro_3bb13317"
@@ -131,7 +137,9 @@ msgstr "Сьогодні моє тіло — це в'язниця плоті т�
 #: game/story/introduction.dialogue
 msgctxt "intro_cb62efe6"
 msgid "Ma faible constitution[w], les séjours à l'hôpital à répétition[w], la maladie[w], la solitude..."
-msgstr "Слабка конституція,[w] повторні госпіталізації,[w] хвороби,[w] самотність..."
+msgstr ""
+"Слабкий організм,[w] неодноразові перебування в лікарні,[w] недуги,[w] "
+"самотність..."
 
 #: game/story/introduction.dialogue
 msgctxt "intro_0ada2bb6"
@@ -151,7 +159,7 @@ msgstr "знущалися..."
 #: game/story/introduction.dialogue
 msgctxt "intro_8cb9c58e"
 msgid "Exploité tout au long de sa vie."
-msgstr "Відколи себе пам'ятаю."
+msgstr "Скільки себе пам’ятаю."
 
 #: game/story/introduction.dialogue
 msgctxt "intro_0a865c4d"
@@ -181,7 +189,7 @@ msgstr "Будь ласка... Хто-небудь, допоможіть мен�
 #: game/story/introduction.dialogue
 msgctxt "intro_eda20439"
 msgid "N'importe qui... Dieu... Satan... Peu importe !"
-msgstr "Бог... Диявол... Хтось... Це не має значення!"
+msgstr "Бог... Диявол... Хто-небудь... Це не має значення!"
 
 #: game/story/introduction.dialogue
 msgctxt "intro_9c78c287"
@@ -2016,7 +2024,7 @@ msgstr "Задрімати"
 #: game/story/home_player_saito_room.dialogue
 msgctxt "te3295a8205"
 msgid "Il me reste des choses à faire aujourd'hui avant d'aller dormir."
-msgstr ""
+msgstr "У мене ще є кілька справ, які треба зробити перед сном."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "tbb2b1ca43a"
@@ -3071,7 +3079,7 @@ msgstr "Мххх..."
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_2bc7d297"
 msgid "Mhhh..."
-msgstr ""
+msgstr "М-м-м..."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "sexe_asami_l_6da78720"
@@ -3536,7 +3544,7 @@ msgstr "Але..."
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_4543e5f3"
 msgid "Mais..."
-msgstr ""
+msgstr "Але..."
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_c99971cb"
@@ -3571,12 +3579,12 @@ msgstr "Але..."
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_13d8606f"
 msgid "Mais..."
-msgstr ""
+msgstr "Але..."
 
 #: game/story/bus_stop.dialogue
 msgctxt "bus_stop_a6a070f1"
 msgid "Mais..."
-msgstr ""
+msgstr "Але..."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "talk_noriko_943ae61a"
@@ -55640,7 +55648,7 @@ msgstr ""
 
 #: core/scripts/clock.gd
 msgid "Tuesday"
-msgstr ""
+msgstr "Вівторок"
 
 #: core/scripts/clock.gd
 msgid "Wednesday"
@@ -55648,7 +55656,7 @@ msgstr ""
 
 #: core/scripts/clock.gd
 msgid "Thursday"
-msgstr ""
+msgstr "Четвер"
 
 #: core/scripts/clock.gd
 msgid "Friday"
@@ -55660,7 +55668,7 @@ msgstr ""
 
 #: core/scripts/clock.gd
 msgid "Sunday"
-msgstr ""
+msgstr "Неділя"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
@@ -55857,11 +55865,11 @@ msgstr ""
 
 #: game/scenes/gui/gui_location.tscn
 msgid "0123456789"
-msgstr ""
+msgstr "0123456789"
 
 #: game/scenes/gui/gui_start_asami.tscn
 msgid "ASAMI"
-msgstr ""
+msgstr "ASAMI"
 
 #: game/scenes/gui/gui_start_asami.tscn
 msgid "Vous pouvez dès à présent poursuivre l’histoire d’{{asami.n}} et revenir à l’intrigue principale quand vous le souhaitez."
@@ -55910,6 +55918,8 @@ msgstr "Ти вирішив дозволити їй [color=yellow]працюва
 #: game/scenes/gui/splashscreen.tscn
 msgid "Certaines scènes de ce jeu peuvent contenir du contenu sexuellement explicite et pourrait choquer un jeune public. Tous les personnages de ce jeu sont majeurs."
 msgstr ""
+"Деякі сцени в цій грі можуть містити відверто сексуальний зміст, який може "
+"шокувати молоду авдиторію. Усі персонажі в цій грі старше 18 років."
 
 #: game/scenes/gui/splashscreen.tscn
 msgid ""
@@ -55937,6 +55947,8 @@ msgstr ""
 #: game/scenes/gui/splashscreen.tscn
 msgid "Ces données seront recueillies après acceptation de ces termes, et ne contiennent pas d'identifiant direct ni informations externes au jeu."
 msgstr ""
+"Ці дані збираються після прийняття цих умов і не містять жодних прямих "
+"ідентифікаторів або інформації, що не стосується гри."
 
 #: game/scenes/gui/splashscreen.tscn
 msgid "[url=disclaimer]Retour[/url]"
