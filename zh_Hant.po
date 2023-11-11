@@ -107,16 +107,21 @@
 #
 # FIRST AUTHOR < EMAIL @ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-07 19:57+0100\n"
-"Language: zh\n"
+"PO-Revision-Date: 2023-11-11 17:21+0000\n"
+"Last-Translator: Development team <info@teot-studio.com>\n"
+"Language-Team: Chinese (Traditional) <https://translations.teot-studio.com/"
+"projects/goodbye-eternity/game-translation/zh_Hant/>\n"
+"Language: zh_Hant\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8-bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.17\n"
 
 #: game/story/introduction.dialogue
 msgctxt "intro_90fcefcc"
@@ -18211,7 +18216,7 @@ msgstr "沒事，告訴我吧！"
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_8dc5c85a"
 msgid "[speed=5]80 000 000 ¥..."
-msgstr "{cps=5}80,000,000円...{/cps}"
+msgstr "[speed=5]80,000,000円..."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_76ba1dec"
