@@ -107,14 +107,20 @@
 #
 # FIRST AUTHOR < EMAIL @ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
+"PO-Revision-Date: 2023-11-17 20:17+0000\n"
+"Last-Translator: Aleksandr <aleksandr-tugai@mail.ru>\n"
+"Language-Team: Russian <https://translations.teot-studio.com/projects/"
+"goodbye-eternity/game-translation/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8-bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.17\n"
 
 #: game/story/introduction.dialogue
 msgctxt "intro_90fcefcc"
@@ -1781,7 +1787,7 @@ msgstr "ДАААААААААА!"
 #: game/story/introduction.dialogue
 msgctxt "home_player_room_284a0088"
 msgid "[font_size=20]Mon chéri, tout va bien ? Tu as fait un cauchemar ?[/font_size]"
-msgstr ""
+msgstr "Солнышко, ты в порядке? Тебе приснился кошмар?"
 
 #: game/story/introduction.dialogue
 msgctxt "home_player_room_0e6fe023"
@@ -62078,3 +62084,10 @@ msgstr "Да, всё понятно!"
 #: game/scenes/gui/splashscreen.tscn
 msgid "Sortez-moi d'ici !"
 msgstr ""
+
+#: game/story/introduction.dialogue
+msgctxt "intro_cb62efe6"
+msgid "Ma faible constitution[w], les séjours à l'hôpital à répétition[w], la maladie[w], la solitude..."
+msgstr ""
+"Худощавое тело,[w] повторные госпитализации,[w] болезненность,[w] "
+"одиночество..."
