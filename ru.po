@@ -110,7 +110,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
-"PO-Revision-Date: 2023-11-18 16:01+0000\n"
+"PO-Revision-Date: 2023-11-20 06:34+0000\n"
 "Last-Translator: Un Atke <yanfranzzjean@gmail.com>\n"
 "Language-Team: Russian <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/ru/>\n"
@@ -169,7 +169,6 @@ msgid "Je n'ai jamais pu fonder de famille..."
 msgstr "У меня нет семьи..."
 
 #: game/story/introduction.dialogue
-#, fuzzy
 msgctxt "intro_3f5da8bf"
 msgid "Je n'ai personne qui se souviendra de moi..."
 msgstr "Всем плевать на меня..."
@@ -1795,10 +1794,9 @@ msgid "{{yasuka.n}} ?![w] Elle est encore là !?"
 msgstr "{{yasuka.n}}?![w] Она все еще жива?!"
 
 #: game/story/introduction.dialogue
-#, fuzzy
 msgctxt "home_player_room_1676875a"
 msgid "Euh... Oui, désolé {{yasuka.n}}, j'arrive dans quelques minutes !"
-msgstr "Эм... Да, прости, {{yasuka.n}}! Я сейчас приду!"
+msgstr "Эм... Д-да, прости, {{yasuka.n}}! Я сейчас приду!"
 
 #: game/story/introduction.dialogue
 msgctxt "home_player_room_582e02dd"
@@ -1872,10 +1870,9 @@ msgstr ""
 "Сначала - мне нужно пойти в [color=yellow]парк[/color], затем - в местный [color=yellow]ресторан[/color], там может найтись подработка... И в конце нужно записаться в [color=yellow]додзё[/color]!"
 
 #: game/story/home_player_saito_room.dialogue
-#, fuzzy
 msgctxt "home_player_room_1d26945b"
 msgid "Je devrais rejoindre {{yasuka.n}} dans la salle de bain."
-msgstr "Составить кампанию {{yasuka.n}} в ванной."
+msgstr "Я должен присоединиться к {{yasuka.n}} в ванной."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "t24aa40dc27"
@@ -2003,13 +2000,11 @@ msgid "[next]"
 msgstr "[next]"
 
 #: game/story/home_player_saito_room.dialogue
-#, fuzzy
 msgctxt "t6ae95b8d05"
 msgid "Dormir"
 msgstr "Спать"
 
 #: game/story/home_player_saito_room.dialogue
-#, fuzzy
 msgctxt "t14a5da0815"
 msgid "Dormir"
 msgstr "Спать"
@@ -2030,25 +2025,21 @@ msgid "Il me reste des choses à faire aujourd'hui avant d'aller dormir."
 msgstr "У меня есть дела, которые я должен сделать перед сном."
 
 #: game/story/home_player_saito_room.dialogue
-#, fuzzy
 msgctxt "tbb2b1ca43a"
 msgid "Faire venir {{noriko.n}} dans la chambre"
 msgstr "Заставь {{noriko.n}} прийти к тебе"
 
 #: game/story/home_player_saito_room.dialogue
-#, fuzzy
 msgctxt "ta5020d5d22"
 msgid "S'en aller"
-msgstr "Назад"
+msgstr "Уйти"
 
 #: game/story/home_player_corridor.dialogue
-#, fuzzy
 msgctxt "t48efb92c68"
 msgid "S'en aller"
-msgstr "Назад"
+msgstr "Уйти"
 
 #: game/story/home_player_saito_room.dialogue
-#, fuzzy
 msgctxt "t93db1deefb"
 msgid "Dormir seul"
 msgstr "Спать в одиночестве"
@@ -2059,19 +2050,16 @@ msgid "Allez, j'ai du pain sur la planche !"
 msgstr "Давай! У меня еще есть работа!"
 
 #: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
-#, fuzzy
 msgctxt "yasuka_love_sexe_repeat_53c814c7"
 msgid "Allez, j'ai du pain sur la planche !"
 msgstr "У меня дел по горло!"
 
 #: game/story/home_player_saito_room.dialogue
-#, fuzzy
 msgctxt "td200a73aae"
 msgid "Dormir avec {{asami.n}}"
 msgstr "Спать с {{asami.n}}"
 
 #: game/story/home_player_saito_room.dialogue
-#, fuzzy
 msgctxt "t9c94136cd7"
 msgid "Dormir avec {{yasuka.n}}"
 msgstr "Спать с {{yasuka.n}}"
@@ -2092,55 +2080,46 @@ msgid "Sexe avec {{yasuka.n}}"
 msgstr "Секс с {{yasuka.n}}."
 
 #: game/story/home_player_saito_room.dialogue
-#, fuzzy
 msgctxt "t95936a11b8"
 msgid "Retour"
 msgstr "Назад"
 
 #: game/story/home_player_saito_room.dialogue
-#, fuzzy
 msgctxt "t3d059beaf4"
 msgid "Retour"
 msgstr "Назад"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
-#, fuzzy
 msgctxt "t77e427bf59"
 msgid "Retour"
 msgstr "Назад"
 
 #: game/story/restaurant_interior.dialogue
-#, fuzzy
 msgctxt "t5d1fbcecac"
 msgid "Retour"
 msgstr "Назад"
 
 #: game/story/home_asami_livingroom.dialogue
-#, fuzzy
 msgctxt "t3656c2f02f"
 msgid "Retour"
 msgstr "Назад"
 
 #: game/story/home_asami_livingroom.dialogue
-#, fuzzy
 msgctxt "tdb2ae3cbd0"
 msgid "Retour"
 msgstr "Назад"
 
 #: game/story/home_asami_asami_room.dialogue
-#, fuzzy
 msgctxt "t6c1c64ba4a"
 msgid "Retour"
 msgstr "Назад"
 
 #: game/story/love_hotel_reception.dialogue
-#, fuzzy
 msgctxt "td6b8a34be2"
 msgid "Retour"
 msgstr "Назад"
 
 #: game/story/hostess_club_exterior.dialogue
-#, fuzzy
 msgctxt "tefcefacc7c"
 msgid "Retour"
 msgstr "Назад"
@@ -2176,19 +2155,16 @@ msgid "Merci mon chéri."
 msgstr "Спасибо, дорогой."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_482deeb9"
 msgid "Merci mon chéri."
 msgstr "Спасибо, солнышко."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_780d96ea"
 msgid "Merci mon chéri."
 msgstr "Спасибо, дорогой."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_8aac915e"
 msgid "Merci mon chéri."
 msgstr "Спасибо, дорогой."
@@ -2239,49 +2215,41 @@ msgid "Oui !"
 msgstr "Да!"
 
 #: game/story/home_player_saito_room.dialogue
-#, fuzzy
 msgctxt "home_player_room_c2875ad2"
 msgid "Oui !"
 msgstr "Агась!"
 
 #: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
-#, fuzzy
 msgctxt "yasuka_love_sexe_repeat_a8559f90"
 msgid "Oui !"
 msgstr "Ага!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_6c4a2977"
 msgid "Oui !"
 msgstr "Конечно!"
 
 #: game/story/park.dialogue
-#, fuzzy
 msgctxt "doggystyle_again_fa8791f1"
 msgid "Oui !"
 msgstr "Ага!"
 
 #: game/story/park.dialogue
-#, fuzzy
 msgctxt "menu_macumba_9c79e0a2"
 msgid "Oui !"
 msgstr "Да!"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
-#, fuzzy
 msgctxt "talk_yasuka_ff1d94bb"
 msgid "Oui !"
 msgstr "Ага!"
 
 #: game/story/love_hotel_reception.dialogue
-#, fuzzy
 msgctxt "love_hotel_reception_a8559f90"
 msgid "Oui !"
 msgstr "Да!"
 
 #: game/story/love_hotel_room.dialogue
-#, fuzzy
 msgctxt "love_hotel_room_6c4a2977"
 msgid "Oui !"
 msgstr "Ага!"
@@ -2317,76 +2285,64 @@ msgid "N'hésite pas à me le dire si jamais je suis trop envahissante."
 msgstr "Не стесняйся сказать, если я слишком навязчивая."
 
 #: game/story/home_player_saito_room.dialogue
-#, fuzzy
 msgctxt "sleeping_with_yasuka_saito_room_6388eb64"
 msgid "Woah, mais pourquoi tu..."
-msgstr "Ого, неужели ты..."
+msgstr "Ого, но почему ты..."
 
 #: game/story/home_player_saito_room.dialogue
-#, fuzzy
 msgctxt "sleeping_with_yasuka_saito_room_5336898e"
 msgid "N'en fais pas toute une histoire..."
-msgstr "Ой, только не надо делать слона из мухи..."
+msgstr "Ой, только не надо раздувать из мухи слона..."
 
 #: game/story/home_player_saito_room.dialogue
-#, fuzzy
 msgctxt "sleeping_with_yasuka_saito_room_651206ef"
 msgid "C'est juste qu'habituellement, je préfère dormir sans nuisette."
 msgstr "Я привыкла спать так, чтобы моё тело дышало."
 
 #: game/story/home_player_saito_room.dialogue
-#, fuzzy
 msgctxt "sleeping_with_yasuka_saito_room_9aa21c61"
 msgid "Ça ne te dérange pas ?"
 msgstr "Тебя это волнует?"
 
 #: game/story/home_player_saito_room.dialogue
-#, fuzzy
 msgctxt "sleeping_with_yasuka_saito_room_edfc0c5a"
 msgid "Si ça me dérange ? Pas du tout. J'ai juste été surpris."
 msgstr "Волнует? Нисколько. Просто удивился."
 
 #: game/story/home_player_saito_room.dialogue
-#, fuzzy
 msgctxt "sleeping_with_yasuka_saito_room_e2124d11"
 msgid "Tant mieux alors !"
 msgstr "Ну вот и хорошо!"
 
 #: game/story/home_player_saito_room.dialogue
-#, fuzzy
 msgctxt "sleeping_with_yasuka_saito_room_b92000fc"
 msgid "...Merde, j'en peux plus."
 msgstr "...Вот дерьмо, я на грани."
 
 #: game/story/home_player_saito_room.dialogue
-#, fuzzy
 msgctxt "sleeping_with_yasuka_saito_room_4e1cf904"
 msgid "Sa poitrine est pressée contre moi, je vais devenir fou."
-msgstr "Она прижалась грудью ко мне, я сойду с ума сейчас."
+msgstr "Она прижалась грудью ко мне, я cейчас с ума сойду."
 
 #: game/story/home_player_saito_room.dialogue
-#, fuzzy
 msgctxt "sleeping_with_yasuka_saito_room_863890e6"
 msgid "{{yasuka.n}}... Pourquoi tu me tortures comme ça ?"
-msgstr "{{yasuka.n}}... Ну что это такое?"
+msgstr "{{yasuka.n}}... Почему ты так мучаешь меня?"
 
 #: game/story/home_player_saito_room.dialogue
-#, fuzzy
 msgctxt "sleeping_with_yasuka_saito_room_a44fda81"
 msgid "Bien dormi, je suppose ?"
-msgstr "Хорошо ли спалось?"
+msgstr "Хорошо выспался?"
 
 #: game/story/home_player_saito_room.dialogue
-#, fuzzy
 msgctxt "sleeping_with_yasuka_saito_room_30932222"
 msgid "Oh que oui, c'est bien plus agréable de dormir ainsi..."
-msgstr "Ага, в таком виде намного привычнее спать..."
+msgstr "Ага, в таком виде намного приятнее спать..."
 
 #: game/story/home_player_saito_room.dialogue
-#, fuzzy
 msgctxt "sleeping_with_yasuka_saito_room_35214d2f"
 msgid "Et toi mon chéri ?"
-msgstr "А ты как, дорогой мой?"
+msgstr "А ты как, милый?"
 
 #: game/story/home_player_saito_room.dialogue
 #, fuzzy
@@ -2430,16 +2386,14 @@ msgid "Mmmh..."
 msgstr "Мммм..."
 
 #: game/story/home_player_saito_room.dialogue
-#, fuzzy
 msgctxt "home_player_room_ac8c155f"
 msgid "Mmmh..."
-msgstr "мххх"
+msgstr "Мххх..."
 
 #: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
-#, fuzzy
 msgctxt "home_player_yasuka_room_92f18943"
 msgid "Mmmh..."
-msgstr "мммх"
+msgstr "Мммх..."
 
 #: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
 msgctxt "spoon_with_yasuka_283c7dca"
@@ -2452,10 +2406,9 @@ msgid "Mmmh..."
 msgstr "Мммм..."
 
 #: game/story/park.dialogue
-#, fuzzy
 msgctxt "park_ac8c155f"
 msgid "Mmmh..."
-msgstr "мххх"
+msgstr "Мххх..."
 
 #: game/story/love_hotel_reception.dialogue
 msgctxt "love_hotel_sexe_with_yasuka_283c7dca"
@@ -2498,7 +2451,6 @@ msgid "Je vais bien m'occuper de toi."
 msgstr "Я хорошо позабочусь о тебе."
 
 #: game/story/home_player_saito_room.dialogue
-#, fuzzy
 msgctxt "yasuka_wake_up_saito_8c53ad96"
 msgid "Je vais bien m'occuper de toi."
 msgstr "Я о тебе позабочусь."
@@ -2544,31 +2496,26 @@ msgid "Oh mon Dieu..."
 msgstr "Боже..."
 
 #: game/story/home_player_saito_room.dialogue
-#, fuzzy
 msgctxt "sexe_asami_l_4c0a28d7"
 msgid "Oh mon Dieu..."
 msgstr "Божечки..."
 
 #: game/story/home_player_saito_room.dialogue
-#, fuzzy
 msgctxt "home_player_room_07bd6b80"
-msgid "Oh mon Dieu..."
-msgstr "Боженька..."
-
-#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
-#, fuzzy
-msgctxt "talk_yasuka_e4535e7b"
 msgid "Oh mon Dieu..."
 msgstr "Боже..."
 
 #: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
-#, fuzzy
-msgctxt "home_player_yasuka_room_1096b23c"
+msgctxt "talk_yasuka_e4535e7b"
 msgid "Oh mon Dieu..."
-msgstr "Боженька..."
+msgstr "Господи..."
 
 #: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
-#, fuzzy
+msgctxt "home_player_yasuka_room_1096b23c"
+msgid "Oh mon Dieu..."
+msgstr "Боже мой..."
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
 msgctxt "home_player_yasuka_room_913b3015"
 msgid "Oh mon Dieu..."
 msgstr "Боже..."
@@ -2579,7 +2526,6 @@ msgid "Oh mon Dieu..."
 msgstr "Божечки..."
 
 #: game/story/love_hotel_reception.dialogue
-#, fuzzy
 msgctxt "love_hotel_reception_431eb3d7"
 msgid "Oh mon Dieu..."
 msgstr "Боже мой..."
@@ -2637,22 +2583,20 @@ msgid "Ne t'en fais pas, je continuerai jusqu'à ce que tu t'endormes d'épuisem
 msgstr "Не переживай! Я буду продолжать пока ты не отрубишься!"
 
 #: game/story/home_player_saito_room.dialogue
-#, fuzzy
 msgctxt "blackmail_noriko_bj_2a00695d"
 msgid "Qu'est-ce que tu veux encore ?"
-msgstr "Ну и что тебе нужно в сей раз?"
+msgstr "Ну и что тебе нужно в этот раз?"
 
 #: game/story/coffeebar_exterior.dialogue
-#, fuzzy
 msgctxt "coffeebar_exterior_11aa6672"
 msgid "Qu'est-ce que tu veux encore ?"
 msgstr "Ну и чего ты хочешь в этот раз?"
 
 #: game/story/home_player_saito_room.dialogue
-#, fuzzy
 msgctxt "blackmail_noriko_bj_a5360e52"
 msgid "Je pensais que tu avais compris, mais j'attendais peut-être trop de toi."
-msgstr "Я ожидал, что ты будешь более понятливой, похоже, что я переоценил тебя."
+msgstr ""
+"Я ожидал, что ты будешь более понятливой, похоже, что я переоценил тебя."
 
 #: game/story/home_player_saito_room.dialogue
 #, fuzzy
@@ -2661,7 +2605,6 @@ msgid "...Tu veux encore que je te suce, c'est ça ?"
 msgstr "...Ты хочешь, чтобы я опять отсосала тебе?"
 
 #: game/story/home_player_saito_room.dialogue
-#, fuzzy
 msgctxt "blackmail_noriko_bj_bf31bd63"
 msgid "Je retire ce que je viens de dire."
 msgstr "Беру назад свои слова, молодец."
@@ -2772,7 +2715,6 @@ msgid "C'est un peu mieux que la dernière fois."
 msgstr "Да, действительно получше, чем в прошлый раз."
 
 #: game/story/home_player_saito_room.dialogue
-#, fuzzy
 msgctxt "blackmail_noriko_bj_02e06eaf"
 msgid "Mmmm, mmmh, mmmmmmmh..."
 msgstr "хмммммм, мхххмхмм, мххххмхмххммм"
