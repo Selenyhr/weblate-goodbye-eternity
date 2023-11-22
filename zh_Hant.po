@@ -112,7 +112,7 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-07 19:57+0100\n"
-"PO-Revision-Date: 2023-11-20 06:34+0000\n"
+"PO-Revision-Date: 2023-11-23 22:56+0000\n"
 "Last-Translator: jinjay <arsoon999@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <https://translations.teot-studio.com/"
 "projects/goodbye-eternity/game-translation/zh_Hant/>\n"
@@ -136,7 +136,7 @@ msgstr "現在，我的身體就像是一座血肉之牢。"
 #: game/story/introduction.dialogue
 msgctxt "intro_cb62efe6"
 msgid "Ma faible constitution[w], les séjours à l'hôpital à répétition[w], la maladie[w], la solitude..."
-msgstr "虛弱的體質，[w] 讓我成了醫院的常客，[w] 陪伴我的只有病痛，[w] 和孤獨..."
+msgstr "虛弱的身體，[w] 讓我成了醫院的常客，[w] 陪伴我的只有病痛，[w] 和孤獨..."
 
 #: game/story/introduction.dialogue
 msgctxt "intro_0ada2bb6"
@@ -156,12 +156,12 @@ msgstr "被虐待..."
 #: game/story/introduction.dialogue
 msgctxt "intro_8cb9c58e"
 msgid "Exploité tout au long de sa vie."
-msgstr "打我記事以來便是如此。"
+msgstr "從我懂事以來便是如此。"
 
 #: game/story/introduction.dialogue
 msgctxt "intro_0a865c4d"
 msgid "Je n'ai jamais voulu de cette vie !"
-msgstr "這從不是我想要的人生！"
+msgstr "這不是我想要的人生！"
 
 #: game/story/introduction.dialogue
 msgctxt "intro_562bbe14"
@@ -2816,7 +2816,7 @@ msgstr "證明給我看。"
 #: game/story/home_player_saito_room.dialogue
 msgctxt "t1787126215"
 msgid "Prendre les choses en main."
-msgstr "Prendre les choses en main."
+msgstr "我來主導。"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "sexe_asami_l_40d64a8e"
@@ -2931,7 +2931,7 @@ msgstr "試試後面...？"
 #: game/story/home_player_saito_room.dialogue
 msgctxt "tc7fccc7dd7"
 msgid "Je n'attendais que ça."
-msgstr "Je n'attendais que ça."
+msgstr "我就等著這個呢。"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "sexe_asami_l_c5cc7f09"
@@ -2986,7 +2986,7 @@ msgstr "我好喜歡！"
 #: game/story/home_player_saito_room.dialogue
 msgctxt "t842a808256"
 msgid "Pas cette fois-ci."
-msgstr "Pas cette fois-ci."
+msgstr "這次就算了吧。"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "sexe_asami_l_8345ef06"
@@ -2996,7 +2996,7 @@ msgstr "你想再做一次嗎？"
 #: game/story/home_player_saito_room.dialogue
 msgctxt "t8ea5791392"
 msgid "Se laisser faire."
-msgstr "Se laisser faire."
+msgstr "讓她主導。"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "sexe_asami_l_64a06227"
@@ -3131,17 +3131,17 @@ msgstr "你還想繼續做嗎？"
 #: game/story/home_player_saito_room.dialogue
 msgctxt "t6975cd7d15"
 msgid "Oh que oui !"
-msgstr "Oh que oui !"
+msgstr "哦耶！"
 
 #: game/story/home_asami_exterior.dialogue
 msgctxt "home_asami_exterior_867c1f4b"
 msgid "Oh que oui !"
-msgstr "Oh que oui !"
+msgstr "哦耶！"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "t81798b50c6"
 msgid "J'ai eu mon compte."
-msgstr "J'ai eu mon compte."
+msgstr "我不行了。"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "sexe_asami_l_799b75ab"
@@ -3316,7 +3316,7 @@ msgstr "我必須得想辦法進入[color=yellow]惡魔的巢穴...[/color]"
 #: game/story/home_player_saito_room.dialogue
 msgctxt "t57126a6dfd"
 msgid "Vous récupérez le baladeur MP3."
-msgstr "Vous récupérez le baladeur MP3."
+msgstr "你拿回了MP3播放器。"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_3d76fd1f"
@@ -3579,7 +3579,6 @@ msgid "Mais..."
 msgstr "可是..."
 
 #: game/story/bus_stop.dialogue
-#, fuzzy
 msgctxt "bus_stop_a6a070f1"
 msgid "Mais..."
 msgstr "可是..."
@@ -4160,6 +4159,7 @@ msgid "Je dois continuer malgré tout..."
 msgstr "但我還是得必須堅持下去..."
 
 #: game/story/home_player_saito_room.dialogue
+#, fuzzy
 msgctxt "halteres_2701e0eb"
 msgid "Après une ou deux séances de plus, je pense que le chef changera d'avis..."
 msgstr "估計再來一兩次訓練，{{chef.n}}就會對我刮目相看的..."
@@ -9347,7 +9347,7 @@ msgstr "下次你再想進{{saito.n}}的房間或者其他任何房間之前，�
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_76b34df1"
 msgid "Est-ce que je me suis bien fait comprendre {{noriko.n}} ?"
-msgstr "聽明白了嗎？"
+msgstr "聽明白了嗎？ {{noriko.n}} ?"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "home_player_exterior_31e6421f"
@@ -10439,7 +10439,7 @@ msgstr "在和幫派成員和小混混相處了幾個星期後..."
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_efd35198"
 msgid "{{noriko.n}} avait été retrouvé morte gisant dans le canal, mais les choses ne semblent pas prendre cette tournure cette fois-ci."
-msgstr "{{noriko.n}}被發現死在運河里，但這次事情似乎不是這樣發展的。"
+msgstr "{{noriko.n}}被發現死在運河里，但這次事件似乎不是這樣發展的。"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_63c16f36"
@@ -10464,62 +10464,62 @@ msgstr "那段時光依然模糊不清。"
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_3e47783e"
 msgid "Je ne sais pas, ça remonte à l'enfance."
-msgstr ""
+msgstr "我也不知道。這要追溯到我小時候。"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_3891b73f"
 msgid "Si je veux éclaircir certaines zones d'ombre, je dois en discuter avec elle."
-msgstr ""
+msgstr "如果要解開誤會，我需要和她談談。"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_72809251"
 msgid "Très bien, je t'attends ici."
-msgstr ""
+msgstr "好吧，我在這裡等你。"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_2c32dd10"
 msgid "Quoi, tu veux que j'y aille maintenant ?"
-msgstr ""
+msgstr "什麽，你想讓我現在就過去？"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_47e06c5a"
 msgid "Pourquoi attendre ? Si tu as l'opportunité d'arranger les choses, fais-le dès que tu en as l'occasion."
-msgstr ""
+msgstr "你在等什麼？如果有機會補救，就應該速戰速決。"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_3669166f"
 msgid "... Okay mais je suis à peu près sûr qu'elle ne sera pas receptive."
-msgstr ""
+msgstr "…好吧，但我肯定她沒辦法釋懷。"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_d6a4e50a"
 msgid "Tu dois continuer d'essayer."
-msgstr ""
+msgstr "不管怎樣，你都必須繼續嘗試。"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_482eab7c"
 msgid "Ne baisse pas les bras, montre-lui que le nouveau {{saito.n}} n'abandonne pas !"
-msgstr ""
+msgstr "不要放棄，讓她看看新的{{saito.n}}是不會放棄的！"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_8376a6f1"
 msgid "Tu me le promets ?"
-msgstr ""
+msgstr "你能答應我嗎?"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_d1a0e8c3"
 msgid "Je te le promets, je n'ai pas envie de te décevoir !"
-msgstr ""
+msgstr "我答應你，我不會讓你失望的!"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_0ff73eec"
 msgid "Alors ! Depêche-toi !"
-msgstr ""
+msgstr "所以呢?!還不快點!"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "menu_asami_room_waiting_8cf365c8"
 msgid "Alors ? Vu ta tête, j'ai pas l'impression que ça se soit bien passé."
-msgstr ""
+msgstr "怎麽樣？從你的表情來看，我猜不太順利。"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "menu_asami_room_waiting_37707ae2"
@@ -10559,7 +10559,7 @@ msgstr "但我猜你不記得了?"
 #: game/story/home_player_saito_room.dialogue
 msgctxt "menu_asami_room_waiting_cb68d3e2"
 msgid "Tu es irrécupérable, c'est pour ça qu'elle t'en veut !"
-msgstr "你沒救了，所以她才生你的氣啊!"
+msgstr "你沒救了，就是這樣她才生你的氣啊!"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "menu_asami_room_waiting_a18b35aa"
@@ -10589,17 +10589,17 @@ msgstr "讓你冷靜思考吧…"
 #: game/story/home_player_saito_room.dialogue
 msgctxt "menu_asami_room_waiting_d5164798"
 msgid "Je suis certaine que si je traîne dans les parages tu auras autre chose en tête."
-msgstr ""
+msgstr "我敢肯定，如果我在你身邊，你會有雜念。"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "menu_asami_room_waiting_3f75ebba"
 msgid "N'est-ce pas mon petit poney ?"
-msgstr ""
+msgstr "對吧，我的小馬？"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "t6d44461e5a"
 msgid "C'est pas faux."
-msgstr ""
+msgstr "你說得有道理。"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "menu_asami_room_waiting_4d5b70d7"
@@ -10609,12 +10609,12 @@ msgstr "至少你很誠實!"
 #: game/story/home_player_saito_room.dialogue
 msgctxt "t5152b3933e"
 msgid "Pas du tout, je suis un garçon sérieux !"
-msgstr ""
+msgstr "當然不是，我是個正經的男子！"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "menu_asami_room_waiting_5f82d70c"
 msgid "Mais quel menteur !"
-msgstr ""
+msgstr "真是個騙子!"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "menu_asami_room_waiting_f5709729"
@@ -10634,7 +10634,7 @@ msgstr "全靠你了!"
 #: game/story/home_player_saito_room.dialogue
 msgctxt "menu_asami_room_waiting_1d4ad3b3"
 msgid "Et ne tarde pas trop car moi aussi j'ai besoin de ma dose quotidienne de {{saito.n}}."
-msgstr "別耽擱太久，因為我也每天需要 {{saito.n}}。"
+msgstr "別耽擱太久，因為我也每天需要{{saito.n}}。"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "menu_asami_room_waiting_c6ce6998"
@@ -10704,102 +10704,102 @@ msgstr "這就是那個垃圾睡覺的地方..."
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_4dee3107"
 msgid "Rien que de voir ça j'ai déja un million d'idées sur comment je pourrais faire de sa vie un enfer."
-msgstr ""
+msgstr "光是看到這裡的環境，讓我很好奇他是怎麼把自己搞得一團糟的?"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_136e4665"
 msgid "Ne touche à rien ! Je n'ai pas envie d'avoir des problèmes."
-msgstr ""
+msgstr "什麼都別碰，我不想惹任何麻煩。"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_7cd7a7ef"
 msgid "Mais c'est justement ça qui est bien, tu n'auras plus de problèmes dorénavant."
-msgstr ""
+msgstr "但好在從現在起你不會再有任何問題了。"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_6397bb0c"
 msgid "Par contre faut que tu y mettes du tien."
-msgstr ""
+msgstr "但你必須盡力而為。"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_13f22f9f"
 msgid "Je sais... mais..."
-msgstr ""
+msgstr "我知道…但是…"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_996a7e14"
 msgid "Allez arrête de parler et commence par me sucer, je commence à en avoir marre d'attendre."
-msgstr ""
+msgstr "好了，別多說了，開始口吧 我等得不耐煩了。"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_c7f5865e"
 msgid "Il est grand temps que quelqu'un fasse quelque chose dans cette chambre."
-msgstr ""
+msgstr "是時候在這個房間做點什麽了。"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_f756ce08"
 msgid "Je suis sûr que ce puceau passe son temps à se branler et rien d'autre."
-msgstr ""
+msgstr "我敢肯定，這個處女把時間都花在自慰上，什麽也沒做。"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_05c569e8"
 msgid "...Non ![w] Pas ici, pas dans sa chambre !"
-msgstr ""
+msgstr "……不！[w] 不在這裡，不在他的房間裡！"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_27e1622c"
 msgid "Putain mais tu commences à me gonfler {{noriko.n}}."
-msgstr ""
+msgstr "該死，你惹火我了，{{noriko.n}}。"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_2e7d28b6"
 msgid "Décide-toi mais me fais pas perdre mon temps !"
-msgstr ""
+msgstr "你自己決定吧，不要浪費我的時間！"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_34125a16"
 msgid "Tu veux mon aide oui ou non ?"
-msgstr ""
+msgstr "你到底需不需要我的幫忙?"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_655c5f4a"
 msgid "Je... Oui..."
-msgstr ""
+msgstr "我…需要…"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_b07e859a"
 msgid "Mais... je ne veux pas faire ça ici."
-msgstr ""
+msgstr "但…我不想在這裡，"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_831b8c0b"
 msgid "... Où dans ce cas ?"
-msgstr ""
+msgstr "…那要在哪裡?"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_b8b7bf5c"
 msgid "À l'hôtel. Personne ne nous verra ou ne nous dérangera."
-msgstr ""
+msgstr "在旅館。 不會被別人發現，也不會被人打擾。"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_85da1491"
 msgid "Parfait mais si tu te défiles, c'est terminé pour toi."
-msgstr ""
+msgstr "太棒了，但如果你退縮了，你就完了。"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_1ee210c4"
 msgid "Bonne chance à toi pour la rentrée à la fac."
-msgstr ""
+msgstr "祝你上大學後一切順利。"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_6d655cba"
 msgid "Tu vas y laisser des plumes."
-msgstr ""
+msgstr "但你可能會遇到些麻煩。"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_a93503c0"
 msgid "JE SAIS ! TU CROIS QUE JE NE SAIS PAS DÉJÀ TOUT ÇA ?!"
-msgstr ""
+msgstr "我當然知道，你以為我會不清楚嗎？"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_28219bc2"
@@ -10880,7 +10880,7 @@ msgstr "很高興認識..."
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_5547e02b"
 msgid "Sors d'ici tout de suite ! Je sais reconnaitre un menteur quand j'en vois un."
-msgstr "馬上滾出去!我一看就知道你是骗子。"
+msgstr "馬上滾出去!我一看就知道你是騙子。"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_6db88bf3"
@@ -10931,7 +10931,7 @@ msgstr "我應該去{{yasuka.n}}的房間裡見她。"
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_80de7195"
 msgid "Je ferais mieux d'aller prendre un peu d'air frais dehors."
-msgstr "我寧可到外面去呼吸呼吸新鮮空氣。"
+msgstr "我寧可到外面去呼吸新鮮空氣。"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_noriko_room_closed_3a300f9c"
@@ -10951,7 +10951,7 @@ msgstr "我不會再回去的。{{noriko.n}}會再引起一場騷動。"
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_noriko_room_closed_127b90d2"
 msgid "Évitons les effusions de sang inutiles..."
-msgstr "讓我們避免不必要的腥風血雨..."
+msgstr "讓我們避免不必要的災難..."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "t84c006c3b8"
@@ -10971,7 +10971,7 @@ msgstr "滾開，你這個寄生蟲！"
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_noriko_room_closed_66f14ba0"
 msgid "Maintenant que j'ai la paix, je vais éviter d'en rajouter."
-msgstr "現在我能過點消停日子了，我不想再有麻煩了。"
+msgstr "現在我有些空閒時間，我不想再有麻煩了。"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_noriko_room_closed_97502b55"
@@ -11046,7 +11046,7 @@ msgstr "她總是來找我麻煩。我試過找出原因，但..."
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_0b052899"
 msgid "Elle m'a toujours envoyé chier."
-msgstr "她始終和我不對付。"
+msgstr "她總是給我找麻煩。"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_e49418ab"
@@ -11216,7 +11216,7 @@ msgstr "如果我不做好準備，她會再想辦法勒索我。"
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_2075f795"
 msgid "Dans mon rêve, elle m'avait accusé de l'avoir violé et avait quitté la maison peu de temps après."
-msgstr "在我印象裡，她控訴我強姦了她，不久之後就離家出走了。"
+msgstr "在我印象裡，她指控我強姦了她，不久之後就離家出走了。"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_c9edb325"
@@ -11231,7 +11231,7 @@ msgstr "這次不一樣了，{{noriko.n}}。你休想再從我這裡奪走我的
 #: game/story/home_player_corridor.dialogue
 msgctxt "t377300f535"
 msgid "Vous avez activé l'enregistreur audio de votre tablette."
-msgstr "Vous avez activé l'enregistreur audio de votre tablette."
+msgstr "您已啟動平板電腦的錄音機。"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_c92622f5"
@@ -11256,7 +11256,7 @@ msgstr "啊操，忘了看時間了！"
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_f5542d4e"
 msgid "J'espère que {{macumba.n}} ne m'a pas attendu toute la journée..."
-msgstr "但願 {{macumba.n}}沒在那等我一整天..."
+msgstr "希望{{macumba.n}}沒在那等我一整天..."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_f5542d4e_1"
@@ -11276,7 +11276,7 @@ msgstr "我從沒想過{{noriko.n}}會做...那種事。"
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_37774e33"
 msgid "Peut-être devrais-je profiter un petit temps de cette situation, je serais curieux de voir ou tout ça va me mener."
-msgstr "也許我能利用利用這個現狀。我好奇她還會給我看些什麼..."
+msgstr "也許我該利用這個機會。我好奇她還會給我看些什麼..."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_0f41cc13"
@@ -11311,7 +11311,7 @@ msgstr "不...不會和我想的一樣，她是在自慰吧？"
 #: game/story/home_player_corridor.dialogue
 msgctxt "tce29a7c279"
 msgid "Coller son oreille contre la porte"
-msgstr "Coller son oreille contre la porte"
+msgstr "在門口偷聽"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_9a20b792"
@@ -11356,7 +11356,7 @@ msgstr "今天白天的事好像讓她打開了新世界的大門..."
 #: game/story/home_player_corridor.dialogue
 msgctxt "t0ce0489d37"
 msgid "Continuer d'écouter"
-msgstr "Continuer d'écouter"
+msgstr "繼續偷聽"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_b214b8fe"
@@ -11366,7 +11366,7 @@ msgstr "碰到這種事，這次重生也太值了！"
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_79e8986b"
 msgid "Sacrée {{noriko.n}}..."
-msgstr "這麼色的，{{noriko.n}}..."
+msgstr "也太色了，{{noriko.n}}..."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_a50ef803"
@@ -11386,7 +11386,7 @@ msgstr "操，倒是我快壓不住槍了。"
 #: game/story/home_player_corridor.dialogue
 msgctxt "t2fdaa7cd0e"
 msgid "J'ai pas que ça à faire."
-msgstr "J'ai pas que ça à faire."
+msgstr "我還有更重要的事要做。"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "talk_noriko_290f8954"
@@ -11776,7 +11776,7 @@ msgstr "你在開什麼玩笑？"
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_2519e44f"
 msgid "Tu te fiches de moi ?"
-msgstr ""
+msgstr "你在開什麼玩笑？"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_b80e0bdb"
@@ -12314,6 +12314,7 @@ msgid "VA TE FAIRE FOUTRE !"
 msgstr "操你媽！"
 
 #: game/story/home_player_hallway.dialogue
+#, fuzzy
 msgctxt "home_player_hallway_999598bf"
 msgid "VA TE FAIRE FOUTRE !"
 msgstr "去你媽的吧，{{saito.n}}！"
@@ -12741,12 +12742,12 @@ msgstr "走吧，你會發現我的房間和你的一樣酷！"
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_cabcec15"
 msgid "Où tu vas ?"
-msgstr ""
+msgstr "你要去哪裡?"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_f1b7c69f"
 msgid "Au dojo."
-msgstr ""
+msgstr "去道場。"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_48a09a2d"
@@ -12796,17 +12797,17 @@ msgstr "[font_size=14]別擔心，我會和她談談的。[/font_size]"
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_8c62971e"
 msgid "[font_size=14]Je te jure qu'il va m'entendre ![/font_size]"
-msgstr ""
+msgstr "[font_size=14]我發誓她肯定會聽進去的！[/font_size]"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_41bb8917"
 msgid "Oh-ho, problèmes à l'horizon..."
-msgstr ""
+msgstr "呃呃，麻煩要來了…"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_7fe22c7a"
 msgid "Toi !"
-msgstr ""
+msgstr "喂!"
 
 #: game/story/park.dialogue
 msgctxt "park_789d420c"
@@ -12821,102 +12822,102 @@ msgstr "是你！"
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_b1d6112b"
 msgid "Euh... quoi moi ?"
-msgstr ""
+msgstr "呃... 誰，我嗎？"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_d66dd1a0"
 msgid "Ne fais pas l'innocent ! Viens avec moi dans ta chambre, on doit discuter de certaines choses !"
-msgstr ""
+msgstr "別裝無辜了，跟我回房間去，我們得談談!"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_17c60c05"
 msgid "Merde... Qu'est ce que {{noriko.n}} lui a raconté pour qu'elle réagisse comme ça ?"
-msgstr ""
+msgstr "該死...... {{noriko.n}}跟她說了什麽，讓她有這種反應？"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_5f1806cf"
 msgid "[font_size=14]Immédiatement monsieur {{saito.n}} ![/font_size]"
-msgstr ""
+msgstr "[font_size=14]快一點!{{saito.n}}先生![/font_size]"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_790ae756"
 msgid "Oulah... se faire appeler par son prénom dans ce genre de situation, c'est rarement un bon présage."
-msgstr ""
+msgstr "哇... 在這種情況下被人直接叫本名不是什麽好兆頭。"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_f123ea5f"
 msgid "Aller, un peu de courage, surtout te laisse pas faire !"
-msgstr ""
+msgstr "來吧，拿出一點勇氣，不要退縮！"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_0ef5a782"
 msgid "Tout va bien se passer."
-msgstr ""
+msgstr "一切都會沒事的。"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_8f8013e8"
 msgid "{{noriko.n}} a changé après tout."
-msgstr ""
+msgstr "畢竟{{noriko.n}}已經變了。"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_2e128a10"
 msgid "Bordel c'était quoi ça ?!"
-msgstr ""
+msgstr "天哪，那是什麽？"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_f92b3f9f"
 msgid "Je ne l'ai jamais vue aussi énervée contre moi."
-msgstr ""
+msgstr "我從沒見過她對我這麽生氣。"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_2f3e95f6"
 msgid "Bon sang... Je perds patience à chaque fois que j'interagis avec elle."
-msgstr ""
+msgstr "該死... 每次和她交流，我都會讓我忍不住失去耐心。"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_9b0b631e"
 msgid "Les mensonges, ses liens avec {{akira.n}}..."
-msgstr ""
+msgstr "這謊言，和 {{akira.n}}有關聯..."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_1db572c1"
 msgid "Bordel mais qu'est ce que tu fous {{noriko.n}} ?!"
-msgstr ""
+msgstr "你到底在幹什麽{{noriko.n}}？"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_ef84f8d8"
 msgid "Est-ce que c'est à cause de ça que tu t'es faite tuer dans ma précédente vie ?"
-msgstr ""
+msgstr "這就是你在我前世被殺的原因嗎？"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_3e013fe5"
 msgid "Je vais devoir continuer de la suivre..."
-msgstr ""
+msgstr "我還得繼續追她…"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_cfb18e92"
 msgid "Avant qu'il ne soit trop tard."
-msgstr ""
+msgstr "以免為時已晚"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_028371ac"
 msgid "Que... Qu'est-ce qui vient de se passer là ?"
-msgstr ""
+msgstr "什麼…剛剛發生什麼事了?"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_84e218e9"
 msgid "Je... j'étais..."
-msgstr ""
+msgstr "我…我只是…"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_eba788da"
 msgid "Mais {{noriko.n}}, et..."
-msgstr ""
+msgstr "但 {{noriko.n}} 和..."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_f784edf6"
 msgid "Tout va bien ?"
-msgstr ""
+msgstr "一切都還好嗎？"
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_3467cf9f"
@@ -12931,7 +12932,7 @@ msgstr "發生什麼事了？"
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "yasuka_tenshiclub_fef83b59"
 msgid "Tout va bien ?"
-msgstr ""
+msgstr "一切都還好嗎？"
 
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_addcc383"
@@ -12941,62 +12942,62 @@ msgstr "你還好嗎？"
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_0ea7260e"
 msgid "Wow... Je ne t'avais pas entendue."
-msgstr ""
+msgstr "哇喔…蛤我剛剛沒聽見你說什麼。"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_9ec61ede"
 msgid "Tu as l'air en état de choc."
-msgstr ""
+msgstr "你看起來好像受驚了。"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_ff6c56af"
 msgid "Toi tu t'es disputé avec {{noriko.n}} !"
-msgstr ""
+msgstr "你和 {{noriko.n}}吵了一架!"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_ba8d228d"
 msgid "Je... Oui. Enfin je crois."
-msgstr ""
+msgstr "我…對，我想也是。"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_d040475a"
 msgid "{{kimochi.n}} nous attend chez lui pour faire le point sur la situation."
-msgstr ""
+msgstr "{{kimochi.n}}在他家等我們討論現況。"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_50c77354"
 msgid "Il a découvert certaines choses."
-msgstr ""
+msgstr "他發現了一些東西。"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_20901b20"
 msgid "D'accord, j'arrive tout de suite."
-msgstr ""
+msgstr "好吧，我馬上過去。"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_629da202"
 msgid "Je suis fatigué de tes petits jeux sournois {{noriko.n}}."
-msgstr ""
+msgstr "我受夠了你的鬼把戲了，{{noriko.n}}。"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_7cb79f66"
 msgid "Je sais que c'est toi qui est responsable de tout ça !"
-msgstr ""
+msgstr "我知道這一切都是你造成的！"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_df90f0b7"
 msgid "J'ai besoin de m'allonger. Tu as intérêt à te trouver une bonne excuse d'ici là..."
-msgstr ""
+msgstr "我得先躺一下， 到時候你最好找個好借口......"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_3b13464d"
 msgid "Bon sang, c'était quoi ça ?"
-msgstr ""
+msgstr "該死，到底是怎樣?"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_d4589c13"
 msgid "Merde {{noriko.n}}, pourquoi tu ne veux rien me dire ?"
-msgstr ""
+msgstr "該死的{{noriko.n}}，你為什麽都不告訴我？"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_7452d276"
@@ -13041,7 +13042,7 @@ msgstr "滾出我的房間，你這條蠢狗！"
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "t50ecbe9562"
 msgid "Il est tard, mieux vaut que je la laisse dormir."
-msgstr ""
+msgstr "很晚了，我還是讓她睡吧。"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "pc_noriko_e7719ae9"
@@ -13314,6 +13315,7 @@ msgid "C'est à moi que tu obéiras !"
 msgstr "你要服從我，聽懂了嗎？"
 
 #: game/story/home_player_noriko_room.dialogue
+#, fuzzy
 msgctxt "pc_noriko_f8001b90"
 msgid "Est-ce que je me suis bien fait comprendre cette fois-ci ?"
 msgstr "{{noriko.n}}，我說的夠清楚了嗎？"
@@ -13526,7 +13528,7 @@ msgstr "只是...我想知道{{yasuka.n}}會怎麼看待這段錄音..."
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "t3e261da450"
 msgid "Vous arrêtez l'enregistrement sous les yeux de {{noriko.n}}."
-msgstr ""
+msgstr "別再{{noriko.n}}面前錄音了。"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "home_player_noriko_room_080e5f7e"
@@ -13561,7 +13563,7 @@ msgstr "那好，首先..."
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "t6dfeb25814"
 msgid "[hint=ROUTE REJET]Donne-moi le baladeur MP3."
-msgstr ""
+msgstr "[hint=REJECT ROUTE]給我隨身聽。"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_4371f6a9"
@@ -13616,7 +13618,7 @@ msgstr "[font_size=19]明白了...[/font_size]"
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "tf77c3e2d7c"
 msgid "[hint=ROUTE CHANTAGE]Jusqu'à quel point tu ne veux pas que ça se sache {{noriko.n}} ?"
-msgstr ""
+msgstr "[hint=ROUTE CHANTAGE]你是多想保守這個秘密 {{noriko.n}}?"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_6a640c96"
@@ -14161,22 +14163,22 @@ msgstr "你完蛋了。可憐的傢伙！"
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_c4f42923"
 msgid "Je peux savoir ce que tu fais ici ?!"
-msgstr ""
+msgstr "能告訴我你在這裡做什麽嗎？"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_f047cfc4"
 msgid "Il ne me semble pas t'avoir dit que tu pouvais entrer dans ma chambre sans autorisation."
-msgstr ""
+msgstr "我不記得我跟你說過你可以不經允許就進我的房間。"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_96396a65"
 msgid "Je sais... mais si j'avais demandé tu m'aurais de toute façon dit non."
-msgstr ""
+msgstr "我知道... 但如果我問了，你肯定會拒絕的。"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_27153faa"
 msgid "Tu semble t'entendre plutôt bien avec {{asami.n}}."
-msgstr ""
+msgstr "你似乎和{{asami.n}}相處得不錯。"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_77f5ff17"
@@ -14271,12 +14273,13 @@ msgstr "{{noriko.n}}，我想成為更好的人，但如果你不告訴我為什
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_3611390a"
 msgid "VOILÀ ! Il s'agit encore de toi et de personne d'autre, il faut tout te donner, tout te dire, tout faire pour toi !"
-msgstr ""
+msgstr "夠了！一切都是因為你，與他人無關！一切都是給你的，一切都會告訴你，一切都會為"
+"你做！"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_74e47000"
 msgid "Y'A RIEN QUI CHANGE JAMAIS AVEC TOI !"
-msgstr ""
+msgstr "你什麼都沒變!"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_bbdc0057"
@@ -14286,7 +14289,7 @@ msgstr "你甚至不記得..."
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_d0a9f7cc"
 msgid "Me souvenir ?"
-msgstr ""
+msgstr "記得嗎?"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_a7c19159"
@@ -14316,202 +14319,202 @@ msgstr "你今天在做什麼？"
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_c9abca40"
 msgid "Que... En quoi ça te regarde ?"
-msgstr ""
+msgstr "什麽... 關你什麽事？"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_1b2d6437"
 msgid "Ça me regarde dans le sens où tu prétends avoir passé la journée avec {{asami.n}} alors que ce n'est pas le cas."
-msgstr ""
+msgstr "這與我無關，因為你說你與{{asami.n}}共度了一天，但事實並非如此。"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_6bbac01e"
 msgid "... Et alors ? Je n'avais pas envie de rendre des comptes à ma mère."
-msgstr ""
+msgstr "……那又怎樣？ 我不想告訴我媽。"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_35039d06"
 msgid "Je ne comprends et ne supporte plus ces étranges animosités que tu as envers moi."
-msgstr ""
+msgstr "我無法理解你對我特別的敵意，我再也受不了了。"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_0395eddb"
 msgid "Je ne sais pas ce que j'ai pu te faire pour qu'on en arrive là, mais j'aimerais comprendre."
-msgstr ""
+msgstr "我不知道我對你做了什麽，會讓事情變成這樣，但我想理解你。"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_f3655e6b"
 msgid "Si tu te préoccupais un peu plus de toi et moins de moi on n'en serait pas là !"
-msgstr ""
+msgstr "如果你多關心一點你自己，少來管我，我們就不會在這裡了！"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_d7b86515"
 msgid "Attention à toi {{noriko.n}}. Je veux bien être gentil, mais je ne suis plus le garçon docile sur lequel tu pouvais marcher."
-msgstr ""
+msgstr "給我注意點，{{noriko.n}} 我願意和你好好相處，但我不再是那個溫順的小男孩了。"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_499d7d45"
 msgid "Tout ce que j'essaie de faire c'est de comprendre pourquoi on en arrive là aujourd'hui."
-msgstr ""
+msgstr "我的所作所為只是想要理解我們為什麽會走到今天這一步。"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_9b26c03c"
 msgid "Je sais que tu me caches des choses, et crois-moi je finirai par les découvrir."
-msgstr ""
+msgstr "我知道你有事瞞著我，相信我，我會查出來的。"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_f2c92a0a"
 msgid "... Va... va-t-en ! Laisse-moi tranquille. Ne t'occupe pas de mes affaires."
-msgstr ""
+msgstr "... 走... 走開，別煩我，別多管閒事。"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_01bf2617"
 msgid "On n'en restera pas là."
-msgstr ""
+msgstr "這事還沒完！"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_cfaa5842"
 msgid "Bonne soirée."
-msgstr ""
+msgstr "午安。"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_f772442c"
 msgid "Bon ça suffit les conneries, maintenant tu vas t'expliquer !"
-msgstr ""
+msgstr "好了，廢話少說，現在你要自己解釋一下了!"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_feea393d"
 msgid "Pourquoi tu es complètement à poil d'ailleurs ?"
-msgstr ""
+msgstr "順便一提，你為什麼全裸?"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_f29a8032"
 msgid "T'es en train de me rendre complètement fou."
-msgstr ""
+msgstr "你快把我逼瘋了"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_1fcf040e"
 msgid "Je sais pas à quel jeu tu joues mais..."
-msgstr ""
+msgstr "我不知道你在玩什麼遊戲，但..."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_21ed9f39"
 msgid "Tu vas me punir ?"
-msgstr ""
+msgstr "你打算懲罰我嗎？"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_40121d8e"
 msgid "Oui je vais te... Attends quoi ?"
-msgstr ""
+msgstr "是的，我要... 等等，什麼？"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_a6b8a84e"
 msgid "Prouve-le !"
-msgstr ""
+msgstr "證明給我看!"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_01de4c42"
 msgid "Bordel de...[w] Mais... mais de quoi tu parles ?"
-msgstr ""
+msgstr "該死的......但，你在說什麼？"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_d83c5729"
 msgid "Tu crois que tout ceci n'est qu'une vaste plaisanterie pour toi ?"
-msgstr ""
+msgstr "這一切對你來說只是個笑話嗎？"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_b4651e0d"
 msgid "Donc... tu ne me puniras pas ? Tu te dégonfles ?"
-msgstr ""
+msgstr "所以......你不打算懲罰我？你退縮了？"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_befd0cab"
 msgid "Quoi ?! Mais... putain {{noriko.n}} !"
-msgstr ""
+msgstr "什麽？但是... 該死， {{noriko.n}}!"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_44fc70a1"
 msgid "Tu crois que je ne te sauterai pas dessus ?"
-msgstr ""
+msgstr "你以為我不會撲上去嗎？"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_910623fe"
 msgid "Visiblement non... il semblerait que tu sois seulement une grande bouche..."
-msgstr ""
+msgstr "肯定不會... 看來你只是說說而已......"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_daef296a"
 msgid "J'attends toujours..."
-msgstr ""
+msgstr "我還在等…"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_ae4363f2"
 msgid "Je vais le faire."
-msgstr ""
+msgstr "我要上了喔。"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_b1602e4c"
 msgid "Alors vas-y !"
-msgstr ""
+msgstr "那就上阿!"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_68172d73"
 msgid "Je ne plaisante pas !"
-msgstr ""
+msgstr "我沒再跟你開玩笑喔!"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_356a5fed"
 msgid "J'attends encore..."
-msgstr ""
+msgstr "我還在等…"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_d20fe92e"
 msgid "... Très bien si c'est ce que tu souhaites."
-msgstr ""
+msgstr "…好吧，如果這是你想要的。"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_988c494f"
 msgid "Dégage de ma chambre maintenant !!!"
-msgstr ""
+msgstr "滾出我的房間!"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_56609df8"
 msgid "Bordel mais pourquoi t'es encore à poil ?"
-msgstr ""
+msgstr "媽的，你怎麽還沒穿衣服？"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_847cdc2c"
 msgid "Je t'attendais !"
-msgstr ""
+msgstr "我還在等你!"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_ea095bd7"
 msgid "Quoi ?! Mais bordel, je ne veux pas jouer à ton petit jeu j'aimerais juste..."
-msgstr ""
+msgstr "什麽？該死，我不想和你玩這些小把戲，我只想..."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_476f4808"
 msgid "Je le savais tu t'es dégonflé..."
-msgstr ""
+msgstr "我就知道，你不敢的…"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_6a1ae8b4"
 msgid "Non ! Non non non et non ! Tu ne m'auras pas une seconde fois comme ça !"
-msgstr ""
+msgstr "不！不不不，你不會再這樣對我了!"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_a5469489"
 msgid "C'est dommage... j'avais bien aimé moi..."
-msgstr ""
+msgstr "那真是太遺憾了，我很享受這樣…"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_8784c6cc"
 msgid "...[w] Bordel."
-msgstr ""
+msgstr "...[w] 該死。"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_8e500ab0"
 msgid "Donc tu te dégonfles... c'est bien ce que je disais."
-msgstr ""
+msgstr "和我說得一樣…你沒這個膽，"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_2209c0e1"
@@ -14526,37 +14529,37 @@ msgstr ""
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_8fbd428b"
 msgid "Okay stop ! C'est du sauvage que tu veux ?"
-msgstr ""
+msgstr "好了!別說了!你想要狂野一點？"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_41f629b5"
 msgid "Pas de problème ! Mais après on va discuter toi et moi !"
-msgstr ""
+msgstr "沒問題 ，不過之後，我們得談談!"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_e5584940"
 msgid "Maintenant que tu as eu ce que tu voulais..."
-msgstr ""
+msgstr "現在你已經得到了你想要的..."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_901837ca"
 msgid "Je veux des explications."
-msgstr ""
+msgstr "我需要一個解釋。"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_3e32a7a6"
 msgid "Je sais que tu as payé les thugs pour qu'ils viennent me tabasser."
-msgstr ""
+msgstr "我知道是你付錢讓那些暴徒打我的。"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_ed15802e"
 msgid "Je sais également que tu fais ça depuis longtemps."
-msgstr ""
+msgstr "我還知道，你已經做了很長時間。"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_f3f8be00"
 msgid "Je ne m'énerverai pas... J'aimerais juste comprendre."
-msgstr ""
+msgstr "我不會生氣... 我只是想了解。"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_c12e5234"
@@ -21221,52 +21224,52 @@ msgstr ""
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_6e116a1d"
 msgid "Elle a pris son argent de poche et est partie tôt ce matin."
-msgstr ""
+msgstr "她今天一大早就帶著零用錢離開了。"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_5856191c"
 msgid "Elle est déjà partie ?"
-msgstr ""
+msgstr "她已經走了?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_6f2f17e4"
 msgid "Oui pourquoi, est-ce qu'il y a un problème ?"
-msgstr ""
+msgstr "是的，怎麼了嗎？有問題嗎？"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_27601264"
 msgid "Non non, j'essaierai de la rattraper. Tu sais où elle allait ?"
-msgstr ""
+msgstr "沒什麼，我會試著追上她的 你知道她要去哪嗎？"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_8837d170"
 msgid "Elle a dit qu'elle rejoignait {{asami.n}} en ville pour une journée shopping avec elle."
-msgstr ""
+msgstr "她說她要和{{asami.n}}一起去鎮上購物。"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_50213d89"
 msgid "Bordel, la voilà qui recommence ses magouilles."
-msgstr ""
+msgstr "該死，她又開始耍花招了。"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_59fbc03a"
 msgid "Qu'est-ce qu'elle est en train de préparer ?"
-msgstr ""
+msgstr "她現在又在密謀什麽？"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_7345d539"
 msgid "Tout se passe bien avec {{noriko.n}} ?"
-msgstr ""
+msgstr "和{{noriko.n}}的一切都順利嗎？"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_f99847aa"
 msgid "J'y travaille et je pense que nous verrons bientôt {{noriko.n}} sourire de nouveau."
-msgstr ""
+msgstr "我正在努力，我想我們很快就能看到{{noriko.n}}再次微笑。"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_e2f6123a"
 msgid "Je savais bien que je pouvais compter sur toi."
-msgstr ""
+msgstr "我就知道我可以指望你。"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_dba3bf28"
@@ -21321,62 +21324,62 @@ msgstr ""
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_bc15dea5"
 msgid "Je vais la retrouver, il ne lui arrivera rien."
-msgstr ""
+msgstr "我會找到她的，她不會有事的。"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_69d82c4d"
 msgid "Tu as une idée de l'endroit où elle pourrait être allée ?"
-msgstr ""
+msgstr "你知道她可能會去那裡嗎？"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_74b78344"
 msgid "Je crois qu'il a parlé d'un hôtel en centre-ville..."
-msgstr ""
+msgstr "我記得他說過市中心的一家旅館..."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_5185bb71"
 msgid "C'est probablement le love hotel !"
-msgstr ""
+msgstr "可能是愛情旅館!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_5f0d4639"
 msgid "Je t'en prie, empêche {{noriko.n}} de faire quelque chose qu'elle pourrait regretter !"
-msgstr ""
+msgstr "拜託去阻止{{noriko.n}}做她會後悔的事！"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_106ea3e2"
 msgid "Et fais attention à toi surtout, je ne supporterais pas s'il t'arrivait quelque chose à toi aussi."
-msgstr ""
+msgstr "你要特別小心，如果你也出了什麽事，我可承受不了。"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_5b475c98"
 msgid "Tout ira bien, je ne suis plus le même qu'avant."
-msgstr ""
+msgstr "一切都會沒事的。我已經不是以前的我了。"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_15500ec7"
 msgid "{{noriko.n}} ma chérie, je suis tellement désolée..."
-msgstr ""
+msgstr "{{noriko.n}}，親愛的，我很抱歉..."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_4cafc087"
 msgid "Je suis si heureuse que tu ailles bien."
-msgstr ""
+msgstr "我很高興你沒事。"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_dc66d931"
 msgid "Mais... vous rentrez ensemble ?!"
-msgstr ""
+msgstr "但是……你們要一起回來嗎?!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_ba7acfca"
 msgid "Oui maman ne t'inquiète plus, {{saito.n}} et moi avons enfin fait la paix."
-msgstr ""
+msgstr "好的，媽媽！ 不用擔心。 {{saito.n}} 和我終於和好了。"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_b4839780"
 msgid "Je suis désolée d'avoir été aussi odieuse pendant toutes ces années."
-msgstr ""
+msgstr "對不起，這些年來我一直很討人厭。"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_60eab4e4"
@@ -21457,67 +21460,67 @@ msgstr "我又不是白癡…[w]你以為我聽不到你晚上在房間裡的聲
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_1382305a"
 msgid "Si tu le savais, pourquoi me le demander ?"
-msgstr ""
+msgstr "如果你知道，何必問我？"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_88e97b98"
 msgid "... Je voulais l'entendre de ta bouche."
-msgstr ""
+msgstr "……我想從你口中聽到。"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_6f2a9f74"
 msgid "... Oui, c'est arrivé plusieurs fois."
-msgstr ""
+msgstr "……對，這樣的事情發生過好幾次了。"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_1fe8d940"
 msgid "Et {{asami.n}} est au courant ?"
-msgstr ""
+msgstr "{{asami.n}}知道嗎？"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_766c09de"
 msgid "... Oui, aussi."
-msgstr ""
+msgstr "…對，她也知道。"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_83ddc671"
 msgid "Sérieux ?! Et elle laisse faire ?"
-msgstr ""
+msgstr "真的假的?她就任由這種事情發生?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_d04df73b"
 msgid "Aussi incroyable que ça puisse paraître, oui."
-msgstr ""
+msgstr "是的，儘管看起來令人難以置信。"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_e44de8d1"
 msgid "Et je pense qu'en écoutant {{yasuka.n}} lui expliquer la raison pour laquelle on en est arrivés là..."
-msgstr ""
+msgstr "我認為，聽{{yasuka.n}}解釋我們落得如此下場的原因......"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_d6dcdb2c"
 msgid "Elle s'est probablement mise à sa place."
-msgstr ""
+msgstr "也許能讓她夠設身處地地為安香著想。"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_4141febb"
 msgid "Et l'autre folle ?"
-msgstr ""
+msgstr "另一個瘋子呢?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_9ed39083"
 msgid "{{sakuya.n}} ? Elle n'est pas folle..."
-msgstr ""
+msgstr "{{sakuya.n}}？ 她不是瘋子…"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_81db9706"
 msgid "Elle est juste... très passionnée."
-msgstr ""
+msgstr "她只是.....非常熱情。"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_79c16a7e"
 msgid "Si tu le dis..."
-msgstr ""
+msgstr "你說是就是吧…"
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_f63986e0"
@@ -21527,7 +21530,7 @@ msgstr "但願如此吧..."
 #: game/story/home_asami_livingroom.dialogue
 msgctxt "home_asami_livingroom_310550f0"
 msgid "Si tu le dis..."
-msgstr ""
+msgstr "你說是就是吧…"
 
 #: game/story/konbini_exterior.dialogue
 msgctxt "konbini_exterior_79c16a7e"
@@ -21537,12 +21540,12 @@ msgstr "你說不是那就不是吧..."
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_d4119381"
 msgid "Et moi ?"
-msgstr ""
+msgstr "那我呢?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_8cace5a2"
 msgid "Comment ça, toi ?"
-msgstr ""
+msgstr "什麼意思，你怎麼了?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_562b59b4"
@@ -21552,47 +21555,47 @@ msgstr "和我上床是什麽感覺？"
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_f1868cc7"
 msgid "Est-ce vraiment une conversation que tu veux avoir ?"
-msgstr ""
+msgstr "這就是你想說的嗎？"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_3a9562a6"
 msgid "Je veux savoir. Tu couches avec toutes les femmes autour de toi !"
-msgstr ""
+msgstr "我只知道，你和你身邊的每個女人都上床!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_027edc6f"
 msgid "Ne me dis pas que tu couches aussi avec la mère d'{{asami.n}} ?"
-msgstr ""
+msgstr "別告訴我你還和{{asami.n}}的母親有一腿？"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_2e0b7461"
 msgid "Quoi ?! Non, bien sûr que non !"
-msgstr ""
+msgstr "什麼?!不，當然沒有!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_0fb7578a"
 msgid "C'est elle la prochaine, c'est ça ?"
-msgstr ""
+msgstr "她會是下一個嗎？是這樣嗎？"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_a30a6352"
 msgid "T'es folle..."
-msgstr ""
+msgstr "你瘋了吧…"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_ead573fb"
 msgid "Laisse tomber. De toute façon, c'était une erreur."
-msgstr ""
+msgstr "算了吧，總之，這是個誤會。"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_6a35066c"
 msgid "Oh, que oui !"
-msgstr ""
+msgstr "喔噢!是阿!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_65d0f4dd"
 msgid "Toi et moi, ça ne se reproduira plus."
-msgstr ""
+msgstr "你和我... 這種事不會再發生了。"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_336e9fd5"
@@ -21602,7 +21605,7 @@ msgstr "完全同意。"
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_89529c4b"
 msgid "En plus, ce n'était pas si agréable que ça."
-msgstr ""
+msgstr "再說，反正也沒那麽享受。"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_c63d9825"
@@ -21792,7 +21795,7 @@ msgstr "如果你真想幫忙的話，就滾出這個家再也別回來。"
 #: game/story/home_player_hallway.dialogue
 msgctxt "t054f10dd07"
 msgid "[hint=ROUTE FEMDOM/MALEDOM]Dans tes rêves {{noriko.n}} !"
-msgstr ""
+msgstr "[hint=FEMDOM/MALEDOM ROUTE]你做夢吧, {{noriko.n}}!"
 
 #: game/story/home_player_hallway.dialogue
 msgctxt "home_player_hallway_e2efdd07"
@@ -21817,7 +21820,7 @@ msgstr "快滾！"
 #: game/story/home_player_hallway.dialogue
 msgctxt "t43dc392295"
 msgid "[hint=ROUTE REJET/CHANTAGE]Va te faire foutre {{noriko.n}} !"
-msgstr ""
+msgstr "[hint=REJECT/BLACKMAIL ROUTE]我去你的!{{noriko.n}}!"
 
 #: game/story/home_player_hallway.dialogue
 msgctxt "home_player_hallway_25d48ba9"
@@ -22142,7 +22145,7 @@ msgstr "算了，無所謂。"
 #: game/story/dojo_exterior.dialogue
 msgctxt "dojo_exterior_7c63a583"
 msgid "Si tu le dis."
-msgstr ""
+msgstr "你說的對。"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "talk_chiaki_50200393"
@@ -22335,7 +22338,7 @@ msgstr "{{noriko.n}}，你走開！"
 #: game/story/home_player_exterior.dialogue
 msgctxt "t5d6eae1f92"
 msgid "[hint=ROUTE REJET/CHANTAGE]Menacer"
-msgstr ""
+msgstr "[hint=REJECT/BLACKMAIL ROUTE]表現氣勢洶洶"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "home_player_exterior_40a58231"
@@ -22405,12 +22408,12 @@ msgstr "我得留意下她，希望她不要做什麼蠢事。"
 #: game/story/home_player_exterior.dialogue
 msgctxt "t91f4a1e93e"
 msgid "[hint=ROUTE MALEDOM]Intimider"
-msgstr ""
+msgstr "[hint=ROUTE MALEDOM]令人生畏"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "t6a54a6bfd4"
 msgid "[hint=ROUTE MALEDOM]Intimider"
-msgstr ""
+msgstr "[hint=ROUTE MALEDOM]令人生畏"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "home_player_exterior_761ca9eb"
@@ -22502,7 +22505,7 @@ msgstr "也許是時候讓她明白我不是個軟柿子了。"
 #: game/story/home_player_exterior.dialogue
 msgctxt "tedcafea14f"
 msgid "[hint=ROUTE FEMDOM]Négocier"
-msgstr ""
+msgstr "[hint=ROUTE FEMDOM]試著談判"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "home_player_exterior_42145185"
@@ -23197,7 +23200,7 @@ msgstr "做我男朋友吧，幫我成為一個他後悔忽視的女人。"
 #: game/story/home_player_exterior.dialogue
 msgctxt "t6d25cef1d9"
 msgid "[hint=ROUTE CORRUPTION]...Okay, comment refuser une telle proposition?"
-msgstr ""
+msgstr "[hint=ROUTE CORRUPTION]...好吧，我怎麽能拒絕這樣的提議呢？"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "home_player_exterior_eea0c563"
@@ -23267,7 +23270,7 @@ msgstr "應該是沒什麼問題，畢竟是她先提出來的。"
 #: game/story/home_player_exterior.dialogue
 msgctxt "t7eba75cd46"
 msgid "[hint=ROUTE AMOUR]Non, j'ai pas envie de servir de bouche-trou."
-msgstr ""
+msgstr "[hint=ROUTE AMOUR]不，我不想當備胎。"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "home_player_exterior_b14ef24c"
@@ -24352,12 +24355,13 @@ msgstr "等等...你從窗戶監視我多久了？"
 #: game/story/home_player_exterior.dialogue
 msgctxt "t44abc14a99"
 msgid "Hihi... Tu parles d'honnêteté mon chéri, mais... d'abord {{asami.n}} et maintenant {{yasuka.n}}."
-msgstr ""
+msgstr "嘿嘿... 親愛的，你要說誠信，但......首先是{{asami.n}}，現在又是{{yasuka."
+"n}}..."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "tda534a631a"
 msgid "Que dirait {{asami.n}} si elle savait ?"
-msgstr ""
+msgstr "如果{{asami.n}}知道了，她會怎麽說？"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "talk_sakuya_c17ff748"
@@ -24532,7 +24536,7 @@ msgstr "太感謝你了。"
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_afa36740"
 msgid "Merci infiniment."
-msgstr ""
+msgstr "非常感謝你。"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "home_player_exterior_b5be4884"
@@ -25507,37 +25511,37 @@ msgstr "開後宮嘛，呃...[w] 看來{{kimochi.n}}又要生我的氣了。"
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_6b63022a"
 msgid "Je pense que j'en apprendrais pas plus aujourd'hui."
-msgstr ""
+msgstr "我想我今天再也學不到什麽了。"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_ca242601"
 msgid "J'ai au moins pu commencer à éclaircir le problème."
-msgstr ""
+msgstr "至少我能夠開始解決問題了。"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_baacff73"
 msgid "Quelque chose s'est passé dans le parc il y a des années de ça."
-msgstr ""
+msgstr "幾年前，公園裡發生了一些事情。"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_0a369b00"
 msgid "Quelque chose qui fait qu'elle s'est totalement détournée de moi."
-msgstr ""
+msgstr "一些讓她完全不再理我的事。"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_70da40c0"
 msgid "Est-ce que j'aurais fait quelque chose d'impardonnable ?"
-msgstr ""
+msgstr "我做了什麽不可饒恕的事情嗎？"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_ee22d19d"
 msgid "Tchh.... Pourquoi je ne me souviens de rien ?"
-msgstr ""
+msgstr "嘖... 為什麽我什麽都記不起來了？"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_9e8d253e"
 msgid "Comme si... toute cette période de ma vie était floue."
-msgstr ""
+msgstr "就好像......我生命中的那段時光已經模糊不清了。"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_cd736e9a"
@@ -25572,27 +25576,27 @@ msgstr "我感覺有罪惡感是正常的嗎?"
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_ce058765"
 msgid "Ça passera t'en fais pas... Tu apprendras à apprécier cette sensation."
-msgstr ""
+msgstr "一切都會過去的，別擔心... 你會享受這種感覺的。"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_8e105af1"
 msgid "J'aime vraiment beaucoup ta maison, elle a vraiment beaucoup de charme."
-msgstr ""
+msgstr "我真的很喜歡你的房子。它很有魅力。"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_a27f0788"
 msgid "Merci, {{yasuka.n}} s'est donnée beaucoup de mal pour..."
-msgstr ""
+msgstr "謝了，{{yasuka.n}}費了一番功夫才..."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_3902e28b"
 msgid "Mais bordel vos gueules ! On est en planque pas en pique-nique !"
-msgstr ""
+msgstr "該死，閉嘴，我們是來監視的，不是來野餐的!"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_a43f6dc7"
 msgid "J'en viens de plus en plus à penser que c'était vraiment une idée d-"
-msgstr ""
+msgstr "我越來越覺得這真是個餿主意..."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_ae5259f1"
@@ -25612,17 +25616,17 @@ msgstr "我等了一上午，到頭來卻一無所獲。"
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_245bc0be"
 msgid "Je suis sûre qu'il doit être chez {{asami.n}} ou l'autre folle..."
-msgstr ""
+msgstr "我想他肯定在{{asami.n}}或另一個瘋女人那裡......"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_e9486062"
 msgid "[font_size=14]Pourquoi elle t'appelle le pervers ?[/font_size]"
-msgstr ""
+msgstr "[font_size=14]為什麼他叫你變態?[/font_size]"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_5d80cf45"
 msgid "[font_size=14]Moi j'ai bien une idée...[/font_size]"
-msgstr ""
+msgstr "[font_size=14]我有個不錯的主意...[/font_size]"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_e95ff49a"
@@ -25632,7 +25636,7 @@ msgstr "[font_size=14]......該死，停下來，集中精神！[/font_size]"
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_aa648b36"
 msgid "[font_size=14]Le peuple exige des réponses.[/font_size]"
-msgstr ""
+msgstr "[font_size=14]人們需要答案。[/font_size]"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_30906c8d"
@@ -25672,12 +25676,12 @@ msgstr "她說謊了，對吧？"
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_4f581005"
 msgid "Elle a dû dire qu'elle avait passé la journée avec ses copines ou un truc dans le genre."
-msgstr ""
+msgstr "她說今天要和她的閨蜜們在一起之類的。"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_21b9300c"
 msgid "En effet."
-msgstr ""
+msgstr "沒錯。"
 
 #: game/story/restaurant_interior.dialogue
 msgctxt "talk_sakuya_21b9300c"
@@ -25687,107 +25691,107 @@ msgstr "確實。"
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_0e3c8e42"
 msgid "Quoi ?! Mais pourquoi ?"
-msgstr ""
+msgstr "蛤?!…為什麼?"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_8233990a"
 msgid "Visiblement elle cache quelque chose. Elle a dit qu'elle avait passé toute sa journée avec toi."
-msgstr ""
+msgstr "她肯定對你有所隱瞞，她說她一整天都和你在一起。"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_52c8669a"
 msgid "{{saito.n}} s'il te plaît, laisse-moi aller lui faire un câlin ! Je ne tiens plus en place."
-msgstr ""
+msgstr "{{saito.n}}拜託讓我去抱抱她吧，我受不了了。"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_24cbdb1b"
 msgid "Non, elle le verrait sur ton visage que quelque chose ne va pas et tu finirais par craquer."
-msgstr ""
+msgstr "不行，她可能會從你臉上發現有什麼不對，最後你會崩潰的。"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_7f329100"
 msgid "Alors c'est toi qui vas t'en charger, va lui faire un câlin !"
-msgstr ""
+msgstr "那交給你來處理吧，去抱抱她!"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_acce791a"
 msgid "Non... Si je fais ça elle pourrait même me castrer."
-msgstr ""
+msgstr "不......如果我那麽做，她可能會閹了我。"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_5e1f59a5"
 msgid "Laissez-moi y aller dans ce cas, je me porte volontaire."
-msgstr ""
+msgstr "那就讓我去吧!我自願去。"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_4698549a"
 msgid "Arrête un peu de dire des conneries."
-msgstr ""
+msgstr "別說廢話了。"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_70b08a97"
 msgid "J'irai lui parler et la confronterai à ses mensonges."
-msgstr ""
+msgstr "我會去找她談談，當面揭穿她的謊言。"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_74135d2f"
 msgid "Même si elle se fâche peut-être que j'en tirerais quelque chose."
-msgstr ""
+msgstr "即使她生氣，也許我也能從中得到些什麽。"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_50f260fd"
 msgid "Si on veut que les choses avancent, on n'aura pas le choix."
-msgstr ""
+msgstr "如果我們希望事情有所進展，我們別無選擇。"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_0f9352ce"
 msgid "Je vais rentrer, tenez-moi au courant. J'ai dit que j'allais aider et je le ferai !"
-msgstr ""
+msgstr "我要回家了，記得隨時向我匯報情況，我說過我會幫忙的！"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_9e381748"
 msgid "Je sais ce que tu vas dire à son sujet mais..."
-msgstr ""
+msgstr "我知道你想說他什麼，但是..."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_75a10874"
 msgid "Ne t'en fais pas, je me fiche de cet idiot. Ce qui m'inquiète c'est {{noriko.n}}."
-msgstr ""
+msgstr "別擔心，我不在乎那個白癡。我擔心的是{{noriko.n}}。"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_16f70965"
 msgid "Je te promets qu'on trouvera le problème, d'accord ?"
-msgstr ""
+msgstr "我保證我們會解決這個問題的，好嗎？"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_4793ef5b"
 msgid "Il faut faire vite, je ne supporterais plus de la voir comme ça longtemps."
-msgstr ""
+msgstr "我們必須盡快行動，我不能再忍受她這樣下去了。"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_4f7d0a73"
 msgid "Je vais rentrer, ma mère doit m'attendre."
-msgstr ""
+msgstr "我要回家了，我媽肯定在等我。"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_75c4d25b"
 msgid "Sois prudente sur le retour."
-msgstr ""
+msgstr "路上小心。"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_b69a5fcc"
 msgid "Comme toujours !"
-msgstr ""
+msgstr "我會的!"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_b1671e86"
 msgid "Avec ça, peut-être qu..."
-msgstr ""
+msgstr "有了這些，或許..."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_3080fcdb"
 msgid "TOI !"
-msgstr ""
+msgstr "你!"
 
 #: game/story/home_minato_exterior.dialogue
 msgctxt "home_minato_exterior_f7d898cb"
@@ -25797,102 +25801,103 @@ msgstr "你！"
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_82621661"
 msgid "J'AI DEUX MOTS À TE DIRE !"
-msgstr ""
+msgstr "我有些話要對你說！"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_36e176cf"
 msgid "Eh bien alors ?! {{saito.n}} le déchet pète les plombs ?"
-msgstr ""
+msgstr "首先呢?!{{saito.n}}這個垃圾是不是瘋了？"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "t5ac66d11c5"
 msgid "VA BIEN TE FAIRE FOUTRE !"
-msgstr "VA BIEN TE FAIRE FOUTRE !"
+msgstr "去死吧!"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_3eba51df"
 msgid "Hgnnn..."
-msgstr ""
+msgstr "哼嗯…"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_a5ec6c91"
 msgid "Je te préviens {{noriko.n}} j'en ai ras le bas de tes..."
-msgstr ""
+msgstr "我警告你，{{noriko.n}} 我受夠了你的..."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_4564f99b"
 msgid "Oh tu ne pourras pas te cacher derrière {{yasuka.n}} cette fois-ci !"
-msgstr ""
+msgstr "哦，這次你可不能再躲在 {{yasuka.n}} 後面了！"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_8362b00d"
 msgid "Est-ce que ça va {{saito.n}} ?"
-msgstr ""
+msgstr "你還好嗎, {{saito.n}}?"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_a0685e03"
 msgid "Ma mere m'a racontée ce qu'il s'était passé hier soir devant le konbini."
-msgstr ""
+msgstr "我媽媽告訴了我昨晚在便利商店前發生的事。"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_60a4cdce"
 msgid "Tu aurais dû venir, je me serais occupée de toi !"
-msgstr ""
+msgstr "你應該來找我，我會照顧你的!"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_1b50c802"
 msgid "C'était pas aussi grave que ça en avait l'air... Je me suis reposé et maintenant je pète la forme !"
-msgstr ""
+msgstr "並不像看起來那麽糟糕... 我休息了一下，現在狀態很好!"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_fb85c1b3"
 msgid "C'était qui ? {{kenji.n}} ?"
-msgstr ""
+msgstr "是誰？{{kenji.n}}？"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_f9362822"
 msgid "Oui... C'était bien plus difficile qu'avec {{nobu.n}} mais au final je crois que prendre des coups assez souvent a fini par me faire gagner en endurance."
-msgstr ""
+msgstr "是啊......這比對付{{nobu."
+"n}}要難得多，但最後，我覺得經常挨打反而鍛煉了我的耐力。"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_fe7f2a05"
 msgid "Dans ce cas-là je suis immortel !"
-msgstr ""
+msgstr "那樣的話，我一定是無敵的！"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_1c2fd513"
 msgid "Vous allez me rendre folle !"
-msgstr ""
+msgstr "你快把我逼瘋了!"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_e2fad4c1"
 msgid "Alors quel est le programme du jour."
-msgstr ""
+msgstr "那麽，今天的計劃是什麽？"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_a4c9caf7"
 msgid "Je vais aller botter le cul de {{takeo.n}}."
-msgstr ""
+msgstr "我要痛扁 {{takeo.n}}一頓。"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_0906ccd4"
 msgid "Et par la même occasion je vais récupérer l'argent que tous ces connards m'ont volé depuis toutes ces années."
-msgstr ""
+msgstr "與此同時，我還要拿回這些混蛋多年來從我這偷走的所有錢。"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_c52576c3"
 msgid "Et pour {{noriko.n}} ?"
-msgstr ""
+msgstr "那 {{noriko.n}} 呢?"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_4b348165"
 msgid "Oui c'est vrai ça !"
-msgstr ""
+msgstr "對，說的沒錯!"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_31670bc3"
 msgid "Elle a des problèmes et je pense que c'est lié à {{akira.n}}."
-msgstr ""
+msgstr "她有一些問題，我認為這些事與 {{akira.n}} 有關。"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_1fbad250"
@@ -27000,7 +27005,7 @@ msgstr ""
 #: game/story/dojo_exterior.dialogue
 msgctxt "dojo_exterior_7a91f8a1"
 msgid "Putain de mytho, j'y crois pas !"
-msgstr ""
+msgstr "該死的騙子，我不相信你！"
 
 #: game/story/dojo_exterior.dialogue
 msgctxt "dojo_exterior_e4a93e43"
@@ -27010,7 +27015,7 @@ msgstr ""
 #: game/story/dojo_exterior.dialogue
 msgctxt "ta9dac06012"
 msgid "Vous avez gagné 1 000 000¥."
-msgstr "Vous avez gagné 1 000 000¥."
+msgstr "你赢了 1,000,000 日元。"
 
 #: game/story/dojo_exterior.dialogue
 msgctxt "dojo_exterior_6cf32941"
@@ -35934,7 +35939,7 @@ msgstr ""
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "yasuka_talk_noriko_maledom_30d7207e"
 msgid "Bonne chance mon chéri, je suis certaine que tu y parviendras."
-msgstr ""
+msgstr "祝你好運，親愛的。我相信你會成功的。"
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_17076e69"
@@ -36774,12 +36779,13 @@ msgstr "我最好快點。"
 #: game/story/restaurant_exterior.dialogue
 msgctxt "tc3e37b1984"
 msgid "Je dois faire mon service auprès du {{chef.n}}."
-msgstr ""
+msgstr "我必須和{{chef.n}}一起工作。"
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "tca82b2cdac"
 msgid "Il est tard, je dois aller dormir. Si je commence à travailler au [color=yellow]restaurant[/color] plus tôt, j'aurai un peu de temps libre."
-msgstr ""
+msgstr "很晚了，我還是睡覺吧。如果我早點開始在[color=yellow]餐廳[/color] "
+"工作，我就會有更多的空閒時間。"
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_62079a45"
@@ -37544,12 +37550,12 @@ msgstr "你現在不再受任何{{sakuya.n}}強加給你的限制了。你可以
 #: game/story/restaurant_interior.dialogue
 msgctxt "t1a8ffed855"
 msgid "Je dois trouver un moyen de décrocher ce job."
-msgstr ""
+msgstr "我必須想辦法得到這份工作。"
 
 #: game/story/restaurant_interior.dialogue
 msgctxt "t73472a6c9e"
 msgid "Il faut que je me concentre sur l'entraînement avec {{macumba.n}} pour décrocher ce job."
-msgstr ""
+msgstr "我必須專注於接受{{macumba.n}}的訓練，才能得到這份工作。"
 
 #: game/story/restaurant_interior.dialogue
 msgctxt "restaurant_interior_unavailable_ba815a6b"
@@ -37994,27 +38000,27 @@ msgstr "謝謝你，{{chef.n}}。"
 #: game/story/restaurant_interior.dialogue
 msgctxt "tedd640bdd1"
 msgid "Vous avez gagné {{restaurant_salary}}¥."
-msgstr ""
+msgstr "你賺了¥{{restaurant_salary}}¥"
 
 #: game/story/restaurant_interior.dialogue
 msgctxt "t86f5665b1b"
 msgid "Vous avez gagné {{restaurant_salary}}¥."
-msgstr ""
+msgstr "你賺了¥{{restaurant_salary}}¥"
 
 #: game/story/restaurant_interior.dialogue
 msgctxt "t8ea698d971"
 msgid "Vous avez gagné {{restaurant_salary}}¥."
-msgstr ""
+msgstr "你賺了¥{{restaurant_salary}}¥"
 
 #: game/story/restaurant_interior.dialogue
 msgctxt "t5e098e838d"
 msgid "Vous avez gagné {{restaurant_salary}}¥."
-msgstr ""
+msgstr "你賺了¥{{restaurant_salary}}¥"
 
 #: game/story/restaurant_interior.dialogue
 msgctxt "t53c631c1c7"
 msgid "Vous avez gagné {{restaurant_salary}}¥."
-msgstr ""
+msgstr "你賺了¥{{restaurant_salary}}¥"
 
 #: game/story/restaurant_interior.dialogue
 msgctxt "talk_chef_interior_9776430c"
@@ -40942,7 +40948,7 @@ msgstr "高興什麼？"
 #: game/story/love_hotel_exterior.dialogue
 msgctxt "love_hotel_exterior_f1fa3661"
 msgid "Pourquoi ça ?"
-msgstr ""
+msgstr "為什麼?"
 
 #: game/story/canal.dialogue
 msgctxt "canal_2655ea40"
@@ -41027,7 +41033,7 @@ msgstr "我會很樂意的！"
 #: game/story/warehouse_interior.dialogue
 msgctxt "warehouse_interior_abfc0ba2"
 msgid "Ce sera avec plaisir !"
-msgstr ""
+msgstr "我會很樂意的！"
 
 #: game/story/canal.dialogue
 msgctxt "canal_69e31164"
@@ -41037,147 +41043,148 @@ msgstr "晚安我的寶貝！"
 #: game/story/canal.dialogue
 msgctxt "canal_c125ad6e"
 msgid "J'avais oublié à quel point cet endroit était agréable..."
-msgstr ""
+msgstr "我都忘了這地方有多好了..."
 
 #: game/story/canal.dialogue
 msgctxt "canal_f877fde5"
 msgid "On en oublierait presque tous ses problèmes."
-msgstr ""
+msgstr "你幾乎可以忘記所有的煩惱。"
 
 #: game/story/canal.dialogue
 msgctxt "canal_df50909b"
 msgid "Tout va bien petit frère ?"
-msgstr ""
+msgstr "一切都好嗎，小兄弟？"
 
 #: game/story/canal.dialogue
 msgctxt "canal_f6213d3c"
 msgid "Ah, c'est {{kimochi.n}} qui t'a dit où me trouver ?"
-msgstr ""
+msgstr "啊，是{{kimochi.n}}告訴你在哪里可以找到我嗎？"
 
 #: game/story/canal.dialogue
 msgctxt "canal_2498cda3"
 msgid "Non... J'ai senti au fond de moi qu'un frère avait besoin de soutien."
-msgstr ""
+msgstr "不......我心裡有預感兄弟需要幫助。"
 
 #: game/story/canal.dialogue
 msgctxt "canal_37b1848c"
 msgid "Et me voilà !"
-msgstr ""
+msgstr "然後我就來了!"
 
 #: game/story/canal.dialogue
 msgctxt "canal_8c7e8091"
 msgid "Je le vois à ton regard petit frère."
-msgstr ""
+msgstr "我能從你的眼睛里看出來，小兄弟。"
 
 #: game/story/canal.dialogue
 msgctxt "canal_b2ad0ab0"
 msgid "Tu portes des poids bien trop lourds pour toi."
-msgstr ""
+msgstr "你身上的擔子對你來說太沉重了。"
 
 #: game/story/canal.dialogue
 msgctxt "canal_486c51c2"
 msgid "Raconte tout à {{macumba.n}}."
-msgstr ""
+msgstr "告訴 {{macumba.n}} 一切。"
 
 #: game/story/canal.dialogue
 msgctxt "canal_cc5844a6"
 msgid "Haha quelle histoire mon frère."
-msgstr ""
+msgstr "哈哈，好一個故事，我的兄弟。"
 
 #: game/story/canal.dialogue
 msgctxt "canal_854d292a"
 msgid "Je ne sais pas comment gérer cette situation, ça me dépasse."
-msgstr ""
+msgstr "我不知道該如何處理這種情況，這讓我不知道該怎辦。"
 
 #: game/story/canal.dialogue
 msgctxt "canal_48906a26"
 msgid "Et je n'ai pas envie de te demander de l'aide...[w] Si je ne résous pas ça moi-même j'ai l'impression que je ne progresserais pas."
-msgstr ""
+msgstr "我也不想尋求你的幫助......[w] "
+"如果我不自己解決這個問題，我覺得好像不會有進展。"
 
 #: game/story/canal.dialogue
 msgctxt "canal_347ff984"
 msgid "En effet, certains combats doivent être menés seul. Ils nous permettent de grandir."
-msgstr ""
+msgstr "的確，有些事情需要獨自戰鬥，因為它們能讓我們成長。"
 
 #: game/story/canal.dialogue
 msgctxt "canal_8d830b14"
 msgid "Mais si {{macumba.n}} peut te donner un conseil... N'aie pas peur d'échouer, de te tromper ou de te faire mal."
-msgstr ""
+msgstr "但如果{{macumba.n}}能給你一個建議... 不要害怕失敗、犯錯或受傷。"
 
 #: game/story/canal.dialogue
 msgctxt "canal_6843dc92"
 msgid "Chaque échec te rapproche un peu plus du moment où tu réussiras..."
-msgstr ""
+msgstr "每一次失敗都會讓你離成功越來越接近..."
 
 #: game/story/canal.dialogue
 msgctxt "canal_bfe58151"
 msgid "Ce n'est pas \"Est-ce que je vais y arriver ?\" qu'il faut se demander, mais plutôt \"Quand ?\""
-msgstr ""
+msgstr "你應該對自己說的不是 \"我做不做得到？\"，而是 \"什麽時候做？\""
 
 #: game/story/canal.dialogue
 msgctxt "canal_dc348ce1"
 msgid "Car tu y arriveras..."
-msgstr ""
+msgstr "因為你做得到的…"
 
 #: game/story/canal.dialogue
 msgctxt "canal_39984ad0"
 msgid "...[w] Comment fais-tu pour être si optimiste ?"
-msgstr ""
+msgstr "......[w]你是如何做到如此樂觀的？"
 
 #: game/story/canal.dialogue
 msgctxt "canal_93dcec64"
 msgid "Chacun sa méthode mon frère... Tu trouveras la tienne un jour."
-msgstr ""
+msgstr "我們都有自己的辦法，兄弟... 總有一天你會找到自己的。"
 
 #: game/story/canal.dialogue
 msgctxt "canal_d0e267f7"
 msgid "Ce n'est qu'une question de... temps."
-msgstr ""
+msgstr "只是…時間問題。"
 
 #: game/story/canal.dialogue
 msgctxt "canal_c47be4f6"
 msgid "Alors ça va mieux ?"
-msgstr ""
+msgstr "所以，你感覺比較好了嗎?"
 
 #: game/story/canal.dialogue
 msgctxt "canal_f290589d"
 msgid "Tu as réussi à mettre de l'ordre dans tes idées ?"
-msgstr ""
+msgstr "你整理好自己的思緒了嗎？"
 
 #: game/story/canal.dialogue
 msgctxt "canal_1068d61f"
 msgid "Je crois oui..."
-msgstr ""
+msgstr "我想是的…"
 
 #: game/story/canal.dialogue
 msgctxt "canal_f5ae7755"
 msgid "Je sais ce que je dois faire."
-msgstr ""
+msgstr "我知道我該做什麽了。"
 
 #: game/story/canal.dialogue
 msgctxt "canal_8d4df7a0"
 msgid "Avant j'avais peur...[w] Je ne connaissais pas la raison de cet acharnement."
-msgstr ""
+msgstr "在這之前，我感到害怕......[w] 我不知道他們堅持的原因。"
 
 #: game/story/canal.dialogue
 msgctxt "canal_286c9c81"
 msgid "Mais en ayant connaissance de la vérité, c'est comme si le poids sur mes épaules venait de disparaître."
-msgstr ""
+msgstr "但現在，知道真相後，我肩上的重擔仿佛消失了。"
 
 #: game/story/canal.dialogue
 msgctxt "canal_d9a6ff1a"
 msgid "Je ne me ferai plus intimider par ces trois connards."
-msgstr ""
+msgstr "我再也不會被那三個混蛋嚇倒了。"
 
 #: game/story/canal.dialogue
 msgctxt "canal_3ef832f2"
 msgid "Il ne me reste plus qu'à comprendre pourquoi {{noriko.n}} en arrive à de telles extrémités."
-msgstr ""
+msgstr "剩下的就是要理解 {{noriko.n}} 為什麽會走到如此極端。"
 
 #: game/story/canal.dialogue
 msgctxt "canal_1fc07ccc"
 msgid "En attendant..."
-msgstr ""
+msgstr "於此同時…"
 
 #: game/story/canal.dialogue
 msgctxt "canal_7e0476ea"
@@ -43591,177 +43598,179 @@ msgstr ""
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_b739d42b"
 msgid "Plus tu as d'informations sur elle, plus on pourra dresser un portrait précis de sa personnalité, de sa façon de penser."
-msgstr ""
+msgstr "你獲取她越多資訊，我們就越能了解她的性格和思維方式。"
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_1be57732"
 msgid "C'est cohérent... Alors {{saito.n}} ?"
-msgstr ""
+msgstr "有道理... 那麽，{{saito.n}}？"
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "t492e707036"
 msgid "Je... Elle regarde du porno."
-msgstr "Je... Elle regarde du porno."
+msgstr "我…她在看A片"
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_9fce4963"
 msgid "...[w] Tout ce que tu sais de {{noriko.n}} c'est qu'elle regarde du porno ?"
-msgstr ""
+msgstr "...[w]你對 {{noriko.n}} 的了解只有她會看A片？"
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "t7f13f54e25"
 msgid "Je suppose qu'elle passe son temps sur internet..."
-msgstr ""
+msgstr "我猜她把時間都花在上網了......"
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_00d0bed0"
 msgid "Non... je ne me fiche pas de toi. Cela fait des années qu'elle m'évite, me harcèle et j'en passe."
-msgstr ""
+msgstr "不......我不是在跟你開玩笑。只是她多年來一直躲著我，騷擾我等等。"
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_1f6a629d"
 msgid "Rares sont les moments où j'ai eu une conversation normale avec elle."
-msgstr ""
+msgstr "很少有機會能和她正常溝通。"
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_98481c39"
 msgid "Je pense simplement qu'elle me déteste."
-msgstr ""
+msgstr "我想單純就是討厭我。"
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_7120aa32"
 msgid "On ne déteste pas quelqu'un sans raison {{saito.n}}."
-msgstr ""
+msgstr "人不會無緣無故討厭一個人 {{saito.n}}."
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_80c098d0"
 msgid "Il a raison, quand tu as disparu à cause de {{sakuya.n}}, {{noriko.n}} a semblé vraiment inquiète."
-msgstr ""
+msgstr "他說得對，當你被{sakuya.n}}綁走的時候，{{noriko.n}}似乎真的很擔心你。"
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_53b2c94b"
 msgid "Elle m'a beaucoup aidée."
-msgstr ""
+msgstr "她幫了我很多。"
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_909130c6"
 msgid "Je... je ne savais pas."
-msgstr ""
+msgstr "我…我不清楚。"
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_393657d9"
 msgid "Tu vois ? Les choses ne sont pas aussi manichéennes, il semblerait bien qu'elle tienne un tant soit peu à toi mais pour une raison qui nous est inconnue..."
-msgstr ""
+msgstr "你看吧，事情不是非黑即白的，她某些程度還是在乎你的，只是有一些其他未知了原因"
+"，我們不清楚…"
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_f1914ee0"
 msgid "Elle ne peut pas te le montrer directement."
-msgstr ""
+msgstr "只是她不能直接對你展現。"
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_09874022"
 msgid "Finalement... tu n'as pas l'air si mauvais que ça."
-msgstr ""
+msgstr "最後... 你看起來也沒那麼糟了。"
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_0e48caf3"
 msgid "{{saito.n}} tu dois suivre {{noriko.n}} jour et nuit, nous devons tout savoir d'elle, je t'apprendrai à stalker comme un pro."
-msgstr ""
+msgstr "{{saito.n}} ，你必須從早到晚跟蹤{{noriko.n}} "
+"。我們要知道她的一切，我會教你如何像專家一樣跟蹤她。"
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_c3789aff"
 msgid "Oublie ce que je viens de dire."
-msgstr ""
+msgstr "忘了我說的話吧。"
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_0a0c785e"
 msgid "{{saito.n}} n'écoute pas cet idiot, tout ce que tu risques c'est de finir en prison."
-msgstr ""
+msgstr "{{saito.n}} 別聽這個白癡的話，這只會讓你進監獄。"
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_23e2a435"
 msgid "Il n'y a pas d'autres solutions, elle ne lui dira rien, ni à lui ou même à toi."
-msgstr ""
+msgstr "沒有其他解決辦法。她什麽不說，也不會對他說，甚至不會對你說。"
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_b688970b"
 msgid "Mais quand même... C'est un peu..."
-msgstr ""
+msgstr "但是…還是有一點…"
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_935bccad"
 msgid "{{kimochi.n}} a raison, {{noriko.n}} semble garder quelque chose pour elle depuis trop longtemps."
-msgstr ""
+msgstr "{{kimochi.n}}說得對。{{noriko.n}}似乎有什麽事憋在心裡太久了。"
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_62ff1840"
 msgid "Si ça peut m'aider à me réconcilier définitivement avec elle, je dois le tenter."
-msgstr ""
+msgstr "如果最終這能幫我與她和解，我必須試一試。"
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_29174d83"
 msgid "Enfin une petite aventure entre hommes !"
-msgstr ""
+msgstr "最後，來點男人之間的小冒險吧！"
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_ce34becf"
 msgid "Hors de question ! Je viens avec vous, hors de question de te voir corrompre mon {{saito.n}} !"
-msgstr ""
+msgstr "不行!我跟你一起去，我不能眼睜睜看著你毀了我的 {{saito.n}} !"
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_7dc6b5c7"
 msgid "{{saito.n}} dis quelque chose !"
-msgstr ""
+msgstr "{{saito.n}}, 說些什麼阿!"
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_6e385087"
 msgid "J'en dis que c'est une très bonne idée."
-msgstr ""
+msgstr "我覺得這是個好主意。"
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_b9d68f22"
 msgid "Parfait ! On commence par quoi grand maître stalker ?"
-msgstr ""
+msgstr "太棒了!我們要從哪裡開始，跟蹤大師?"
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_c7ef26d8"
 msgid "Tchhh..."
-msgstr ""
+msgstr "嘖..."
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_a49c597e"
 msgid "On campe devant chez toi et on attend qu'elle bouge."
-msgstr ""
+msgstr "我們就在你家外面埋伏，等她行動。"
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_e938a59f"
 msgid "Pfff je n'arrive pas à trouver le sommeil."
-msgstr ""
+msgstr "唉，我好像怎麽也睡不著。"
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_cdaa8c85"
 msgid "Est-ce que j'en profiterais pas pour aller me glisser dans le lit de mon petit poney ?"
-msgstr ""
+msgstr "我是不是該趁機溜到小馬的床上去？"
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_db729cbb"
 msgid "Oh ! Ça doit être lui !"
-msgstr ""
+msgstr "噢!肯定是他!"
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_c8b37d8c"
 msgid "J'espère que la situation avec {{noriko.n}} s'est enfin arrangée !"
-msgstr ""
+msgstr "我希望{{noriko.n}}的事情解決了！"
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_56f008bd"
 msgid "J'ARRIVE !"
-msgstr ""
+msgstr "我來瞜!"
 
 #: game/story/onsen_bath.dialogue
 msgctxt "talk_sakuya_2a9c4b33"
 msgid "Tu me rejoins, mon amour ?"
-msgstr "跟我來嗎，親愛的？"
+msgstr "要跟我來嗎，親愛的？"
 
 #: game/story/onsen_bath.dialogue
 msgctxt "talk_sakuya_ec072b70"
@@ -43776,7 +43785,7 @@ msgstr "我們的房間已經準備好了。"
 #: game/story/onsen_bath.dialogue
 msgctxt "t1cb60feeb9"
 msgid "Dans le bain"
-msgstr "Dans le bain"
+msgstr "在浴室裡"
 
 #: game/story/onsen_bath.dialogue
 msgctxt "talk_sakuya_08879cab"
@@ -43786,7 +43795,7 @@ msgstr "來吧，我們走。"
 #: game/story/onsen_bath.dialogue
 msgctxt "t5f0be7307b"
 msgid "Dans la chambre"
-msgstr "Dans la chambre"
+msgstr "在房間內"
 
 #: game/story/onsen_bath.dialogue
 msgctxt "talk_sakuya_06174698"
@@ -43831,7 +43840,7 @@ msgstr "喜歡嗎，親愛的？"
 #: game/story/onsen_bath.dialogue
 msgctxt "t1d69e1b89d"
 msgid "Poursuivre dans la chambre"
-msgstr "Poursuivre dans la chambre"
+msgstr "在臥室裡繼續"
 
 #: game/story/onsen_bath.dialogue
 msgctxt "onsen_room_sexe_079f9d64"
@@ -46436,12 +46445,12 @@ msgstr ""
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "home_kimochi_exterior_a4221157"
 msgid "Merde... Toute cette situation devient ingérable."
-msgstr ""
+msgstr "該死... 整個局面都失控了。"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "home_kimochi_exterior_50dd9ba0"
 msgid "J'ai besoin d'un moment pour faire le tri dans ma tête sinon elle va exploser."
-msgstr ""
+msgstr "我需要一點時間理清頭緒，否則我的頭就要炸了。"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_0fb4811d"
@@ -47146,7 +47155,7 @@ msgstr "我還是回家吧..."
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "t7b6936b408"
 msgid "Il est trop tard, je vais revenir demain."
-msgstr ""
+msgstr "很晚了，我明天再来。"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "kimochi_password_63161f74"
@@ -48436,42 +48445,42 @@ msgstr "我不會拋棄任何人的。不管是你，還是{{saito.n}}。"
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_d656c036"
 msgid "Quel plaisir de te voir ici !"
-msgstr ""
+msgstr "真高興在這裡見到你！"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_3c0b9c50"
 msgid "Je n'aurais jamais cru dire ça, mais quelque chose ne sent pas bon ici."
-msgstr ""
+msgstr "我從沒想過我會這麽說，但這裡味道有些不對勁。"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_08e1664b"
 msgid "Réalises-tu seulement le pétrin dans lequel tu m'as mis ?"
-msgstr ""
+msgstr "你知道你給我帶來了多大的麻煩嗎？"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_eff60229"
 msgid "Honnêtement... Je n'en ai aucune idée."
-msgstr ""
+msgstr "說實話…我不清楚。"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_3ef4e674"
 msgid "J'étais en train de livrer ces foutues lettres quand ces brutes m'ont agressé."
-msgstr ""
+msgstr "那些畜生襲擊我時，我正在送這些該死的信。"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_5ed797bf"
 msgid "Ils m'ont emmené à cette gare abandonnée et m'ont battu sauvagement."
-msgstr ""
+msgstr "他們把我帶到那個廢棄的車站，狠狠的揍我一頓。"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_c713680f"
 msgid "Ton ancien meilleur ami, {{minato.n}}, voulait ma peau."
-msgstr ""
+msgstr "你以前最好的朋友，{{minato.n}}，想要我的命。"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_52dc94de"
 msgid "Si {{macumba.n}} n'était pas intervenu, je serais mort à l'heure qu'il est."
-msgstr ""
+msgstr "如果{{macumba.n}}沒有過來，我現在已經死了。"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_e0ea21c4"
@@ -48611,192 +48620,192 @@ msgstr ""
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_9e4c2570"
 msgid "Mais... Pourquoi ? Ça n'a pas de sens !"
-msgstr ""
+msgstr "但是... 為什麽？這說不通啊!"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_8ed4a491"
 msgid "Ce n'est pas que ça n'a pas de sens, c'est qu'on ignore encore leur motivation."
-msgstr ""
+msgstr "不是說這不合理，而是我們還不知道他們的動機。"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_29339261"
 msgid "Il y a toujours une raison à tout."
-msgstr ""
+msgstr "凡事總有原因。"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_8fe5175e"
 msgid "Demande-toi toujours, à qui profite le crime ?"
-msgstr ""
+msgstr "自己想想，誰從這場犯罪中獲益最多？"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_42199c1b"
 msgid "Je dois quand même essayer, quoi qu'il en coûte ! La rentrée risque d'être une véritable galère sinon."
-msgstr ""
+msgstr "我還是要努力，不管付出什麽代價！否則，回到學校會很麻煩。"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_847dc98f"
 msgid "Va constater par toi-même... Ils seront là toute la journée."
-msgstr ""
+msgstr "自己去看看吧... 他們一整天都會在那裏。"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_f8dbd7ac"
 msgid "Je suis sûr qu'ils vont se lasser et seront partis."
-msgstr ""
+msgstr "我相信他們會覺得厭倦而離開。"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_b8811c82"
 msgid "... Tu vis dans le déni mon pauvre {{saito.n}}."
-msgstr ""
+msgstr "......你在拒絕相信，我可憐的{{saito.n}}。"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_6e66d5de"
 msgid "Mais... Il s'est passé quoi ici ?"
-msgstr ""
+msgstr "但是... 這裡發生了什麽事？"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_7896b311"
 msgid "Finalement j'ai écouté ton conseil."
-msgstr ""
+msgstr "最後，我接受了你的提議。"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_f618b23f"
 msgid "J'avais besoin de faire un peu de place au cas où..."
-msgstr ""
+msgstr "我需要騰出一些空間，以防萬一..."
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_6cd0a2a3"
 msgid "Au cas où quoi ? Où tu ramènerais une fille chez toi ?"
-msgstr ""
+msgstr "以防什麽？你會帶女孩回家？"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_ae5f920c"
 msgid "Pas avec cette attitude si tu veux mon avis."
-msgstr ""
+msgstr "你自己要問我的，不要用那種態度。"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_1c71c229"
 msgid "Je t'ai pas demandé ton avis toi !"
-msgstr ""
+msgstr "我沒有征求你的意見！"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_1b333e47"
 msgid "Et toi dis quelque chose, dis-nous ce que tu as appris !"
-msgstr ""
+msgstr "還有你，說點什麽吧！告訴我們你學到了什麽！"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_f247f77b"
 msgid "Vas-y doucement... Il s'est disputé avec elle ce matin et il ne s'en est pas remis !"
-msgstr ""
+msgstr "對他溫柔點... 他今天早上和她吵了一架，還沒緩和過來!"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_d0c03460"
 msgid "... Désolé {{saito.n}}. Je suis sûr que... que ça a dû être un moment désagréable."
-msgstr ""
+msgstr "對不起，{{saito.n}}。 我想......那時候肯定很不愉快。"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_9b3489df"
 msgid "On sait que tu fais de ton mieux pour arranger cette situation."
-msgstr ""
+msgstr "我們知道你正在盡最的大努力解決這個問題。"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_75cfcb9f"
 msgid "Oui {{noriko.n}} n'est pas facile à vivre..."
-msgstr ""
+msgstr "對阿，{{noriko.n}}不好相處..."
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_bde94418"
 msgid "Mais je suis certaine que tu arriveras à faire en sorte qu'elle s'ouvre a toi."
-msgstr ""
+msgstr "但我相信你一定能讓她對你敞開心扉。"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_6674a628"
 msgid "Tout ce dont elle a besoin c'est beaucoup d'amour."
-msgstr ""
+msgstr "她需要的只是滿滿的愛。"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_cdac8034"
 msgid "Je veux bien m'en occuper."
-msgstr ""
+msgstr "我很樂意處理這件事。"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_220c77e4"
 msgid "{{saito.n}} se débrouillera très bien sans toi."
-msgstr ""
+msgstr "不需要你，{{saito.n}}也能做得很好。"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_f67f064f"
 msgid "Je... Oui ! Je ferai de mon mieux !"
-msgstr ""
+msgstr "我…對!我會盡我所能!"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_fceece73"
 msgid "C'est juste que certaines choses que j'ai apprises m'ont quelque peu..."
-msgstr ""
+msgstr "只是我得知的一些事情有點..."
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_85cb0521"
 msgid "Des problèmes en vue ?"
-msgstr ""
+msgstr "有問題嗎？"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_a5a3d81d"
 msgid "Oui...[w] J'ai vu {{noriko.n}} avec les thugs..."
-msgstr ""
+msgstr "是的......[w] 我看到{{noriko.n}}和那些暴徒在一起"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_ed821f9d"
 msgid "... Oh ![w] Je vois, je vois, ça devait être difficile à voir, je comprends..."
-msgstr ""
+msgstr "......哦！我明白了，我明白了，這一定很難讓人接受......"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_b1fa10c9"
 msgid "Arrête d'imaginer des choses, qu'est ce que t'a compris exactement ?"
-msgstr ""
+msgstr "別再胡思亂想了！你到底明白了什麽？"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_184ff453"
 msgid "Qu'il... qu'il s'est fait NTR !"
-msgstr ""
+msgstr "他......他被 NTR 了！"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_7cab5c0b"
 msgid "Mais de quoi tu parles exactement ?"
-msgstr ""
+msgstr "等等，你到底在說什麽？"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_c02fa708"
 msgid "Je suis content que tu me poses la question. Alors le NTR c'est..."
-msgstr ""
+msgstr "很高興你問我這個問題。 那麼，NTR 是..."
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_e8d838cf"
 msgid "Ça suffit... Ce que j'ai vu c'est {{noriko.n}} qui demandait à ces enfoirés de me casser la gueule."
-msgstr ""
+msgstr "夠了，我看到的是{{noriko.n}}請那些混蛋打我。"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_f4a11dea"
 msgid "Et visiblement ce n'est pas la première fois et cela dure depuis longtemps..."
-msgstr ""
+msgstr "這顯然不是第一次了，而且已經持續了很長時間..."
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_fb43248e"
 msgid "Elle a même été jusqu'à payer pour ça !"
-msgstr ""
+msgstr "她甚至還為此付了錢！"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_e6d267d3"
 msgid "Donc tout ce temps où ces mecs te tombaient dessus c'était jamais véritablement le hasard ?"
-msgstr ""
+msgstr "所以一直以來，那些人攻擊你都不是偶然的？"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_747e5b17"
 msgid "C'était prémédité ?"
-msgstr ""
+msgstr "是有預謀的？"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_3f3d20d2"
 msgid "Merde alors..."
-msgstr ""
+msgstr "該死…"
 
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "hostess_club_exterior_6119a2bf"
@@ -48806,252 +48815,257 @@ msgstr "該死的，好吧..."
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_3da9457d"
 msgid "Mon amour tu es sûr de toi ? Elle n'était pas sous l'influence d'une menace ou d'autre chose qui pourrait..."
-msgstr ""
+msgstr "親愛的，你確定嗎？她沒有受到威脅或其他可能..."
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_e2b172cf"
 msgid "J'aurais préféré mais non... {{noriko.n}} a des fréquentations dont j'ignorais l'existence."
-msgstr ""
+msgstr "我倒希望是這樣，但不是...... {{noriko.n}}有我都不知道的熟人。"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_108b4f5a"
 msgid "Mais ça n'a pas de sens, pourquoi irait-elle jusqu'à payer pour t'infliger ça ?"
-msgstr ""
+msgstr "但這說不通啊，她為什麽要花錢讓你受這種罪？"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_aa727a5c"
 msgid "Même moi qui ai des goûts particuliers... Cette façon de faire est bien trop hardcore pour moi."
-msgstr ""
+msgstr "就連我這個品味奇特的人...... 這種做法對我來說也太強硬了。"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_eaf0a070"
 msgid "C'est à cause de ça que vous vous disputiez tout à l'heure ?"
-msgstr ""
+msgstr "這就是你剛才爭論的事嗎？"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_a0a7bd11"
 msgid "Comment a-t-elle réagi ?"
-msgstr ""
+msgstr "她有什麼反應？"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_6aa11208"
 msgid "Elle... Elle a réussi a détourner mon attention en changeant de sujet."
-msgstr ""
+msgstr "她... 她設法轉移了我的注意力，改變了話題。"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_42410ecd"
 msgid "Oui... elles sont douées pour ça."
-msgstr ""
+msgstr "是阿... 女人就擅長這個。"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_e8caf5be"
 msgid "Je ne sais pas trop... Plus j'en découvre, moins j'ai envie d'en savoir."
-msgstr ""
+msgstr "我真的不知道... 我發現得越多，就越不想知道。"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_88b284b4"
 msgid "Et il y a cette réponse qu'elle doit donner à {{akira.n}} d'ici quelques jours."
-msgstr ""
+msgstr "幾天後，她要給{{akira.n}}一個答覆。"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_5b8e8295"
 msgid "On n'a aucune idée de quoi il s'agit"
-msgstr ""
+msgstr "我不知道它是關於什麽的。"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_0cd53d1e"
 msgid "Donc si on résume... {{noriko.n}} a un lien avec {{akira.n}} et les thugs. Mais il ne s'agit probablement pas du même lien."
-msgstr ""
+msgstr "所以總結一下... {{noriko.n}}和{{akira."
+"n}}以及混混都有某種聯繫。但可能不是同一種聯繫。"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_b8b46011"
 msgid "De toute façon je vois mal {{akira.n}} se faire payer pour casser la gueule à quelqu'un, il est plutôt sur un alignement chaotique, il fait ce qui lui plaît."
-msgstr ""
+msgstr "無論如何，我實在難以想像{{akira."
+"n}}是為了錢而打你。他更像是一個混亂邪惡的人，隨心所欲地做自己喜歡的事情。"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_a1b893f6"
 msgid "Mais du coup, les thugs sont venus pour te..."
-msgstr ""
+msgstr "但後來，那些混混跑來找你..."
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_284d9a01"
 msgid "Oui, c'est {{nobu.n}} qui est venu me chercher devant chez moi. Mais c'est de loin le plus facile à gérer."
-msgstr ""
+msgstr "對阿，是{{nobu.n}}來我家門前抓我的，但他是最好對付的。"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_4fdce7c1"
 msgid "Bah mon vieux... T'es vraiment dans la merde cette fois-ci."
-msgstr ""
+msgstr "我的老朋友... 這次你可真的慘了。"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_8225e90e"
 msgid "Tu veux pas qu'on appelle {{macumba.n}} et qu'il nous débarrasse de ces connards une bonne fois pour toutes ?"
-msgstr ""
+msgstr "你要不要讓我給{{macumba.n}}打通電話，讓他一勞永逸地除掉這些混蛋嗎？"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_9975ae09"
 msgid "Non, on ne pourra pas toujours compter sur lui à chaque fois qu'on a des problèmes."
-msgstr ""
+msgstr "不，我們不能每次遇到問題都依賴他。"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_6ed716bf"
 msgid "À quoi servent les amis dans ce cas ?"
-msgstr ""
+msgstr "在這種情況下，朋友是用來做什麽的？"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_edcf0e3b"
 msgid "Mon amour, je sais que tu as envie de tout régler par toi-même et c'est cette part de toi qui fait que je te trouve irrésistible."
-msgstr ""
+msgstr "親愛的，我知道你想自己解決一切問題，，而正是這一點讓我覺得你令人無法抗拒。"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_71e212d4"
 msgid "Mais même si ça me fait mal de l'admettre {{kimochi.n}} a probablement raison."
-msgstr ""
+msgstr "即使承認這點很難受，但{{kimochi.n}}也許是對的。"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_24b59e03"
 msgid "AAAh ! Tu vois, écoute un peu la voix de la raison !"
-msgstr ""
+msgstr "啊! 聽到沒有？聽聽理性的建議!"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_d2b985d8"
 msgid "Et au pire, si tu veux pas faire appel à notre bro, tu peux lâcher sur eux ta yandere."
-msgstr ""
+msgstr "最壞的情況是，如果你不想找我們兄弟，你找你的\"小病嬌\"出來處理他們。"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_ad2fc891"
 msgid "Elle s'appelle {{sakuya.n}} !"
-msgstr ""
+msgstr "她的名字叫 {{sakuya.n}} !"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_479d95e8"
 msgid "Le résultat serait pire, elle serait capable de les tuer."
-msgstr ""
+msgstr "結果會更糟。她有能力把他們全殺了。"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_ebccc2a6"
 msgid "Pire ? Tu fais d'une pierre 5 coups, tu te débarrasses des trois thugs, d'{{akira.n}} et elle termine en prison."
-msgstr ""
+msgstr "會更糟？這樣根本就是一石二鳥，你除掉了三個混混和{{akira."
+"n}}，然後最後她還會進監獄。"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_56fe8b7f"
 msgid "Un seul mouvement et tu obtiens ta tranquillité."
-msgstr ""
+msgstr "一舉兩得，皆大歡喜。"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_938d41b4"
 msgid "Bon je vais prendre l'air, je crois que j'ai assez entendu d'idées loufoques pour aujourd'hui."
-msgstr ""
+msgstr "好吧，我去散散心。我想我今天聽到的瘋狂點子已經夠多了。"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_7becdb27"
 msgid "... bah quoi ?"
-msgstr ""
+msgstr "…什麼?"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_16cc9b50"
 msgid "Ce que tu peux être idiot parfois."
-msgstr ""
+msgstr "你有時候真是個白痴。"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_5df5c407"
 msgid "Au contraire, je lui propose deux alternatives : une qui est acceptable, l'autre qui ne l'est pas."
-msgstr ""
+msgstr "恰恰相反，我給了他兩個選擇，一個是可行的，另一個則不可行的。"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_af5efb8d"
 msgid "Il se dira que la première est la plus viable et il arrêtera de se torturer l'esprit."
-msgstr ""
+msgstr "他會認為第一個更可行，這樣就不用再折磨自己了。"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_8e069fd1"
 msgid "Et tu pourras arrêter de t'inquiéter pour lui... {{macumba.n}} peut tout résoudre rien qu'avec son sourire et sa bonne humeur alors imagine quand il se sert de ses poings."
-msgstr ""
+msgstr "你可以不用擔心他了... {{macumba.n}} "
+"只需一個微笑和好心情就能解決一切問題，想象一下他用拳頭能做什麽吧。"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_bfcd5592"
 msgid "Mais ça ne résoudra pas le problème de {{saito.n}} et {{noriko.n}}..."
-msgstr ""
+msgstr "但這並不能解決{{saito.n}}和{{noriko.n}}的問題..."
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_e6c7122c"
 msgid "Chaque chose en son temps."
-msgstr ""
+msgstr "一切都還來得及。"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_01258fd3"
 msgid "... Je suis pas certaine d'apprécier ta façon de manipuler l'homme que j'aime."
-msgstr ""
+msgstr "…我不確定我能接受你利用我所愛的人的方式。"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_f46ad701"
 msgid "Il me remerciera plus tard..."
-msgstr ""
+msgstr "他之後會感謝我的..."
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_9d88b958"
 msgid "Je ne suis pas l'ami qu'il voudrait... mais celui dont il a besoin."
-msgstr ""
+msgstr "我不是他想要的朋友......而是他需要的朋友。"
 
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "taecfcdd87e"
 msgid "Discuter."
-msgstr ""
+msgstr "說話。"
 
 #: game/story/konbini_interior.dialogue
 msgctxt "t0f72f1767e"
 msgid "Discuter."
-msgstr ""
+msgstr "說話。"
 
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "yasuka_tenshiclub_2057b12c"
 msgid "Oh bonsoir mon chéri !"
-msgstr ""
+msgstr "晚安，親愛的"
 
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "yasuka_tenshiclub_8c4be5ad"
 msgid "Oui oui ne t'inquiète pas, je profite seulement un peu de l'air frais avant d'entrer."
-msgstr ""
+msgstr "沒事…沒事，別擔心。我只是在進屋前享受一下新鮮空氣。"
 
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "yasuka_tenshiclub_55281ed6"
 msgid "Plus de problèmes avec les clients ?"
-msgstr ""
+msgstr "客人還有什麽問題嗎？"
 
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "yasuka_tenshiclub_0990cde7"
 msgid "C'est terminé. Ton ami... {{macumba.n}}, si je ne me trompe pas de prénom, y veille personnellement."
-msgstr ""
+msgstr "都搞定了，你的朋友... {{macumba."
+"n}}，如果我沒記錯的話，他一直在親自處理這件事。"
 
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "yasuka_tenshiclub_77ffbe6c"
 msgid "Depuis... le travail est devenu bien moins stressant."
-msgstr ""
+msgstr "從那時候開始…工作壓力減少了許多。"
 
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "yasuka_tenshiclub_4f336908"
 msgid "Et ton ancien patron ?"
-msgstr ""
+msgstr "你的前老闆呢?"
 
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "yasuka_tenshiclub_4ee523e7"
 msgid "Monsieur {{netoru.n}} ?"
-msgstr ""
+msgstr "{{netoru.n}}先生?"
 
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "yasuka_tenshiclub_ee4c729d"
 msgid "Je crois savoir qu'il est ruiné et qu'il est retourné vivre chez sa mère dans son village natal."
-msgstr ""
+msgstr "我聽說他破產了，只好搬回老家和母親一起住。"
 
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "yasuka_tenshiclub_dc5a6062"
 msgid "Que des bonnes nouvelles alors."
-msgstr ""
+msgstr "這真是個好消息。"
 
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "yasuka_tenshiclub_323416fd"
 msgid "Oui ! Grâce à toi."
-msgstr ""
+msgstr "是啊!多虧了你。"
 
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_7fb5f66a"
@@ -49121,7 +49135,7 @@ msgstr "真的嗎？"
 #: game/story/konbini_exterior.dialogue
 msgctxt "konbini_exterior_c3a175de"
 msgid "Tu es sûr ?"
-msgstr ""
+msgstr "你確定嗎?"
 
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_f9bc3386"
@@ -50636,22 +50650,22 @@ msgstr "看來有人將要面臨絕望了。"
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "yasuka_tenshiclub_546854de"
 msgid "Tu voulais me voir avant que je ne commence mon service ?"
-msgstr ""
+msgstr "你想在我上班之前找我嗎？"
 
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "yasuka_tenshiclub_50ef068d"
 msgid "Oui... C'est à propos de {{noriko.n}}... Tu aurais quelques minutes ?"
-msgstr ""
+msgstr "是的... 是關於{{noriko.n}}的... 你有時間嗎？"
 
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "yasuka_tenshiclub_b79e5455"
 msgid "Mon chéri pour toi je trouverais toujours du temps."
-msgstr ""
+msgstr "親愛的，我會永遠為你騰出時間。"
 
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "yasuka_tenshiclub_f635090a"
 msgid "Dis moi tout !"
-msgstr ""
+msgstr "把一切都告訴我吧!"
 
 #: game/story/hostess_club_alley.dialogue
 msgctxt "hostess_club_alley_99d937e0"
@@ -51386,92 +51400,94 @@ msgstr "...不客氣。"
 #: game/story/home_natsume_exterior.dialogue
 msgctxt "home_natsume_exterior_bac3fdb6"
 msgid "Tout est en place ?"
-msgstr ""
+msgstr "一切都就緒了?"
 
 #: game/story/home_natsume_exterior.dialogue
 msgctxt "home_natsume_exterior_f9f4e275"
 msgid "Oui... mais tu ne penses pas que tu vas trop loin ?"
-msgstr ""
+msgstr "對……但是你不覺得太超過了嗎？"
 
 #: game/story/home_natsume_exterior.dialogue
 msgctxt "home_natsume_exterior_cc3049f1"
 msgid "Beaucoup d'innocents vont..."
-msgstr ""
+msgstr "很多無辜的人將會..."
 
 #: game/story/home_natsume_exterior.dialogue
 msgctxt "home_natsume_exterior_392945bf"
 msgid "{{natsume.n}}... Si je tolère ta présence et ton franc-parler c'est uniquement parce que tu sais te rendre utile mais..."
-msgstr ""
+msgstr "{{natsume."
+"n}}…我容忍你的存在和直率，只是因為你知道如何讓自己變得有用，但是......"
 
 #: game/story/home_natsume_exterior.dialogue
 msgctxt "home_natsume_exterior_3dfa2c4b"
 msgid "... ne dépasse pas les bornes."
-msgstr ""
+msgstr "…不要跨過這條界線。"
 
 #: game/story/home_natsume_exterior.dialogue
 msgctxt "home_natsume_exterior_0c201a7c"
 msgid "Ne me dis pas que tu t'inquiètes pour cette idiote ?"
-msgstr ""
+msgstr "別告訴我你擔心那個白癡?"
 
 #: game/story/home_natsume_exterior.dialogue
 msgctxt "home_natsume_exterior_a9347b5f"
 msgid "Bon sang c'est pas vrai..."
-msgstr ""
+msgstr "該死…"
 
 #: game/story/home_natsume_exterior.dialogue
 msgctxt "home_natsume_exterior_b292f054"
 msgid "Je t'avais prévenue de ne pas te lier d'amitié."
-msgstr ""
+msgstr "我警告過你不要交朋友。"
 
 #: game/story/home_natsume_exterior.dialogue
 msgctxt "home_natsume_exterior_c025c1b9"
 msgid "... Je ne comprends pas le but derrière toutes ces actions."
-msgstr ""
+msgstr "…我不清楚這些行動背後的目的。"
 
 #: game/story/home_natsume_exterior.dialogue
 msgctxt "home_natsume_exterior_6ff67b70"
 msgid "Tu n'es de toute façon pas payée pour comprendre."
-msgstr ""
+msgstr "反正你也不是領錢來了解的。"
 
 #: game/story/home_natsume_exterior.dialogue
 msgctxt "home_natsume_exterior_76096e2e"
 msgid "Les trois débiles ont été pris en charge ?"
-msgstr ""
+msgstr "那三個白癡被解決了嗎？"
 
 #: game/story/home_natsume_exterior.dialogue
 msgctxt "home_natsume_exterior_77faf824"
 msgid "Oui... Je pense que le fait qu'ils se soient faits avoir par {{saito.n}} en 1 contre 1 les a motivés comme jamais."
-msgstr ""
+msgstr "是的... 我想，他們在一對一的比賽中被{{saito."
+"n}}擊倒，這給了他們前所未有的動力。"
 
 #: game/story/home_natsume_exterior.dialogue
 msgctxt "home_natsume_exterior_511679a5"
 msgid "C'était complètement surréaliste comme situation."
-msgstr ""
+msgstr "這是一個完全不現實的情況。"
 
 #: game/story/home_natsume_exterior.dialogue
 msgctxt "home_natsume_exterior_bd461333"
 msgid "C'est ça le problème avec les branleurs de ce genre, ils agissent toujours en groupe pour paraître plus fort."
-msgstr ""
+msgstr "這是那些混蛋的問題，他們總是成群結隊，以顯示自己的強大。"
 
 #: game/story/home_natsume_exterior.dialogue
 msgctxt "home_natsume_exterior_2be0c684"
 msgid "Mais si tu les prends un par un, ça reste des grandes gueules."
-msgstr ""
+msgstr "但如果一個一個去問，每個都有其他藉口。"
 
 #: game/story/home_natsume_exterior.dialogue
 msgctxt "home_natsume_exterior_665eea64"
 msgid "C'est fou ce qu'il a pu changer en si peu de temps."
-msgstr ""
+msgstr "真是太瘋狂了，真不敢相信他在這麼短的時間變得這麼多。"
 
 #: game/story/home_natsume_exterior.dialogue
 msgctxt "home_natsume_exterior_deb64a51"
 msgid "Peu importe, il va goûter au désespoir."
-msgstr ""
+msgstr "沒關係，他還是會嘗到絕望的滋味。"
 
 #: game/story/home_natsume_exterior.dialogue
 msgctxt "home_natsume_exterior_37ac0d04"
 msgid "J'ai hâte de voir sa réaction quand son monde va s'écrouler."
-msgstr ""
+msgstr "我等不及想看到他的世界崩潰時的反應。"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_dff7e4b9"
@@ -51776,7 +51792,7 @@ msgstr "聽明白了嗎？"
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_495aec04"
 msgid "Je me suis bien fait comprendre ?"
-msgstr ""
+msgstr "我說得夠清楚了嗎？"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_8ea38eb4"
@@ -51851,292 +51867,292 @@ msgstr "剩下的事兒就交給你處理了..."
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_8b3748d3"
 msgid "Je vais finir par penser que vous ne me servez à rien..."
-msgstr ""
+msgstr "我開始覺得你對我沒用了..."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_38e5b8d8"
 msgid "Je sais qu'on a merdé mais c'est pas de notre faute non plus."
-msgstr ""
+msgstr "我知道我們搞砸了，但這也不完全是我們的錯。"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_2bd39b08"
 msgid "Tu sais ce que je pense des gens qui se trouvent des excuses ?"
-msgstr ""
+msgstr "你知道我是怎麽看待找借口的人嗎？"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_24643aca"
 msgid "Non... j-"
-msgstr ""
+msgstr "不不不…我‐"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_506224b4"
 msgid "Vous aviez la responsabilité de me débarrasser de ce parasite et vous avez merdé c'est tout."
-msgstr ""
+msgstr "你的責任就是除掉那個寄生蟲，但你搞砸了，就是這樣。"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_21705c6f"
 msgid "Vous vous êtes fait surprendre, vous n'avez pas agi assez vite, vous avez eu des remords que sais-je ?"
-msgstr ""
+msgstr "你被抓住了?你動作不夠快?你後悔了?誰知道呢？"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_8b25c843"
 msgid "Le résultat est là, vous avez merdé et je me retrouve avec plus d'ennuis sur les bras par votre incompétence."
-msgstr ""
+msgstr "結果就是你搞砸了，而我卻因為你的無能而遇到了更多的麻煩。"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_21295b0e"
 msgid "...[w] On a merdé c'est vrai..."
-msgstr ""
+msgstr "...[w]我們搞砸了，這是事實..."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_b40232e6"
 msgid "Pffff eh bien voilà, c'était pas si dur à admettre ?"
-msgstr ""
+msgstr "噗。你看，承認也不是很難嘛？"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_dd764038"
 msgid "Qu'est-ce que je vais bien pouvoir branler de vous à présent ?"
-msgstr ""
+msgstr "我現在該拿你怎麼辦？"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_13ba4309"
 msgid "[font_size=14]On aimerait devenir plus forts.[/font_size]"
-msgstr ""
+msgstr "[font_size=14]我們要變得更強。[/font_size]"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_ce60f9c2"
 msgid "Pardon ?! Tu peux répéter ? Je crois que j'ai mal compris."
-msgstr ""
+msgstr "對不起?你能再說一遍嗎？我想我一定是聽錯了。"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_6aba7299"
 msgid "On veut devenir plus forts."
-msgstr ""
+msgstr "我們要變得更強。"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_1fd87d89"
 msgid "Le gros black continuera de nous tomber dessus et de nous ridiculiser si on ne fait rien."
-msgstr ""
+msgstr "如果我們什麽都不做，那個黑大個就會一直打倒我們，羞辱我們。"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_6daf9b7e"
 msgid "Rien ne peut l'arrêter, pas même {{akira.n}}."
-msgstr ""
+msgstr "沒有人能阻止他，即使是 {{akira.n}} 也不行。"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_4e7d20b5"
 msgid "Et après lui, il y aura toujours quelqu'un de plus fort."
-msgstr ""
+msgstr "在他之後，總會有更強的人出現。"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_94cc93f1"
 msgid "On veut être pris au sérieux mais tant qu'il sera là..."
-msgstr ""
+msgstr "我們也很希望能認真處理，但只要他在那裏..."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_01fc644f"
 msgid "... D'accord je vois. Casse-toi maintenant, je vais voir ce que je peux faire."
-msgstr ""
+msgstr "好吧，我明白了。滾吧，我看看我能做些什麽。"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_d9d006b2"
 msgid "Merci Boss, on promet de tout donner pour vous."
-msgstr ""
+msgstr "謝謝您，老闆！我們保證為您全力以赴。"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_aae97457"
 msgid "Ouais ouais j'ai compris, dégage vite !"
-msgstr ""
+msgstr "好，好，知道了快滾吧！"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_3523c6a4"
 msgid "Ça ne te ressemble pas."
-msgstr ""
+msgstr "這不像你。"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_c194a550"
 msgid "Je n'avais pas anticipé ça..."
-msgstr ""
+msgstr "我沒想到會這樣..."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_ee6ffb7c"
 msgid "Comment veux-tu anticiper un truc pareil, ce type est une montagne de muscles et..."
-msgstr ""
+msgstr "你怎麽可能想到這種事？這家夥渾身肌肉..."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_ec7cc8a6"
 msgid "Je ne parle pas de l'autre monstre."
-msgstr ""
+msgstr "我說的不是那個怪物。"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_db54a795"
 msgid "Alors de qui ?"
-msgstr ""
+msgstr "那不然是誰?"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_bb5780c2"
 msgid "C'est la première fois que les thugs se remettent en question et souhaitent progresser."
-msgstr ""
+msgstr "這是這些混混第一次質疑自己，想要成長。"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_31fef4c5"
 msgid "... C'est si exceptionnel que ça ?"
-msgstr ""
+msgstr "…這有什麼特別的嗎?"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_a056af1d"
 msgid "Tu n'as pas idée."
-msgstr ""
+msgstr "你不會知道的。"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_4f47b4c4"
 msgid "On va commencer par se débarrasser du géant."
-msgstr ""
+msgstr "我們要先把那個巨人趕走。"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_f0f18cda"
 msgid "Ça nous laissera plus de marge de manœuvre."
-msgstr ""
+msgstr "這樣才能給我們更多空間。"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_feb01e81"
 msgid "Tu ne veux pas l'avertir ou le menacer d'abord ?"
-msgstr ""
+msgstr "你不打算警告他或威脅他嗎？"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_007cecac"
 msgid "Non, on n'a plus le temps pour ça. L'échéance est pour bientôt, je refuse de perdre davantage de temps."
-msgstr ""
+msgstr "不，我們沒時間了。時間不多了，我不想再浪費時間了。"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_a3dc7202"
 msgid "Contente-toi d'obeir, je perds mon temps à chaque fois si je dois t'expliquer pourquoi."
-msgstr ""
+msgstr "按照指示做就對了。我不想再浪費時間解釋了。"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_bafec45c"
 msgid "... Enfoiré !"
-msgstr ""
+msgstr "…混蛋!"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_a74033b0"
 msgid "La voilà... et avec les trois en plus !"
-msgstr ""
+msgstr "她也是…這三個人也是!"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_99164391"
 msgid "Merde ! Tout ça va beaucoup trop loin."
-msgstr ""
+msgstr "靠！ 這實在是太超過了。"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_60316333"
 msgid "... Je comprendrais jamais pourquoi tu le détestes autant."
-msgstr ""
+msgstr "......我沒辦法理解你為什麽這麽恨他。"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_ab83c167"
 msgid "C'est ton frangin pourtant ?!"
-msgstr ""
+msgstr "他不是你的兄弟嗎?!"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_ad3f4d97"
 msgid "En effet, la famille se serre les coudes, en toutes circonstances."
-msgstr ""
+msgstr "沒錯，在任何情況下，家人都應該團結在一起。"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_7175f65d"
 msgid "C'est clair."
-msgstr ""
+msgstr "沒錯。"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_9bec0fe7"
 msgid "Ce n'est pas mon frère, arrêtez avec ça !"
-msgstr ""
+msgstr "他不是我兄弟!別再說了!"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_f224086a"
 msgid "Wow wow wow une minute, la famille ce n'est pas forcément les liens du sang."
-msgstr ""
+msgstr "哇，哇，哇，等一下。家庭不一定要有血緣關係。"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_2f530d2d"
 msgid "La famille c'est tous les gens qui comptent pour toi et auxquels tu tiens."
-msgstr ""
+msgstr "家庭是指所有對你重要的人，你關心的人。"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_49caf651"
 msgid "Oui eh bien c'est bien ce que je dis... Ce n'est pas ma famille."
-msgstr ""
+msgstr "對，這正是我說的... 他不是我的家人。"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_f9805b89"
 msgid "T'as vraiment un cœur de glace."
-msgstr ""
+msgstr "你真是個冷血的人。"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_eb3b3553"
 msgid "Peu importe... On n'est pas là pour juger."
-msgstr ""
+msgstr "不重要... 我們不是來評斷的。"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_bef969de"
 msgid "Tu veux qu'on lui fasse comme d'habitude ?"
-msgstr ""
+msgstr "你要我們像往常一樣對他嗎？"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_f97f7f83"
 msgid "Comment ça comme d'habitude ? C'est quoi ce bordel ?"
-msgstr ""
+msgstr "和往常一樣是什麼意思？ 你在說什麼亂七八糟的事？"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_bdaa0a3d"
 msgid "Oui mais n'y allez pas trop fort non plus."
-msgstr ""
+msgstr "對，但也不要做得太過火。"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_d95fc6b9"
 msgid "Juste assez pour lui faire passer l'envie de faire le malin."
-msgstr ""
+msgstr "只要能讓他不再耍小聰明就足夠了。"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_bf0e4134"
 msgid "Tu veux lui faire passer un message ?"
-msgstr ""
+msgstr "你要給他發個訊息嗎？"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_56d13396"
 msgid "Non, ça reste entre nous, on ne change rien."
-msgstr ""
+msgstr "不，這是我們之間的事，不會有任何改變。"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_ff2ae0b4"
 msgid "Ça marche... Par contre... va falloir payer."
-msgstr ""
+msgstr "可以…但是…你得付錢。"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_d38a1f91"
 msgid "QUOI ?! Il n'a jamais été question de payer pour ça !"
-msgstr ""
+msgstr "什麼 ?! 之前都沒有付過錢！"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_a917dd72"
 msgid "Les temps changent... Le coût de la vie devient plus difficile même pour des thugs comme nous."
-msgstr ""
+msgstr "時代在變... 生活成本越來越高，即使像我們這樣的混混也難以承受。"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_8bffad9e"
 msgid "Tu as sincèrement cru qu'on ferait ça juste pour tes beaux yeux ?"
-msgstr ""
+msgstr "你真的認為我們這樣做只是為了你那漂亮的眼睛嗎？"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_c744c7e0"
 msgid "Bon très bien... Combien ?"
-msgstr ""
+msgstr "那好吧... 多少錢？"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_4cef0fe1"
 msgid "Dites-moi que je rêve... {{noriko.n}}, tu vas pas payer les thugs pour qu'ils me tabassent ?"
-msgstr ""
+msgstr "我肯定在做夢... {{noriko.n}}，你不會真的付錢給混混來毆打我吧？"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_40a76c63"
@@ -52321,62 +52337,62 @@ msgstr ""
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_5a821bff"
 msgid "Personne en centre-ville non plus..."
-msgstr ""
+msgstr "市中心也沒有人..."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_48195058"
 msgid "On devrait retourner auprès de {{noriko.n}}. Ce n'est plus comme si on avait trop le choix."
-msgstr ""
+msgstr "我們應該回到{{noriko.n}}那裏。我們已經別無選擇了。"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_c1e5a46e"
 msgid "... Je voulais gérer ça discrètement mais je crois que tu as raison."
-msgstr ""
+msgstr "......我想謹慎處理這件事，但我想你是對的。"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_e469d7fc"
 msgid "On n'a pas encore été voir au canal !"
-msgstr ""
+msgstr "我們還沒有檢查過運河！"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_dd021dfd"
 msgid "Mais c'est à l'autre bout de la ville !"
-msgstr ""
+msgstr "但那是在城市的另一邊！"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_207914dd"
 msgid "Oui mais ça reste un endroit qu'il fréquente souvent..."
-msgstr ""
+msgstr "沒錯，但這仍然是他經常光顧的地方......"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_7aad5c79"
 msgid "Comment tu le sais ?"
-msgstr ""
+msgstr "你怎麼知道的?"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_96d4bad2"
 msgid "C'est l'un des endroits les plus tranquilles que je connaisse après ici."
-msgstr ""
+msgstr "這是我知道的最安靜的地方之一，僅次於這裡。"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_791dcc5e"
 msgid "Et puis il traîne régulièrement là-bas."
-msgstr ""
+msgstr "而且，他經常去那裏玩。"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_31e12a1a"
 msgid "Okay essayons ça..."
-msgstr ""
+msgstr "好吧，讓我們試試看....."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_09c43b81"
 msgid "Après nous rentrerons et surveillerons {{noriko.n}}."
-msgstr ""
+msgstr "然後我們就回家，繼續監視{{noriko.n}}。"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_8cb4c195"
 msgid "Je ne pourrai pas vous accompagner par contre."
-msgstr ""
+msgstr "不過，我不能陪你去了。"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_b9f2c580"
@@ -55081,82 +55097,82 @@ msgstr ""
 #: game/story/bus_stop.dialogue
 msgctxt "bus_stop_0f87b616"
 msgid "Je ne sais pas... J'ai l'impression qu'elle a besoin de lui pour quelque chose mais qu'il veut un truc en retour."
-msgstr ""
+msgstr "我不知道...... 看起來她需要他做什麽，但他同時也要求回報。"
 
 #: game/story/bus_stop.dialogue
 msgctxt "bus_stop_31ebf3d9"
 msgid "Ça sent le chantage à plein nez cette histoire !"
-msgstr ""
+msgstr "整個故事充滿了勒索的味道！"
 
 #: game/story/bus_stop.dialogue
 msgctxt "bus_stop_49fd1e3e"
 msgid "Mais c'est horrible ! Quel genre de déchet humain faut-il être pour s'abaisser à ce genre de pratique ?"
-msgstr ""
+msgstr "太可怕了，什麼樣的人渣才會做出這種事？"
 
 #: game/story/bus_stop.dialogue
 msgctxt "bus_stop_6ac70a24"
 msgid "T'es bien silencieux {{saito.n}}"
-msgstr ""
+msgstr "你也是很小聲呢， {{saito.n}}。"
 
 #: game/story/bus_stop.dialogue
 msgctxt "bus_stop_371cffcb"
 msgid "Je... je contiens ma rage."
-msgstr ""
+msgstr "我…我會控制我的憤怒的。"
 
 #: game/story/bus_stop.dialogue
 msgctxt "bus_stop_a91c5997"
 msgid "Je suis tellement heureuse que tu ne sois pas ce type de mec."
-msgstr ""
+msgstr "我很高興你不是那種人。"
 
 #: game/story/bus_stop.dialogue
 msgctxt "bus_stop_d3747e95"
 msgid "La pire des ordures."
-msgstr ""
+msgstr "最惡劣的人渣。"
 
 #: game/story/bus_stop.dialogue
 msgctxt "bus_stop_c86ba9e0"
 msgid "... Peut-être que..."
-msgstr ""
+msgstr "…也許…"
 
 #: game/story/bus_stop.dialogue
 msgctxt "bus_stop_2b1cbb4d"
 msgid "Non ! C'est une ordure c'est tout."
-msgstr ""
+msgstr "不！ 他就是個人渣，毋庸置疑。"
 
 #: game/story/bus_stop.dialogue
 msgctxt "bus_stop_4bed1de7"
 msgid "Rentrons à présent."
-msgstr ""
+msgstr "我們回家吧。"
 
 #: game/story/bus_stop.dialogue
 msgctxt "bus_stop_89c548d2"
 msgid "Je mets ma main à couper que {{noriko.n}} ne dira pas la vérité si on lui demande de raconter sa journée."
-msgstr ""
+msgstr "如果讓{{noriko.n}}自己講她今天的情況，恐怕她不會說實話。"
 
 #: game/story/bus_stop.dialogue
 msgctxt "bus_stop_8ddc13cb"
 msgid "Dans ce cas, je la mettrai face à ses contradictions."
-msgstr ""
+msgstr "既然如此，我就直面她的所有矛盾。"
 
 #: game/story/bus_stop.dialogue
 msgctxt "bus_stop_d034d3fd"
 msgid "Vous êtes durs avec elle."
-msgstr ""
+msgstr "你對她太嚴厲了。"
 
 #: game/story/bus_stop.dialogue
 msgctxt "bus_stop_9ae62f18"
 msgid "Mais pourquoi... pourquoi... pourquoi ?!!!"
-msgstr ""
+msgstr "但是，為什麼......為什麼......為什麼?!!!"
 
 #: game/story/bus_stop.dialogue
 msgctxt "bus_stop_243ab0fe"
 msgid "Pourquoi tu continues alors que tu n'as aucune chance ?!"
-msgstr ""
+msgstr "既然沒有機會，為什麼還要繼續？"
 
 #: game/story/bus_stop.dialogue
 msgctxt "bus_stop_36e2bfc8"
 msgid "Tu pensais vraiment que j'allais me faire avoir par lui ?"
-msgstr ""
+msgstr "你真以為我會被他騙了嗎？"
 
 #: game/story/bus_stop.dialogue
 msgctxt "bus_stop_b1803688"
