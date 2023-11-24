@@ -110,8 +110,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
-"PO-Revision-Date: 2023-11-23 22:56+0000\n"
-"Last-Translator: Un Atke <yanfranzzjean@gmail.com>\n"
+"PO-Revision-Date: 2023-11-25 15:58+0000\n"
+"Last-Translator: Aleksandr <aleksandr-tugai@mail.ru>\n"
 "Language-Team: Russian <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/ru/>\n"
 "Language: ru\n"
@@ -2598,10 +2598,9 @@ msgstr ""
 "Я ожидал, что ты будешь более понятливой, похоже, что я переоценил тебя."
 
 #: game/story/home_player_saito_room.dialogue
-#, fuzzy
 msgctxt "blackmail_noriko_bj_02fe8308"
 msgid "...Tu veux encore que je te suce, c'est ça ?"
-msgstr "...Ты хочешь, чтобы я опять отсосала тебе?"
+msgstr "...Ты всё еще хочешь, чтобы я отсосала тебе, так?"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "blackmail_noriko_bj_bf31bd63"
@@ -4039,7 +4038,7 @@ msgstr "Ну так что?"
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_7b380577"
 msgid "Alors ?"
-msgstr ""
+msgstr "Ну?"
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_5e1cc29e"
@@ -4153,7 +4152,7 @@ msgstr "Завтра посмотрим."
 #: game/story/home_player_saito_room.dialogue
 msgctxt "t2aa9fab2bb"
 msgid "Je me suis déjà pas mal entraîné. On verra plus tard."
-msgstr ""
+msgstr "Я уже достаточно потренировался. Займусь этим позже."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "halteres_a47363ab"
@@ -4872,7 +4871,7 @@ msgstr "Как прикажете!"
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_1e36043d"
 msgid "À vos ordres !"
-msgstr ""
+msgstr "Как пожелаешь!"
 
 #: game/story/park.dialogue
 #, fuzzy
@@ -7140,7 +7139,7 @@ msgstr ""
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_e7957402"
 msgid "[font_size=14]Comment ça chut ?[/font_size]"
-msgstr ""
+msgstr "[font_size=14]Почему это?[/font_size]"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_bfcb2c09"
@@ -7318,12 +7317,12 @@ msgstr "Да ну?"
 #: game/story/home_player_saito_room.dialogue
 msgctxt "tb062009e0f"
 msgid "{{asami.n}} ?"
-msgstr ""
+msgstr "{{asami.n}} ?"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_8784b75b"
 msgid "{{asami.n}} ?"
-msgstr ""
+msgstr "{{asami.n}} ?"
 
 #: game/story/home_player_saito_room.dialogue
 #, fuzzy
@@ -7737,7 +7736,7 @@ msgstr "Блядь!"
 #: game/story/home_player_exterior.dialogue
 msgctxt "home_player_exterior_17415784"
 msgid "Merde !"
-msgstr ""
+msgstr "Вот чёрт!"
 
 #: game/story/park.dialogue
 #, fuzzy
@@ -62007,3 +62006,8 @@ msgid "Ma faible constitution[w], les séjours à l'hôpital à répétition[w],
 msgstr ""
 "Худощавое тело,[w] повторные госпитализации,[w] болезненность,[w] "
 "одиночество..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_9e40947b"
+msgid "T'es un idiot ![w], Mais je vais te répondre."
+msgstr "Ты идиот![w] Но я тебе отвечу."
