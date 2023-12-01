@@ -107,14 +107,19 @@
 #
 # FIRST AUTHOR < EMAIL @ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
+"PO-Revision-Date: 2023-12-02 22:09+0000\n"
+"Last-Translator: elanduli <timo.elanduli@gmail.com>\n"
+"Language-Team: German <https://translations.teot-studio.com/projects/"
+"goodbye-eternity/game-translation/de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8-bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.17\n"
 
 #: game/story/introduction.dialogue
 msgctxt "intro_90fcefcc"
@@ -124,7 +129,7 @@ msgstr ""
 #: game/story/introduction.dialogue
 msgctxt "intro_3bb13317"
 msgid "Mon corps aujourd'hui n'est plus qu'une prison de chair."
-msgstr ""
+msgstr "Mein Körper ist heute nichts als ein Gefängnis aus Fleisch und Knochen."
 
 #: game/story/introduction.dialogue
 msgctxt "intro_cb62efe6"
@@ -134,22 +139,24 @@ msgstr ""
 #: game/story/introduction.dialogue
 msgctxt "intro_0ada2bb6"
 msgid "J'ai toujours été le souffre-douleur de service."
-msgstr ""
+msgstr "Ich wurde immer gemobbt…"
 
 #: game/story/introduction.dialogue
 msgctxt "intro_233de029"
 msgid "Déjà... Dès l'enfance."
-msgstr ""
+msgstr "ausgenutzt…"
 
 #: game/story/introduction.dialogue
 msgctxt "intro_80305fc4"
 msgid "Je n'étais rien... Un personnage qu'on ne regardait pas... Un simple figurant dans ma propre existence..."
 msgstr ""
+"Ich war ein Nichts... Eine Figur, die nicht beachtet wurde... Ein bloßer "
+"Statist in meiner eigenen Existenz..."
 
 #: game/story/introduction.dialogue
 msgctxt "intro_8cb9c58e"
 msgid "Exploité tout au long de sa vie."
-msgstr ""
+msgstr "Mein gesamtes Leben lang wurde ich Ausgebeutet."
 
 #: game/story/introduction.dialogue
 msgctxt "intro_0a865c4d"
@@ -164,32 +171,32 @@ msgstr ""
 #: game/story/introduction.dialogue
 msgctxt "intro_3f5da8bf"
 msgid "Je n'ai personne qui se souviendra de moi..."
-msgstr ""
+msgstr "Niemand interessiert sich für mich…"
 
 #: game/story/introduction.dialogue
 msgctxt "intro_bf9b219b"
 msgid "Personne ne me regrettera..."
-msgstr ""
+msgstr "Niemand wird sich an mich erinnern…"
 
 #: game/story/introduction.dialogue
 msgctxt "intro_a2840a4c"
 msgid "S'il vous plaît... Que quelqu'un m'aide..."
-msgstr ""
+msgstr "Bitte… irgendjemand… ich brauch Hilfe…"
 
 #: game/story/introduction.dialogue
 msgctxt "intro_eda20439"
 msgid "N'importe qui... Dieu... Satan... Peu importe !"
-msgstr ""
+msgstr "Gott… Teufel… irgendjemand! Egal wer!"
 
 #: game/story/introduction.dialogue
 msgctxt "intro_9c78c287"
 msgid "Je ne veux pas partir comme ça..."
-msgstr ""
+msgstr "So will ich nicht sterben…"
 
 #: game/story/introduction.dialogue
 msgctxt "intro_a49290a7"
 msgid "Je voudrais juste une..."
-msgstr ""
+msgstr "Ich will nur…"
 
 #: game/story/introduction.dialogue
 msgctxt "intro_19efcd11"
@@ -199,7 +206,7 @@ msgstr ""
 #: game/story/introduction.dialogue
 msgctxt "intro_a6ea1d5e"
 msgid "Que... ?!"
-msgstr ""
+msgstr "Was…?!"
 
 #: game/story/introduction.dialogue
 msgctxt "intro_a0515f23"
@@ -55943,3 +55950,10 @@ msgstr ""
 #: game/scenes/gui/splashscreen.tscn
 msgid "Sortez-moi d'ici !"
 msgstr ""
+
+#: game/story/introduction.dialogue
+msgctxt "intro_cb62efe6"
+msgid "Ma faible constitution[w], les séjours à l'hôpital à répétition[w], la maladie[w], la solitude..."
+msgstr ""
+"Meine schwache Verfassung[w], wiederholte Aufenthalte im Krankenhaus[w], "
+"Krankheit[w], Einsamkeit…"
