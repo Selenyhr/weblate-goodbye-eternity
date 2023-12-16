@@ -112,8 +112,8 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-07 19:57+0100\n"
-"PO-Revision-Date: 2023-12-15 17:28+0000\n"
-"Last-Translator: Tandy Traice <yruretagoyena@outlook.com>\n"
+"PO-Revision-Date: 2023-12-16 19:03+0000\n"
+"Last-Translator: Roger Miró <puniasterus@gmail.com>\n"
 "Language-Team: Spanish <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/es/>\n"
 "Language: es\n"
@@ -13680,7 +13680,7 @@ msgstr "[font_size=19]Sí...[/font_size]"
 msgctxt "tf77c3e2d7c"
 msgid "[hint=ROUTE CHANTAGE]Jusqu'à quel point tu ne veux pas que ça se sache {{noriko.n}} ?"
 msgstr ""
-"[hint=RUTA DEL CHANTAGE]Hasta qué punto no quieres que la gente no sepa "
+"[hint=RUTA DEL CHANTAJE]Hasta qué punto no quieres que la gente no sepa "
 "{{noriko.n}}?"
 
 #: game/story/home_player_noriko_room.dialogue
@@ -27282,6 +27282,7 @@ msgstr ""
 msgctxt "t01fea45291"
 msgid "Je la vois ! Elle est à l'[color=yellow]arrêt de bus[/color] ! Allons-y."
 msgstr ""
+"¡Ya la veo! ¡Está en [color=yellow]la parada de autobús[/color]! Vámonos."
 
 #: game/story/park.dialogue
 msgctxt "park_1e0685d3"
@@ -27531,7 +27532,7 @@ msgstr "[color=yellow]Necesito poder[/color]"
 #: game/story/park.dialogue
 msgctxt "tbae3384d71"
 msgid "[color=yellow]J'ai besoin de ton aide ![/color]"
-msgstr ""
+msgstr "[color=yellow]¡Necesito tu ayuda![/color]"
 
 #: game/story/park.dialogue
 msgctxt "t243f06767c"
@@ -27546,17 +27547,17 @@ msgstr "[color=yellow]Desvío[/color]"
 #: game/story/park.dialogue
 msgctxt "t8547b5eeb3"
 msgid "Pourquoi tu ne viens pas t'asseoir à côté de moi ?"
-msgstr ""
+msgstr "¿Por qué no vienes y te sientas a mi lado?"
 
 #: game/story/park.dialogue
 msgctxt "tbe598a9525"
 msgid "Ta journée se passe bien ?"
-msgstr ""
+msgstr "¿Qué tal te va el día?"
 
 #: game/story/park.dialogue
 msgctxt "te7fff56ae1"
 msgid "J'ai trop hâte d'être à ce soir !"
-msgstr ""
+msgstr "¡Estoy deseando que llegue la noche!"
 
 #: game/story/park.dialogue
 msgctxt "t371ed31641"
@@ -27566,12 +27567,12 @@ msgstr "Tengo la impresión de que {{natsume.n}} tiene problemas con {{minato.n}
 #: game/story/park.dialogue
 msgctxt "tdc81c12fc4"
 msgid "Tu cours toujours avec la montagne de muscles ?"
-msgstr ""
+msgstr "¿Sigues corriendo con esa montaña de músculos?"
 
 #: game/story/park.dialogue
 msgctxt "tebb4182cbe"
 msgid "Si j'aime les Isekai ?...[w] Ça se pourrait."
-msgstr ""
+msgstr "¿Me gusta el Isekai?...[w] Puede que sí."
 
 #: game/story/park.dialogue
 msgctxt "t6534d79d16"
@@ -27581,7 +27582,7 @@ msgstr "Me encanta esta época del año, cuando llega el verano y sube la temper
 #: game/story/park.dialogue
 msgctxt "t6b170edfcb"
 msgid "... J'ai grave envie de toi, tu ne voudrais pas... tu sais..."
-msgstr ""
+msgstr "...Te deseo de verdad, no querrás... ya sabes..."
 
 #: game/story/park.dialogue
 msgctxt "t05004d59ef"
@@ -27641,27 +27642,27 @@ msgstr "No sabes si estás aquí para perder tu virginidad anal o para aumentar 
 #: game/story/park.dialogue
 msgctxt "tb6192adb08"
 msgid "Vous sentez avoir gagné en endurance."
-msgstr ""
+msgstr "Sientes que has ganado resistencia."
 
 #: game/story/park.dialogue
 msgctxt "t4eeeea09a2"
 msgid "Vous sentez avoir gagné en endurance."
-msgstr ""
+msgstr "Sientes que has ganado resistencia."
 
 #: game/story/park.dialogue
 msgctxt "t967e7c367d"
 msgid "Vous sentez avoir gagné en endurance."
-msgstr ""
+msgstr "Sientes que has ganado resistencia."
 
 #: game/story/park.dialogue
 msgctxt "tfb8e78cc68"
 msgid "Vous sentez avoir gagné en endurance."
-msgstr ""
+msgstr "Sientes que has ganado resistencia."
 
 #: game/story/park.dialogue
 msgctxt "t854c6e091f"
 msgid "Vous sentez avoir gagné en endurance."
-msgstr ""
+msgstr "Sientes que has ganado resistencia."
 
 #: game/story/park.dialogue
 msgctxt "talk_macumba_ce55b5b7"
@@ -28322,12 +28323,12 @@ msgstr "¿Qué te parece?; ¿Es una mala propuesta?"
 #: game/story/park.dialogue
 msgctxt "t4768c31c6d"
 msgid "[hint=ROUTE REJET]Débrouille-toi !"
-msgstr ""
+msgstr "[hint=RUTA RECHAZO]¡Estás por tu cuenta!"
 
 #: game/story/park.dialogue
 msgctxt "t728a33ea95"
 msgid "[hint=ROUTE AMOUR/CORRUPTION]Ça marche !"
-msgstr ""
+msgstr "[hint=RUTA AMOR/CORRUPCIÓN]¡Está funcionando!"
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_d5adc33d"
@@ -28587,7 +28588,7 @@ msgstr "No tienes ni idea de lo que he tenido que pasar para conseguir esto."
 #: game/story/park.dialogue
 msgctxt "t2f68a71796"
 msgid "Vous donnez le baladeur CD à {{macumba.n}}."
-msgstr ""
+msgstr "Le das el reproductor de CD a {{macumba.n}}."
 
 #: game/story/park.dialogue
 msgctxt "talk_macumba_afbb6b1a"
@@ -29029,7 +29030,7 @@ msgstr "Toma esto; son mancuernas ligeramente modificadas."
 #: game/story/park.dialogue
 msgctxt "t4f33baf539"
 msgid "Vous obtenez les haltères modifiées de {{macumba.n}}."
-msgstr ""
+msgstr "Obtienes las mancuernas modificadas de {{macumba.n}}."
 
 #: game/story/park.dialogue
 msgctxt "talk_macumba_c493fee6"
@@ -29224,22 +29225,22 @@ msgstr "Será mejor que vuelva a casa. Mañana será otro día..."
 #: game/story/park.dialogue
 msgctxt "t1e167c3847"
 msgid "Il est peut-être un peu trop tôt pour qu'elle soit là."
-msgstr ""
+msgstr "Puede que sea demasiado pronto para que esté aquí."
 
 #: game/story/park.dialogue
 msgctxt "tb77b89de92"
 msgid "Il est peut-être un peu trop tôt pour qu'elle soit là."
-msgstr ""
+msgstr "Puede que sea demasiado pronto para que esté aquí."
 
 #: game/story/park.dialogue
 msgctxt "t8270cb2d19"
 msgid "Je peux en profiter pour m'entraîner avec {{macumba.n}}."
-msgstr ""
+msgstr "Puedo aprovechar el tiempo para entrenar con {{macumba.n}}."
 
 #: game/story/park.dialogue
 msgctxt "t5e3b7a0a3c"
 msgid "Je peux en profiter pour m'entraîner avec {{macumba.n}}."
-msgstr ""
+msgstr "Puedo aprovechar el tiempo para entrenar con {{macumba.n}}."
 
 #: game/story/park.dialogue
 msgctxt "park_6458a6ef"
@@ -33684,7 +33685,7 @@ msgstr "¡Prefiero morir!"
 #: game/story/coffeebar_exterior.dialogue
 msgctxt "t2a53526e89"
 msgid "[hint=ROUTE ???]C'est à elle de décider de ça, pas à moi."
-msgstr ""
+msgstr "[hint=RUTA ???]Eso depende de ella, no de mí."
 
 #: game/story/coffeebar_exterior.dialogue
 msgctxt "coffeebar_exterior_17d89edc"
@@ -49094,52 +49095,58 @@ msgstr ""
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "yasuka_tenshiclub_2057b12c"
 msgid "Oh bonsoir mon chéri !"
-msgstr ""
+msgstr "¡Hola, cariño!"
 
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "yasuka_tenshiclub_8c4be5ad"
 msgid "Oui oui ne t'inquiète pas, je profite seulement un peu de l'air frais avant d'entrer."
 msgstr ""
+"Sí, sí, no te preocupes. Sólo estoy disfrutando del aire fresco antes de "
+"entrar."
 
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "yasuka_tenshiclub_55281ed6"
 msgid "Plus de problèmes avec les clients ?"
-msgstr ""
+msgstr "¿Se acabaron los problemas con los clientes?"
 
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "yasuka_tenshiclub_0990cde7"
 msgid "C'est terminé. Ton ami... {{macumba.n}}, si je ne me trompe pas de prénom, y veille personnellement."
 msgstr ""
+"Ya está arreglado. Tu amigo... {{macumba.n}}, si no me equivoco, se ha "
+"ocupado personalmente."
 
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "yasuka_tenshiclub_77ffbe6c"
 msgid "Depuis... le travail est devenu bien moins stressant."
-msgstr ""
+msgstr "Desde entonces... el trabajo es mucho menos estresante."
 
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "yasuka_tenshiclub_4f336908"
 msgid "Et ton ancien patron ?"
-msgstr ""
+msgstr "¿Y tu antiguo jefe?"
 
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "yasuka_tenshiclub_4ee523e7"
 msgid "Monsieur {{netoru.n}} ?"
-msgstr ""
+msgstr "¿El señor {{netoru.n}}?"
 
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "yasuka_tenshiclub_ee4c729d"
 msgid "Je crois savoir qu'il est ruiné et qu'il est retourné vivre chez sa mère dans son village natal."
 msgstr ""
+"Tengo entendido que está arruinado y ha vuelto a vivir con su madre al "
+"pueblo donde nació."
 
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "yasuka_tenshiclub_dc5a6062"
 msgid "Que des bonnes nouvelles alors."
-msgstr ""
+msgstr "Así que todo son buenas noticias."
 
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "yasuka_tenshiclub_323416fd"
 msgid "Oui ! Grâce à toi."
-msgstr ""
+msgstr "¡Sí! Gracias a ti."
 
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_7fb5f66a"
@@ -50724,22 +50731,22 @@ msgstr "Conozco a alguien que va a caer desde lo alto."
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "yasuka_tenshiclub_546854de"
 msgid "Tu voulais me voir avant que je ne commence mon service ?"
-msgstr ""
+msgstr "¿Querías verme antes de empezar mi turno?"
 
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "yasuka_tenshiclub_50ef068d"
 msgid "Oui... C'est à propos de {{noriko.n}}... Tu aurais quelques minutes ?"
-msgstr ""
+msgstr "Sí... Se trata de {{noriko.n}}... ¿Tienes unos minutos?"
 
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "yasuka_tenshiclub_b79e5455"
 msgid "Mon chéri pour toi je trouverais toujours du temps."
-msgstr ""
+msgstr "Cariño mío, siempre encontraré tiempo para ti."
 
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "yasuka_tenshiclub_f635090a"
 msgid "Dis moi tout !"
-msgstr ""
+msgstr "¡Cuéntamelo todo!"
 
 #: game/story/hostess_club_alley.dialogue
 msgctxt "hostess_club_alley_99d937e0"
@@ -54292,12 +54299,12 @@ msgstr "Mierda, ¿por qué tengo que pensar demasiado en todo esto?"
 #: game/story/home_minato_exterior.dialogue
 msgctxt "te94cb08504"
 msgid "On dirait que personne n'est là. Je devrais revenir durant la journée."
-msgstr ""
+msgstr "Parece que no hay nadie en casa. Debería volver durante el día."
 
 #: game/story/home_minato_exterior.dialogue
 msgctxt "t16c3bbc574"
 msgid "Il est trop tard. Je devrais revenir durant la journée."
-msgstr ""
+msgstr "Ya es demasiado tarde. Tendré que volver durante el día."
 
 #: game/story/home_minato_exterior.dialogue
 msgctxt "home_minato_exterior_4623554b"
@@ -56097,7 +56104,7 @@ msgstr "Ciudad"
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "konbini_interior"
-msgstr ""
+msgstr "Konbini (interior)"
 
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
@@ -56117,7 +56124,7 @@ msgstr "Pasillo"
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "home_player_saito_room"
-msgstr ""
+msgstr "Habitación de {{saito.n}}"
 
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
@@ -56282,17 +56289,17 @@ msgstr "¿Y si le doy a {{macumba.n}} mi viejo reproductor de CD a cambio de ent
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_14_noriko_blackmail_reject"
-msgstr ""
+msgstr "Pide más información a {{yasuka.n}}."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_14_noriko_femdom_maledom"
-msgstr ""
+msgstr "Pide explicaciones a {{noriko.n}}."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_15_noriko_blackmail_reject"
-msgstr ""
+msgstr "¡Ve a buscar tu reproductor de CD a la habitación de {{noriko.n}}!"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -56302,17 +56309,17 @@ msgstr "El wifi está en el [color=yellow]salón[/color]."
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_17_noriko_blackmail_reject"
-msgstr ""
+msgstr "¡Ve a buscar tu reproductor de CD a la habitación de {{noriko.n}}!"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_17_noriko_femdom_maledom"
-msgstr ""
+msgstr "Busca en la habitación de {{noriko.n}} y encuentra el reproductor MP3."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_18_noriko_blackmail_reject"
-msgstr ""
+msgstr "¡Ve a buscar tu reproductor de CD a la habitación de {{noriko.n}}!"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -56362,37 +56369,37 @@ msgstr "¡Es hora de ver a ese viejo bastardo! Le obligaré a contratarme."
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_27"
-msgstr ""
+msgstr "¿Quizás {{macumba.n}} podría ayudarme a ser más fuerte también?"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_28"
-msgstr ""
+msgstr "¿Quizás {{macumba.n}} podría ayudarme a ser más fuerte también?"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_29"
-msgstr ""
+msgstr "¿Quizás {{macumba.n}} podría ayudarme a ser más fuerte también?"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_29_1_noriko_blackmail_reject"
-msgstr ""
+msgstr "Las instalaré rápidamente en mi habitación y empezaré a entrenar."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_29_1_noriko_femdom_maledom"
-msgstr ""
+msgstr "Las instalaré rápidamente en mi habitación y empezaré a entrenar."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_30"
-msgstr ""
+msgstr "Las instalaré rápidamente en mi habitación y empezaré a entrenar."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_30_1"
-msgstr ""
+msgstr "Las instalaré rápidamente en mi habitación y empezaré a entrenar."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -56427,12 +56434,12 @@ msgstr "Mierda, ahora estoy jodido para el trabajo. Tendré que pensar en otra c
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_36"
-msgstr ""
+msgstr "Llevaré a {{sakuya.n}} a su casa."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_37"
-msgstr ""
+msgstr "Ahora puedo concentrarme en mi entrenamiento con {{macumba.n}}."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -56472,7 +56479,7 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_40"
-msgstr ""
+msgstr "Necesito encontrar a {{chiaki.n}} lo antes posible."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -56512,12 +56519,12 @@ msgstr "¡Refréscate en el [color=yellow]baño.[/color]!"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_48"
-msgstr ""
+msgstr "Debo preguntarle a {{noriko.n}}."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_49"
-msgstr ""
+msgstr "Debo preguntarle a {{noriko.n}}."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -57573,6 +57580,7 @@ msgstr "Sal de la tienda y haz balance de la situación."
 msgctxt "quests.hints"
 msgid "yasuka_corruption_18"
 msgstr ""
+"Vuelve a casa para advertir a {{yasuka.n}} que tenga cuidado con {{akira.n}}."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -57587,7 +57595,7 @@ msgstr "Ve a dormir y habla con {{yasuka.n}} mañana por la mañana."
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_corruption_21"
-msgstr ""
+msgstr "Habla con {{yasuka.n}}."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -57612,12 +57620,12 @@ msgstr "Encuentra la tienda junto al hotel del amor."
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_corruption_26"
-msgstr ""
+msgstr "Encuentra la tienda junto al hotel del amor."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_corruption_27"
-msgstr ""
+msgstr "Acompaña a {{natsume.n}} a su casa."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -57692,7 +57700,7 @@ msgstr "Vuelve a casa y duerme un poco. Hoy ha sido agotador."
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_corruption_42"
-msgstr ""
+msgstr "Ve a hablar con {{yasuka.n}} en el salón."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -57702,22 +57710,22 @@ msgstr "Ve a hablar con {{kimochi.n}} antes de que oscurezca."
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_corruption_44"
-msgstr ""
+msgstr "Lleva la memoria USB a {{macumba.n}} en el club de alterne."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_corruption_45"
-msgstr ""
+msgstr "Lleva la memoria USB a {{macumba.n}} en el club de alterne."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_corruption_46"
-msgstr ""
+msgstr "Lleva la memoria USB a {{macumba.n}} en el club de alterne."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_corruption_47"
-msgstr ""
+msgstr "Lleva la memoria USB a {{macumba.n}} en el club de alterne."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -57767,17 +57775,17 @@ msgstr "Entra a la fuerza en el club."
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_corruption_57"
-msgstr ""
+msgstr "¡Encuentra a {{yasuka.n}} antes de que sea demasiado tarde!"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_corruption_58"
-msgstr ""
+msgstr "¡Encuentra a {{yasuka.n}} en el hotel del amor!"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_corruption_59"
-msgstr ""
+msgstr "¡Encuentra a {{yasuka.n}} en el hotel del amor!"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -57822,7 +57830,7 @@ msgstr "Ve a dormir mientras esperas el momento adecuado para escabullirte de tu
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_corruption_68"
-msgstr ""
+msgstr "Reúnete con {{yasuka.n}} en el hotel del amor."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -57848,11 +57856,13 @@ msgstr "Tengo que mejorar mi condición física si quiero conseguir este trabajo
 msgctxt "quests.hints"
 msgid "chef_1_1"
 msgstr ""
+"Espero que 3 sesiones de mancuernas sean suficientes para conseguir el "
+"trabajo."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "chef_2"
-msgstr ""
+msgstr "Gracias a {{sakuya.n}} todavía hay esperanza. Debo seguir entrenando."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -57867,67 +57877,68 @@ msgstr "¡Dale al hombre algo de música!"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "macumba_0_1"
-msgstr ""
+msgstr "Demuestra tu valía a {{macumba.n}}."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "macumba_1"
-msgstr ""
+msgstr "Debo seguir entrenando si quiero volver a estar en forma."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "macumba_1_1"
-msgstr ""
+msgstr "Debo seguir entrenando si quiero volver a estar en forma."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "macumba_1_2"
-msgstr ""
+msgstr "Debo seguir entrenando si quiero volver a estar en forma."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "macumba_1_3"
-msgstr ""
+msgstr "Debo seguir entrenando si quiero volver a estar en forma."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "macumba_1_4"
-msgstr ""
+msgstr "Debo seguir entrenando si quiero volver a estar en forma."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "macumba_1_5"
-msgstr ""
+msgstr "Debo seguir entrenando si quiero volver a estar en forma."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "macumba_1_6"
-msgstr ""
+msgstr "Debo seguir entrenando si quiero volver a estar en forma."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "macumba_1_7"
-msgstr ""
+msgstr "Debo seguir entrenando si quiero volver a estar en forma."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "macumba_1_8"
-msgstr ""
+msgstr "Debo seguir entrenando si quiero volver a estar en forma."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "macumba_1_9"
-msgstr ""
+msgstr "Debo seguir entrenando si quiero volver a estar en forma."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "chiaki_1_promise"
 msgstr ""
+"Necesito ganarme su confianza, {{chiaki.n}} aún me tiene demasiado miedo."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "chiaki_1_nopromise"
-msgstr ""
+msgstr "Tengo que hablar con {{minato.n}}. Esto no es normal."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -57957,12 +57968,12 @@ msgstr "Es muy guapa. Espero poder volver a encontrarme con ella pronto."
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "sakuya_0_1"
-msgstr ""
+msgstr "Le rompí el trasero a {{akira.n}}, así que algo es algo."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "sakuya_1"
-msgstr ""
+msgstr "Le rompí el trasero a {{akira.n}}, así que algo es algo."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -58347,12 +58358,12 @@ msgstr "Bueno, creo que se hace con {{asami.n}}"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "asami_love_4"
-msgstr ""
+msgstr "Creo que acabo de conseguir una nueva amiga."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "asami_love_5"
-msgstr ""
+msgstr "Seguro que está en el parque."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -59322,3 +59333,168 @@ msgstr "Primera aparición de {{asami.n}}."
 msgctxt "galleries.images.hints"
 msgid "Entraînement avec {{macumba.n}}."
 msgstr "Entrenamiento con {{macumba.n}}."
+
+#: game/scenes/gui/game_menu/navigation.tscn
+msgid "MENU PRINCIPAL"
+msgstr "MENÚ PRINCIPAL"
+
+#: game/scenes/gui/game_menu/preferences.tscn
+msgid "Préférence bool"
+msgstr "Preferencia booleana"
+
+#: game/scenes/gui/game_menu/saves.tscn
+msgid "<<"
+msgstr "<<"
+
+#: game/scenes/gui/game_menu/saves.tscn
+msgid "<"
+msgstr "<"
+
+#: game/scenes/gui/game_menu/saves.tscn
+msgid "A"
+msgstr "A"
+
+#: game/scenes/gui/game_menu/saves.tscn
+msgid "Q"
+msgstr "R"
+
+#: game/scenes/gui/main_menu.tscn
+msgid "© THE END OF TIME STUDIOS - ALL RIGHTS RESERVED"
+msgstr "© THE END OF TIME STUDIOS - TODOS LOS DERECHOS RESERVADOS"
+
+#: game/scenes/gui/game_menu/saves.tscn
+msgid ">"
+msgstr ">"
+
+#: game/scenes/gui/game_menu/saves.tscn
+msgid ">>"
+msgstr ">>"
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgid "TOUT"
+msgstr "TODO"
+
+#: game/scenes/gui/main_menu.tscn
+msgid "Nouvelle partie"
+msgstr "Nuevo juego"
+
+#: game/scenes/gui/main_menu.tscn
+msgid "Charger"
+msgstr "Cargar"
+
+#: game/scenes/gui/main_menu.tscn
+msgid "Galeries"
+msgstr "Galerías"
+
+#: game/scenes/gui/game_menu/save_button_template.tscn
+msgctxt "saves.button.played_time_long"
+msgid "{hours}h {minutes}m"
+msgstr "{hours}h {minutes}m"
+
+#: game/scenes/gui/game_menu/save_button_template.tscn
+msgctxt "saves.button.played_time_short"
+msgid "{minutes}m"
+msgstr "{minutes}m"
+
+#: game/scenes/gui/game_menu/save_button_template.tscn
+msgid "SAUVEGARDER"
+msgstr "GUARDAR"
+
+#: game/scenes/gui/game_menu/save_button_template.tscn
+msgid "CHARGER"
+msgstr "CARGAR"
+
+#: game/scenes/gui/game_menu/save_button_template.tscn
+msgid "Nom de sauvegarde"
+msgstr "Nombre de la partida guardada"
+
+#: game/scenes/gui/game_menu/galleries.tscn game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "game_menu.crumbs"
+msgid "GALERIES"
+msgstr "GALERÍAS"
+
+#: game/scenes/gui/game_menu/navigation.tscn
+msgid "GALERIES"
+msgstr "GALERÍAS"
+
+#: game/scenes/gui/game_menu/galleries.tscn
+msgid "PERSONNAGES"
+msgstr "PERSONAJES"
+
+#: game/scenes/gui/game_menu/galleries.tscn
+msgid "MUSIQUES"
+msgstr "MÚSICA"
+
+#: game/scenes/gui/game_menu/galleries.tscn
+msgid "ARRIÈRES-PLANS"
+msgstr "FONDOS"
+
+#: game/scenes/gui/game_menu/galleries.tscn
+msgid "ANIMATIONS"
+msgstr "ANIMACIONES"
+
+#: game/scenes/gui/game_menu/main.tscn
+msgid "OPTIONS"
+msgstr "OPCIONES"
+
+#: game/scenes/gui/game_menu/main.tscn
+msgid "RETOUR"
+msgstr "VOLVER"
+
+#: game/scenes/gui/game_menu/navigation.tscn
+msgid "PRÉFÉRENCES"
+msgstr "PREFERENCIAS"
+
+#: game/scenes/gui/game_menu/preferences.tscn
+msgctxt "game_menu.crumbs"
+msgid "PRÉFÉRENCES"
+msgstr "PREFERENCIAS"
+
+#: game/scenes/gui/game_menu/navigation.tscn
+msgid "SAUVEGARDES"
+msgstr "PARTIDAS GUARDADAS"
+
+#: game/scenes/gui/game_menu/saves.tscn
+msgctxt "game_menu.crumbs"
+msgid "SAUVEGARDES"
+msgstr "PARTIDAS GUARDADAS"
+
+#: game/scenes/gui/game_menu/navigation.tscn
+msgid "RENOMMER"
+msgstr "RENOMBRAR"
+
+#: game/scenes/gui/game_menu/navigation.tscn
+msgid "PATREON"
+msgstr "PATREON"
+
+#: game/scenes/gui/game_menu/navigation.tscn
+msgid "REMERCIEMENTS"
+msgstr "AGRADECIMIENTOS"
+
+#: game/scenes/gui/game_menu/navigation.tscn
+msgid "QUITTER"
+msgstr "SALIR"
+
+#: game/scenes/gui/game_menu/preferences.tscn game/scenes/gui/game_menu/galleries/images.tscn
+msgid "GROUP"
+msgstr "GRUPO"
+
+#: game/scenes/gui/game_menu/preferences.tscn
+msgid "SUBGROUP"
+msgstr "SUBGRUPO"
+
+#: game/scenes/gui/game_menu/preferences.tscn
+msgid "Préférence range"
+msgstr "Rango de preferencia"
+
+#: game/scenes/gui/game_menu/preferences.tscn
+msgid "50"
+msgstr "50"
+
+#: game/scenes/gui/game_menu/preferences.tscn
+msgid "Préférence enum"
+msgstr "Lista de preferencias"
+
+#: game/scenes/gui/game_menu/preferences.tscn
+msgid "Valeur enum"
+msgstr "Lista de valores"
