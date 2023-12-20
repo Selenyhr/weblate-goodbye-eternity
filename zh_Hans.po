@@ -112,7 +112,7 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-07 19:57+0100\n"
-"PO-Revision-Date: 2023-12-20 04:31+0000\n"
+"PO-Revision-Date: 2023-12-20 04:39+0000\n"
 "Last-Translator: DayBat <870354653@qq.com>\n"
 "Language-Team: Chinese (Simplified) <https://translations.teot-studio.com/"
 "projects/goodbye-eternity/game-translation/zh_Hans/>\n"
@@ -13315,7 +13315,7 @@ msgstr "你要服从我，听懂了吗？"
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "pc_noriko_f8001b90"
 msgid "Est-ce que je me suis bien fait comprendre cette fois-ci ?"
-msgstr "{{noriko.n}}，我说的够清楚了吗？"
+msgstr "我说清楚了吗？"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "pc_noriko_e2cb7a2e"
@@ -18601,7 +18601,7 @@ msgstr "...好吧。"
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_e87cd746"
 msgid "Alors ne t'inquiète plus pour moi, je suis une grande fille à présent, va donc te coucher, il est déjà très tard."
-msgstr "我可以照顾好自己的！我这不是也一直在照顾你和{{noriko.n}}吗？现在很晚了，所以我们都去睡觉吧。"
+msgstr "所以别再担心我了，我已经是个大姑娘了，现在已经很晚了，快去睡觉吧。"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_01b802fe"
@@ -18936,7 +18936,7 @@ msgstr "嗨，{{yasuka.n}}！"
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_afe1994d"
 msgid "Bonjour {{saito.n}}."
-msgstr "你好，{{yasuka.n}}。"
+msgstr "你好，{{saito.n}}。"
 
 #: game/story/restaurant_interior.dialogue
 msgctxt "talk_sakuya_caa7de9f"
@@ -21749,7 +21749,7 @@ msgstr "哪怕你去卖屁股，我也一点都不在乎！"
 #: game/story/home_player_hallway.dialogue
 msgctxt "home_player_hallway_bf20c6b7"
 msgid "Alors mes chéris, vous parlez de quoi depuis tout à l'heure ?"
-msgstr "{{noriko.n}}，我听到你在喊。发生什么事了吗？"
+msgstr "亲爱的，你们在聊什么？"
 
 #: game/story/home_player_hallway.dialogue
 msgctxt "home_player_hallway_7d6db047"
@@ -22307,7 +22307,7 @@ msgstr "现在去跑步已经太晚了。我还是去看看本地有没有 [colo
 #: game/story/home_player_exterior.dialogue
 msgctxt "home_player_exterior_58ce082b"
 msgid "Attends !"
-msgstr "{{saito.n}}！"
+msgstr "等一下！"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "home_player_exterior_e0686807"
@@ -22332,7 +22332,7 @@ msgstr "可是...！"
 #: game/story/home_player_exterior.dialogue
 msgctxt "home_player_exterior_79d38090"
 msgid "DÉGAGE BORDEL !!!"
-msgstr "{{noriko.n}}，你走开！"
+msgstr "滚开！！！"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "t5d6eae1f92"
@@ -22362,7 +22362,7 @@ msgstr "那就去做啊！你管好你的事，我管好我的事。"
 #: game/story/home_player_exterior.dialogue
 msgctxt "home_player_exterior_e246180e"
 msgid "Ne m'oblige pas à de venir violent {{noriko.n}}."
-msgstr "知道吗，你安静下来的时候，脸蛋儿其实还挺可爱的。"
+msgstr "{{noriko.n}}，我讨厌暴力。"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "home_player_exterior_b2e38d4e"
@@ -26154,7 +26154,7 @@ msgstr "可如果没听错的话，我看你是活腻味了！"
 #: game/story/dojo_exterior.dialogue
 msgctxt "dojo_exterior_3b492d5b"
 msgid "Je vais te faire gagner du temps."
-msgstr "等我弄死你以后，会顺带帮你出一份尸检报告的！死因就写： 被{{akira.n}}活活打死。"
+msgstr "我会让你死的痛快。"
 
 #: game/story/dojo_exterior.dialogue
 msgctxt "dojo_exterior_43cb2245"
@@ -35994,7 +35994,7 @@ msgstr "听起来很不错！"
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_753b7a2e"
 msgid "Je crois que le chef prend sa pause, c'est peut-être le moment ou jamais."
-msgstr "我想在那边休息的应该就是{{chef.n}}，也许我应该和他谈谈。"
+msgstr "我想在那边休息的应该就是大厨，也许我应该和他谈谈。"
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "talk_chef_dd15909a"
@@ -37964,7 +37964,7 @@ msgstr "赶快去干活！马桶可不会自己变干净。"
 #: game/story/restaurant_interior.dialogue
 msgctxt "talk_chef_interior_c83f2cc2"
 msgid "Bonjour, Chef."
-msgstr "你好，{{chef.n}}。"
+msgstr "你好，大厨。"
 
 #: game/story/restaurant_interior.dialogue
 msgctxt "talk_chef_interior_2dae05b4"
@@ -37974,7 +37974,7 @@ msgstr "嘿，小子，别再浪费时间了赶快去干活！"
 #: game/story/restaurant_interior.dialogue
 msgctxt "talk_chef_interior_92c3a503"
 msgid "Tout de suite, chef !"
-msgstr "我马上就去，{{chef.n}}！"
+msgstr "大厨，我马上就去！"
 
 #: game/story/restaurant_interior.dialogue
 msgctxt "talk_chef_interior_d2de46f4"
@@ -37989,7 +37989,7 @@ msgstr "你今天做得很好。我希望下次你也能继续努力。"
 #: game/story/restaurant_interior.dialogue
 msgctxt "talk_chef_interior_c72bee06"
 msgid "Merci, chef."
-msgstr "谢谢你，{{chef.n}}。"
+msgstr "谢谢你，大厨。"
 
 #: game/story/restaurant_interior.dialogue
 msgctxt "tedd640bdd1"
@@ -38139,7 +38139,7 @@ msgstr "几个小时以后..."
 #: game/story/restaurant_interior.dialogue
 msgctxt "talk_chef_interior_e658bec9"
 msgid "J'ai terminé Chef !"
-msgstr "{{chef.n}}，我搞定了！"
+msgstr "大厨，我搞定了！"
 
 #: game/story/restaurant_interior.dialogue
 msgctxt "talk_chef_interior_faabb192"
@@ -38369,7 +38369,7 @@ msgstr "给，拿钱下班吧！"
 #: game/story/restaurant_interior.dialogue
 msgctxt "talk_chef_interior_0f3f5092"
 msgid "Merci chef."
-msgstr "谢谢你，{{chef.n}}。"
+msgstr "谢谢你，大厨。"
 
 #: game/story/restaurant_interior.dialogue
 msgctxt "restaurant_interior_d3edb817"
@@ -38499,7 +38499,7 @@ msgstr "我看到你是跟我女儿一起过来的！"
 #: game/story/restaurant_interior.dialogue
 msgctxt "restaurant_interior_2394e090"
 msgid "Oh chef, excusez-moi, elle m'a juste accompagnée le long du trajet, je n'ai r-"
-msgstr "哦，抱歉，{{chef.n}}...她刚好和我一起来。我没有‐"
+msgstr "哦，抱歉，大厨...她刚好和我一起来。我没有‐"
 
 #: game/story/restaurant_interior.dialogue
 msgctxt "restaurant_interior_9f693acc"
@@ -38539,7 +38539,7 @@ msgstr "我说清楚了吗？"
 #: game/story/restaurant_interior.dialogue
 msgctxt "restaurant_interior_b088c4ad"
 msgid "Limpide chef !"
-msgstr "万分清楚，{{chef.n}}！"
+msgstr "万分清楚，大厨！"
 
 #: game/story/restaurant_interior.dialogue
 msgctxt "restaurant_interior_13fd4bf8"
@@ -38589,7 +38589,7 @@ msgstr "我不知道忍受另一个混蛋还是对付一个疯女孩哪个会更
 #: game/story/restaurant_interior.dialogue
 msgctxt "restaurant_interior_9d7c3c80"
 msgid "Merci pour tout Chef !"
-msgstr "谢谢你所做的一切，{{chef.n}}！"
+msgstr "大厨，谢谢你所做的一切！"
 
 #: game/story/restaurant_interior.dialogue
 msgctxt "restaurant_interior_a0fa0c10"
@@ -38684,7 +38684,8 @@ msgstr "现在去工作吧！"
 #: game/story/restaurant_interior.dialogue
 msgctxt "restaurant_interior_9ccaad4d"
 msgid "{{saito.n}} se sentant redevable, il travailla deux fois plus que d'habitude, le chef remarqua ses efforts avec un sourire au coin."
-msgstr "怀着感激之情，{{saito.n}}比平时加倍努力地工作着。{{chef.n}}也都看在眼里，在一旁傻笑。"
+msgstr "怀着感激之情，{{saito."
+"n}}比平时加倍努力地工作着。大厨也都看在眼里，在一旁傻笑。"
 
 #: game/story/restaurant_interior.dialogue
 msgctxt "restaurant_interior_1bd9110e"
@@ -39984,7 +39985,7 @@ msgstr "我很快就会回来的，亲爱的..."
 #: game/story/restaurant_sakuya_room.dialogue
 msgctxt "restaurant_sakuya_room_d9366065"
 msgid "Après ça, je donnerai à {{akira.n}} la dernière dose et on pourra le laisser partir tranquille."
-msgstr "在那之后，我会让他服下最后一剂，然后我们就可以放他走了。"
+msgstr "在那之后，我会让{{akira.n}}服下最后一剂，然后我们就可以放他走了。"
 
 #: game/story/restaurant_sakuya_room.dialogue
 msgctxt "restaurant_sakuya_room_a0770243"
@@ -41618,7 +41619,7 @@ msgid "T'as trouvé ça dans l'émasculation pour les nuls ?"
 msgstr ""
 "你难道是在“《傻瓜们的阉割》”上看的吗？\n"
 "\n"
-"PS：{{asami.n}}出场时看的那本书叫《傻瓜们的异世界》，男主此处是在借那本书名调侃。"
+"PS：麻美出场时看的那本书叫《傻瓜们的异世界》，男主此处是在借那本书名调侃。"
 
 #: game/story/home_asami_exterior.dialogue
 msgctxt "asami_choice_fdd1d7f8"
@@ -45336,7 +45337,7 @@ msgstr "与此同时，在情趣酒店的一个房间里..."
 #: game/story/love_hotel_reception.dialogue
 msgctxt "love_hotel_reception_06edcb46"
 msgid "Aaah ma chère, ma très chère {{yasuka.n}}."
-msgstr "呵呵呵..."
+msgstr "啊啊，我亲爱的，我最亲爱的{{yasuka.n}}。"
 
 #: game/story/love_hotel_reception.dialogue
 msgctxt "love_hotel_reception_729757db"
@@ -47536,7 +47537,7 @@ msgstr "哦，这我倒是一点也不惊讶！那家伙可真是个天才。虽
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "kimochi_password_6dfc1569"
 msgid "Il le tient par les couilles !"
-msgstr "他抓住了{{akira.n}}的把柄！"
+msgstr "他抓住了明的把柄！"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "kimochi_password_b2962765"
@@ -52491,7 +52492,8 @@ msgstr "[font_size=14]闭上你的臭嘴！[/font_size]"
 #: game/story/warehouse_interior.dialogue
 msgctxt "warehouse_interior_d60ae9dd"
 msgid "POURQUOI ?! POURQUOI TU FAIS TOUT ÇA ? POURQUOI TU TORTURES TA PROPRE SŒUR ?! POURQUOI TU AS PRÉTENDU ÊTRE LE MEILLEUR POTE DE {{saito.N}} POUR FINALEMENT LE TRAHIR ?"
-msgstr "为什么？！为什么你要做这些事情？为什么你要折磨自己的亲妹妹？！为什么你自称是{{saito.n}}最好的朋友却最终背叛了他？"
+msgstr "为什么？！为什么你要做这些事情？为什么你要折磨自己的亲妹妹？！为什么你自称是{"
+"{saito.N}}最好的朋友却最终背叛了他？"
 
 #: game/story/warehouse_interior.dialogue
 msgctxt "warehouse_interior_c4ca6047"
@@ -52651,7 +52653,7 @@ msgstr "...那你说吧！如果你在离开这个世界之前还有什么话要
 #: game/story/warehouse_interior.dialogue
 msgctxt "warehouse_interior_a6d01426"
 msgid "... {{macumba.N}}, SAUVE-MOIIII !"
-msgstr "...[w] {{macumba.n}}，救救我！"
+msgstr "...[w] {{macumba.N}}，救我！"
 
 #: game/story/warehouse_interior.dialogue
 msgctxt "warehouse_interior_afe815d6"
