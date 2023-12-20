@@ -113,7 +113,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-07 19:57+0100\n"
 "PO-Revision-Date: 2023-12-20 23:49+0000\n"
-"Last-Translator: shiyizuo <13821651688g@gmail.com>\n"
+"Last-Translator: DayBat <870354653@qq.com>\n"
 "Language-Team: Chinese (Simplified) <https://translations.teot-studio.com/"
 "projects/goodbye-eternity/game-translation/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -28024,7 +28024,7 @@ msgstr "小心！"
 #: game/story/park.dialogue
 msgctxt "park_c073c2b9"
 msgid "Attention !"
-msgstr "啊，射了！"
+msgstr "小心！"
 
 #: game/story/park.dialogue
 msgctxt "talk_asami_ee5355c8"
@@ -46422,12 +46422,12 @@ msgstr "我不知道...我回家想想吧。"
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "home_kimochi_exterior_bd831c09"
 msgid "C'est toi qui vois, mais ne viens pas te plaindre quand tu seras obligé de faire appel à lui."
-msgstr "取决于你，但是当你不得不找他的时候别来抱怨。"
+msgstr "由你决定，但是当你不得不去找他时，别来抱怨。"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "home_kimochi_exterior_9f0a1664"
 msgid "Tout ce que tu auras de moi c'est juste un \"Je te l'avais dit !\""
-msgstr "我只会告诉你“早干嘛去了？”"
+msgstr "我只会对你说“我早就告诉过你了！”"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "home_kimochi_exterior_251d0441"
@@ -58881,7 +58881,7 @@ msgstr "疑惑"
 #: game/scenes/characters/sprites/kimochi.tscn game/scenes/characters/sprites/netoru.tscn
 msgctxt "character.sprite.attribute"
 msgid "frustrated"
-msgstr ""
+msgstr "沮丧"
 
 #: game/scenes/characters/sprites/kimochi.tscn
 msgctxt "character.sprite.attribute"
@@ -58936,7 +58936,7 @@ msgstr "帽子"
 #: game/scenes/characters/sprites/master.tscn
 msgctxt "character.sprite.attribute"
 msgid "beanie"
-msgstr ""
+msgstr "毛线帽"
 
 #: game/scenes/gui/game_menu/main.tscn
 msgid "Oui"
@@ -58945,3 +58945,114 @@ msgstr "是的"
 #: game/scenes/gui/game_menu/main.tscn
 msgid "Non"
 msgstr "不"
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Choisir de dominer {{noriko.n}}"
+msgstr "支配{{noriko.n}}。"
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Se lier d'amitié avec {{asami.n}}."
+msgstr "与{{asami.n}}交朋友。"
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Choisir de dominer {{noriko.n}}."
+msgstr "支配{{noriko.n}}。"
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Entraînement avec {{macumba.n}}."
+msgstr "与{{macumba.n}}训练。"
+
+msgctxt "preferences.variable"
+msgid "anisotropic_filter"
+msgstr "各向异性滤波器"
+
+msgctxt "preferences.variable"
+msgid "path_hints"
+msgstr "路线提示"
+
+msgctxt "preferences.subgroup"
+msgid "Skip"
+msgstr "跳过"
+
+msgctxt "preferences.variable"
+msgid "skip_unseen"
+msgstr "跳过未读文本"
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Première apparition d'{{asami.n}}."
+msgstr "{{asami.n}}的首次出场。"
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Deuxième apparition d'{{asami.n}}."
+msgstr "{{asami.n}}的第二次出场。"
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Troisième apparition d'{{asami.n}}."
+msgstr "{{asami.n}}的第三次出场。"
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Vouloir travailler pour le restaurant."
+msgstr "在餐馆寻找工作。"
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Empêcher {{yasuka.n}} de travailler comme hôtesse."
+msgstr "阻止{{yasuka.n}}当陪酒女。"
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Domir avec {{yasuka.n}} plusieurs fois."
+msgstr "和{{yasuka.n}}一起睡几次。"
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Faire chanter {{noriko.n}}."
+msgstr "勒索{{noriko.n}}。"
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Se faire dominer par {{noriko.n}}."
+msgstr "被{{noriko.n}}支配。"
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Écouter à la porte de {{noriko.n}}."
+msgstr "在{{noriko.n}}房间门口偷听。"
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Suivre l'histoire principale."
+msgstr "跟随主线故事。"
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Travailler au restaurant."
+msgstr "在餐馆工作。"
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Corrompre {{asami.n}}."
+msgstr "让{{asami.n}}堕落。"
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Poser les bonnes questions à {{asami.n}}."
+msgstr "向{{asami.n}}提出正确的问题。"
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Laisser travailler {{yasuka.n}} comme hôtesse."
+msgstr "让{{yasuka.n}}去当陪酒女。"
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Suivre l'histoire de {{sakuya.n}}."
+msgstr "跟随{{sakuya.n}}的故事。"
