@@ -113,7 +113,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-07 19:57+0100\n"
 "PO-Revision-Date: 2023-12-20 04:39+0000\n"
-"Last-Translator: DayBat <870354653@qq.com>\n"
+"Last-Translator: shiyizuo <13821651688g@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://translations.teot-studio.com/"
 "projects/goodbye-eternity/game-translation/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -4161,7 +4161,7 @@ msgstr "但我还是得必须坚持下去..."
 #: game/story/home_player_saito_room.dialogue
 msgctxt "halteres_2701e0eb"
 msgid "Après une ou deux séances de plus, je pense que le chef changera d'avis..."
-msgstr "估计再来一两次训练，{{chef.n}}就会对我刮目相看的..."
+msgstr "估计再来一两次训练，大厨就会对我刮目相看的..."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "halteres_23a75d96"
@@ -8891,7 +8891,7 @@ msgstr "{{saito.n}}把{{yasuka.n}}送回了她的房间。她也没有反抗。"
 #: game/story/home_player_saito_room.dialogue
 msgctxt "yasuka_wake_up_saito_863d32ba"
 msgid "Elle semblait déçue, mais également dans un état d'ébriété qu'il n'avait jamais vu encore."
-msgstr "她看起来失望极了，但{{saito.n}}也从来没有见过她喝得如此酩酊大醉。"
+msgstr "她看起来失望极了，但他也从来没有见过她喝得如此酩酊大醉。"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "yasuka_wake_up_saito_8d334278"
@@ -48222,12 +48222,14 @@ msgstr "好吧...我现在要说的话，你肯定不会喜欢听的。"
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_26867542"
 msgid "Mais, pour te sortir de cette situation, si tu tiens à {{asami.n}}, et je ne sais pas trop ce que tu fais avec {{yasuka.n}} d'ailleurs, mais passons sinon je vais encore m'énerver..."
-msgstr "趁着我还没再朝你发火，有些话该说我还是得说...如果你真的关心{{asami.n}}的话..."
+msgstr ""
+"趁着我还没朝你再次发火，有些话我还是得说...我不清楚你和{{yasuka."
+"n}}到底什么关系，但是如果你真的关心{{asami.n}}的话..."
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_3c280fdb"
 msgid "Tu vas devoir rompre..."
-msgstr "当然还有{{yasuka.n}}，反正我也不知道你到底和她做了什么就是了，你必须得和她们分手..."
+msgstr "你必须得和她们分手..."
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_be5d021d"
@@ -48747,7 +48749,7 @@ msgstr "是的...[w]我看到{{noriko.n}}和那些混混们在一起..."
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_ed821f9d"
 msgid "... Oh ![w] Je vois, je vois, ça devait être difficile à voir, je comprends..."
-msgstr "...哦！[w]原来如此，原来如此，这一定让人很难以接受，我理解..."
+msgstr "...哦！[w]原来如此，原来如此。这一定让人很难以接受，我理解..."
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_b1fa10c9"
