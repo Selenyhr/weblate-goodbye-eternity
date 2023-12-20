@@ -113,7 +113,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-07 19:57+0100\n"
 "PO-Revision-Date: 2023-12-20 23:49+0000\n"
-"Last-Translator: DayBat <870354653@qq.com>\n"
+"Last-Translator: xi fang <xfang196@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://translations.teot-studio.com/"
 "projects/goodbye-eternity/game-translation/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -14353,17 +14353,17 @@ msgstr "{noriko."
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_499d7d45"
 msgid "Tout ce que j'essaie de faire c'est de comprendre pourquoi on en arrive là aujourd'hui."
-msgstr ""
+msgstr "我所做的一切都只是为了了解我们为什么会走到今天这一步"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_9b26c03c"
 msgid "Je sais que tu me caches des choses, et crois-moi je finirai par les découvrir."
-msgstr ""
+msgstr "我知道你有事瞒着我，相信我，我肯定会弄明白的。"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_f2c92a0a"
 msgid "... Va... va-t-en ! Laisse-moi tranquille. Ne t'occupe pas de mes affaires."
-msgstr ""
+msgstr "...走...走开，让我一个人清静会儿，别多管闲事。"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_01bf2617"
@@ -25816,17 +25816,17 @@ msgstr "VA BIEN TE FAIRE FOUTRE !"
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_3eba51df"
 msgid "Hgnnn..."
-msgstr ""
+msgstr "嗯哼..."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_a5ec6c91"
 msgid "Je te préviens {{noriko.n}} j'en ai ras le bas de tes..."
-msgstr ""
+msgstr "我警告你{{noriko.n}}，我已经受够了你的..."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_4564f99b"
 msgid "Oh tu ne pourras pas te cacher derrière {{yasuka.n}} cette fois-ci !"
-msgstr ""
+msgstr "哦，这次你可不能再躲在 {{yasuka.n}} 后面了！"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_8362b00d"
@@ -59056,3 +59056,155 @@ msgstr "让{{yasuka.n}}去当陪酒女。"
 msgctxt "galleries.images.hints"
 msgid "Suivre l'histoire de {{sakuya.n}}."
 msgstr "跟随{{sakuya.n}}的故事。"
+
+msgctxt "preferences.variable"
+msgid "particles"
+msgstr "粒子效果"
+
+msgctxt "preferences.variable"
+msgid "textbox_opacity"
+msgstr "文本框透明度"
+
+msgctxt "preferences.subgroup"
+msgid "Auto-save"
+msgstr "自动存档"
+
+msgctxt "preferences.group"
+msgid "Visuals"
+msgstr "显示"
+
+msgctxt "preferences.subgroup"
+msgid "Global"
+msgstr "总体"
+
+msgctxt "preferences.variable.display_mode"
+msgid "Windowed:0"
+msgstr "窗口化"
+
+msgctxt "preferences.variable.display_mode"
+msgid "Borderless Window:1"
+msgstr "无边框窗口化"
+
+msgctxt "preferences.variable.display_mode"
+msgid "Fullscreen:2"
+msgstr "全屏幕"
+
+msgctxt "preferences.variable"
+msgid "display_mode"
+msgstr "显示模式"
+
+msgctxt "preferences.subgroup"
+msgid "Performance"
+msgstr "性能"
+
+msgctxt "preferences.variable.anisotropic_filter"
+msgid "Off:0"
+msgstr "关闭"
+
+msgctxt "preferences.variable.anisotropic_filter"
+msgid "X 2:1"
+msgstr "x2"
+
+msgctxt "preferences.variable.anisotropic_filter"
+msgid "X 4:2"
+msgstr "x4"
+
+msgctxt "preferences.variable.anisotropic_filter"
+msgid "X 8:3"
+msgstr "x8"
+
+msgctxt "preferences.variable.anisotropic_filter"
+msgid "X 16:4"
+msgstr "x16"
+
+msgctxt "preferences.subgroup"
+msgid "User Interface"
+msgstr "用户界面"
+
+msgctxt "preferences.variable"
+msgid "mobile_mode"
+msgstr "行动模式"
+
+msgctxt "preferences.subgroup"
+msgid "Character pubes"
+msgstr "角色阴毛"
+
+msgctxt "preferences.variable"
+msgid "asami_pubes"
+msgstr "麻美"
+
+msgctxt "preferences.variable"
+msgid "chiaki_pubes"
+msgstr "千秋"
+
+msgctxt "preferences.variable"
+msgid "natsume_pubes"
+msgstr "夏梦"
+
+msgctxt "preferences.variable"
+msgid "noriko_pubes"
+msgstr "纪子"
+
+msgctxt "preferences.variable"
+msgid "sakuya_pubes"
+msgstr "咲夜"
+
+msgctxt "preferences.variable"
+msgid "sayuri_pubes"
+msgstr "小百合"
+
+msgctxt "preferences.variable"
+msgid "yasuka_pubes"
+msgstr "安香"
+
+msgctxt "preferences.group"
+msgid "Audio"
+msgstr "音频"
+
+msgctxt "preferences.variable"
+msgid "master_volume"
+msgstr "主音量"
+
+msgctxt "preferences.variable"
+msgid "master_mute"
+msgstr "静音"
+
+msgctxt "preferences.variable"
+msgid "music_volume"
+msgstr "音乐音量"
+
+msgctxt "preferences.variable"
+msgid "music_mute"
+msgstr "音乐静音"
+
+msgctxt "preferences.variable"
+msgid "sound_volume"
+msgstr "音效音量"
+
+msgctxt "preferences.variable"
+msgid "sound_mute"
+msgstr "音效静音"
+
+msgctxt "preferences.group"
+msgid "Language"
+msgstr "语言"
+
+msgctxt "preferences.variable"
+msgid "language"
+msgstr "语言"
+
+msgctxt "preferences.group"
+msgid "Gameplay"
+msgstr "游戏"
+
+msgctxt "preferences.variable"
+msgid "auto_on_choice"
+msgstr "选择后自动存档"
+
+msgctxt "preferences.variable"
+msgid "auto_before_quit"
+msgstr "退出前自动存档"
+
+msgctxt "preferences.subgroup"
+msgid "Hints"
+msgstr "提示"
