@@ -112,7 +112,7 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-07 19:57+0100\n"
-"PO-Revision-Date: 2023-11-25 22:33+0000\n"
+"PO-Revision-Date: 2023-12-31 10:47+0000\n"
 "Last-Translator: Veydzher <veydzherdgswift008@gmail.com>\n"
 "Language-Team: Ukrainian <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/uk/>\n"
@@ -19385,7 +19385,7 @@ msgstr "Я рада, що змогла знову змусити тебе пос
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_7b2c5ef2"
 msgid "Passe une bonne journée mon chéri."
-msgstr "Гарного дня, дорогенький."
+msgstr "Гарного дня, сонечко."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_f7a2c8ca"
@@ -21055,7 +21055,7 @@ msgstr "Ви щось сказали?"
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_83ce23e6"
 msgid "Non non, je marmonnais, n'y fais pas attention."
-msgstr "Ні, ні. Я щось бурмотіла. Не зважай."
+msgstr "Ні, ні. Я щось пробурмотіла. Не зважай."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_faafc679"
@@ -34873,12 +34873,12 @@ msgstr "Я дуже на це сподіваюся!"
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "tc78484a21f"
 msgid "[color=yellow]À propos de {{noriko.n}}.[/color]"
-msgstr ""
+msgstr "[color=yellow]Про {{noriko.n}}.[/color]"
 
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "t18afe678e6"
 msgid "[color=yellow]À propos de {{noriko.n}}.[/color]"
-msgstr ""
+msgstr "[color=yellow]Про {{noriko.n}}.[/color]"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_c4e3f356"
@@ -35013,7 +35013,7 @@ msgstr "Це мені тебе шкода."
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "t79d4b83921"
 msgid "Vous avez donné 300¥ à {{yasuka.n}}."
-msgstr ""
+msgstr "{{yasuka.n}} отримує 300¥ від тебе."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_e1dc171a"
@@ -35308,12 +35308,12 @@ msgstr "Я залишу тебе з твоїм... {{yasuka_coffeebar_answer!t}}.
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "tee9d2a10d2"
 msgid "Je vous laisse avec votre... fils."
-msgstr ""
+msgstr "Я залишу тебе з твоїм... сином."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "td13ff2e22e"
 msgid "Je vous laisse avec votre... partenaire."
-msgstr ""
+msgstr "Я залишу тебе з твоїм... партнером."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_d0babdf7"
@@ -55652,31 +55652,31 @@ msgstr ""
 
 #: game/scenes/cg/noriko/laptop.tscn
 msgid "Demi-Sœur Dépucelle Son Demi-Frère"
-msgstr ""
+msgstr "Зведена сестра позбавляє цноти зведеного брата"
 
 #: game/scenes/cg/noriko/laptop.tscn
 msgid "Demi-Sœur Se Fait Prendre Dans Son Sommeil Par Son Demi-Frère"
-msgstr ""
+msgstr "Зведену сестру трахнув зведений брат, поки вона спала"
 
 #: core/scripts/clock.gd
 msgid "morning"
-msgstr ""
+msgstr "Ранок"
 
 #: core/scripts/clock.gd
 msgid "afternoon"
-msgstr ""
+msgstr "День"
 
 #: core/scripts/clock.gd
 msgid "evening"
-msgstr ""
+msgstr "Вечір"
 
 #: core/scripts/clock.gd
 msgid "night"
-msgstr ""
+msgstr "Ніч"
 
 #: core/scripts/clock.gd
 msgid "Monday"
-msgstr ""
+msgstr "Понеділок"
 
 #: core/scripts/clock.gd
 msgid "Tuesday"
@@ -55684,7 +55684,7 @@ msgstr "Вівторок"
 
 #: core/scripts/clock.gd
 msgid "Wednesday"
-msgstr ""
+msgstr "Середа"
 
 #: core/scripts/clock.gd
 msgid "Thursday"
@@ -55692,11 +55692,11 @@ msgstr "Четвер"
 
 #: core/scripts/clock.gd
 msgid "Friday"
-msgstr ""
+msgstr "Пʼятниця"
 
 #: core/scripts/clock.gd
 msgid "Saturday"
-msgstr ""
+msgstr "Субота"
 
 #: core/scripts/clock.gd
 msgid "Sunday"
@@ -55790,12 +55790,12 @@ msgstr "Саюрі"
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Vieil homme"
-msgstr ""
+msgstr "Старик"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "home_player_exterior"
-msgstr "Дім ззовні"
+msgstr "Надворі"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
@@ -55810,7 +55810,7 @@ msgstr "Парк"
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "restaurant_exterior"
-msgstr "Ресторан ззовні"
+msgstr "Ресторан"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
@@ -55850,17 +55850,17 @@ msgstr "Хостес Клуб"
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "love_hotel_exterior"
-msgstr "Ззовні Готелю кохання"
+msgstr "Готель кохання"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "onsen_exterior"
-msgstr "Онсен ззовні"
+msgstr "Онсен"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "warehouse_exterior"
-msgstr "Назовні складу"
+msgstr "Склад"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
@@ -55870,22 +55870,22 @@ msgstr "Канал"
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "bus_stop"
-msgstr ""
+msgstr "Автобусна зупинка"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "arcade_exterior"
-msgstr ""
+msgstr "Ігровий центр"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "college_exterior"
-msgstr ""
+msgstr "Університет"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "lake"
-msgstr ""
+msgstr "Озеро"
 
 #: game/scenes/gui/gui_location.tscn
 msgid "Lundi"
@@ -55893,7 +55893,7 @@ msgstr "Понеділок"
 
 #: game/scenes/gui/gui_location.tscn
 msgid "¥ "
-msgstr ""
+msgstr "¥ "
 
 #: game/scenes/gui/gui_location.tscn
 msgid "0123456789"
@@ -55901,11 +55901,13 @@ msgstr "0123456789"
 
 #: game/scenes/gui/gui_start_asami.tscn
 msgid "ASAMI"
-msgstr "ASAMI"
+msgstr "АСАМІ"
 
 #: game/scenes/gui/gui_start_asami.tscn
 msgid "Vous pouvez dès à présent poursuivre l’histoire d’{{asami.n}} et revenir à l’intrigue principale quand vous le souhaitez."
 msgstr ""
+"Відтепер ти можеш продовжити сюжет з {{asami.n}} і повернутися до основної "
+"сюжетної лінії, коли захочеш."
 
 #: game/scenes/gui/gui_start_asami.tscn
 msgid "Vous avez fait le choix de vous lier [color=yellow]d'amitié[/color]."
@@ -55921,23 +55923,28 @@ msgstr "Я зрозумів"
 
 #: game/scenes/gui/gui_start_sakuya.tscn
 msgid "SAKUYA"
-msgstr ""
+msgstr "САКУЯ"
 
 #: game/scenes/gui/gui_start_sakuya.tscn
 msgid "Vous pouvez dès à présent poursuivre l’histoire de {{sakuya.n}}."
-msgstr ""
+msgstr "Тепер ти можеш продовжити сюжетну лінію з {{sakuya.n}}."
 
 #: game/scenes/gui/gui_start_sakuya.tscn
 msgid "Vous avez fait des choix tout au long de votre aventure, peu importe qu'ils soient bons ou mauvais. {{sakuya.n}} vous les fera assumer."
-msgstr "Протягом усієї подорожі ти робив вибір, незалежно від того, були вони хорошими чи поганими. {{sakuya.n}} змусить тебе взяти на себе відповідальність за них."
+msgstr ""
+"Протягом усієї пригоди ти робив вибір, незалежно від того, чи був він "
+"добрим, чи поганим. {{sakuya.n}} змусить тебе взяти на себе відповідальність "
+"за них."
 
 #: game/scenes/gui/gui_start_yasuka.tscn
 msgid "YASUKA"
-msgstr ""
+msgstr "ЯСУКА"
 
 #: game/scenes/gui/gui_start_yasuka.tscn
 msgid "Vous pouvez dès à présent poursuivre l’histoire de {{yasuka.n}} et revenir à l’intrigue principale quand vous le souhaitez."
 msgstr ""
+"Відтепер ти можеш продовжити сюжет з {{yasuka.n}} і повернутися до основної "
+"сюжетної лінії, коли захочеш."
 
 #: game/scenes/gui/gui_start_yasuka.tscn
 msgid "Vous avez fait le choix de l'[color=yellow]aimer et de la soutenir[/color]."
@@ -55945,27 +55952,33 @@ msgstr "Ти зробив вибір [color=yellow]любити й підтри�
 
 #: game/scenes/gui/gui_start_yasuka.tscn
 msgid "Vous avez fait le choix de la laisser [color=yellow]travailler au bar à hôtesse[/color]."
-msgstr "Ти вирішив дозволити їй [color=yellow]працювати у хостес-бар.[/color]"
+msgstr "Ти вирішив дозволити їй [color=yellow]працювати у хостес.[/color]"
 
 #: game/scenes/gui/splashscreen.tscn
 msgid "Certaines scènes de ce jeu peuvent contenir du contenu sexuellement explicite et pourrait choquer un jeune public. Tous les personnages de ce jeu sont majeurs."
 msgstr ""
-"Деякі сцени в цій грі можуть містити відверто сексуальний зміст, який може "
-"шокувати молоду авдиторію. Усі персонажі в цій грі старше 18 років."
+"Деякі сцени у цій грі можуть містити відверто сексуальний зміст і можуть "
+"бути образливими для юної авдиторії. Усі персонажі у цій грі є повнолітніми."
 
 #: game/scenes/gui/splashscreen.tscn
 msgid ""
 "Pendant votre aventure, vos choix impacteront votre entourage, si vous rejetez plusieurs fois un personnage attendez vous a ce qu’il aille voir ailleurs. Tout ceci dans le but de garder une certaine"
 " cohérence avec le monde réel."
 msgstr ""
+"Під час проходження ваш вибір впливатиме на тих, хто вас оточує. Якщо ви "
+"відмовите персонажу кілька разів, він може почати зустрічатися з іншими "
+"людьми. Це робиться для того, щоб зберегти певну узгодженість з реальним "
+"світом."
 
 #: game/scenes/gui/splashscreen.tscn
 msgid "Vos actions auront des conséquences..."
-msgstr ""
+msgstr "Ваші дії матимуть наслідки..."
 
 #: game/scenes/gui/splashscreen.tscn
 msgid "[fill]Certaines [url=data]données anonymes[/url] peuvent être récoltées pour améliorer l'expérience de jeu.[/fill]"
 msgstr ""
+"[fill]Деякі [url=data]анонімні дані[/url] можуть бути зібрані для покращення "
+"вашого ігрового досвіду[/fill]."
 
 #: game/scenes/gui/splashscreen.tscn
 msgid ""
@@ -55975,24 +55988,29 @@ msgid ""
 "- informations de plateforme (Windows, Android, etc.)\n"
 "- informations de build (animations, censure, mode web, etc.)"
 msgstr ""
+"Зібрані дані включають:\n"
+"— поточна версія гри\n"
+"— параметри гравця (режим “картоплі”)\n"
+"— інформацію про платформу (Windows, Android тощо)\n"
+"— інформація про збірку (анімація, цензура, вебрежим тощо)"
 
 #: game/scenes/gui/splashscreen.tscn
 msgid "Ces données seront recueillies après acceptation de ces termes, et ne contiennent pas d'identifiant direct ni informations externes au jeu."
 msgstr ""
-"Ці дані збираються після прийняття цих умов і не містять жодних прямих "
+"Ці дані збиратимуться після прийняття цих умов і не містять жодних прямих "
 "ідентифікаторів або інформації, що не стосується гри."
 
 #: game/scenes/gui/splashscreen.tscn
 msgid "[url=disclaimer]Retour[/url]"
-msgstr ""
+msgstr "[url=disclaimer]Назад[/url]"
 
 #: game/scenes/gui/splashscreen.tscn
 msgid "Je gère !"
-msgstr "Я впораюся!"
+msgstr "Та без проблем!"
 
 #: game/scenes/gui/splashscreen.tscn
 msgid "Sortez-moi d'ici !"
-msgstr "Забери мене звідси!"
+msgstr "Ні, не сьогодні!"
 
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
@@ -56002,7 +56020,7 @@ msgstr "Місто"
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "konbini_interior"
-msgstr ""
+msgstr "Конбіні (в приміщенні)"
 
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
@@ -56022,7 +56040,7 @@ msgstr "Коридор"
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "home_player_saito_room"
-msgstr ""
+msgstr "Кімната {{saito.n}}"
 
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
@@ -56052,7 +56070,7 @@ msgstr "Кімната {{asami.n}}"
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "restaurant_interior"
-msgstr "Інтер'єр ресторану"
+msgstr "Ресторан (у приміщенні)"
 
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
@@ -56062,52 +56080,52 @@ msgstr "Кімната {{sakuya.n}}"
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "onsen_interior"
-msgstr "Інтер'єр Онсена"
+msgstr "Онсен (у приміщенні)"
 
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "onsen_bath"
-msgstr "Ванна Онсен"
+msgstr "Онсен (лазня)"
 
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "onsen_room"
-msgstr "Кімната Онсена"
+msgstr "Онсен (кімната)"
 
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "home_kimochi_interior"
-msgstr "Інтер'єр будинку {{kimochi.n}}"
+msgstr "Будинок {{kimochi.n}} (у приміщенні)"
 
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "coffeebar_interior"
-msgstr "Інтерʼєр [i]кавʼярні[/i]"
+msgstr "[i]Кавʼярня[/i] (у приміщенні)"
 
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "hostess_club_alley"
-msgstr "Алея Хостес клубу"
+msgstr "Алея клубу хостес"
 
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "hostess_club_interior"
-msgstr "Інтер'єр Хостес клубу"
+msgstr "Клуб хостес (у приміщенні)"
 
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "love_hotel_reception"
-msgstr "Рецепція Готель кохання"
+msgstr "Рецепція готелю кохання"
 
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "love_hotel_room"
-msgstr "Номер у Готелі кохання"
+msgstr "Номер готелю кохання"
 
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "warehouse_interior"
-msgstr "Інтер'єр складу"
+msgstr "Склад (у приміщенні)"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -58867,7 +58885,7 @@ msgstr "Сумнівно"
 #: game/scenes/characters/sprites/kimochi.tscn game/scenes/characters/sprites/netoru.tscn
 msgctxt "character.sprite.attribute"
 msgid "frustrated"
-msgstr ""
+msgstr "Розчаровано"
 
 #: game/scenes/characters/sprites/kimochi.tscn
 msgctxt "character.sprite.attribute"
@@ -58922,4 +58940,350 @@ msgstr "Капелюх"
 #: game/scenes/characters/sprites/master.tscn
 msgctxt "character.sprite.attribute"
 msgid "beanie"
-msgstr ""
+msgstr "Шапочка"
+
+msgctxt "preferences.group"
+msgid "Language"
+msgstr "Мови"
+
+msgctxt "preferences.subgroup"
+msgid "Global"
+msgstr "Загальні"
+
+msgctxt "preferences.subgroup"
+msgid "User Interface"
+msgstr "Інтерфейс користувача"
+
+msgctxt "preferences.variable"
+msgid "natsume_pubes"
+msgstr "Нацуме"
+
+msgctxt "preferences.variable"
+msgid "music_mute"
+msgstr "Вимкнути звук"
+
+msgctxt "preferences.variable"
+msgid "path_hints"
+msgstr "Підказки щодо вибору"
+
+#: game/scenes/gui/game_menu/galleries.tscn game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "game_menu.crumbs"
+msgid "GALERIES"
+msgstr "ГАЛЕРЕЇ"
+
+#: game/scenes/gui/game_menu/galleries.tscn
+msgid "PERSONNAGES"
+msgstr "ПЕРСОНАЖІ"
+
+#: game/scenes/gui/game_menu/navigation.tscn
+msgid "MENU PRINCIPAL"
+msgstr "ГОЛОВНЕ МЕНЮ"
+
+#: game/scenes/gui/game_menu/preferences.tscn
+msgid "Valeur enum"
+msgstr "Перерахувати значення"
+
+msgctxt "preferences.variable.display_mode"
+msgid "Windowed:0"
+msgstr "У вікні"
+
+msgctxt "preferences.variable"
+msgid "sound_volume"
+msgstr "Гучність звуку"
+
+#: game/scenes/gui/game_menu/save_button_template.tscn
+msgctxt "saves.button.played_time_long"
+msgid "{hours}h {minutes}m"
+msgstr "{hours}год. {minutes}хв."
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "game_menu.crumbs.galleries"
+msgid "IMAGES"
+msgstr "ЗОБРАЖЕННЯ"
+
+#: game/scenes/gui/game_menu/preferences.tscn
+msgctxt "game_menu.crumbs"
+msgid "PRÉFÉRENCES"
+msgstr "НАЛАШТУВАННЯ"
+
+#: game/scenes/gui/game_menu/saves.tscn
+msgctxt "game_menu.crumbs"
+msgid "SAUVEGARDES"
+msgstr "ЗБЕРЕЖЕННЯ"
+
+#: game/scenes/gui/game_menu/navigation.tscn
+msgid "GALERIES"
+msgstr "ГАЛЕРЕЇ"
+
+#: game/scenes/gui/game_menu/galleries.tscn
+msgid "MUSIQUES"
+msgstr "МУЗИКА"
+
+#: game/scenes/gui/game_menu/galleries.tscn
+msgid "IMAGES"
+msgstr "ЗОБРАЖЕННЯ"
+
+#: game/scenes/gui/game_menu/galleries.tscn
+msgid "ARRIÈRES-PLANS"
+msgstr "ТЛА"
+
+#: game/scenes/gui/game_menu/galleries.tscn
+msgid "ANIMATIONS"
+msgstr "АНІМАЦІЇ"
+
+#: game/scenes/gui/game_menu/main.tscn
+msgid "OPTIONS"
+msgstr "ПАРАМЕТРИ"
+
+#: game/scenes/gui/game_menu/main.tscn
+msgid "RETOUR"
+msgstr "НАЗАД"
+
+#: game/scenes/gui/game_menu/navigation.tscn
+msgid "PRÉFÉRENCES"
+msgstr "НАЛАШТУВАННЯ"
+
+#: game/scenes/gui/game_menu/navigation.tscn
+msgid "SAUVEGARDES"
+msgstr "ЗБЕРЕЖЕННЯ"
+
+#: game/scenes/gui/game_menu/navigation.tscn
+msgid "RENOMMER"
+msgstr "ПЕРЕЙМЕНУВАТИ"
+
+#: game/scenes/gui/game_menu/navigation.tscn
+msgid "PATREON"
+msgstr "PATREON"
+
+#: game/scenes/gui/game_menu/navigation.tscn
+msgid "REMERCIEMENTS"
+msgstr "ПОДЯКА"
+
+#: game/scenes/gui/game_menu/navigation.tscn
+msgid "QUITTER"
+msgstr "ВИЙТИ"
+
+#: game/scenes/gui/game_menu/preferences.tscn game/scenes/gui/game_menu/galleries/images.tscn
+msgid "GROUP"
+msgstr "ГРУПА"
+
+#: game/scenes/gui/game_menu/preferences.tscn
+msgid "SUBGROUP"
+msgstr "ПІДГРУПА"
+
+#: game/scenes/gui/game_menu/preferences.tscn
+msgid "Préférence range"
+msgstr "Діапазон налаштування"
+
+#: game/scenes/gui/game_menu/preferences.tscn
+msgid "50"
+msgstr "50"
+
+#: game/scenes/gui/game_menu/preferences.tscn
+msgid "Préférence enum"
+msgstr "Перерахувати налаштування"
+
+#: game/scenes/gui/game_menu/preferences.tscn
+msgid "Préférence bool"
+msgstr "Налаштування Bool"
+
+#: game/scenes/gui/game_menu/saves.tscn
+msgid "<<"
+msgstr "<<"
+
+#: game/scenes/gui/game_menu/saves.tscn
+msgid "<"
+msgstr "<"
+
+#: game/scenes/gui/game_menu/saves.tscn
+msgid "A"
+msgstr "А"
+
+#: game/scenes/gui/game_menu/saves.tscn
+msgid "Q"
+msgstr "Ш"
+
+#: game/scenes/gui/game_menu/saves.tscn
+msgid ">"
+msgstr ">"
+
+#: game/scenes/gui/game_menu/saves.tscn
+msgid ">>"
+msgstr ">>"
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgid "TOUT"
+msgstr "УСІ"
+
+#: game/scenes/gui/main_menu.tscn
+msgid "© THE END OF TIME STUDIOS - ALL RIGHTS RESERVED"
+msgstr "© THE END OF TIME STUDIOS — УСІ ПРАВА ЗАХИЩЕНІ"
+
+#: game/scenes/gui/main_menu.tscn
+msgid "Nouvelle partie"
+msgstr "Нова гра"
+
+#: game/scenes/gui/main_menu.tscn
+msgid "Charger"
+msgstr "Завантажити"
+
+#: game/scenes/gui/main_menu.tscn
+msgid "Galeries"
+msgstr "Галереї"
+
+#: game/scenes/gui/game_menu/save_button_template.tscn
+msgctxt "saves.button.played_time_short"
+msgid "{minutes}m"
+msgstr "{minutes}хв."
+
+#: game/scenes/gui/game_menu/save_button_template.tscn
+msgid "SAUVEGARDER"
+msgstr "ЗБЕРЕГТИ"
+
+#: game/scenes/gui/game_menu/save_button_template.tscn
+msgid "CHARGER"
+msgstr "ЗАВАНТАЖИТИ"
+
+#: game/scenes/gui/game_menu/save_button_template.tscn
+msgid "Nom de sauvegarde"
+msgstr "Назва збереження"
+
+msgctxt "preferences.variable.display_mode"
+msgid "Borderless Window:1"
+msgstr "У вікні без рамок"
+
+msgctxt "preferences.variable.display_mode"
+msgid "Fullscreen:2"
+msgstr "На весь екран"
+
+msgctxt "preferences.variable"
+msgid "display_mode"
+msgstr "Режим показу"
+
+msgctxt "preferences.subgroup"
+msgid "Performance"
+msgstr "Швидкодія"
+
+msgctxt "preferences.variable.anisotropic_filter"
+msgid "Off:0"
+msgstr "Вимк."
+
+msgctxt "preferences.variable.anisotropic_filter"
+msgid "X 2:1"
+msgstr "x2"
+
+msgctxt "preferences.variable.anisotropic_filter"
+msgid "X 4:2"
+msgstr "x4"
+
+msgctxt "preferences.variable.anisotropic_filter"
+msgid "X 8:3"
+msgstr "x8"
+
+msgctxt "preferences.variable.anisotropic_filter"
+msgid "X 16:4"
+msgstr "x16"
+
+msgctxt "preferences.variable"
+msgid "anisotropic_filter"
+msgstr "Анізотропна фільтрація"
+
+msgctxt "preferences.variable"
+msgid "particles"
+msgstr "Частинки"
+
+msgctxt "preferences.variable"
+msgid "mobile_mode"
+msgstr "Режим мобільного пристрою"
+
+msgctxt "preferences.variable"
+msgid "textbox_opacity"
+msgstr "Непрозорість текстового поля"
+
+msgctxt "preferences.subgroup"
+msgid "Character pubes"
+msgstr "Волосся на лобку персонажа"
+
+msgctxt "preferences.variable"
+msgid "asami_pubes"
+msgstr "Асамі"
+
+msgctxt "preferences.variable"
+msgid "chiaki_pubes"
+msgstr "Чіакі"
+
+msgctxt "preferences.variable"
+msgid "noriko_pubes"
+msgstr "Норіко"
+
+msgctxt "preferences.variable"
+msgid "sakuya_pubes"
+msgstr "Сакуя"
+
+msgctxt "preferences.variable"
+msgid "sayuri_pubes"
+msgstr "Саюрі"
+
+msgctxt "preferences.variable"
+msgid "yasuka_pubes"
+msgstr "Ясука"
+
+msgctxt "preferences.group"
+msgid "Audio"
+msgstr "Звук"
+
+msgctxt "preferences.variable"
+msgid "master_volume"
+msgstr "Загальна гучність"
+
+msgctxt "preferences.variable"
+msgid "music_volume"
+msgstr "Гучність музики"
+
+msgctxt "preferences.variable"
+msgid "master_mute"
+msgstr "Вимкнути звук"
+
+msgctxt "preferences.group"
+msgid "Visuals"
+msgstr "Графіка"
+
+msgctxt "preferences.variable"
+msgid "language"
+msgstr "Мова"
+
+msgctxt "preferences.variable"
+msgid "sound_mute"
+msgstr "Вимкнути звук"
+
+msgctxt "preferences.group"
+msgid "Gameplay"
+msgstr "Ігролад"
+
+msgctxt "preferences.subgroup"
+msgid "Auto-save"
+msgstr "Автозбереження"
+
+msgctxt "preferences.variable"
+msgid "auto_before_quit"
+msgstr "Автозбереження перед виходом"
+
+msgctxt "preferences.subgroup"
+msgid "Hints"
+msgstr "Підказки"
+
+msgctxt "preferences.subgroup"
+msgid "Skip"
+msgstr "Пропустити"
+
+msgctxt "preferences.variable"
+msgid "skip_unseen"
+msgstr "Пропустити непрочитаний діалог"
+
+msgctxt "preferences.variable"
+msgid "skip_on_location_change"
+msgstr "Пропустити при зміні локації"
+
+msgctxt "preferences.variable"
+msgid "skip_delay"
+msgstr "Затримка пропуску"
