@@ -112,8 +112,8 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-07 19:57+0100\n"
-"PO-Revision-Date: 2023-12-31 14:00+0000\n"
-"Last-Translator: jinjay <arsoon999@gmail.com>\n"
+"PO-Revision-Date: 2024-01-01 10:13+0000\n"
+"Last-Translator: shenwanjia <abbylee0619@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <https://translations.teot-studio.com/"
 "projects/goodbye-eternity/game-translation/zh_Hant/>\n"
 "Language: zh_Hant\n"
@@ -35929,7 +35929,7 @@ msgstr "十分感謝。"
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "yasuka_talk_noriko_maledom_814d6775"
 msgid "Oh je n'ai pas fait grand chose, j'aurais aimé pouvoir faire plus."
-msgstr "哦，我沒做什麼，我希望我能幫上更多的忙。"
+msgstr "喔我沒有做那麼多。我希望我可以多做一點。"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "yasuka_talk_noriko_maledom_c0fed06e"
@@ -35939,7 +35939,7 @@ msgstr ""
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "yasuka_talk_noriko_maledom_8a0b3a25"
 msgid "Je trouverai l'origine du problème et {{noriko.n}} me sourira à nouveau."
-msgstr ""
+msgstr "我會找出問題的根源的，然後{noriko.n}會再次對我微笑的。"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "yasuka_talk_noriko_maledom_30d7207e"
@@ -59403,3 +59403,11 @@ msgstr "跟隨 {{sakuya.n}} 的故事。"
 msgctxt "galleries.images.hints"
 msgid "Choisir de dominer {{noriko.n}}."
 msgstr "支配 {{noriko.n}} 。"
+
+#: game/scenes/gui/game_menu/main.tscn
+msgid "Oui"
+msgstr "是的。"
+
+#: game/scenes/gui/game_menu/main.tscn
+msgid "Non"
+msgstr "不。"
