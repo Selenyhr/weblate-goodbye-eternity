@@ -110,7 +110,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
-"PO-Revision-Date: 2023-12-31 10:47+0000\n"
+"PO-Revision-Date: 2024-01-02 19:42+0000\n"
 "Last-Translator: Marius Wehner <marius-wehner@gmx.de>\n"
 "Language-Team: German <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/de/>\n"
@@ -55613,7 +55613,7 @@ msgstr ""
 
 #: game/scenes/cg/noriko/laptop.tscn
 msgid "Demi-Sœur Dépucelle Son Demi-Frère"
-msgstr ""
+msgstr "Stiefschwester entjungfert ihren Stiefbruder"
 
 #: game/scenes/cg/noriko/laptop.tscn
 msgid "Demi-Sœur Se Fait Prendre Dans Son Sommeil Par Son Demi-Frère"
@@ -55821,7 +55821,7 @@ msgstr ""
 #: game/scenes/locations/city.tscn
 msgctxt "location"
 msgid "warehouse_exterior"
-msgstr ""
+msgstr "Lagerhaus (Außen)"
 
 #: game/scenes/locations/city.tscn
 msgctxt "location"
@@ -55836,12 +55836,12 @@ msgstr "Bushaltestelle"
 #: game/scenes/locations/city.tscn
 msgctxt "location"
 msgid "arcade_exterior"
-msgstr ""
+msgstr "Arcade Halle (Außen)"
 
 #: game/scenes/locations/city.tscn
 msgctxt "location"
 msgid "college_exterior"
-msgstr ""
+msgstr "Universität (Außen)"
 
 #: game/scenes/locations/city.tscn
 msgctxt "location"
@@ -55867,10 +55867,13 @@ msgstr "ASAMI"
 #: game/scenes/gui/gui_start_asami.tscn
 msgid "Vous pouvez dès à présent poursuivre l’histoire d’{{asami.n}} et revenir à l’intrigue principale quand vous le souhaitez."
 msgstr ""
+"Von jetzt an kannst du {{asami.n}}'s Geschichte fortsetzen und jederzeit zur "
+"Hauptgeschickte zurückkehren."
 
 #: game/scenes/gui/gui_start_asami.tscn
 msgid "Vous avez fait le choix de vous lier [color=yellow]d'amitié[/color]."
 msgstr ""
+"Du hast dich entschieden dich mit ihr [color=yellow]anzufreunden[/color]."
 
 #: game/scenes/gui/gui_start_asami.tscn
 msgid "Vous avez fait le choix de la [color=yellow]corrompre[/color]."
@@ -55878,53 +55881,70 @@ msgstr ""
 
 #: game/scenes/gui/gui_start_asami.tscn game/scenes/gui/gui_start_sakuya.tscn game/scenes/gui/gui_start_yasuka.tscn
 msgid "J'ai compris"
-msgstr ""
+msgstr "Ich verstehe"
 
 #: game/scenes/gui/gui_start_sakuya.tscn
 msgid "SAKUYA"
-msgstr ""
+msgstr "SAKUYA"
 
 #: game/scenes/gui/gui_start_sakuya.tscn
 msgid "Vous pouvez dès à présent poursuivre l’histoire de {{sakuya.n}}."
-msgstr ""
+msgstr "Du kannst jetzt {{sakuya.n}}'s Geschichte fortsetzen."
 
 #: game/scenes/gui/gui_start_sakuya.tscn
 msgid "Vous avez fait des choix tout au long de votre aventure, peu importe qu'ils soient bons ou mauvais. {{sakuya.n}} vous les fera assumer."
 msgstr ""
+"Du hast im Verlauf deines Abenteuers Entscheidungen getroffen, ob gute oder "
+"schlechte. {{sakuya.n}} wird dich dafür Verantwortung übernehmen lassen."
 
 #: game/scenes/gui/gui_start_yasuka.tscn
 msgid "YASUKA"
-msgstr ""
+msgstr "YASUKA"
 
 #: game/scenes/gui/gui_start_yasuka.tscn
 msgid "Vous pouvez dès à présent poursuivre l’histoire de {{yasuka.n}} et revenir à l’intrigue principale quand vous le souhaitez."
 msgstr ""
+"Du kannst jetzt {{yasuka.n}}'s Geschichte fortsetzen und jederzeit zur "
+"Hauptgeschichte zurückkehren."
 
 #: game/scenes/gui/gui_start_yasuka.tscn
 msgid "Vous avez fait le choix de l'[color=yellow]aimer et de la soutenir[/color]."
 msgstr ""
+"Du hast dich entschieden sie zu [color=yellow]lieben und zu "
+"unterstützen[/color]"
 
 #: game/scenes/gui/gui_start_yasuka.tscn
 msgid "Vous avez fait le choix de la laisser [color=yellow]travailler au bar à hôtesse[/color]."
 msgstr ""
+"Du hast dich entschieden sie [color=yellow]im Hostessenclub arbeiten zu "
+"lassen[/color]."
 
 #: game/scenes/gui/splashscreen.tscn
 msgid "Certaines scènes de ce jeu peuvent contenir du contenu sexuellement explicite et pourrait choquer un jeune public. Tous les personnages de ce jeu sont majeurs."
 msgstr ""
+"Einige Szenen in diesem Spiel können sexuell explizite Inhalte enthalten und "
+"sind für junge Zuschauer ungeeignet. Alle Charaktere in diesem Spiel sind "
+"erwachsen."
 
 #: game/scenes/gui/splashscreen.tscn
 msgid ""
 "Pendant votre aventure, vos choix impacteront votre entourage, si vous rejetez plusieurs fois un personnage attendez vous a ce qu’il aille voir ailleurs. Tout ceci dans le but de garder une certaine"
 " cohérence avec le monde réel."
 msgstr ""
+"Während deines Abenteuers werden deine Entscheidungen Einfluss auf andere "
+"haben. Wenn du einen Charakter mehrfach abweist, kann es sein, dass sie sich "
+"entscheidet jemand anderen zu sehen. Dadurch soll eine gewisse Ähnlichkeit "
+"zur realen Welt erhalten bleiben."
 
 #: game/scenes/gui/splashscreen.tscn
 msgid "Vos actions auront des conséquences..."
-msgstr ""
+msgstr "Deine Handlungen werden Konsequenzen haben..."
 
 #: game/scenes/gui/splashscreen.tscn
 msgid "[fill]Certaines [url=data]données anonymes[/url] peuvent être récoltées pour améliorer l'expérience de jeu.[/fill]"
 msgstr ""
+"[fill]Manche [url=data]anonymen Daten[/url] können gesammelt werden um das "
+"Spielerlebnis zu verbessern.[/fill]"
 
 #: game/scenes/gui/splashscreen.tscn
 msgid ""
