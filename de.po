@@ -111,7 +111,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "PO-Revision-Date: 2024-01-02 19:42+0000\n"
-"Last-Translator: Marius Wehner <marius-wehner@gmx.de>\n"
+"Last-Translator: Sven Ziegler <ziegler.sven93@gmail.com>\n"
 "Language-Team: German <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/de/>\n"
 "Language: de\n"
@@ -55761,7 +55761,7 @@ msgstr "Außen"
 #: game/scenes/locations/city.tscn
 msgctxt "location"
 msgid "dojo_exterior"
-msgstr ""
+msgstr "Dojo"
 
 #: game/scenes/locations/city.tscn
 msgctxt "location"
@@ -55796,7 +55796,7 @@ msgstr ""
 #: game/scenes/locations/city.tscn
 msgctxt "location"
 msgid "home_natsume_exterior"
-msgstr ""
+msgstr "Das Haus von {{natsume.n}}"
 
 #: game/scenes/locations/city.tscn
 msgctxt "location"
@@ -55811,12 +55811,12 @@ msgstr ""
 #: game/scenes/locations/city.tscn
 msgctxt "location"
 msgid "love_hotel_exterior"
-msgstr ""
+msgstr "Liebeshotel (Außenseite)"
 
 #: game/scenes/locations/city.tscn
 msgctxt "location"
 msgid "onsen_exterior"
-msgstr ""
+msgstr "Heiße Quelle"
 
 #: game/scenes/locations/city.tscn
 msgctxt "location"
@@ -55954,10 +55954,17 @@ msgid ""
 "- informations de plateforme (Windows, Android, etc.)\n"
 "- informations de build (animations, censure, mode web, etc.)"
 msgstr ""
+"\"Die gesammelten Daten umfassen:\n"
+"- aktuelle Versionsnummer\n"
+"- Spielerpräferenzen (Modus \"patate\")\n"
+"- Plattforminformationen (Windows, Android usw.)\n"
+"- Build-Informationen (Animationen, Zensur, Webmodus usw.)\""
 
 #: game/scenes/gui/splashscreen.tscn
 msgid "Ces données seront recueillies après acceptation de ces termes, et ne contiennent pas d'identifiant direct ni informations externes au jeu."
 msgstr ""
+"Diese Daten werden nach Annahme dieser Bedingungen gesammelt und enthalten "
+"keine direkten Identifikatoren oder Informationen außerhalb des Spiels."
 
 #: game/scenes/gui/splashscreen.tscn
 msgid "[url=disclaimer]Retour[/url]"
