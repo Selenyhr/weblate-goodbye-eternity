@@ -112,7 +112,7 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-07 19:57+0100\n"
-"PO-Revision-Date: 2024-01-02 20:49+0000\n"
+"PO-Revision-Date: 2024-01-02 22:52+0000\n"
 "Last-Translator: Joel Vizcarra <joelpazvizcarra@gmail.com>\n"
 "Language-Team: Spanish <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/es/>\n"
@@ -21893,7 +21893,7 @@ msgstr "Si realmente quieres ayudar, vete y no vuelvas nunca."
 #: game/story/home_player_hallway.dialogue
 msgctxt "t054f10dd07"
 msgid "[hint=ROUTE FEMDOM/MALEDOM]Dans tes rêves {{noriko.n}} !"
-msgstr ""
+msgstr "[hint=RUTA FEMDOM/MALEDOM]¡En tus sueños, {{noriko.n}}!"
 
 #: game/story/home_player_hallway.dialogue
 msgctxt "home_player_hallway_e2efdd07"
@@ -21918,7 +21918,7 @@ msgstr "¡Fuera de mi camino!"
 #: game/story/home_player_hallway.dialogue
 msgctxt "t43dc392295"
 msgid "[hint=ROUTE REJET/CHANTAGE]Va te faire foutre {{noriko.n}} !"
-msgstr ""
+msgstr "[hint=RECHAZO DE RUTA/NEGRO]¡Vete a la mierda {{noriko.n}}!"
 
 #: game/story/home_player_hallway.dialogue
 msgctxt "home_player_hallway_25d48ba9"
@@ -45145,6 +45145,8 @@ msgstr "Pasa algo de tiempo con {{yasuka.n}}."
 msgctxt "t28cd6d4a26"
 msgid "Si je veux inviter {{yasuka.n}} à passer une nuit avec moi, mieux vaut le faire en semaine."
 msgstr ""
+"Si quisiera invitar a {{yasuka.n}} a pasar una noche conmigo, es mejor "
+"hacerlo durante la semana."
 
 #: game/story/love_hotel_reception.dialogue
 msgctxt "love_hotel_sexe_with_yasuka_aba9bb9b"
@@ -52990,37 +52992,43 @@ msgstr "¡Por fin podré vengarme de esa pequeña mierda!"
 #: game/story/warehouse_interior.dialogue
 msgctxt "warehouse_interior_1454db06"
 msgid "J'ai hâte de voir vos talents à l'œuvre."
-msgstr ""
+msgstr "No puedo esperar a ver tus habilidades en acción."
 
 #: game/story/warehouse_interior.dialogue
 msgctxt "warehouse_interior_8f090c78"
 msgid "Oh vous ne saurez pas être déçu."
-msgstr ""
+msgstr "Ahh, no te decepcionarás."
 
 #: game/story/warehouse_interior.dialogue
 msgctxt "warehouse_interior_32f25c7f"
 msgid "Merci encore pour votre soutien."
-msgstr ""
+msgstr "Gracias de nuevo por tu apoyo."
 
 #: game/story/warehouse_interior.dialogue
 msgctxt "warehouse_interior_63722bb4"
 msgid "Peu importe, suivez le plan scrupuleusement sans faute et tout ce que vous aurez perdu vous sera restitué. Et bien plus encore."
 msgstr ""
+"Pase lo que pase, sigue el plan meticulosamente sin falta y todo lo que has "
+"perdido te será devuelto y algo más."
 
 #: game/story/warehouse_interior.dialogue
 msgctxt "warehouse_interior_b0a7e5c4"
 msgid "D'ailleurs... je viens de recevoir l'information que j'attendais, vous pouvez passer à l'action dès maintenant."
 msgstr ""
+"Por cierto... acabo de recibir la información que estaba esperando. Puedes "
+"actuar ahora mismo."
 
 #: game/story/warehouse_interior.dialogue
 msgctxt "warehouse_interior_da5c6e64"
 msgid "Faites attention, attendez bien d'être seul. Gérer les témoins est vraiment épuisant et coûte bien trop d'argent."
 msgstr ""
+"Ten cuidado y asegúrate de estar solo; Tratar con testigos es realmente "
+"agotador y cuesta demasiado dinero."
 
 #: game/story/warehouse_interior.dialogue
 msgctxt "warehouse_interior_0bf037cd"
 msgid "Je serai extrêmement prudent. Sur ce, j'y vais tout de suite !"
-msgstr ""
+msgstr "Seré extremadamente cuidadoso con eso. ¡Me voy ahora mismo!"
 
 #: game/story/konbini_exterior.dialogue
 msgctxt "konbini_exterior_310c427c"
@@ -55756,117 +55764,141 @@ msgstr ""
 #: game/story/arcade_exterior.dialogue
 msgctxt "arcade_center_exterior_6c070e34"
 msgid "[font_size=14]T'ainnnn mais vous branliez quoi ?![/font_size]"
-msgstr ""
+msgstr "[font_size=14]Maldita sea, ¡¿qué estaban haciendo ustedes?![/font_size]"
 
 #: game/story/arcade_exterior.dialogue
 msgctxt "arcade_center_exterior_29c87101"
 msgid "[font_size=14]C'est pas à moi de tout faire pour vous quand même ?[/font_size]"
 msgstr ""
+"[font_size=14]Se supone que no debo hacer todo por ustedes, "
+"¿verdad?[/font_size]"
 
 #: game/story/arcade_exterior.dialogue
 msgctxt "arcade_center_exterior_e8de1011"
 msgid "[font_size=14]Juste un petit contre-temps.[/font_size]"
-msgstr ""
+msgstr "[font_size=14]Solo un pequeño revés.[/font_size]"
 
 #: game/story/arcade_exterior.dialogue
 msgctxt "arcade_center_exterior_26151af2"
 msgid "[font_size=14]Oui... Rien de grave, c'était juste {{saito.n}} qui trouvait ma mère \"intéressante.\"[/font_size]"
 msgstr ""
+"[font_size=14]Sí... Nada grave. Simplemente {{saito.n}} encontró a mi madre "
+"'interesante'.[/font_size]"
 
 #: game/story/arcade_exterior.dialogue
 msgctxt "arcade_center_exterior_6c315e6a"
 msgid "[font_size=14]Bordel {{saito.n}} ! Tu vas arrêter d'aller manger à tous les râteliers ?![/font_size]"
 msgstr ""
+"[font_size=14]¡Maldita sea, {{saito.n}}! ¡¿Alguna vez dejarás de mojar los "
+"dedos en cada pastel?![/font_size]"
 
 #: game/story/arcade_exterior.dialogue
 msgctxt "arcade_center_exterior_5882a6dd"
 msgid "[font_size=14]Hey, je ne faisais que discuter. J'ai dit intéressante mais j'ai mal choisi mes mots, j'aurais dû dire sympa c'est tout.[/font_size]"
 msgstr ""
+"[font_size=14]Oye, ¡solo estaba hablando! Dije 'interesante', pero elegí mal "
+"mis palabras. Debería haber dicho 'agradable', eso es todo.[/font_size]"
 
 #: game/story/arcade_exterior.dialogue
 msgctxt "arcade_center_exterior_617b0b56"
 msgid "[font_size=14]Ouais c'est ça...[w] Ça commence toujours comme ça.[/font_size]"
-msgstr ""
+msgstr "[font_size=14]Sí, claro...[w] Siempre comienza así.[/font_size]"
 
 #: game/story/arcade_exterior.dialogue
 msgctxt "arcade_center_exterior_dc833f7b"
 msgid "[font_size=14]{{asami.n}} si tu cherches un autre mec je...[/font_size]"
 msgstr ""
+"[font_size=14]{{asami.n}} si estás buscando a otro chico yo...[/font_size]"
 
 #: game/story/arcade_exterior.dialogue
 msgctxt "arcade_center_exterior_7e7d9515"
 msgid "[font_size=14]Même pas en rêve.[/font_size]"
-msgstr ""
+msgstr "[font_size=14]Ni siquiera en tus sueños.[/font_size]"
 
 #: game/story/arcade_exterior.dialogue
 msgctxt "arcade_center_exterior_f2da07a4"
 msgid "[font_size=14]Que fait-elle depuis tout à l'heure ? Elle ne rentre pas ?[/font_size]"
 msgstr ""
+"[font_size=14]¿Qué ha estado haciendo ella todo este tiempo? ¿No va a "
+"entrar?[/font_size]"
 
 #: game/story/arcade_exterior.dialogue
 msgctxt "arcade_center_exterior_f130f23c"
 msgid "[font_size=14]Non... elle est resté figée devant cette machine en soupirant.[/font_size]"
 msgstr ""
+"[font_size=14]No... Ella ha estado parada frente a esa máquina, "
+"suspirando.[/font_size]"
 
 #: game/story/arcade_exterior.dialogue
 msgctxt "arcade_center_exterior_3ab84d3a"
 msgid "[font_size=14]Cette machine m'évoque quelque chose mais je ne sais pas quoi.[/font_size]"
-msgstr ""
+msgstr "[font_size=14]Esa máquina me recuerda algo, pero no sé qué.[/font_size]"
 
 #: game/story/arcade_exterior.dialogue
 msgctxt "arcade_center_exterior_69708ef3"
 msgid "[font_size=14]On ira l'inspecter après, mais de ce que je peux voir c'est un vieux modèle.[/font_size]"
 msgstr ""
+"[font_size=14]Podemos comprobarlo más tarde, pero por lo que puedo ver, es "
+"un modelo antiguo.[/font_size]"
 
 #: game/story/arcade_exterior.dialogue
 msgctxt "arcade_center_exterior_989cb00d"
 msgid "[font_size=14]Il a facilement plus de 10 ans.[/font_size]"
-msgstr ""
+msgstr "[font_size=14]Tiene fácilmente más de 10 años.[/font_size]"
 
 #: game/story/arcade_exterior.dialogue
 msgctxt "arcade_center_exterior_febafb3d"
 msgid "[font_size=14]Si c'est aussi vieux, est-ce que ça aurait un rapport avec ce qu'il s'est passé ?[/font_size]"
 msgstr ""
+"[font_size=14]Si es tan antiguo, ¿podría tener algo que ver con lo que "
+"pasó?[/font_size]"
 
 #: game/story/arcade_exterior.dialogue
 msgctxt "arcade_center_exterior_ddb12f0c"
 msgid "[font_size=14]Elle semble si...[w] {{saito.n}} il faut que j'aille lui faire un câlin, elle me fait trop de peine ![/font_size]"
 msgstr ""
+"[font_size=14]Ella parece tan...[w] {{saito.n}}, ¡tengo que ir a darle un "
+"abrazo! ¡Me pone muy triste![/font_size]"
 
 #: game/story/arcade_exterior.dialogue
 msgctxt "arcade_center_exterior_6d2d544b"
 msgid "[font_size=14]Mais ça va pas dans ta tête ?! Reste cachée, si elle apprend que tu la surveilles elle ne te fera certainement plus confiance à l'avenir.[/font_size]"
 msgstr ""
+"[font_size=14]¿Estás loco? ¡Mantente oculto! Si descubre que la estás "
+"vigilando, definitivamente no confiará en ti en el futuro.[/font_size]"
 
 #: game/story/arcade_exterior.dialogue
 msgctxt "arcade_center_exterior_7bbf1256"
 msgid "[font_size=14]Il a raison, même si c'est dur tu dois résister. On doit comprendre pourquoi, sinon on aura fait tout ça pour rien.[/font_size]"
 msgstr ""
+"[font_size=14]Tiene razón. Aunque me cueste, tengo que resistir. Necesitamos "
+"entender por qué. De lo contrario, habremos hecho todo esto por "
+"nada.[/font_size]"
 
 #: game/story/arcade_exterior.dialogue
 msgctxt "arcade_center_exterior_f1e95324"
 msgid "[font_size=14]C'est trop dur de la regarder comme ça.[/font_size]"
-msgstr ""
+msgstr "[font_size=14]Es demasiado difícil verla así.[/font_size]"
 
 #: game/story/arcade_exterior.dialogue
 msgctxt "arcade_center_exterior_3b94d80b"
 msgid "[font_size=14]{{noriko.n}} sois forte ![/font_size]"
-msgstr ""
+msgstr "[font_size=14]{{noriko.n}} ¡sé fuerte![/font_size]"
 
 #: game/story/arcade_exterior.dialogue
 msgctxt "arcade_center_exterior_ae295143"
 msgid "Elle s'en va !"
-msgstr ""
+msgstr "¡Ella se está yendo!"
 
 #: game/story/arcade_exterior.dialogue
 msgctxt "arcade_center_exterior_c6679a1d"
 msgid "Continuons de la suivre !"
-msgstr ""
+msgstr "¡Sigamos siguiéndola!"
 
 #: game/story/arcade_exterior.dialogue
 msgctxt "arcade_center_exterior_9ddf98c0"
 msgid "Elle prend la direction du parc."
-msgstr ""
+msgstr "Ella se dirige al parque."
 
 #: game/scenes/cg/noriko/laptop.tscn
 msgid "Demi-Sœur Dépucelle Son Demi-Frère"
