@@ -112,7 +112,7 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-07 19:57+0100\n"
-"PO-Revision-Date: 2024-01-03 16:29+0000\n"
+"PO-Revision-Date: 2024-01-04 04:07+0000\n"
 "Last-Translator: Development team <info@teot-studio.com>\n"
 "Language-Team: Chinese (Simplified) <https://translations.teot-studio.com/"
 "projects/goodbye-eternity/game-translation/zh_Hans/>\n"
@@ -14347,8 +14347,8 @@ msgstr "如果你多关心点你自己少关心点我，我们就不会变成这
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_d7b86515"
 msgid "Attention à toi {{noriko.n}}. Je veux bien être gentil, mais je ne suis plus le garçon docile sur lequel tu pouvais marcher."
-msgstr "{noriko."
-"n}，你给我小心点。我愿意与你好好相处，但我决不是以前那个忍气吞声的小男孩了。"
+msgstr "{{noriko."
+"n}}，你给我小心点。我愿意与你好好相处，但我决不是以前那个忍气吞声的小男孩了。"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_499d7d45"
@@ -25809,6 +25809,7 @@ msgid "Eh bien alors ?! {{saito.n}} le déchet pète les plombs ?"
 msgstr "那么怎么样？{{saito.n}}这个废物疯了吗？"
 
 #: game/story/home_player_exterior.dialogue
+#, fuzzy
 msgctxt "t5ac66d11c5"
 msgid "VA BIEN TE FAIRE FOUTRE !"
 msgstr "VA BIEN TE FAIRE FOUTRE !"
@@ -43603,7 +43604,7 @@ msgstr "你掌握她的信息越多，我们对她描绘出来的形象就越完
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_1be57732"
 msgid "C'est cohérent... Alors {{saito.n}} ?"
-msgstr "说的有道理...那么，{saito.n}}？"
+msgstr "说的有道理...那么，{{saito.n}}？"
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "t492e707036"
@@ -53386,7 +53387,7 @@ msgstr "我们快点吧。"
 #: game/story/konbini_exterior.dialogue
 msgctxt "konbini_exterior_ebaabf95"
 msgid "Bon sang {{noriko.n}}... Après {{akira.n}} les putains de thugs ?"
-msgstr "该死，{noriko.n}}...除了{{akira.n}}以外，还有那些混混？"
+msgstr "该死，{{noriko.n}}...除了{{akira.n}}以外，还有那些混混？"
 
 #: game/story/konbini_exterior.dialogue
 msgctxt "konbini_exterior_32de5c0d"
@@ -56039,7 +56040,7 @@ msgstr "走廊"
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "home_player_saito_room"
-msgstr "{{saito.n}}}的房间"
+msgstr "{{saito.n}}的房间"
 
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
@@ -56709,7 +56710,7 @@ msgstr "等明天继续跟踪{{noriko.n}}。"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "noriko_maledom_32"
-msgstr "到客厅找{yasuka.n}}。"
+msgstr "到客厅找{{yasuka.n}}。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
