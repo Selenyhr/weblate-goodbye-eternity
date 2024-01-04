@@ -112,8 +112,8 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-07 19:57+0100\n"
-"PO-Revision-Date: 2024-01-04 04:07+0000\n"
-"Last-Translator: Development team <info@teot-studio.com>\n"
+"PO-Revision-Date: 2024-01-04 13:44+0000\n"
+"Last-Translator: Veydzher <veydzherdgswift008@gmail.com>\n"
 "Language-Team: Ukrainian <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/uk/>\n"
 "Language: uk\n"
@@ -25835,10 +25835,9 @@ msgid "Eh bien alors ?! {{saito.n}} le déchet pète les plombs ?"
 msgstr ""
 
 #: game/story/home_player_exterior.dialogue
-#, fuzzy
 msgctxt "t5ac66d11c5"
 msgid "VA BIEN TE FAIRE FOUTRE !"
-msgstr "VA BIEN TE FAIRE FOUTRE !"
+msgstr "ТА ЧОРТ ПОБЕРИ ТЕБЕ!"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_3eba51df"
@@ -31394,7 +31393,7 @@ msgstr "Може варто мені повернутися до збоченц�
 #: game/story/park.dialogue
 msgctxt "talk_natsume_6dbfffdb"
 msgid "Salut {{natsume.n}}, je ne pensais pas sincèrement te revoir."
-msgstr "Привіт, {{natsume.n}}, я справді не думав, що побачу тебе знову."
+msgstr "Привіт, {{natsume.n}}, а я не думав, що побачу тебе знову."
 
 #: game/story/park.dialogue
 msgctxt "talk_natsume_f67dbfba"
@@ -31414,17 +31413,18 @@ msgstr "Якщо ти про {{asami.n}}, то вона чекатиме теб�
 #: game/story/park.dialogue
 msgctxt "talk_natsume_bcff6ec5"
 msgid "Je sais à quel point il est dangereux."
-msgstr "Ти ж знаєш, який він небезпечний."
+msgstr "Ти знаєш, який він небезпечний."
 
 #: game/story/park.dialogue
 msgctxt "talk_natsume_e22356cf"
 msgid "Alors, tu es le garçon le plus idiot que je connaisse."
-msgstr "Ти, мабуть, найтупіший хлопець, якого я знаю."
+msgstr "Ти, мабуть, найтупіший хлопець якого я знаю."
 
 #: game/story/park.dialogue
 msgctxt "talk_natsume_e889403a"
 msgid "Si tu sais qu'il est dangereux, pourquoi tu continues de venir me parler ?"
-msgstr "Якщо ти знаєш, що він такий небезпечний, чому продовжуєш зі мною розмовляти?"
+msgstr ""
+"Якщо ти знаєш, що він такий небезпечний, чому ти досі зі мною розмовляєш?"
 
 #: game/story/park.dialogue
 msgctxt "talk_natsume_1413eb61"
@@ -58605,7 +58605,7 @@ msgstr ""
 #: game/scenes/characters/sprites/sayuri.tscn game/scenes/characters/sprites/master.tscn
 msgctxt "character.sprite.group"
 msgid "face"
-msgstr "На обличчя"
+msgstr "Вираз обличчя"
 
 #: game/scenes/characters/sprites/saito.tscn game/scenes/characters/sprites/noriko.tscn game/scenes/characters/sprites/yasuka.tscn game/scenes/characters/sprites/chiaki.tscn
 #: game/scenes/characters/sprites/minato.tscn game/scenes/characters/sprites/macumba.tscn game/scenes/characters/sprites/natsume.tscn game/scenes/characters/sprites/sakuya.tscn
@@ -58657,19 +58657,19 @@ msgstr "Здивоване"
 #: game/scenes/characters/sprites/netoru.tscn game/scenes/characters/sprites/master.tscn
 msgctxt "character.sprite.attribute"
 msgid "angry"
-msgstr "Зле"
+msgstr "Розлючене"
 
 #: game/scenes/characters/sprites/saito.tscn
 msgctxt "character.sprite.attribute"
 msgid "underwear"
-msgstr ""
+msgstr "Спідня білизна"
 
 #: game/scenes/characters/sprites/saito.tscn game/scenes/characters/sprites/asami.tscn game/scenes/characters/sprites/noriko.tscn game/scenes/characters/sprites/yasuka.tscn
 #: game/scenes/characters/sprites/chiaki.tscn game/scenes/characters/sprites/minato.tscn game/scenes/characters/sprites/natsume.tscn game/scenes/characters/sprites/netoru.tscn
 #: game/scenes/characters/sprites/sayuri.tscn
 msgctxt "character.sprite.attribute"
 msgid "everyday"
-msgstr "Щодня"
+msgstr "Повсякденне"
 
 #: game/scenes/characters/sprites/saito.tscn game/scenes/characters/sprites/macumba.tscn game/scenes/characters/sprites/netoru.tscn
 msgctxt "character.sprite.attribute"
@@ -58684,7 +58684,7 @@ msgstr "Рушник"
 #: game/scenes/characters/sprites/asami.tscn
 msgctxt "character.sprite.group"
 msgid "base"
-msgstr ""
+msgstr "Шкіра"
 
 #: game/scenes/characters/sprites/asami.tscn game/scenes/characters/sprites/noriko.tscn game/scenes/characters/sprites/yasuka.tscn game/scenes/characters/sprites/chiaki.tscn
 #: game/scenes/characters/sprites/sakuya.tscn game/scenes/characters/sprites/kimochi.tscn game/scenes/characters/sprites/sayuri.tscn
@@ -58695,33 +58695,33 @@ msgstr "Настрій"
 #: game/scenes/characters/sprites/asami.tscn
 msgctxt "character.sprite.group"
 msgid "birthmark"
-msgstr ""
+msgstr "Родимка"
 
 #: game/scenes/characters/sprites/asami.tscn
 msgctxt "character.sprite.group"
 msgid "clothes"
-msgstr ""
+msgstr "Одяг"
 
 #: game/scenes/characters/sprites/asami.tscn
 msgctxt "character.sprite.attribute"
 msgid "tan"
-msgstr ""
+msgstr "Засмага"
 
 #: game/scenes/characters/sprites/asami.tscn
 msgctxt "character.sprite.attribute"
 msgid "notan"
-msgstr ""
+msgstr "Натуральне"
 
 #: game/scenes/characters/sprites/asami.tscn game/scenes/characters/sprites/noriko.tscn game/scenes/characters/sprites/yasuka.tscn game/scenes/characters/sprites/chiaki.tscn
 #: game/scenes/characters/sprites/natsume.tscn game/scenes/characters/sprites/sakuya.tscn game/scenes/characters/sprites/kimochi.tscn game/scenes/characters/sprites/sayuri.tscn
 msgctxt "character.sprite.attribute"
 msgid "blush"
-msgstr "Червоніте"
+msgstr "Почервоніле"
 
 #: game/scenes/characters/sprites/asami.tscn game/scenes/characters/sprites/sakuya.tscn
 msgctxt "character.sprite.attribute"
 msgid "bored"
-msgstr "Нудно"
+msgstr "Скучне"
 
 #: game/scenes/characters/sprites/asami.tscn game/scenes/characters/sprites/yasuka.tscn game/scenes/characters/sprites/natsume.tscn game/scenes/characters/sprites/sakuya.tscn
 #: game/scenes/characters/sprites/sayuri.tscn
@@ -58743,7 +58743,7 @@ msgstr "Плаття"
 #: game/scenes/characters/sprites/natsume.tscn game/scenes/characters/sprites/sakuya.tscn game/scenes/characters/sprites/sayuri.tscn
 msgctxt "character.sprite.attribute"
 msgid "nude"
-msgstr "Роздяглися"
+msgstr "Роздягнуте"
 
 #: game/scenes/characters/sprites/asami.tscn
 msgctxt "character.sprite.attribute"
@@ -58753,18 +58753,18 @@ msgstr "Сексуальне"
 #: game/scenes/characters/sprites/asami.tscn game/scenes/characters/sprites/noriko.tscn game/scenes/characters/sprites/yasuka.tscn game/scenes/characters/sprites/sayuri.tscn
 msgctxt "character.sprite.attribute"
 msgid "babydoll"
-msgstr "Лялька"
+msgstr "Нічне вбрання"
 
 #: game/scenes/characters/sprites/noriko.tscn game/scenes/characters/sprites/natsume.tscn
 msgctxt "character.sprite.attribute"
 msgid "cute"
-msgstr "Мило"
+msgstr "Миле"
 
 #: game/scenes/characters/sprites/noriko.tscn game/scenes/characters/sprites/kimochi.tscn game/scenes/characters/sprites/kenji.tscn game/scenes/characters/sprites/takeo.tscn
 #: game/scenes/characters/sprites/nobu.tscn
 msgctxt "character.sprite.attribute"
 msgid "disgusted"
-msgstr "Огидне"
+msgstr "Бридке"
 
 #: game/scenes/characters/sprites/noriko.tscn game/scenes/characters/sprites/natsume.tscn
 msgctxt "character.sprite.attribute"
@@ -58774,7 +58774,7 @@ msgstr "Засоромлене"
 #: game/scenes/characters/sprites/noriko.tscn game/scenes/characters/sprites/chiaki.tscn game/scenes/characters/sprites/natsume.tscn
 msgctxt "character.sprite.attribute"
 msgid "afraid"
-msgstr "Боязно"
+msgstr "Боязне"
 
 #: game/scenes/characters/sprites/noriko.tscn game/scenes/characters/sprites/natsume.tscn game/scenes/characters/sprites/kenji.tscn game/scenes/characters/sprites/takeo.tscn
 #: game/scenes/characters/sprites/nobu.tscn game/scenes/characters/sprites/netoru.tscn game/scenes/characters/sprites/master.tscn
@@ -58790,12 +58790,12 @@ msgstr "У піжамі"
 #: game/scenes/characters/sprites/yasuka.tscn game/scenes/characters/sprites/sayuri.tscn
 msgctxt "character.sprite.attribute"
 msgid "moved"
-msgstr "Переміщається"
+msgstr "Симпатичне"
 
 #: game/scenes/characters/sprites/yasuka.tscn game/scenes/characters/sprites/sayuri.tscn
 msgctxt "character.sprite.attribute"
 msgid "depressed"
-msgstr "Депресія"
+msgstr "Депресивне"
 
 #: game/scenes/characters/sprites/yasuka.tscn
 msgctxt "character.sprite.attribute"
@@ -58816,12 +58816,12 @@ msgstr "Аксесуари"
 #: game/scenes/characters/sprites/chiaki.tscn
 msgctxt "character.sprite.attribute"
 msgid "cry"
-msgstr "Плаче"
+msgstr "Плачливе"
 
 #: game/scenes/characters/sprites/chiaki.tscn
 msgctxt "character.sprite.attribute"
 msgid "shy"
-msgstr "Сором'язливе"
+msgstr "Сором’язливе"
 
 #: game/scenes/characters/sprites/chiaki.tscn
 msgctxt "character.sprite.attribute"
@@ -58836,12 +58836,12 @@ msgstr "Вдумливе"
 #: game/scenes/characters/sprites/chiaki.tscn
 msgctxt "character.sprite.attribute"
 msgid "jewels"
-msgstr ""
+msgstr "Коштовності"
 
 #: game/scenes/characters/sprites/chiaki.tscn
 msgctxt "character.sprite.attribute"
 msgid "lingerie"
-msgstr "Жіноча білизна"
+msgstr "Спідня білизна"
 
 #: game/scenes/characters/sprites/minato.tscn
 msgctxt "character.sprite.attribute"
@@ -58851,7 +58851,7 @@ msgstr "Підозріле"
 #: game/scenes/characters/sprites/natsume.tscn
 msgctxt "character.sprite.group"
 msgid "Mood"
-msgstr ""
+msgstr "Настрій"
 
 #: game/scenes/characters/sprites/sakuya.tscn
 msgctxt "character.sprite.group"
@@ -58861,17 +58861,17 @@ msgstr "Волосся"
 #: game/scenes/characters/sprites/sakuya.tscn
 msgctxt "character.sprite.attribute"
 msgid "natural"
-msgstr "Природні"
+msgstr "Натуральне"
 
 #: game/scenes/characters/sprites/sakuya.tscn
 msgctxt "character.sprite.attribute"
 msgid "job"
-msgstr "Зв'язана"
+msgstr "Зв’язане"
 
 #: game/scenes/characters/sprites/sakuya.tscn
 msgctxt "character.sprite.attribute"
 msgid "melancholic"
-msgstr "Меланхолічно"
+msgstr "Пригнічене"
 
 #: game/scenes/characters/sprites/sakuya.tscn
 msgctxt "character.sprite.attribute"
@@ -58881,17 +58881,17 @@ msgstr "Кімоно"
 #: game/scenes/characters/sprites/kimochi.tscn
 msgctxt "character.sprite.attribute"
 msgid "doubt"
-msgstr "Сумнівно"
+msgstr "Сумнівне"
 
 #: game/scenes/characters/sprites/kimochi.tscn game/scenes/characters/sprites/netoru.tscn
 msgctxt "character.sprite.attribute"
 msgid "frustrated"
-msgstr "Розчаровано"
+msgstr "Розчароване"
 
 #: game/scenes/characters/sprites/kimochi.tscn
 msgctxt "character.sprite.attribute"
 msgid "horny"
-msgstr "Збуджено"
+msgstr "Збуджене"
 
 #: game/scenes/characters/sprites/kimochi.tscn game/scenes/characters/sprites/netoru.tscn
 msgctxt "character.sprite.attribute"
@@ -58906,7 +58906,7 @@ msgstr "Знущальне"
 #: game/scenes/characters/sprites/chef.tscn
 msgctxt "character.sprite.attribute"
 msgid "hat"
-msgstr "Капелюх"
+msgstr "Шапочка"
 
 #: game/scenes/characters/sprites/akira.tscn game/scenes/characters/sprites/netoru.tscn
 msgctxt "character.sprite.attribute"
@@ -58936,7 +58936,7 @@ msgstr "Дзвінок"
 #: game/scenes/characters/sprites/master.tscn
 msgctxt "character.sprite.group"
 msgid "hat"
-msgstr "Капелюх"
+msgstr "Головний убір"
 
 #: game/scenes/characters/sprites/master.tscn
 msgctxt "character.sprite.attribute"
@@ -59203,7 +59203,7 @@ msgstr "Непрозорість текстового поля"
 
 msgctxt "preferences.subgroup"
 msgid "Character pubes"
-msgstr "Волосся на лобку персонажа"
+msgstr "Волосся на лобку"
 
 msgctxt "preferences.variable"
 msgid "asami_pubes"
@@ -59279,12 +59279,51 @@ msgstr "Пропустити"
 
 msgctxt "preferences.variable"
 msgid "skip_unseen"
-msgstr "Пропустити непрочитаний діалог"
+msgstr "Пропускати непрочитаний діалог"
 
 msgctxt "preferences.variable"
 msgid "skip_on_location_change"
-msgstr "Пропустити при зміні локації"
+msgstr "Пропускати при зміні локації"
 
 msgctxt "preferences.variable"
 msgid "skip_delay"
-msgstr "Затримка пропуску"
+msgstr "Швидкість пропуску"
+
+#: game/scenes/characters/sprites/saito.tscn
+msgctxt "character.sprite.attribute"
+msgid "guilty"
+msgstr "Винне"
+
+#: game/scenes/characters/sprites/noriko.tscn
+msgctxt "character.sprite.attribute"
+msgid "excited"
+msgstr "Задоволене"
+
+msgctxt "preferences.variable"
+msgid "auto_on_choice"
+msgstr "Автозбереження при виборі"
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Entraînement avec {{macumba.n}}."
+msgstr "Тренування з {{macumba.n}}."
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Première apparition d'{{asami.n}}."
+msgstr "Перша поява {{asami.n}}."
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Deuxième apparition d'{{asami.n}}."
+msgstr "Друга поява {{asami.n}}."
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Troisième apparition d'{{asami.n}}."
+msgstr "Третя поява {{asami.n}}."
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Vouloir travailler pour le restaurant."
+msgstr "Шукаючи роботу в ресторані."
