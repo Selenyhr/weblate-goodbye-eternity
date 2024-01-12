@@ -112,7 +112,7 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-07 19:57+0100\n"
-"PO-Revision-Date: 2024-01-12 19:52+0000\n"
+"PO-Revision-Date: 2024-01-13 06:11+0000\n"
 "Last-Translator: Veydzher <veydzherdgswift008@gmail.com>\n"
 "Language-Team: Ukrainian <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/uk/>\n"
@@ -2029,7 +2029,7 @@ msgstr "У мене ще є кілька справ, які треба зроб�
 #: game/story/home_player_saito_room.dialogue
 msgctxt "tbb2b1ca43a"
 msgid "Faire venir {{noriko.n}} dans la chambre"
-msgstr "Змусити {{noriko.n}} прийти до вас"
+msgstr "Змусити {{noriko.n}} прийти до тебе"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "ta5020d5d22"
@@ -59403,3 +59403,11 @@ msgstr "Стежте за розвитком подій {{sakuya.n}}."
 msgctxt "galleries.images.hints"
 msgid "Choisir de dominer {{noriko.n}}."
 msgstr "Домінувати {{noriko.n}}."
+
+#: game/scenes/gui/game_menu/main.tscn
+msgid "Oui"
+msgstr "Так"
+
+#: game/scenes/gui/game_menu/main.tscn
+msgid "Non"
+msgstr "Ні"
