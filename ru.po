@@ -110,8 +110,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
-"PO-Revision-Date: 2024-01-11 16:52+0000\n"
-"Last-Translator: Николай <microsaul25@gmail.com>\n"
+"PO-Revision-Date: 2024-01-14 16:38+0000\n"
+"Last-Translator: Exs1zzyyy <danilkazava0@gmail.com>\n"
 "Language-Team: Russian <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/ru/>\n"
 "Language: ru\n"
@@ -23098,7 +23098,7 @@ msgstr "Утречка, дорогой!"
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_65cb155f"
 msgid "Bonjour mon chéri !"
-msgstr ""
+msgstr "Приветик, дорогой!"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 #, fuzzy
@@ -39886,6 +39886,8 @@ msgstr "Пошёл к чёрту!"
 msgctxt "coffeebar_interior_2f904ecf"
 msgid "[font_size=14]{{saito.n}}, c'est l'heure ! Arrête de faire durer le plaisir ![/font_size]"
 msgstr ""
+"[font_size=14]Время пришло, {{saito.n}}! Хватит затягивать удовольствие! "
+"[/font_size]"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_7a9476be"
@@ -61643,7 +61645,7 @@ msgstr "Утро"
 
 #: core/scripts/clock.gd
 msgid "afternoon"
-msgstr "Полдень"
+msgstr "Вторая половина дня"
 
 #: core/scripts/clock.gd
 msgid "evening"
