@@ -111,7 +111,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "PO-Revision-Date: 2024-01-14 16:38+0000\n"
-"Last-Translator: d66nky <zeusgodd228@gmail.com>\n"
+"Last-Translator: Николай <microsaul25@gmail.com>\n"
 "Language-Team: Russian <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/ru/>\n"
 "Language: ru\n"
@@ -38990,7 +38990,7 @@ msgstr "Хотел бы я ещё побыть с тобой, но дела зо
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "te223796b66"
 msgid "Je voulais juste voir ton sourire."
-msgstr ""
+msgstr "Я просто хотел увидеть твою улыбку."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 #, fuzzy
@@ -39025,12 +39025,12 @@ msgstr "Надеюсь на это!"
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "tc78484a21f"
 msgid "[color=yellow]À propos de {{noriko.n}}.[/color]"
-msgstr ""
+msgstr "[color=yellow]О {{noriko.n}}[/color]"
 
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "t18afe678e6"
 msgid "[color=yellow]À propos de {{noriko.n}}.[/color]"
-msgstr ""
+msgstr "[color=yellow]О {{noriko.n}}.[/color]"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 #, fuzzy
@@ -39191,7 +39191,7 @@ msgstr "Это мне жаль, что ты в таком положении."
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "t79d4b83921"
 msgid "Vous avez donné 300¥ à {{yasuka.n}}."
-msgstr ""
+msgstr "Вы отдали ¥300 {{yasuka.n}}."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 #, fuzzy
@@ -39546,7 +39546,7 @@ msgstr ""
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "td13ff2e22e"
 msgid "Je vous laisse avec votre... partenaire."
-msgstr ""
+msgstr "Я оставлю вас с вашим... партнером."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 #, fuzzy
@@ -61936,7 +61936,7 @@ msgstr ""
 
 #: game/scenes/gui/gui_start_yasuka.tscn
 msgid "Vous avez fait le choix de l'[color=yellow]aimer et de la soutenir[/color]."
-msgstr ""
+msgstr "Вы решили [color=yellow]любить и поддерживать ее[/color]."
 
 #: game/scenes/gui/gui_start_yasuka.tscn
 msgid "Vous avez fait le choix de la laisser [color=yellow]travailler au bar à hôtesse[/color]."
@@ -61966,6 +61966,8 @@ msgstr "Ваши действия будут иметь последствия..
 #: game/scenes/gui/splashscreen.tscn
 msgid "[fill]Certaines [url=data]données anonymes[/url] peuvent être récoltées pour améliorer l'expérience de jeu.[/fill]"
 msgstr ""
+"[fill]Определенные [url=data]анонимные данные[/url] могут быть собраны для "
+"улучшения игрового процесса[/fill]."
 
 #: game/scenes/gui/splashscreen.tscn
 msgid ""
@@ -61975,14 +61977,21 @@ msgid ""
 "- informations de plateforme (Windows, Android, etc.)\n"
 "- informations de build (animations, censure, mode web, etc.)"
 msgstr ""
+"Собранные данные включают в себя :\n"
+"- номер текущей версии\n"
+"- предпочтения игрока (картофельный режим)\n"
+"- информация о платформе (Windows, Android и т.д.)\n"
+"- информация о сборке (анимация, цензура, веб-режим и т. д.)"
 
 #: game/scenes/gui/splashscreen.tscn
 msgid "Ces données seront recueillies après acceptation de ces termes, et ne contiennent pas d'identifiant direct ni informations externes au jeu."
 msgstr ""
+"Эти данные будут собраны после принятия этих условий и не содержат никаких "
+"прямых идентификаторов или информации, внешней по отношению к игре."
 
 #: game/scenes/gui/splashscreen.tscn
 msgid "[url=disclaimer]Retour[/url]"
-msgstr ""
+msgstr "[url=disclaimer]Назад[/url]"
 
 #: game/scenes/gui/splashscreen.tscn
 msgid "Je gère !"
@@ -61990,7 +61999,7 @@ msgstr "Да, всё понятно!"
 
 #: game/scenes/gui/splashscreen.tscn
 msgid "Sortez-moi d'ici !"
-msgstr ""
+msgstr "Вытащите меня отсюда!"
 
 #: game/story/introduction.dialogue
 msgctxt "intro_cb62efe6"
