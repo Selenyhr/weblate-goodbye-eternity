@@ -1,2 +1,6956 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2024-01-27 19:20+0000\n"
+"Last-Translator: Hexin <kazusa7512@gmail.com>\n"
+"Language-Team: Japanese <https://translations.teot-studio.com/projects/"
+"goodbye-eternity/game-translation/ja/>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.17\n"
+
+#: core/scripts/clock.gd
+msgid "morning"
+msgstr "朝"
+
+#: core/scripts/clock.gd
+msgid "afternoon"
+msgstr "午後"
+
+#: core/scripts/clock.gd
+msgid "evening"
+msgstr "夕方"
+
+#: core/scripts/clock.gd
+msgid "night"
+msgstr "夜"
+
+#: core/scripts/clock.gd
+msgid "Monday"
+msgstr "月曜日"
+
+#: core/scripts/clock.gd
+msgid "Tuesday"
+msgstr "火曜日"
+
+#: core/scripts/clock.gd
+msgid "Wednesday"
+msgstr "水曜日"
+
+#: core/scripts/clock.gd
+msgid "Thursday"
+msgstr "木曜日"
+
+#: core/scripts/clock.gd
+msgid "Friday"
+msgstr "金曜日"
+
+#: core/scripts/clock.gd
+msgid "Saturday"
+msgstr "土曜日"
+
+#: core/scripts/clock.gd
+msgid "Sunday"
+msgstr "日曜日"
+
+#: game/scripts/variables/character_names.gd
+msgctxt "character_default_name"
+msgid "Macumba"
+msgstr "マクンバ"
+
+#: game/scenes/cg/noriko/laptop.tscn
+msgid "Demi-Sœur Dépucelle Son Demi-Frère"
+msgstr "義妹が義兄の童貞を奪う"
+
+#: game/scenes/cg/noriko/laptop.tscn
+msgid "Demi-Sœur Se Fait Prendre Dans Son Sommeil Par Son Demi-Frère"
+msgstr "義妹が寝ている間に義兄に犯される"
+
+#: game/scripts/variables/character_names.gd
+msgctxt "character_default_name"
+msgid "Vieil homme"
+msgstr "老人"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "home_player_exterior"
+msgstr "屋外"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "dojo_exterior"
+msgstr "道場"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "park"
+msgstr "公園"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "konbini_exterior"
+msgstr "コンビニ"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "home_minato_exterior"
+msgstr "{{minato.n}}の家"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "home_asami_exterior"
+msgstr "{{asami.n}}の家"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "home_kimochi_exterior"
+msgstr "{{kimochi.n}}の家"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "home_natsume_exterior"
+msgstr "{{natsume.n}}の家"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "coffeebar_exterior"
+msgstr "[i]コーヒー・ブティック[/i]"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "hostess_club_exterior"
+msgstr "ホステスクラブ"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "love_hotel_exterior"
+msgstr "ラブホテル前"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "onsen_exterior"
+msgstr "温泉旅館"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "warehouse_exterior"
+msgstr "倉庫前"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "canal"
+msgstr "運河"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "bus_stop"
+msgstr "バス停"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "arcade_exterior"
+msgstr "ゲームセンター前"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "college_exterior"
+msgstr "大学前"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "restaurant_exterior"
+msgstr "うどん屋"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "lake"
+msgstr "湖"
+
+#: game/scenes/gui/gui_location.tscn
+msgid "Lundi"
+msgstr "月曜日"
+
+#: game/scenes/gui/gui_location.tscn
+msgid "¥ "
+msgstr "¥ "
+
+#: game/scenes/gui/gui_location.tscn
+msgid "0123456789"
+msgstr "0123456789"
+
+#: game/scenes/gui/gui_start_asami.tscn
+msgid "Vous pouvez dès à présent poursuivre l’histoire d’{{asami.n}} et revenir à l’intrigue principale quand vous le souhaitez."
+msgstr "これより{{asami."
+"n}}のストーリーに続きます。本編にはいつでも戻ることができます。"
+
+#: game/scenes/gui/gui_start_sakuya.tscn
+msgid "Vous pouvez dès à présent poursuivre l’histoire de {{sakuya.n}}."
+msgstr "これより{{sakuya.n}}のストーリーに続きます。"
+
+#: game/scenes/gui/gui_start_yasuka.tscn
+msgid "Vous pouvez dès à présent poursuivre l’histoire de {{yasuka.n}} et revenir à l’intrigue principale quand vous le souhaitez."
+msgstr "これより{{yasuka."
+"n}}のストーリーに続きます。本編にはいつでも戻ることができます。"
+
+#: game/scenes/gui/gui_start_asami.tscn game/scenes/gui/gui_start_sakuya.tscn game/scenes/gui/gui_start_yasuka.tscn
+msgid "J'ai compris"
+msgstr "分かった"
+
+#: game/scenes/gui/gui_start_yasuka.tscn
+#, fuzzy
+msgid "Vous avez fait le choix de l'[color=yellow]aimer et de la soutenir[/color]."
+msgstr "あなたは[color=yellow]彼女を愛して支える[/color]道を選んだ."
+
+#: game/scenes/gui/splashscreen.tscn
+msgid "Certaines scènes de ce jeu peuvent contenir du contenu sexuellement explicite et pourrait choquer un jeune public. Tous les personnages de ce jeu sont majeurs."
+msgstr "このゲームには性的に露骨なコンテンツが含まれており、青少年に不適切な可能性が"
+"あります。このゲームの登場人物はすべて18歳以上です。"
+
+#: game/scenes/gui/splashscreen.tscn
+msgid "[fill]Certaines [url=data]données anonymes[/url] peuvent être récoltées pour améliorer l'expérience de jeu.[/fill]"
+msgstr "[fill]ゲーム体験向上のために[url=data]匿名データ[/url]が収集されることがあり"
+"ます[/fill]"
+
+#: game/scenes/gui/splashscreen.tscn
+msgid "Ces données seront recueillies après acceptation de ces termes, et ne contiennent pas d'identifiant direct ni informations externes au jeu."
+msgstr "このデータは本規約の同意後に収集され、直接識別子やゲーム外の情報を一切含みま"
+"せん。"
+
+#: game/scenes/gui/splashscreen.tscn
+msgid "[url=disclaimer]Retour[/url]"
+msgstr "[url=disclaimer]戻る[/url]"
+
+#: game/scenes/gui/splashscreen.tscn
+msgid "Vos actions auront des conséquences..."
+msgstr "行動には結果が伴う……"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "tc78484a21f"
+msgid "[color=yellow]À propos de {{noriko.n}}.[/color]"
+msgstr "[color=yellow]{{noriko.n}}について。[/color]"
+
+#: game/story/hostess_club_exterior.dialogue
+msgctxt "t18afe678e6"
+msgid "[color=yellow]À propos de {{noriko.n}}.[/color]"
+msgstr "[color=yellow]{{noriko.n}}について。[/color]"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "t77e427bf59"
+msgid "Retour"
+msgstr "戻る"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "t95936a11b8"
+msgid "Retour"
+msgstr "戻る"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "t3d059beaf4"
+msgid "Retour"
+msgstr "戻る"
+
+#: game/story/love_hotel_reception.dialogue
+msgctxt "td6b8a34be2"
+msgid "Retour"
+msgstr "戻る"
+
+#: game/story/restaurant_interior.dialogue
+msgctxt "t5d1fbcecac"
+msgid "Retour"
+msgstr "戻る"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t3656c2f02f"
+msgid "Retour"
+msgstr "戻る"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "tdb2ae3cbd0"
+msgid "Retour"
+msgstr "戻る"
+
+#: game/story/home_asami_asami_room.dialogue
+msgctxt "t6c1c64ba4a"
+msgid "Retour"
+msgstr "戻る"
+
+#: game/story/hostess_club_exterior.dialogue
+msgctxt "tefcefacc7c"
+msgid "Retour"
+msgstr "戻る"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_97ed4780"
+msgid "{{yasuka.N}} !"
+msgstr "{{yasuka.N}} !"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_7f708522"
+msgid "{{saito.n}} !"
+msgstr "{{saito.n}} !"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_af525fe0"
+msgid "{{saito.n}} !"
+msgstr "{{saito.n}} !"
+
+#: game/story/park.dialogue
+msgctxt "park_c333f4dc"
+msgid "{{saito.n}} !"
+msgstr "{{saito.n}} !"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_b10797b8"
+msgid "Quoi ?!"
+msgstr "何だよ？！"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_ae713cd0"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_03775ec8"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_29cd7803"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_noriko_room_closed_29cd7803"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_a21e86ee"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_898b1990"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_03775ec8"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_b14bf260"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_a4009c4c"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_29cd7803_1"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_29cd7803_2"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_898b1990"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_29cd7803_3"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_03775ec8_1"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_29cd7803_4"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_29cd7803_5"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_29cd7803_6"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_29cd7803_7"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_29cd7803_8"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_natsume_exterior.dialogue
+msgctxt "home_natsume_exterior_bd4a924e"
+msgid "..."
+msgstr "……"
+
+#: game/story/warehouse_exterior.dialogue
+msgctxt "warehouse_exterior_a91cfbc6"
+msgid "..."
+msgstr "……"
+
+#: game/story/warehouse_exterior.dialogue
+msgctxt "warehouse_exterior_20243432"
+msgid "..."
+msgstr "……"
+
+#: game/story/warehouse_exterior.dialogue
+msgctxt "warehouse_exterior_21706b61"
+msgid "..."
+msgstr "……"
+
+#: game/story/warehouse_exterior.dialogue
+msgctxt "warehouse_exterior_83ffb293"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_kimochi_exterior.dialogue
+msgctxt "home_kimochi_exterior_7639bcca"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_kimochi_exterior.dialogue
+msgctxt "home_kimochi_exterior_03775ec8"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_kimochi_exterior.dialogue
+msgctxt "home_kimochi_exterior_03775ec8_1"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_kimochi_exterior.dialogue
+msgctxt "home_kimochi_exterior_1adf14f8"
+msgid "..."
+msgstr "……"
+
+#: game/story/canal.dialogue
+msgctxt "canal_03775ec8"
+msgid "..."
+msgstr "……"
+
+#: game/story/canal.dialogue
+msgctxt "canal_ed6623a0"
+msgid "..."
+msgstr "……"
+
+#: game/story/canal.dialogue
+msgctxt "canal_207cda26"
+msgid "..."
+msgstr "……"
+
+#: game/story/canal.dialogue
+msgctxt "canal_b4e69ca9"
+msgid "..."
+msgstr "……"
+
+#: game/story/canal.dialogue
+msgctxt "canal_ed6623a0_1"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "blackmail_noriko_bj_898b1990"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "blackmail_noriko_bj_9fc616da"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "blackmail_noriko_bj_9fc616da_1"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "sexe_asami_l_18b6a6fa"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "sexe_asami_l_b14bf260"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_a21e86ee"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_17d1d49e"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_a21e86ee_1"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_03775ec8"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "talk_noriko_898b1990_1"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "talk_noriko_a21e86ee"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "talk_noriko_9fc616da"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "talk_noriko_b14bf260_1"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "talk_noriko_29cd7803"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_6a1adb7c"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_18b6a6fa"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_18b6a6fa_1"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_b14bf260"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_b14bf260_1"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_b14bf260_2"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_b4e69ca9"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_b4e69ca9_1"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_18b6a6fa_2"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_b14bf260_3"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_03775ec8_1"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_b4e69ca9_2"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_18b6a6fa_3"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_ed6623a0"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_898b1990"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_29cd7803"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_03775ec8_2"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_ed6623a0_1"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_29cd7803_1"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_898b1990_1"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_03775ec8_3"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_b4e69ca9_3"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "talk_yasuka_b14bf260"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "talk_yasuka_b14bf260_1"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "talk_yasuka_b8d7d070"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "talk_yasuka_b8d7d070_1"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "talk_yasuka_b8d7d070_2"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "talk_yasuka_b8d7d070_3"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "talk_yasuka_b8d7d070_4"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "home_player_yasuka_room_29cd7803"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "yasuka_love_sexe_repeat_b8d7d070"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "yasuka_love_sexe_repeat_b8d7d070_1"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "yasuka_love_sexe_repeat_9fc616da"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_ae713cd0"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_ae713cd0_1"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_3faca6c4"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_03775ec8"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_ed6623a0"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_b4e69ca9"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_03775ec8_1"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_29cd7803"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_b4e69ca9_1"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_29cd7803_1"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_ed6623a0_1"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_b4e69ca9_2"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_03775ec8_2"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_7231df1d"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_3f9b63ba"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_29cd7803_2"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_03775ec8_3"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "tbdbe71394d"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "t2ea9cee5d2"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "t46eead06e4"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "t94b7943f9f"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "t445e477b38"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "t42168493d9"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "t7ba81c5c73"
+msgid "..."
+msgstr "……"
+
+#: game/story/konbini_interior.dialogue
+msgctxt "menu_sayuri_konbini_898b1990"
+msgid "..."
+msgstr "……"
+
+#: game/story/warehouse_interior.dialogue
+msgctxt "warehouse_interior_83ffb293"
+msgid "..."
+msgstr "……"
+
+#: game/story/warehouse_interior.dialogue
+msgctxt "warehouse_interior_94ec3338"
+msgid "..."
+msgstr "……"
+
+#: game/story/warehouse_interior.dialogue
+msgctxt "warehouse_interior_a20cefa7"
+msgid "..."
+msgstr "……"
+
+#: game/story/love_hotel_reception.dialogue
+msgctxt "love_hotel_reception_b14bf260"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "home_player_hallway_03775ec8"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "home_player_hallway_c2cffe85"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "home_player_hallway_29cd7803"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "home_player_hallway_03775ec8_1"
+msgid "..."
+msgstr "……"
+
+#: game/story/restaurant_interior.dialogue
+msgctxt "talk_sakuya_4ef4028e"
+msgid "..."
+msgstr "……"
+
+#: game/story/restaurant_interior.dialogue
+msgctxt "talk_chef_interior_9c2591ac"
+msgid "..."
+msgstr "……"
+
+#: game/story/restaurant_interior.dialogue
+msgctxt "talk_chef_interior_b7ecfc18"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "home_asami_livingroom_03775ec8"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "home_asami_livingroom_29cd7803"
+msgid "..."
+msgstr "……"
+
+#: game/story/onsen_interior.dialogue
+msgctxt "onsen_interior_03775ec8"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "kimochi_password_ed6623a0"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "kimochi_password_c2cffe85"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "home_kimochi_interior_637ce628"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "home_kimochi_interior_b4e69ca9"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "home_kimochi_interior_ed6623a0"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "home_kimochi_interior_03775ec8"
+msgid "..."
+msgstr "……"
+
+#: game/story/introduction.dialogue
+msgctxt "intro_a21e86ee"
+msgid "..."
+msgstr "……"
+
+#: game/story/introduction.dialogue
+msgctxt "home_player_room_319ad2f8"
+msgid "..."
+msgstr "……"
+
+#: game/story/introduction.dialogue
+msgctxt "home_player_room_9c2591ac"
+msgid "..."
+msgstr "……"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_03775ec8"
+msgid "..."
+msgstr "……"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_03775ec8_1"
+msgid "..."
+msgstr "……"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_c2cffe85"
+msgid "..."
+msgstr "……"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_a21e86ee"
+msgid "..."
+msgstr "……"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_e8b68a52"
+msgid "..."
+msgstr "……"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_d63d6b65"
+msgid "..."
+msgstr "……"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_e8b68a52_1"
+msgid "..."
+msgstr "……"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_a21e86ee_1"
+msgid "..."
+msgstr "……"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_20243432"
+msgid "..."
+msgstr "……"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_b8cb9f97"
+msgid "..."
+msgstr "……"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_c2cffe85_1"
+msgid "..."
+msgstr "……"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_ed6623a0"
+msgid "..."
+msgstr "……"
+
+#: game/story/bus_stop.dialogue
+msgctxt "bus_stop_29cd7803"
+msgid "..."
+msgstr "……"
+
+#: game/story/bus_stop.dialogue
+msgctxt "bus_stop_03775ec8"
+msgid "..."
+msgstr "……"
+
+#: game/story/bus_stop.dialogue
+msgctxt "bus_stop_29cd7803_1"
+msgid "..."
+msgstr "……"
+
+#: game/story/bus_stop.dialogue
+msgctxt "bus_stop_03775ec8_1"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_29cd7803"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_87c30b61"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_b14bf260"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_a21e86ee"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_a21e86ee_1"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_9fc616da"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_9fc616da_1"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "home_player_noriko_room_a4009c4c"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "home_player_noriko_room_ed6623a0"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "home_player_noriko_room_29cd7803"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_03775ec8"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_898b1990_2"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_ed6623a0"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_29cd7803"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_11b4c513"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t9bfb1dba8c"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t056c626ecb"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t0d61932d94"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t1933b82501"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t52ab7d2abf"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t476b164347"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "tbc92058623"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t7f7d2bed48"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "tf88fdfa63e"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t871930ea92"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t2b6acfddd8"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "tdf3c0c30fa"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "tb2b5f169f4"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t50f6a79b95"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t6dc21a8cc9"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "tbbf833cbf1"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t7b39199ecd"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t11ee2fe169"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_03775ec8_1"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_898b1990"
+msgid "..."
+msgstr "……"
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "talk_chef_b7ecfc18"
+msgid "..."
+msgstr "……"
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "talk_chef_b7ecfc18_1"
+msgid "..."
+msgstr "……"
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "talk_chef_03775ec8"
+msgid "..."
+msgstr "……"
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "restaurant_exterior_031ba670"
+msgid "..."
+msgstr "……"
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "restaurant_exterior_a6aa04ea"
+msgid "..."
+msgstr "……"
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "restaurant_exterior_03775ec8"
+msgid "..."
+msgstr "……"
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "restaurant_exterior_03775ec8_1"
+msgid "..."
+msgstr "……"
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "restaurant_exterior_6bd0b308"
+msgid "..."
+msgstr "……"
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "restaurant_exterior_33b053ce"
+msgid "..."
+msgstr "……"
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "restaurant_exterior_c2cffe85"
+msgid "..."
+msgstr "……"
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "restaurant_exterior_03775ec8_2"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_asami_asami_room.dialogue
+msgctxt "home_asami_asami_room_031ba670"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_asami_asami_room.dialogue
+msgctxt "home_asami_asami_room_2a6fea30"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_asami_asami_room.dialogue
+msgctxt "home_asami_asami_room_898b1990"
+msgid "..."
+msgstr "……"
+
+#: game/story/konbini_exterior.dialogue
+msgctxt "konbini_exterior_03775ec8"
+msgid "..."
+msgstr "……"
+
+#: game/story/konbini_exterior.dialogue
+msgctxt "konbini_exterior_898b1990"
+msgid "..."
+msgstr "……"
+
+#: game/story/restaurant_sakuya_room.dialogue
+msgctxt "restaurant_sakuya_room_sexe_03775ec8"
+msgid "..."
+msgstr "……"
+
+#: game/story/restaurant_sakuya_room.dialogue
+msgctxt "restaurant_sakuya_room_a6aa04ea"
+msgid "..."
+msgstr "……"
+
+#: game/story/restaurant_sakuya_room.dialogue
+msgctxt "restaurant_sakuya_room_a6aa04ea_1"
+msgid "..."
+msgstr "……"
+
+#: game/story/restaurant_sakuya_room.dialogue
+msgctxt "restaurant_sakuya_room_ed6623a0"
+msgid "..."
+msgstr "……"
+
+#: game/story/restaurant_sakuya_room.dialogue
+msgctxt "restaurant_sakuya_room_ed6623a0_1"
+msgid "..."
+msgstr "……"
+
+#: game/story/restaurant_sakuya_room.dialogue
+msgctxt "restaurant_sakuya_room_03775ec8"
+msgid "..."
+msgstr "……"
+
+#: game/story/restaurant_sakuya_room.dialogue
+msgctxt "restaurant_sakuya_room_b14bf260"
+msgid "..."
+msgstr "……"
+
+#: game/story/restaurant_sakuya_room.dialogue
+msgctxt "t66a89116b7"
+msgid "..."
+msgstr "……"
+
+#: game/story/restaurant_sakuya_room.dialogue
+msgctxt "restaurant_sakuya_room_38cc66a7"
+msgid "..."
+msgstr "……"
+
+#: game/story/restaurant_sakuya_room.dialogue
+msgctxt "akira_escape_b14bf260"
+msgid "..."
+msgstr "……"
+
+#: game/story/restaurant_sakuya_room.dialogue
+msgctxt "akira_escape_6a1adb7c"
+msgid "..."
+msgstr "……"
+
+#: game/story/restaurant_sakuya_room.dialogue
+msgctxt "akira_escape_03775ec8"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "asami_truth_03775ec8"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_chiaki_422949ae"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "home_player_exterior_03775ec8"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "home_player_exterior_29cd7803"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "home_player_exterior_03775ec8_1"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "home_player_exterior_29cd7803_1"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "home_player_exterior_a533cea0"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "home_player_exterior_422949ae"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_sakuya_ea41ea34"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "home_player_exterior_03775ec8_3"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "home_player_exterior_ed6623a0"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "home_player_exterior_ed6623a0_1"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "home_player_exterior_319ad2f8"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "home_player_exterior_03775ec8_4"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "home_player_exterior_898b1990"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_sakuya_03775ec8"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "tc10803cd5c"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_sakuya_03775ec8_1"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_sakuya_03775ec8_2"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "home_player_exterior_a21e86ee"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_sakuya_b4e69ca9"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "asami_truth_c2cffe85"
+msgid "..."
+msgstr "……"
+
+#: game/story/love_hotel_exterior.dialogue
+msgctxt "love_hotel_exterior_ed6623a0"
+msgid "..."
+msgstr "……"
+
+#: game/story/love_hotel_exterior.dialogue
+msgctxt "love_hotel_exterior_29cd7803"
+msgid "..."
+msgstr "……"
+
+#: game/story/coffeebar_exterior.dialogue
+msgctxt "coffeebar_exterior_03775ec8"
+msgid "..."
+msgstr "……"
+
+#: game/story/coffeebar_exterior.dialogue
+msgctxt "talk_ubs_03775ec8"
+msgid "..."
+msgstr "……"
+
+#: game/story/coffeebar_exterior.dialogue
+msgctxt "talk_ubs_c2cffe85"
+msgid "..."
+msgstr "……"
+
+#: game/story/coffeebar_exterior.dialogue
+msgctxt "talk_ubs_c2cffe85_1"
+msgid "..."
+msgstr "……"
+
+#: game/story/coffeebar_exterior.dialogue
+msgctxt "talk_ubs_60c27fa8"
+msgid "..."
+msgstr "……"
+
+#: game/story/coffeebar_exterior.dialogue
+msgctxt "talk_ubs_4ff94e8a"
+msgid "..."
+msgstr "……"
+
+#: game/story/coffeebar_exterior.dialogue
+msgctxt "coffeebar_exterior_03775ec8_1"
+msgid "..."
+msgstr "……"
+
+#: game/story/coffeebar_exterior.dialogue
+msgctxt "coffeebar_exterior_ed6623a0"
+msgid "..."
+msgstr "……"
+
+#: game/story/onsen_exterior.dialogue
+msgctxt "onsen_exterior_b4e69ca9"
+msgid "..."
+msgstr "……"
+
+#: game/story/park.dialogue
+msgctxt "park_a21e86ee"
+msgid "..."
+msgstr "……"
+
+#: game/story/park.dialogue
+msgctxt "tcb8ce99cee"
+msgid "..."
+msgstr "……"
+
+#: game/story/park.dialogue
+msgctxt "t5f879795c1"
+msgid "..."
+msgstr "……"
+
+#: game/story/park.dialogue
+msgctxt "talk_macumba_b14bf260"
+msgid "..."
+msgstr "……"
+
+#: game/story/park.dialogue
+msgctxt "talk_asami_b14bf260"
+msgid "..."
+msgstr "……"
+
+#: game/story/park.dialogue
+msgctxt "talk_asami_b14bf260_1"
+msgid "..."
+msgstr "……"
+
+#: game/story/park.dialogue
+msgctxt "talk_asami_b14bf260_2"
+msgid "..."
+msgstr "……"
+
+#: game/story/park.dialogue
+msgctxt "talk_asami_b14bf260_3"
+msgid "..."
+msgstr "……"
+
+#: game/story/park.dialogue
+msgctxt "asami_choice_ed6623a0"
+msgid "..."
+msgstr "……"
+
+#: game/story/park.dialogue
+msgctxt "talk_macumba_b4e69ca9"
+msgid "..."
+msgstr "……"
+
+#: game/story/park.dialogue
+msgctxt "talk_macumba_ed6623a0"
+msgid "..."
+msgstr "……"
+
+#: game/story/park.dialogue
+msgctxt "park_03775ec8"
+msgid "..."
+msgstr "……"
+
+#: game/story/park.dialogue
+msgctxt "park_856b2b06"
+msgid "..."
+msgstr "……"
+
+#: game/story/park.dialogue
+msgctxt "park_6a1adb7c"
+msgid "..."
+msgstr "……"
+
+#: game/story/park.dialogue
+msgctxt "asami_choice_03775ec8"
+msgid "..."
+msgstr "……"
+
+#: game/story/park.dialogue
+msgctxt "asami_choice_6a1adb7c"
+msgid "..."
+msgstr "……"
+
+#: game/story/park.dialogue
+msgctxt "asami_choice_856b2b06"
+msgid "..."
+msgstr "……"
+
+#: game/story/park.dialogue
+msgctxt "park_03775ec8_1"
+msgid "..."
+msgstr "……"
+
+#: game/story/park.dialogue
+msgctxt "park_03775ec8_2"
+msgid "..."
+msgstr "……"
+
+#: game/story/park.dialogue
+msgctxt "park_1de64694"
+msgid "..."
+msgstr "……"
+
+#: game/story/park.dialogue
+msgctxt "park_a60ba924"
+msgid "..."
+msgstr "……"
+
+#: game/story/park.dialogue
+msgctxt "park_43c76683"
+msgid "..."
+msgstr "……"
+
+#: game/story/park.dialogue
+msgctxt "t9a1923ac82"
+msgid "..."
+msgstr "……"
+
+#: game/story/park.dialogue
+msgctxt "park_03775ec8_3"
+msgid "..."
+msgstr "……"
+
+#: game/story/park.dialogue
+msgctxt "menu_macumba_008a3709"
+msgid "..."
+msgstr "……"
+
+#: game/story/park.dialogue
+msgctxt "talk_natsume_03775ec8"
+msgid "..."
+msgstr "……"
+
+#: game/story/park.dialogue
+msgctxt "talk_natsume_03775ec8_1"
+msgid "..."
+msgstr "……"
+
+#: game/story/park.dialogue
+msgctxt "talk_natsume_03775ec8_2"
+msgid "..."
+msgstr "……"
+
+#: game/story/park.dialogue
+msgctxt "talk_natsume_ed6623a0"
+msgid "..."
+msgstr "……"
+
+#: game/story/park.dialogue
+msgctxt "park_7a8d963f"
+msgid "..."
+msgstr "……"
+
+#: game/story/park.dialogue
+msgctxt "park_a9f72d56"
+msgid "..."
+msgstr "……"
+
+#: game/story/park.dialogue
+msgctxt "asami_choice_b4e69ca9"
+msgid "..."
+msgstr "……"
+
+#: game/story/park.dialogue
+msgctxt "asami_choice_18b6a6fa"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_b4e69ca9"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_ed6623a0"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "talk_minato_83ffb293"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "talk_minato_03775ec8"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_a6aa04ea"
+msgid "..."
+msgstr "……"
+
+#: game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_3f9b63ba"
+msgid "..."
+msgstr "……"
+
+#: game/story/hostess_club_exterior.dialogue
+msgctxt "talk_thugs_03775ec8"
+msgid "..."
+msgstr "……"
+
+#: game/story/hostess_club_exterior.dialogue
+msgctxt "hostess_club_exterior_a6aa04ea"
+msgid "..."
+msgstr "……"
+
+#: game/story/hostess_club_exterior.dialogue
+msgctxt "hostess_club_exterior_d63d6b65"
+msgid "..."
+msgstr "……"
+
+#: game/story/hostess_club_exterior.dialogue
+msgctxt "hostess_club_exterior_c2cffe85"
+msgid "..."
+msgstr "……"
+
+#: game/story/hostess_club_exterior.dialogue
+msgctxt "hostess_club_exterior_830ec234"
+msgid "..."
+msgstr "……"
+
+#: game/story/hostess_club_exterior.dialogue
+msgctxt "hostess_club_exterior_865339b3"
+msgid "..."
+msgstr "……"
+
+#: game/story/hostess_club_exterior.dialogue
+msgctxt "hostess_club_exterior_d63d6b65_1"
+msgid "..."
+msgstr "……"
+
+#: game/story/hostess_club_exterior.dialogue
+msgctxt "hostess_club_exterior_42d71409"
+msgid "..."
+msgstr "……"
+
+#: game/story/hostess_club_exterior.dialogue
+msgctxt "talk_thugs_c2cffe85"
+msgid "..."
+msgstr "……"
+
+#: game/story/hostess_club_exterior.dialogue
+msgctxt "talk_thugs_ed6623a0"
+msgid "..."
+msgstr "……"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_f0f21b2a"
+msgid "Je suis désolée, mais ce n'est pas quelque chose dont j'aime me vanter."
+msgstr ""
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_11d3ac2a"
+msgid "Y'en a marre, quand est-ce que tu te comporteras comme un mec ?"
+msgstr "うんざりだわ……いつになったらまともな男らしい行動ができるのよ？"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_23584010"
+msgid "T'es vraiment qu'un gamin !"
+msgstr "本当に情けない！"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_864c46c2"
+msgid "Ferme ta gueule !"
+msgstr "うるさい！"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_f5d633d9"
+msgid "J'en peux plus de toi et de tes conneries, t'es qu'un foutu parasite, quand est-ce que tu te barres d'ici ?!"
+msgstr "あんたなんか寄生虫よ……とっくの昔に追い出しておけばよかった。"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_78e798c2"
+msgid "Quoi ?! Mais je..."
+msgstr "はあ？！でも俺は……"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_71d02d97"
+msgid "J'MEN FOUT CASSE-TOI !"
+msgstr "どうでもいい、目障りだわ！"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_89778dcc"
+msgid "J'avais totalement oublié son existence."
+msgstr "あいつのことを完全に忘れていた。"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_aa884729"
+msgid "La vache..."
+msgstr "クソが……"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_3ab3c167"
+msgid "Comment j'ai pu oublier {{noriko.n}} et son agressivité légendaire..."
+msgstr "どうしてあの{{noriko.n}}を忘れてしまったんだろう？"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_0b052899"
+msgid "Elle m'a toujours envoyé chier."
+msgstr "あいつはいつも俺をコケにした。"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_7199d067"
+msgid "Et on va la retrouver noyée dans le canal peu de temps après sa fugue, son corps totalement souillé."
+msgstr "その後すぐに運河で溺れているのが発見された。遺体には冒涜された跡があった……"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_9cd593bd"
+msgid "Ça va briser {{yasuka.n}}. Elle ne pourra jamais remonter la pente après ça..."
+msgstr "{{yasuka.n}}さんの心はその後壊れてしまった。立ち直ることができずに……"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_897eca85"
+msgid "Je dois pouvoir changer ça !"
+msgstr "そんな未来変えてやる！"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_43ea3f38"
+msgid "Pffff, et en plus, tu te parles à toi-même maintenant... Tellement pathétique !"
+msgstr "うわっ、あれから独りで喋り続けてる……哀れだわ！"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_dd978a3f"
+msgid "Tu me donnes envie de vomir !"
+msgstr "吐き気がする！"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_96d9d3a2"
+msgid "Rien que de voir ta... tête, je..."
+msgstr "顔を見てるだけで、私の……"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_f94ec740"
+msgid "Beuh, je sens que ça vient..."
+msgstr "うっ、のぼってきた……"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_bc4eeee4"
+msgid "...ou pas."
+msgstr "……やめとこうかな。"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_43ea5588"
+msgid "T'as passé une mauvaise journée ?"
+msgstr "あらあら、なんだって？悪い一日だったって？"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_b9ae232a"
+msgid "Eh bien, tu peux pas savoir comme ça me fait plaisir !"
+msgstr "それが私にとってどんなに嬉しいことか想像つかないでしょうね！"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_8958d958"
+msgid "T'es vraiment qu'un putain de..."
+msgstr "お前は本当にク――"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_e447f6d9"
+msgid "Euh..."
+msgstr ""
+
+#: game/scenes/gui/game_menu/main.tscn
+msgid "Oui"
+msgstr "はい"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_c1b81041"
+msgid "Disons que j'ai passé une très bonne nuit."
+msgstr "とてもいい夜を過ごしたとだけ言っておくよ。"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_f8ab96b4"
+msgid "Ah ?"
+msgstr "えっ？"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_cf9964e7"
+msgid "Oooh... Mais je suis curieuse moi !"
+msgstr "あらまあ……でも気になるわ！"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_125f8002"
+msgid "{{yasuka.n}} ! Je te promets de tout te raconter, mais... pas maintenant."
+msgstr "{{yasuka.n}}さん！後で教えるって約束するよ。でも……今は無理だ。"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_04b76371"
+msgid "C'était un rêve pervers ?! C'est ça ? Bon, si tu as encore taché tes draps, n'oublie pas d'aller toi-même les laver !"
+msgstr "いやらしい夢だったんでしょう？！まあ、もしまたシーツを汚しちゃったのなら、洗"
+"うのを忘れないようにしなさいね！"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_ab119cf8"
+msgid "Quoi ?! Non, ce n'est pas... Rien à voir avec ce genre de rêve !"
+msgstr "えっ？！いや、違うよ……"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_46b1901a"
+msgid "En fait, c'était bien mieux !"
+msgstr "実際、もっといい夢だったよ！"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_2c3616ea"
+msgid "Mieux ?! Eh bien, je souhaiterais avoir cette chance..."
+msgstr "もっと？あら、私もそんな夢を見れたらいいのに……"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_d6cdaca2"
+msgid "En ce moment, les miens sont déprimants."
+msgstr "最近は落ち込んじゃうような夢ばかりだわ。"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_0b2a5dae"
+msgid "{{yasuka.n}}, avec tout ce que tu as fait pour moi, je veux pouvoir t'aider ! Dis-moi ce qu'il se passe !"
+msgstr "{{yasuka.n}}さんには今まであらゆることをしてきてもらった分助けになりたいんだ"
+"！何が起こってるのか教えてよ！"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_1dfe9efb"
+msgid "Nous sommes encore dans le rouge, et nous ne sommes encore qu'au début du mois..."
+msgstr "ずっと家計が赤字なの、その上まだ月の初めだし……"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_c24e641c"
+msgid "Mon travail actuel ne suffit plus pour rembourser les dettes que nous avons."
+msgstr "今の仕事だともう借金を返すのに十分じゃないの。"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_53b3469f"
+msgid "Un instant, de quelles dettes parles-tu exactement ?"
+msgstr "待って、具体的には何の借金について話しているの？"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_da6b987f"
+msgid "Je ne sais pas si c'est judicieux de..."
+msgstr "言うべきか分からないけど……"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_c111572e"
+msgid "{{yasuka.n}}, pour pouvoir aider, j'ai besoin de savoir ce qu'il se passe même si c'est difficile !"
+msgstr "{{yasuka.n}}さん、何が起こってるのか知らないと助けられないって！"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_efcc80f4"
+msgid "D'accord, d'accord, je vais tout te dire..."
+msgstr "はいはい、全部話すわ……"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_1d34a746"
+msgid "J'ai épuisé toutes mes économies en essayant de rembourser les dettes de ton père avant qu'il ne disparaisse avec cette..."
+msgstr "あなたのお父さんが借金を残して蒸発した後、私は貯金を返済のために全部使い果た"
+"したの……"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_24c46895"
+msgid "Bref !"
+msgstr "それだけ！"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_42f155da"
+msgid "Les dettes de mon père ? Quoi ?! Mais il t'a laissé ses dettes ?"
+msgstr "俺の父親の借金？何だって？！あいつは借金を残していったのか？！"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_a0f720dc"
+msgid "{{yasuka.n}}... Dis-moi juste... De combien a-t-on besoin pour sortir des ennuis ?"
+msgstr "{{yasuka.n}}さん……教えてほしい……いくら必要なの？"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_f7f9b095"
+msgid "Allez, dis-moi !"
+msgstr "お願いだよ、教えて！"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_8dc5c85a"
+msgid "[speed=5]80 000 000 ¥..."
+msgstr "[speed=5]80,000,000円……"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_76ba1dec"
+msgid "Quoi ?![w] Mais...[w] Comment ?"
+msgstr "何だって？！[w] だけど……[w] どうして？"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_0a4f1966"
+msgid "Il a pas mal emprunté à des gens... peu recommandables."
+msgstr "あの人はかなりの額を……評判の良くない人達から借りていたの。"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_f7863e92"
+msgid "Toi ?! Mais pourquoi ?"
+msgstr "あなたが？！でも、どうして？"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_7aa24a09"
+msgid "...Comme tu n'avais pas d'autre famille et que ton père était un ami de longue date, je t'ai recueilli chez moi..."
+msgstr "……あなたには他に家族がいなくて、お父さんとは古い付き合いだったから、私の家に"
+"あなたを迎えた……"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_349c74e9"
+msgid "Putain, mais comment ça se fait que j'ai jamais entendu parler de ça ?!!"
+msgstr "一体何でこのことを一度も聞いたことがなかったんだ？"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_ccde9871"
+msgid "Je comprends mieux pourquoi {{noriko.n}} me traite de parasite, c'est parce que j'en suis un bordel."
+msgstr "{{noriko.n}}が俺を寄生虫と呼ぶのも当然だ。実際そうだった。"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_73486ec0"
+msgid "Putain ! C'est ma faute...!"
+msgstr "クソッ！全部俺のせいだ！"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_84029342"
+msgid "Jeune homme, je le vois dans tes yeux, ne pense pas un seul instant que tu es responsable de tout ça !"
+msgstr "若者よ、あなたの目を見ればわかるわ。一瞬でも自分のせいだなんて思わないで！"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_8f8d46ef"
+msgid "Mais si je..."
+msgstr "でも俺は……"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_56b07a1b"
+msgid "Ce qui est fait est fait, et je ne regrette pas un seul instant de t'avoir recueillie, d'accord ?"
+msgstr "過ぎたことは過ぎたこと、私はあなたを迎えたことを少しも後悔してないの。いい？"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_3b216443"
+msgid "Merci {{yasuka.n}}..."
+msgstr "{{yasuka.n}}さん、ありがとう……"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_e2439cd5"
+msgid "Je te jure de faire tout mon possible pour nous sortir de cette situation !"
+msgstr "俺はこの状況から脱げ出すためにできることは何でもするって誓うよ！"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_a547d896"
+msgid "On va s'en sortir, fais-moi confiance !"
+msgstr "私達は乗り越えられるわ。信じて！"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_62e76816"
+msgid "Il me reste une dernière possibilité pour rembourser nos dettes... avant qu'on ne nous saisisse la maison..."
+msgstr "家が差し押さえられる前に……まだ借金を返すチャンスがあるの……"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_41476939"
+msgid "Et te prendre en charge signifie également prendre en charge les dettes de ton père."
+msgstr "そしてあなたの世話を引き受けるということは、あなたのお父さんの借金を引き受け"
+"るということでもあるの。"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_fb28152f"
+msgid "C'est une proposition d'offre d'emploi pour un job d'hôtesse...[w] cela devrait être à ma portée même si ce n'est pas ce qu'il y a de mieux."
+msgstr "ホステスにならないかって申し出があったの……[w]いい仕事とは言えないかもしれない"
+"けど、給料はたくさん貰えるわ……"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_889a55a4"
+msgid "L'avantage, c'est que plus tu es populaire, plus tu gagnes d'argent..."
+msgstr "人気になればなるほど稼げるようになるの。"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_0d3ff208"
+msgid "Et je suis prête à tout pour sauver notre famille !"
+msgstr "私は家族を守るためなら何でもするわ！"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_5555b7fc"
+msgid "Qu'en penses-tu ?"
+msgstr "どうかしら？"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "t4e2134e9d8"
+msgid "[hint=ROUTE CORRUPTION]C'est probablement une bonne idée en effet !"
+msgstr "[hint=堕落ルート]多分いいんじゃないかな！"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_069f6a7b"
+msgid "Nos dettes seront vite remboursées !"
+msgstr "借金はあっという間になくなるわ！"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_1f995287"
+msgid "J'ai juste à me dire qu'il s'agit d'un travail comme un autre et puis..."
+msgstr "これは他の仕事と何も違わない仕事だって自分に言い聞かせないと。そしたら……"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_02d76ce6"
+msgid "Je serais vite très populaire crois-moi. Et d'ici quelques semaines, on vivra dans un château..."
+msgstr "そして、もしかしたら2、3週間でお城に住めるくらい人気になるかも！"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_b8dd6761"
+msgid "Tu as l'air sûre de toi en tout cas."
+msgstr "自信満々だね。"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_f718c954"
+msgid "Je commence ce soir !"
+msgstr "今夜から働き始めるわ！"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_87e25920"
+msgid "Très bien, je te souhaite bon courage alors."
+msgstr "頑張って。"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_bba9737d"
+msgid "...Ça ne m'enchante pas non plus, mais ce sera vite remboursé de cette façon..."
+msgstr "私も嬉しくはないけど、この状況を抜け出すには一番早いと思うの。"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_89b2649b"
+msgid "La vie de {{noriko.n}} pourrait aussi être impactée."
+msgstr "{{noriko.n}}の生活にも影響があるかもしれない。"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_9c8bb34f"
+msgid "Tu sais comment les nouvelles vont vite..."
+msgstr "悪事千里を走るっていうし……"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_7f417f1d"
+msgid "Si on apprend que la mère d'une élève travaille dans un bar à hôtesse..."
+msgstr "もし生徒の母親がホステスバーで働いているなんて知られたら……"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_4c6b9926"
+msgid "Je suis sûr qu'un professeur de l'école ou encore le proviseur ne se gênerait pas pour aller vérifier ça par lui-même..."
+msgstr "きっと大学の教員か学長はためらわずに自分の足で確かめに行くと思うよ……"
+
+#: game/story/home_player_livingroom.dialogue
+#, fuzzy
+msgctxt "home_player_livingroom_9ef6ad7f"
+msgid "Dès que les gens ont un moyen de pression sur toi, il sera facile de te faire chanter."
+msgstr "一度人々があなたに対する支配権を得れば、脅迫するのなんて簡単だ。"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_59e5bc5b"
+msgid "Je le sais bien, mais... comment faire pour l'argent dans ce cas... ?"
+msgstr "分かってるわ、でも……お金はどうするの？"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_21525109"
+msgid "Tu es vraiment un ange ! Merci..."
+msgstr "本当に天使ね！ありがとう……"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_3a632de7"
+msgid "Je te l'ai dit, je ferai tout pour nous sortir de cette mauvaise passe. Fais-moi confiance."
+msgstr "さっき言ったように、この苦境から脱げ出すために俺は何だってする。信じていい。"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "t0c397db10b"
+msgid "[hint=ROUTE CORRUPTION]Euh... c'est pas un genre de métier sexuel ?"
+msgstr "[hint=CORRUPTION ROUTE]えっと……それってエッチな仕事じゃないの？"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_7b38df2e"
+msgid "Un métier sexuel ?"
+msgstr "エッチな仕事？"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_d98c38a6"
+msgid "...c'est pas ça ?"
+msgstr "……そうじゃないの？"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_c41104d2"
+msgid "Je te l'ai déjà dit, les hentais te montent trop au cerveau..."
+msgstr "前にも言ったでしょう、あなたは二次元のポルノの見すぎよ……"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_e19221af"
+msgid "Que des fantasmes... Tss... J'ai élevé un vrai pervers."
+msgstr "空想の中だけよ……はぁ……本当の変態を育てちゃったみたい。"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_14437795"
+msgid "Ahemmm..."
+msgstr "コホン……"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_f8ea880a"
+msgid "Il se passe quoi dans la tête des jeunes ?"
+msgstr "若い人は頭の中には何が思い浮かんでいたのかしら？"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_d775bea4"
+msgid "D'accord, d'accord, j'ai compris, je me tais !"
+msgstr "はいはい、分かったよ、もう静かにする！"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_eabc0b08"
+msgid "Bonsoir {{yasuka.n}} !"
+msgstr "ただいま、{{yasuka.n}}さん！"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_995c921e"
+msgid "Bonsoir, mon chéri, comment s'est passée ta journée... ?"
+msgstr "おかえりなさい。今日はどうだった？"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_d05134db"
+msgid "{{yasuka.n}} ?"
+msgstr "{{yasuka.n}}さん？"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_cdc29214"
+msgid "{{yasuka.n}} ?"
+msgstr "{{yasuka.n}}さん？"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_2e7220e7"
+msgid "{{yasuka.n}} ?"
+msgstr "{{yasuka.n}}さん？"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_892f73c3"
+msgid "Oh, excuse-moi, j'avais la tête ailleurs..."
+msgstr "あら、ごめんなさい、ぼーっとしてたわ……"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_9b442420"
+msgid "La journée était... plus difficile que je ne l'avais prévue..."
+msgstr "今日は……思ったよりも大変だったわ……"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_987b7c7c"
+msgid "Je suis épuisée, je vais aller me coucher tout de suite !"
+msgstr "疲れてへとへと。今日はもう寝るわ……"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_662473f5"
+msgid "{{yasuka.n}}, cette idée n'était peut-être pas aussi bonne que prévu."
+msgstr "{{yasuka.n}}さん、やっぱりこれはいい考えじゃなかったのかもしれない……"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "tbc542980bb"
+msgid "[hint=ROUTE CORRUPTION]Tu n'as pas à t'infliger ça, tu sais..."
+msgstr "[hint=堕落ルート]こんなことを自分にさせる必要はないでしょ……"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_06e8b429"
+msgid "Je le sais bien, mais je ne vais pas abandonner à la première difficulté..."
+msgstr "分かってるけど、問題が起きてすぐにはやめられないわ……"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_45599642"
+msgid "Quelle bande de sales..."
+msgstr "なんて奴らだ……"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_bff6b6f2"
+msgid "Mais ça ira !"
+msgstr "でも、大丈夫よ！"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_24af95cf"
+msgid "J'ai un objectif en tête, je dois rester concentrer dessus..."
+msgstr "目標が出来たからには、叶えることに集中しなきゃいけないわ。"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_3e7ad73c"
+msgid "Mais... Il n'y a pas moyen de le signaler à ton patron ?"
+msgstr "でも……上司に報告できないの？"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_1a40cf41"
+msgid "Merci de t'inquiéter pour moi mon chéri, et puis si jamais j'en ai marre, je peux arrêter, n'est-ce pas ?"
+msgstr "私を心配してくれてありがとうね。もし限界になったらやめるって約束するわ。"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_d0dec7c0"
+msgid "...En effet !"
+msgstr "分かったよ。"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_e87cd746"
+msgid "Alors ne t'inquiète plus pour moi, je suis une grande fille à présent, va donc te coucher, il est déjà très tard."
+msgstr "だからもうこれ以上心配しなくていいのよ、私は強い女だもの。さあ寝ましょう、も"
+"うかなり遅いわ。"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_01b802fe"
+msgid "D'accord. Bonne nuit {{yasuka.n}}."
+msgstr "分かった。おやすみ、{{yasuka.n}}さん。"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "tfc4bf76365"
+msgid "[hint=ROUTE LOVE]Il est encore temps de changer d'avis."
+msgstr "[hint=ラブルート]まだ考えを変える時間はある。"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_ae44d7a9"
+msgid "Tu... tu as peut-être raison."
+msgstr "確かに……確かにそうかもしれないわ。"
+
+#: game/story/home_player_livingroom.dialogue
+#, fuzzy
+msgctxt "home_player_livingroom_fa12e14b"
+msgid "Je suis désolée de ne pas être aussi forte..."
+msgstr "ごめんなさい、私は自分で思ってたより強くないみたい……"
+
+#: game/story/home_player_livingroom.dialogue
+#, fuzzy
+msgctxt "home_player_livingroom_e740f9e9"
+msgid "Ne t'en fais pas, tu as déjà fait tellement pour moi."
+msgstr "気にしないでよ、もう俺のためにたくさんのことをしてくれてるんだ。"
+
+#: game/story/home_player_livingroom.dialogue
+#, fuzzy
+msgctxt "home_player_livingroom_50665a20"
+msgid "Je ferais tout pour te rendre la pareille..."
+msgstr "何かの形で恩を返すよ。約束する。"
+
+#: game/story/home_player_livingroom.dialogue
+#, fuzzy
+msgctxt "home_player_livingroom_a98bc439"
+msgid "Je veille sur toi..."
+msgstr "俺はあなたを大切に思っているよ……"
+
+#: game/story/home_player_livingroom.dialogue
+#, fuzzy
+msgctxt "home_player_livingroom_5a26d0b9"
+msgid "Va dormir, je pense que tu l'as méritée..."
+msgstr "寝ましょう。私達二人とも休んだほうがいいと思うわ。"
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "home_player_hallway_5babb8df"
+msgid "... ?!"
+msgstr "……？！"
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "home_player_hallway_3d7e3814"
+msgid "Tu crois que j'ai pas entendu ?"
+msgstr "聞いてなかったとでも思ってる？"
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "home_player_hallway_17a4af5f"
+msgid "Pour qui tu te prends ?!"
+msgstr "自分を何だと思っているの？！"
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "home_player_hallway_3d0030d7"
+msgid "Mêle-toi de tes affaires... Va donc te faire racketter comme d'habitude..."
+msgstr "余計なお世話をせずにはいられないの？"
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "home_player_hallway_1765b269"
+msgid "C'est à cause de ta putain de famille de déchets, et de tous vos problèmes à la con qu'on se retrouve dans la merde."
+msgstr "私達が最悪な状況なのは、あんたのゴミみたいな肉親とあんたのクソみたいな問題の"
+"せいよ！"
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "home_player_hallway_27f95ee9"
+msgid "Tu veux l'empêcher de bosser ?"
+msgstr "ママが働くのを止めたいの？"
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "home_player_hallway_03fda596"
+msgid "Depuis quand tu te soucies de ma réputation ?"
+msgstr "そして、いつからあんたは私の評判なんか気にするようになったの？"
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "home_player_hallway_ce48cc3e"
+msgid "DE QUOI TU TE MÊLES SÉRIEUX ?!"
+msgstr "あんたは何を言ってるの？！"
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "home_player_hallway_fb89f97c"
+msgid "Tu penses pouvoir gagner plus qu'une hôtesse ?"
+msgstr "ホステスよりもお金を稼げるとでも思ってる？"
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "home_player_hallway_f616cfdf"
+msgid "Toujours là à rester silencieux..."
+msgstr "いっつも黙りこんでて……"
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "home_player_hallway_a5a378c8"
+msgid "Toujours là à jouer ta putain de victime !"
+msgstr "いっつも被害者のふりをしてる！"
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "home_player_hallway_d58f5e99"
+msgid "Donc maintenant, c'est à toi qu'elle demande des conseils sur sa vie professionnelle ?"
+msgstr "それで、ママはあんたに仕事のアドバイスを聞いてるの？"
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "home_player_hallway_14340d42"
+msgid "C'est vrai que tu es un véritable modèle..."
+msgstr "ねえ、自分が実際に手本になると思ってる？"
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "home_player_hallway_353b22b6"
+msgid "T'es juste le plus bel hypocrite que j'ai jamais vu !"
+msgstr "あんたは私が見てきた中で一番の偽善者よ！"
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "home_player_hallway_1d4e5c49"
+msgid "Un putain de modèle d'étron vivant !"
+msgstr "そびえ立つクソだわ！"
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "home_player_hallway_94a74ee2"
+msgid "T'as intérêt à te trouver un job, n'importe quoi !"
+msgstr "あんたが仕事を探すべきでしょ、何でもいいから！"
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "home_player_hallway_ec36bf7b"
+msgid "Tu peux même vendre ton cul, j'men fout de..."
+msgstr "尻だって売れるでしょ、どうでもいいけど……"
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "home_player_hallway_bf20c6b7"
+msgid "Alors mes chéris, vous parlez de quoi depuis tout à l'heure ?"
+msgstr "何を話していたの、可愛い子ちゃん達？"
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "home_player_hallway_844496ae"
+msgid "Ooh... Tu es toujours aussi adorable ma chérie."
+msgstr "あら、相変わらず優しくて可愛いのね。"
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "home_player_hallway_8344e235"
+msgid "Sur ce, je vous laisse, j'ai tout plein de choses à faire."
+msgstr "じゃあ、もう行くわね。私はこれから忙しくなるから。"
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "home_player_hallway_5db98e75"
+msgid "Bonne journée, maman, je sors aussi !"
+msgstr "いってらっしゃい、ママ！"
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "home_player_hallway_5a0d5d39"
+msgid "À plus tard vous deux, ne rentrez pas trop tard !"
+msgstr "ふたりともまた後でね。遅くなる前に帰ってくるのよ！"
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "home_player_hallway_5957a5dc"
+msgid "Promit maman !"
+msgstr "はーい！"
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "t054f10dd07"
+msgid "[hint=ROUTE FEMDOM/MALEDOM]Dans tes rêves {{noriko.n}} !"
+msgstr "[hint=フェムドム/メイルドムルート]お前の中ではな、{{noriko.n}}！"
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "home_player_hallway_e2efdd07"
+msgid "Je ferai de ta vie un enfer !"
+msgstr "あんたの人生を地獄にしてやる！"
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "home_player_hallway_a4fc7493"
+msgid "Personnellement, je trouve qu'actuellement, tu te débrouilles déjà très bien."
+msgstr "もうかなりしてくれてますよ。"
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "home_player_hallway_428726db"
+msgid "Dégage de là !"
+msgstr "出て行って！"
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "t43dc392295"
+msgid "[hint=ROUTE REJET/CHANTAGE]Va te faire foutre {{noriko.n}} !"
+msgstr "[hint=拒絶/脅迫ルート]くたばれ{{noriko.n}}！"
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "home_player_hallway_25d48ba9"
+msgid "QUOI ?!"
+msgstr "何よ？！"
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "home_player_hallway_511fa463"
+msgid "Et toi, tu fais quoi ? Tu vas rester là à attendre sans rien faire ?"
+msgstr "俺はこの家の問題か？お前はどうなんだ？お前のママは俺達のためにへとへとになる"
+"まで働いて、お前は座って何もしてないだけだ。"
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "home_player_hallway_1b4e3b84"
+msgid "DE QUOI TU TE M-"
+msgstr "あんたが――"
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "home_player_hallway_aa2eb4a0"
+msgid "On est tous dans la merde, toi, moi, {{yasuka.n}}..."
+msgstr "俺達はみんな苦境に立ってるんだよ。お前も、俺も、{{yasuka.n}}さんも……"
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "home_player_hallway_368d4dc1"
+msgid "Pourquoi tu n'irais pas toi le vendre ton cul ?"
+msgstr "自分のケツでも売ったらどうだ？自分を有効活用しろよ！"
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "home_player_hallway_c3972cd8"
+msgid "Je dois absolument garder mon calme avec elle, sinon ça va vraiment dégénérer."
+msgstr "あいつの前では絶対に冷静でいなければ。そうじゃないと手に負えない状況になって"
+"しまう。"
+
+#: game/story/introduction.dialogue
+msgctxt "intro_3bb13317"
+msgid "Mon corps aujourd'hui n'est plus qu'une prison de chair."
+msgstr "いまや俺の体は血肉と骨で出来た牢獄でしかない。"
+
+#: game/story/introduction.dialogue
+msgctxt "intro_0ada2bb6"
+msgid "J'ai toujours été le souffre-douleur de service."
+msgstr "俺はずっとサンドバッグとして扱われてきた。"
+
+#: game/story/introduction.dialogue
+msgctxt "intro_233de029"
+msgid "Déjà... Dès l'enfance."
+msgstr "物心ついた頃にはもうとっくに……"
+
+#: game/story/introduction.dialogue
+msgctxt "intro_80305fc4"
+msgid "Je n'étais rien... Un personnage qu'on ne regardait pas... Un simple figurant dans ma propre existence..."
+msgstr "俺は何者でもなかった……誰も見向きもしない人間……人生の単なる端役……"
+
+#: game/story/introduction.dialogue
+msgctxt "intro_8cb9c58e"
+msgid "Exploité tout au long de sa vie."
+msgstr "生涯を通じて搾取されてきた。"
+
+#: game/story/introduction.dialogue
+msgctxt "intro_0a865c4d"
+msgid "Je n'ai jamais voulu de cette vie !"
+msgstr "こんな人生は二度と嫌だ！"
+
+#: game/story/introduction.dialogue
+msgctxt "intro_562bbe14"
+msgid "Je n'ai jamais pu fonder de famille..."
+msgstr "家族もいない……"
+
+#: game/story/introduction.dialogue
+msgctxt "intro_3f5da8bf"
+msgid "Je n'ai personne qui se souviendra de moi..."
+msgstr "誰も俺なんて気にしない……"
+
+#: game/story/introduction.dialogue
+msgctxt "intro_bf9b219b"
+msgid "Personne ne me regrettera..."
+msgstr "誰も俺を惜しまない……"
+
+#: game/story/introduction.dialogue
+msgctxt "intro_a2840a4c"
+msgid "S'il vous plaît... Que quelqu'un m'aide..."
+msgstr "誰か……俺を助けてくれ……"
+
+#: game/story/introduction.dialogue
+msgctxt "intro_9c78c287"
+msgid "Je ne veux pas partir comme ça..."
+msgstr "こんな死に方は嫌だ……"
+
+#: game/story/introduction.dialogue
+msgctxt "intro_a49290a7"
+msgid "Je voudrais juste une..."
+msgstr "もう一度……"
+
+#: game/story/introduction.dialogue
+msgctxt "intro_19efcd11"
+msgid "Seconde chance..."
+msgstr "機会があれば……"
+
+#: game/story/introduction.dialogue
+msgctxt "intro_a6ea1d5e"
+msgid "Que... ?!"
+msgstr "何だ……！？"
+
+#: game/story/introduction.dialogue
+msgctxt "intro_a0515f23"
+msgid "Je suis passé de l'autre côté ?"
+msgstr "俺はあの世まで来たのか？"
+
+#: game/story/introduction.dialogue
+msgctxt "intro_eb611788"
+msgid "Pourquoi je me sens si léger tout à coup ?"
+msgstr "どうしてこんなに明るいんだ？"
+
+#: game/story/introduction.dialogue
+msgctxt "intro_df734961"
+msgid "Je suis vraiment revenu d'entre les morts ?"
+msgstr "生き返ったのか？"
+
+#: game/story/introduction.dialogue
+msgctxt "intro_c88c9ee8"
+msgid "Tout ça n'était finalement qu'un cauchemar ?"
+msgstr "今までは全部夢だったのか？"
+
+#: game/story/introduction.dialogue
+msgctxt "home_player_room_1ecd72f2"
+msgid "...Ah ma tête..."
+msgstr "うっ……頭が……"
+
+#: game/story/introduction.dialogue
+msgctxt "home_player_room_c377ecfe"
+msgid "C'était quoi ce cauchemar de fou ?!"
+msgstr "あの変な悪夢は何だったんだ？"
+
+#: game/story/introduction.dialogue
+msgctxt "home_player_room_b1ba58e1"
+msgid "Ah... Je ne sais même plus si c'était réel !"
+msgstr "うーん……知る由もないな。あれは現実そのものだった！"
+
+#: game/story/introduction.dialogue
+msgctxt "home_player_room_4c2a5a6c"
+msgid "Bordel ! Je ne sais même plus quoi penser !"
+msgstr "クソッ！こんなのが現実なわけ……[w] ないよな？"
+
+#: game/story/introduction.dialogue
+msgctxt "home_player_room_43c1cc7c"
+msgid "La douleur était si réelle..."
+msgstr "大人の体に残っていた痛みだ。"
+
+#: game/story/introduction.dialogue
+msgctxt "home_player_room_71ece9ec"
+msgid "Et me voilà à nouveau dans mon corps de jeunesse..."
+msgstr "でも俺は若い身体に戻っている……"
+
+#: game/story/introduction.dialogue
+msgctxt "home_player_room_28cdf783"
+msgid "Putain, c'est complètement dingue !"
+msgstr "一体何が起きているんだ？"
+
+#: game/story/introduction.dialogue
+msgctxt "home_player_room_fe515dce"
+msgid "En quelle année sommes-nous ?"
+msgstr "今年は何年だ？"
+
+#: game/story/introduction.dialogue
+msgctxt "home_player_room_7a7db3e9"
+msgid "PUTAIN, {{year}} !"
+msgstr "マジかよ、{{year}}年だ！"
+
+#: game/story/introduction.dialogue
+msgctxt "home_player_room_0bde6d77"
+msgid "...Et visiblement... C'est le premier jour des grandes vacances !"
+msgstr "しかも……今日は夏休みの初日らしい！"
+
+#: game/story/introduction.dialogue
+msgctxt "home_player_room_f7ca0bb4"
+msgid "La rentrée à la fac n'a pas encore eu lieu !"
+msgstr "まだ大学に戻るような時期でもない。"
+
+#: game/story/introduction.dialogue
+msgctxt "home_player_room_8eefbcd5"
+msgid "J'ai encore tous mes souvenirs de ce qu'il va se passer ensuite."
+msgstr "この後どんなことが起きるか俺はまだ覚えている。"
+
+#: game/story/introduction.dialogue
+msgctxt "home_player_room_a32414fc"
+msgid "Mais... Ça veut dire que rien ne s'est encore produit ?!"
+msgstr "でも、もし昔に戻ってたとしたら……それがまだ起きていないってことなんじゃないか"
+"？！"
+
+#: game/story/introduction.dialogue
+msgctxt "home_player_room_8b60f437"
+msgid "Avec ma connaissance de tous les évènements futurs, je devrais pouvoir m'en sortir."
+msgstr "未来の知識があれば、色んなことを良い方へ変えられる。"
+
+#: game/story/introduction.dialogue
+msgctxt "home_player_room_f6315ef6"
+msgid "YEAAAAAAAH !!!"
+msgstr "よっしゃあああああああ！"
+
+#: game/story/introduction.dialogue
+msgctxt "home_player_room_0e6fe023"
+msgid "{{yasuka.n}} ?![w] Elle est encore là !?"
+msgstr "{{yasuka.n}}さん？！[w] まだ生きてるのか？！"
+
+#: game/story/introduction.dialogue
+msgctxt "home_player_room_1676875a"
+msgid "Euh... Oui, désolé {{yasuka.n}}, j'arrive dans quelques minutes !"
+msgstr "えっと…… う、うん、ごめん{{yasuka.n}}さん！すぐ起きる！"
+
+#: game/story/introduction.dialogue
+msgctxt "home_player_room_582e02dd"
+msgid "Merde alors, tout ça est complètement dingue !"
+msgstr "おいおい、ヤバいぞこれ。"
+
+#: game/story/introduction.dialogue
+msgctxt "home_player_room_8f735fee"
+msgid "Par où commencer ?"
+msgstr "どこから始めたらいいんだ？"
+
+#: game/story/introduction.dialogue
+msgctxt "home_player_room_8130fdbe"
+msgid "Si je ne fais rien, l'histoire va se répéter et je vais me faire victimiser toute ma vie..."
+msgstr "何もしなければ歴史は繰り返して、一生被害者として生きることになる……"
+
+#: game/story/introduction.dialogue
+msgctxt "home_player_room_c59d19d3"
+msgid "Je devrais faire un tour au dojo du quartier, je crois savoir qu'il était assez réputé."
+msgstr "近所に有名な道場があったよな？確かめてみないといけないな。"
+
+#: game/story/introduction.dialogue
+msgctxt "home_player_room_8253a51d"
+msgid "Autant commencer par un petit boulot déjà, en plus ça couvrira les frais du dojo."
+msgstr "バイトをすれば足しになるかな。道場の入門代にもなるし。"
+
+#: game/story/introduction.dialogue
+msgctxt "home_player_room_f1292cba"
+msgid "Je ne sais pas encore trop pourquoi j'ai ce retour d'expérience..."
+msgstr "どうしてここに帰ってきたのかは分からないままだけど……"
+
+#: game/story/introduction.dialogue
+msgctxt "home_player_room_a0988271"
+msgid "Peut-être que mes prières ont été exaucées ?"
+msgstr "ひょっとしたら祈りが通じたのだろうか？"
+
+#: game/story/introduction.dialogue
+msgctxt "home_player_room_4717fd3f"
+msgid "...si c'est le cas, j'espère que le prix à payer ne sera pas trop lourd."
+msgstr "もしそうだとしたら、代価が高くないことを願おう……"
+
+#: game/story/introduction.dialogue
+msgctxt "home_player_room_f900935d"
+msgid "Mais je compte bien en profiter un maximum !"
+msgstr "とにかく、この機会をできる限り利用してやらないといけないな！"
+
+#: game/story/introduction.dialogue
+msgctxt "home_player_room_5acfcd5f"
+msgid "Donc pour résumer..."
+msgstr "つまり、まとめると……"
+
+#: game/story/introduction.dialogue
+msgctxt "home_player_room_86db6b79"
+msgid "D'abord le [color=yellow]parc[/color], ensuite le [color=yellow]restaurant[/color] et enfin le [color=yellow]dojo[/color] !"
+msgstr ""
+"まずは[color=yellow]公園[/color]、次に[color=yellow]うどん屋[/color]、最後に["
+"color=yellow]道場[/color]に行けばいいってことだな！"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_292117b8"
+msgid "Wow ! Impressionnant..."
+msgstr "おお！威厳があるな……"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_dd982f53"
+msgid "Rien qu'à l'entrée, on est déjà bien dans l'ambiance."
+msgstr "ただ見てるだけで力を感じるぞ。"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_e31bf590"
+msgid "Autant aller jeter un coup d'œil à l'intérieur."
+msgstr "中に入るとするか……"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_e8e15207"
+msgid "STOP !"
+msgstr "止まれ！"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_3cd69d40"
+msgid "...!?"
+msgstr "……！？"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_8214f5e8"
+msgid "N'espère même pas faire un seul pas de plus, déchet !"
+msgstr "一歩でも動くなよ、ゴミが！"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_c9b0020c"
+msgid "T'as décidément rien pour toi..."
+msgstr "おいおい、クソみてえなツラしてるな。"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_113a5263"
+msgid "Putain... {{akira.n}}... Je l'avais oublié celui-là..."
+msgstr "クソッ……{{akira.n}}……こいつのことを完全に忘れていた……"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_f74cdb95"
+msgid "C'était et c'est toujours la pire ordure de tous les temps..."
+msgstr "奴は過去でも現在でも俺が出会った中で最悪のクズだ……"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_a9552264"
+msgid "Finalement, c'est un peu une version masculine de {{noriko.n}}."
+msgstr "ほぼ男版の{{noriko.n}}だ。"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_dfdeb035"
+msgid "Je n'avais aucune idée qu'il pratiquait un sport de combat lui aussi..."
+msgstr "あいつもここで訓練してたのか……"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_3dca99e9"
+msgid "Fait chier, c'était pas prévu du tout ça."
+msgstr "クソッ、こんなこと計画になかった。"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "t159a8a0f00"
+msgid "Qu'est-ce que tu me veux ?"
+msgstr "何が目的だ？"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_1ddd0f53"
+msgid "Eh bien alors, on s'est acheté des couilles ?"
+msgstr "ママにタマでも買ってもらったか？"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_cc68c0ea"
+msgid "Visiblement, c'était le plus petit modèle..."
+msgstr "サイズはSか？それともXS？"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "t237c2dd5dd"
+msgid "Laisse-moi tranquille..."
+msgstr "俺に構うな……"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_f28cd992"
+msgid "Je veux seulement m'inscrire..."
+msgstr "俺はただ入門に来ただけだ……"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_96f5c8aa"
+msgid "J'espère que tu t'imagines pas venir ici et apprendre à te battre pour essayer de te venger ?"
+msgstr "ああ、弱虫坊っちゃんは復讐をしたくて何か武術を習おうと考えたのかな？"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_53f8c629"
+msgid "C'est trop tard pour toi."
+msgstr "100年早いんだよ。"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_d35c3e62"
+msgid "T'es juste un putain de cas désespéré !"
+msgstr "完全に救いようがないな。"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_b073c95d"
+msgid "Maintenant, casse-toi ou je te jure que je te démonte !"
+msgstr "さあ、俺に慈悲があるうちに失せろ！"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_45b08d41"
+msgid "Quelle espèce de gros bâtard..."
+msgstr "カスが……"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_f5ef3a00"
+msgid "Je crois que j'ai mal entendu, mais tu ne viendrais pas de m'insulter là ?"
+msgstr "おっと、すまないが聞き間違いをしたみたいだ。お前みたいな負け犬が俺を侮辱でき"
+"るわけないからな。"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_99ab2e0d"
+msgid "Non parce que si tu cherches à mourir, dis le tout de suite !"
+msgstr "だがもし違って死にたがっているなら、そう言ってみろ！"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_3b492d5b"
+msgid "Je vais te faire gagner du temps."
+msgstr "すぐに終わらせてやる。"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_43cb2245"
+msgid "Barre-toi j'te dis !"
+msgstr "消え失せろ！"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_c8532248"
+msgid "Quelle putain de cassos..."
+msgstr "負け犬が……"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_dd842e49"
+msgid "Putain !"
+msgstr "ちくしょう……"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_01172fe6"
+msgid "Putain !"
+msgstr "クソッ！"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_3f45257a"
+msgid "Bon... Si je résume..."
+msgstr "よし……振り返ろう……"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_873b55fb"
+msgid "Je n'ai pas pu courir ce matin."
+msgstr "朝は走ることができなかった。"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_2d3f3716"
+msgid "Impossible de travailler."
+msgstr "仕事にも就けなかった。"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_da661e84"
+msgid "Une belle grosse journée de merde !"
+msgstr "クソみたいな一日だ。"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_a4c6dea4"
+msgid "Tant pis pour aujourd'hui, je réfléchirai à tout ça demain..."
+msgstr "でも明日がある。"
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "restaurant_exterior_7d8bfc6e"
+msgid "Voyons voir... Un restaurant spécialisé dans les Udons..."
+msgstr "どれどれ、うどんの専門店……"
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "restaurant_exterior_7739e333"
+msgid "Alors..."
+msgstr "そして……"
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "restaurant_exterior_d68b3175"
+msgid "C'est tout moi ça !"
+msgstr "俺のことだ！"
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "restaurant_exterior_6f34aff7"
+msgid "[i]Horaires souples, idéals pour étudiants.[/i]"
+msgstr "[i]学生に向いた柔軟な勤務時間。[/i]"
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "restaurant_exterior_9dbf3c2c"
+msgid "En vacances en ce moment donc pour la disponibilité, c'est bon !"
+msgstr "休暇中だから時間は空いてるな。"
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "restaurant_exterior_ed610b5d"
+msgid "[i]Promotion possible si travailleur dévoué.[/i]"
+msgstr "[i]熱心な従業員は昇進可能。[/i]"
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "restaurant_exterior_33c269b3"
+msgid "Selon mon rêve, je n'ai fait que des boulots ingrats, donc faire la plonge ne devrait pas poser de problème."
+msgstr "夢の中では単純労働しかしたことがなかったから、皿洗いは問題にならないだろう。"
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "restaurant_exterior_4dacbbb1"
+msgid "[i]600¥/h URGENT[/i]"
+msgstr "[i]時給600円、即日[/i]"
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "restaurant_exterior_aea3e315"
+msgid "Ça m'a l'air pas trop mal !"
+msgstr "俺に良さそうだな！"
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "talk_chef_dd15909a"
+msgid "Pourquoi tu me fixes, gamin ?"
+msgstr "どうかしたか、小僧？"
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "talk_chef_99a1d326"
+msgid "S'il vous plait !"
+msgstr "お願いします！"
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "talk_chef_899e1d32"
+msgid "C'est une blague ?"
+msgstr "からかっとるのか？"
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "talk_chef_188a662c"
+msgid "Allez, tire-toi de là, ne me fais pas perdre mon temps !"
+msgstr "わしの時間を無駄にするな！"
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "talk_chef_99ce78ce"
+msgid "Allez, du balai, dégage !"
+msgstr "さっさと行け！"
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "talk_chef_aa351982"
+msgid "Je n'ai jamais vu une loque pareille..."
+msgstr "貴様のような弱虫など見たことない……"
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "talk_chef_dae01123"
+msgid "Reviens quand tu auras des muscles !"
+msgstr "筋肉をつけて出直してこい！"
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "talk_chef_e5b4e709"
+msgid "Putain, mais quel connard !"
+msgstr "クソジジイ！"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_chiaki_f92aacbb"
+msgid "[font_size=17]Oui...[/font_size]"
+msgstr "[font_size=17]うん……[/font_size]"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_chiaki_862eaf93"
+msgid "Tout va bien ? {{minato.n}} est avec toi ?"
+msgstr "大丈夫？{{minato.n}}も一緒なの？"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_chiaki_27895173"
+msgid "{{chiaki.n}} ! Je t'avais dit de ne pas t'éloigner de moi !"
+msgstr "{{chiaki.n}}！俺の側から離れるなって言っただろ！"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_chiaki_bb1d5c2b"
+msgid "Je te cherche partout depuis ce matin..."
+msgstr "今朝からずっとお前を探し回ってたんだからな。"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_chiaki_c2c8c046"
+msgid "[font_size=17]Pardon...[w] Je suivais un petit chaton...[/font_size]"
+msgstr "[font_size=17]ごめんなさい……[w] 子猫ちゃんを見かけて……[/font_size]"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_chiaki_0ad6e710"
+msgid "Désolé mec, mais laisser ma sœur seule dehors... C'est mort !"
+msgstr "悪いな、でも妹を外で一人にさせると……何が起こるか分からないからな！"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_chiaki_5e674933"
+msgid "Qui sait quel genre de types louches il y a dans ce quartier ?"
+msgstr "どんな不審者がこの近所にいるか分からないだろ？"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_chiaki_4f59b177"
+msgid "Tu sais que tu ne pourras pas toujours la surveiller."
+msgstr "一生見守ることなんてできないぞ。"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_chiaki_1962963d"
+msgid "Il va bien falloir couper le cordon un jour ou l'autre."
+msgstr "彼女はいつか自分で自分の面倒を見なきゃいけなくなる。"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_chiaki_bb55377a"
+msgid "Qu'est-ce que tu as mangé ce matin ? Je ne te reconnais plus."
+msgstr "今朝変なもんでも食ったのか？別人になったみたいだ。"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_chiaki_d69c4c9d"
+msgid "Tu ne me croirais même pas si je te le disais !"
+msgstr "言っても信じないだろうな！"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_chiaki_50200393"
+msgid "À part ça, il faut qu'on discute plus sérieusement."
+msgstr "話さないといけないことがある。"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_chiaki_4b3d29ff"
+msgid "Ah ?! C'est pas trop grave, j'espère ?"
+msgstr "え？何の話だ？"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_chiaki_b528d151"
+msgid "Déjà, rien qu'à voir ta tête, je peux savoir que {{noriko.n}} t'as bien pris la tête ce matin !"
+msgstr "その顔からして、今朝も{{noriko.n}}に散々な目に遭わされたみたいだな。"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_chiaki_bf5063a2"
+msgid "Je ne comprends pas pourquoi tu ne l'envoies pas chier un bon coup."
+msgstr "どうしてあいつに地獄に落ちろって言ってやらないのか理解できないな。"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_chiaki_ac1426f0"
+msgid "Et puis, si c'est pour la surprendre à glisser à nouveau du produit vaisselle dans ce que je bouffe, merci..."
+msgstr "この前は食事に洗剤を入れてきたし……"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_chiaki_8aadd0b8"
+msgid "Bon... De quoi voulais-tu me parler ?"
+msgstr "それで……話したいことってなんだ？"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_chiaki_f632b70a"
+msgid "Ta g- Bouche !"
+msgstr "だま――その話はいいだろ！"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_chiaki_07a40337"
+msgid "Oh ?"
+msgstr "おお？"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_chiaki_b2b9ec7e"
+msgid "Tu avais ma curiosité, mais maintenant, tu as toute mon attention !"
+msgstr ""
+"好奇心は満たされた。ビジネスの話をしよう！\n"
+"[font_size=17]※映画『ジャンゴ 繋がれざる者』からの引用[/font_size]"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_chiaki_fc178d1d"
+msgid "J'ai pu discuter avec les connards qui s'amusent à te pourrir la vie à la fac..."
+msgstr "俺はお前をいじめてた馬鹿共と少し会話をした。"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_chiaki_ab9462ca"
+msgid "...Et ?"
+msgstr "……それで？"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_chiaki_e5589305"
+msgid "À la rentrée, plus personne ne devrait te poser de problèmes !"
+msgstr "大学に戻ったときにお前に面倒をかける奴はもういないよ。"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_chiaki_b4f7a4e7"
+msgid "Woah, rien que ça ?!"
+msgstr "おお、マジかよ？！"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_chiaki_fbb7d968"
+msgid "Enfoiré !"
+msgstr "アホか！"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_chiaki_50276a38"
+msgid "...[w] Merci {{minato.n}}, ça compte beaucoup ce que tu as fait pour moi..."
+msgstr "……[w] ありがとう、{{minato.n}}。これは俺にとってかなりデカい……"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_chiaki_e354d288"
+msgid "On en discutera plus longuement si tu veux, il n'y a pas mal de choses à dire."
+msgstr "詳しく聞きたきゃ教えてやるよ。色んなことがあったんだ。"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_chiaki_25d634d5"
+msgid "Oui, j'imagine..."
+msgstr "ああ、そうだな……"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_chiaki_fc2121d5"
+msgid "Passe chez moi dans deux ou trois jours."
+msgstr "2、3日したら俺の家に寄っていけよ。"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_chiaki_166c7009"
+msgid "À plus !"
+msgstr "じゃあな！"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_chiaki_bf651bed"
+msgid "À bientôt vous deux !"
+msgstr "じゃあまた！"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_chiaki_b5c09f91"
+msgid "En fait, ça va même être le contraire..."
+msgstr "実際はその逆だった……"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_chiaki_e5e3c9ef"
+msgid "J'imagine qu'ils ont dû s'en prendre à lui par la suite..."
+msgstr "あいつらはこの後彼に仕返ししたんだろうか？"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_chiaki_8777289c"
+msgid "...Et c'est certainement pour ça qu'on se perdra ensuite de vue !"
+msgstr "……そしてそれがこの後俺達が疎遠になった理由に違いない。"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_chiaki_245415ef"
+msgid "Il faut absolument que je dise à {{minato.n}} de laisser tomber tout ça."
+msgstr "{{minato.n}}に放っておくように伝える必要がある。"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_chiaki_fcbf7961"
+msgid "Je dois trouver le moyen de me sortir de cet enfer tout seul !"
+msgstr "この地獄から自力で抜け出す方法を見つけなきゃいけない！"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_chiaki_be9b4517"
+msgid "Ah, fait chier, il est déjà aussi tard !"
+msgstr "ああ、しまった、もうこんな時間か？！"
+
+#: game/scenes/gui/game_menu/navigation.tscn
+msgid "GALERIES"
+msgstr "ギャラリー"
+
+#: game/scenes/gui/game_menu/galleries.tscn
+msgid "PERSONNAGES"
+msgstr "キャラクター"
+
+#: game/scenes/gui/game_menu/galleries.tscn
+msgid "MUSIQUES"
+msgstr "音楽"
+
+#: game/scenes/gui/game_menu/galleries.tscn
+msgid "IMAGES"
+msgstr "画像"
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "game_menu.crumbs.galleries"
+msgid "IMAGES"
+msgstr "画像"
+
+#: game/scenes/gui/game_menu/galleries.tscn
+msgid "ARRIÈRES-PLANS"
+msgstr "背景"
+
+#: game/scenes/gui/game_menu/galleries.tscn
+msgid "ANIMATIONS"
+msgstr "アニメーション"
+
+#: game/scenes/gui/game_menu/main.tscn
+msgid "OPTIONS"
+msgstr "オプション"
+
+#: game/scenes/gui/game_menu/navigation.tscn
+msgid "PRÉFÉRENCES"
+msgstr "環境設定"
+
+#: game/scenes/gui/game_menu/preferences.tscn
+msgctxt "game_menu.crumbs"
+msgid "PRÉFÉRENCES"
+msgstr "環境設定"
+
+#: game/scenes/gui/game_menu/navigation.tscn
+msgid "SAUVEGARDES"
+msgstr "セーブ"
+
+#: game/scenes/gui/game_menu/saves.tscn
+msgctxt "game_menu.crumbs"
+msgid "SAUVEGARDES"
+msgstr "セーブ"
+
+#: game/scenes/gui/game_menu/navigation.tscn
+msgid "RENOMMER"
+msgstr "名前の変更"
+
+#: game/scenes/gui/game_menu/navigation.tscn
+msgid "PATREON"
+msgstr "PATREON"
+
+#: game/scenes/gui/game_menu/navigation.tscn
+msgid "REMERCIEMENTS"
+msgstr "謝辞"
+
+#: game/scenes/gui/game_menu/navigation.tscn
+msgid "QUITTER"
+msgstr "終了"
+
+#: game/scenes/gui/game_menu/preferences.tscn game/scenes/gui/game_menu/galleries/images.tscn
+msgid "GROUP"
+msgstr "グループ"
+
+#: game/scenes/gui/game_menu/preferences.tscn
+msgid "SUBGROUP"
+msgstr "サブグループ"
+
+#: game/scenes/gui/game_menu/preferences.tscn
+msgid "Préférence range"
+msgstr "範囲の選択"
+
+#: game/scenes/gui/game_menu/preferences.tscn
+msgid "50"
+msgstr "50"
+
+#: game/scenes/gui/game_menu/preferences.tscn
+msgid "Préférence enum"
+msgstr "列挙型の設定"
+
+#: game/scenes/gui/game_menu/preferences.tscn
+msgid "Valeur enum"
+msgstr "列挙値"
+
+#: game/scenes/gui/game_menu/preferences.tscn
+msgid "Préférence bool"
+msgstr "Bool型の設定"
+
+#: game/scenes/gui/game_menu/saves.tscn
+msgid "<<"
+msgstr "<<"
+
+#: game/scenes/gui/game_menu/saves.tscn
+msgid "<"
+msgstr "<"
+
+#: game/scenes/gui/game_menu/saves.tscn
+msgid "A"
+msgstr "A"
+
+#: game/scenes/gui/game_menu/saves.tscn
+msgid "Q"
+msgstr "Q"
+
+#: game/scenes/gui/game_menu/saves.tscn
+msgid ">"
+msgstr ">"
+
+#: game/scenes/gui/game_menu/saves.tscn
+msgid ">>"
+msgstr ">>"
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgid "TOUT"
+msgstr "全部"
+
+#: game/scenes/gui/main_menu.tscn
+msgid "Nouvelle partie"
+msgstr "最初から"
+
+#: game/scenes/gui/main_menu.tscn
+msgid "Charger"
+msgstr "続きから"
+
+#: game/scenes/gui/main_menu.tscn
+msgid "Galeries"
+msgstr "ギャラリー"
+
+#: game/scenes/gui/game_menu/save_button_template.tscn
+msgctxt "saves.button.played_time_long"
+msgid "{hours}h {minutes}m"
+msgstr "{hours}時間{minutes}分"
+
+#: game/scenes/gui/game_menu/save_button_template.tscn
+msgid "SAUVEGARDER"
+msgstr "セーブ"
+
+#: game/scenes/gui/game_menu/save_button_template.tscn
+msgid "CHARGER"
+msgstr "ロード"
+
+#: game/scenes/gui/game_menu/save_button_template.tscn
+msgid "Nom de sauvegarde"
+msgstr "セーブ名"
+
+#: game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "city"
+msgstr "街"
+
+#: game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "home_player_hallway"
+msgstr "玄関"
+
+#: game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "home_player_livingroom"
+msgstr "リビング"
+
+#: game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "home_player_corridor"
+msgstr "廊下"
+
+#: game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "home_player_saito_room"
+msgstr "{{saito.n}}の部屋"
+
+#: game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "home_player_bathroom"
+msgstr "浴室"
+
+#: game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "home_player_noriko_room"
+msgstr "{{noriko.n}}の部屋"
+
+#: game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "home_player_yasuka_room"
+msgstr "{{yasuka.n}}の部屋"
+
+#: game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "home_asami_asami_room"
+msgstr "{{asami.n}}の部屋"
+
+#: game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "onsen_bath"
+msgstr "温泉"
+
+#: game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "onsen_room"
+msgstr "温泉旅館客室"
+
+#: game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "coffeebar_interior"
+msgstr "[i]コーヒー・ブティック[/i]の中"
+
+#: game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "hostess_club_alley"
+msgstr "ホステスクラブ（路地）"
+
+#: game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "hostess_club_interior"
+msgstr "ホステスクラブ内部"
+
+#: game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "restaurant_interior"
+msgstr "うどん屋内部"
+
+#: game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "onsen_interior"
+msgstr "温泉旅館内部"
+
+#: game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "love_hotel_reception"
+msgstr "ラブホテル受付"
+
+#: game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "love_hotel_room"
+msgstr "ラブホテル客室"
+
+#: game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "warehouse_interior"
+msgstr "倉庫内部"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_2"
+msgstr "[color=yellow]公園[/color]にジョギングに行く。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_1"
+msgstr "寝室を出てリビングの{{yasuka.n}}に会う。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_3"
+msgstr "[color=yellow]公園[/color]にジョギングに行く。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_4"
+msgstr "もう走るには遅い。代わりにこの先にある[color=yellow]うどん屋[/color]に行って"
+"みよう。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_5"
+msgstr "後は[color=yellow]道場[/color]に行くだけだ。こんな日はうんざりだ……"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_6"
+msgstr "とっとと[color=yellow]家[/color]に帰ったほうがいい……"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_7"
+msgstr "明日はいい日になるといいな……"
+
+#: game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "home_asami_livingroom"
+msgstr "{{asami.n}}の家のリビング"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_10"
+msgstr "誰も邪魔するな！俺は[color=yellow]公園[/color]に行く！"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_11"
+msgstr "誰も邪魔するな！俺は[color=yellow]公園[/color]に行く！"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_12"
+msgstr "これを持ち主に返さないと……"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_14_noriko_blackmail_reject"
+msgstr "{{yasuka.n}}に詳しく聞く。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_14_noriko_femdom_maledom"
+msgstr "{{noriko.n}}に説明を求める。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_15_noriko_femdom_maledom"
+msgstr "Wifiルーターは[color=yellow]リビング[/color]にある。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_17_noriko_femdom_maledom"
+msgstr "{{noriko.n}}の部屋を探してウォークマンを見つける。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_18_noriko_blackmail_reject"
+msgstr "{{noriko.n}}の部屋からウォークマンを取り返せ！"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_15_noriko_blackmail_reject"
+msgstr "{{noriko.n}}の部屋からウォークマンを取り返せ！"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_18_noriko_femdom_maledom"
+msgstr "{{yasuka.n}}を探してCDプレイヤーを返してもらう。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_19_noriko_femdom_maledom"
+msgstr "CDプレイヤーを手に入れて{macumba.n}}に会いに行く。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_21_noriko_femdom_maledom"
+msgstr "[color=yellow]公園[/color]にまだ{{macumba.n}}が居るかどうか見に戻る。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_22"
+msgstr "[color=yellow]公園[/color]にまだ{{macumba.n}}が居るかどうか見に戻る。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_23"
+msgstr "今日はきりきり舞いだった。寝るしかない。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_25"
+msgstr "{{macumba.n}}がトレーニング初日のためにきっと待っている。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_26"
+msgstr "あのクソジジイに会いに行く日だ！何としても雇ってもらう。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_27"
+msgstr "もしかしたら{{macumba.n}}は強くなる手助けもしてくれるだろうか？"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_29"
+msgstr "もしかしたら{{macumba.n}}は強くなる手助けもしてくれるだろうか？"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_29_1_noriko_blackmail_reject"
+msgstr "すぐにダンベルを部屋に設置してトレーニングを始めよう。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_29_1_noriko_femdom_maledom"
+msgstr "すぐにダンベルを部屋に設置してトレーニングを始めよう。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_30_1"
+msgstr "すぐにダンベルを部屋に設置してトレーニングを始めよう。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_31"
+msgstr "朝は持久力、日中は筋力を鍛える事ができるな。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_31_1"
+msgstr "朝は持久力、日中は筋力を鍛える事ができるな。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_35"
+msgstr "クソッ、この仕事はもう無理だ。別のことを考えないと。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_36"
+msgstr "{{sakuya.n}}を家に送ろう。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_37"
+msgstr "今は{{macumba.n}}とのトレーニングに集中できる。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_38"
+msgstr "{{minato.n}}の所に行かないといけない。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_38_1"
+msgstr "{{minato.n}}の所に行かないといけない。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_39_chiaki_restaurant_exterior"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_39_chiaki_dojo_exterior"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_39_chiaki_park"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_39_chiaki_home_player_exterior"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_40"
+msgstr "できるだけ早く{{chiaki.n}}を探さないといけない。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_41"
+msgstr "公園で{{asami.n}}と会い悪い知らせを伝える。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_42"
+msgstr "今日もクソみたいな日だった……寝た方がいい。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_44"
+msgstr "もう寝ないと。明日はうどん屋での仕事が始まる。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_45"
+msgstr "もう寝ないと。明日はうどん屋での仕事が始まる。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_46"
+msgstr "[color=yellow]うどん屋[/color]での仕事初日だ！"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_48"
+msgstr "{{noriko.n}}を問いただす必要がある。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_49"
+msgstr "{{noriko.n}}を問いただす必要がある。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_50"
+msgstr "しまった、ぐずぐずしすぎた。初日なのにもう遅刻だ。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_51"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_0"
+msgstr "全力で{{noriko.n}}を避けろ！"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_maledom_0_1"
+msgstr "あなたは{{noriko.n}}を避けるかわりに怒らせた。油断禁物！"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_blackmail_reject_0_2"
+msgstr "{{noriko.n}}を無視し続けろ！"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_maledom_0_2"
+msgstr "{{noriko.n}}を無視し続けろ！"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_5"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_1_1"
+msgstr "今回はちょっとやりすぎたかもしれない。{{noriko.n}}にチクられたら死ぬ。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_3"
+msgstr "少し待とう、プレッシャーを上げよう。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_4"
+msgstr "少し待とう、プレッシャーを上げよう。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_5"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_5_1"
+msgstr "[color=yellow]道場[/color]へ入門しに行く。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_5_2"
+msgstr "[color=yellow]道場[/color]へ入門しに行く。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_6"
+msgstr "{{kimochi.n}}に会いに行く。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_7"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_9"
+msgstr "もう一度{{kimochi.n}}に会いに行く。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_10"
+msgstr "家に帰って解決策を考える。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_11"
+msgstr "部屋に居る{{asami.n}}の所に行く。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_12"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_13"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_14"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_15"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_3"
+msgstr "あいつはどこまで狂っていくのだろうか。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_4"
+msgstr "あいつはどこまで狂っていくのだろうか。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_15_1_yl"
+msgstr "{{yasuka.n}}に詳しく聞く。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_15_2_yc"
+msgstr "{{yasuka.n}}にもっと詳しく聞く。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_16"
+msgstr "家に帰って情報を整理する。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_17"
+msgstr "明日の朝{{asami.n}}と会って話をする。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_18"
+msgstr "{{asami.n}}に会いに行く。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_19"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_20"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_21"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_22"
+msgstr "コンビニに向かう。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_24"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_25"
+msgstr "ゲームセンターで{{kimochi.n}}と合流する。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_26"
+msgstr "[color=yellow]公園[/color]の近くで{{noriko.n}}を見張り続ける。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_28"
+msgstr "外に出て{{asami.n}}と{{kimochi.n}}の所に戻る。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_29"
+msgstr "{{noriko.n}}から答えを聞く。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_30"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_31"
+msgstr "明日まで待って{{noriko.n}}を追い続ける。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_32"
+msgstr "リビングの{{yasuka.n}}に会う。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_33"
+msgstr "コンビニに行く。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_34"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_37"
+msgstr "{{noriko.n}}の部屋で彼女を探す。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_38"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_39"
+msgstr "{{kimochi.n}}の家で{{asami.n}}を探す。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_40"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_41"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_42"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_43"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_44"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_46"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_47"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_48"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_49"
+msgstr "明日の朝{{noriko.n}}から弁解を聞く。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_50"
+msgstr "{{noriko.n}}の部屋で彼女に会う。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_51_1"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_52"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_54"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_55"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_56"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_57"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_58"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_59"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_60"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_36"
+msgstr "{{noriko.n}}の所に戻って弁解を求める。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_51"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_63"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_64"
+msgstr "バス停で{{noriko.n}}を探す。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_65"
+msgstr "{{noriko.n}}と家に帰る。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_66"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_67"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_68"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_69"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_70"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_72"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_73"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_74"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_71"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_blackmail_2"
+msgstr "あいつを捕まえた。今まで俺を苦しめてきたことへの復讐を遂げるときがついに来た"
+"。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_blackmail_3"
+msgstr "次は何をしてくれるんだろうか。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_blackmail_4"
+msgstr "次は何をしてくれるんだろうか。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_blackmail_5"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_reject_2"
+msgstr "{{noriko.n}}はついに報いを受けた。ようやく自由になれた！"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_reject_3"
+msgstr "次は何をしてくれるんだろうか。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_reject_4"
+msgstr "次は何をしてくれるんだろうか。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_reject_5"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_0"
+msgstr "いい子でいる、それが一番大切なことだ！"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_0_2"
+msgstr "絶対に仕事を見つける必要がある。{{yasuka.n}}を助けなきゃいけない。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_0_3"
+msgstr "絶対に仕事を見つける必要がある。{{yasuka.n}}を助けなきゃいけない。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_0_4"
+msgstr "{{yasuka.n}}のために、なんとしてもこの仕事に就く必要がある。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_2"
+msgstr "午後に喫茶店の{{yasuka.n}}を訪れる。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_3"
+msgstr "午後に喫茶店の{{yasuka.n}}を訪れる。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_4"
+msgstr "{{yasuka.n}}の帰りを待つ。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_5"
+msgstr "{{yasuka.n}}の帰りを待つ。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_6"
+msgstr "明日の夕方店に戻る。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_7"
+msgstr "明日の夕方店に戻る。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_9"
+msgstr "もしかしたら{{macumba.n}}が助けてくれるかも？"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_11"
+msgstr "{{kimochi.n}}と喫茶店で会う。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_12"
+msgstr "{{kimochi.n}}と喫茶店で会う。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_13"
+msgstr "{{yasuka.n}}の帰りを待つ。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_14"
+msgstr "{{yasuka.n}}の帰りを待つ。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_15"
+msgstr "{{yasuka.n}}と会う。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_16"
+msgstr "手遅れになる前に{{yasuka.n}}を探す。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_18"
+msgstr "街中を探し回る。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_19"
+msgstr "とある場所を忘れていたかもしれない……"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_20"
+msgstr "家まで{{yasuka.n}}を無事に送る。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_21"
+msgstr "明日の朝{{yasuka.n}}の退職届を持って店に戻る。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_22"
+msgstr "{{netoru.n}}に{{yasuka.n}}は戻ってこないと伝える。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_24"
+msgstr "{{yasuka.n}}の代わりに店で働く。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_25"
+msgstr "{{yasuka.n}}の代わりに店で働く。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_26"
+msgstr "帰って{{yasuka.n}}に今日のことを伝える。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_27"
+msgstr "明日の朝店に戻る。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_28"
+msgstr "店に行ってこき使われる。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_30"
+msgstr "もっと稼ぐためにうどん屋に仕事に行こう。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_31"
+msgstr "帰って{{yasuka.n}}と会う。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_32"
+msgstr "{{yasuka.n}}の寝室で彼女と会う。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_33"
+msgstr "もう遅い。寝る時間だ。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_34"
+msgstr "もう遅い。寝る時間だ。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_35"
+msgstr "朝からずっと店で働く。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_36_1"
+msgstr "帰って{{yasuka.n}}と会う。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_37"
+msgstr "もう遅い。寝る時間だ。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_38"
+msgstr "もう遅い。寝る時間だ。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_38_1"
+msgstr "店の仕事に戻る。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_39"
+msgstr "2つ目の仕事に向かおう！"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_39_1"
+msgstr "家に帰る。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_41"
+msgstr "{{yasuka.n}}の寝室で彼女と会う。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_43"
+msgstr "店の仕事に戻る。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_44"
+msgstr "うどん屋が待っている。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_44_1"
+msgstr "{{noriko.n}}に説明を求める。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_45"
+msgstr "きっと{{yasuka.n}}が俺を待っている。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_46"
+msgstr "寝る時間だ、{{yasuka.n}}に静かに考えさせてあげよう。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_47"
+msgstr "店に働きに行く。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_48"
+msgstr "うどん屋に働きに行く。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_48_1"
+msgstr "帰ろう、{{yasuka.n}}が待っている。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_50"
+msgstr "こっそり浴室で{{yasuka.n}}と合流する。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_51"
+msgstr "こっそり浴室で{{yasuka.n}}と合流する。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_52"
+msgstr "一日を終えて寝る時間だ。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_53"
+msgstr "いつも通り店に仕事に行く。おそらくこれが最後だろう。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_54"
+msgstr "店の中を調べる。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_55"
+msgstr "店の中を調べる。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_57"
+msgstr "{{yasuka.n}}に良い知らせを伝える。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_58"
+msgstr "{{yasuka.n}}に良い知らせを伝える。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_59"
+msgstr "外に新鮮な空気を吸いに行く。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_60"
+msgstr "外に新鮮な空気を吸いに行く。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_62"
+msgstr "頼むから寝させてくれ。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_64"
+msgstr "喫茶店に立ち寄る。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_63"
+msgstr "{{yasuka.n}}に会いに行く。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_65"
+msgstr "今日の夕方にリビングで{{yasuka.n}}と会う。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_66"
+msgstr "今日の夕方にリビングで{{yasuka.n}}と会う。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_67"
+msgstr "今日の夕方にリビングで{{yasuka.n}}と会う。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_68"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_0_1"
+msgstr "絶対に仕事を見つける必要がある。{{yasuka.n}}を助けなきゃいけない。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_0_2"
+msgstr "絶対に仕事を見つける必要がある。{{yasuka.n}}を助けなきゃいけない。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_1"
+msgstr "夕方に[color=yellow]リビング[/color]で{{yasuka.n}}と会う。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_2"
+msgstr "ホステスバーまで{{yasuka.n}}に付き添う。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_3"
+msgstr "{{akira.n}}を止めるために押し切る。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_4"
+msgstr "{{akira.n}}を止めるために押し切る。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_5"
+msgstr "{{akira.n}}を止めるために押し切る。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_6_1"
+msgstr "リビングで{{yasuka.n}}と合流する。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_7"
+msgstr "街に出て一日を謳歌する"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_8"
+msgstr "隠れる場所を探せ！"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_9"
+msgstr "隠れる場所を探せ！"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_10"
+msgstr "隠れる場所を探せ！"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_11"
+msgstr "隠れる場所を探せ！"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_12"
+msgstr "{{netoru.n}}に家まで送ってもらう。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_14"
+msgstr "ぐっすり眠るといい効果がある。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_15"
+msgstr "{{kimochi.n}}と話す。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_16"
+msgstr "{{netoru.n}}に録音のコピーをくれるように頼む。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_17"
+msgstr "店を出て現状について検討する。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_19"
+msgstr "{{yasuka.n}}が夜勤を始める前に会う。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_20"
+msgstr "眠って明日の朝{{yasuka.n}}と話す。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_21"
+msgstr "{{yasuka.n}}話す。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_22"
+msgstr "家から出て、学んだことについて検討する。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_23"
+msgstr "{{noriko.n}}の部屋で彼女と話す。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_24"
+msgstr "街で服屋を探す。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_25"
+msgstr "ラブホテルの隣の店を見つける。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_27"
+msgstr "{{natsume.n}}を家まで送る。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_28"
+msgstr "新しいスーツを着てプライベートクラブに入場する。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_29"
+msgstr "新しいスーツを着てプライベートクラブに入場する。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_31"
+msgstr "明日の朝{{kimochi.n}}に会いに行く"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_33"
+msgstr "夜になる前に{{kimochi.n}}に会いに行く。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_34"
+msgstr "うどん屋に働きに行く。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_35"
+msgstr "うどん屋に働きに行く。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_36"
+msgstr "うどん屋から出る。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_38"
+msgstr "帰って寝る。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_39"
+msgstr "いつも通りうどん屋に働きに行く。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_40"
+msgstr "家に帰って寝る。今日はくたくただ。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_42"
+msgstr "リビングで{{yasuka.n}}と話す。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_43"
+msgstr "夜になる前に{{kimochi.n}}に会いに行く。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_44"
+msgstr "ホステスクラブの{{macumba.n}}にUSBを持っていく。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_45"
+msgstr "ホステスクラブの{{macumba.n}}にUSBを持っていく。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_46"
+msgstr "ホステスクラブの{{macumba.n}}にUSBを持っていく。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_48"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_49_1"
+msgstr "帰って{{yasuka.n}}が大丈夫か確かめる。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_49_2"
+msgstr "{{yasuka.n}}が大丈夫か確認する。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_50"
+msgstr "枕元の明かりをつけて{{yasuka.n}}を調べる。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_52"
+msgstr "枕元の明かりをつけて{{yasuka.n}}を調べる。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_54"
+msgstr "すぐにホステスバーの{{yasuka.n}}と合流する。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_55"
+msgstr "クラブの中に強行突破する。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_56"
+msgstr "クラブの中に強行突破する。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_57"
+msgstr "手遅れになる前に{{yasuka.n}}を探せ！"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_58"
+msgstr "ラブホテルに駆け込んで{{yasuka.n}}を探せ！"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_60"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_61"
+msgstr "今晩{{yasuka.n}}と自分の部屋で話す。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_62"
+msgstr "自分の部屋で寝る。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_63"
+msgstr "うどん屋に働きに行く。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_64"
+msgstr "うどん屋に働きに行く。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_67"
+msgstr "部屋から忍び出る機会を待って眠る。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_68"
+msgstr "ラブホテルで{{yasuka.n}}と落ち合う。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_71"
+msgstr "見られずに家に帰る。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_70"
+msgstr "見られずに家に帰る。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "chef_1"
+msgstr "この仕事がほしいなら身体を鍛えなければいけない。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "chef_1_1"
+msgstr "3回ダンベルトレーニングをすれば働くのに十分だろう。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "chef_3"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "macumba_0"
+msgstr "男に音楽を聞かせよう！"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "macumba_0_1"
+msgstr "{{macumba.n}}に自分の価値を証明する。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "macumba_1"
+msgstr "体力を取り戻したければトレーニングを続けなければならない。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "macumba_1_2"
+msgstr "体力を取り戻したければトレーニングを続けなければならない。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "macumba_1_3"
+msgstr "体力を取り戻したければトレーニングを続けなければならない。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "macumba_1_4"
+msgstr "体力を取り戻したければトレーニングを続けなければならない。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "macumba_1_6"
+msgstr "体力を取り戻したければトレーニングを続けなければならない。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "macumba_1_7"
+msgstr "体力を取り戻したければトレーニングを続けなければならない。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "macumba_1_8"
+msgstr "体力を取り戻したければトレーニングを続けなければならない。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "chiaki_1_promise"
+msgstr "{{chiaki.n}の信用を得ないと。まだ俺のことを怖がっている。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "chiaki_1_nopromise"
+msgstr "{{minato.n}と話す必要がある。こんなの普通じゃない。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "chiaki_2_promise"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "chiaki_2_nopromise"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "chiaki_3_promise"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "chiaki_3_nopromise"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_0"
+msgstr "めちゃくちゃかわいかった。すぐにまた会えるといいな。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_1"
+msgstr "{{akira.n}}の計画を崩してやった。不幸中の幸いだ。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_2"
+msgstr "{{sakuya.n}}を本物のAV女優にしないといけない……"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_3"
+msgstr "{{sakuya.n}}を本物のAV女優にしないといけない……"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_6"
+msgstr "{{noriko.n}}の部屋で{{asami.n}}と合流する。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_7"
+msgstr "{{noriko.n}}の部屋で{{asami.n}}と合流する。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_8"
+msgstr "{{noriko.n}}の部屋で女子の輪に加わる。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_10"
+msgstr "{{asami.n}}の母親と知り合う。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_11"
+msgstr "{{asami.n}}の部屋で彼女を探す。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_12"
+msgstr "{{asami.n}}の部屋で彼女を探す。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_13"
+msgstr "{{asami.n}}の部屋で彼女を探す。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_15"
+msgstr "{{kimochi.n}}に会いに行く。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_16"
+msgstr "{{kimochi.n}}に会いに行く。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_17"
+msgstr "{{kimochi.n}}に会いに行く。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_18"
+msgstr "{{kimochi.n}}に会いに行く。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_19"
+msgstr "{{kimochi.n}}に会いに行く。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_20"
+msgstr "夜に自宅の前で{{sakuya.n}}と話す。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_21"
+msgstr "夜に自宅の前で{{sakuya.n}}と話す。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_23"
+msgstr "{{yasuka.n}}と話しに行く。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_24"
+msgstr "{{yasuka.n}}と話しに行く。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_25"
+msgstr "{{asami.n}}に会って別れに行く。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_26"
+msgstr "{{asami.n}}に会って別れに行く。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_27"
+msgstr "{{asami.n}}に会って別れに行く。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_29"
+msgstr "{{asami.n}}に会って別れに行く。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_30"
+msgstr "{{asami.n}}に会って別れに行く。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_31"
+msgstr "{{asami.n}}に会って別れに行く。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_31_1"
+msgstr "温泉で{{sakuya.n}}と合流する。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_32"
+msgstr "温泉で{{sakuya.n}}と合流する。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_33"
+msgstr "温泉で{{sakuya.n}}と合流する。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_35"
+msgstr "温泉で{{sakuya.n}}と合流する。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_36"
+msgstr "温泉で{{sakuya.n}}と合流する。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_37"
+msgstr "温泉で{{sakuya.n}}と合流する。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_38"
+msgstr "温泉で{{sakuya.n}}と合流する。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_39"
+msgstr "温泉で{{sakuya.n}}と合流する。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_41"
+msgstr "{{saito.n}}の家のベルを鳴らす。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_43"
+msgstr "{{saito.n}}の家のベルを鳴らす。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_44"
+msgstr "{{saito.n}}の家のベルを鳴らす。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_45"
+msgstr "{{saito.n}}の家のベルを鳴らす。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_46"
+msgstr "{{saito.n}}の家のベルを鳴らす。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_47"
+msgstr "{{saito.n}}の家のベルを鳴らす。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_49"
+msgstr "{{saito.n}}の家のベルを鳴らす。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_50"
+msgstr "{{saito.n}}の家のベルを鳴らす。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_51"
+msgstr "{{saito.n}}の家のベルを鳴らす。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_52"
+msgstr "{{saito.n}}の家のベルを鳴らす。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_53"
+msgstr "{{saito.n}}の家のベルを鳴らす。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_55"
+msgstr "{{saito.n}}の家のベルを鳴らす。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_56"
+msgstr "{{saito.n}}の家のベルを鳴らす。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_57"
+msgstr "{{saito.n}}の家のベルを鳴らす。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_58"
+msgstr "{{saito.n}}の家のベルを鳴らす。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_60"
+msgstr "{{saito.n}}の家のベルを鳴らす。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_61"
+msgstr "{{saito.n}}の家のベルを鳴らす。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_62"
+msgstr "{{saito.n}}の家のベルを鳴らす。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_63"
+msgstr "{{saito.n}}の家のベルを鳴らす。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_64"
+msgstr "{{saito.n}}の家のベルを鳴らす。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_66"
+msgstr "{{saito.n}}の家のベルを鳴らす。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_66_1"
+msgstr "逃げられる前に {{akira.n}}を見つける。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_67"
+msgstr "{{sakuya.n}}の日記を取り返す。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_69"
+msgstr "家に帰る。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_70"
+msgstr "家に帰る。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_72"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_73"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_0"
+msgstr "これだけ頑張って友達どまり……残念だ……"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_0_1"
+msgstr "やれやれ、{{asami.n}}との関係もおしまいだ。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_love_5"
+msgstr "彼女はきっと公園にいると思う。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_44_1"
+msgstr "{{saito.n}}の家のベルを鳴らす。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_love_7"
+msgstr "自分の部屋に{{asami.n}}を連れて行く。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_love_8"
+msgstr "自分の部屋に{{asami.n}}を連れて行く。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_love_10"
+msgstr "{{asami.n}}を家に送る。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_love_11"
+msgstr "{{asami.n}}を家に送る。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_love_12"
+msgstr "{{minato.n}}の家のベルを鳴らす。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_love_12_1"
+msgstr "{{minato.n}}の家のベルを鳴らす。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_love_15"
+msgstr "{{minato.n}}の所に戻って誤解を解く。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_love_16"
+msgstr "{{minato.n}}の所に戻って誤解を解く。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_love_17"
+msgstr "{{minato.n}}の所に戻って誤解を解く。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_love_18"
+msgstr "自分の部屋で{{asami.n}}と一日を過ごす。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_love_19"
+msgstr "自分の部屋で{{asami.n}}と一日を過ごす。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_love_21"
+msgstr "{{kimochi.n}}に教えられた住所に行く。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_love_22"
+msgstr "家に帰るべきだ。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_love_23"
+msgstr "ぐっすり眠ればはっきりと物事を考えられる。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_love_24"
+msgstr "この混乱から抜け出す解決策を考える。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_love_25"
+msgstr "{{macumba.n}}に助けを求める。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_love_27"
+msgstr "{{asami.n}}を家まで迎えに行く。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_love_27_1"
+msgstr "{{asami.n}}を家まで迎えに行く。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_love_28"
+msgstr "自分の部屋で{{asami.n}}と会う。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_love_29"
+msgstr "{{asami.n}}を家に送る。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_love_30"
+msgstr "{{asami.n}}のサプライズを明日の夜まで待つ。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_love_33"
+msgstr "{{kimochi.n}}と会って計画を立てる。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_love_34"
+msgstr "自分の寝室で日暮れを待つ。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_love_35"
+msgstr "自分の寝室で日暮れを待つ。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_love_36"
+msgstr "今夜自分の寝室で{{asami.n}}と会う。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_love_39"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_corruption_4"
+msgstr "{{minato.n}}の彼女を見つけ出す必要がある。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_corruption_5"
+msgstr "{{minato.n}}の家に行ってもっと彼女についての情報を得よう。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_corruption_7"
+msgstr "[color=yellow]公園[/color]で{{asami.n}}と会う。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_corruption_8"
+msgstr "明日の午後[color=yellow]公園[/color]にまた来よう。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_corruption_9"
+msgstr "午後に{{asami.n}}が[color=yellow]公園[/color]で俺を待っている。"
+
+#: game/scripts/variables/quests.gd
+#, fuzzy
+msgctxt "quests.hints"
+msgid "asami_corruption_11"
+msgstr "20,000円集めなきゃいけない。[color=yellow]うどん屋[/color]で働くのがいいだろ"
+"う。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_corruption_12"
+msgstr "午後に{{asami.n}}が[color=yellow]公園[/color]で俺を待っている。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_corruption_14"
+msgstr "{{macumba.n}}が助けてくれるかもしれない。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_corruption_15"
+msgstr "{{macumba.n}}が助けてくれるかもしれない。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_corruption_17"
+msgstr "{{minato.n}}と対面する。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_corruption_19"
+msgstr "{{minato.n}}の前で怪しい男を捕まえる。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_corruption_20"
+msgstr "{{minato.n}}の前で怪しい男を捕まえる。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_corruption_21"
+msgstr "{{kimochi.n}の前でアパートに入る。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_corruption_13"
+msgstr "家に帰って休んだ方がいい。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_corruption_22"
+msgstr "家に帰っていくらか休んだ方がいい。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_corruption_23"
+msgstr "{{minato.n}}の所に行く。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_corruption_24"
+msgstr "公園で女子たちと会う。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_corruption_25"
+msgstr "今夜は公園に行かないといけない。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_corruption_26"
+msgstr "午後に公園で女子たちと会う。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_corruption_28"
+msgstr "{{asami.n}}はたぶん午後に公園にいるだろう。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_corruption_29"
+msgstr "{{asami.n}}の家の外で彼女と会う。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_corruption_30"
+msgstr "{{asami.n}}の家の外で彼女と会う。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_corruption_32"
+msgstr "今日の午後{{asami.n}}と会うのが待ち切れない。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_corruption_33"
+msgstr "公園で{{natsume.n}}と合流する。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_corruption_34"
+msgstr "{{asami.n}}は今夜自宅の前にいる。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_corruption_36"
+msgstr "{{asami.n}}は今夜自宅の前にいる。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_corruption_37"
+msgstr "午後に公園で{{asami.n}} と会う。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_corruption_38"
+msgstr "午後に公園で{{asami.n}} と会う。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_corruption_39"
+msgstr "[null]"
+
+#: game/scenes/characters/sprites/saito.tscn game/scenes/characters/sprites/noriko.tscn game/scenes/characters/sprites/yasuka.tscn game/scenes/characters/sprites/chiaki.tscn
+#: game/scenes/characters/sprites/minato.tscn game/scenes/characters/sprites/macumba.tscn game/scenes/characters/sprites/natsume.tscn game/scenes/characters/sprites/sakuya.tscn
+#: game/scenes/characters/sprites/netoru.tscn game/scenes/characters/sprites/sayuri.tscn
+msgctxt "character.sprite.group"
+msgid "cloth"
+msgstr "服装"
+
+#: game/scenes/characters/sprites/saito.tscn game/scenes/characters/sprites/asami.tscn game/scenes/characters/sprites/noriko.tscn game/scenes/characters/sprites/yasuka.tscn
+#: game/scenes/characters/sprites/chiaki.tscn game/scenes/characters/sprites/minato.tscn game/scenes/characters/sprites/macumba.tscn game/scenes/characters/sprites/natsume.tscn
+#: game/scenes/characters/sprites/sakuya.tscn game/scenes/characters/sprites/kimochi.tscn game/scenes/characters/sprites/chef.tscn game/scenes/characters/sprites/akira.tscn
+#: game/scenes/characters/sprites/kenji.tscn game/scenes/characters/sprites/takeo.tscn game/scenes/characters/sprites/nobu.tscn game/scenes/characters/sprites/netoru.tscn
+#: game/scenes/characters/sprites/sayuri.tscn game/scenes/characters/sprites/master.tscn
+msgctxt "character.sprite.attribute"
+msgid "neutral"
+msgstr "通常"
+
+#: game/scenes/characters/sprites/saito.tscn game/scenes/characters/sprites/asami.tscn game/scenes/characters/sprites/yasuka.tscn game/scenes/characters/sprites/minato.tscn
+#: game/scenes/characters/sprites/macumba.tscn game/scenes/characters/sprites/chef.tscn game/scenes/characters/sprites/akira.tscn game/scenes/characters/sprites/sayuri.tscn
+#: game/scenes/characters/sprites/master.tscn
+msgctxt "character.sprite.attribute"
+msgid "upset"
+msgstr "不満"
+
+#: game/scenes/characters/sprites/saito.tscn game/scenes/characters/sprites/asami.tscn game/scenes/characters/sprites/noriko.tscn game/scenes/characters/sprites/yasuka.tscn
+#: game/scenes/characters/sprites/minato.tscn game/scenes/characters/sprites/macumba.tscn game/scenes/characters/sprites/natsume.tscn game/scenes/characters/sprites/sakuya.tscn
+#: game/scenes/characters/sprites/kimochi.tscn game/scenes/characters/sprites/chef.tscn game/scenes/characters/sprites/akira.tscn game/scenes/characters/sprites/sayuri.tscn
+#: game/scenes/characters/sprites/master.tscn
+msgctxt "character.sprite.attribute"
+msgid "happy"
+msgstr "嬉しい"
+
+#: game/scenes/characters/sprites/saito.tscn game/scenes/characters/sprites/asami.tscn game/scenes/characters/sprites/yasuka.tscn game/scenes/characters/sprites/chiaki.tscn
+#: game/scenes/characters/sprites/macumba.tscn game/scenes/characters/sprites/natsume.tscn game/scenes/characters/sprites/sakuya.tscn game/scenes/characters/sprites/kimochi.tscn
+#: game/scenes/characters/sprites/sayuri.tscn game/scenes/characters/sprites/master.tscn
+msgctxt "character.sprite.attribute"
+msgid "sad"
+msgstr "悲しい"
+
+#: game/scenes/characters/sprites/saito.tscn game/scenes/characters/sprites/asami.tscn game/scenes/characters/sprites/yasuka.tscn game/scenes/characters/sprites/natsume.tscn
+#: game/scenes/characters/sprites/sayuri.tscn
+msgctxt "character.sprite.attribute"
+msgid "surprised"
+msgstr "驚く"
+
+#: game/scenes/characters/sprites/saito.tscn game/scenes/characters/sprites/asami.tscn game/scenes/characters/sprites/noriko.tscn game/scenes/characters/sprites/minato.tscn
+#: game/scenes/characters/sprites/natsume.tscn game/scenes/characters/sprites/sakuya.tscn game/scenes/characters/sprites/kimochi.tscn game/scenes/characters/sprites/chef.tscn
+#: game/scenes/characters/sprites/akira.tscn game/scenes/characters/sprites/kenji.tscn game/scenes/characters/sprites/takeo.tscn game/scenes/characters/sprites/nobu.tscn
+#: game/scenes/characters/sprites/netoru.tscn game/scenes/characters/sprites/master.tscn
+msgctxt "character.sprite.attribute"
+msgid "angry"
+msgstr "怒る"
+
+#: game/scenes/characters/sprites/saito.tscn
+msgctxt "character.sprite.attribute"
+msgid "guilty"
+msgstr "やましい"
+
+#: game/scenes/characters/sprites/saito.tscn
+msgctxt "character.sprite.attribute"
+msgid "underwear"
+msgstr "下着"
+
+#: game/scenes/characters/sprites/saito.tscn game/scenes/characters/sprites/asami.tscn game/scenes/characters/sprites/noriko.tscn game/scenes/characters/sprites/yasuka.tscn
+#: game/scenes/characters/sprites/chiaki.tscn game/scenes/characters/sprites/minato.tscn game/scenes/characters/sprites/natsume.tscn game/scenes/characters/sprites/netoru.tscn
+#: game/scenes/characters/sprites/sayuri.tscn
+msgctxt "character.sprite.attribute"
+msgid "everyday"
+msgstr "普段着"
+
+#: game/scenes/characters/sprites/saito.tscn game/scenes/characters/sprites/macumba.tscn game/scenes/characters/sprites/netoru.tscn
+msgctxt "character.sprite.attribute"
+msgid "suit"
+msgstr "スーツ"
+
+#: game/scenes/characters/sprites/saito.tscn game/scenes/characters/sprites/sakuya.tscn
+msgctxt "character.sprite.attribute"
+msgid "towel"
+msgstr "タオル"
+
+#: game/scenes/characters/sprites/asami.tscn game/scenes/characters/sprites/noriko.tscn game/scenes/characters/sprites/yasuka.tscn game/scenes/characters/sprites/chiaki.tscn
+#: game/scenes/characters/sprites/natsume.tscn game/scenes/characters/sprites/sakuya.tscn game/scenes/characters/sprites/sayuri.tscn
+msgctxt "character.sprite.group"
+msgid "base"
+msgstr "肌色"
+
+#: game/scenes/characters/sprites/asami.tscn
+msgctxt "character.sprite.group"
+msgid "birthmark"
+msgstr "痣"
+
+#: game/scenes/characters/sprites/asami.tscn
+msgctxt "character.sprite.group"
+msgid "clothes"
+msgstr "服装"
+
+#: game/scenes/characters/sprites/asami.tscn game/scenes/characters/sprites/sakuya.tscn
+msgctxt "character.sprite.attribute"
+msgid "bored"
+msgstr "つまらない"
+
+#: game/scenes/characters/sprites/asami.tscn game/scenes/characters/sprites/yasuka.tscn game/scenes/characters/sprites/natsume.tscn game/scenes/characters/sprites/sakuya.tscn
+#: game/scenes/characters/sprites/sayuri.tscn
+msgctxt "character.sprite.attribute"
+msgid "pouting"
+msgstr "むくれる"
+
+#: game/scenes/characters/sprites/asami.tscn
+msgctxt "character.sprite.attribute"
+msgid "jacket"
+msgstr "ジャケット"
+
+#: game/scenes/characters/sprites/asami.tscn game/scenes/characters/sprites/yasuka.tscn game/scenes/characters/sprites/chiaki.tscn
+msgctxt "character.sprite.attribute"
+msgid "dress"
+msgstr "ドレス"
+
+#: game/scenes/characters/sprites/asami.tscn game/scenes/characters/sprites/noriko.tscn game/scenes/characters/sprites/yasuka.tscn game/scenes/characters/sprites/chiaki.tscn
+#: game/scenes/characters/sprites/natsume.tscn game/scenes/characters/sprites/sakuya.tscn game/scenes/characters/sprites/sayuri.tscn
+msgctxt "character.sprite.attribute"
+msgid "nude"
+msgstr "全裸"
+
+#: game/scenes/characters/sprites/asami.tscn
+msgctxt "character.sprite.attribute"
+msgid "sexy"
+msgstr "セクシー"
+
+#: game/scenes/characters/sprites/asami.tscn game/scenes/characters/sprites/noriko.tscn game/scenes/characters/sprites/yasuka.tscn game/scenes/characters/sprites/sayuri.tscn
+msgctxt "character.sprite.attribute"
+msgid "babydoll"
+msgstr "ベビードール"
+
+#: game/scenes/characters/sprites/asami.tscn
+msgctxt "character.sprite.attribute"
+msgid "tan"
+msgstr "日焼け"
+
+#: game/scenes/characters/sprites/asami.tscn
+msgctxt "character.sprite.attribute"
+msgid "notan"
+msgstr "自然"
+
+#: game/scenes/characters/sprites/noriko.tscn game/scenes/characters/sprites/natsume.tscn
+msgctxt "character.sprite.attribute"
+msgid "cute"
+msgstr "可愛い"
+
+#: game/scenes/characters/sprites/noriko.tscn game/scenes/characters/sprites/kimochi.tscn game/scenes/characters/sprites/kenji.tscn game/scenes/characters/sprites/takeo.tscn
+#: game/scenes/characters/sprites/nobu.tscn
+msgctxt "character.sprite.attribute"
+msgid "disgusted"
+msgstr "嫌悪"
+
+#: game/scenes/characters/sprites/noriko.tscn game/scenes/characters/sprites/natsume.tscn
+msgctxt "character.sprite.attribute"
+msgid "shame"
+msgstr "恥ずかしい"
+
+#: game/scenes/characters/sprites/noriko.tscn game/scenes/characters/sprites/chiaki.tscn game/scenes/characters/sprites/natsume.tscn
+msgctxt "character.sprite.attribute"
+msgid "afraid"
+msgstr "恐ろしい"
+
+#: game/scenes/characters/sprites/noriko.tscn game/scenes/characters/sprites/natsume.tscn game/scenes/characters/sprites/kenji.tscn game/scenes/characters/sprites/takeo.tscn
+#: game/scenes/characters/sprites/nobu.tscn game/scenes/characters/sprites/netoru.tscn game/scenes/characters/sprites/master.tscn
+msgctxt "character.sprite.attribute"
+msgid "bad"
+msgstr "ずる賢い"
+
+#: game/scenes/characters/sprites/noriko.tscn
+msgctxt "character.sprite.attribute"
+msgid "excited"
+msgstr "わくわく"
+
+#: game/scenes/characters/sprites/noriko.tscn
+msgctxt "character.sprite.attribute"
+msgid "pyjama"
+msgstr "パジャマ"
+
+#: game/scenes/characters/sprites/yasuka.tscn game/scenes/characters/sprites/sayuri.tscn
+msgctxt "character.sprite.attribute"
+msgid "moved"
+msgstr "感動"
+
+#: game/scenes/characters/sprites/yasuka.tscn game/scenes/characters/sprites/sayuri.tscn
+msgctxt "character.sprite.attribute"
+msgid "depressed"
+msgstr "落ち込む"
+
+#: game/scenes/characters/sprites/yasuka.tscn
+msgctxt "character.sprite.attribute"
+msgid "pantsu"
+msgstr "パンティー"
+
+#: game/scenes/characters/sprites/chiaki.tscn
+msgctxt "character.sprite.attribute"
+msgid "cry"
+msgstr "泣く"
+
+#: game/scenes/characters/sprites/chiaki.tscn
+msgctxt "character.sprite.attribute"
+msgid "shy"
+msgstr "恥ずかしがる"
+
+#: game/scenes/characters/sprites/chiaki.tscn
+msgctxt "character.sprite.attribute"
+msgid "smile"
+msgstr "微笑む"
+
+#: game/scenes/characters/sprites/chiaki.tscn game/scenes/characters/sprites/kimochi.tscn
+msgctxt "character.sprite.attribute"
+msgid "think"
+msgstr "考える"
+
+#: game/scenes/characters/sprites/chiaki.tscn
+msgctxt "character.sprite.attribute"
+msgid "jewels"
+msgstr "宝石"
+
+#: game/scenes/characters/sprites/chiaki.tscn
+msgctxt "character.sprite.attribute"
+msgid "lingerie"
+msgstr "ランジェリー"
+
+#: game/scenes/characters/sprites/minato.tscn
+msgctxt "character.sprite.attribute"
+msgid "suspicious"
+msgstr "疑う"
+
+#: game/scenes/characters/sprites/natsume.tscn
+msgctxt "character.sprite.group"
+msgid "Mood"
+msgstr "気分"
+
+#: game/scenes/characters/sprites/sakuya.tscn
+msgctxt "character.sprite.group"
+msgid "hair"
+msgstr "髪の毛"
+
+#: game/scenes/characters/sprites/sakuya.tscn
+msgctxt "character.sprite.attribute"
+msgid "natural"
+msgstr "自然"
+
+#: game/scenes/characters/sprites/sakuya.tscn
+msgctxt "character.sprite.attribute"
+msgid "job"
+msgstr "結ぶ"
+
+#: game/scenes/characters/sprites/sakuya.tscn
+msgctxt "character.sprite.attribute"
+msgid "melancholic"
+msgstr "憂鬱"
+
+#: game/scenes/characters/sprites/sakuya.tscn
+msgctxt "character.sprite.attribute"
+msgid "kimono"
+msgstr "着物"
+
+#: game/scenes/characters/sprites/kimochi.tscn
+msgctxt "character.sprite.attribute"
+msgid "doubt"
+msgstr "疑う"
+
+#: game/scenes/characters/sprites/kimochi.tscn game/scenes/characters/sprites/netoru.tscn
+msgctxt "character.sprite.attribute"
+msgid "frustrated"
+msgstr "苛立つ"
+
+#: game/scenes/characters/sprites/kimochi.tscn
+msgctxt "character.sprite.attribute"
+msgid "horny"
+msgstr "発情"
+
+#: game/scenes/characters/sprites/kimochi.tscn game/scenes/characters/sprites/netoru.tscn
+msgctxt "character.sprite.attribute"
+msgid "glasses"
+msgstr "眼鏡"
+
+#: game/scenes/characters/sprites/chef.tscn game/scenes/characters/sprites/kenji.tscn game/scenes/characters/sprites/takeo.tscn game/scenes/characters/sprites/nobu.tscn
+msgctxt "character.sprite.attribute"
+msgid "mocking"
+msgstr "嘲笑"
+
+#: game/scenes/characters/sprites/chef.tscn
+msgctxt "character.sprite.attribute"
+msgid "hat"
+msgstr "帽子"
+
+#: game/scenes/characters/sprites/akira.tscn game/scenes/characters/sprites/netoru.tscn
+msgctxt "character.sprite.attribute"
+msgid "arrogant"
+msgstr "傲慢"
+
+#: game/scenes/characters/sprites/netoru.tscn
+msgctxt "character.sprite.group"
+msgid "badge"
+msgstr "バッジ"
+
+#: game/scenes/characters/sprites/netoru.tscn
+msgctxt "character.sprite.attribute"
+msgid "regular"
+msgstr "通常"
+
+#: game/scenes/characters/sprites/netoru.tscn
+msgctxt "character.sprite.attribute"
+msgid "mirror"
+msgstr "鏡"
+
+#: game/scenes/characters/sprites/sayuri.tscn
+msgctxt "character.sprite.attribute"
+msgid "ring"
+msgstr "指輪"
+
+#: game/scenes/characters/sprites/master.tscn
+msgctxt "character.sprite.group"
+msgid "hat"
+msgstr "帽子"
+
+#: game/scenes/characters/sprites/master.tscn
+msgctxt "character.sprite.attribute"
+msgid "beanie"
+msgstr "ニット帽"
+
+msgctxt "preferences.group"
+msgid "Visuals"
+msgstr "グラフィック"
+
+msgctxt "preferences.subgroup"
+msgid "Global"
+msgstr "グローバル"
+
+msgctxt "preferences.variable.display_mode"
+msgid "Windowed:0"
+msgstr "ウィンドウ"
+
+msgctxt "preferences.variable.display_mode"
+msgid "Borderless Window:1"
+msgstr "ボーダーレスウィンドウ"
+
+msgctxt "preferences.variable.display_mode"
+msgid "Fullscreen:2"
+msgstr "フルスクリーン"
+
+msgctxt "preferences.variable"
+msgid "display_mode"
+msgstr "ディスプレイモード"
+
+msgctxt "preferences.variable.anisotropic_filter"
+msgid "X 2:1"
+msgstr "x2"
+
+msgctxt "preferences.variable.anisotropic_filter"
+msgid "X 4:2"
+msgstr "x4"
+
+msgctxt "preferences.variable.anisotropic_filter"
+msgid "X 16:4"
+msgstr "x16"
+
+msgctxt "preferences.variable"
+msgid "anisotropic_filter"
+msgstr "異方性フィルター"
+
+msgctxt "preferences.variable"
+msgid "particles"
+msgstr "パーティクル"
+
+msgctxt "preferences.subgroup"
+msgid "User Interface"
+msgstr "UI"
+
+msgctxt "preferences.variable"
+msgid "mobile_mode"
+msgstr "モバイルモード"
+
+msgctxt "preferences.variable"
+msgid "textbox_opacity"
+msgstr "テキストボックスの透明度"
+
+msgctxt "preferences.subgroup"
+msgid "Character pubes"
+msgstr "陰毛"
+
+msgctxt "preferences.group"
+msgid "Audio"
+msgstr "音声"
+
+msgctxt "preferences.variable"
+msgid "master_mute"
+msgstr "ミュート"
+
+msgctxt "preferences.variable"
+msgid "music_volume"
+msgstr "音楽"
+
+msgctxt "preferences.variable"
+msgid "music_mute"
+msgstr "音楽ミュート"
+
+msgctxt "preferences.variable"
+msgid "sound_volume"
+msgstr "サウンド"
+
+msgctxt "preferences.variable"
+msgid "sound_mute"
+msgstr "サウンドミュート"
+
+msgctxt "preferences.group"
+msgid "Language"
+msgstr "言語"
+
+msgctxt "preferences.variable"
+msgid "language"
+msgstr "言語"
+
+msgctxt "preferences.group"
+msgid "Gameplay"
+msgstr "ゲームプレイ"
+
+msgctxt "preferences.subgroup"
+msgid "Auto-save"
+msgstr "オートセーブ"
+
+msgctxt "preferences.variable"
+msgid "auto_on_choice"
+msgstr "選択時オートセーブ"
+
+msgctxt "preferences.subgroup"
+msgid "Hints"
+msgstr "ヒント"
+
+msgctxt "preferences.variable"
+msgid "path_hints"
+msgstr "ルートヒント"
+
+msgctxt "preferences.subgroup"
+msgid "Skip"
+msgstr "スキップ"
+
+msgctxt "preferences.variable"
+msgid "skip_unseen"
+msgstr "未読の会話をスキップ"
+
+msgctxt "preferences.variable"
+msgid "skip_on_location_change"
+msgstr "場所変更時にスキップ"
+
+msgctxt "preferences.variable"
+msgid "skip_frame_delay"
+msgstr "スキップ遅延"
+
+msgctxt "preferences.variable.anisotropic_filter"
+msgid "X 8:3"
+msgstr "x8"
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Entraînement avec {{macumba.n}}."
+msgstr "{{macumba.n}}とトレーニング。"
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Deuxième apparition d'{{asami.n}}."
+msgstr "{{asami.n}}2回目の登場。"
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Première apparition d'{{asami.n}}."
+msgstr "{{asami.n}}最初の登場。"
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Troisième apparition d'{{asami.n}}."
+msgstr "{{asami.n}}3回目の登場。"
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Empêcher {{yasuka.n}} de travailler comme hôtesse."
+msgstr "{{yasuka.n}}がホステスになるのを阻止する。"
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Vouloir travailler pour le restaurant."
+msgstr "うどん屋で仕事を探す。"
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Domir avec {{yasuka.n}} plusieurs fois."
+msgstr "{{yasuka.n}}と数回寝る。"
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Faire chanter {{noriko.n}}."
+msgstr "{{noriko.n}}を脅迫する。"
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Choisir de dominer {{noriko.n}}"
+msgstr "{{noriko.n}}を支配する。"
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Se faire dominer par {{noriko.n}}."
+msgstr "{{noriko.n}}に支配される。"
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Écouter à la porte de {{noriko.n}}."
+msgstr "{{noriko.n}}の部屋のドアから盗み聞きする。"
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Suivre l'histoire principale."
+msgstr "メインストーリーを進める。"
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Travailler au restaurant."
+msgstr "うどん屋で働く。"
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Se lier d'amitié avec {{asami.n}}."
+msgstr "{{asami.n}}と友だちになる。"
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Corrompre {{asami.n}}."
+msgstr "{{asami.n}}を堕落させる。"
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Poser les bonnes questions à {{asami.n}}."
+msgstr "{{asami.n}}に正しい質問をする。"
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Laisser travailler {{yasuka.n}} comme hôtesse."
+msgstr "{{yasuka.n}}がホステスになるのを認める。"
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Suivre l'histoire de {{sakuya.n}}."
+msgstr "{{sakuya.n}}のストーリーを進める。"
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Choisir de dominer {{noriko.n}}."
+msgstr "{{noriko.n}}を支配する。"
+
+#: game/scenes/gui/splashscreen.tscn
+msgid ""
+"Les données recueillies incluent :\n"
+"- numéro de version actuelle\n"
+"- préférences du joueur (mode \"patate\")\n"
+"- informations de plateforme (Windows, Android, etc.)\n"
+"- informations de build (animations, censure, mode web, etc.)"
+msgstr ""
+"収集データは以下の内容を含みます\n"
+"- 現在のバージョン番号\n"
+"- 環境設定 (低スペモード)\n"
+"- プラットフォーム情報 (Windows, Androidなど)\n"
+"- ビルド情報 (アニメーション、検閲、ウェブモードなど)"
+
+#: game/story/konbini_exterior.dialogue
+msgctxt "konbini_exterior_29cd7803"
+msgid "..."
+msgstr "……"
+
+#: game/scenes/gui/splashscreen.tscn
+msgid ""
+"Pendant votre aventure, vos choix impacteront votre entourage, si vous rejetez plusieurs fois un personnage attendez vous a ce qu’il aille voir ailleurs. Tout ceci dans le but de garder une "
+"certaine cohérence avec le monde réel."
+msgstr ""
+"冒険中、あなたの選択は周囲の人々に影響を与えます。あるキャラクターを何度も拒"
+"絶すれば、そのキャラクターが他の人と付き合い始めることもあります。これは現実"
+"との整合性を保つためです。"
+
+#: game/scenes/gui/game_menu/main.tscn
+msgid "RETOUR"
+msgstr "戻る"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_blackmail_reject_0_1"
+msgstr "あなたは{{noriko.n}}を避けるかわりに怒らせた。油断禁物！"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_blackmail_1_2"
+msgstr "あいつを捕まえた。今まで俺を苦しめてきたことへの復讐を遂げるときがついに来た"
+"。"
+
+#: game/story/park.dialogue
+msgctxt "asami_choice_830ec234"
+msgid "..."
+msgstr "……"
+
+#: game/scenes/gui/game_menu/galleries.tscn game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "game_menu.crumbs"
+msgid "GALERIES"
+msgstr "ギャラリー"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_1_1"
+msgstr "あいつは前にも増しておかしい！最悪だ！"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_reject_1_2"
+msgstr "{{noriko.n}}はついに報いを受けた。ようやく自由になれた！"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_7e4f83cc"
+msgid "Vous savez bien que vous pouvez tout me dire."
+msgstr ""
+
+#: game/scenes/gui/game_menu/navigation.tscn
+msgid "MENU PRINCIPAL"
+msgstr "メインメニュー"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_2"
+msgstr "あいつは前にも増しておかしい！最悪だ！"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_0_1"
+msgstr "絶対に仕事を見つける必要がある。{{yasuka.n}}を助けなきゃいけない。"
+
+#: game/scenes/gui/main_menu.tscn
+msgid "© THE END OF TIME STUDIOS - ALL RIGHTS RESERVED"
+msgstr "© THE END OF TIME STUDIOS - ALL RIGHTS RESERVED"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_2"
+msgstr "今回はちょっとやりすぎたかもしれない。{{noriko.n}}にチクられたら死ぬ。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_1"
+msgstr "リビングで{{yasuka.n}}と合流する。"
+
+#: game/scenes/gui/game_menu/save_button_template.tscn
+msgctxt "saves.button.played_time_short"
+msgid "{minutes}m"
+msgstr "{minutes}分"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_8"
+msgstr "もう一度[color=yellow]道場[/color]へ入門しに行く。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_8"
+msgstr "明日の夕方店に戻る。"
+
+#: game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "konbini_interior"
+msgstr "コンビニ内部"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_15_1_yc"
+msgstr "{{yasuka.n}}にもっと詳しく聞く。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_10"
+msgstr "助けてくれそうな[color=#55efc4]誰か[/color]を探す。"
+
+#: game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "restaurant_sakuya_room"
+msgstr "{{sakuya.n}}の部屋"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_23"
+msgstr "コンビニに入って情報を探す。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_17"
+msgstr "{{netoru.n}}が欲望を叶える前に{{yasuka.n}}を探す。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_27"
+msgstr "家に帰って{{yasuka.n}}と{{noriko.n}}の会話を聞く。"
+
+#: game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "home_kimochi_interior"
+msgstr "{{kimochi.n}}の家内部"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_23"
+msgstr "{{netoru.n}}に{{yasuka.n}}は戻ってこないと伝える。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_0"
+msgstr "寝室を出てリビングの{{yasuka.n}}に会う。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_35"
+msgstr "廃駅の近くで{{noriko.n}}を探す。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_29"
+msgstr "もっと稼ぐためにうどん屋に仕事に行こう。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_4_1"
+msgstr "[color=yellow]うどん屋[/color]で{{chef.n}}に話しかけて仕事を貰おう。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_45"
+msgstr "帰る前にコンビニに寄り道する。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_36"
+msgstr "うどん屋で2回目の労働を始める。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_8"
+msgstr "明日はいい日になるといいな……"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_53"
+msgstr "不良共にきっちりと借りを返す。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_40"
+msgstr "{{yasuka.n}}の寝室で彼女と会う。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_9"
+msgstr "明日はいい日になるといいな……"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_61"
+msgstr "{{noriko.n}}の部屋で彼女に会う。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_42"
+msgstr "そろそろベッドに入って自分の身に起こったあらゆることについて考える時間だ。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_13"
+msgstr "{{macumba.n}}に古いCDプレイヤーをあげる代わりに指導してもらおうかな。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_62"
+msgstr "{{noriko.n}}が取り返しのつかないことをしでかす前にラブホテルまで追いつく。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_49"
+msgstr "こっそり浴室で{{yasuka.n}}と合流する。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_17_noriko_blackmail_reject"
+msgstr "{{noriko.n}}の部屋からウォークマンを取り返せ！"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_56"
+msgstr "帰って{{yasuka.n}}に会ったほうがいい。もう何もできない。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_19_1_noriko_femdom_maledom"
+msgstr "CDプレイヤーを手に入れて{macumba.n}}に会いに行く。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_61"
+msgstr "今日は完全にどうかしてる日だった。もう寝る時間だ。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_24"
+msgstr "今日はきりきり舞いだった。寝るしかない。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_0"
+msgstr "いい子でいる、それが一番大切なことだ！"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_28"
+msgstr "もしかしたら{{macumba.n}}は強くなる手助けもしてくれるだろうか？"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_0_3"
+msgstr "絶対に仕事を見つける必要がある。{{yasuka.n}}を助けなきゃいけない。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_30"
+msgstr "すぐにダンベルを部屋に設置してトレーニングを始めよう。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_0_4"
+msgstr "働けばすぐに彼女の借金の返済を助けられるようになる。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_32"
+msgstr "あそこに戻る用意は出来ていると思う。全部上手く行きますように。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_6"
+msgstr "眠って明日の朝{{yasuka.n}}と話す。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_33"
+msgstr "クソッ、この仕事はもう無理だ。別のことを考えないと。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_13"
+msgstr "ぐっすり眠るといい効果がある。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_34"
+msgstr "クソッ、この仕事はもう無理だ。別のことを考えないと。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_18"
+msgstr "家に帰って{{akira.n}}に気をつけるように{{yasuka.n}}に警告する。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_39"
+msgstr "できるだけ早く{{chiaki.n}}を探さないといけない。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_26"
+msgstr "ラブホテルの隣の店を見つける。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_43"
+msgstr "もう寝ないと。明日はうどん屋での仕事が始まる。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_30"
+msgstr "新しいスーツを着てプライベートクラブに入場する。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_47"
+msgstr "[color=yellow]浴室[/color]でさっぱりしよう！"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_32"
+msgstr "夜になる前に{{kimochi.n}}に会いに行く。"
+
+#: game/scenes/gui/game_menu/main.tscn
+msgid "Non"
+msgstr "いいえ"
+
+#: game/story/introduction.dialogue
+msgctxt "intro_90fcefcc"
+msgid "Je ne sais plus à quel moment les choses sont devenues incontrôlables."
+msgstr "いつからこんな手に負えない状況になったのか分からない。"
+
+#: game/story/introduction.dialogue
+msgctxt "home_player_room_284a0088"
+msgid "[font_size=20]Mon chéri, tout va bien ? Tu as fait un cauchemar ?[/font_size]"
+msgstr "[font_size=20]あなた、大丈夫？悪夢を見ちゃったの？[/font_size]"
+
+#: game/story/introduction.dialogue
+msgctxt "home_player_room_e51fb514"
+msgid "Voyons voir... La fac, ça va être chaud pour moi. Je dois absolument apprendre à me défendre."
+msgstr "そうだな……大学はつらくなるだろうな。自己防衛できるようにならないと。"
+
+#: game/story/introduction.dialogue
+msgctxt "home_player_room_8b69be5f"
+msgid "Ensuite, il me faut des fonds ! Dans mon rêve, j'ai toujours galéré à finir les mois."
+msgstr "あとは、もっと金が必要だ。夢の中ではいつも金のやりくりに苦労していた。"
+
+#: game/story/introduction.dialogue
+msgctxt "home_player_room_a27ae41b"
+msgid "En parallèle, je peux aller courir au parc. Si je peux améliorer ce corps de lâche dès le début et devenir énorme et sec, ça m'évitera qu'il tombe en ruine dans quelques années !"
+msgstr "公園で運動も始めよう！このひ弱な身体から脱して強く引き締まった身体を手に入れ"
+"れば、将来的に健康でいられるはずだ。"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_8ed9d900"
+msgid "Elle a toujours été ultra-violente avec moi, j'ai essayé de savoir pourquoi elle m'en voulait tellement, mais..."
+msgstr "あいつはずっと俺に乱暴だった。理由を探ろうとしたこともあったが……"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_214c2f8d"
+msgid "Rhoo... Arrête. Ne me fais pas pleurer dès le matin !"
+msgstr "もうぅぅ……やめなさい。朝から泣かせないで！"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_c7581d29"
+msgid "Merci ! Je sais que ce n'est pas une décision facile..."
+msgstr "ありがとう！これが簡単に決められるようなことじゃないのは分かっているわ……"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_0a110496"
+msgid "Oui, mais... je veux dire que, si ça s'apprend, ça pourrait engendrer un véritable scandale à la fac..."
+msgstr "ああ、だけど……俺が言いたいのは、もしこれが知られたら、大学でスキャンダルにな"
+"るんじゃないかって……"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_3c1b6285"
+msgid "Écoute... Je pense que ça prendra un peu plus de temps, mais j'ai quelques pistes pour un travail prometteur..."
+msgstr "聞いて欲しい……もう少し時間はかかるかもしれないけど、有望な仕事に就ける足掛か"
+"りがいくつかあるんだ。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_37"
+msgstr "夜にホステスバーに行く。"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_f133bbfb"
+msgid "Non, mais ça ne va pas de hurler comme ça dès le matin ?!"
+msgstr "ちょっと、一体何なのよ？！朝からそんなに叫んで？！"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_e49418ab"
+msgid "Si je me souviens bien, elle va quitter la maison en volant le peu d'argent qu'il restera à {{yasuka.n}} pour s'enfuir avec une bande de racailles."
+msgstr "確か……夢の中だとあいつは{{yasuka."
+"n}}さんのなけなしの金を持ち去って、全部をクズどもに貢いでいた。"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_a137410f"
+msgid "Même si l'idée me répugne, c'est la meilleure opportunité que j'ai trouvée."
+msgstr "嫌な気分にはなるけど、見つけた中で一番いいチャンスなの……"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "t3c1d75debd"
+msgid "[hint=ROUTE AMOUR]Je ne pense pas que ce soit une bonne idée."
+msgstr "[hint=ラブルート]よくないと思うな。"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_07c71e87"
+msgid "Tu as passé toutes ces années à t'occuper de moi, laisse-moi te rendre la pareille..."
+msgstr "あなたはここ何年も俺の世話をするのに費やしてくれた。俺に恩返しさせてくれ。"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_b620894e"
+msgid "Je tiens simplement compagnie à des hommes d'affaires et je les incite juste à consommer tout en les écoutant parler..."
+msgstr "私はただ社員の人達と同席して、話してる間にもっとお酒を飲んでもらうように勧め"
+"るだけよ。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_41"
+msgstr "家に帰って寝る。今日はくたくただ。"
+
+#: game/story/introduction.dialogue
+msgctxt "intro_cb62efe6"
+msgid "Ma faible constitution[w], les séjours à l'hôpital à répétition[w], la maladie[w], la solitude..."
+msgstr "虚弱体質、[w] 入院の繰り返し、[w] 病気、[w] 孤独……"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_35288d53"
+msgid "Oula, doucement... M'agresse pas dès le matin comme ça je..."
+msgstr "おい、落ち着けって！朝っぱらからそんなに叫――"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_14d1dd88"
+msgid "Eh bien, vous en faites du bruit, que s'est-il passé ?"
+msgstr "昨日の夜すごい物音がしたけど、何かあったの？"
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "home_player_hallway_5e3d8ecb"
+msgid "Arrête-toi là !"
+msgstr "止まりなさい！"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_47"
+msgstr "ホステスクラブの{{macumba.n}}にUSBを持っていく。"
+
+#: game/story/introduction.dialogue
+msgctxt "intro_eda20439"
+msgid "N'importe qui... Dieu... Satan... Peu importe !"
+msgstr "神……悪魔……誰だっていい！"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_d164d18b"
+msgid "...En effet... Ton regard est différent ce matin..."
+msgstr "あら、今朝のあなたは違う人みたい……"
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "home_player_hallway_874c4d08"
+msgid "Ça ne te suffit plus d'accaparer toute l'attention ?"
+msgstr "注目を全部独り占めするだけじゃ気が済まないの？"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_53"
+msgstr "すぐにホステスバーの{{yasuka.n}}と合流する。"
+
+#: game/story/introduction.dialogue
+msgctxt "intro_27c94c37"
+msgid "Je me souviens d'absolument tout..."
+msgstr "だが、俺は何もかも覚えている。"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_d1fffea7"
+msgid "Ah ?"
+msgstr "えっ？"
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "home_player_hallway_339ae4d9"
+msgid "Donc maintenant, si j'ai bien compris, monsieur est l'homme de la maison et prend les décisions importantes pour nous ?"
+msgstr "それじゃあ確認させて。あんたは今やこの家の主人？私達がどう生きるかを決めるこ"
+"とができると思ってる？"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_59"
+msgstr "ラブホテルに駆け込んで{{yasuka.n}}を探せ！"
+
+#: game/story/introduction.dialogue
+msgctxt "intro_06f6289c"
+msgid "Si tout cela est vrai... Je dois tout faire pour changer mon destin !"
+msgstr "もしこれが全部本当なら、どんな手を使ってでも運命を変えてやる！"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_eb97d1ff"
+msgid "Tu me racontes ?"
+msgstr "何があったのか教えてくれる？"
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "home_player_hallway_a9dd75a0"
+msgid "Va faire ce que tu sais faire le mieux, te planquer !"
+msgstr "あんたが一番得意な、逃げ隠れることでもやってなさいよ！"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_65"
+msgstr "すぐに帰って{{yasuka.n}}が無事か確認する。"
+
+#: game/story/introduction.dialogue
+msgctxt "intro_233b5a64"
+msgid "Cette vie supplémentaire ne doit absolument pas être gâchée !"
+msgstr "二度目の人生を無駄にはできない！"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_f7646059"
+msgid "Euh... J'ai peur que tout ne soit qu'un rêve, alors pour l'instant, je préfère ne rien te dire..."
+msgstr "えっと……全部夢の話だから、話せるようなことはないかな……"
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "home_player_hallway_ec49d13b"
+msgid "Qu'est-ce que tu vas faire ? Vendre ton cul sur le toit de la fac ?"
+msgstr "何をするつもり？大学のトイレで掘ってもらう？"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_66"
+msgstr "部屋から忍び出る機会を待って眠る。"
+
+#: game/story/introduction.dialogue
+msgctxt "home_player_room_8d4b08b4"
+msgid "J'ai encore en tête la douleur de mon corps d'adulte."
+msgstr "まだ身体に感覚が残っている。"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_0fed46bb"
+msgid "Tu sais que si quelque chose te tracasse, tu peux toujours m'en parler !"
+msgstr "もし何か悩みがあるなら、いつでも俺に話していいよ！"
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "home_player_hallway_10371401"
+msgid "Tu comptes la laisser bosser toute seule pour rattraper les conneries de votre famille ?"
+msgstr "あんたの家族が仕出かした馬鹿なことの埋め合わせのために、ママを独りで働かせる"
+"つもり？"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_69"
+msgstr "ラブホテルの部屋で{{yasuka.n}}と合流する。"
+
+#: game/story/introduction.dialogue
+msgctxt "home_player_room_202ef4ac"
+msgid "Je suis de nouveau dans ma chambre...[w] Comme si je ne l'avais jamais quittée."
+msgstr "部屋の中に戻っている……[w] 俺がここを去ったのがなかったみたいだ。"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_49ef0d61"
+msgid "Oh, je te découvre un nouveau caractère, j'aime beaucoup ce nouveau {{saito.n}}, mais il s'agit de problèmes d'adultes et je ne veux pas te préoccuper avec ça !"
+msgstr "まあ、あなたの新しい一面を見つけたわ！そんな新しい{{saito."
+"n}}君もいいと思うけど、これは大人の問題なの。あなたを煩わせたくないわ。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "chef_2"
+msgstr "{{sakuya.n}}のおかげでまだ望みはある。トレーニングを続けないと。"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_0d896760"
+msgid "{{yasuka.n}}... Je promets de tout faire pour t'aider à tout rembourser !"
+msgstr "{{yasuka.n}}さん……返済を手伝うために俺はなんだってやるって約束する！"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "macumba_1_1"
+msgstr "体力を取り戻したければトレーニングを続けなければならない。"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_ca23b5c3"
+msgid "C'est gentil mon chéri, mais ton argent de poche, même économisé sur plusieurs années, ne suffirait pas..."
+msgstr "その心遣いは嬉しいけど、あなたがお小遣いを何年も貯金したってまだ足りないわ……"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "macumba_1_5"
+msgstr "体力を取り戻したければトレーニングを続けなければならない。"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_9342aa64"
+msgid "Avant de s'enfuir avec cette p... nouvelle femme, ton père avait des problèmes d'argent."
+msgstr "あのアバ――新しいお嫁さんと逃げる前、あなたのお父さんにはお金の問題を抱えてい"
+"たの。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "macumba_1_9"
+msgstr "体力を取り戻したければトレーニングを続けなければならない。"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_a13d5b48"
+msgid "Quand il est parti sans laisser la moindre trace, ces personnes sont remontées jusqu'à moi et m'ont bien fait comprendre qu'il était désormais de ma responsabilité de rembourser sa dette..."
+msgstr "あの人が跡形もなく去ったとき、彼らは私達を探し出して、これからは私が債務者に"
+"なるって明らかにしたの。"
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "home_player_hallway_7d6db047"
+msgid "De rien d'important, maman. Je disais juste à Oni-chan de passer une bonne journée !"
+msgstr "何でもないわ、ママ！ただここでお兄ちゃんにいってらっしゃいって！"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_chiaki_5228aa1b"
+msgid "Si tu le dis."
+msgstr "そういうならそうなんだろうな。"
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "restaurant_exterior_17076e69"
+msgid "Je ne me trompais pas, ici ça recrute !"
+msgstr "俺の記憶が正しければ、求人をしていたはずだ……"
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "restaurant_exterior_753b7a2e"
+msgid "Je crois que le chef prend sa pause, c'est peut-être le moment ou jamais."
+msgstr "親方は休憩中だと思う。彼に話しかけるのがいいかもしれない。"
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "talk_chef_3ea7f0e7"
+msgid "Mais..."
+msgstr "でも……"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_a61d087c"
+msgid "Oui couille molle ! En plus de ça, t'es sourd ?"
+msgstr "お前に話しかけてるんだよ、雑魚！耳も聞こえないのか？"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_6aec3ddd"
+msgid "Mon pauvre, mais tu fais tellement peine... Tu aurais dû t'y mettre y'a des années pour pouvoir faire quelque chose aujourd'hui."
+msgstr "哀れなガキだ、お前が本物の戦士になるには何十年もかかるだろうに。"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_065572e7"
+msgid "J'ai connu mieux... je crois[w] et toi comment s'est passé ta première journée d'hôtesse ?"
+msgstr "あんまりだったかな……[w]そっちは？ホステスの初日はどうだった？"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_bba90700"
+msgid "Je ne pensais juste pas que les hommes pouvaient avoir les mains aussi baladeuses."
+msgstr "男の人の手があんなに動き回るものだとは思わなかったわ。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_0_1"
+msgstr "{{akira.n}}の計画を崩してやった。不幸中の幸いだ。"
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "home_player_hallway_1e9fb289"
+msgid "Tu sais quoi ?"
+msgstr "分かってる？"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_chiaki_b539d88a"
+msgid "Je vais faire bref, car on m'attend ailleurs, mais c'est au sujet de la rentrée..."
+msgstr "行かなきゃいけない所があるから手短に言う。大学のことだ……"
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "restaurant_exterior_d40c32b9"
+msgid "C'est encore mieux !"
+msgstr "いいじゃないか！"
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "talk_chef_36ee4570"
+msgid "Je... J'ai vu votre annonce et... J'aimerais postuler pour l'offre !"
+msgstr "お……俺は広告を見て……仕事の応募がしたいです！"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_b3e9ba34"
+msgid "Toujours là avec ses insultes, ses humiliations et sa violence gratuite."
+msgstr "いつも奴に罵倒され、侮辱され、理不尽な暴力を振るわれてきた……"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_2709905a"
+msgid "Aucune chance d'accéder au dojo..."
+msgstr "道場の中に入ることさえできなかった。"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_e5ac9240"
+msgid "...Tu es encore jeune, tu ne connais encore pas très bien le monde du travail."
+msgstr "……あなたはまだ子供だから、労働社会がどう回っているのか知らないのよ。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_4"
+msgstr "もはや理解できない。あの子は全くもって謎だ。"
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "home_player_hallway_321c0475"
+msgid "Si veux vraiment aider, tire-toi et ne reviens jamais ici !"
+msgstr "もし本当に助けになりたいなら、出て行って二度と戻ってこないで。"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_chiaki_30159f39"
+msgid "Je fais mon possible pour mon meilleur pote. Après tout, t'es comme une seconde petite sœur pour moi."
+msgstr "一番の親友のためなら何だってするさ。そもそも、お前も俺にとって二人目の妹みた"
+"いなもんだからな。"
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "restaurant_exterior_94d9a438"
+msgid "[i]Nous cherchons un jeune homme dynamique, volontaire et en bonne condition physique.[/i]"
+msgstr "[i]【募集】精力的で、能力が高く健康的な若者！[/i]"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_d75febc6"
+msgid "Oh la vache, il répond... !"
+msgstr "おいおい、粗チンが喋ったぞ！"
+
+#: game/story/home_player_livingroom.dialogue
+#, fuzzy
+msgctxt "home_player_livingroom_fd8be120"
+msgid "...merci pour ton soutient mon chéri."
+msgstr "支えてくれてありがとうね。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_5"
+msgstr "もはや理解できない。あの子は全くもって謎だ。"
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "home_player_hallway_f677f3ea"
+msgid "Fais le malin... Mais crois-moi, tu n'as encore rien vu..."
+msgstr "はいはい、せいぜい思い上がってなさい。でも信じて。もしこれが地獄だと思ってる"
+"なら、あんたはまだ何も見てないから……"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_chiaki_f1bcb9e8"
+msgid "Mouais... Je n'ai pas l'impression que ça va faciliter ma rentrée."
+msgstr "まあ……これで大学は楽にならなかった。"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_92cfab26"
+msgid "Va te suicider et tu n'entendras plus parler de moi !"
+msgstr "とっとと自殺すれば構われないぞ！"
+
+#: game/story/home_player_livingroom.dialogue
+#, fuzzy
+msgctxt "home_player_livingroom_1c7dfcb7"
+msgid "Ooh... Tu trouves quand même le temps de t'inquiéter pour moi malgré la journée que tu as passé."
+msgstr "私のことを心配してくれるのね、そんな日を過ごしたのに……"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_9"
+msgstr "{{asami.n}}の家まで付き添う。"
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "home_player_hallway_6b3c93cb"
+msgid "Donc au lieu de me casser les couilles avec quelque chose dont je ne suis pas responsable."
+msgstr "だから俺の責任じゃないことで俺に酷い仕打ちをする代わりに……"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_chiaki_584aae08"
+msgid "Trop tard pour aller courir, autant aller voir si ça recrute au [color=yellow]restaurant[/color] du coin !"
+msgstr "ランニングに行くには遅すぎる。 地元の[color=yellow]うどん屋[/color]に行って、"
+"求人してるかどうか見てみる方がいいな！"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_ffd6a680"
+msgid "J'espère que ça sera pire encore demain !"
+msgstr "明日はもっと悪くなるといいわね！"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_14"
+msgstr "{{asami.n}}の家から出て計画を立てる。"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_chiaki_b71d2505"
+msgid "Tiens ! Salut toi !"
+msgstr "やあ！"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_22"
+msgstr "{{yasuka.n}}と話しに行く。"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_chiaki_3b1fbc71"
+msgid "C'est rare de te voir seule dehors..."
+msgstr "一人で外にいるところを見かけるのは珍しいね……"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_28"
+msgstr "{{asami.n}}に会って別れに行く。"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_chiaki_83a00a6e"
+msgid "Hey ! Pourquoi tu es aussi dur avec elle, vous avez le même âge tous les deux, lâche-lui la grappe !"
+msgstr "おい、どうしてそんなに厳しく当たるんだよ！お前らは同い年なんだから干渉するの"
+"はやめろよ！"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_34"
+msgstr "温泉で{{sakuya.n}}と合流する。"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_chiaki_dca24a36"
+msgid "Il faudra bien qu'elle fasse sa vie, rencontre un homme ou une femme, peu importe."
+msgstr "彼女はある日自分自身の人生を生きて、彼氏か彼女――どっちでもいいが、誰かと付き"
+"合い始めなきゃいけないんだ。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_40"
+msgstr "{{saito.n}}の家のベルを鳴らす。"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_chiaki_76ce43a3"
+msgid "C'est pas l'envie qui m'en manque, mais elle est extrêmement rancunière..."
+msgstr "やり返したくない訳じゃないけど、あいつは……マジで俺を憎んでるんだ。仕返しに何"
+"をされるか分かったもんじゃない……"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_42"
+msgstr "{{saito.n}}の家のベルを鳴らす。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_48"
+msgstr "{{saito.n}}の家のベルを鳴らす。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_54"
+msgstr "{{saito.n}}の家のベルを鳴らす。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_59"
+msgstr "{{saito.n}}の家のベルを鳴らす。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_65"
+msgstr "{{saito.n}}の家のベルを鳴らす。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sakuya_71"
+msgstr "家に帰る。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_love_4"
+msgstr "新しく友達が出来たと思う。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_love_6"
+msgstr "自分の部屋に{{asami.n}}を連れて行く。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_love_9"
+msgstr "自分の部屋に{{asami.n}}を連れて行く。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_love_13"
+msgstr "彼女は{{minato.n}}の新しい振る舞いについてもっと知っているかもしれない。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_love_20"
+msgstr "教わった住所で{{kimochi.n}}と会う。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_love_26"
+msgstr "{{macumba.n}}に助けを求める。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_love_31"
+msgstr "{{asami.n}}のサプライズを明日の夜まで待つ。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_love_38"
+msgstr "今夜自分の寝室で{{asami.n}}と会う。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_corruption_18"
+msgstr "{{minato.n}}の前で怪しい男を捕まえる。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_corruption_23_1"
+msgstr "{{minato.n}}の所に行く。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_corruption_27"
+msgstr "戻って[color=#55efc4]変態[/color]と会う必要がある。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_corruption_35"
+msgstr "{{asami.n}}は今夜自宅の前にいる。"
+
+#: game/scenes/characters/sprites/saito.tscn game/scenes/characters/sprites/asami.tscn game/scenes/characters/sprites/noriko.tscn game/scenes/characters/sprites/yasuka.tscn
+#: game/scenes/characters/sprites/chiaki.tscn game/scenes/characters/sprites/minato.tscn game/scenes/characters/sprites/macumba.tscn game/scenes/characters/sprites/natsume.tscn
+#: game/scenes/characters/sprites/sakuya.tscn game/scenes/characters/sprites/kimochi.tscn game/scenes/characters/sprites/chef.tscn game/scenes/characters/sprites/akira.tscn
+#: game/scenes/characters/sprites/kenji.tscn game/scenes/characters/sprites/takeo.tscn game/scenes/characters/sprites/nobu.tscn game/scenes/characters/sprites/netoru.tscn
+#: game/scenes/characters/sprites/sayuri.tscn game/scenes/characters/sprites/master.tscn
+msgctxt "character.sprite.group"
+msgid "face"
+msgstr "表情"
+
+#: game/scenes/characters/sprites/asami.tscn game/scenes/characters/sprites/noriko.tscn game/scenes/characters/sprites/yasuka.tscn game/scenes/characters/sprites/chiaki.tscn
+#: game/scenes/characters/sprites/sakuya.tscn game/scenes/characters/sprites/kimochi.tscn game/scenes/characters/sprites/sayuri.tscn
+msgctxt "character.sprite.group"
+msgid "mood"
+msgstr "気分"
+
+#: game/scenes/characters/sprites/asami.tscn game/scenes/characters/sprites/noriko.tscn game/scenes/characters/sprites/yasuka.tscn game/scenes/characters/sprites/chiaki.tscn
+#: game/scenes/characters/sprites/natsume.tscn game/scenes/characters/sprites/sakuya.tscn game/scenes/characters/sprites/kimochi.tscn game/scenes/characters/sprites/sayuri.tscn
+msgctxt "character.sprite.attribute"
+msgid "blush"
+msgstr "赤面"
+
+#: game/scenes/characters/sprites/yasuka.tscn
+msgctxt "character.sprite.attribute"
+msgid "barista"
+msgstr "バリスタ"
+
+#: game/scenes/characters/sprites/chiaki.tscn game/scenes/characters/sprites/kimochi.tscn game/scenes/characters/sprites/chef.tscn game/scenes/characters/sprites/netoru.tscn
+#: game/scenes/characters/sprites/sayuri.tscn
+msgctxt "character.sprite.group"
+msgid "accessories"
+msgstr "アクセサリー"
+
+msgctxt "preferences.subgroup"
+msgid "Performance"
+msgstr "パフォーマンス"
+
+msgctxt "preferences.variable.anisotropic_filter"
+msgid "Off:0"
+msgstr "オフ"
+
+msgctxt "preferences.variable"
+msgid "master_volume"
+msgstr "マスター音量"
+
+msgctxt "preferences.variable"
+msgid "auto_before_quit"
+msgstr "終了前にオートセーブ"
