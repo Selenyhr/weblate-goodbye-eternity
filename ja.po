@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-01-29 19:37+0000\n"
+"PO-Revision-Date: 2024-01-31 13:37+0000\n"
 "Last-Translator: Hexin <kazusa7512@gmail.com>\n"
 "Language-Team: Japanese <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/ja/>\n"
@@ -1854,7 +1854,7 @@ msgstr "あらあら、なんだって？悪い一日だったって？"
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_b9ae232a"
 msgid "Eh bien, tu peux pas savoir comme ça me fait plaisir !"
-msgstr "それが私にとってどんなに嬉しいことか想像つかないでしょうね！"
+msgstr "私がどれだけ嬉しいか想像つかないでしょう！"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_8958d958"
@@ -3023,7 +3023,7 @@ msgstr "今朝からずっとお前を探し回ってたんだからな。"
 #: game/story/home_player_exterior.dialogue
 msgctxt "talk_chiaki_c2c8c046"
 msgid "[font_size=17]Pardon...[w] Je suivais un petit chaton...[/font_size]"
-msgstr "[font_size=17]ごめんなさい……[w] 子猫ちゃんを見かけて……[/font_size]"
+msgstr "[font_size=17]ごめんなさい……[w] 子猫を見かけて……[/font_size]"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "talk_chiaki_0ad6e710"
@@ -6961,7 +6961,6 @@ msgid "Si... si... j'y allais justement..."
 msgstr "うん……ち、ちょうど寝るところだったの……"
 
 #: game/story/home_player_corridor.dialogue
-#, fuzzy
 msgctxt "home_player_corridor_3b51dcf3"
 msgid "Bonne nuit alors !"
 msgstr "それじゃあおやすみなさい！"
@@ -7014,12 +7013,12 @@ msgstr "ルーターは[color=yellow]リビング[/color]にある。"
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_62854c6d"
 msgid "Bonsoir, ma chérie, tu n'es pas encore couchée ?"
-msgstr "こんばんは、子猫ちゃん。まだ寝てなかったの？"
+msgstr "こんばんは、かわい子ちゃん。まだ寝てなかったの？"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_dd2f5fac"
 msgid "Allons-y mon chéri !"
-msgstr "おいで、子猫ちゃん！"
+msgstr "おいで、かわい子ちゃん！"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_a0df62e4"
@@ -7069,12 +7068,12 @@ msgstr "ない……"
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_1e8ceb0d"
 msgid "Pourtant, j'étais sûr qu'il était là !"
-msgstr "おい、絶対ここに置いてたよな。あるいは……！"
+msgstr "おいおい、絶対ここに置いてたよな。そうじゃなきゃ……！"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_b71e31d7"
 msgid "Je ne pense pas que {{noriko.n}} soit venue dans ma chambre..."
-msgstr "{{noriko.n}}が俺の部屋に気たとは思わない……"
+msgstr "{{noriko.n}}が俺の部屋に来たとは思えない……"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_8c443b7b"
@@ -7812,7 +7811,7 @@ msgstr "大丈夫だ、兄弟！君の燃え上がる願望が見えるぞ！私
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_8c6330db"
 msgid "Pas après la discussion qu'on a eue en tout cas..."
-msgstr "あの話をした後にする訳がない……"
+msgstr "あんな話をした後にするはずがないからな……"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "home_player_exterior_42145185"
@@ -7991,3 +7990,1044 @@ msgstr "何だか……すごく抽象的ね、でも言いたいことは分か
 msgctxt "t99f43d79eb"
 msgid "C'est pour te faire plaisir alors !"
 msgstr "まあ、そうしたいと言うのなら、断ることはできないよ。"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_noriko_room_closed_127b90d2"
+msgid "Évitons les effusions de sang inutiles..."
+msgstr "不要な流血は避けよう……"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "t84c006c3b8"
+msgid "Il est tard, je vais éviter de la réveiller."
+msgstr "もう遅い、起こさないようにしよう。"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_noriko_room_closed_cb8d0dec"
+msgid "Va... Va-t'en ! Laisse-moi tranquille !"
+msgstr "ど……どっか行って！放っといていよ！"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_noriko_room_closed_f0922e63"
+msgid "Casse-toi le parasite !"
+msgstr "失せなさい、この寄生虫！"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_0c3ec198"
+msgid "Une minute..."
+msgstr "ちょっと待てよ……"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_2075f795"
+msgid "Dans mon rêve, elle m'avait accusé de l'avoir violé et avait quitté la maison peu de temps après."
+msgstr "夢の中では、あいつは俺に犯されたと訴えてすぐに家から逃げ出した。"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_c9edb325"
+msgid "{{yasuka.n}} ne m'avait plus jamais adressée la parole, j'avais dû quitter la maison par la suite."
+msgstr "その後、{{yasuka."
+"n}}さんは二度と俺に話しかけなくなり、俺も去らなければならなかった。"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_a3deec1e"
+msgid "{{noriko.n}} cette fois-ci, je ne me ferais pas avoir !"
+msgstr "今度はそうはいかないぞ、{{noriko.n}}。再び我が家を奪わせるわけにはいかない。"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "t377300f535"
+msgid "Vous avez activé l'enregistreur audio de votre tablette."
+msgstr "タブレットの音声録音を起動した。"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_0bbf19c0"
+msgid "Je n'aurais jamais pensé que {{noriko.n}} ferait un truc aussi audacieux."
+msgstr "{{noriko.n}}が……あんなことをするなんて思わなかったな。"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_0f41cc13"
+msgid "...[w] J'aurais peut-être dû les touchers au final."
+msgstr "……[w] 触っておけばよかったかな……"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_af6010dc_1"
+msgid "Ah merde, j'ai pas vu le temps passer !"
+msgstr "しまった、もうこんな遅くなった！"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_9f8596cc"
+msgid "Je devrais prendre le baladeur MP3. Il est sur mon lit."
+msgstr "ウォークマンを持っていかないと。ベッドの上だ。"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_ce44d7ee"
+msgid "C'est quoi ces bruits..."
+msgstr "何の音だ？"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_9cd7ca42"
+msgid "On dirait des... gémissements !"
+msgstr "これは……喘いでるのか？！"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_70871f4d"
+msgid "Nooon, elle n'est tout de même pas en train de faire ce que je crois ?!"
+msgstr "違う……あいつが俺の考えているようなことはしてないよな？"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "tce29a7c279"
+msgid "Coller son oreille contre la porte"
+msgstr "盗み聞きする"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_9a20b792"
+msgid "Hummm..."
+msgstr "んんっ……"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_b6398ec1"
+msgid "Oohhh, voilà..."
+msgstr "ああっ、いい……"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_6cdb64c2"
+msgid "Oui oui oui..."
+msgstr "あ、あぁ、あっ……"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_457162a5"
+msgid "C'est... chaud !"
+msgstr "これは……ドスケベだ！"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_748684b1"
+msgid "Hummm... Oui..."
+msgstr "んんんっ……いい……"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_963bae77"
+msgid "Finalement, tout ce qui s'est passé l'a terriblement excitée..."
+msgstr "今日の出来事であいつはスイッチが入ったに違いない……"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "t0ce0489d37"
+msgid "Continuer d'écouter"
+msgstr "聞き続ける"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_79e8986b"
+msgid "Sacrée {{noriko.n}}..."
+msgstr "やばいな、{{noriko.n}}……"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_a50ef803"
+msgid "J'imagine qu'elle devait être sacrément frustrée."
+msgstr "きっと欲求不満だったんだな。"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_cd15d2f2"
+msgid "Je pense qu'elle a terminé..."
+msgstr "ああ、イッたみたいだ……"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_2fe96b66"
+msgid "Merde, c'est moi qui suis excité maintenant."
+msgstr "クソッ、今度は俺がムラムラしてきた。"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "t48efb92c68"
+msgid "S'en aller"
+msgstr "離れる"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "t2fdaa7cd0e"
+msgid "J'ai pas que ça à faire."
+msgstr "もっと大事な用事がある。"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_62b2743c"
+msgid "Mais quelle salope !"
+msgstr "あの女！"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_fa159124"
+msgid "J'avais oublié à quel point elle pouvait me casser les couilles..."
+msgstr "あいつがどれだけ俺をイライラさせるのが好きか忘れていた……"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_9ea520bc"
+msgid "Je vais devoir trouver une solution urgente pour la gérer..."
+msgstr "あいつに対処する方法をすぐ見つけないといけないな。"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_babc80ff"
+msgid "Sinon, c'est moi qui l'étranglerai !"
+msgstr "じゃなきゃあいつを絞め殺してしまいそうだ！"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_a7b80dff"
+msgid "Demain..."
+msgstr "明日……"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_3afd7d2c"
+msgid "Ça va chier !"
+msgstr "面倒になるぞ！"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_80cf7884"
+msgid "Avec un peu de chance, {{macumba.n}} sera encore là !"
+msgstr "運が良ければ、{{macumba.n}}がまだいるかも知れない！"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "t786a368cb1"
+msgid "Discuter"
+msgstr "話す"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t2181f750a1"
+msgid "Discuter"
+msgstr "話す"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t380b4d8164"
+msgid "Discuter"
+msgstr "話す"
+
+#: game/story/home_asami_asami_room.dialogue
+msgctxt "t68e1a8a4dc"
+msgid "Discuter"
+msgstr "話す"
+
+#: game/story/park.dialogue
+msgctxt "t0523b390fc"
+msgid "Discuter"
+msgstr "話す"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "t85a0d68f24"
+msgid "Baladeur MP3"
+msgstr "MP3プレイヤー"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "t6ce0e2618b"
+msgid "Baladeur MP3"
+msgstr "MP3プレイヤー"
+
+#: game/story/park.dialogue
+msgctxt "t44b4302388"
+msgid "Baladeur MP3"
+msgstr "MP3プレイヤー"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "t4170e3a7aa"
+msgid "Prendre un bain."
+msgstr "風呂に入る。"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "ta3f1ded669"
+msgid "Sexe"
+msgstr "SEX"
+
+#: game/story/restaurant_sakuya_room.dialogue
+msgctxt "t803acfc2d4"
+msgid "Sexe"
+msgstr "SEX"
+
+#: game/story/park.dialogue
+msgctxt "t85a3e0c5ea"
+msgid "Sexe"
+msgstr "SEX"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "talk_yasuka_b71128a8"
+msgid "Un souci mon chéri ?"
+msgstr "どうかしたの、かわい子ちゃん？"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "talk_yasuka_a05c0847"
+msgid "Rien de grave, je ne retrouve pas mon baladeur MP3, tu ne l'aurais pas vu à tout hasard ?"
+msgstr "大したことじゃないよ。ウォークマンが見つからないんだけど、ひょっとして見かけ"
+"たりしてない？"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "talk_yasuka_d84393ed"
+msgid "Hmmm, je crois que {{noriko.n}} le cherchait tout à l'heure, elle a dû te l'emprunter..."
+msgstr "うーん、{{noriko."
+"n}}が前に探してたと思うわ。きっとあの子があなたの部屋から借りたのよ……"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "talk_yasuka_325643a2"
+msgid "Merci {{yasuka.n}} !"
+msgstr "ありがとう、{{yasuka.n}}さん！"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "talk_yasuka_7dcf4564"
+msgid "Putain ! Je n'y crois pas !"
+msgstr "かまととぶりやがって！"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "talk_yasuka_e44d0152"
+msgid "C'est à croire qu'elle me cherche exprès."
+msgstr "まるでわざと俺を怒らせようとしてるみたいだ。"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "talk_yasuka_97144ae9"
+msgid "Je vais la tuer !"
+msgstr "あの女を躾けてやる。"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "talk_yasuka_eb7ee16b"
+msgid "Tu ne peux pas savoir à quel point ça me fait plaisir !"
+msgstr "どれだけ嬉しくなったか知らないでしょう！"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "talk_yasuka_4888a177"
+msgid "De te voir t'amuser avec {{noriko.n}}, cela faisait si longtemps..."
+msgstr "あなたが{{noriko.n}}と楽しんでるのを見かけたことよ。すごく久しぶりだわ……"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "talk_yasuka_6b83a044"
+msgid "Euhhh... S'amuser, on peut dire ça comme ça..."
+msgstr "うーん……楽しんでた？そうともいえるかな……"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "talk_yasuka_38085f00"
+msgid "Vous n'avez pas dû voir le temps passer ?"
+msgstr "時間が経つのに気が付かなかったの？"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "talk_yasuka_7a79532e"
+msgid "Ah mince... Ça va être encore râpé pour aujourd'hui."
+msgstr "ああ、しまった……今日の予定がまたパーになったみたいだ。"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "talk_yasuka_2599294e"
+msgid "De quoi donc, tu avais quelque chose de prévu ?"
+msgstr "どんな予定だったの？"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "talk_yasuka_88b3e6a7"
+msgid "Rien d'important, je voulais juste aller courir, mais je voulais le faire en musique..."
+msgstr "大したことじゃないよ。ただ走りに行きたかったんだけど、音楽を聞きながらしたか"
+"ったんだ。"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "talk_yasuka_4de70af0"
+msgid "Oh, je suis désolée, je t'avais emprunté ton baladeur pour ma séance de yoga..."
+msgstr "あら、ごめんなさい。あなたのウォークマンをヨガの会のために借りてたわ……"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "talk_yasuka_11c0ed48"
+msgid "Je l'ai reposé sur ton bureau tout à l'heure."
+msgstr "さっきベッドの上に返しておいたわ。"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "talk_yasuka_f719469e"
+msgid "Depuis quand tu fais du yo..."
+msgstr "いつからヨガなんて練……"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "talk_yasuka_a1d9cd5d"
+msgid "Peu importe, merci {{yasuka.n}}..."
+msgstr "なんでもない。ありがとう、{{yasuka.n}}さん……"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "talk_yasuka_3d385be9"
+msgid "Ne rentre pas trop tard."
+msgstr "帰りが遅くならないようにね。"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_7c415df9"
+msgid "Et merde ! Pris en flag, ça pouvait pas tomber plus mal..."
+msgstr "クソッ！よりによってこんなときに……"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_b355c7c6"
+msgid "Désolé... Vraiment !"
+msgstr "ごめん……マジで！"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_95378fb1"
+msgid "T'ES DÉSOLÉ ?! TU CROIS QUE CA VA SUFFIRE ?"
+msgstr "ごめん？それで済むと思ってるの？"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_8cb036f5"
+msgid "Non... Je..."
+msgstr "いや……俺……"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_2189f730"
+msgid "Comment je peux me faire pardonner ?"
+msgstr "どう弁償すればいい？"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_bdd910de"
+msgid "...[font_size=14]à genoux[/font_size]"
+msgstr "……[font_size=14]跪いて。[/font_size]"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_9302ef11"
+msgid "Quoi ? Mais..."
+msgstr "何だって？"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_cd1ef043"
+msgid "J'ai dit..."
+msgstr "だから……"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_34e61ed7"
+msgid "À GENOUX !"
+msgstr "跪きなさいって言ったのよ！"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_00296699"
+msgid "Outch !"
+msgstr "うぐぅ！"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_dae92ccc"
+msgid "Tu vas devoir comprendre, qu'ici..."
+msgstr "そろそろ理解してもいい頃だと思うわ、この家では……"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_5c7d1578"
+msgid "Tu n'es..."
+msgstr "あんたは……"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_25d2851c"
+msgid "rien de plus qu'un..."
+msgstr "ただの……"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_7ab81800"
+msgid "...misérable."
+msgstr "……惨めな"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_657a7a37"
+msgid "Putain de..."
+msgstr "クソみたいな"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_569d390a"
+msgid "CLÉBARD !"
+msgstr "犬よ！"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_3e20ec33"
+msgid "Arrête ça... !"
+msgstr "おい、もうやめてくれ……！"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_a2482878"
+msgid "Qu'est-ce que tu veux... ?"
+msgstr "何がしたいの……？"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_2af12181"
+msgid "Sort de ma chambre, sale chien !"
+msgstr "私の部屋から出て行きなさい、この犬！"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t50ecbe9562"
+msgid "Il est tard, mieux vaut que je la laisse dormir."
+msgstr "もう遅い、起こさない方がいいだろう。"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_ce8f4e97"
+msgid "Et si je refuse ?"
+msgstr "嫌だと言ったら？"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_b2f72d90"
+msgid "J'irai voir maman et lui dirais que tu m'as violé plusieurs fois dans mon enfance."
+msgstr "ママにここ数年あんたが何度も犯してきたって言うだけだわ。"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_4ef9bc25"
+msgid "Quoi ?! Mais j'ai jam... !"
+msgstr "何だって？！でも俺は一切……！"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_e17c6ce8"
+msgid "TU OBÉIRAS !"
+msgstr "従わない[i]限り[/i]ね。"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_b3183e43"
+msgid "Parfait ! Maintenant dégage de ma chambre !"
+msgstr "素晴らしいわ！さあ私の部屋から出て行きなさい、バカ犬！私は忙しいの。"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_e100ab91"
+msgid "Maman te l'a emprunté. Je ne touche pas à tes affaires, j'ai pas envie de choper le cancer !"
+msgstr "ママが借りてたわ。私はあんたの物に触ったりしない。ガンになりたくないもの！"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_29621d39"
+msgid "Merde... Mais qu'est-ce qui vient de se passer ?!"
+msgstr "一体今何が起こったんだ？"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_025cac24"
+msgid "Je me suis bien fait baiser la gueule, j'avais oublié ce chantage..."
+msgstr "そして今……"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_2b81833a"
+msgid "Je suis coincé à obéir à tous ses caprices !"
+msgstr "あいつのどんな思いつきにも従うほかなくなった。"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_17e596ff"
+msgid "FERME LÀ !"
+msgstr "おい、黙れよ！"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_27fe91d9"
+msgid "Si tu t'étais contentée de me répondre dès le départ, on n'en serait pas arrivé là !"
+msgstr "俺がノックしたときにお前がちゃんと応えてれば、今こんな状況じゃなかっただろ。"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_2b82e184"
+msgid "Il faut que je me sorte de là avant que ça ne dégénère..."
+msgstr "こいつが発狂する前にここから出ていかないと……"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_093f4a70"
+msgid "Il me faut une idée et vite..."
+msgstr "急いで策が必要だ……"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_4b35a18b"
+msgid "Je vais tenter quelque chose..."
+msgstr "やってみるか……"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_52971ce2"
+msgid "Tu abuses de ma patience depuis bien trop longtemps."
+msgstr "ずいぶんと我慢させてきてくれたよな。"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_6150a6d5"
+msgid "Je ne sais pas pourquoi tu ne me prends pas au sérieux, mais ça va changer..."
+msgstr "どうして俺の話を全く真剣に受け取らなかったのか分からないが……解決できると思っ"
+"てる……"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_102ef7ee"
+msgid "Va... te... faire foutre !"
+msgstr "あんた……なんか……くたばりなさい！"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_dae531e8"
+msgid "...[w] Tu as peut-être besoin que je joigne les actes à la parole ?"
+msgstr "……[w] 言葉だけじゃ足りないみたいだな……"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_850db9ee"
+msgid "Arrête... Je..."
+msgstr "やめて……私は……"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_a4f00544"
+msgid "Ah..."
+msgstr "あっ……"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_df83df6a"
+msgid "Je ne te savais pas aussi vicieuse !"
+msgstr "お前がこんなにいけない子だとは知らなかったな！"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_f2e8ce36"
+msgid "J'aurais peut-être dû t'accorder plus d'attention..."
+msgstr "もっと……面倒見てやるよ。"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_8a9a83e4"
+msgid "Bref..."
+msgstr "とにかく……"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_67bc1bbf"
+msgid "À partir de maintenant, tu vas arrêter de me prendre pour ton esclave."
+msgstr "今から、お前は俺の所有物だ。"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_6eff81b7"
+msgid "C'est à moi que tu obéiras !"
+msgstr "お前は俺に従う、分かったか？"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_f8001b90"
+msgid "Est-ce que je me suis bien fait comprendre cette fois-ci ?"
+msgstr "俺の言ってることが分かるか？"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_e2cb7a2e"
+msgid "Finalement... Je vais finir par croire que c'était ce que tu voulais depuis le début..."
+msgstr "いい子だな。ずっとこれを望んでいたように思えてならないな……"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_03f06f03"
+msgid "Où est le baladeur {{noriko.n}} !?"
+msgstr "俺のウォークマンはどこだ、{{noriko.n}}？"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_d19ce8a2"
+msgid "Tu vois ? Tu aurais dû commencer par ça dès le début."
+msgstr "ほら、最初からそう言っておけばよかったんだよ。"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_3b23c22d"
+msgid "Putain de bordel de merde !"
+msgstr "ヤバすぎる！"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_901d3cde"
+msgid "Je ne sais pas ce qui m'a pris, mais visiblement, je m'en suis sorti vivant..."
+msgstr "どうしてあんなことをしたのか分からないが、上手く行った……"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_a4dc08cc"
+msgid "J'espère que tout ça aura suffi... J'ai vraiment pris de trop gros risques cette fois-ci !"
+msgstr "正しいことをしたと願おう……今回は本当にリスクを負いすぎた！"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "home_player_noriko_room_b9b10a29"
+msgid "HEY ! T'AS RIEN À FAIRE DANS MA CHAMBRE !"
+msgstr "一体何のつもり？！"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "home_player_noriko_room_41613f0d"
+msgid "Arrête ça, tu sais très bien pourquoi je suis là !"
+msgstr "おい、黙れよ。どうして来たのか分かってるだろ。"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "home_player_noriko_room_bd8a548e"
+msgid "Je t'ai déjà prévenu plusieurs fois."
+msgstr "今朝忠告しただろ。今度俺の邪魔をすることがあったら……"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "home_player_noriko_room_453dbe3a"
+msgid "Et je t'ai déjà dit que si tu recommençais, j'allais m'occuper de toi."
+msgstr "お前にかたをつけてやるって。"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "home_player_noriko_room_8ee5c0d0"
+msgid "Tu crois que tu me fais peur ?"
+msgstr "なんにも怖くない。"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "home_player_noriko_room_7ffd9815"
+msgid "Nous y voilà..."
+msgstr "そりゃそうだよな……"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "home_player_noriko_room_8c087e43"
+msgid "J'ai bien la preuve que ce n'était pas qu'un simple rêve."
+msgstr "あれがただの夢じゃないって証明だな……"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "home_player_noriko_room_6c7476b4"
+msgid "Tout ce que j'ai vécu s'est réellement produit !"
+msgstr "現実だったんだ！"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "home_player_noriko_room_f0f3b580"
+msgid "Je dois sortir mon meilleur jeu d'acteur."
+msgstr "まあいい、とりあえず話を続けよう……"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "home_player_noriko_room_d6aa7458"
+msgid "Mais... T'es complètement folle ?!"
+msgstr "頭イカれてんのか？！"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "home_player_noriko_room_db77f6fb"
+msgid "Tu sais très bien que j'ai jamais fait un truc pareil !"
+msgstr "一度もそんなことしてないだろ！"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "home_player_noriko_room_61aada6b"
+msgid "Pfff... Peu importe si c'est pas la vérité !"
+msgstr "へぇ、何にも知らないのね？"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "home_player_noriko_room_94f22c85"
+msgid "Maman croira tout ce que je lui dirai !"
+msgstr "ママは私の言うことなら何だって信じるんだから！"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "home_player_noriko_room_22afa39e"
+msgid "Surtout si je lui dis qu'on a fait du mal à sa petite chérie..."
+msgstr "そしてもしあんたが自分のかけがえのない小さな娘を傷つけたなんて言ったら……"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "home_player_noriko_room_9d2bd8fd"
+msgid "J'en ai peur..."
+msgstr "ああ、その通りだな。"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "home_player_noriko_room_7f4df03b"
+msgid "Pourquoi t'es en train de sourire ?"
+msgstr "何笑ってるのよ？"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "home_player_noriko_room_ee4eaef2"
+msgid "Tu réalises ce qui va arriver pour toi ?"
+msgstr "私が言ったことちゃんと聞いてた？"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "home_player_noriko_room_d1124181"
+msgid "C'est ton cerveau qui a lâché gros débile ?"
+msgstr "あんたに残された最後の脳細胞がついにダメになった？"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "home_player_noriko_room_48a9f185"
+msgid "Tu vas commencer par me donner tout ton argent !"
+msgstr "まあ、どっちにしろまずは全財産を私に渡してもらおうかしら。"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "home_player_noriko_room_8774f8f6"
+msgid "Ensuite, tu seras mon chien !"
+msgstr "あんたは私の犬なの。分かった？"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "home_player_noriko_room_50dd8dd0"
+msgid "POURQUOI TU SOURIS COMME UN PUTAIN D'ATTARDÉ ?!!"
+msgstr "何ずっと馬鹿みたいに笑ってるのよ？！"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "home_player_noriko_room_6a052d56"
+msgid "Oh, pour rien..."
+msgstr "ああ、何でも……"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "home_player_noriko_room_5e15bd98"
+msgid "Juste que... Je me demande ce que pensera {{yasuka.n}} de cet enregistrement..."
+msgstr "ただ……{{yasuka.n}}さんはこの録音をどう思うんだろうって気になってさ……"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t3e261da450"
+msgid "Vous arrêtez l'enregistrement sous les yeux de {{noriko.n}}."
+msgstr "{{noriko.n}}の目の前で録音を止めた。"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "home_player_noriko_room_080e5f7e"
+msgid "...Mais... Mais... Tu as..."
+msgstr "待って、待って……？"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "home_player_noriko_room_e8a4876f"
+msgid "Non... Non non non non... NOOONNNNN !!!"
+msgstr "やだ……やだやだやだやだ……やだぁぁぁぁ！"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "home_player_noriko_room_d15fe766"
+msgid "[font_size=19]Nooonn...[/font_size]"
+msgstr "[font_size=19]やだ……[/font_size]"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "home_player_noriko_room_cfc5152c"
+msgid "[font_size=14]Nonn...[/font_size]"
+msgstr "[font_size=14]やだ……[/font_size]"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "home_player_noriko_room_4a14d581"
+msgid "Bien, pour commencer..."
+msgstr "じゃあ、まず始めに……"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t6dfeb25814"
+msgid "[hint=ROUTE REJET]Donne-moi le baladeur MP3."
+msgstr "[hint=拒絶ルート]MP3を返せ。"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t6a2e1e2138"
+msgid "Vous obtenez le baladeur MP3."
+msgstr "MP3プレイヤーを手に入れた。"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_4c58bfe8"
+msgid "Qu'est-ce que tu vas faire avec... l'enregistrement ?"
+msgstr "何をするつもりなの……その録音で？"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_26ea0a25"
+msgid "Tant que tu te tiens tranquille avec moi, je ne ferais rien."
+msgstr "お前が口を閉じている限り、何もするつもりはない。"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_0f230e58"
+msgid "Recommence ton cinéma et soit sûre que je l'utiliserais."
+msgstr "だけど、もしお前がいつもの素敵な自分に戻るつもりなら、この録音を有効活用する"
+"から安心してくれ。"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_7074cdd1"
+msgid "C'est compris ?"
+msgstr "分かったか？"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_ea3796f0"
+msgid "[font_size=19]Oui...[/font_size]"
+msgstr "[font_size=19]ええ……[/font_size]"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "tf77c3e2d7c"
+msgid "[hint=ROUTE CHANTAGE]Jusqu'à quel point tu ne veux pas que ça se sache {{noriko.n}} ?"
+msgstr "[hint=脅迫ルート]{{noriko.n}}はどのくらい秘密にして欲しいんだ？"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_6a640c96"
+msgid "Co... Comment ça ?"
+msgstr "ど……どういう意味？"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_46159041"
+msgid "Pas après toutes ces années à m'avoir pourri la vie."
+msgstr "今まで散々俺の人生を台無しにしたくせに？"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_dddbcc71"
+msgid "Pas après toutes les insultes[w], les humiliations[w], les crasses que tu m'as faites."
+msgstr "罵倒して、[w] 侮辱して、[w] コケにしてきてくれたよな？"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_59ad3fd8"
+msgid "J'ai juste à donner ceci à {{yasuka.n}} pour faire de ta vie un enfer."
+msgstr "俺がこれを{{yasuka.n}}さんに渡すだけでお前の人生は地獄になる。"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_9778a29a"
+msgid "...[w] Je vois..."
+msgstr "……[w] 分かったわ……"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_96092db1"
+msgid "Alors, je pense que j'ai quelque chose pour toi..."
+msgstr "どうすればいいのか分かってるわ……"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_07f849c3"
+msgid "Je suis certain qu'un puceau comme toi n'en a jamais vu en vrai."
+msgstr "あんたみたいな童貞、現実では一度もこんなの見たことないんでしょうね。"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_2ba3329d"
+msgid "Alors, satisfait ?"
+msgstr "満足した？"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_86fc5973"
+msgid "Je suis sûr que tu meurs d'envie de les toucher."
+msgstr "触りたくてしょうがないんでしょ。"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_686a2fd7"
+msgid "Aaah, ma chère {{noriko.n}}... Je ne m'attendais pas à ça, mais..."
+msgstr "ああ、親愛なる{{noriko.n}}様、ご提案ありがとうございます、だが……"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_7ab112f5"
+msgid "Je pense que ça ne suffira pas..."
+msgstr "それじゃあ足りないな。"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_e305091d"
+msgid "C'est clairement pas suffisant."
+msgstr "俺は本当に……失望した。"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_7da22726"
+msgid "...Je vais te t-"
+msgstr "……ふざけ――"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_305ba402"
+msgid "Attention {{noriko.n}} ! Ne fais pas quelque chose que tu pourrais regretter."
+msgstr "気をつけろよ、{{noriko.n}}！後悔するようなことを言うな。"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_ff54907f"
+msgid "...Quand ?"
+msgstr "……いつなの？"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_74450f95"
+msgid "Quand j'en aurai décidé !"
+msgstr "俺が好きなとき。"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_5ea74534"
+msgid "MAIS...!"
+msgstr "でも……"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_b867a4ca"
+msgid "Ce n'est plus toi qui décides à présent."
+msgstr "じゃあまたな。"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_7fef2aea"
+msgid "...fait chier !"
+msgstr "……最悪！"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_78450098"
+msgid "Chuuut, pas un mot, ni maintenant, ni jamais."
+msgstr "吠える許可なんてしてないわ、わんちゃん。"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_acd28135"
+msgid "Je savais qu'elle était odieuse, mais pas qu'elle avait un côté sadique."
+msgstr "あいつがとんでもない性悪女だとは知ってたけど、サディストでもあったのか？"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_e0cc54b7"
+msgid "Je ne sais plus quoi faire avec toi {{noriko.n}} !"
+msgstr "もうお前にどうしたらいいか分からないんだよ、 {{noriko.n}}！"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_cefb0a59"
+msgid "C'est maman qui t'a emprunté le baladeur, pas moi..."
+msgstr "ウォークマンを借りたのはママよ、私じゃないわ……"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_666b9ce6"
+msgid "Si tu aimes ce genre de chose, peut-être qu'on peut trouver une sorte d'arrangement ?"
+msgstr "そういうのが好きなら、それなりに合意できそうだな？"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_82150078"
+msgid "Si je rentre ici sans être préparé, elle va encore trouver le moyen de me faire chanter..."
+msgstr "もし準備して行かなければ、あいつはまた俺を脅す方法を思いつくだろう。"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "home_player_noriko_room_85be0407"
+msgid "Pose à peine un doigt sur moi et tu peux être sûr que j'irais voir maman et lui dirais que tu m'as violé par le passé !"
+msgstr "指一本でも触ってみなさい、ママは私の叫び声を隣町からでも聞きつけてくるわ。マ"
+"マはどっちを信じると思う？私、それともあんた？"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "home_player_noriko_room_547cf7f2"
+msgid "Et faire en sorte de révéler toute sa vraie personnalité."
+msgstr "そのうち本性を表すだろう。"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "home_player_noriko_room_a4668afa"
+msgid "Bien... Je pense que tu comprends ce qu'il va arriver..."
+msgstr "ふん……後は分かるでしょ……"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "home_player_noriko_room_68771bf7"
+msgid "Tu obéiras à tout ce que je te dem..."
+msgstr "お座りと言ったらお座りをする。お手と言ったらお手をする。私の望み全てがあんた"
+"の命令になるのよ。"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "home_player_noriko_room_391aad38"
+msgid "Tout enregistré oui, je t'avais prévenue {{noriko.n}} que je montrerais quelle salope tu peux être..."
+msgstr "ああ、全部録音してたんだよ。俺の邪魔をしたら何が起こるかって警告しただろ、{{n"
+"oriko.n}}。"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t8fc53e68f6"
+msgid "Vous obtenez le baladeur MP3."
+msgstr "MP3プレイヤーを手に入れた。"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_8c66181f"
+msgid "Tu m'emmerdes depuis tant d'années, tu crois qu'en voyant ta poitrine une fois ça va effacer ton ardoise ?"
+msgstr "たった1回乳を見せるだけで何年も俺をコケにしてきたことの埋め合わせになると思っ"
+"てるのか？"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_6c6c6c0d"
+msgid "Bordel ! Ce qui vient de se passer..."
+msgstr "おい！一体何が起きたんだ……"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_37774e33"
+msgid "Peut-être devrais-je profiter un petit temps de cette situation, je serais curieux de voir ou tout ça va me mener."
+msgstr "この状況を利用したほうがいいかもしれない。他には何を見せてくれるんだろうか……"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_noriko_room_closed_9cdc86e1"
+msgid "Non, si je rentre ici, {{noriko.n}} va encore claquer un scandale."
+msgstr "そこに戻るつもりはない。{{noriko.n}}がまた騒ぎを起こすだろう。"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_bebcd775"
+msgid "Dorénavant, tu m'obéiras au doigt et à l'œil..."
+msgstr "今からあんたは、私に服従するの。分かった？あらゆる言葉、あらゆる命令に。私が"
+"喋れば、あんたは聞くの。"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_0a80aabf"
+msgid "Ma relation avec ma chère {{noriko.n}} devrait évoluer d'une bien étrange façon..."
+msgstr "親愛なる{{noriko.n}}との関係は間違いなく妙な方向に向かってる……"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_1b354464"
+msgid "Toutes ces conneries ont fini par m'exciter..."
+msgstr "ムラムラしてきたな……"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "home_player_noriko_room_0b5ed9e7"
+msgid "{{yasuka.n}} ne croira jamais un mensonge pareil !"
+msgstr "{{yasuka.n}}さんだってお前を信じないだろ！"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_b81fcf6d"
+msgid "Et, bien voilà... Ce n'était pas si compliqué {{noriko.n}}."
+msgstr "ほら、そんなに難しいことじゃなかっただろ、{{noriko.n}}？"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_c13b3356"
+msgid "Rhabille-toi, et donne ce que je suis venu chercher. Tiens-toi prête pour ma prochaine visite."
+msgstr "服を着ろ、そして俺が受け取りに来たものを渡せ。次また来るから準備しておけよ。"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "talk_yasuka_5d1e865c"
+msgid "Tu voulais me dire quelque chose ?"
+msgstr "何か言いたいことがあるの？"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_3bf75143"
+msgid "Allons voir {{yasuka.n}} pour ce foutu baladeur CD !"
+msgstr "{{yasuka.n}}にウォークマンを返してもらいに行こう！"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_4d72610e"
+msgid "Les rôles se sont inversés {{noriko.n}}. Tu ne pensais quand même pas que tu allais t'en tirer aussi facilement ?"
+msgstr "立場が逆転したな、{{noriko.n}}。そんな簡単に見逃すと思ったか？"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "talk_yasuka_339d426f"
+msgid "Quoi donc ?"
+msgstr "何のこと？"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_b1c03ba5"
+msgid "Oui... Juste là..."
+msgstr "あっ……ここ……"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_21a93eab"
+msgid "Profites-en, car tu n'en verras jamais d'autres."
+msgstr "好きなだけ見なさいよ、どうせ他の人のは見たことないんでしょ。"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_c317db21"
+msgid "Han la vache..."
+msgstr "なんてことだ……"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_b214b8fe"
+msgid "Ça valait le coup de se revivre rien que pour ce moment !"
+msgstr "このためだけにも第2の人生を得た甲斐があるな！"
