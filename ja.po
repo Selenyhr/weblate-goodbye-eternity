@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-02-02 15:37+0000\n"
+"PO-Revision-Date: 2024-02-04 18:37+0000\n"
 "Last-Translator: Hexin <kazusa7512@gmail.com>\n"
 "Language-Team: Japanese <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/ja/>\n"
@@ -9765,3 +9765,759 @@ msgstr "いやダメだダメだダメだ。私はやるときはやるんだ！
 msgctxt "restaurant_exterior_0d8a2293"
 msgid "Espèce de salle vaurien, écarte-toi de ma fille !"
 msgstr "ガキンチョめ、わしの娘から離れろ！"
+
+#: game/scripts/variables/character_names.gd
+msgctxt "character_default_name"
+msgid "Saito"
+msgstr "斉藤"
+
+#: game/scripts/variables/character_names.gd
+msgctxt "character_default_name"
+msgid "Asami"
+msgstr "麻美"
+
+#: game/scripts/variables/character_names.gd
+msgctxt "character_default_name"
+msgid "Noriko"
+msgstr "紀子"
+
+#: game/scripts/variables/character_names.gd
+msgctxt "character_default_name"
+msgid "Chiaki"
+msgstr "千秋"
+
+#: game/scripts/variables/character_names.gd
+msgctxt "character_default_name"
+msgid "Sakuya"
+msgstr "咲夜"
+
+#: game/scripts/variables/character_names.gd
+msgctxt "character_default_name"
+msgid "Kimochi"
+msgstr "木持"
+
+#: game/scripts/variables/character_names.gd
+msgctxt "character_default_name"
+msgid "Chef"
+msgstr "親分"
+
+#: game/scripts/variables/character_names.gd
+msgctxt "character_default_name"
+msgid "Akira"
+msgstr "明"
+
+#: game/scripts/variables/character_names.gd
+msgctxt "character_default_name"
+msgid "Kenji"
+msgstr "ケンジ"
+
+#: game/scripts/variables/character_names.gd
+msgctxt "character_default_name"
+msgid "Takeo"
+msgstr "タケオ"
+
+#: game/scripts/variables/character_names.gd
+msgctxt "character_default_name"
+msgid "Nobu"
+msgstr "ノブ"
+
+#: game/scripts/variables/character_names.gd
+msgctxt "character_default_name"
+msgid "Netoru"
+msgstr "根戸留"
+
+#: game/scripts/variables/character_names.gd
+msgctxt "character_default_name"
+msgid "Sayuri"
+msgstr "小百合"
+
+#: game/scenes/gui/gui_start_asami.tscn
+msgid "ASAMI"
+msgstr "麻美"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_290f8954"
+msgid "Je peux savoir ce que tu cherches à faire ?"
+msgstr "何を企んでるのか聞かせてもらおうか？"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_1860160c"
+msgid "Tu n'avais pas le droit de faire ça."
+msgstr "あんなことしていい権利なんてなかった。"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_b33eb4ad"
+msgid "Je croyais t'avoir demandé de me laisser tranquille."
+msgstr "俺を放っといてくれって言ったと思ったんだが。"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_31c360db"
+msgid "Et tu es encore là, devant moi, à venir chercher les problèmes."
+msgstr "でもお前は未だに俺の目の前に立ちはだかって、問題を起こそうとしてる。"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_cca26670"
+msgid "Je vais finir par penser que c'est ce que tu souhaites vraiment {{noriko.n}}."
+msgstr "本当はアレをして欲しいんじゃないかと思っちまうけどな、{{noriko.n}}。"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_063c8601"
+msgid "Qu.. Quoi ? C'est n'importe quoi ! Qui voudrait se laisser toucher par..."
+msgstr "な……何よ？意味分かんない！誰があんたなんかに触られて……"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_a4836727"
+msgid "Mais je rêve ou quoi, elle me sous-entend de passer à l'action ?"
+msgstr "夢でも見てるのか？俺に行動を起こすようにほのめかしてるのか？"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_e6197d4f"
+msgid "{{noriko.n}}, je ne sais pas ce qui te passe par la tête en ce moment."
+msgstr "{{noriko.n}}、お前が何を頭に思い浮かべているのか分からない。"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_f30e5df6"
+msgid "Mais je suis curieux de voir ou tout ça va nous mener."
+msgstr "でもこの先どうなるのか気になる。"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_6a89a728"
+msgid "Allons dans ta chambre tout de suite !"
+msgstr "今すぐお前の部屋に行こう！"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_0d341298"
+msgid "...D'accord."
+msgstr "……分かったわ。"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_13790da0"
+msgid "Si tu veux que je m'occupe de toi, tu vas devoir être plus obéissante et surtout..."
+msgstr "もし俺に世話をしてほしいなら、もっと従順になれ。そして特に……"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_165eab73"
+msgid "T... t... t'es vraiment un..."
+msgstr "あ……あ……あんたって本当に……"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_1b5241ef"
+msgid "Un quoi ?"
+msgstr "本当に？"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_c65804e0"
+msgid "Ahh..."
+msgstr "あぁっ……"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_7f8444a5"
+msgid "Je... Non... C'est..."
+msgstr "私……いや……それ……"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_ef83d746"
+msgid "Aah..."
+msgstr "あぁ……"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_21ff3bd5"
+msgid "Mmmm..."
+msgstr "んんんっ……"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_084275ae"
+msgid "Je vais..."
+msgstr "もう……"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_3665f7f6"
+msgid "Han, c'est trop b-"
+msgstr "ん、すごく――"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_415201f3"
+msgid "Ça dépasse toutes mes attentes."
+msgstr "これは期待を超えてるな。"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_dd67902d"
+msgid "Elle semble littéralement prendre son pied."
+msgstr "随分楽しんでいるみたいだ。"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_7a4b2c81"
+msgid "Je devrais augmenter son niveau de désir."
+msgstr "もっと欲求を高めてやったほうがいいな。"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_15644477"
+msgid "Ça suffit."
+msgstr "ここまでだ。"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_cf1cd077"
+msgid "QUOI ? Non ! J'y suis pr-"
+msgstr "えっ？だめ！もう少しでイ――"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_90703d21"
+msgid "La prochaine fois, tu seras plus honnête avec moi."
+msgstr "次はもっと俺に正直になれよ。"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_d3dd621b"
+msgid "Oh, bon sang."
+msgstr "なんてこった。"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_09593c00"
+msgid "J'ai le cœur qui bat à 200 à l'heure."
+msgstr "心臓が時速100kmで鳴ってる。"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_dcaf134f"
+msgid "Il me tarde déjà d'être à la prochaine fois."
+msgstr "次回が待ち切れない。"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_8acab977"
+msgid "Je suis sûr que {{macumba.n}} doit avoir une solution."
+msgstr "{{macumba.n}}が解決策を持っているはずだ。"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_d70d07ed"
+msgid "J'espère que les décharges ne seront pas trop fortes."
+msgstr "衝撃が強すぎないといいけど。"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "halteres_c8558839"
+msgid "J'ai assez donné pour aujourd'hui, je pense."
+msgstr "今日はもう十分やったと思う。"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "halteres_e2547d9a"
+msgid "Et le boitier devrait être relié aux haltères."
+msgstr "ケースはダンベルに接続する。"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "halteres_6031261b"
+msgid "Selon {{macumba.n}}, le bandeau devrait se brancher ici..."
+msgstr "{{macumba.n}}によると、ヘッドバンドをここに差し込んで……"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "halteres_b8d673b7"
+msgid "Sans déconner, c'est quoi ce truc ?"
+msgstr "真面目に、これは何なんだ？"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "halteres_61c34b06"
+msgid "On verra demain."
+msgstr "明日にしよう。"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "halteres_495b1fdc"
+msgid "Ce gars est complètement accro à la musique, c'est grave."
+msgstr "あの男は完全に音楽に依存している。狂ってるな。"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "halteres_3c83d0f7"
+msgid "[i]Salut petit frère et bienvenue dans le dernier entraînement sur-mesure pour les fiottes comme toi.[/i]"
+msgstr "[i]やあ、兄弟。そして君のような意気地に特注の最新トレーニングへようこそ！[/i]"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "halteres_5a838110"
+msgid "Je ne sais pas si je dois être reconnaissant ou..."
+msgstr "感謝するべきだろうか、それとも……"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "halteres_23b78f7a"
+msgid "[i]J'ai tout préparé rien que pour toi, petit frère.[/i]"
+msgstr "[i]君のためだけに全てを用意したぞ、兄弟。[/i]"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "halteres_fd1c9a2e"
+msgid "[i]La seule façon de progresser, c'est de se dépasser constamment.[/i]"
+msgstr "[i]進歩する唯一の道は継続的に自分自身を超え続けることだ。[/i]"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "halteres_8b4685b7"
+msgid "[i]Mettre sa vie en jeu.[/i]"
+msgstr "[i]自分の命を危険に晒せ。[/i]"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "halteres_adb086e9"
+msgid "Allez... c'est inspiré de quel animé cette fois-ci ?"
+msgstr "おい、今回は何のアニメから？"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "halteres_55de9ed1"
+msgid "[i]La première chose à expérimenter, c'est la douleur.[/i]"
+msgstr "[i]まず君は痛みを経験する必要がある。[/i]"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "halteres_575353fe"
+msgid "Attends, la quoi ?!"
+msgstr "待て、何を経験するだって？！"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "halteres_7a015bc2"
+msgid "Aaaaahhh ! Putainnnn !"
+msgstr "ああああああ、クソォォォオオ！"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "halteres_5037100d"
+msgid "[i]De la plus faible intensité.[/i]"
+msgstr "[i]強度は最低だ。[/i]"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "halteres_6e05b588"
+msgid "[i]Si tu ne fais pas le mouvement comme il se doit...[/i]"
+msgstr "[i]もしやるべき方法で動作をしなかったら……[/i]"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "halteres_0b9293d5"
+msgid "[i]Si tu n'es pas assez rapide...[/i]"
+msgstr "[i]あるいは、十分な速さじゃなかったら……[/i]"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "halteres_c39161ed"
+msgid "Je commence à comprendre... Je dois enlever ce truc et vite."
+msgstr "分かってきた……こんなもの早く外さないと。"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "halteres_22f82d57"
+msgid "[i]Ou si tu retires l'équipement avant d'avoir terminé...[/i]"
+msgstr "[i]もしくは終わる前に装備を外そうとしたら……[/i]"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "halteres_c4d1b0c1"
+msgid "[i]Tu te prendras à nouveau la décharge.[/i]"
+msgstr "[i]もう一発ショックだ。[/i]"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "halteres_4f05de0c"
+msgid "Putain..."
+msgstr "クソ……"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "halteres_edce6269"
+msgid "...Pourquoi toujours vouloir me mettre des trucs dans le cul ?"
+msgstr "……彼はどうしていつも物を俺のケツに入れたがるんだ？"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "halteres_e63c5639"
+msgid "[i]Prêt ?[w] 3...[w] 2...[w] 1...[/i]"
+msgstr "[i]準備はいいか？[w] 3……[w] 2……[w] 1……[/i]"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "halteres_66c29d9d"
+msgid "[i]Go ![/i]"
+msgstr "[i]Go！[/i]"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "halteres_fe385e16"
+msgid "[i]On commence doucement par 50 séries.[/i]"
+msgstr "[i]50セットから始めよう！[/i]"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "halteres_e62355ab"
+msgid "[i]Si tu ressens de la douleur dans les bras et les pecs, c'est que tu as bien travaillé.[/i]"
+msgstr "[i]もし腕や胸が痛いなら、それは君がいいトレーニングをしたということだ。[/i]"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "halteres_64609877"
+msgid "[i]On recommence demain ![/i]"
+msgstr "[i]明日またやろう！[/i]"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "t36a9506a5f"
+msgid "Vous sentez avoir gagné en force."
+msgstr "あなたは力強くなった。"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "halteres_16a58356"
+msgid "...Je suis mort, je ne sens même plus mes bras."
+msgstr "……死んだ。もう腕の感覚すらなくなった。"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "halteres_fdbaa622"
+msgid "Je dois continuer malgré tout..."
+msgstr "でも続けないとな……"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "halteres_2701e0eb"
+msgid "Après une ou deux séances de plus, je pense que le chef changera d'avis..."
+msgstr "後1回か2回トレーニングをしたら、親分も考えを変えるだろう。"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "halteres_23a75d96"
+msgid "Allez ! Je ne dois pas oublier pourquoi je fais tout ça !"
+msgstr "やるぞ！何のためにこれをやっているのか忘れちゃいけない。"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "halteres_e172f37d"
+msgid "Pas d'excuses !"
+msgstr "言い訳無用！"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "halteres_a334932b"
+msgid "3..."
+msgstr "3……"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "halteres_31419c11"
+msgid "2..."
+msgstr "2……"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "halteres_aa00e716"
+msgid "1..."
+msgstr "1……"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "halteres_1c61cb77"
+msgid "GO !"
+msgstr "GO！"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "halteres_cea75a1e"
+msgid "Ugh, c'est toujours aussi douloureux."
+msgstr "うぅ、まだかなり痛いな……"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "halteres_8f962bac"
+msgid "Mais je crois que je commence à m'y faire."
+msgstr "でも慣れてきてる気がする。"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_cc0b7ce8_1"
+msgid "Bonjour {{yasuka.n}} !"
+msgstr "おはよう、{{yasuka.n}}さん！"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_afe1994d"
+msgid "Bonjour {{saito.n}}."
+msgstr "おはよう、{{saito.n}}君。"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_6c82d5b7"
+msgid "Tu sors encore aujourd'hui ?"
+msgstr "今日も出かけるの？"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_3327e9e6"
+msgid "...Tout se passe bien avec ton travail ?"
+msgstr "……仕事は順調？"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_612d32d0"
+msgid "Je ne sais pas trop."
+msgstr "何とも言えないわ。"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_08444288"
+msgid "C'est plus compliqué qu'il n'y parait."
+msgstr "思ったよりも複雑なの……"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_45a988a4"
+msgid "Mais... Je suis confiante."
+msgstr "でも……楽観してるわ。"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_191441a3"
+msgid "Sache que tu as tout mon soutien."
+msgstr "俺が全面的にサポートするから。"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_88828c90"
+msgid "Même si ça ne fait pas une grande différence..."
+msgstr "何の足しにもならないかもしれないけど……"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_9a818692"
+msgid "Passe une bonne journée."
+msgstr "いってらっしゃい。"
+
+#: game/story/park.dialogue
+msgctxt "talk_macumba_afbd2f0e"
+msgid "Alors petit frère, prêt à transpirer ?"
+msgstr "さあ、兄弟、汗をかく準備はできたか？"
+
+#: game/story/park.dialogue
+msgctxt "talk_macumba_39ce60ac"
+msgid "Je ne pourrais jamais changer si je reste coincé dans ma chambre."
+msgstr "ただ部屋にこもってたら何も変われない。"
+
+#: game/story/park.dialogue
+msgctxt "talk_macumba_ca69df81"
+msgid "Je suis prêt pour ma séance de torture !"
+msgstr "拷問を受ける準備はできてるよ！"
+
+#: game/story/park.dialogue
+msgctxt "talk_macumba_3127977f"
+msgid "Alors, Go !"
+msgstr "じゃあ行こう！"
+
+#: game/story/park.dialogue
+msgctxt "tb6192adb08"
+msgid "Vous sentez avoir gagné en endurance."
+msgstr "スタミナが増えたのを感じた。"
+
+#: game/story/park.dialogue
+msgctxt "t4eeeea09a2"
+msgid "Vous sentez avoir gagné en endurance."
+msgstr "スタミナが増えたのを感じた。"
+
+#: game/story/park.dialogue
+msgctxt "t967e7c367d"
+msgid "Vous sentez avoir gagné en endurance."
+msgstr "スタミナが増えたのを感じた。"
+
+#: game/story/park.dialogue
+msgctxt "t854c6e091f"
+msgid "Vous sentez avoir gagné en endurance."
+msgstr "スタミナが増えたのを感じた。"
+
+#: game/story/park.dialogue
+msgctxt "tfb8e78cc68"
+msgid "Vous sentez avoir gagné en endurance."
+msgstr "スタミナが増えたのを感じた。"
+
+#: game/story/park.dialogue
+msgctxt "talk_macumba_4623c6f5"
+msgid "N'oublie pas de bien rester hydraté et de t'étirer."
+msgstr "水を飲んでストレッチをするのを忘れないようにな。"
+
+#: game/story/park.dialogue
+msgctxt "talk_macumba_69432704"
+msgid "Demain, on augmentera encore la cadence."
+msgstr "明日はまたペースを上げよう。"
+
+#: game/story/park.dialogue
+msgctxt "talk_asami_85787504"
+msgid "Demain, on augmentera encore la cadence."
+msgstr "明日はまたペースを上げよう。"
+
+#: game/story/park.dialogue
+msgctxt "talk_macumba_b55286c6"
+msgid "On n'était pas déjà au maximum ?"
+msgstr "もう最高じゃなかったの？"
+
+#: game/story/park.dialogue
+msgctxt "talk_macumba_96837f64"
+msgid "Allez, à demain petit frère."
+msgstr "明日また会おう、兄弟。"
+
+#: game/story/park.dialogue
+msgctxt "talk_macumba_36c0e3f1"
+msgid "Salut petit frère, prêt à se donner à fond aujourd'hui ?"
+msgstr "やあ兄弟、今日も全力を尽くす準備はできたか？"
+
+#: game/story/park.dialogue
+msgctxt "talk_macumba_1a77efd9"
+msgid "Tu sais que si l'entrainement te parait trop facile, on peut toujours augmenter la difficulté ?"
+msgstr "もしトレーニングが楽すぎると思えるなら、いつでも強度をあげられると分かってい"
+"るかい？"
+
+#: game/story/park.dialogue
+msgctxt "talk_macumba_ff4dfdd2"
+msgid "Non ! L'entrainement actuel est amplement suffisant pour le moment !"
+msgstr "大丈夫！今のトレーニングでも十分すぎるよ！"
+
+#: game/story/park.dialogue
+msgctxt "talk_macumba_88b08467"
+msgid "Je ne voudrais vraiment pas griller les étapes."
+msgstr "一歩も踏み外したくないんだ。"
+
+#: game/story/park.dialogue
+msgctxt "talk_macumba_7e763d23"
+msgid "J'ai besoin d'un conseil pour autre chose."
+msgstr "別のことにアドバイスが必要なんだ。"
+
+#: game/story/park.dialogue
+msgctxt "talk_macumba_2b2701a0"
+msgid "Je t'écoute petit frère, tu peux tout me dire."
+msgstr "言ってみろ、兄弟。私は君に何でも教えられる。"
+
+#: game/story/park.dialogue
+msgctxt "talk_macumba_717dbc16"
+msgid "J'essaye d'obtenir un job au restaurant de Udon du centre-ville, mais le chef refuse catégoriquement, car..."
+msgstr "繁華街のうどん屋で働こうとしたんだけど、親方にすぐ断られたんだ。その理由が……"
+
+#: game/story/park.dialogue
+msgctxt "talk_macumba_64b1dde3"
+msgid "Tu as l'air d'un cadavre ?"
+msgstr "死体のような見た目をしているから？"
+
+#: game/story/park.dialogue
+msgctxt "talk_macumba_b0a51d37"
+msgid "De sortir d'une longue maladie ?"
+msgstr "長い間病気をしていたような？"
+
+#: game/story/park.dialogue
+msgctxt "talk_macumba_9f1a5d31"
+msgid "Merci, ça fait toujours plaisir à entendre."
+msgstr "ありがとう、とても光栄だよ。"
+
+#: game/story/park.dialogue
+msgctxt "talk_macumba_08425a66"
+msgid "J'ai besoin d'un entrainement physique avec des résultats rapides."
+msgstr "すぐに結果が出る筋トレが必要なんだ。"
+
+#: game/story/park.dialogue
+msgctxt "talk_macumba_3ae2f72a"
+msgid "Je dois lui montrer que j'ai la carrure pour le job."
+msgstr "彼に仕事に必要な能力があると示さなきゃいけないんだ。"
+
+#: game/story/park.dialogue
+msgctxt "talk_macumba_23aa3bc1"
+msgid "Je commence déjà à regretter."
+msgstr "後悔してきた。"
+
+#: game/story/park.dialogue
+msgctxt "talk_macumba_4395668c"
+msgid "Petit frère, si tu es venu me voir c'est pour des résultats rapides, fais-moi confiance."
+msgstr "兄弟、すぐに結果が欲しくて私のところに来たなら、信用していい。"
+
+#: game/story/park.dialogue
+msgctxt "talk_macumba_2620f47a"
+msgid "Prends ceci, ce sont des haltères légèrement modifiés."
+msgstr "これを持っていくんだ。少し改良したダンベルだ。"
+
+#: game/story/park.dialogue
+msgctxt "t4f33baf539"
+msgid "Vous obtenez les haltères modifiées de {{macumba.n}}."
+msgstr "{{macumba.n}}から改良されたダンベルを手に入れた。"
+
+#: game/story/park.dialogue
+msgctxt "talk_macumba_f5f1bd94"
+msgid "Je suis désolé de douter de toi, pour le moment, tu es la personne la plus fiable que j'ai jamais rencontrée."
+msgstr "疑ってごめん。今君は俺が会った中で一番信頼できる人だよ。"
+
+#: game/story/park.dialogue
+msgctxt "talk_macumba_bab620a1"
+msgid "Merci pour tout {{macumba.n}}."
+msgstr "色々とありがとう、 {{macumba.n}}。"
+
+#: game/story/park.dialogue
+msgctxt "talk_macumba_b4ad6e32"
+msgid "De rien, petit frère, tu ne pourras toujours compter sur moi."
+msgstr "どういたしまして、兄弟。いつでも私を頼っていい。"
+
+#: game/story/park.dialogue
+msgctxt "talk_macumba_af0127b0"
+msgid "On pourra dire ce qu'on veut, il a beau être flippant."
+msgstr "どう言われようと勝手だが、彼は恐ろしいかもしれない。"
+
+#: game/story/park.dialogue
+msgctxt "talk_macumba_083dfb30"
+msgid "Mais on peut compter sur lui !"
+msgstr "でも俺にとって頼りになる！"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_7c07a7cf"
+msgid "Pour qu'un mec frêle comme moi gagne en force rapidement."
+msgstr "俺のような弱い奴がすぐに力をつける方法を。"
+
+#: game/story/park.dialogue
+msgctxt "t955076f05b"
+msgid "[color=yellow]De la puissance[/color]"
+msgstr "[color=yellow]力が欲しい[/color]"
+
+#: game/story/park.dialogue
+msgctxt "talk_macumba_e8c5477d"
+msgid "...Je vois."
+msgstr "……分かった。"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_4f189644"
+msgid "D'être plus honnête avec toi-même..."
+msgstr "自分に正直になれ……"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_1c4581e3"
+msgid "Bon, je vais les poser là, ce sera parfait."
+msgstr "よし、これをここにおいて、これでいいな。"
+
+#: game/story/park.dialogue
+msgctxt "talk_macumba_6259404c"
+msgid "{{saito.n}} ne peut plus progresser davantage pour le moment."
+msgstr "今のところ{{saito.n}}はこれ以上進捗を進められない。"
+
+#: game/story/park.dialogue
+msgctxt "talk_macumba_ce55b5b7"
+msgid "C'était pas mal du tout petit frère, tu progresses vite."
+msgstr "かなりよかったぞ、兄弟。進歩が早いな。"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_7620126b"
+msgid "Je vois... Amuse-toi bien alors."
+msgstr "そう……じゃあ楽しんでね。"
+
+#: game/story/park.dialogue
+msgctxt "talk_macumba_3a4c64ec"
+msgid "J'ai peut-être quelque chose qui pourrait t'aider, j'ai vu ça dans un anime."
+msgstr "君の助けになりそうなものがあるかもしれない。アニメで見たんだ。"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_6442ef52"
+msgid "Mais si c'est la manière forte que tu préfères, ça ne me dérange pas..."
+msgstr "強引なのが好みなら構わないが……"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "halteres_a47363ab"
+msgid "Bon, quand faut y aller, faut y aller."
+msgstr "よし、やるときはやらなきゃな。"
+
+#: game/story/park.dialogue
+msgctxt "talk_macumba_ce30b131"
+msgid "Vous ne savez plus si vous êtes là pour préserver votre virginité anale ou pour augmenter votre endurance..."
+msgstr "ここに肛門の処女を失うためにいるのか忍耐力を鍛えるためにいるのか分からなくな"
+"った……"
+
+#: game/story/park.dialogue
+msgctxt "talk_macumba_c493fee6"
+msgid "Avec ça tu obtiendras des résultats en quelques jours à peine."
+msgstr "これがあればほんの数日で結果を得られる。"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_135789a9"
+msgid "Rien de tel qu'un peu de frustration..."
+msgstr "少しの欲求不満よりいいものはない……"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "halteres_2834fb1e"
+msgid "Y'a même des écouteurs !"
+msgstr "ヘッドホンまでついてる！"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "halteres_873272f6"
+msgid "Tout est prêt, il ne me reste plus qu'à appuyer sur ce bouton."
+msgstr "準備は万全だ、後はボタンを押すだけだ。"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "halteres_a53f6970"
+msgid "[i]Je savais que tu aurais besoin de ce type d'entrainement à un moment ou un autre.[/i]"
+msgstr "[i]このトレーニングがそのうち君に必要になるだろうと分かっていた。[/i]"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "halteres_2aba6c9c"
+msgid "[i]Petit frère, ce que tu viens de sentir c'est une décharge électrique.[/i]"
+msgstr "[i]兄弟、君が感じたばかりのものは電気ショックだ。[/i]"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "halteres_cf2b5177"
+msgid "[i]Et je viendrais personnellement te sodomiser avec les haltères.[/i]"
+msgstr "[i]そして私が個人的に君のケツをダンベルで犯す。[/i]"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "halteres_90f9dace"
+msgid "[i]Et voilà petit frère. L'entrainement est terminé pour aujourd'hui.[/i]"
+msgstr "[i]以上だ、兄弟。今日はトレーニングは終わりだ。[/i]"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "halteres_9c44c8a5"
+msgid "Je ne sais même plus pourquoi je me donne autant de mal."
+msgstr "どうしてこんな苦労をしなきゃいけないか自分でも分からない。"
