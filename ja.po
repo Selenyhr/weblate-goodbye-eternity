@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-02-08 17:57+0000\n"
+"PO-Revision-Date: 2024-02-17 07:37+0000\n"
 "Last-Translator: Hexin <kazusa7512@gmail.com>\n"
 "Language-Team: Japanese <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/ja/>\n"
@@ -10682,3 +10682,315 @@ msgctxt "restaurant_exterior_c0e03836"
 msgid "Ferme là ! Si tu m'avais écouté, tu aurais au moins pu avoir une carrière en dehors de ta vie merdique..."
 msgstr "黙れ！もし俺の言う事を聞いておけば、せめてお前のクソみたいな人生で成功できた"
 "のに……"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_bab9843b"
+msgid "Ça ne te regarde pas. Retourne dans ta chambre !"
+msgstr "誰でもいいだろ。部屋に帰ってろ！"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_6748bbf5"
+msgid "Les choses s'améliorent."
+msgstr "状況はよくなってきてる。"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_ddd07557"
+msgid "Mon chéri, j'espère que je ne te dérange pas, mais je crois qu'il y a quelqu'un pour toi devant la maison."
+msgstr "可愛い子ちゃん、邪魔してないといいんだけど、誰かが家の前で待ってるみたいなの"
+"。"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_e8b03ae9"
+msgid "À cette heure-ci ? C'est {{minato.n}} ?"
+msgstr "この時間に？{{minato.n}}のこと？"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_3ad7cebc"
+msgid "Non, c'est une belle jeune fille en kimono."
+msgstr "違うわ、着物を着た綺麗な子よ。"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_463b4fe1"
+msgid "Ah, les jeunes grandissent tellement vite de nos jours."
+msgstr "ああ、最近の子は成長が早いのね。"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_30ab7faa"
+msgid "Assure-toi de la raccompagner chez elle."
+msgstr "ちゃんと彼女を家まで送ってらっしゃい。"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_2682d351"
+msgid "Entendu."
+msgstr "分かった。"
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "talk_chef_40031217"
+msgid "Bon, tu commences sérieusement à me faire chier gamin !"
+msgstr "もういい、小僧、貴様にはうんざりしてきとる。"
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "talk_chef_31f7b49e"
+msgid "Arrête de me faire perdre mon temps !"
+msgstr "ワシの時間を無駄にするな！"
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "talk_chef_09b232f9"
+msgid "J'ai un putain de restaurant à diriger et il me faut des employés qui ne vont pas s'effondrer au moindre courant d'air !"
+msgstr "ワシには経営すべき店があり、必要なのは昼飯時のラッシュで倒れたりしないような"
+"従業員だ！"
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "talk_chef_863d75ab"
+msgid "Je... Ferait le nécessaire !"
+msgstr "チャンスをください！必要なことは何でもやります！"
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "talk_chef_9d28c10f"
+msgid "Si dans les jours qui viennent, vous ne trouvez personne, vous me laisserez une autre chance ?"
+msgstr "この数日で誰も見つからなかったら、俺にもう一度チャンスをくれませんか？"
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "talk_chef_a3f6f516"
+msgid "Bah voyons, gamin, tu places la barre un peu haut. Mais soit..."
+msgstr "もういい、小僧、自分でハードルを高くしすぎだ。でもともかく……"
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "talk_chef_1c7e9081"
+msgid "J'accepte, montre-moi ce que tu as dans le ventre..."
+msgstr "認めてやろう。貴様の胸の炎を見せてみろ！"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_sakuya_23b59445"
+msgid "Bonsoir {{saito.n}}."
+msgstr "こんばんは、{{saito.n}}さん。"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_sakuya_498a1709"
+msgid "Bonsoir..."
+msgstr "やあ……"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_sakuya_0f6a7e0d"
+msgid "Ce n'est pas ma... Peu importe."
+msgstr "あの人は俺の……とにかく。"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_sakuya_abd16e0c"
+msgid "Je suppose que tu n'es pas venu pour me parler d'elle."
+msgstr "彼女について話すために来たんじゃないと思うけど。"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_sakuya_1472eb3b"
+msgid "C'est vrai...[w] Je suis désolée, j'ai été dure avec toi."
+msgstr "そうですね……[w] ごめんなさい、失礼なことをしました。"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_sakuya_42ab7640"
+msgid "Tu essayais de m'aider et je t'ai rejeté."
+msgstr "私を助けようとしてくれたのに、拒絶してしました。"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_sakuya_15f30517"
+msgid "Excuse-moi."
+msgstr "ごめんなさい。"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_sakuya_1649482e"
+msgid "Ne t'en fais pas, je m'en remettrai."
+msgstr "大丈夫だよ。もう気にしてない。"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_sakuya_309d4039"
+msgid "C'est vrai, tu ne m'en veux pas ?"
+msgstr "本当？私に怒ってませんか？"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_sakuya_61c9d758"
+msgid "Pas le moins du monde."
+msgstr "全然。"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_sakuya_31c0d850"
+msgid "...[w] Tu es vraiment quelqu'un de gentil {{saito.n}}."
+msgstr "……[w] あなたは本当にいい人ですね、{{saito.n}}さん。"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_sakuya_e4ed8a00"
+msgid "C'est quoi ce blanc dans la conversation ?"
+msgstr "どうして会話に空白があるんだ？"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_sakuya_c54b06bb"
+msgid "Y'a comme un malaise."
+msgstr "何だか落ち着かないな。"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_sakuya_0e46956c"
+msgid "Tu sais... {{akira.n}} ne pensais pas à mal."
+msgstr "実は……{{akira.n}}さんは間違ってなかったんです。"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_sakuya_00daacd4"
+msgid "Je... j'ai du mal à comprendre."
+msgstr "よ……よく分からないんだけど。"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_sakuya_c5661f75"
+msgid "Les films pour adultes... J'aimerais en faire."
+msgstr "セクシービデオ……私がしたかったことなんです。"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_sakuya_6110798d"
+msgid "Je te dégoute, c'est ça ? Tu penses que je ne suis qu'une salope ?"
+msgstr "嫌になりましたか？私はただのふしだらな女だと思いますか？"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_sakuya_67c72473"
+msgid "Quoi ?! Bien sûr que non."
+msgstr "何だって？！もちろんそんなことないよ。"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_sakuya_49230adf"
+msgid "Je n'ai pas à juger tes choix de vie, c'est toi qui décides de ce que tu veux faire et personne d'autre."
+msgstr "俺は君の人生の選択を批判したりしないよ。自分のやりたいことを決めるべきなのは"
+"自分自身だ、他の誰でもない。"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_sakuya_52c212bc"
+msgid "Ce qui m'intrigue, c'est pourquoi avoir rejeté {{akira.n}} dans ce cas ?"
+msgstr "俺が困惑してるのは、それが本当ならどうして{{akira."
+"n}}を拒絶したかってことだよ。"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_sakuya_8bae8d88"
+msgid "J'avais décidé de refuser, mails, il revenait sans cesse, jour après jour."
+msgstr "私は断ると決めたんですが、彼はいつも、毎日のように戻ってきたんです。"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_sakuya_a5db4f75"
+msgid "J'allais craquer et finalement, tu es arrivé."
+msgstr "私は受け入れる間際でしたが、最後になってあなたが来てくれました。"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_sakuya_be73efbe"
+msgid "Je comprends mieux à présent."
+msgstr "よく分かったよ。"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_sakuya_4bfd41c7"
+msgid "Et ton père dans tout ça ?"
+msgstr "お父さんはこの話を知ってるの？"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_sakuya_970635fd"
+msgid "Mais ça ne m'intéresse pas du tout."
+msgstr "でも全く興味ないんです。"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_sakuya_c8e0ca3c"
+msgid "Par contre, si jamais il trouvait quelqu'un digne de sa confiance."
+msgstr "だけど、もし彼が信頼できる人を見つけることができたら……"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_sakuya_12accdff"
+msgid "Je lui ai reparlé de toi et il a accepté de t'embaucher temporairement."
+msgstr "あなたのことを父に話したら、一時的に雇うことに同意してくれました。"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_sakuya_72f46ab8"
+msgid "Quoi ?! C'est vrai ? Merci 1000 fois."
+msgstr "何？！本当に？すごくありがたいよ。"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_sakuya_5bdd3799"
+msgid "En échange..."
+msgstr "お返しに……"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_sakuya_3447329a"
+msgid "Aide-moi à entrer dans l'univers des films X."
+msgstr "私をセクシービデオの世界に入るのを手伝ってください。"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_sakuya_c9fca59c"
+msgid "Je veux pouvoir avoir confiance en mon agent."
+msgstr "信じられる人にブローカーになってほしいんです。"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_sakuya_e39fdb4c"
+msgid "Je... Je ne vois pas comment je pourrais refuser, mais... Je ne connais pas le métier d'agent."
+msgstr "こ……断る理由が見つからないけど……どうやってブローカーとして働くのか知らないよ"
+"。"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_sakuya_0a3cad56"
+msgid "Je sens que je peux te faire confiance."
+msgstr "信頼できる気がするんです。"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_sakuya_abb6e532"
+msgid "Donc, si j'ai bien compris, dans mon ancienne vie, c'est {{akira.n}} qui avait lancé sa carrière."
+msgstr "俺の理解が正しければ、前世で彼女にAV女優としての人生を歩ませ始めたのは{{akira"
+".n}}だった。"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_sakuya_9aba4847"
+msgid "Elle a eu son moment de gloire si je me souviens bien, mais elle est vite tombée dans l'oubli."
+msgstr "記憶が正しければ、つかの間の栄光の後彼女はすぐに忘れ去られた。"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_11a7e02a"
+msgid "...C'est qui ?"
+msgstr "誰よあれ？"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_sakuya_152c8fed"
+msgid "C'est moi qui lui avais demandé en fait..."
+msgstr "そもそも私が彼に話を持ちかけたんです……"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_sakuya_69005d2a"
+msgid "J'ai laissé {{akira.n}} m'approcher, car je savais qu'il connaissait du monde dans ce milieu."
+msgstr "{{akira.n}}さんがその分野で影響力があると知っていたので私に近づかせたんです。"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_sakuya_b0b2981f"
+msgid "...Il voulait m'aider à la seule condition que je devienne sa petite amie."
+msgstr "……彼は彼女にならない限り手を貸さないつもりでした。"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_sakuya_49bc39b0"
+msgid "Je ne veux pas tomber sur un agent corrompu qui profiterait de moi."
+msgstr "私を利用しようとする腐ったブローカーと一緒にいることにはなりたくないんです。"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_fe51d417"
+msgid "La vache, elle est vraiment devenue obéissante ma parole."
+msgstr "すごいな、彼女はマジで従順になった。"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_sakuya_0cc01ca4"
+msgid "Je veux bien utiliser mon corps, mais seulement avec la personne que j'ai choisie."
+msgstr "私の体を使うのは構いません、でも私が選んだ人にだけです。"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_sakuya_1ff0ccd8"
+msgid "Je ne connais pas le métier d'actrice non plus, mais je sais que tu es honnête avec moi."
+msgstr "私もどうすれば女優になれるか分かりません、でもあなたは私に誠実でいてくれると"
+"分かってます。"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_sakuya_29ac8a35"
+msgid "Ta mère semble vraiment très gentille."
+msgstr "すごく優しそうなお母さんですね。"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_sakuya_fb694d07"
+msgid "...[w] Je ne me vois pas lui en parler, il veut que je reprenne le restaurant familial."
+msgstr "……[w] 父に話すところは想像できません。彼は店を引き継いで欲しがってます。"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_sakuya_c8d55bad"
+msgid "Je pense que c'est plus grave que ça, tu m'as mis dans le même panier qu'{{akira.n}}."
+msgstr "それよりもっと深刻だけどな。俺を{{akira.n}}と同類扱いするなんて。"
