@@ -107,14 +107,19 @@
 #
 # FIRST AUTHOR < EMAIL @ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
+"PO-Revision-Date: 2024-02-19 16:37+0000\n"
+"Last-Translator: Ensar Demir <demireyupensar36@gmail.com>\n"
+"Language-Team: Turkish <https://translations.teot-studio.com/projects/"
+"goodbye-eternity/game-translation/tr/>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8-bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.17\n"
 
 #: game/story/introduction.dialogue
 msgctxt "intro_90fcefcc"
@@ -34752,7 +34757,7 @@ msgstr ""
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "t16597b9a4f"
 msgid "Un café."
-msgstr ""
+msgstr "Bir kahve."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_221be6bf"
@@ -55614,19 +55619,19 @@ msgstr ""
 
 #: core/scripts/clock.gd
 msgid "morning"
-msgstr ""
+msgstr "Sabah"
 
 #: core/scripts/clock.gd
 msgid "afternoon"
-msgstr ""
+msgstr "Öğleden sonra"
 
 #: core/scripts/clock.gd
 msgid "evening"
-msgstr ""
+msgstr "Akşam"
 
 #: core/scripts/clock.gd
 msgid "night"
-msgstr ""
+msgstr "Gece"
 
 #: core/scripts/clock.gd
 msgid "Monday"
@@ -55634,19 +55639,19 @@ msgstr ""
 
 #: core/scripts/clock.gd
 msgid "Tuesday"
-msgstr ""
+msgstr "Salı"
 
 #: core/scripts/clock.gd
 msgid "Wednesday"
-msgstr ""
+msgstr "Çarşamba"
 
 #: core/scripts/clock.gd
 msgid "Thursday"
-msgstr ""
+msgstr "Perşembe"
 
 #: core/scripts/clock.gd
 msgid "Friday"
-msgstr ""
+msgstr "Cuma"
 
 #: core/scripts/clock.gd
 msgid "Saturday"
@@ -55654,92 +55659,92 @@ msgstr ""
 
 #: core/scripts/clock.gd
 msgid "Sunday"
-msgstr ""
+msgstr "Pazar"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Saito"
-msgstr ""
+msgstr "Saito"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Asami"
-msgstr ""
+msgstr "Asami"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Noriko"
-msgstr ""
+msgstr "Noriko"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Yasuka"
-msgstr ""
+msgstr "Yasuka"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Chiaki"
-msgstr ""
+msgstr "Chiaki"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Minato"
-msgstr ""
+msgstr "Minato"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Macumba"
-msgstr ""
+msgstr "Macumba"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Natsume"
-msgstr ""
+msgstr "Natsume"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Sakuya"
-msgstr ""
+msgstr "Sakuya"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Kimochi"
-msgstr ""
+msgstr "Kimochi"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Chef"
-msgstr ""
+msgstr "Chef"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Akira"
-msgstr ""
+msgstr "Akira"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Kenji"
-msgstr ""
+msgstr "Kenji"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Takeo"
-msgstr ""
+msgstr "Takeo"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Nobu"
-msgstr ""
+msgstr "Nobu"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Netoru"
-msgstr ""
+msgstr "Netoru"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Sayuri"
-msgstr ""
+msgstr "Sayuri"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
@@ -55749,12 +55754,12 @@ msgstr ""
 #: game/scenes/locations/city.tscn
 msgctxt "location"
 msgid "home_player_exterior"
-msgstr ""
+msgstr "Dışarı"
 
 #: game/scenes/locations/city.tscn
 msgctxt "location"
 msgid "dojo_exterior"
-msgstr ""
+msgstr "Dojo"
 
 #: game/scenes/locations/city.tscn
 msgctxt "location"
@@ -55769,27 +55774,27 @@ msgstr ""
 #: game/scenes/locations/city.tscn
 msgctxt "location"
 msgid "konbini_exterior"
-msgstr ""
+msgstr "Konbini"
 
 #: game/scenes/locations/city.tscn
 msgctxt "location"
 msgid "home_minato_exterior"
-msgstr ""
+msgstr "{{minato.n}}nun evi"
 
 #: game/scenes/locations/city.tscn
 msgctxt "location"
 msgid "home_asami_exterior"
-msgstr ""
+msgstr "{{asami.n}}nin evi"
 
 #: game/scenes/locations/city.tscn
 msgctxt "location"
 msgid "home_kimochi_exterior"
-msgstr ""
+msgstr "{{kimochi.n}}nin evi"
 
 #: game/scenes/locations/city.tscn
 msgctxt "location"
 msgid "home_natsume_exterior"
-msgstr ""
+msgstr "{{natsume.n}}nin evi"
 
 #: game/scenes/locations/city.tscn
 msgctxt "location"
@@ -55819,12 +55824,12 @@ msgstr ""
 #: game/scenes/locations/city.tscn
 msgctxt "location"
 msgid "canal"
-msgstr ""
+msgstr "Kanal"
 
 #: game/scenes/locations/city.tscn
 msgctxt "location"
 msgid "bus_stop"
-msgstr ""
+msgstr "Otobüs durağı"
 
 #: game/scenes/locations/city.tscn
 msgctxt "location"
@@ -55839,7 +55844,7 @@ msgstr ""
 #: game/scenes/locations/city.tscn
 msgctxt "location"
 msgid "lake"
-msgstr ""
+msgstr "Göl"
 
 #: game/scenes/gui/gui_location.tscn
 msgid "Lundi"
@@ -55847,15 +55852,15 @@ msgstr ""
 
 #: game/scenes/gui/gui_location.tscn
 msgid "¥ "
-msgstr ""
+msgstr "¥ "
 
 #: game/scenes/gui/gui_location.tscn
 msgid "0123456789"
-msgstr ""
+msgstr "0123456789"
 
 #: game/scenes/gui/gui_start_asami.tscn
 msgid "ASAMI"
-msgstr ""
+msgstr "ASAMİ"
 
 #: game/scenes/gui/gui_start_asami.tscn
 msgid "Vous pouvez dès à présent poursuivre l’histoire d’{{asami.n}} et revenir à l’intrigue principale quand vous le souhaitez."
@@ -55871,11 +55876,11 @@ msgstr ""
 
 #: game/scenes/gui/gui_start_asami.tscn game/scenes/gui/gui_start_sakuya.tscn game/scenes/gui/gui_start_yasuka.tscn
 msgid "J'ai compris"
-msgstr ""
+msgstr "Anlıyorum"
 
 #: game/scenes/gui/gui_start_sakuya.tscn
 msgid "SAKUYA"
-msgstr ""
+msgstr "SAKUYA"
 
 #: game/scenes/gui/gui_start_sakuya.tscn
 msgid "Vous pouvez dès à présent poursuivre l’histoire de {{sakuya.n}}."
@@ -55887,7 +55892,7 @@ msgstr ""
 
 #: game/scenes/gui/gui_start_yasuka.tscn
 msgid "YASUKA"
-msgstr ""
+msgstr "YASUKA"
 
 #: game/scenes/gui/gui_start_yasuka.tscn
 msgid "Vous pouvez dès à présent poursuivre l’histoire de {{yasuka.n}} et revenir à l’intrigue principale quand vous le souhaitez."
@@ -55913,7 +55918,7 @@ msgstr ""
 
 #: game/scenes/gui/splashscreen.tscn
 msgid "Vos actions auront des conséquences..."
-msgstr ""
+msgstr "Seçimlerinin sonuçları olacak..."
 
 #: game/scenes/gui/splashscreen.tscn
 msgid "[fill]Certaines [url=data]données anonymes[/url] peuvent être récoltées pour améliorer l'expérience de jeu.[/fill]"
@@ -55934,7 +55939,7 @@ msgstr ""
 
 #: game/scenes/gui/splashscreen.tscn
 msgid "[url=disclaimer]Retour[/url]"
-msgstr ""
+msgstr "[url=disclaimer]Geri[/url]"
 
 #: game/scenes/gui/splashscreen.tscn
 msgid "Je gère !"
