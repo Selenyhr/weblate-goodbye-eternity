@@ -107,14 +107,19 @@
 #
 # FIRST AUTHOR < EMAIL @ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
+"PO-Revision-Date: 2024-02-25 14:37+0000\n"
+"Last-Translator: Jack Hellrer <p.santoscarv1@gmail.com>\n"
+"Language-Team: Portuguese <https://translations.teot-studio.com/projects/"
+"goodbye-eternity/game-translation/pt/>\n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8-bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 4.17\n"
 
 #: game/story/introduction.dialogue
 msgctxt "intro_90fcefcc"
@@ -55634,7 +55639,7 @@ msgstr ""
 
 #: core/scripts/clock.gd
 msgid "Tuesday"
-msgstr ""
+msgstr "Terça-Feira"
 
 #: core/scripts/clock.gd
 msgid "Wednesday"
