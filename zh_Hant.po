@@ -112,7 +112,7 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-07 19:57+0100\n"
-"PO-Revision-Date: 2024-01-05 20:22+0000\n"
+"PO-Revision-Date: 2024-04-05 04:49+0000\n"
 "Last-Translator: jinjay <arsoon999@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <https://translations.teot-studio.com/"
 "projects/goodbye-eternity/game-translation/zh_Hant/>\n"
@@ -4159,10 +4159,9 @@ msgid "Je dois continuer malgré tout..."
 msgstr "但我還是得必須堅持下去..."
 
 #: game/story/home_player_saito_room.dialogue
-#, fuzzy
 msgctxt "halteres_2701e0eb"
 msgid "Après une ou deux séances de plus, je pense que le chef changera d'avis..."
-msgstr "估計再來一兩次訓練，{{chef.n}}就會對我刮目相看的..."
+msgstr "估計再來一兩次訓練，主廚就會對我刮目相看的..."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "halteres_23a75d96"
@@ -12314,10 +12313,9 @@ msgid "VA TE FAIRE FOUTRE !"
 msgstr "操你媽！"
 
 #: game/story/home_player_hallway.dialogue
-#, fuzzy
 msgctxt "home_player_hallway_999598bf"
 msgid "VA TE FAIRE FOUTRE !"
-msgstr "去你媽的吧，{{saito.n}}!"
+msgstr "去死吧你!"
 
 #: game/story/canal.dialogue
 msgctxt "canal_2d9c740f"
@@ -13315,10 +13313,9 @@ msgid "C'est à moi que tu obéiras !"
 msgstr "你要服從我，聽懂了嗎？"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "pc_noriko_f8001b90"
 msgid "Est-ce que je me suis bien fait comprendre cette fois-ci ?"
-msgstr "{{noriko.n}}，我說的夠清楚了嗎？"
+msgstr "我說的夠清楚了嗎？"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "pc_noriko_e2cb7a2e"
@@ -28891,10 +28888,9 @@ msgid "Je t'écoute petit frère, tu peux tout me dire."
 msgstr "你說吧，小老弟，什麼訓練建議我都能給你。"
 
 #: game/story/park.dialogue
-#, fuzzy
 msgctxt "talk_macumba_717dbc16"
 msgid "J'essaye d'obtenir un job au restaurant de Udon du centre-ville, mais le chef refuse catégoriquement, car..."
-msgstr "我試著在市中心的烏龍麵館找份工作，但被{{chef.n}}直接拒絕了，因為..."
+msgstr "我試著在市中心的烏龍麵館找份工作，但被主廚直接拒絕了，因為..."
 
 #: game/story/park.dialogue
 msgctxt "talk_macumba_64b1dde3"
@@ -37982,10 +37978,9 @@ msgid "Salut gamin, ne perds pas plus de temps et mets-toi au boulot !"
 msgstr "嘿，小子，別再浪費時間了趕快去幹活！"
 
 #: game/story/restaurant_interior.dialogue
-#, fuzzy
 msgctxt "talk_chef_interior_92c3a503"
 msgid "Tout de suite, chef !"
-msgstr "我馬上就去，{{chef.n}}!"
+msgstr "主廚，我馬上就去!"
 
 #: game/story/restaurant_interior.dialogue
 msgctxt "talk_chef_interior_d2de46f4"
@@ -38548,10 +38543,9 @@ msgid "Ai-je bien été clair ?"
 msgstr "我說清楚了嗎？"
 
 #: game/story/restaurant_interior.dialogue
-#, fuzzy
 msgctxt "restaurant_interior_b088c4ad"
 msgid "Limpide chef !"
-msgstr "萬分清楚，{{chef.n}}!"
+msgstr "萬分清楚，主廚!"
 
 #: game/story/restaurant_interior.dialogue
 msgctxt "restaurant_interior_13fd4bf8"
@@ -38599,10 +38593,9 @@ msgid "Je ne sais pas ce qui est pire, avoir dû supporter l'autre con ou avoir 
 msgstr "我不知道忍受另一個混蛋還是對付一個瘋女孩哪個會更糟。"
 
 #: game/story/restaurant_interior.dialogue
-#, fuzzy
 msgctxt "restaurant_interior_9d7c3c80"
 msgid "Merci pour tout Chef !"
-msgstr "謝謝你所做的一切，{{chef.n}}!"
+msgstr "謝謝你所做的一切，主廚!"
 
 #: game/story/restaurant_interior.dialogue
 msgctxt "restaurant_interior_a0fa0c10"
@@ -52512,11 +52505,10 @@ msgid "[font_size=14]Fermez vos gueules ![/font_size]"
 msgstr "[font_size=14]閉上你的臭嘴！[/font_size]"
 
 #: game/story/warehouse_interior.dialogue
-#, fuzzy
 msgctxt "warehouse_interior_d60ae9dd"
 msgid "POURQUOI ?! POURQUOI TU FAIS TOUT ÇA ? POURQUOI TU TORTURES TA PROPRE SŒUR ?! POURQUOI TU AS PRÉTENDU ÊTRE LE MEILLEUR POTE DE {{saito.N}} POUR FINALEMENT LE TRAHIR ?"
-msgstr "為什麼?!為什麼你要做這些事情？為什麼你要折磨自己的親妹妹?!為什麼你自稱是{{sai"
-"to.n}}最好的朋友卻最終背叛了他?"
+msgstr "為什麼?!為什麼你要做這些事情？為什麼你要折磨自己的親妹妹?!為什麼你自稱是 "
+"{{saito.N}}最好的朋友卻最終背叛了他?"
 
 #: game/story/warehouse_interior.dialogue
 msgctxt "warehouse_interior_c4ca6047"
@@ -52674,10 +52666,9 @@ msgid "... Vas-y ! Si t'as une dernière chose à dire avant de quitter ce monde
 msgstr "...那你說吧！如果你在離開這個世界之前還有什麼話要說，趁現在就趕緊說了吧！"
 
 #: game/story/warehouse_interior.dialogue
-#, fuzzy
 msgctxt "warehouse_interior_a6d01426"
 msgid "... {{macumba.N}}, SAUVE-MOIIII !"
-msgstr "...[w] {{macumba.n}}，救救我!"
+msgstr "...[w] {{macumba.N}}，救救我!"
 
 #: game/story/warehouse_interior.dialogue
 msgctxt "warehouse_interior_afe815d6"
