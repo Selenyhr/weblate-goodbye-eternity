@@ -110,8 +110,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
-"PO-Revision-Date: 2024-04-09 16:54+0000\n"
-"Last-Translator: Exs1zzyyy <danilkazava0@gmail.com>\n"
+"PO-Revision-Date: 2024-04-10 13:14+0000\n"
+"Last-Translator: Aleksandr <aleksandr-tugai@mail.ru>\n"
 "Language-Team: Russian <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/ru/>\n"
 "Language: ru\n"
@@ -13180,22 +13180,26 @@ msgstr "Блятский придурок..."
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_954a7335"
 msgid "Je reproche à {{noriko.n}} ce que je faisais depuis le début."
-msgstr ""
+msgstr "Я виню {{noriko.n}} за то, что сейчас делаю и сам."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_0edb3cad"
 msgid "En pensant pouvoir gérer mes problèmes moi-même je me rends compte que je n'ai fait qu'inquiéter ceux qui tenaient à moi."
 msgstr ""
+"Думая, что справлюсь со своими проблемами самостоятельно, я осознал, что "
+"лишь заставляю волноваться тех, кто заботится обо мне."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_d9539ee1"
 msgid "J'étais vraiment à côté de la plaque."
-msgstr ""
+msgstr "Как же я был не прав."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_528e73bd"
 msgid "{{noriko.n}} peu importe ce qui s'est passé, tu pourras compter sur moi à partir de maintenant !"
 msgstr ""
+"{{noriko.n}}, что бы ни случилось, с этого момента ты можешь рассчитывать на "
+"меня!"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_70f3029f"
@@ -47241,52 +47245,55 @@ msgstr ""
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "home_kimochi_exterior_8d00d0e9"
 msgid "{{kimochi.n}} ?"
-msgstr ""
+msgstr "{{kimochi.n}}?"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "home_kimochi_exterior_2541e7b4"
 msgid "[font_size=14]{{saito.n}} ! Mais ne reste pas dehors, entre mon ami, entre ![/font_size]"
 msgstr ""
+"[font_size=14]{{saito.n}}! Друг мой, входи, не стой снаружи![/font_size]"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "home_kimochi_exterior_67b67686"
 msgid "C'est suspect ça..."
-msgstr ""
+msgstr "Это подозрительно..."
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "home_kimochi_exterior_0d685cb3"
 msgid "Merde... {{kimochi.n}} avait raison."
-msgstr ""
+msgstr "Дерьмо... {{kimochi.n}} был прав."
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "home_kimochi_exterior_05827ffa"
 msgid "C'est même pire que tout..."
-msgstr ""
+msgstr "Всё ещё хуже, чем я себе представлял..."
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "home_kimochi_exterior_4b698217"
 msgid "C'est {{minato.n}} qui les a pistonnés pour entrer au dojo."
-msgstr ""
+msgstr "Это {{minato.n}} подключил связи, чтобы они попали в додзё."
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "home_kimochi_exterior_8bc54340"
 msgid "Ce type est vraiment trempé dans toutes les affaires."
-msgstr ""
+msgstr "Этот парень замешан во всех здешних тёмных делах."
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "home_kimochi_exterior_d8fcee66"
 msgid "Bordel ! Je fais quoi moi maintenant ?!"
-msgstr ""
+msgstr "Проклятье! Что же мне теперь делать?!"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "home_kimochi_exterior_cb66aba0"
 msgid "Comment je suis censé me reprendre en main et savoir me défendre si toutes les ordures de la ville apprennent les arts martiaux ?"
 msgstr ""
+"Как я смогу стать сильнее и научиться защищаться, если все подонки в городе "
+"сами изучают боевые искусства?"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "home_kimochi_exterior_99ac2cd6"
 msgid "Quand la difficulté du jeu est trop élevée il n'y a qu'une seule solution."
-msgstr ""
+msgstr "Когда сложность игры слишком высока, есть только один выход."
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "home_kimochi_exterior_1d9ff189"
@@ -47296,7 +47303,7 @@ msgstr "А?! И какой?"
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "home_kimochi_exterior_1713f135"
 msgid "Tricher !"
-msgstr ""
+msgstr "Читерство!"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "home_kimochi_exterior_ac030055"
@@ -47312,6 +47319,7 @@ msgstr "Попроси нашего общего друга о помощи."
 msgctxt "home_kimochi_exterior_852ed986"
 msgid "Non, je ne veux pas faire appel à lui chaque fois que j'ai un problème."
 msgstr ""
+"Нет, я не хочу обращаться к нему каждый раз, когда у меня возникают проблемы."
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "home_kimochi_exterior_e942e909"
@@ -52548,17 +52556,17 @@ msgstr "...пожалуйста."
 #: game/story/home_natsume_exterior.dialogue
 msgctxt "home_natsume_exterior_bac3fdb6"
 msgid "Tout est en place ?"
-msgstr ""
+msgstr "Всё готово?"
 
 #: game/story/home_natsume_exterior.dialogue
 msgctxt "home_natsume_exterior_f9f4e275"
 msgid "Oui... mais tu ne penses pas que tu vas trop loin ?"
-msgstr ""
+msgstr "Да... Но не кажется ли тебе, что ты заходишь слишком далеко?"
 
 #: game/story/home_natsume_exterior.dialogue
 msgctxt "home_natsume_exterior_cc3049f1"
 msgid "Beaucoup d'innocents vont..."
-msgstr ""
+msgstr "Многие невинные люди будут-"
 
 #: game/story/home_natsume_exterior.dialogue
 msgctxt "home_natsume_exterior_392945bf"
@@ -52568,27 +52576,27 @@ msgstr ""
 #: game/story/home_natsume_exterior.dialogue
 msgctxt "home_natsume_exterior_3dfa2c4b"
 msgid "... ne dépasse pas les bornes."
-msgstr ""
+msgstr "Не переходи черту."
 
 #: game/story/home_natsume_exterior.dialogue
 msgctxt "home_natsume_exterior_0c201a7c"
 msgid "Ne me dis pas que tu t'inquiètes pour cette idiote ?"
-msgstr ""
+msgstr "Только не говори мне, что ты беспокоишься об этом идиоте?"
 
 #: game/story/home_natsume_exterior.dialogue
 msgctxt "home_natsume_exterior_a9347b5f"
 msgid "Bon sang c'est pas vrai..."
-msgstr ""
+msgstr "Чёрт возьми..."
 
 #: game/story/home_natsume_exterior.dialogue
 msgctxt "home_natsume_exterior_b292f054"
 msgid "Je t'avais prévenue de ne pas te lier d'amitié."
-msgstr ""
+msgstr "Я же предупреждал тебя, чтобы ты не заводила друзей."
 
 #: game/story/home_natsume_exterior.dialogue
 msgctxt "home_natsume_exterior_c025c1b9"
 msgid "... Je ne comprends pas le but derrière toutes ces actions."
-msgstr ""
+msgstr "...Я не понимаю, что стоит за всеми этими действиями."
 
 #: game/story/home_natsume_exterior.dialogue
 msgctxt "home_natsume_exterior_6ff67b70"
@@ -52608,17 +52616,19 @@ msgstr ""
 #: game/story/home_natsume_exterior.dialogue
 msgctxt "home_natsume_exterior_511679a5"
 msgid "C'était complètement surréaliste comme situation."
-msgstr ""
+msgstr "Это была совершенно невероятная ситуация."
 
 #: game/story/home_natsume_exterior.dialogue
 msgctxt "home_natsume_exterior_bd461333"
 msgid "C'est ça le problème avec les branleurs de ce genre, ils agissent toujours en groupe pour paraître plus fort."
 msgstr ""
+"В этом-то и проблема таких придурков. Они всегда ходят группами, чтобы "
+"казаться сильнее."
 
 #: game/story/home_natsume_exterior.dialogue
 msgctxt "home_natsume_exterior_2be0c684"
 msgid "Mais si tu les prends un par un, ça reste des grandes gueules."
-msgstr ""
+msgstr "Но поодиночке, они способны только болтать."
 
 #: game/story/home_natsume_exterior.dialogue
 msgctxt "home_natsume_exterior_665eea64"
@@ -52938,7 +52948,7 @@ msgstr ""
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_495aec04"
 msgid "Je me suis bien fait comprendre ?"
-msgstr ""
+msgstr "Я ясно выразился?"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_8ea38eb4"
@@ -53018,12 +53028,12 @@ msgstr ""
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_38e5b8d8"
 msgid "Je sais qu'on a merdé mais c'est pas de notre faute non plus."
-msgstr ""
+msgstr "Я знаю, что мы облажались, но это не совсем наша вина."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_2bd39b08"
 msgid "Tu sais ce que je pense des gens qui se trouvent des excuses ?"
-msgstr ""
+msgstr "Знаешь, что я думаю о тех, кто оправдывается?"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_24643aca"
@@ -53034,16 +53044,21 @@ msgstr "Нет... Я-"
 msgctxt "warehouse_exterior_506224b4"
 msgid "Vous aviez la responsabilité de me débarrasser de ce parasite et vous avez merdé c'est tout."
 msgstr ""
+"На вас лежала обязанность избавиться от того паразита, и вы с ней не "
+"справились. Вот и весь итог."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_21705c6f"
 msgid "Vous vous êtes fait surprendre, vous n'avez pas agi assez vite, vous avez eu des remords que sais-je ?"
 msgstr ""
+"Вас поймали, вы действовали недостаточно быстро, вы колебались... Кто знает?"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_8b25c843"
 msgid "Le résultat est là, vous avez merdé et je me retrouve avec plus d'ennuis sur les bras par votre incompétence."
 msgstr ""
+"Важен лишь итог. И он таков, что вы не справились, а из-за вашей "
+"некомпетентности я получил ещё больше проблем."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_21295b0e"
@@ -53053,17 +53068,17 @@ msgstr "...[w] Мы облажались, это правда..."
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_b40232e6"
 msgid "Pffff eh bien voilà, c'était pas si dur à admettre ?"
-msgstr ""
+msgstr "Пффф. Что ж, так бы сразу. Признать это было не так и сложно, верно?"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_dd764038"
 msgid "Qu'est-ce que je vais bien pouvoir branler de vous à présent ?"
-msgstr ""
+msgstr "Что мне теперь с вами делать?"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_13ba4309"
 msgid "[font_size=14]On aimerait devenir plus forts.[/font_size]"
-msgstr ""
+msgstr "[font_size=14]Мы хотим стать сильнее.[/font_size]"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_ce60f9c2"
@@ -53073,27 +53088,31 @@ msgstr ""
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_6aba7299"
 msgid "On veut devenir plus forts."
-msgstr ""
+msgstr "Мы хотим стать сильнее."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_1fd87d89"
 msgid "Le gros black continuera de nous tomber dessus et de nous ridiculiser si on ne fait rien."
 msgstr ""
+"Если мы ничего не предпримем, этот большой чёрный парень будет продолжать "
+"избивать и унижать нас."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_6daf9b7e"
 msgid "Rien ne peut l'arrêter, pas même {{akira.n}}."
-msgstr ""
+msgstr "Его никто не остановит. Даже {{akira.n}}."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_4e7d20b5"
 msgid "Et après lui, il y aura toujours quelqu'un de plus fort."
 msgstr ""
+"А если и получится с ним как-то разобраться, после него может появится кто-"
+"то сильнее."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_94cc93f1"
 msgid "On veut être pris au sérieux mais tant qu'il sera là..."
-msgstr ""
+msgstr "Мы хотим, чтобы нас воспринимали всерьёз, но пока он здесь..."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_01fc644f"
@@ -53103,82 +53122,84 @@ msgstr ""
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_d9d006b2"
 msgid "Merci Boss, on promet de tout donner pour vous."
-msgstr ""
+msgstr "Спасибо, босс! Мы обещаем выложиться по полной ради вас."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_aae97457"
 msgid "Ouais ouais j'ai compris, dégage vite !"
-msgstr ""
+msgstr "Да-да, знаю. Катись!"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_3523c6a4"
 msgid "Ça ne te ressemble pas."
-msgstr ""
+msgstr "Это на тебя не похоже."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_c194a550"
 msgid "Je n'avais pas anticipé ça..."
-msgstr ""
+msgstr "Я такого не предполагал..."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_ee6ffb7c"
 msgid "Comment veux-tu anticiper un truc pareil, ce type est une montagne de muscles et..."
-msgstr ""
+msgstr "Как можно было такое предполагать? Этот парень просто гора мышц и..."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_ec7cc8a6"
 msgid "Je ne parle pas de l'autre monstre."
-msgstr ""
+msgstr "Я говорю не об этом монстре."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_db54a795"
 msgid "Alors de qui ?"
-msgstr ""
+msgstr "Тогда о чём?"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_bb5780c2"
 msgid "C'est la première fois que les thugs se remettent en question et souhaitent progresser."
 msgstr ""
+"Это первый раз, когда эти отбросы подвергли себя сомнению и захотели расти."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_31fef4c5"
 msgid "... C'est si exceptionnel que ça ?"
-msgstr ""
+msgstr "...Неужели это настолько исключительное событие?"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_a056af1d"
 msgid "Tu n'as pas idée."
-msgstr ""
+msgstr "Ты даже не представляешь."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_4f47b4c4"
 msgid "On va commencer par se débarrasser du géant."
-msgstr ""
+msgstr "Для начала мы избавимся от гиганта."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_f0f18cda"
 msgid "Ça nous laissera plus de marge de manœuvre."
-msgstr ""
+msgstr "Это обеспечит нам пространство для манёвра."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_feb01e81"
 msgid "Tu ne veux pas l'avertir ou le menacer d'abord ?"
-msgstr ""
+msgstr "Разве ты не собираешься сначала предупредить его или пригрозить ему?"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_007cecac"
 msgid "Non, on n'a plus le temps pour ça. L'échéance est pour bientôt, je refuse de perdre davantage de temps."
-msgstr ""
+msgstr "Нет, на это у нас нет времени. Скоро крайний срок, и я не хочу медлить."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_a3dc7202"
 msgid "Contente-toi d'obeir, je perds mon temps à chaque fois si je dois t'expliquer pourquoi."
 msgstr ""
+"Просто делай как говорят. Я не собираюсь больше тратить время на объяснения."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_bafec45c"
 msgid "... Enfoiré !"
-msgstr ""
+msgstr "...Ублюдок!"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_a74033b0"
@@ -53453,7 +53474,7 @@ msgstr ""
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_df0a156f"
 msgid "C'est pas faux..."
-msgstr ""
+msgstr "Это верно..."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_cac219f9"
