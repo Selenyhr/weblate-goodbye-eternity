@@ -111,7 +111,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "PO-Revision-Date: 2024-04-15 17:37+0000\n"
-"Last-Translator: Иванов Станислав Сергеевич <Ivanovst4nist4v@yandex.ru>\n"
+"Last-Translator: Aleksandr <aleksandr-tugai@mail.ru>\n"
 "Language-Team: Russian <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/ru/>\n"
 "Language: ru\n"
@@ -14405,32 +14405,36 @@ msgstr ""
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_c4f42923"
 msgid "Je peux savoir ce que tu fais ici ?!"
-msgstr ""
+msgstr "Не расскажешь мне, что ты здесь делаешь?!"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_f047cfc4"
 msgid "Il ne me semble pas t'avoir dit que tu pouvais entrer dans ma chambre sans autorisation."
 msgstr ""
+"Не припомню, чтобы говорила, что ты можешь входить в мою комнату без "
+"разрешения."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_96396a65"
 msgid "Je sais... mais si j'avais demandé tu m'aurais de toute façon dit non."
-msgstr ""
+msgstr "Знаю... Но если бы я спросил разрешения, ты бы всё равно отказала."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_27153faa"
 msgid "Tu semble t'entendre plutôt bien avec {{asami.n}}."
-msgstr ""
+msgstr "Похоже, ты хорошо ладишь с {{asami.n}}."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_77f5ff17"
 msgid "... et donc ? Tu as peur que je lui révèle des choses compromettantes ?"
-msgstr ""
+msgstr "...И что? Боишься, что я раскрою ей что-то компрометирующее?"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_da0691c3"
 msgid "Non je ne suis pas inquiet... Mais c'est une personne qui tient beaucoup à moi et visiblement t'apprécie beaucoup."
 msgstr ""
+"Нет, я не волнуюсь... Просто, судя по всему, она заботится обо мне и, "
+"видимо, ты ей очень нравишься."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_6fe840fd"
@@ -14440,22 +14444,24 @@ msgstr ""
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_a3d5914f"
 msgid "Ce n'est de toute façon pas à toi d'en décider, heureusement d'ailleurs."
-msgstr ""
+msgstr "К счастью, это не тебе решать."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_6f498616"
 msgid "{{noriko.n}}, j'aimerais enterrer définitivement la hache de guerre avec toi."
-msgstr ""
+msgstr "{{noriko.n}}, я бы хотел прекратить нашу вражду раз и навсегда."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_25e3c5d8"
 msgid "On passe la plupart de notre temps à se crier dessus, à s'éviter, à se faire des crasses."
 msgstr ""
+"Мы проводим большую часть времени, крича друг на друга, избегая друг друга "
+"или издеваясь друг над другом."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_fac73f92"
 msgid "Peut-on faire la paix une bonne fois pour toutes ?"
-msgstr ""
+msgstr "Можем ли мы помириться раз и навсегда?"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_854ba06d"
@@ -14480,27 +14486,28 @@ msgstr "Нет!"
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_0210f28c"
 msgid "Je refuse !"
-msgstr ""
+msgstr "Я отказываюсь!"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_be653c95"
 msgid "Les choses ont été bien trop loin pour passer à autre chose."
-msgstr ""
+msgstr "Всё зашло слишком далеко, чтобы просто жить дальше."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_95699640"
 msgid "Écoute je suis prêt à faire des effort et pardonner certaines choses et..."
 msgstr ""
+"Послушай, я готов приложить усилия и простить тебе определённые вещи, и..."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_4ddfdea3"
 msgid "ARRÊTE ! C'est pas à toi de décider ça, c'est pas à toi de me pardonner !"
-msgstr ""
+msgstr "ХВАТИТ! Не тебе это решать! Не тебе меня прощать!"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_63807d1b"
 msgid "Mais... Je comprends pas..."
-msgstr ""
+msgstr "Но... Я не понимаю..."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_d2a5baa5"
@@ -14511,51 +14518,55 @@ msgstr ""
 msgctxt "menu_rejet_noriko_final_5f66ed1e"
 msgid "{{noriko.n}}, je veux vraiment devenir une meilleure personne et si tu ne me dis pas pourquoi tu me hais autant je..."
 msgstr ""
+"{{noriko.n}}, я действительно хочу стать лучше, но если ты не скажешь мне, "
+"почему ты так меня ненавидишь, я..."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_3611390a"
 msgid "VOILÀ ! Il s'agit encore de toi et de personne d'autre, il faut tout te donner, tout te dire, tout faire pour toi !"
 msgstr ""
+"ВОТ ОПЯТЬ! Дело всегда только в тебе и ни в ком больше! Всё нужно тебе "
+"отдать, всё нужно тебе сказать, всё для тебя нужно сделать!"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_74e47000"
 msgid "Y'A RIEN QUI CHANGE JAMAIS AVEC TOI !"
-msgstr ""
+msgstr "С ТОБОЙ НИКОГДА НИЧЕГО НЕ МЕНЯЕТСЯ!"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_bbdc0057"
 msgid "Tu ne te souviens même plus..."
-msgstr ""
+msgstr "Ты даже не помнишь..."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_d0a9f7cc"
 msgid "Me souvenir ?"
-msgstr ""
+msgstr "Не помню?"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_a7c19159"
 msgid "VA-T-EN !"
-msgstr ""
+msgstr "ПРОВАЛИВАЙ!"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_115ee30e"
 msgid "Hey !!!"
-msgstr ""
+msgstr "Эй!"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_8108a2e8"
 msgid "On doit parler !"
-msgstr ""
+msgstr "Нам нужно поговорить!"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_fc34e3c8"
 msgid "Oui mais moi j'ai rien à te dire !"
-msgstr ""
+msgstr "Мне не о чем с тобой разговаривать!"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_f02845f2"
 msgid "Tu faisais quoi aujourd'hui ?"
-msgstr ""
+msgstr "Что ты делала сегодня?"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_c9abca40"
@@ -14570,37 +14581,47 @@ msgstr ""
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_6bbac01e"
 msgid "... Et alors ? Je n'avais pas envie de rendre des comptes à ma mère."
-msgstr ""
+msgstr "...И что? Я просто не хотела ничего рассказывать маме."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_35039d06"
 msgid "Je ne comprends et ne supporte plus ces étranges animosités que tu as envers moi."
 msgstr ""
+"Я не могу понять и не хочу больше терпеть эту странную враждебность, которую "
+"ты испытываешь ко мне."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_0395eddb"
 msgid "Je ne sais pas ce que j'ai pu te faire pour qu'on en arrive là, mais j'aimerais comprendre."
 msgstr ""
+"Не знаю, что такого я мог тебе сделать, что всё обернулось таким образом, но "
+"я хотел бы это узнать."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_f3655e6b"
 msgid "Si tu te préoccupais un peu plus de toi et moins de moi on n'en serait pas là !"
 msgstr ""
+"Если бы ты заботился больше о себе, а не обо мне, сейчас мы бы здесь не "
+"стояли!"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_d7b86515"
 msgid "Attention à toi {{noriko.n}}. Je veux bien être gentil, mais je ne suis plus le garçon docile sur lequel tu pouvais marcher."
 msgstr ""
+"Осторожнее,{{noriko.n}}. Я готов разобраться во всём по-хорошему, но я уже "
+"не тот кроткий мальчик, по которому можно топтаться."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_499d7d45"
 msgid "Tout ce que j'essaie de faire c'est de comprendre pourquoi on en arrive là aujourd'hui."
-msgstr ""
+msgstr "Всё, что я пытаюсь сделать — это понять, почему мы дошли до такого."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_9b26c03c"
 msgid "Je sais que tu me caches des choses, et crois-moi je finirai par les découvrir."
 msgstr ""
+"Я знаю, что ты что-то скрываешь от меня, и поверь мне, рано или поздно я "
+"выясню, что именно."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_f2c92a0a"
@@ -14610,107 +14631,107 @@ msgstr ""
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_01bf2617"
 msgid "On n'en restera pas là."
-msgstr ""
+msgstr "Это ещё не конец!"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_cfaa5842"
 msgid "Bonne soirée."
-msgstr ""
+msgstr "Доброго вечера."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_f772442c"
 msgid "Bon ça suffit les conneries, maintenant tu vas t'expliquer !"
-msgstr ""
+msgstr "Всё, хватит этой херни! Сейчас ты объяснишься!"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_feea393d"
 msgid "Pourquoi tu es complètement à poil d'ailleurs ?"
-msgstr ""
+msgstr "Подожди, почему ты полностью голая?"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_f29a8032"
 msgid "T'es en train de me rendre complètement fou."
-msgstr ""
+msgstr "Твои выходки сведут меня с ума."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_1fcf040e"
 msgid "Je sais pas à quel jeu tu joues mais..."
-msgstr ""
+msgstr "Не знаю, в какую игру ты играешь, но-"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_21ed9f39"
 msgid "Tu vas me punir ?"
-msgstr ""
+msgstr "Ты собираешься меня наказать?"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_40121d8e"
 msgid "Oui je vais te... Attends quoi ?"
-msgstr ""
+msgstr "Да, собираюсь... Погоди, что?"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_a6b8a84e"
 msgid "Prouve-le !"
-msgstr ""
+msgstr "Сделай это!"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_01de4c42"
 msgid "Bordel de...[w] Mais... mais de quoi tu parles ?"
-msgstr ""
+msgstr "Черт подери..[w] Что... что ты вообще несёшь?"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_d83c5729"
 msgid "Tu crois que tout ceci n'est qu'une vaste plaisanterie pour toi ?"
-msgstr ""
+msgstr "Для тебя всё это просто большая шутка?"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_b4651e0d"
 msgid "Donc... tu ne me puniras pas ? Tu te dégonfles ?"
-msgstr ""
+msgstr "Значит... Ты не собираешься меня наказывать? Ты струсил?"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_befd0cab"
 msgid "Quoi ?! Mais... putain {{noriko.n}} !"
-msgstr ""
+msgstr "Что?! Чёрт тебя... дери, {{noriko.n}}!"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_44fc70a1"
 msgid "Tu crois que je ne te sauterai pas dessus ?"
-msgstr ""
+msgstr "Думаешь, я не наброшусь на тебя?"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_910623fe"
 msgid "Visiblement non... il semblerait que tu sois seulement une grande bouche..."
-msgstr ""
+msgstr "Очевидно, что нет... Похоже, ты способен только болтать..."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_daef296a"
 msgid "J'attends toujours..."
-msgstr ""
+msgstr "Я жду..."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_ae4363f2"
 msgid "Je vais le faire."
-msgstr ""
+msgstr "Я сделаю это."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_b1602e4c"
 msgid "Alors vas-y !"
-msgstr ""
+msgstr "Тогда вперёд!"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_68172d73"
 msgid "Je ne plaisante pas !"
-msgstr ""
+msgstr "Я не шучу!"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_356a5fed"
 msgid "J'attends encore..."
-msgstr ""
+msgstr "Я всё ещё жду..."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_d20fe92e"
 msgid "... Très bien si c'est ce que tu souhaites."
-msgstr ""
+msgstr "...Ладно, ты сама напросилась."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_988c494f"
@@ -14720,192 +14741,196 @@ msgstr ""
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_56609df8"
 msgid "Bordel mais pourquoi t'es encore à poil ?"
-msgstr ""
+msgstr "Чёрт, почему ты снова голая?"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_847cdc2c"
 msgid "Je t'attendais !"
-msgstr ""
+msgstr "Я ждала тебя!"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_ea095bd7"
 msgid "Quoi ?! Mais bordel, je ne veux pas jouer à ton petit jeu j'aimerais juste..."
 msgstr ""
+"Что?! Проклятье, я не собираюсь играть в твои глупые игры! Я просто хочу..."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_476f4808"
 msgid "Je le savais tu t'es dégonflé..."
-msgstr ""
+msgstr "Так и знала, что ты струсишь..."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_6a1ae8b4"
 msgid "Non ! Non non non et non ! Tu ne m'auras pas une seconde fois comme ça !"
-msgstr ""
+msgstr "Нет! Нет, нет, нет и нет! Больше ты меня так не разведёшь!"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_a5469489"
 msgid "C'est dommage... j'avais bien aimé moi..."
-msgstr ""
+msgstr "Очень жаль... Прошлый раз мне понравился..."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_8784c6cc"
 msgid "...[w] Bordel."
-msgstr ""
+msgstr "...[w] Бля."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_8e500ab0"
 msgid "Donc tu te dégonfles... c'est bien ce que je disais."
-msgstr ""
+msgstr "У тебя не хватит яиц... Как я и говорила."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_2209c0e1"
 msgid "Tu avais un côté sauvage... J'avais l'impression d'avoir un alpha."
-msgstr ""
+msgstr "В тот раз в тебе была дикость... Я чувствовала, что меня берёт альфа."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_e11d8581"
 msgid "Mais là... J'ai plus l'impression d'avoir un b-"
-msgstr ""
+msgstr "Но сейчас... Ощущение, будто передо мной бет-"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_8fbd428b"
 msgid "Okay stop ! C'est du sauvage que tu veux ?"
-msgstr ""
+msgstr "Ладно, достаточно! Хочешь дикости?"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_41f629b5"
 msgid "Pas de problème ! Mais après on va discuter toi et moi !"
-msgstr ""
+msgstr "Без проблем! Но потом мы с тобой поговорим!"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_e5584940"
 msgid "Maintenant que tu as eu ce que tu voulais..."
-msgstr ""
+msgstr "Теперь, когда ты получила то, чего хотела..."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_901837ca"
 msgid "Je veux des explications."
-msgstr ""
+msgstr "Я требую объяснений."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_3e32a7a6"
 msgid "Je sais que tu as payé les thugs pour qu'ils viennent me tabasser."
-msgstr ""
+msgstr "Я знаю, что ты заплатила тем ушлёпкам, чтобы они меня избили."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_ed15802e"
 msgid "Je sais également que tu fais ça depuis longtemps."
-msgstr ""
+msgstr "Я также знаю, что ты занимаешься этим уже долгое время."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_f3f8be00"
 msgid "Je ne m'énerverai pas... J'aimerais juste comprendre."
-msgstr ""
+msgstr "Я не буду сердиться... Я просто хочу понять..."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_c12e5234"
 msgid "Pourquoi {{noriko.n}} ?"
-msgstr ""
+msgstr "Зачем, {{noriko.n}}?"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_9d36ecf3"
 msgid "...[w] Tu ne comprendrais pas."
-msgstr ""
+msgstr "...[w] Ты не поймёшь."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_4006214c"
 msgid "Commence déjà par me l'expliquer."
-msgstr ""
+msgstr "Для начала всё мне объясни."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_ee42977b"
 msgid "Si tu n'essaies pas... comment veux tu qu-"
-msgstr ""
+msgstr "Если ты этого не сделаешь... То я точно ничего не пойм-"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_16f5c3aa"
 msgid "Tu ne pourras jamais me pardonner de toute façon donc à quoi bon..."
 msgstr ""
+"Ты всё равно никогда не сможешь меня простить, так какой в этом смысл..."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_ec497736"
 msgid "Ce que je fais depuis des années...[w] est bien trop grave."
 msgstr ""
+"То, чем я занималась все эти годы...[w] На это не получится закрыть глаза."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_c5fc98f5"
 msgid "Je me suis mise là-dedans toute seule."
-msgstr ""
+msgstr "Я сама в это ввязалась..."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_e1ef8947"
 msgid "Je m'en sortirai toute seule."
-msgstr ""
+msgstr "И выберусь из этого тоже сама."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_cb534121"
 msgid "Il n'est pas possible d'effacer autant de haine en un claquement de doigts."
-msgstr ""
+msgstr "Невозможно стереть всю твою ненависть одним щелчком пальцев."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_e59d4a37"
 msgid "Et même si toi, tu me pardonnes..."
-msgstr ""
+msgstr "И даже если бы ты... Простил меня..."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_3727be54"
 msgid "Je ne pourrai jamais me pardonner pour tout ce que je t'ai fait subir."
 msgstr ""
+"Я никогда не смогу простить себя за всё, через что заставила тебя пройти."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_65d8e093"
 msgid "S'il te plaît, sors d'ici. J'arrêterai toute cette folie moi-même."
-msgstr ""
+msgstr "Пожалуйста, уходи отсюда. Я сама прекращу это безумие."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_3f4e98e6"
 msgid "Et plus jamais je ne donnerai de l'argent à qui que ce soit pour te faire du mal."
-msgstr ""
+msgstr "И я никогда больше не попрошу кого-то навредить тебе."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_68701303"
 msgid "{{noriko.n}} j-"
-msgstr ""
+msgstr "{{noriko.n}}, я-"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_c87216c5"
 msgid "Va-t-en !"
-msgstr ""
+msgstr "Уходи!"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_2cd7eae5"
 msgid "Donc ça c'est ta chambre..."
-msgstr ""
+msgstr "Значит, это твоя комната?"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_af78149d"
 msgid "Intéressant, c'est plutôt sympa."
-msgstr ""
+msgstr "Интересно. Выглядит довольно мило."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_23e7e2a3"
 msgid "C'est à peu près ce à quoi je m'attendais."
-msgstr ""
+msgstr "Именно такой я себе её и представлял."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_38de776a"
 msgid "Arrête de regarder partout comme ça !"
-msgstr ""
+msgstr "Перестань всё тут разглядывать!"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_42f7d168"
 msgid "Pourquoi ? En quoi ça dérange ?"
-msgstr ""
+msgstr "Почему? Что в этом плохого?"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_59c9ebcb"
 msgid "On a conclu un accord non ?"
-msgstr ""
+msgstr "У нас был уговор, не так ли?"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_d6e8a40a"
@@ -14920,7 +14945,7 @@ msgstr "...[w] Да..."
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_66524a55"
 msgid "Donc on doit officialiser ça correctement."
-msgstr ""
+msgstr "Поэтому, нам нужно официально и должным образом закрепить его."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_86653964"
@@ -14950,52 +14975,55 @@ msgstr ""
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_1078c727"
 msgid "Commence donc déjà par me sucer !"
-msgstr ""
+msgstr "Тогда начнём с того, что ты отсосёшь мне!"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_21f49ad1"
 msgid "Alors ? Tu attends quoi ?"
-msgstr ""
+msgstr "Ну? Чего ты ждёшь?"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_e71b20ff"
 msgid "Je ne veux pas faire ça ici..."
-msgstr ""
+msgstr "Я не хочу делать это здесь..."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_df6d7189"
 msgid "Ma mère pourrait rentrer à tout moment et je pourrais avoir des problèmes..."
 msgstr ""
+"Моя мама может вернуться в любой момент, и у меня могут быть неприятности..."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_a9ff1c9a"
 msgid "Ta mère peut nous rejoindre si tu veux veux, ça ne me dérange pas du tout !"
 msgstr ""
+"Твоя мама может просто присоединиться к нам, если захочет. Я совершенно не "
+"против!"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_a65b6a2c"
 msgid "Non mais ça va pas la tête ?!"
-msgstr ""
+msgstr "Ты что, с ума сошёл?!"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_13637dc2"
 msgid "Il y a aussi {{saito.n}}... Je n'ai aucun contrôle sur ses allées-et-venues."
-msgstr ""
+msgstr "Также есть {{saito.n}}... Я не контролирую, куда и когда он зайдёт."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_4b604da9"
 msgid "...[w] Ça me donne une idée !"
-msgstr ""
+msgstr "...[w] Это навело меня на мысль!"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_740b3d4b"
 msgid "Montre moi sa chambre !"
-msgstr ""
+msgstr "Покажи мне его комнату!"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_6b210338"
 msgid "Quoi ?! Mais..."
-msgstr ""
+msgstr "Что?! Но-"
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_637eccb0"
@@ -15005,7 +15033,7 @@ msgstr "Что?! Но..."
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_68dbe274"
 msgid "Discute pas !"
-msgstr ""
+msgstr "Не спорь!"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_80661a29"
@@ -38050,92 +38078,92 @@ msgstr ""
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_eac2144c"
 msgid "J'arrive {{yasuka.n}} !"
-msgstr ""
+msgstr "Я иду, {{yasuka.n}}!"
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_a8af99a6"
 msgid "Tu sembles de bonne humeur {{saito.n}}."
-msgstr ""
+msgstr "Похоже, у тебя хорошее настроение, {{saito.n}}."
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_9680c572"
 msgid "Oh {{sakuya.n}} ! Je ne t'avais pas entendu."
-msgstr ""
+msgstr "Ох, {{sakuya.n}}! Я не услышал, как ты подошла."
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_98a59f5b"
 msgid "Je suis de nature plutôt discrète."
-msgstr ""
+msgstr "Я довольно незаметная по натуре."
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_27dfe0bc"
 msgid "Toutefois... J'ai bien peur que les choses n'aillent pas dans ton sens."
-msgstr ""
+msgstr "Однако... Боюсь, дела обстоят не так, как тебе хотелось бы."
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_879ee063"
 msgid "Quoi ? Comment ça ?"
-msgstr ""
+msgstr "Что? Что ты имеешь в виду?"
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_5a28719a"
 msgid "Vois-tu, je t'observe depuis longtemps à présent."
-msgstr ""
+msgstr "Видишь ли, я наблюдаю за тобой уже долгое время."
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_612737d1"
 msgid "J'ai appris de nombreuses choses sur toi..."
-msgstr ""
+msgstr "Я многое узнала о тебе..."
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_77e153b3"
 msgid "Je veille aussi sur ta sécurité... à ma façon."
-msgstr ""
+msgstr "А также я забочусь о твоей безопасности... По-своему."
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_ba367093"
 msgid "Ça veut dire quoi ça ?! Tu me fais peur !"
-msgstr ""
+msgstr "Что это значит?! Ты меня пугаешь!"
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_74c02cb8"
 msgid "J'y viens justement..."
-msgstr ""
+msgstr "Я как раз собиралась сказать об этом..."
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_d964f18a"
 msgid "Je me suis occupée à plusieurs reprises de ceux qui te voulaient du mal."
-msgstr ""
+msgstr "Я уже несколько раз расправлялась с теми, кто желал тебе зла."
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_201f24bc"
 msgid "Quoi ?! Les thugs ?! Tu veux dire que la personne qui les prenait en chasse, c'était toi ?"
-msgstr ""
+msgstr "Что?! Те три отморозка?! То есть это ты их преследовала?"
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_0b25b15c"
 msgid "Et pas seulement, je me suis occupée également de l'ex-propriétaire de la boutique de café."
-msgstr ""
+msgstr "И не только это, я также позаботилась о бывшем владельце кофейни."
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_7b0619e4"
 msgid "Il n'a désormais plus les moyens de faire du chantage à qui que ce soit."
-msgstr ""
+msgstr "Он больше не сможет шантажировать кого-либо."
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_65cb1f20"
 msgid "Mais ce n'est pas une grande perte pour le genre humain..."
-msgstr ""
+msgstr "Но это не самая большая потеря для человечества..."
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_d63b1486"
 msgid "Wow wow wow, il lui est arrivé quoi exactement ?"
-msgstr ""
+msgstr "Воу, воу, воу, что именно ты с ним сделала?"
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_fcb996ba"
 msgid "J'ai brulé sa maison."
-msgstr ""
+msgstr "Я сожгла его дом."
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_b37e98ac"
@@ -38165,92 +38193,98 @@ msgstr ""
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_47edca00"
 msgid "Tu ne pensais pas que tous tes problèmes allaient se révolver d'eux même {{saito.n}} ?"
-msgstr ""
+msgstr "Ты думал, что все твои проблемы решаются сами собой, {{saito.n}?"
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_0fad4aa0"
 msgid "Bien sûr que non... C'était trop beau pour être vrais."
-msgstr ""
+msgstr "Конечно нет... Это выглядело слишком хорошо, чтобы быть правдой."
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_55e559de"
 msgid "Qu'est-ce que tu attends de moi exactement ?"
-msgstr ""
+msgstr "Что именно ты хочешь от меня?"
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_2f29512a"
 msgid "Trois fois rien... Juste un peu d'honnêteté."
-msgstr ""
+msgstr "Почти ничего... Только немного честности."
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_a5df51b7"
 msgid "De l'honnêteté ?"
-msgstr ""
+msgstr "Честности?"
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_cc319ec6"
 msgid "Ça peut te sembler dérisoire, mais c'est important pour moi."
-msgstr ""
+msgstr "Для тебя это может показаться мелочью, но для меня это важно."
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_b951616b"
 msgid "Que diraient {{asami.n}} ou encore {{yasuka.n}} si elles savaient qu'elles partagent le même homme ?"
 msgstr ""
+"Что бы сказали {{asami.n}} или {{yasuka.n}}, если бы узнали, что они делят "
+"одного мужчину?"
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_26a092f6"
 msgid "Tu ne peux pas te permettre de batifoler avec toutes les femmes qui t'entourent sans conséquences, tu ne crois pas ?"
 msgstr ""
+"Ты не можешь позволить себе дурачиться со всеми окружающими тебя женщинами "
+"без последствий, не так ли?"
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_d649b9d0"
 msgid "Moi aussi, j'aimerais faire des choses coquines avec toi."
-msgstr ""
+msgstr "Я бы тоже хотела делать с тобой непристойные вещи."
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_c3e1f0b5"
 msgid "Mais je suis très exclusive {{saito.n}}."
-msgstr ""
+msgstr "Но я довольно ревнивая, {{saito.n}}."
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_c34e7bf7"
 msgid "Donc, à partir de maintenant, tu ne le feras qu'avec moi !"
-msgstr ""
+msgstr "Так что с этого момента ты будешь делать это только со мной!"
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_5e304f4d"
 msgid "Je vais à présent te laisser... Tu dois être épuisé après cette longue journée."
 msgstr ""
+"А теперь я, пожалуй, пойду... Ты, наверное, вымотан после такого долгого дня."
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_c4b13a55"
 msgid "Et n'oublie pas que j'ai toujours un œil sur toi mon cher {{saito.n}}."
-msgstr ""
+msgstr "И не забывай, что я всегда слежу за тобой, дорогой {{saito.n}}."
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_e192ffec"
 msgid "Putain de merde, c'était quoi ça ?!"
-msgstr ""
+msgstr "Чёрт возьми, что это было?!"
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_9461e4ea"
 msgid "J'en ai eu des sueurs froides."
-msgstr ""
+msgstr "Меня аж холодный пот прошиб."
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_2f454538"
 msgid "J'ai l'impression qu'elle est sérieuse."
-msgstr ""
+msgstr "У меня такое чувство, что она говорила серьёзно."
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_9d3d5a43"
 msgid "Fait chier ! À peine, je me sors d'une situation merdique, que je me retrouve dans une encore pire."
 msgstr ""
+"Чёрт! Только что я выбрался из гадкой ситуации, а уже оказался в ещё худшей."
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_b3c719d0"
 msgid "Je dois rentrer en vitesse !"
-msgstr ""
+msgstr "Я должен поспешить домой!"
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_ae580556"
@@ -38380,7 +38414,7 @@ msgstr "...Ладно. Мы уходим. Простите за беспокой
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_74c95242"
 msgid "[font_size=14]Je t'expliquerai après...[/font_size]"
-msgstr ""
+msgstr "[font_size=14]Объясню позже...[/font_size]"
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_50e93b7d"
@@ -43285,17 +43319,17 @@ msgstr ""
 #: game/story/home_asami_exterior.dialogue
 msgctxt "home_asami_exterior_2d9aa857"
 msgid "C'est vrai ?[w] Oh j'ai hâte d'y être alors."
-msgstr ""
+msgstr "Правда?[w] Ох, тогда не могу дождаться."
 
 #: game/story/home_asami_exterior.dialogue
 msgctxt "home_asami_exterior_dff7733f"
 msgid "Fais attention à toi quand même..."
-msgstr ""
+msgstr "Только береги себя, хорошо?"
 
 #: game/story/home_asami_exterior.dialogue
 msgctxt "home_asami_exterior_7bccc965"
 msgid "Te savoir pris pour cible m'inquiète quand même beaucoup."
-msgstr ""
+msgstr "Мысли о том, что тебя преследуют, очень меня беспокоят."
 
 #: game/story/home_asami_exterior.dialogue
 msgctxt "home_asami_exterior_03517765"
@@ -43305,7 +43339,7 @@ msgstr ""
 #: game/story/home_asami_exterior.dialogue
 msgctxt "home_asami_exterior_86a8dc9c"
 msgid "Ça ne me rassure pas idiot !"
-msgstr ""
+msgstr "Это не сильно меня успокаивает, идиот!"
 
 #: game/story/home_asami_exterior.dialogue
 msgctxt "home_asami_exterior_4633e8a7"
@@ -43896,17 +43930,17 @@ msgstr "Идём в мою комнату. Расскажи мне всё, чт�
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "menu_asami_room_waiting_40045615"
 msgid "Salut toi !"
-msgstr ""
+msgstr "Привет!"
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "menu_asami_room_waiting_f6cde10a"
 msgid "Je pensais justement à toi."
-msgstr ""
+msgstr "Я как раз думала о тебе."
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "menu_asami_room_waiting_f261baf5"
 msgid "Tu as envie de quelque chose ?"
-msgstr ""
+msgstr "Ты что-то хотел?"
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "t547040b4c2"
@@ -43921,7 +43955,7 @@ msgstr "Вы только посмотрите!"
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "menu_asami_room_waiting_743fefe0"
 msgid "C'est plutôt rare de te voir aussi entreprenant."
-msgstr ""
+msgstr "Нечасто увидишь тебя таким напористым."
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "menu_asami_room_waiting_2222dfd7"
@@ -43941,7 +43975,7 @@ msgstr "Так, чего ты ждёшь?"
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "menu_asami_room_waiting_a26e802e"
 msgid "C'est moi ou bien mon petit poney semble bien plus excité que d'habitude ?"
-msgstr ""
+msgstr "Мне кажется, или мой маленький пони взволнован сильнее, чем обычно?"
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "menu_asami_room_waiting_c360c9d3"
@@ -43971,7 +44005,7 @@ msgstr "В следующий раз, когда ты захочешь сказ�
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "menu_asami_room_waiting_2d5b9e56"
 msgid "Insiste plus !"
-msgstr ""
+msgstr "Будь настойчивее!"
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "menu_asami_room_waiting_f2baee58"
@@ -43986,7 +44020,7 @@ msgstr "О боже мой! О боже мой!"
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "menu_asami_room_waiting_3095e9ea"
 msgid "Je vais jouir !"
-msgstr ""
+msgstr "Я сейчас кончу!"
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "menu_asami_room_waiting_82e7a915"
@@ -44006,27 +44040,28 @@ msgstr "Я не решался сказать..."
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_781289e2"
 msgid "Comment tu trouves ma chambre ?"
-msgstr ""
+msgstr "Что ты думаешь о моей комнате?"
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_fc9905c2"
 msgid "Franchement ?"
-msgstr ""
+msgstr "Честно?"
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_8d54da09"
 msgid "J'adore !"
-msgstr ""
+msgstr "Мне нравится!"
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_d0bb8ed7"
 msgid "Il est temps de commencer à faire des choses jamais vues dans cette pièce !"
 msgstr ""
+"Тогда пришло время делать вещи, которых эта комната ещё никогда не видела!"
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_19dd112e"
 msgid "J'en suis !"
-msgstr ""
+msgstr "Я в деле!"
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_6ef90bb7"
@@ -44516,72 +44551,79 @@ msgstr ""
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_346597e6"
 msgid "Quelque chose a donc dû se passer à ce moment-là."
-msgstr ""
+msgstr "Получается, в тот раз что-то произошло."
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_93f1d0c2"
 msgid "Mais ça veut pas forcément dire que tu es responsable."
-msgstr ""
+msgstr "Но это не обязательно означает, что ты несёшь за это ответственность."
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_a39a18bf"
 msgid "Il a dû se passer quelque chose... D'accord. Mais est-ce que tu es fautif pour autant ?"
-msgstr ""
+msgstr "Похоже, что-то случилось... Хорошо. Но была ли в этом твоя вина?"
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_e84df6c9"
 msgid "On n'en sait rien !"
-msgstr ""
+msgstr "Этого мы не знаем!"
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_c66600a8"
 msgid "Et surtout... le fait que tu aies oublié tout ça prouve que toi aussi tu as vécu une mauvaise expérience."
 msgstr ""
+"И самое главное... Тот факт, что ты всё это забыл, доказывает, что для тебя "
+"это тоже имело негативное последствие."
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_f57d118d"
 msgid "C'est un mécanisme de protection du cerveau."
-msgstr ""
+msgstr "Это защитный механизм мозга."
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_8a5e0d41"
 msgid "Quand on vit un évènement traumatisant, le cerveau nous le fait oublier, surtout si c'est un souvenir douloureux !"
 msgstr ""
+"Когда мы переживаем травмирующее событие, мозг заставляет нас забыть его, "
+"особенно если воспоминания о нём болезненны!"
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_331252ef"
 msgid "Qu'est-ce qu'il fait chez moi lui ?"
-msgstr ""
+msgstr "Что он делает у меня дома?"
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_02996aab"
 msgid "Je n'en sais rien, je ne l'ai pas invité."
-msgstr ""
+msgstr "Не знаю. Я его не звал."
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_7d40780c"
 msgid "J'ai entendu toute votre conversation."
-msgstr ""
+msgstr "Я слышал весь ваш разговор."
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_96d7d49e"
 msgid "Vous faites ça pour aider {{noriko.n}} et je veux en être !"
 msgstr ""
+"Вы обсуждали о том, как помочь {{noriko.n}}, и я хочу в этом поучаствовать!"
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_34d661de"
 msgid "Oui m-"
-msgstr ""
+msgstr "Да, но-"
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_c9dd0846"
 msgid "{{saito.n}} ne dis plus rien, je t'ai souvent aidé maintenant c'est mon tour."
 msgstr ""
+"{{saito.n}}, ни слова больше. Я достаточно часто помогал тебе, теперь твоя "
+"очередь."
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_e7793bd5"
 msgid "Je veux en être !"
-msgstr ""
+msgstr "Я хочу присоединиться!"
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_567db389"
@@ -44591,72 +44633,81 @@ msgstr ""
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_25cc286d"
 msgid "Elle est folle de moi et je le prouverai !"
-msgstr ""
+msgstr "Она без ума от меня, и я докажу это!"
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_bdaef415"
 msgid "J'en connais un qui va tomber de haut..."
-msgstr ""
+msgstr "Тебя ждёт неприятный сюрприз..."
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_63a0ce90"
 msgid "J'ai l'habitude de ne pas être pris au sérieux. Vous verrez bien qui aura raison à la fin."
 msgstr ""
+"Я привык, что меня не воспринимают всерьёз. Но, в конце концов, вы увидите, "
+"кто был прав."
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_071390b5"
 msgid "Vous cherchez des réponses dans le passé mais vous n'en aurez pas."
-msgstr ""
+msgstr "Вы ищете ответы в прошлом, но вы их не найдете."
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_7433a804"
 msgid "Les réponses vous les trouverez seulement dans le présent."
-msgstr ""
+msgstr "Ответы вы найдете только в настоящем."
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_f708c55d"
 msgid "Vas-y monsieur l'expert, qu'est-ce que tu proposes ?"
-msgstr ""
+msgstr "Хорошо, господин эксперт. Что ты предлагаешь?"
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_54fd9c17"
 msgid "Je sens comme une petite animosité... Est-ce comme ça qu'on traite un ami ?"
-msgstr ""
+msgstr "Я чувствую некоторую неприязнь... Ты всегда так обращаешься с друзьями?"
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_de14923e"
 msgid "Bref...[w] Que fait-elle de ses journées ? A-t-elle une passion ? Des amies qu'elle retrouve en ville ?"
 msgstr ""
+"Как бы то ни было...[w] Чем она обычно занимается? Есть ли у неё какие-"
+"нибудь увлечения? Друзья, с которыми она встречается в городе?"
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_83c3ee2f"
 msgid "A-t-elle peur de quelque chose en particulier ? Quelle est sa couleur préférée ? A-t-elle un ou une petite amie ?"
 msgstr ""
+"Испытывает ли она к чему-то страх? Какой её любимый цвет? Есть ли у неё "
+"парень или девушка?"
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_b739d42b"
 msgid "Plus tu as d'informations sur elle, plus on pourra dresser un portrait précis de sa personnalité, de sa façon de penser."
 msgstr ""
+"Чем больше у нас будет информации о ней, тем более точное представление мы "
+"сможем составить о её личности, образе её мышления."
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_1be57732"
 msgid "C'est cohérent... Alors {{saito.n}} ?"
-msgstr ""
+msgstr "В этом есть смысл... Ну что, {{saito.n}}?"
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "t492e707036"
 msgid "Je... Elle regarde du porno."
-msgstr ""
+msgstr "Ну... Она смотрит порно."
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_9fce4963"
 msgid "...[w] Tout ce que tu sais de {{noriko.n}} c'est qu'elle regarde du porno ?"
 msgstr ""
+"...[w] Всё, что ты знаешь о {{noriko.n}}, это лишь то, что она смотрит порно?"
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "t7f13f54e25"
 msgid "Je suppose qu'elle passe son temps sur internet..."
-msgstr ""
+msgstr "Думаю, она проводит время, сидя в интернете..."
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_00d0bed0"
