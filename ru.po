@@ -111,7 +111,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "PO-Revision-Date: 2024-04-19 22:14+0000\n"
-"Last-Translator: Иванов Станислав Сергеевич <Ivanovst4nist4v@yandex.ru>\n"
+"Last-Translator: Exs1zzyyy <danilkazava0@gmail.com>\n"
 "Language-Team: Russian <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/ru/>\n"
 "Language: ru\n"
@@ -57918,3 +57918,171 @@ msgstr "Встреться с {{yasuka.n}} в её спальне."
 msgctxt "quests.hints"
 msgid "noriko_maledom_15_1_yc"
 msgstr "Разузнай у {{yasuka.n}}."
+
+msgctxt "preferences.subgroup"
+msgid "Global"
+msgstr "Глобальные"
+
+msgctxt "preferences.variable.display_mode"
+msgid "Windowed:0"
+msgstr "Оконный"
+
+msgctxt "preferences.variable.display_mode"
+msgid "Fullscreen:2"
+msgstr "Полноэкранный"
+
+msgctxt "preferences.variable"
+msgid "display_mode"
+msgstr "Режим отображения"
+
+msgctxt "preferences.variable.anisotropic_filter"
+msgid "Off:0"
+msgstr "Выкл"
+
+msgctxt "preferences.variable.anisotropic_filter"
+msgid "X 2:1"
+msgstr "x2"
+
+msgctxt "preferences.variable.anisotropic_filter"
+msgid "X 4:2"
+msgstr "x4"
+
+msgctxt "preferences.variable.anisotropic_filter"
+msgid "X 8:3"
+msgstr "x8"
+
+msgctxt "preferences.variable.anisotropic_filter"
+msgid "X 16:4"
+msgstr "x16"
+
+msgctxt "preferences.variable"
+msgid "anisotropic_filter"
+msgstr "Анизатропная фильтрация"
+
+msgctxt "preferences.variable"
+msgid "particles"
+msgstr "Частицы"
+
+msgctxt "preferences.subgroup"
+msgid "User Interface"
+msgstr "Пользовательский интерфейс"
+
+msgctxt "preferences.variable"
+msgid "mobile_mode"
+msgstr "Мобильный режим"
+
+msgctxt "preferences.variable"
+msgid "textbox_opacity"
+msgstr "Прозрачный фон диалогов"
+
+msgctxt "preferences.subgroup"
+msgid "Character pubes"
+msgstr "Волосы на лобке"
+
+msgctxt "preferences.variable"
+msgid "asami_pubes"
+msgstr "Асами"
+
+msgctxt "preferences.variable"
+msgid "chiaki_pubes"
+msgstr "Чиаки"
+
+msgctxt "preferences.variable"
+msgid "natsume_pubes"
+msgstr "Нацумэ"
+
+msgctxt "preferences.variable"
+msgid "noriko_pubes"
+msgstr "Норико"
+
+msgctxt "preferences.variable"
+msgid "sakuya_pubes"
+msgstr "Сакуя"
+
+msgctxt "preferences.variable"
+msgid "sayuri_pubes"
+msgstr "Саюри"
+
+msgctxt "preferences.variable"
+msgid "yasuka_pubes"
+msgstr "Ясука"
+
+msgctxt "preferences.group"
+msgid "Audio"
+msgstr "Аудио"
+
+msgctxt "preferences.variable"
+msgid "master_volume"
+msgstr "Общая громкость"
+
+msgctxt "preferences.variable"
+msgid "master_mute"
+msgstr "Беззвучный режим"
+
+msgctxt "preferences.variable"
+msgid "music_volume"
+msgstr "Громкость музыки"
+
+msgctxt "preferences.variable"
+msgid "music_mute"
+msgstr "Отключение музыки"
+
+msgctxt "preferences.variable"
+msgid "sound_volume"
+msgstr "Громкость звука"
+
+msgctxt "preferences.variable"
+msgid "sound_mute"
+msgstr "Отключение звука"
+
+msgctxt "preferences.group"
+msgid "Language"
+msgstr "Языки"
+
+msgctxt "preferences.group"
+msgid "Gameplay"
+msgstr "Геймплей"
+
+msgctxt "preferences.subgroup"
+msgid "Auto-save"
+msgstr "Автосохранение"
+
+msgctxt "preferences.variable"
+msgid "auto_on_choice"
+msgstr "Автосохранение при выборе"
+
+msgctxt "preferences.subgroup"
+msgid "Hints"
+msgstr "Подсказки"
+
+msgctxt "preferences.variable"
+msgid "path_hints"
+msgstr "Подсказки при выборе"
+
+msgctxt "preferences.subgroup"
+msgid "Skip"
+msgstr "Пропуск"
+
+msgctxt "preferences.variable"
+msgid "skip_unseen"
+msgstr "Пропуск не просмотренных диалогов"
+
+msgctxt "preferences.variable"
+msgid "skip_on_location_change"
+msgstr "Пропуск после смены локации"
+
+msgctxt "preferences.group"
+msgid "Visuals"
+msgstr "Графика"
+
+msgctxt "preferences.variable.display_mode"
+msgid "Borderless Window:1"
+msgstr "Оконный без полей"
+
+msgctxt "preferences.variable"
+msgid "language"
+msgstr "Язык"
+
+msgctxt "preferences.variable"
+msgid "auto_before_quit"
+msgstr "Автосохранение перед выходом"
