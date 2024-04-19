@@ -111,7 +111,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "PO-Revision-Date: 2024-04-19 23:50+0000\n"
-"Last-Translator: Иванов Станислав Сергеевич <Ivanovst4nist4v@yandex.ru>\n"
+"Last-Translator: Aleksandr <aleksandr-tugai@mail.ru>\n"
 "Language-Team: Russian <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/ru/>\n"
 "Language: ru\n"
@@ -11408,9 +11408,7 @@ msgstr ""
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_2075f795"
 msgid "Dans mon rêve, elle m'avait accusé de l'avoir violé et avait quitté la maison peu de temps après."
-msgstr ""
-"Она обвинит меня якобы в изнасиловании, сбежит из дома, а затем {{yasuka.n}} "
-"разорвёт со мной все связи и жизнь пойдёт под откос..."
+msgstr "В прошлой жизни она обвинила меня в изнасиловании и убежала из дома."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_c9edb325"
@@ -60769,3 +60767,63 @@ msgstr ""
 msgctxt "location"
 msgid "konbini_interior"
 msgstr "Интерьер магазинчика"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_3"
+msgstr "Интересно, насколько далеко она зайдёт в своём безумстве."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_39"
+msgstr "Встреться с {{asami.n}} у {{kimochi.n}}."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_45"
+msgstr "Загляните в конбини, прежде чем отправиться домой."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_50"
+msgstr "Включите лампу и убедитесь, что {{yasuka.n}} в порядке."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_52"
+msgstr "Включите лампу и убедитесь, что {{yasuka.n}} в порядке."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_54"
+msgstr "{{yasuka.n}} в хостес-баре, поспеши к ней."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_71"
+msgstr "Идите домой, не попадаясь никому на глаза."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_corruption_7"
+msgstr "Встреться с {{asami.n}} в [color=yellow]парке[/color]."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_corruption_32"
+msgstr "Не могу дождаться встречи с {{asami.n}} сегодня днём."
+
+#: game/scenes/gui/main_menu.tscn
+msgid "© THE END OF TIME STUDIOS - ALL RIGHTS RESERVED"
+msgstr "© THE END OF TIME STUDIOS - ВСЕ ПРАВА ЗАЩИЩЕНЫ"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_62"
+msgstr ""
+"Найди {{noriko.n}} в любовном отеле, пока она не совершила непоправимое."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_corruption_53"
+msgstr "{{yasuka.n}} в хостес-баре, поспеши к ней."
