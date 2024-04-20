@@ -111,7 +111,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "PO-Revision-Date: 2024-04-20 16:15+0000\n"
-"Last-Translator: Иванов Станислав Сергеевич <Ivanovst4nist4v@yandex.ru>\n"
+"Last-Translator: Aleksandr <aleksandr-tugai@mail.ru>\n"
 "Language-Team: Russian <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/ru/>\n"
 "Language: ru\n"
@@ -42145,7 +42145,7 @@ msgstr "Я буду только рада!"
 #: game/story/warehouse_interior.dialogue
 msgctxt "warehouse_interior_abfc0ba2"
 msgid "Ce sera avec plaisir !"
-msgstr ""
+msgstr "С радостью!"
 
 #: game/story/canal.dialogue
 msgctxt "canal_69e31164"
@@ -42225,6 +42225,8 @@ msgstr ""
 msgctxt "canal_8d830b14"
 msgid "Mais si {{macumba.n}} peut te donner un conseil... N'aie pas peur d'échouer, de te tromper ou de te faire mal."
 msgstr ""
+"Но если бы {{macumba.n}} мог дать тебе совет, то... Не бойся потерпеть "
+"неудачу, совершить ошибку или получить травму."
 
 #: game/story/canal.dialogue
 msgctxt "canal_6843dc92"
@@ -42395,7 +42397,7 @@ msgstr "Очередная попытка и очередной промах..."
 #: game/story/canal.dialogue
 msgctxt "canal_720d4aa3"
 msgid "On a plus perdu notre temps qu'autre chose."
-msgstr ""
+msgstr "Мы потратили кучу времени."
 
 #: game/story/canal.dialogue
 msgctxt "canal_bcfb8373"
@@ -42405,7 +42407,7 @@ msgstr "Это того стоило."
 #: game/story/canal.dialogue
 msgctxt "canal_845833e5"
 msgid "Il faut retourner auprès de {{noriko.n}} rapidement !"
-msgstr ""
+msgstr "Мне нужно поскорее вернуться к {{noriko.n}}!"
 
 #: game/story/canal.dialogue
 msgctxt "canal_cd2e974f"
@@ -60238,7 +60240,7 @@ msgstr "{{asami.n}} будет ждать вас снаружи дома сег�
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "asami_corruption_37"
-msgstr "Вечером встретьтесь с {{asami.n}} в парке."
+msgstr "Встреться с {{asami.n}} в парке в полдень."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -61280,3 +61282,8 @@ msgstr "Позволить {{yasuka.n}} работать хостес."
 msgctxt "preferences.variable"
 msgid "skip_frame_delay"
 msgstr "Пропуск задержка"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_corruption_38"
+msgstr "Встреться с {{asami.n}} в парке в полдень."
