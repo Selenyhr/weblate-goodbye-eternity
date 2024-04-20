@@ -111,7 +111,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "PO-Revision-Date: 2024-04-20 23:48+0000\n"
-"Last-Translator: Иванов Станислав Сергеевич <Ivanovst4nist4v@yandex.ru>\n"
+"Last-Translator: абоба <ivan0vst4nisl4v@yandex.ru>\n"
 "Language-Team: Russian <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/ru/>\n"
 "Language: ru\n"
@@ -13855,7 +13855,7 @@ msgstr "С чего бы начать..."
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "t6dfeb25814"
 msgid "[hint=ROUTE REJET]Donne-moi le baladeur MP3."
-msgstr ""
+msgstr "[hint=ПУТЬ ОТКАЗА] Отдай мне плеер."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_4371f6a9"
@@ -13913,6 +13913,7 @@ msgstr "[font_size=19]Да...[/font_size]"
 msgctxt "tf77c3e2d7c"
 msgid "[hint=ROUTE CHANTAGE]Jusqu'à quel point tu ne veux pas que ça se sache {{noriko.n}} ?"
 msgstr ""
+"[hint=ШАНТАЖ] Насколько сильно ты хочешь сохранить это в тайне, {{noriko.n}}?"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_6a640c96"
@@ -26078,10 +26079,9 @@ msgid "Merci, {{asami.n}}..."
 msgstr "Спасибо, {{asami.n}}..."
 
 #: game/story/home_player_exterior.dialogue
-#, fuzzy
 msgctxt "asami_truth_543dc78d"
 msgid "Je... je ne sais pas quoi dire."
-msgstr "Я...{w} Я даже не знаю, что и сказать... {w}Это восхитительно!"
+msgstr "Я... Я даже не знаю, что и сказать."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_6e52a7c9"
@@ -43490,6 +43490,8 @@ msgstr "Чтобы защитить, ему пришлось бросить те
 msgctxt "home_asami_exterior_98206731"
 msgid "Il y a une fille qui observe {{saito.n}} de loin depuis visiblement très longtemps."
 msgstr ""
+"Есть девушка, которая наблюдала за {{saito.n}} издалека, очевидно, в течение "
+"очень долгого времени."
 
 #: game/story/home_asami_exterior.dialogue
 msgctxt "home_asami_exterior_c9981f9a"
@@ -43500,6 +43502,8 @@ msgstr "Девушка в кимоно!"
 msgctxt "home_asami_exterior_9f3cc437"
 msgid "Elle s'appelle {{sakuya.n}}... Elle est totalement déséquilibrée et n'hésiterait pas à tuer pour lui."
 msgstr ""
+"Её зовут {{sakuya.n}}. Она больная на голову и даже не побоится убить "
+"кого-нибудь."
 
 #: game/story/home_asami_exterior.dialogue
 msgctxt "home_asami_exterior_2b2f898b"
@@ -43531,7 +43535,7 @@ msgstr "Это...[w] Это то, что ты должна услышать из
 #: game/story/home_asami_exterior.dialogue
 msgctxt "home_asami_exterior_67dd7679"
 msgid "Si jamais tu décidais de laisser tomber à cause de ça, personne ne t'en voudra."
-msgstr ""
+msgstr "Если вы, когда-нибудь, решите сдаться, то никто вас не осудит."
 
 #: game/story/home_asami_exterior.dialogue
 msgctxt "home_asami_exterior_16740f60"
@@ -43608,6 +43612,8 @@ msgstr "Но я ни о чём не жалею!"
 msgctxt "home_asami_exterior_1883d550"
 msgid "Dès que cette histoire avec {{noriko.n}} sera réglée, on essaiera de trouver du temps rien que pour toi et moi."
 msgstr ""
+"Когда проблема с {{noriko.n}} будет решена, я попробую выделить время на "
+"тебя."
 
 #: game/story/home_asami_exterior.dialogue
 msgctxt "home_asami_exterior_1ac6a598"
