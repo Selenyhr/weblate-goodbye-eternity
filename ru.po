@@ -110,7 +110,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
-"PO-Revision-Date: 2024-04-20 23:40+0000\n"
+"PO-Revision-Date: 2024-04-20 23:48+0000\n"
 "Last-Translator: Aleksandr <aleksandr-tugai@mail.ru>\n"
 "Language-Team: Russian <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/ru/>\n"
@@ -26528,7 +26528,7 @@ msgstr "Ты в порядке, {{saito.n}}?"
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_a0685e03"
 msgid "Ma mere m'a racontée ce qu'il s'était passé hier soir devant le konbini."
-msgstr ""
+msgstr "Мама рассказала, что произошло вчера вечером перед конбини."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_60a4cdce"
@@ -26553,7 +26553,7 @@ msgstr ""
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_fe7f2a05"
 msgid "Dans ce cas-là je suis immortel !"
-msgstr ""
+msgstr "В таком случае я и вовсе бессмертен!"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_1c2fd513"
@@ -26633,37 +26633,39 @@ msgstr ""
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_dc66bd01"
 msgid "Il ne reste qu'à trouver le dernier de ces trois idiots."
-msgstr ""
+msgstr "Осталось только найти последнего из этих трёх идиотов."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_556dd5b6"
 msgid "Inutile je sais où ils sont, devant le dojo."
-msgstr ""
+msgstr "Нет необходимости. Я знаю, где они. Перед додзё."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_876a3018"
 msgid "Parfait, on va régler ça tout de suite."
-msgstr ""
+msgstr "Отлично! Давайте разберёмся с этим прямо сейчас."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_07d0b210"
 msgid "J'ai beau dire à {{yasuka.n}} qu'il n'arrivera rien à {{noriko.n}}. Tout ça ressemble étrangement à la situation de ma précédente vie."
 msgstr ""
+"Хоть я и сказал {{yasuka.n}}, что с {{noriko.n}} ничего не случится, но всё "
+"это напоминает мне ситуацию из моей прошлой жизни."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_2ee7939c"
 msgid "Est-ce que c'est cette ordure qui l'avait tuée ?"
-msgstr ""
+msgstr "Неужели этот ублюдок и был тем, кто её убил?"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_39351170"
 msgid "Si c'est le cas... Il doit être mis hors d'état de nuire...[w] définitivement."
-msgstr ""
+msgstr "Если это так... То с ним придётся покончить...[w] В прямом смысле."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_a69ff185"
 msgid "Mais est-ce que j'en serais capable...?"
-msgstr ""
+msgstr "Но смогу ли я это сделать?.."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_2afafce4"
@@ -26678,7 +26680,7 @@ msgstr ""
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_bc057949"
 msgid "Ohlala, je ne tiens plus en place !"
-msgstr ""
+msgstr "Уx ты! Я так взволнована!"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_37ef3729"
@@ -46269,6 +46271,8 @@ msgstr ""
 msgctxt "love_hotel_exterior_282138dd"
 msgid "Ah non ! Ça ne fonctionne pas comme ça, tu va devoir y mettre du tien sinon je ne marche plus."
 msgstr ""
+"Ох, нет! Так не пойдёт. Тебе придётся приложить немного усилий, иначе я "
+"ухожу."
 
 #: game/story/love_hotel_exterior.dialogue
 msgctxt "love_hotel_exterior_026e1a29"
@@ -46278,12 +46282,12 @@ msgstr ""
 #: game/story/love_hotel_exterior.dialogue
 msgctxt "love_hotel_exterior_241d2dc2"
 msgid "... D'accord j-"
-msgstr ""
+msgstr "...Хорошо, я-"
 
 #: game/story/love_hotel_exterior.dialogue
 msgctxt "love_hotel_exterior_cb0e5e00"
 msgid "Éloigne-toi de cette ordure {{noriko.n}} !"
-msgstr ""
+msgstr "Отойди от этой мрази, {{noriko.n}}!"
 
 #: game/story/love_hotel_exterior.dialogue
 msgctxt "love_hotel_exterior_4a1f7887"
@@ -46313,7 +46317,7 @@ msgstr ""
 #: game/story/love_hotel_exterior.dialogue
 msgctxt "love_hotel_exterior_3d7c6932"
 msgid "Attends-moi plus loin !"
-msgstr ""
+msgstr "Жди меня здесь!"
 
 #: game/story/love_hotel_exterior.dialogue
 msgctxt "love_hotel_exterior_eb7303af"
@@ -46333,7 +46337,7 @@ msgstr ""
 #: game/story/love_hotel_exterior.dialogue
 msgctxt "love_hotel_exterior_7e5f6a1e"
 msgid "Non... c'est toi qui ne comprends pas."
-msgstr ""
+msgstr "Нет... Ты просто ещё не понял."
 
 #: game/story/love_hotel_exterior.dialogue
 msgctxt "love_hotel_exterior_8cdce688"
@@ -57582,7 +57586,7 @@ msgstr "Простить"
 #: game/story/bus_stop.dialogue
 msgctxt "noriko_forgive_39fcfb45"
 msgid "{{noriko.n}}... Je suis désolé d'avoir été un \"grand frère...\" aussi pitoyable."
-msgstr ""
+msgstr "{{noriko.n}}... Прости, что я был таким жалким «старшим братом»..."
 
 #: game/story/bus_stop.dialogue
 msgctxt "noriko_forgive_9fc2f817"
@@ -57597,7 +57601,7 @@ msgstr ""
 #: game/story/bus_stop.dialogue
 msgctxt "noriko_forgive_7277dfa6"
 msgid "Et ce qui est fait est fait."
-msgstr ""
+msgstr "...Сделанного не воротишь."
 
 #: game/story/bus_stop.dialogue
 msgctxt "noriko_forgive_49002588"
