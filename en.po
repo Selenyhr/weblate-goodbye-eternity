@@ -113,7 +113,7 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-05-04 15:20+0200\n"
-"PO-Revision-Date: 2024-05-04 15:26+0200\n"
+"PO-Revision-Date: 2024-05-08 13:56+0200\n"
 "Last-Translator: Dev Team <info@teot-studio.com>\n"
 "Language-Team: Dev Team\n"
 "Language: en\n"
@@ -33567,7 +33567,7 @@ msgstr "Sorry. I almost forgot my manners."
 #: game/story/home_asami_exterior.dialogue
 msgctxt "home_asami_exterior_697791ce"
 msgid "Mon nom est [color=#55efc4]{{kimochi.get_character_name()}} Warui[/color]."
-msgstr "My name is [color=#55efc4]{{kimochi_name}} Warui[/color]."
+msgstr "My name is [color=#55efc4]{{kimochi.get_character_name()}} Warui[/color]."
 
 #: game/story/home_asami_exterior.dialogue
 msgctxt "home_asami_exterior_7124c56b"
@@ -60263,4 +60263,5 @@ msgstr "Dominate {{noriko.n}}."
 #~ msgctxt "character.sprite.group"
 #~ msgid "badge"
 #~ msgstr "Badge"
+
 
