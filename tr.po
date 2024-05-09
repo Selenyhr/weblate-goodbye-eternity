@@ -110,7 +110,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
-"PO-Revision-Date: 2024-04-28 13:37+0000\n"
+"PO-Revision-Date: 2024-05-10 01:28+0000\n"
 "Last-Translator: Dogancan Yılmazer <dogancanyilmazer46@gmail.com>\n"
 "Language-Team: Turkish <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/tr/>\n"
@@ -42879,7 +42879,8 @@ msgstr "Üzgünüm. Az kalsın terbiyemi unutuyordum."
 #: game/story/home_asami_exterior.dialogue
 msgctxt "home_asami_exterior_697791ce"
 msgid "Mon nom est [color=#55efc4]{{kimochi.get_character_name()}} Warui[/color]."
-msgstr "Benim adım [color=#55efc4]{{kimochi_name}}Warui[/color]."
+msgstr ""
+"Benim adım [color=#55efc4]{{kimochi.get_character_name()}} Warui[/color]."
 
 #: game/story/home_asami_exterior.dialogue
 msgctxt "home_asami_exterior_7124c56b"
@@ -59254,7 +59255,7 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "noriko_maledom_15"
-msgstr "[null]"
+msgstr "Git odanda {{asami.n}}'yi bul."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -61649,3 +61650,74 @@ msgstr "Konbini'nin iç mekanı"
 msgctxt "quests.hints"
 msgid "noriko_maledom_15_1_yc"
 msgstr "Daha fazla bilgi{{yasuka.n}} isteyin."
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "home_kenji_exterior"
+msgstr "{{kenji.n}} evi"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_649da96d"
+msgid "Quoi ?!"
+msgstr "Ne ?!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_4a1a069b"
+msgid "Oh putain !"
+msgstr "Ah kahretsin!"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "tb5178005b3"
+msgid "[next]"
+msgstr "[next]"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_a0055cf4"
+msgid "Retire-toi !"
+msgstr "Artık çekilin üzerimden!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_5d23f633"
+msgid "Oh bordel !"
+msgstr "Ah kahretsin!"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "home_nobu_exterior"
+msgstr "{{nobu.n}} evi"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "home_takeo_exterior"
+msgstr "{{takeo.n}} evi"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "ta2022aea9a"
+msgid "[next]"
+msgstr "[next]"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "t897902a32e"
+msgid "[next]"
+msgstr "[next]"
+
+#: game/story/home_player_livingroom.dialogue
+#: game/story/home_player_yasuka_room.dialogue
+msgctxt "t36d3400917"
+msgid "[next]"
+msgstr "[next]"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "taf4904b6c2"
+msgid "[next]"
+msgstr "[next]"
+
+#: game/story/restaurant_sakuya_room.dialogue
+msgctxt "td388651063"
+msgid "[next]"
+msgstr "[next]"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "t1a91fce443"
+msgid "[next]"
+msgstr "[next]"
