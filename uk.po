@@ -112,7 +112,7 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-07 19:57+0100\n"
-"PO-Revision-Date: 2024-05-01 16:37+0000\n"
+"PO-Revision-Date: 2024-05-09 15:05+0000\n"
 "Last-Translator: Veydzher <veydzherdgswift008@gmail.com>\n"
 "Language-Team: Ukrainian <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/uk/>\n"
@@ -41560,7 +41560,8 @@ msgstr "Вибачте, мало не забув про манери."
 #: game/story/home_asami_exterior.dialogue
 msgctxt "home_asami_exterior_697791ce"
 msgid "Mon nom est [color=#55efc4]{{kimochi.get_character_name()}} Warui[/color]."
-msgstr "Мене звуть [color=#55efc4]{{kimochi_name}} Варуй[/color]."
+msgstr ""
+"Мене звуть [color=#55efc4]{{kimochi.get_character_name()}} Варуй[/color]."
 
 #: game/story/home_asami_exterior.dialogue
 msgctxt "home_asami_exterior_7124c56b"
@@ -59431,3 +59432,23 @@ msgstr "Так"
 #: game/scenes/gui/game_menu/main.tscn
 msgid "Non"
 msgstr "Ні"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "home_kenji_exterior"
+msgstr "Дім {{kenji.n}}"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "home_nobu_exterior"
+msgstr "Дім {{nobu.n}}"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "home_takeo_exterior"
+msgstr "Дім {{takeo.n}}"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_649da96d"
+msgid "Quoi ?!"
+msgstr "Що?!"
