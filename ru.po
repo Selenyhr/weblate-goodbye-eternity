@@ -111,7 +111,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "PO-Revision-Date: 2024-05-10 01:28+0000\n"
-"Last-Translator: Иванов Станислав Сергеевич <Ivanovst4nist4v@yandex.ru>\n"
+"Last-Translator: Aleksandr <aleksandr-tugai@mail.ru>\n"
 "Language-Team: Russian <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/ru/>\n"
 "Language: ru\n"
@@ -62610,3 +62610,119 @@ msgstr "Патроны"
 msgctxt "quests.hints"
 msgid "main_43_asami_love_corruption"
 msgstr "Пора спать, с завтрашнего дня я начинаю работать в ресторане."
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "home_kenji_exterior"
+msgstr "Дом {{kenji.n}}"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_0d32894d"
+msgid "Alors tu penses toujours que je ne vais pas le faire ?"
+msgstr "До сих пор думаешь, что я не сделаю этого?"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_649da96d"
+msgid "Quoi ?!"
+msgstr "Что?!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_969d36df"
+msgid "Tu sais, tu n'es pas obligée de retenir ta voix."
+msgstr "Знаешь, тебе не обязательно сдерживать свой голос..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_4a1a069b"
+msgid "Oh putain !"
+msgstr "Ох, ебать!"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "tb5178005b3"
+msgid "[next]"
+msgstr "[next]"
+
+#: game/story/home_player_livingroom.dialogue
+#: game/story/home_player_yasuka_room.dialogue
+msgctxt "t36d3400917"
+msgid "[next]"
+msgstr "[next]"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "home_nobu_exterior"
+msgstr "Дом {{nobu.n}}"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "home_takeo_exterior"
+msgstr "Дом {{takeo.n}}"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "ta2022aea9a"
+msgid "[next]"
+msgstr "[next]"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "t897902a32e"
+msgid "[next]"
+msgstr "[next]"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "taf4904b6c2"
+msgid "[next]"
+msgstr "[next]"
+
+#: game/story/restaurant_sakuya_room.dialogue
+msgctxt "td388651063"
+msgid "[next]"
+msgstr "[next]"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "t1a91fce443"
+msgid "[next]"
+msgstr "[next]"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_a0055cf4"
+msgid "Retire-toi !"
+msgstr "Теперь отвали от меня!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_027ebe58"
+msgid "Non, aucune chance, t'auras pas le cran !"
+msgstr "Без сомнений! У тебя кишка тонка!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_49458075"
+msgid "... Non tu as raison, je ne vais pas la mettre."
+msgstr "...Ты права, я не собираюсь его вставлять."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_25230ebd"
+msgid "NON ! Mets-la ! Mets-la moi !"
+msgstr "НЕТ! Вставляй! Вставь его в меня!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_324d2d97"
+msgid "... et le mot magique ?"
+msgstr "...А волшебное слово?"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_1003269d"
+msgid "Mets-la moi s'il te plaît..."
+msgstr "Вставь его в меня... Пожалуйста..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_8c56b39f"
+msgid "... eh bien voilà !"
+msgstr "Тогда приступим!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_2fe49844"
+msgid "Mhhh... mhhh"
+msgstr "Хммм... Хммм..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_9d53056b"
+msgid "Si tu apprécies, lâche-toi !"
+msgstr "Если тебе нравится, просто дай ему волю!"
