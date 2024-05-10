@@ -110,8 +110,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
-"PO-Revision-Date: 2024-05-10 01:29+0000\n"
-"Last-Translator: Александр <st.manki@yandex.ru>\n"
+"PO-Revision-Date: 2024-05-10 11:56+0000\n"
+"Last-Translator: Иванов Станислав Сергеевич <Ivanovst4nist4v@yandex.ru>\n"
 "Language-Team: Russian <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/ru/>\n"
 "Language: ru\n"
@@ -42869,7 +42869,7 @@ msgstr "Ах, прошу простить мои грубые манеры."
 #: game/story/home_asami_exterior.dialogue
 msgctxt "home_asami_exterior_697791ce"
 msgid "Mon nom est [color=#55efc4]{{kimochi.get_character_name()}} Warui[/color]."
-msgstr "Аз есмь [color=#55efc4]{{kimochi_name}} Варуй[/color]"
+msgstr "Аз есмь [color=#55efc4]{{kimochi.get_character_name()}} Варуй[/color]."
 
 #: game/story/home_asami_exterior.dialogue
 msgctxt "home_asami_exterior_7124c56b"
@@ -59227,7 +59227,7 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "noriko_maledom_15"
-msgstr "[null]"
+msgstr "Поговорите с {{asami.n}} в своей комнате."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -62212,7 +62212,7 @@ msgstr "Я ... Бля, это так приятно!"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_41_asami_love_corruption"
-msgstr "Встретиться с {{asami.n}} в парке, чтобы сообщить плохие новости."
+msgstr "Встреться с {{asami.n}} в парке, чтобы рассказать плохие новости."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_14b8c502"
@@ -62726,3 +62726,16 @@ msgstr "Хммм... Хммм..."
 msgctxt "talk_noriko_9d53056b"
 msgid "Si tu apprécies, lâche-toi !"
 msgstr "Если тебе нравится, просто дай ему волю!"
+
+msgctxt "preferences.variable"
+msgid "character_pulse"
+msgstr "Пульсация спрайтов"
+
+#: game/scenes/locations/canal.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "AsamiLay"
+msgstr "{{asami.n}} (лежит)"
+
+#: game/scenes/gui/gui_end_version.tscn
+msgid "Arrières-plans"
+msgstr "Задний фон"
