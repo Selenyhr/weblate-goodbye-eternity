@@ -111,7 +111,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "PO-Revision-Date: 2024-05-10 11:56+0000\n"
-"Last-Translator: Иванов Станислав Сергеевич <Ivanovst4nist4v@yandex.ru>\n"
+"Last-Translator: Александр <st.manki@yandex.ru>\n"
 "Language-Team: Russian <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/ru/>\n"
 "Language: ru\n"
@@ -62739,3 +62739,15 @@ msgstr "{{asami.n}} (лежит)"
 #: game/scenes/gui/gui_end_version.tscn
 msgid "Arrières-plans"
 msgstr "Задний фон"
+
+msgctxt "preferences.variable.display_mode"
+msgid "Borderless Fullscreen:2"
+msgstr "Полноэкранный режим без полей"
+
+#: game/scenes/gui/game_menu/galleries/sprites.tscn
+msgid "ATTRIBUTE"
+msgstr "АТРИБУТЫ"
+
+#: game/scenes/gui/game_menu/galleries/sprites.tscn
+msgid "ATTRIBUTE GROUP"
+msgstr "ГРУППА АТРИБУТОВ"
