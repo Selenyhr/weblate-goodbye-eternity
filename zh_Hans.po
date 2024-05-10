@@ -112,8 +112,8 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-07 19:57+0100\n"
-"PO-Revision-Date: 2024-01-19 08:37+0000\n"
-"Last-Translator: WangYu <joestblack@gmail.com>\n"
+"PO-Revision-Date: 2024-05-12 02:37+0000\n"
+"Last-Translator: DayBat <870354653@qq.com>\n"
 "Language-Team: Chinese (Simplified) <https://translations.teot-studio.com/"
 "projects/goodbye-eternity/game-translation/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -41524,7 +41524,7 @@ msgstr "抱歉。我差点忘了自我介绍。"
 msgctxt "home_asami_exterior_697791ce"
 msgid "Mon nom est [color=#55efc4]{{kimochi.get_character_name()}} Warui[/color]."
 msgstr ""
-"我叫[color=#55efc4]{{kimochi_name}}歪叻[/color]\n"
+"我叫[color=#55efc4]{{kimochi.get_character_name()}}歪叻[/color]\n"
 "\n"
 "PS：日文读音对应为，気持ち悪い，即实际意义“真恶心”。"
 
@@ -56616,7 +56616,7 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "noriko_maledom_15"
-msgstr "[null]"
+msgstr "在你房间里和{{asami.n}}交谈。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -59410,3 +59410,204 @@ msgstr "内疚"
 msgctxt "character.sprite.attribute"
 msgid "excited"
 msgstr "兴奋"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "macumba_asami_1"
+msgstr "如果我想恢复身材，就必须继续训练。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "macumba_asami_2"
+msgstr "如果我想恢复身材，就必须继续训练。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "macumba_asami_3"
+msgstr "如果我想恢复身材，就必须继续训练。"
+
+#: game/scenes/gui/game_menu/galleries/movies.tscn
+msgctxt "galleries.movies.hints"
+msgid "Faire chanter {{noriko.n}}."
+msgstr "勒索{{noriko.n}}。"
+
+#: game/scenes/gui/game_menu/galleries/movies.tscn
+msgctxt "galleries.movies.hints"
+msgid "Ne pas rejeter {{noriko.n}}."
+msgstr "不要拒绝{{noriko.n}}。"
+
+#: game/scenes/gui/game_menu/galleries/movies.tscn
+msgctxt "galleries.movies.attribute"
+msgid "behind"
+msgstr "看后面"
+
+#: game/scenes/gui/game_menu/galleries/movies.tscn
+msgctxt "galleries.movies.attribute"
+msgid "akira"
+msgstr "和{{akira.n}}一起"
+
+#: game/scenes/gui/game_menu/galleries/movies.tscn
+msgctxt "galleries.movies.hints"
+msgid "Choisir de dominer {{noriko.n}}."
+msgstr "支配{{noriko.n}}。"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_649da96d"
+msgid "Quoi ?!"
+msgstr "什么？！"
+
+#: game/scenes/gui/game_menu/galleries/movies.tscn
+msgctxt "galleries.movies.hints"
+msgid "Suivre l'histoire d'{{asami.n}}."
+msgstr "跟随{{asami.n}}的故事。"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_4a1a069b"
+msgid "Oh putain !"
+msgstr "他妈的！"
+
+#: game/scenes/gui/game_menu/galleries/movies.tscn
+msgctxt "galleries.movies.hints"
+msgid "Suivre l'histoire de {{sakuya.n}}."
+msgstr "跟随{{sakuya.n}}的故事。"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "tb5178005b3"
+msgid "[next]"
+msgstr "[next]"
+
+#: game/scenes/gui/game_menu/galleries/movies.tscn
+msgctxt "galleries.movies.hints"
+msgid "Suivre l'histoire de {{yasuka.n}}."
+msgstr "跟随{{yasuka.n}}的故事。"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "ta2022aea9a"
+msgid "[next]"
+msgstr "[next]"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "t897902a32e"
+msgid "[next]"
+msgstr "[next]"
+
+#: game/story/home_player_livingroom.dialogue
+#: game/story/home_player_yasuka_room.dialogue
+msgctxt "t36d3400917"
+msgid "[next]"
+msgstr "[next]"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "taf4904b6c2"
+msgid "[next]"
+msgstr "[next]"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_82186b9e"
+msgid "Je m'en fiche !"
+msgstr "我不在乎！"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_14b8c502"
+msgid "Wow doucement..."
+msgstr "哇哦，冷静一点……"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_a6d5d579"
+msgid "... m'en fiche !"
+msgstr "……别在意！"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_51d1b869"
+msgid "Dis... Tu crois qu'on pourrait... essayer... ça ?"
+msgstr "嘿……你觉得我们可以……试试……那个吗？"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "ta9dac06012"
+msgid "Vous avez gagné {{money_got_master}}¥."
+msgstr "你赚了{{money_got_master}}円。"
+
+#: game/story/bus_stop.dialogue
+msgctxt "tf8a78cb4aa"
+msgid "Pardonner."
+msgstr "原谅。"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_0d32894d"
+msgid "Alors tu penses toujours que je ne vais pas le faire ?"
+msgstr "你还是认为我不会做吗？"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "home_kenji_exterior"
+msgstr "{{kenji.n}}家"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "home_nobu_exterior"
+msgstr "{{nobu.n}}家"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "home_takeo_exterior"
+msgstr "{{takeo.n}}家"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_616c661b"
+msgid "{{yasuka.n}} pourrait rentrer à tout moment !"
+msgstr "{{yasuka.n}}随时都可能回来！"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_11b72ba3"
+msgid "Je... ça fait longtemps... peut-être qu'il faudrait que..."
+msgstr "我……这已经有一段时间了……也许我们应该……"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_3e50ca57"
+msgid "Qu'on arrête ?"
+msgstr "停下？"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_1ca04ffe"
+msgid "Mais j'ai pas envie !"
+msgstr "我可不想！"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_f2773e9a"
+msgid "Aaaah... aaaah"
+msgstr "啊啊……啊啊"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_b3b34de5"
+msgid "Ne t'arrête pas !"
+msgstr "不要停！"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_f946afbe"
+msgid "Oh mon dieu c'est trop bon !"
+msgstr "哦天啊，这太棒了！"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_c9a4bcd3"
+msgid "Tu veux dire..."
+msgstr "你是说……"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_f01df574"
+msgid "Okay !"
+msgstr "好啊！"
+
+#: game/story/restaurant_sakuya_room.dialogue
+msgctxt "td388651063"
+msgid "[next]"
+msgstr "[next]"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "t1a91fce443"
+msgid "[next]"
+msgstr "[next]"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_5d23f633"
+msgid "Oh bordel !"
+msgstr "操！"
