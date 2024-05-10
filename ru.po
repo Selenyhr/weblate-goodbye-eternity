@@ -111,7 +111,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "PO-Revision-Date: 2024-05-10 01:28+0000\n"
-"Last-Translator: Александр <st.manki@yandex.ru>\n"
+"Last-Translator: Иванов Станислав Сергеевич <Ivanovst4nist4v@yandex.ru>\n"
 "Language-Team: Russian <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/ru/>\n"
 "Language: ru\n"
@@ -62113,3 +62113,500 @@ msgstr "Еще один дерьмовый день... Я, пожалуй, по�
 msgctxt "quests.hints"
 msgid "macumba_asami_3"
 msgstr "Я должен продолжать тренироваться, если хочу вернуться в форму."
+
+#: game/scenes/locations/hostess_club_interior.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "MacumbaGuard"
+msgstr "{{macumba.n}} (охраняет)"
+
+#: game/scenes/locations/park.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "NatsumeWalk"
+msgstr "{{natsume.n}} (гуляет)"
+
+#: game/scenes/locations/park.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "AsamiWalkDress"
+msgstr "{{asami.n}} (гуляет, платье)"
+
+#: game/scenes/locations/park.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "AsamiWalkSexy"
+msgstr "{{asami.n}} (гуляет, сексуальный)"
+
+#: game/scenes/locations/restaurant_interior.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "SakuyaClean"
+msgstr "{{sakuya.n}} (убирается)"
+
+#: game/scenes/gui/game_menu/galleries/movies.tscn
+msgctxt "galleries.movies.hints"
+msgid "Suivre l'histoire d'{{asami.n}}."
+msgstr "Следуйте по пути {{asami.n}}."
+
+#: game/scenes/gui/game_menu/galleries/movies.tscn
+msgctxt "galleries.movies.hints"
+msgid "Corrompre {{asami.n}}."
+msgstr "Развращение {{asami.n}}."
+
+#: game/scenes/gui/game_menu/galleries/movies.tscn
+msgctxt "galleries.movies.hints"
+msgid "Laisser travailler {{yasuka.n}} comme hôtesse."
+msgstr "Пусть {{yasuka.n}} работает хостес."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_82186b9e"
+msgid "Je m'en fiche !"
+msgstr "Мне плевать!"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_616c661b"
+msgid "{{yasuka.n}} pourrait rentrer à tout moment !"
+msgstr "{{yasuka.n}} может вернуться в любой момент!"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_51d1b869"
+msgid "Dis... Tu crois qu'on pourrait... essayer... ça ?"
+msgstr "Эй...как думаешь...мы можем попробовать...это?"
+
+#: game/story/bus_stop.dialogue
+msgctxt "tf8a78cb4aa"
+msgid "Pardonner."
+msgstr "Простить."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_f7320604"
+msgid "Tu as raison, je peux y mettre plus de force."
+msgstr "Ты права, нужно ещё ускориться."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_2492d629"
+msgid "Alors tu comptes la rentrer, ou il faut demander de l'aide ?"
+msgstr "Ты собираешься вставить его, или мне позвать кого-нибудь на помощь?"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_22a349d1"
+msgid "... Je... Je veux pas demander quelque chose d'aussi gênant."
+msgstr "...Я... Я не хочу просить о чем-то настолько неловком."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_e8414074"
+msgid "Shhhhht ! Arrête de réfléchir et pousse plus fort !"
+msgstr "ТССС! Хватит думать, и просто продолжай!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_e71b20ff"
+msgid "Je ne veux pas faire ça ici... h"
+msgstr "Я не хочу делать это здесь..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_a1c5c607"
+msgid "Satisfaite ?"
+msgstr "Довольна?"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_a5fbaab1"
+msgid "Je.... Putain c'est trop bon !"
+msgstr "Я ... Бля, это так приятно!"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_41_asami_love_corruption"
+msgstr "Встреться с {{asami.n}} в парке, чтобы рассказать плохие новости."
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_14b8c502"
+msgid "Wow doucement..."
+msgstr "Воу, успокойся..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_a9ff1c9a"
+msgid ""
+"Ta mère peut nous rejoindre si tu veux verux, ça ne me dérange pas du tout !"
+msgstr ""
+"Твоя мать может присоединиться к нам, если захочет. Это меня не беспокоит!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_5efecf68"
+msgid "... Tu peux refaire comme hier ?"
+msgstr "...Можешь сделать так, как вчера?"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_09ca2f4b"
+msgid "Continue de te plaindre et je te laisse en plan !"
+msgstr "Если ты продолжишь жаловаться, я остановлюсь!"
+
+#: game/scenes/gui/game_menu/galleries/movies.tscn
+msgctxt "galleries.movies.hints"
+msgid "Ne pas rejeter {{noriko.n}}."
+msgstr "Не отвергать {{noriko.n}}."
+
+#: game/scenes/gui/game_menu/galleries/movies_visualisation.tscn
+msgid "Anal"
+msgstr "Анал"
+
+#: game/scenes/gui/game_menu/galleries/sprites.tscn
+msgctxt "game_menu.crumbs.galleries"
+msgid "PERSONNAGES"
+msgstr "ПЕРСОНАЖИ"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_5d23f633"
+msgid "Oh bordel !"
+msgstr "Ох блять!"
+
+#: game/scenes/gui/game_menu/galleries/backgrounds.tscn
+msgctxt "game_menu.crumbs.galleries"
+msgid "ARRIÈRES-PLANS"
+msgstr "ЗАДНИЙ ФОН"
+
+#: game/scripts/gui/menu/game_menu.gd
+msgctxt "confirm"
+msgid "Voulez-vous continuer ?"
+msgstr "Хочешь продолжить?"
+
+#: game/scenes/gui/game_menu/save_button_template.tscn
+#: game/scripts/gui/menu/save_button_template.gd
+msgctxt "saves.button.invalid"
+msgid "Sauvegarde invalide."
+msgstr "Недопустимое сохранение."
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_b6558012"
+msgid "Mmhhh laisse-moi faire... mhhhhh mhhh"
+msgstr "Ммхххх позволь мне вести... Хммм хмммм"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_a6d5d579"
+msgid "... m'en fiche !"
+msgstr "...Похуй!"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_11b72ba3"
+msgid "Je... ça fait longtemps... peut-être qu'il faudrait que..."
+msgstr "О... Она ушла уже довольно давно... Может нам следует..."
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_3e50ca57"
+msgid "Qu'on arrête ?"
+msgstr "Остановиться?"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_1ca04ffe"
+msgid "Mais j'ai pas envie !"
+msgstr "Я не хочу!"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_b883ebf2"
+msgid "Ça tombe bien moi non plus."
+msgstr "Отлично, я тоже."
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_f2773e9a"
+msgid "Aaaah... aaaah"
+msgstr "Ааххх... ахххх"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_b3b34de5"
+msgid "Ne t'arrête pas !"
+msgstr "Не останавливайся!"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_5609c0c6"
+msgid "Mmmmmh ouiiii !"
+msgstr "Хмммм даааа!"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_f946afbe"
+msgid "Oh mon dieu c'est trop bon !"
+msgstr "О боже, это так приятно!"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_c9a4bcd3"
+msgid "Tu veux dire..."
+msgstr "Ты имеешь в виду..."
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_5ead300c"
+msgid "{{asami.n}} m'a dit que c'était pas si mal au final..."
+msgstr "{{asami.n}} сказала, что это не так больно, как об этом говорят..."
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_f01df574"
+msgid "Okay !"
+msgstr "Хорошо!"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_2b66c7c0"
+msgid "Oh la vache c'est..."
+msgstr "О боже... это..."
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_216311fa"
+msgid "C'est..."
+msgstr "Это..."
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_ffa56726"
+msgid "Surprenant..."
+msgstr "Так необычно..."
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "ta9dac06012"
+msgid "Vous avez gagné {{money_got_master}}¥."
+msgstr "Вы заработали ¥{{money_got_master}}."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_f65a964f"
+msgid "Y'a aucun moyen qu... que... ça me... fasse du... bien !"
+msgstr "Не может быть, чтобы это было... так хорошо!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_1cbfbee9"
+msgid "Très bien, augmentons la cadence alors !"
+msgstr "Хорошо, тогда давай ускоримся!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_0b0667c1"
+msgid "Mmhhhh... mhhh... aaah..."
+msgstr "Хммм... хммм... ааах..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_1a0711b1"
+msgid "Toujours aussi fière ?"
+msgstr "Все еще такая гордая?"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_38862f98"
+msgid "Non... Je... C'est..."
+msgstr "Нет... Просто..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_35b49e60"
+msgid "Quoi ?! Non... Je suis déjà..."
+msgstr "Что?! Нет...Я уже..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_282cef29"
+msgid "Aaaah aaaah aaaah... Oui !"
+msgstr "Ааах, ааах, аааа... Да!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_67c85a93"
+msgid "Beaucoup mieux ![w] Je te préfère quand tu es honnête avec toi-même..."
+msgstr "Так-то лучше![w] Мне нравится, когда ты честна с собой..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_5468a594"
+msgid "Oui pardon, ne t'arrête pas !"
+msgstr "Да, мне жаль. Пожалуйста, не останавливайся!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_04cebda8"
+msgid "Mmhh Ouiiii !"
+msgstr "Хммм Даааааааа!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_e15dd9fd"
+msgid "Hannn hannn..."
+msgstr "Ха-ха-ха..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_5431b506"
+msgid "Al-"
+msgstr "Ну-"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_7caf2eae"
+msgid "Il me semble que c'est ce que tu veux... Demande-le moi poliment !"
+msgstr "Кажется, это то, чего ты хочешь... Так что попроси меня вежливо!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_34033223"
+msgid "Dans ce cas, on peut rester longtemps comme ça !"
+msgstr "В таком случае у меня есть целый день, чтобы тебя дождаться!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_d742e1c3"
+msgid "Mais...[w] D'accord...[w] Mets... Mets-la en moi[w] s'il te plaît."
+msgstr "Но...[w]хорошо... [w]Вставь... Вставь его в меня,[w] пожалуйста."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_0c2c5f65"
+msgid "Mmhhh ouiii !"
+msgstr "Хмммм даааа!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_171cb176"
+msgid "... J'ai jamais vu une fille aussi dérangée que toi !"
+msgstr "Я никогда не видел девушку более ненормальную, чем ты!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_d8e7dd6c"
+msgid "Je comprends vraiment pas t-"
+msgstr "Я не понимаю т-"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_a5b84aaa"
+msgid "Oui c'est... doucement... doucement je..."
+msgstr "Да просто... будь... будь нежнее..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_eae959f1"
+msgid "Désolé je n'entends pas un mot."
+msgstr "Прости, я ничего не понял."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_14556aeb"
+msgid "Aaaah... aaah... ahhh..."
+msgstr "Ахххх....ааахххх...ааааахх..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_ecb7c0fd"
+msgid "Allez ! Arrête de vouloir me faire attendre..."
+msgstr "Давай же! Хватит заставлять меня ждать..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_b11d758e"
+msgid "Je ne sais pas trop... J'hésite..."
+msgstr "Я не знаю... Что я должна сделать..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_94c337ae"
+msgid "Allez !"
+msgstr "Давай!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_ef2a085b"
+msgid "Je peux !"
+msgstr "Конечно!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_f3e074df"
+msgid "Mmh c'est... encore mieux !"
+msgstr "Хмммммм, да... Так даже лучше!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_1f956caa"
+msgid "Alors accroche-toi, je vais commencer à aller plus vite !"
+msgstr "Готовься, я собираюсь ускориться!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_5efa119c"
+msgid "Quoi !? Non je suis pas encore..."
+msgstr "Что?! Нет, я не го-"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_dbcd1650"
+msgid "Aaaah aaahh aaah"
+msgstr "Аххххх аааахххххх ахххх"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_abd71e16"
+msgid "Plus vite, plus vite !"
+msgstr "Быстрее, быстрее!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_d12ab627"
+msgid "Et c'est encore que le début !"
+msgstr "А ведь мы только начали!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_c5456ce7"
+msgid "Prends-moi en levrette par derrière !"
+msgstr "А теперь возьми меня сзади!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_b485483d"
+msgid "Je veux tout essayer !"
+msgstr "Я хочу попробовать всё!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_2c06a353"
+msgid "Ohlàlà oui !"
+msgstr "О боже... ДА!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_4023c988"
+msgid "Plus vite, plus vite bordel !"
+msgstr "Быстрее, быстрее, черт возьми!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_115596c5"
+msgid "Non ! Non ! Pardon !"
+msgstr "Нет! Нет! Мне жаль!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_33622361"
+msgid "Je te promets que je serai obéissante à présent !"
+msgstr "Обещаю, что буду хорошей девочкой!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_e6268444"
+msgid "À la bonne heure !"
+msgstr "Как раз вовремя!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_8fd956b7"
+msgid "Oh putain ouiiii, moi aussi je vais t'appeler mon petit poney !"
+msgstr "Оооо, да, блять! Теперь я тоже буду звать тебя маленький пони!"
+
+#: game/scenes/gui/game_menu/galleries/music.tscn
+msgctxt "game_menu.crumbs.galleries"
+msgid "MUSIQUES"
+msgstr "МУЗЫКА"
+
+#: game/scenes/gui/game_menu/galleries/movies.tscn
+msgctxt "game_menu.crumbs.galleries"
+msgid "ANIMATIONS"
+msgstr "АНИМАЦИИ"
+
+#: game/scenes/gui/game_menu/rename.tscn
+msgctxt "game_menu.crumbs"
+msgid "RENOMMER"
+msgstr "ПЕРЕИМЕНОВАТЬ"
+
+#: game/scenes/gui/game_menu/thanks.tscn
+msgctxt "game_menu.crumbs"
+msgid "REMERCIEMENTS"
+msgstr "СПАСИБО"
+
+#: game/scenes/gui/game_menu/preferences.tscn
+msgctxt "preferences.unit.skip_frame_delay"
+msgid "frame(s)"
+msgstr "frame(s)"
+
+#: game/scripts/gui/menu/game_menu.gd
+msgctxt "confirm"
+msgid "Voulez-vous quitter ?"
+msgstr "Хотите выйти?"
+
+#: game/scripts/gui/menu/game_menu.gd
+msgctxt "confirm"
+msgid "Voulez-vous revenir au menu principal ?"
+msgstr "Хотите вернуться в главное меню?"
+
+#: game/scenes/gui/game_menu/rename.tscn game/scenes/gui/rename.tscn
+msgid "Nom par défaut"
+msgstr "Имя по умолчанию"
+
+#: game/scenes/gui/game_menu/rename.tscn game/scenes/gui/rename.tscn
+msgid "Indiquez votre nom :"
+msgstr "Введите своё имя:"
+
+#: game/scenes/gui/game_menu/thanks.tscn
+msgid "Informations légales"
+msgstr "Юридическая информация"
+
+#: game/scenes/gui/game_menu/thanks.tscn
+msgid "Dialogue Manager"
+msgstr "Менеджер Диалогов"
+
+#: game/scenes/gui/game_menu/thanks.tscn
+msgid "Mécènes"
+msgstr "Патроны"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_43_asami_love_corruption"
+msgstr "Пора спать, с завтрашнего дня я начинаю работать в ресторане."
