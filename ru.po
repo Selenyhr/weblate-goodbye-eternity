@@ -110,8 +110,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
-"PO-Revision-Date: 2024-05-13 18:21+0000\n"
-"Last-Translator: Иванов Станислав Сергеевич <Ivanovst4nist4v@yandex.ru>\n"
+"PO-Revision-Date: 2024-05-14 16:25+0000\n"
+"Last-Translator: Development team <info@teot-studio.com>\n"
 "Language-Team: Russian <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/ru/>\n"
 "Language: ru\n"
@@ -61726,11 +61726,13 @@ msgid "YasukaBarista"
 msgstr "{{yasuka.n}} (бариста)"
 
 #: game/scenes/locations/home_asami_asami_room.tscn
+#, fuzzy
 msgctxt "galleries.backgrounds.sprite"
 msgid "AsamiSitEveryday"
 msgstr "{{asami.n}} (сидит, в обычной одежде)"
 
 #: game/scenes/locations/home_asami_asami_room.tscn
+#, fuzzy
 msgctxt "galleries.backgrounds.sprite"
 msgid "AsamiSitSexy"
 msgstr "{{asami.n}} (сидит, сексуальная одежда)"
@@ -61802,6 +61804,7 @@ msgid "NorikoSitting"
 msgstr "{{noriko.n}} (сидит)"
 
 #: game/scenes/locations/home_player_saito_room.tscn
+#, fuzzy
 msgctxt "galleries.backgrounds.sprite"
 msgid "AsamiDreamcastSexy"
 msgstr "{{asami.n}} (Дримкаст, сексуальная одежда)"
@@ -61975,6 +61978,7 @@ msgid "Walkman"
 msgstr "Плеер"
 
 #: game/scenes/locations/home_player_saito_room.tscn
+#, fuzzy
 msgctxt "galleries.backgrounds.sprite"
 msgid "AsamiDreamcastEveryday"
 msgstr "{{asami.n}} (Дримкаст, обычная одежда)"
