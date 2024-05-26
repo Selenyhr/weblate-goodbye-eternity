@@ -112,7 +112,7 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-07 19:57+0100\n"
-"PO-Revision-Date: 2024-05-08 13:37+0000\n"
+"PO-Revision-Date: 2024-05-27 17:17+0000\n"
 "Last-Translator: Roger Miró <puniasterus@gmail.com>\n"
 "Language-Team: Spanish <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/es/>\n"
@@ -41740,7 +41740,7 @@ msgstr "Lo siento. Casi olvido mis modales."
 #: game/story/home_asami_exterior.dialogue
 msgctxt "home_asami_exterior_697791ce"
 msgid "Mon nom est [color=#55efc4]{{kimochi.get_character_name()}} Warui[/color]."
-msgstr "Me llamo [color=#55efc4]{{kimochi_name}} Warui[/color]."
+msgstr "Me llamo [color=#55efc4]{{kimochi.get_character_name()}} Warui[/color]."
 
 #: game/story/home_asami_exterior.dialogue
 msgctxt "home_asami_exterior_7124c56b"
@@ -57086,7 +57086,7 @@ msgstr "Vuelve a casa y busca una solución."
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "noriko_maledom_11"
-msgstr "Encuentra a {{asami.n}} en tu habitación."
+msgstr "Habla con {{asami.n}} en tu habitación."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -57106,7 +57106,7 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "noriko_maledom_15"
-msgstr "[null]"
+msgstr "Habla con {{asami.n}} en tu habitación."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -59916,3 +59916,104 @@ msgstr "Sí"
 #: game/scenes/gui/game_menu/main.tscn
 msgid "Non"
 msgstr "No"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_649da96d"
+msgid "Quoi ?!"
+msgstr "¡¿Qué?!"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_14b8c502"
+msgid "Wow doucement..."
+msgstr "Whoa, despacio..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_4a1a069b"
+msgid "Oh putain !"
+msgstr "¡Oh, mierda!"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_b6558012"
+msgid "Mmhhh laisse-moi faire... mhhhhh mhhh"
+msgstr "Mmhhh déjame hacerlo... mhhhhh mhhh"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_616c661b"
+msgid "{{yasuka.n}} pourrait rentrer à tout moment !"
+msgstr "¡{{yasuka.n}} podría volver en cualquier momento!"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "home_kenji_exterior"
+msgstr "Casa de {{kenji.n}}"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "home_nobu_exterior"
+msgstr "Casa de {{nobu.n}}"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "home_takeo_exterior"
+msgstr "Casa de {{takeo.n}}"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "tb5178005b3"
+msgid "[next]"
+msgstr "[next]"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "ta2022aea9a"
+msgid "[next]"
+msgstr "[next]"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "t897902a32e"
+msgid "[next]"
+msgstr "[next]"
+
+#: game/story/home_player_livingroom.dialogue
+#: game/story/home_player_yasuka_room.dialogue
+msgctxt "t36d3400917"
+msgid "[next]"
+msgstr "[next]"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "taf4904b6c2"
+msgid "[next]"
+msgstr "[next]"
+
+#: game/story/restaurant_sakuya_room.dialogue
+msgctxt "td388651063"
+msgid "[next]"
+msgstr "[next]"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "t1a91fce443"
+msgid "[next]"
+msgstr "[next]"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_a0055cf4"
+msgid "Retire-toi !"
+msgstr "¡Atrás!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_5d23f633"
+msgid "Oh bordel !"
+msgstr "¡Oh, mierda!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_82186b9e"
+msgid "Je m'en fiche !"
+msgstr "¡No me importa!"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_a6d5d579"
+msgid "... m'en fiche !"
+msgstr "...no me importa!"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_11b72ba3"
+msgid "Je... ça fait longtemps... peut-être qu'il faudrait que..."
+msgstr "Yo... ha pasado mucho tiempo... tal vez deberíamos..."
