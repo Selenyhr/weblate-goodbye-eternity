@@ -112,7 +112,7 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-07 19:57+0100\n"
-"PO-Revision-Date: 2024-05-22 10:37+0000\n"
+"PO-Revision-Date: 2024-05-27 17:17+0000\n"
 "Last-Translator: DayBat <870354653@qq.com>\n"
 "Language-Team: Chinese (Simplified) <https://translations.teot-studio.com/"
 "projects/goodbye-eternity/game-translation/zh_Hans/>\n"
@@ -60154,7 +60154,7 @@ msgstr "{{asami.n}} (躺着)"
 #: game/scenes/locations/canal.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "NatsumeLean"
-msgstr "{{natsume.n}} (学习)"
+msgstr "{{natsume.n}} (倚靠)"
 
 #: game/scenes/locations/home_player_noriko_room.tscn
 msgctxt "galleries.backgrounds.sprite"
@@ -60423,3 +60423,39 @@ msgstr "帧（秒）"
 msgctxt "galleries.backgrounds.sprite"
 msgid "light"
 msgstr "光"
+
+#: game/scenes/gui/game_menu/galleries/sprites.tscn
+msgid "ATTRIBUTE GROUP"
+msgstr "属性组"
+
+#: game/scenes/gui/game_menu/galleries/sprites.tscn
+msgid "ATTRIBUTE"
+msgstr "属性"
+
+#: game/scenes/gui/game_menu/galleries/music.tscn
+msgid "quotam."
+msgstr "配额。"
+
+#: game/scenes/gui/game_menu/galleries/music.tscn
+msgid "Finally Some Peace"
+msgstr "终于平静了"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_39_asami_love_corruption_chiaki_restaurant_exterior"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_39_asami_love_corruption_chiaki_dojo_exterior"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_39_asami_love_corruption_chiaki_park"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_39_asami_love_corruption_chiaki_home_player_exterior"
+msgstr "[null]"
