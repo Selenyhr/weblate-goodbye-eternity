@@ -112,7 +112,7 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-07 19:57+0100\n"
-"PO-Revision-Date: 2024-05-09 15:05+0000\n"
+"PO-Revision-Date: 2024-05-29 02:10+0000\n"
 "Last-Translator: Veydzher <veydzherdgswift008@gmail.com>\n"
 "Language-Team: Ukrainian <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/uk/>\n"
@@ -59452,3 +59452,94 @@ msgstr "Дім {{takeo.n}}"
 msgctxt "talk_noriko_649da96d"
 msgid "Quoi ?!"
 msgstr "Що?!"
+
+#: game/scenes/locations/home_asami_exterior.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "NetoruStand"
+msgstr "{{netoru.n}} (дверний дзвінок)"
+
+#: game/scenes/locations/home_asami_livingroom.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "SayuriCook"
+msgstr "{{sayuri.n}} (готує їжу)"
+
+#: game/scenes/locations/home_asami_livingroom.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "SayuriSit"
+msgstr "{{sayuri.n}} (сидить)"
+
+#: game/scenes/locations/home_kimochi_interior.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "KimochiSit"
+msgstr "{{kimochi.n}} (сидить)"
+
+#: game/scenes/locations/home_minato_exterior.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "Car"
+msgstr "Авто"
+
+#: game/scenes/locations/home_player_corridor.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "NorikoStand"
+msgstr "{{noriko.n}} (чекає)"
+
+#: game/scenes/locations/home_player_exterior.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "ChiakiCat"
+msgstr "{{chiaki.n}} (кішка)"
+
+#: game/scenes/locations/home_player_exterior.tscn
+#: game/scenes/locations/restaurant_sakuya_room.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "SakuyaStand"
+msgstr "{{sakuya.n}} (чекає)"
+
+#: game/scenes/locations/home_player_noriko_room.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "NorikoPC"
+msgstr "{{noriko.n}} (пк)"
+
+#: game/scenes/locations/home_player_noriko_room.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "NorikoLeanNude"
+msgstr "{{noriko.n}} (чекає, оголена)"
+
+#: game/scenes/locations/home_player_noriko_room.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "NorikoSleep"
+msgstr "{{noriko.n}} (спить)"
+
+#: game/scenes/locations/home_player_saito_room.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "Walkman"
+msgstr "Плеєр"
+
+#: game/scenes/locations/home_player_saito_room.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "Dumbbells"
+msgstr "Гантелі"
+
+#: game/scenes/locations/home_player_saito_room.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "NorikoSitting"
+msgstr "{{noriko.n}} (сидить)"
+
+#: game/scenes/locations/home_asami_asami_room.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "AsamiSitEveryday"
+msgstr "{{asami.n}} (сидить, нормальна)"
+
+#: game/scenes/locations/home_asami_asami_room.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "AsamiSitSexy"
+msgstr "{{asami.n}} (сидить, сексуальна)"
+
+#: game/scenes/locations/home_player_saito_room.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "AsamiDreamcastEveryday"
+msgstr "{{asami.n}} (Dreamcast, нормальна)"
+
+#: game/scenes/locations/home_player_livingroom.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "YasukaCoffee"
+msgstr "{{yasuka.n}} (кава)"
