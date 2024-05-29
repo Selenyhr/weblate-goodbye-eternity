@@ -113,7 +113,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-07 19:57+0100\n"
 "PO-Revision-Date: 2024-05-29 08:27+0000\n"
-"Last-Translator: Hoang Nhat Minh <hoangnhatminh19102007@gmail.com>\n"
+"Last-Translator: J <chicuonglieng309@gmail.com>\n"
 "Language-Team: Vietnamese <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/vi/>\n"
 "Language: vi\n"
@@ -22478,7 +22478,7 @@ msgstr "Không đi tập chạy được rồi. Thế thì có lẽ nên tới [
 #: game/story/home_player_exterior.dialogue
 msgctxt "home_player_exterior_58ce082b"
 msgid "Attends !"
-msgstr "{{saito.n}}!"
+msgstr "Chờ đã!"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "home_player_exterior_e0686807"
@@ -22533,7 +22533,9 @@ msgstr "Chắc là có đúng không? Thế thì đi làm đi, còn tao sẽ đi
 #: game/story/home_player_exterior.dialogue
 msgctxt "home_player_exterior_e246180e"
 msgid "Ne m'oblige pas à de venir violent {{noriko.n}}."
-msgstr "Mày biết gì không, khi mà mày im lặng như vậy, trông mày cũng đáng yêu đấy."
+msgstr ""
+"Mày biết gì không, khi mà mày im lặng như vậy, trông mày cũng đáng yêu đấy, "
+"{{noriko.n}} à."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "home_player_exterior_b2e38d4e"
@@ -61247,3 +61249,21 @@ msgstr "Màn Hình Cửa Sổ"
 msgctxt "preferences.variable.display_mode"
 msgid "Borderless Window:1"
 msgstr "Màn Hình Cửa Sổ Tràn Viền"
+
+msgctxt "preferences.subgroup"
+msgid "Hints"
+msgstr "Gợi ý"
+
+#: game/scenes/gui/game_menu/save_button_template.tscn
+#: game/scripts/gui/menu/save_button_template.gd
+msgctxt "saves.button.played_time_short"
+msgid "{minutes}m"
+msgstr "{minutes} phút"
+
+#: game/scenes/gui/game_menu/save_button_template.tscn
+msgid "Nom de sauvegarde"
+msgstr "Tên file lưu"
+
+#: game/scenes/gui/main_menu.tscn
+msgid "Galeries"
+msgstr "Thư viện ảnh"
