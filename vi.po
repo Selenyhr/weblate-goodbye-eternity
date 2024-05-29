@@ -113,7 +113,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-07 19:57+0100\n"
 "PO-Revision-Date: 2024-05-29 03:18+0000\n"
-"Last-Translator: Trong <trongtretrau1363@gmail.com>\n"
+"Last-Translator: J <chicuonglieng309@gmail.com>\n"
 "Language-Team: Vietnamese <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/vi/>\n"
 "Language: vi\n"
@@ -60276,3 +60276,21 @@ msgstr "Enum value"
 #: game/scenes/gui/game_menu/preferences.tscn
 msgid "Préférence bool"
 msgstr "Bool preference"
+
+#: game/scenes/gui/game_menu/main.tscn
+#: game/scenes/gui/game_menu/galleries/backgrounds_visualisation.tscn
+#: game/scenes/gui/game_menu/galleries/movies_visualisation.tscn
+msgid "RETOUR"
+msgstr "TRỞ VỀ"
+
+#: game/scenes/gui/game_menu/navigation.tscn
+msgid "MENU PRINCIPAL"
+msgstr "MÀN HÌNH CHÍNH"
+
+#: game/scenes/gui/game_menu/navigation.tscn
+msgid "QUITTER"
+msgstr "THOÁT"
+
+#: game/scenes/gui/game_menu/preferences.tscn
+msgid "50"
+msgstr "50"
