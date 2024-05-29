@@ -112,8 +112,8 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-07 19:57+0100\n"
-"PO-Revision-Date: 2024-05-29 03:21+0000\n"
-"Last-Translator: J <chicuonglieng309@gmail.com>\n"
+"PO-Revision-Date: 2024-05-29 03:23+0000\n"
+"Last-Translator: Hoang Nhat Minh <hoangnhatminh19102007@gmail.com>\n"
 "Language-Team: Vietnamese <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/vi/>\n"
 "Language: vi\n"
@@ -20144,7 +20144,7 @@ msgstr "Ý con là từ nay cô không cần phải làm việc cho lão già �
 #: game/story/home_player_livingroom.dialogue
 msgctxt "t1b7b873e40"
 msgid "Vous donnez les documents à {{yasuka.n}}."
-msgstr "Bạn đưa {{yasuka.n}} giấy tờ của quán cafe."
+msgstr "Bạn đưa {{yasuka.n}} giấy tờ đất đai của quán Café."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_d7ecbdb9"
@@ -20771,10 +20771,9 @@ msgid "Tu es si sérieux... Mais tu as raison. Je vais les mettre de côté."
 msgstr "Con đúng là trưởng thành thật rồi... Thôi được, vậy mẹ sẽ đút lợn đây nha."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "t4c0b35a2e2"
 msgid "Oh, c'est gentil, mais c'était pas nécessaire, tu sais."
-msgstr "Rất tốt, nhưng có cần thiết đâu."
+msgstr "Con ngoan quá đi, nhưng chẳng cần đâu mà."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_c6612f1f"
@@ -49498,12 +49497,12 @@ msgstr ""
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "taecfcdd87e"
 msgid "Discuter."
-msgstr ""
+msgstr "Nói chuyện"
 
 #: game/story/konbini_interior.dialogue
 msgctxt "t0f72f1767e"
 msgid "Discuter."
-msgstr ""
+msgstr "Nói chuyện"
 
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "yasuka_tenshiclub_2057b12c"
@@ -60308,3 +60307,26 @@ msgstr "A"
 #: game/scenes/gui/game_menu/saves.tscn
 msgid "<"
 msgstr "<"
+
+#: game/scenes/gui/game_menu/saves.tscn
+msgid ">"
+msgstr ">"
+
+#: game/scenes/gui/game_menu/saves.tscn
+msgid ">>"
+msgstr ">>"
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+#: game/scenes/gui/game_menu/galleries/movies.tscn
+msgid "TOUT"
+msgstr "TOÀN BỘ"
+
+#: game/scripts/gui/menu/game_menu.gd
+msgctxt "confirm"
+msgid "Voulez-vous continuer ?"
+msgstr "Bạn có muốn tiếp tục ?"
+
+#: game/scripts/gui/menu/game_menu.gd
+msgctxt "confirm"
+msgid "Voulez-vous quitter ?"
+msgstr "Bạn có muốn thoát Game ?"
