@@ -112,8 +112,8 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-07 19:57+0100\n"
-"PO-Revision-Date: 2024-05-29 03:18+0000\n"
-"Last-Translator: J <chicuonglieng309@gmail.com>\n"
+"PO-Revision-Date: 2024-05-29 03:21+0000\n"
+"Last-Translator: Hoang Nhat Minh <hoangnhatminh19102007@gmail.com>\n"
 "Language-Team: Vietnamese <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/vi/>\n"
 "Language: vi\n"
@@ -14961,7 +14961,6 @@ msgid "Je dois en avoir le cœur net !"
 msgstr "Mình cần phải hỏi cho chắc mới được!"
 
 #: game/story/home_player_bathroom.dialogue
-#, fuzzy
 msgctxt "home_player_bathroom_626857b3"
 msgid "Et voilà !"
 msgstr "Đây rồi!"
@@ -18664,9 +18663,7 @@ msgstr "{{yasuka.n}}, có vẻ như đây không phải là một ý tưởng ha
 #: game/story/home_player_livingroom.dialogue
 msgctxt "tbc542980bb"
 msgid "[hint=ROUTE CORRUPTION]Tu n'as pas à t'infliger ça, tu sais..."
-msgstr ""
-"[hint=CORRUPTION ROUTE]Cô không cần phải làm điều này với chính mình, cô "
-"biết đấy..."
+msgstr "[hint=CORRUPTION ROUTE]Cô không cần phải làm vậy đâu, cô biết mà..."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_06e8b429"
@@ -18736,7 +18733,7 @@ msgstr "Dạ vâng ạ. Chúc ngủ ngon, {{yasuka.n}}."
 #: game/story/home_player_livingroom.dialogue
 msgctxt "tfc4bf76365"
 msgid "[hint=ROUTE LOVE]Il est encore temps de changer d'avis."
-msgstr ""
+msgstr "[hint=LOVE ROUTE]Vẫn còn thời gian để quay đầu đó ạ."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_ae44d7a9"
@@ -18782,11 +18779,12 @@ msgstr "Hãy đi ngủ thôi cô. Để ngày mai ta còn chiến đấu tiếp.
 msgctxt "te09597d652"
 msgid "Je pense que je ne pourrai pas dormir seule ce soir, je peux dormir avec toi ?"
 msgstr ""
+"Chắc là tối nay ta không ngủ được một mình đâu. Ta ngủ cùng với con nhé ?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "tc9b99debc4"
 msgid "Je me dépêche de me changer et je te rejoins."
-msgstr ""
+msgstr "Để ta đi thay đồ nhanh thôi."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_4fee1293"
@@ -60294,3 +60292,11 @@ msgstr "THOÁT"
 #: game/scenes/gui/game_menu/preferences.tscn
 msgid "50"
 msgstr "50"
+
+#: game/scenes/gui/game_menu/saves.tscn
+msgid "Q"
+msgstr "Q"
+
+#: game/scenes/gui/game_menu/saves.tscn
+msgid "<<"
+msgstr "<<"
