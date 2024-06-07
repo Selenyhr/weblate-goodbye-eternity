@@ -112,7 +112,7 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-07 19:57+0100\n"
-"PO-Revision-Date: 2024-06-05 18:37+0000\n"
+"PO-Revision-Date: 2024-06-08 14:37+0000\n"
 "Last-Translator: Roger Miró <puniasterus@gmail.com>\n"
 "Language-Team: Spanish <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/es/>\n"
@@ -32522,7 +32522,7 @@ msgstr "¡Vamos, no me hagas esperar!"
 #: game/story/park.dialogue
 msgctxt "te97164ee86"
 msgid "Anal"
-msgstr "Anal."
+msgstr "Anal"
 
 #: game/story/park.dialogue
 msgctxt "sexe_with_asami_in_toilet_eb72c5be"
@@ -56889,7 +56889,7 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_40"
-msgstr "Necesito encontrar a {{chiaki.n}} lo antes posible."
+msgstr "Tengo que encontrar a {{chiaki.n}} lo antes posible."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -56899,7 +56899,7 @@ msgstr "Reúnete con {{asami.n}} en el parque para darle la mala noticia."
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_42"
-msgstr "Otro día de mierda... Mejor me voy a dormir."
+msgstr "Otro día de mierda, mejor me voy a dormir."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -59667,7 +59667,7 @@ msgstr "Filtro anisotrópico"
 #: game/scenes/gui/game_menu/galleries/images.tscn
 msgctxt "galleries.images.hints"
 msgid "Suivre l'histoire de {{sakuya.n}}."
-msgstr "Sigue la historia de {{sakuya.n}}."
+msgstr "Continua la historia de {{sakuya.n}}."
 
 #: game/scenes/gui/game_menu/galleries/images.tscn
 msgctxt "galleries.images.hints"
@@ -60317,3 +60317,656 @@ msgstr "¡Claro que sí!"
 msgctxt "menu_rejet_noriko_final_f3e074df"
 msgid "Mmh c'est... encore mieux !"
 msgstr "Mmh eso es... ¡incluso mejor!"
+
+msgctxt "preferences.variable.display_mode"
+msgid "Borderless Fullscreen:2"
+msgstr "Pantalla completa sin bordes"
+
+msgctxt "preferences.variable.display_mode"
+msgid "Fullscreen:3"
+msgstr "Pantalla completa"
+
+msgctxt "preferences.variable"
+msgid "character_pulse"
+msgstr "Pulsaciones de sprites"
+
+#: game/scenes/locations/canal.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "Diary"
+msgstr "Diario"
+
+#: game/scenes/locations/coffeebar_exterior.tscn
+#: game/scenes/locations/hostess_club_interior.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "NetoruSit"
+msgstr "{{netoru.n}} (sentado)"
+
+#: game/scenes/locations/coffeebar_interior.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "YasukaBarista"
+msgstr "{{yasuka.n}} (barista)"
+
+#: game/scenes/locations/dojo_exterior.tscn
+#: game/scenes/locations/hostess_club_exterior.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "ThugsStand"
+msgstr "Matones (esperando)"
+
+#: game/scenes/locations/home_asami_exterior.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "NetoruStand"
+msgstr "{{netoru.n}} (timbre)"
+
+#: game/scenes/locations/home_asami_livingroom.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "SayuriSit"
+msgstr "{{sayuri.n}} (sentada)"
+
+#: game/scenes/locations/home_kimochi_interior.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "KimochiSit"
+msgstr "{{kimochi.n}} (sentado)"
+
+#: game/scenes/locations/home_minato_exterior.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "Car"
+msgstr "Coche"
+
+#: game/scenes/locations/home_asami_livingroom.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "SayuriCook"
+msgstr "{{sayuri.n}} (cocinando)"
+
+#: game/scenes/locations/home_player_corridor.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "NorikoStand"
+msgstr "{{noriko.n}} (esperando)"
+
+#: game/scenes/locations/home_player_exterior.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "ChiakiCat"
+msgstr "{{chiaki.n}} (gata)"
+
+#: game/scenes/locations/home_player_exterior.tscn
+#: game/scenes/locations/restaurant_sakuya_room.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "SakuyaStand"
+msgstr "{{sakuya.n}} (esperando)"
+
+#: game/scenes/locations/home_player_livingroom.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "YasukaCoffee"
+msgstr "{{yasuka.n}} (café)"
+
+#: game/scenes/locations/home_player_noriko_room.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "NorikoPC"
+msgstr "{{noriko.n}} (pc)"
+
+#: game/scenes/locations/home_player_noriko_room.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "NorikoLeanNude"
+msgstr "{{noriko.n}} (esperando, desnuda)"
+
+#: game/scenes/locations/home_player_noriko_room.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "NorikoSleep"
+msgstr "{{noriko.n}} (durmiendo)"
+
+#: game/scenes/locations/home_player_saito_room.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "Walkman"
+msgstr "Walkman"
+
+#: game/scenes/locations/home_player_saito_room.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "Dumbbells"
+msgstr "Mancuernas"
+
+#: game/scenes/locations/home_player_saito_room.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "NorikoSitting"
+msgstr "{{noriko.n}} (sentada)"
+
+#: game/scenes/locations/home_player_yasuka_room.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "YasukaRest"
+msgstr "{{yasuka.n}} (descansando)"
+
+#: game/scenes/locations/home_player_yasuka_room.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "YasukaSleep"
+msgstr "{{yasuka.n}} (durmiendo)"
+
+#: game/scenes/locations/hostess_club_exterior.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "YasukaStand"
+msgstr "{{yasuka.n}} (esperando)"
+
+#: game/scenes/locations/hostess_club_interior.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "MacumbaGuard"
+msgstr "{{macumba.n}} (guardia)"
+
+#: game/scenes/locations/konbini_interior.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "SayuriWork"
+msgstr "{{sayuri.n}} (trabajando)"
+
+#: game/scenes/locations/onsen_bath.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "SakuyaBath"
+msgstr "{{sakuya.n}} (baño)"
+
+#: game/scenes/locations/park.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "MacumbaSit"
+msgstr "{{macumba.n}} (sentado)"
+
+#: game/scenes/locations/park.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "AsamiSit"
+msgstr "{{asami.n}} (sentada)"
+
+#: game/scenes/locations/park.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "NatsumeWalk"
+msgstr "{{natsume.n}} (caminando)"
+
+#: game/scenes/locations/park.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "AsamiWalkSexy"
+msgstr "{{asami.n}} (caminando, sexy)"
+
+#: game/scenes/locations/restaurant_interior.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "ChefCook"
+msgstr "{{chef.n}} (cocinando)"
+
+#: game/scenes/locations/restaurant_interior.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "SakuyaClean"
+msgstr "{{sakuya.n}} (limpiando)"
+
+#: game/scenes/locations/restaurant_sakuya_room.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "AkiraWindow"
+msgstr "{akira.n}} (ventana)"
+
+#: game/scenes/gui/game_menu/galleries/movies.tscn
+msgctxt "galleries.movies.attribute"
+msgid "notan"
+msgstr "Marcas de bronceado"
+
+#: game/scenes/gui/game_menu/galleries/movies.tscn
+msgctxt "galleries.movies.hints"
+msgid "Suivre l'histoire d'{{asami.n}}."
+msgstr "Continua la historia de {{asami.n}}."
+
+#: game/scenes/gui/game_menu/galleries/movies.tscn
+msgctxt "galleries.movies.attribute"
+msgid "tan"
+msgstr "Bronceado completo"
+
+#: game/scenes/gui/game_menu/galleries/movies.tscn
+msgctxt "galleries.movies.hints"
+msgid "Corrompre {{asami.n}}."
+msgstr "Corromper a {{asami.n}}."
+
+#: game/scenes/gui/game_menu/galleries/movies.tscn
+msgctxt "galleries.movies.hints"
+msgid "Faire chanter {{noriko.n}}."
+msgstr "Chantajea a {{noriko.n}}."
+
+#: game/scenes/gui/game_menu/galleries/movies.tscn
+msgctxt "galleries.movies.hints"
+msgid "Ne pas rejeter {{noriko.n}}."
+msgstr "No rechaces a {{noriko.n}}."
+
+#: game/scenes/gui/game_menu/galleries/movies.tscn
+msgctxt "galleries.movies.hints"
+msgid "Suivre l'histoire de {{yasuka.n}}."
+msgstr "Continua la historia de {{yasuka.n}}."
+
+#: game/scenes/gui/game_menu/galleries/movies.tscn
+msgctxt "galleries.movies.attribute"
+msgid "behind"
+msgstr "Ver detrás"
+
+#: game/scenes/gui/game_menu/galleries/movies.tscn
+msgctxt "galleries.movies.hints"
+msgid "Laisser travailler {{yasuka.n}} comme hôtesse."
+msgstr "Deja que {{yasuka.n}} trabaje de dama de compañía."
+
+#: game/scenes/gui/game_menu/galleries/movies.tscn
+msgctxt "galleries.movies.attribute"
+msgid "akira"
+msgstr "Con {{akira.n}}"
+
+#: game/scenes/gui/game_menu/galleries/movies.tscn
+msgctxt "galleries.movies.hints"
+msgid "Choisir de dominer {{noriko.n}}."
+msgstr "Elige dominar a {{noriko.n}}."
+
+#: game/scenes/locations/canal.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "SaitoSit"
+msgstr "{{saito.n}} (sentado)"
+
+#: game/scenes/locations/canal.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "AsamiLay"
+msgstr "{{asami.n}} (descansando)"
+
+#: game/scenes/locations/canal.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "NatsumeLean"
+msgstr "{{natsume.n}} (tumbada)"
+
+#: game/scenes/locations/dojo_exterior.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "light"
+msgstr "Luz"
+
+#: game/scenes/locations/home_player_yasuka_room.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "NorikoCrouchNude"
+msgstr "{{noriko.n}} (a cuatro patas, desnuda)"
+
+#: game/scenes/locations/hostess_club_interior.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "YasukaSit"
+msgstr "{{yasuka.n}} (sentada)"
+
+#: game/scenes/locations/lake.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "NorikoSit"
+msgstr "{{noriko.n}} (sentada)"
+
+#: game/scenes/locations/home_asami_asami_room.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "AsamiSitSexy"
+msgstr "{{asami.n}} (sentada, sexy)"
+
+#: game/scenes/locations/home_player_saito_room.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "AsamiDreamcastEveryday"
+msgstr "{{asami.n}} (Dreamcast, normal)"
+
+#: game/scenes/locations/home_player_saito_room.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "AsamiDreamcastSexy"
+msgstr "{{asami.n}} (Dreamcast, sexy)"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_dbcd1650"
+msgid "Aaaah aaahh aaah"
+msgstr "Aaaah aaahh aaah"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_8fd956b7"
+msgid "Oh putain ouiiii, moi aussi je vais t'appeler mon petit poney !"
+msgstr "¡Oh, sí, también te llamaré mi pequeño pony!"
+
+#: game/scenes/gui/game_menu/save_button_template.tscn
+#: game/scripts/gui/menu/save_button_template.gd
+msgctxt "saves.button.invalid"
+msgid "Sauvegarde invalide."
+msgstr "Partida guardada no válida."
+
+#: game/scenes/gui/game_menu/thanks.tscn
+msgid "Dialogue Manager"
+msgstr "Dialogue Manager"
+
+#: game/scenes/gui/gui_end_version.tscn
+msgid ""
+"Si vous avez aimé le jeu, n'hésitez pas à supporter le projet sur PATREON, "
+"et si vous voulez rejoindre la communauté, rejoignez-nous sur le Discord "
+"officiel."
+msgstr ""
+"Si te gustó el juego, no dudes en apoyar el proyecto en PATREON, y si "
+"quieres unirte a la comunidad, únete a nosotros en el Discord oficial."
+
+#: game/scenes/gui/gui_start_noriko.tscn
+msgid ""
+"Vous avez choisi de ne pas vous laisser faire par {{noriko.n}} et de prendre "
+"les choses en main."
+msgstr ""
+"Has decidido no dejarte intimidar por {{noriko.n}} y tomar las riendas del "
+"asunto."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_43_asami_love_corruption"
+msgstr "Hora de dormir, mañana empiezo mi trabajo en el restaurante."
+
+#: game/scenes/locations/arcade_exterior.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "NorikoClawMachine"
+msgstr "{{noriko.n}} (máquina atrapa peluches)"
+
+#: game/scenes/locations/park.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "AsamiWalkDress"
+msgstr "{{asami.n}} (caminando, vestido)"
+
+#: game/scenes/gui/game_menu/galleries/movies.tscn
+msgctxt "galleries.movies.hints"
+msgid "Suivre l'histoire de {{sakuya.n}}."
+msgstr "Continua la historia de {{sakuya.n}}."
+
+#: game/scenes/locations/home_player_noriko_room.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "NorikoSitNude"
+msgstr "{{noriko.n}} (sentada, desnuda)"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_c5456ce7"
+msgid "Prends-moi en levrette par derrière !"
+msgstr "¡Házmelo por detrás a lo perrito!"
+
+#: game/scenes/gui/game_menu/rename.tscn game/scenes/gui/rename.tscn
+msgid "Nom par défaut"
+msgstr "Nombre por defecto"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_39_asami_love_corruption"
+msgstr "Tengo que encontrar a {{chiaki.n}} lo antes posible."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_forced_sleep"
+msgstr "Pasa una noche con {{yasuka.n}}."
+
+#: game/scenes/locations/home_asami_asami_room.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "AsamiSitEveryday"
+msgstr "{{asami.n}} (sentada, normal)"
+
+#: game/scenes/locations/restaurant_exterior.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "ChefSmoke"
+msgstr "{{chef.n}} (fumando)"
+
+#: game/scenes/gui/game_menu/galleries/movies_visualisation.tscn
+msgid "Anal"
+msgstr "Anal"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "macumba_asami_1"
+msgstr "Debo seguir entrenando si quiero volver a estar en forma."
+
+#: game/scenes/gui/game_menu/galleries/sprites.tscn
+msgctxt "game_menu.crumbs.galleries"
+msgid "PERSONNAGES"
+msgstr "PERSONAJES"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "macumba_asami_3"
+msgstr "Debo seguir entrenando si quiero volver a estar en forma."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_1f956caa"
+msgid "Alors accroche-toi, je vais commencer à aller plus vite !"
+msgstr "¡Prepárate, voy a empezar a ir más rápido!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_5efa119c"
+msgid "Quoi !? Non je suis pas encore..."
+msgstr "¿¡Qué!? No, yo no..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_abd71e16"
+msgid "Plus vite, plus vite !"
+msgstr "¡Más rápido, más rápido!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_a5fbaab1"
+msgid "Je.... Putain c'est trop bon !"
+msgstr "Yo... ¡Maldita sea, es tan bueno!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_d12ab627"
+msgid "Et c'est encore que le début !"
+msgstr "¡Y eso es sólo el principio!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_b485483d"
+msgid "Je veux tout essayer !"
+msgstr "¡Quiero probarlo todo!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_2c06a353"
+msgid "Ohlàlà oui !"
+msgstr "¡Ah, ahí, sí!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_4023c988"
+msgid "Plus vite, plus vite bordel !"
+msgstr "¡Más rápido, más rápido, maldita sea!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_09ca2f4b"
+msgid "Continue de te plaindre et je te laisse en plan !"
+msgstr "¡Sigue quejándote y pararé ahora mismo!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_115596c5"
+msgid "Non ! Non ! Pardon !"
+msgstr "¡No! ¡No! ¡Lo siento!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_33622361"
+msgid "Je te promets que je serai obéissante à présent !"
+msgstr "¡Te prometo que seré obediente de ahora en adelante!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_e6268444"
+msgid "À la bonne heure !"
+msgstr "¡Ya era hora!"
+
+#: game/scenes/gui/game_menu/galleries/music.tscn
+msgctxt "game_menu.crumbs.galleries"
+msgid "MUSIQUES"
+msgstr "MÚSICA"
+
+#: game/scenes/gui/game_menu/galleries/backgrounds.tscn
+msgctxt "game_menu.crumbs.galleries"
+msgid "ARRIÈRES-PLANS"
+msgstr "FONDOS"
+
+#: game/scenes/gui/game_menu/galleries/movies.tscn
+msgctxt "game_menu.crumbs.galleries"
+msgid "ANIMATIONS"
+msgstr "ANIMACIONES"
+
+#: game/scenes/gui/game_menu/rename.tscn
+msgctxt "game_menu.crumbs"
+msgid "RENOMMER"
+msgstr "RENOMBRAR"
+
+#: game/scenes/gui/game_menu/thanks.tscn
+msgctxt "game_menu.crumbs"
+msgid "REMERCIEMENTS"
+msgstr "AGRADECIMIENTOS"
+
+#: game/scenes/gui/game_menu/preferences.tscn
+msgctxt "preferences.unit.skip_frame_delay"
+msgid "frame(s)"
+msgstr "frame(s)"
+
+#: game/scripts/gui/menu/game_menu.gd
+msgctxt "confirm"
+msgid "Voulez-vous continuer ?"
+msgstr "¿Quieres continuar?"
+
+#: game/scripts/gui/menu/game_menu.gd
+msgctxt "confirm"
+msgid "Voulez-vous quitter ?"
+msgstr "¿Quieres salir?"
+
+#: game/scripts/gui/menu/game_menu.gd
+msgctxt "confirm"
+msgid "Voulez-vous revenir au menu principal ?"
+msgstr "¿Quieres volver al menú principal?"
+
+#: game/scenes/gui/game_menu/rename.tscn game/scenes/gui/rename.tscn
+msgid "Indiquez votre nom :"
+msgstr "Escribe tu nombre:"
+
+#: game/scenes/gui/game_menu/thanks.tscn
+msgid "Informations légales"
+msgstr "Información legal"
+
+#: game/scenes/gui/game_menu/thanks.tscn
+msgid "Godot Engine"
+msgstr "Godot Engine"
+
+#: game/scenes/gui/game_menu/thanks.tscn
+msgid "Mécènes"
+msgstr "Patrocinadores"
+
+#: game/scenes/gui/game_menu/galleries/music.tscn
+msgid "quotam."
+msgstr "quotam."
+
+#: game/scenes/gui/game_menu/galleries/music.tscn
+msgid "Finally Some Peace"
+msgstr "Finally Some Peace"
+
+#: game/scenes/gui/game_menu/galleries/sprites.tscn
+msgid "ATTRIBUTE GROUP"
+msgstr "ATTRIBUTE GROUP"
+
+#: game/scenes/gui/game_menu/galleries/sprites.tscn
+msgid "ATTRIBUTE"
+msgstr "ATTRIBUTE"
+
+#: game/scenes/gui/gui_end_version.tscn
+msgid "Merci d'avoir joué à Goodbye Eternity !"
+msgstr "¡Gracias por jugar Goodbye Eternity!"
+
+#: game/scenes/gui/gui_end_version.tscn
+msgid ""
+"Merci à tous les contributeurs qui nous soutiennent, sans eux ce projet "
+"n'existerait pas !"
+msgstr ""
+"¡Gracias a todos los colaboradores que nos apoyan, sin ellos este proyecto "
+"no existiría!"
+
+#: game/scenes/gui/gui_end_version.tscn
+msgid "Histoire | Design"
+msgstr "Historia | Diseño"
+
+#: game/scenes/gui/gui_end_version.tscn
+msgid "Programmation"
+msgstr "Programación"
+
+#: game/scenes/gui/gui_end_version.tscn
+msgid "Arrières-plans"
+msgstr "Fondos"
+
+#: game/scenes/gui/gui_end_version.tscn
+msgid "Sprites"
+msgstr "Sprites"
+
+#: game/scenes/gui/gui_end_version.tscn
+msgid "Animations"
+msgstr "Animaciones"
+
+#: game/scenes/gui/gui_end_version.tscn
+msgid "Musique"
+msgstr "Música"
+
+#: game/scenes/gui/gui_end_version.tscn
+msgid "Conception sonore"
+msgstr "Diseño de sonido"
+
+#: game/scenes/gui/gui_end_version.tscn
+msgid "Traduction"
+msgstr "Traducción"
+
+#: game/scenes/gui/gui_end_version.tscn
+msgid "Localisation | Relecture"
+msgstr "Localización | Revisión"
+
+#: game/scenes/gui/gui_end_version.tscn
+msgid "Ajoutez-nous en liste de souhaits !"
+msgstr "¡Añádenos a tu lista de deseos!"
+
+#: game/scenes/gui/gui_start_noriko.tscn
+msgid "NORIKO"
+msgstr "NORIKO"
+
+#: game/scenes/gui/gui_start_noriko.tscn
+msgid "Vous pouvez dès à présent poursuivre l’histoire de {{noriko.n}}."
+msgstr "Ya puedes continuar la historia de {{noriko.n}}."
+
+#: game/scenes/gui/gui_start_noriko.tscn
+msgid "Oui, mais c'est moi qui commande maintenant."
+msgstr "Sí, pero ahora mando yo."
+
+#: game/scenes/gui/rename.tscn
+msgid "Commencer"
+msgstr "Comenzar"
+
+#: game/scenes/gui/game_menu/galleries/movies_visualisation.tscn
+msgid "Fellation"
+msgstr "Mamada"
+
+#: game/scenes/gui/game_menu/galleries/movies_visualisation.tscn
+msgid "Vaginal"
+msgstr "Vaginal"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_38_asami_love_corruption"
+msgstr "Tengo que ir a {{minato.n}}"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_38_1_asami_love_corruption"
+msgstr "Tengo que ir a {{minato.n}}"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_39_asami_love_corruption_chiaki_restaurant_exterior"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_39_asami_love_corruption_chiaki_dojo_exterior"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_39_asami_love_corruption_chiaki_park"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_39_asami_love_corruption_chiaki_home_player_exterior"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_40_asami_love_corruption"
+msgstr "Tengo que encontrar a {{chiaki.n}} lo antes posible."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_41_asami_love_corruption"
+msgstr "Reúnete con {{asami.n}} en el parque para darle la mala noticia."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_42_asami_love_corruption"
+msgstr "Otro día de mierda, mejor me voy a dormir."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "macumba_asami_2"
+msgstr "Debo seguir entrenando si quiero volver a estar en forma."
