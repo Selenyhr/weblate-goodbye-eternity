@@ -113,7 +113,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-07 19:57+0100\n"
 "PO-Revision-Date: 2024-06-21 15:15+0000\n"
-"Last-Translator: WangYu <joestblack@gmail.com>\n"
+"Last-Translator: DayBat <870354653@qq.com>\n"
 "Language-Team: Chinese (Simplified) <https://translations.teot-studio.com/"
 "projects/goodbye-eternity/game-translation/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -61813,3 +61813,33 @@ msgid ""
 "C'est pas sans conséquences... Tu ne peux pas laisser les gens en attente "
 "comme ça."
 msgstr "这可不是没有后果的啊…你不能这样吊着别人。"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_e512b865"
+msgid "C'est complètement dingue."
+msgstr "这真是疯了。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_30"
+msgstr "去便利店将钱退还给{{sayuri.n}}。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_31"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_32"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_29"
+msgstr "回家休息。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_33"
+msgstr "回家到{{noriko.n}}的房间见她。"
