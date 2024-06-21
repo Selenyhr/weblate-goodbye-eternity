@@ -113,7 +113,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-07 19:57+0100\n"
 "PO-Revision-Date: 2024-06-22 14:19+0000\n"
-"Last-Translator: WangYu <joestblack@gmail.com>\n"
+"Last-Translator: DayBat <870354653@qq.com>\n"
 "Language-Team: Chinese (Simplified) <https://translations.teot-studio.com/"
 "projects/goodbye-eternity/game-translation/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -60498,7 +60498,7 @@ msgstr "嗯…"
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_ac754e82"
 msgid "J'espère bien !"
-msgstr "希望如此！"
+msgstr "我也是！"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_3e85771d"
@@ -63344,3 +63344,58 @@ msgid ""
 "Cette fille est bien trop proche de toi et je suis certaine qu'elle ressent "
 "plus que de l'amitié."
 msgstr "那女孩跟你太腻歪了，连我都能看出来她绝对不止把你当朋友。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_64"
+msgstr "在公交车站找到{{noriko.n}}。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_65"
+msgstr "和{{noriko.n}}一起回家。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_66"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_67"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_68"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_69"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_70"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_71"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_72"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_73"
+msgstr "[null]"
+
+#: game/scenes/locations/arcade_interior.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "NobuPlay"
+msgstr "{{nobu.n}} (玩耍)"
