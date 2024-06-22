@@ -113,15 +113,16 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 12:13+0200\n"
-"PO-Revision-Date: 2024-06-17 18:29+0200\n"
-"Last-Translator: Dev Team <info@teot-studio.com>\n"
-"Language-Team: Dev Team\n"
+"PO-Revision-Date: 2024-06-22 14:19+0000\n"
+"Last-Translator: Development team <info@teot-studio.com>\n"
+"Language-Team: English <https://translations.teot-studio.com/projects/"
+"goodbye-eternity/game-translation/en/>\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8-bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Lokalize 24.05.1\n"
+"X-Generator: Weblate 4.17\n"
 
 #: game/scenes/cg/noriko/laptop.tscn
 msgid "Demi-Sœur Dépucelle Son Demi-Frère"
@@ -76419,7 +76420,9 @@ msgstr ""
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "noriko_maledom_63"
-msgstr "[null]"
+msgstr ""
+"Catch up to {{noriko.n}} at the love hotel before she commits the "
+"irreparable."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -78236,5 +78239,3 @@ msgstr "Dominate {{noriko.n}}."
 #~ msgctxt "character.sprite.group"
 #~ msgid "badge"
 #~ msgstr "Badge"
-
-
