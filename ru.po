@@ -110,8 +110,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
-"PO-Revision-Date: 2024-06-22 14:19+0000\n"
-"Last-Translator: Иванов Станислав Сергеевич <Ivanovst4nist4v@yandex.ru>\n"
+"PO-Revision-Date: 2024-06-22 20:14+0000\n"
+"Last-Translator: Aleksandr <aleksandr-tugai@mail.ru>\n"
 "Language-Team: Russian <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/ru/>\n"
 "Language: ru\n"
@@ -59367,7 +59367,8 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "noriko_maledom_63"
-msgstr "[null]"
+msgstr ""
+"Найди {{noriko.n}} в любовном отеле, пока она не совершила непоправимое."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -62866,3 +62867,33 @@ msgstr "[null]"
 msgctxt "quests.hints"
 msgid "noriko_femdom_13"
 msgstr "[null]"
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "home_player_hallway_f86a3991"
+msgid "J'ai déjà hâte d'y être."
+msgstr "Я не могу дождаться."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_3e85771d"
+msgid "Oui..."
+msgstr "Да..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_ac754e82"
+msgid "J'espère bien !"
+msgstr "Надеюсь на это!"
+
+#: game/story/konbini_interior.dialogue
+msgctxt "konbini_interior_3e85771d"
+msgid "Oui..."
+msgstr "Да..."
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "home_kimochi_interior_582ae38d"
+msgid "Oui..."
+msgstr "Да..."
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_eb593743"
+msgid "Quoi ?! Mais je..."
+msgstr "Что?! Но я..."
