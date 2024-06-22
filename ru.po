@@ -110,9 +110,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
-"PO-Revision-Date: 2024-06-22 20:14+0000\n"
-"Last-Translator: \"Sir Rest IV - The English Duke.\" <RestInTrouble@gmail."
-"com>\n"
+"PO-Revision-Date: 2024-06-22 20:18+0000\n"
+"Last-Translator: Aleksandr <aleksandr-tugai@mail.ru>\n"
 "Language-Team: Russian <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/ru/>\n"
 "Language: ru\n"
@@ -63193,6 +63192,7 @@ msgid "...D'accord."
 msgstr "...Хорошо."
 
 #: game/story/home_kimochi_exterior.dialogue
+#, fuzzy
 msgctxt "home_kimochi_exterior_7cd71a94"
 msgid "Je sais... Tu as raison."
 msgstr "Я знаю... Ты прав."
@@ -63228,3 +63228,9 @@ msgstr "Но..."
 msgctxt "home_player_room_34d90840"
 msgid "Euh..."
 msgstr "Оу..."
+
+#: game/story/home_player_corridor.dialogue
+#, fuzzy
+msgctxt "home_player_corridor_7a04f3c3"
+msgid "Hey je t'ai déjà dit d'arrêter d'écouter à ma p-"
+msgstr "Эй, я уже говорил тебе не подслушива-"
