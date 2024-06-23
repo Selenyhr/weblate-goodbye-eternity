@@ -110,8 +110,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
-"PO-Revision-Date: 2024-05-17 16:55+0000\n"
-"Last-Translator: Enes Dinç <enesdinc2005@hotmail.com>\n"
+"PO-Revision-Date: 2024-06-23 15:16+0000\n"
+"Last-Translator: Ediz <edizkeskin@gmail.com>\n"
 "Language-Team: Turkish <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/tr/>\n"
 "Language: tr\n"
@@ -61480,7 +61480,7 @@ msgstr "Doğru soruları sorun{{asami.n}}."
 #: game/scenes/gui/game_menu/galleries/images.tscn
 msgctxt "galleries.images.hints"
 msgid "Laisser travailler {{yasuka.n}} comme hôtesse."
-msgstr "Hosteslik{{yasuka.n}} yapsın."
+msgstr "{{yasuka.n}}'in hostes olarak çalışmasına izin ver."
 
 #: game/scenes/gui/game_menu/galleries/images.tscn
 msgctxt "galleries.images.hints"
@@ -61921,3 +61921,770 @@ msgstr "Hâlâ gururlu musun?"
 msgctxt "talk_noriko_35b49e60"
 msgid "Quoi ?! Non... Je suis déjà..."
 msgstr "Ne?! Hayır... Ben zaten..."
+
+#: game/scenes/locations/canal.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "Diary"
+msgstr "Günlük"
+
+#: game/scenes/locations/home_asami_asami_room.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "AsamiSitSexy"
+msgstr "{{asami.n}} (oturarak, seksi)"
+
+#: game/scenes/locations/home_player_saito_room.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "AsamiDreamcastEveryday"
+msgstr "{{asami.n}} (Dreamcast, normal)"
+
+#: game/scenes/locations/home_player_saito_room.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "AsamiDreamcastSexy"
+msgstr "{{asami.n}} (Dreamcast, seksi)"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_67c85a93"
+msgid "Beaucoup mieux ![w] Je te préfère quand tu es honnête avec toi-même..."
+msgstr ""
+"Bu daha iyi![w] Kendine karşı dürüst olduğun zaman seni daha çok seviyorum..."
+
+#: game/scenes/locations/home_asami_asami_room.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "AsamiSitEveryday"
+msgstr "{{asami.n}} (oturarak, normal)"
+
+#: game/scenes/locations/park.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "NatsumeWalk"
+msgstr "{{natsume.n}} (geziyor)"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_2492d629"
+msgid "Alors tu comptes la rentrer, ou il faut demander de l'aide ?"
+msgstr ""
+"Onu sokacak mısın, yoksa sana yardım etmek için birini mi aramam gerekiyor?"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_22a349d1"
+msgid "... Je... Je veux pas demander quelque chose d'aussi gênant."
+msgstr "...Ben... utanç verici bir şey sormak istemiyorum."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_e71b20ff"
+msgid "Je ne veux pas faire ça ici... h"
+msgstr "Burada bunu yapmak istemiyorum..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_a9ff1c9a"
+msgid ""
+"Ta mère peut nous rejoindre si tu veux verux, ça ne me dérange pas du tout !"
+msgstr "Eğer istersen annen de katılabilir, hiç sorun değil!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_94c337ae"
+msgid "Allez !"
+msgstr "Hadi !"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_5efecf68"
+msgid "... Tu peux refaire comme hier ?"
+msgstr "...Dün yaptığın gibi tekrar yapabilir misin?"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_4023c988"
+msgid "Plus vite, plus vite bordel !"
+msgstr "Daha hızlı, daha hızlı lanet olası!"
+
+#: game/scenes/gui/game_menu/galleries/movies_visualisation.tscn
+msgid "Anal"
+msgstr "Anal"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_282cef29"
+msgid "Aaaah aaaah aaaah... Oui !"
+msgstr "Aaaah aaaah aaaah... Evet!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_5468a594"
+msgid "Oui pardon, ne t'arrête pas !"
+msgstr "Evet, özür dilerim, durma!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_04cebda8"
+msgid "Mmhh Ouiiii !"
+msgstr "Mmhh Evettt!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_e15dd9fd"
+msgid "Hannn hannn..."
+msgstr "Huff huff..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_5431b506"
+msgid "Al-"
+msgstr "En-"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_7caf2eae"
+msgid "Il me semble que c'est ce que tu veux... Demande-le moi poliment !"
+msgstr "Görünüşe göre istediğin bu... o zaman bana nazikçe sor!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_34033223"
+msgid "Dans ce cas, on peut rester longtemps comme ça !"
+msgstr "O zaman, uzun bir süre böyle kalabiliriz!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_d742e1c3"
+msgid "Mais...[w] D'accord...[w] Mets... Mets-la en moi[w] s'il te plaît."
+msgstr "Ama... [w] Tamam... [w] Onu... Lütfen içime koy."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_0c2c5f65"
+msgid "Mmhhh ouiii !"
+msgstr "Hmmm evetttt!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_171cb176"
+msgid "... J'ai jamais vu une fille aussi dérangée que toi !"
+msgstr "...Senin kadar rahatsız bir kız hiç görmedim!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_d8e7dd6c"
+msgid "Je comprends vraiment pas t-"
+msgstr "Gerçekten de anlamıyorum."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_e8414074"
+msgid "Shhhhht ! Arrête de réfléchir et pousse plus fort !"
+msgstr "Ssssht! Düşünmeyi bırak ve daha sert it!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_a5b84aaa"
+msgid "Oui c'est... doucement... doucement je..."
+msgstr "Evet, nazik ol... nazik ol, ben..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_eae959f1"
+msgid "Désolé je n'entends pas un mot."
+msgstr "Üzgünüm, tek bir kelime duymuyorum."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_14556aeb"
+msgid "Aaaah... aaah... ahhh..."
+msgstr "Aaaah... aaah... ahhh..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_ecb7c0fd"
+msgid "Allez ! Arrête de vouloir me faire attendre..."
+msgstr "Haydi! Beni bekletmeyi bırak..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_b11d758e"
+msgid "Je ne sais pas trop... J'hésite..."
+msgstr "Bilmiyorum... ne yapmalıyım..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_a1c5c607"
+msgid "Satisfaite ?"
+msgstr "Memnun musun?"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_ef2a085b"
+msgid "Je peux !"
+msgstr "Yapabilirim!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_f3e074df"
+msgid "Mmh c'est... encore mieux !"
+msgstr "Mmm, bu... daha da iyi!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_1f956caa"
+msgid "Alors accroche-toi, je vais commencer à aller plus vite !"
+msgstr "Hazırlan, daha hızlı yapmaya başlayacağım!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_5efa119c"
+msgid "Quoi !? Non je suis pas encore..."
+msgstr "Ne?! Hayır, henüz hazır değil-"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_dbcd1650"
+msgid "Aaaah aaahh aaah"
+msgstr "Aaaah aaahh aaah"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_abd71e16"
+msgid "Plus vite, plus vite !"
+msgstr "Daha hızlı, daha hızlı!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_a5fbaab1"
+msgid "Je.... Putain c'est trop bon !"
+msgstr "Ben... siktir, bu çok iyi!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_d12ab627"
+msgid "Et c'est encore que le début !"
+msgstr "Ve bu sadece başlangıç!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_c5456ce7"
+msgid "Prends-moi en levrette par derrière !"
+msgstr "Şimdi arkamdan al beni!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_b485483d"
+msgid "Je veux tout essayer !"
+msgstr "Her şeyi denemek istiyorum!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_2c06a353"
+msgid "Ohlàlà oui !"
+msgstr "Oh, evet!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_09ca2f4b"
+msgid "Continue de te plaindre et je te laisse en plan !"
+msgstr "Eğer şikayet etmeye devam edersen, duracağım!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_115596c5"
+msgid "Non ! Non ! Pardon !"
+msgstr "Hayır! Hayır! Özür dilerim!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_33622361"
+msgid "Je te promets que je serai obéissante à présent !"
+msgstr "Şimdi itaatkar bir kız olacağıma söz veriyorum!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_e6268444"
+msgid "À la bonne heure !"
+msgstr "Lanet olsun zamanı geldi!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_8fd956b7"
+msgid "Oh putain ouiiii, moi aussi je vais t'appeler mon petit poney !"
+msgstr "Oh lanet evet! Ben de seni küçük atım diyeceğim!"
+
+#: game/scenes/gui/gui_end_version.tscn
+msgid "Programmation"
+msgstr "Programlama"
+
+#: game/scenes/gui/game_menu/galleries/sprites.tscn
+msgctxt "game_menu.crumbs.galleries"
+msgid "PERSONNAGES"
+msgstr "KARAKTERLER"
+
+#: game/scenes/gui/game_menu/galleries/music.tscn
+msgctxt "game_menu.crumbs.galleries"
+msgid "MUSIQUES"
+msgstr "MÜZİKLER"
+
+#: game/scenes/gui/game_menu/galleries/backgrounds.tscn
+msgctxt "game_menu.crumbs.galleries"
+msgid "ARRIÈRES-PLANS"
+msgstr "DUVAR KAĞITLARI"
+
+#: game/scenes/gui/game_menu/galleries/movies.tscn
+msgctxt "game_menu.crumbs.galleries"
+msgid "ANIMATIONS"
+msgstr "ANIMASYONLAR"
+
+#: game/scenes/gui/game_menu/rename.tscn
+msgctxt "game_menu.crumbs"
+msgid "RENOMMER"
+msgstr "YENIDEN ADLANDIR"
+
+#: game/scenes/gui/game_menu/thanks.tscn
+msgctxt "game_menu.crumbs"
+msgid "REMERCIEMENTS"
+msgstr "TESEKKURLER"
+
+#: game/scenes/gui/game_menu/preferences.tscn
+msgctxt "preferences.unit.skip_frame_delay"
+msgid "frame(s)"
+msgstr "frame(s)"
+
+#: game/scripts/gui/menu/game_menu.gd
+msgctxt "confirm"
+msgid "Voulez-vous continuer ?"
+msgstr "Devam etmek istiyor musun?"
+
+#: game/scripts/gui/menu/game_menu.gd
+msgctxt "confirm"
+msgid "Voulez-vous quitter ?"
+msgstr "Çıkmak istiyor musun?"
+
+#: game/scripts/gui/menu/game_menu.gd
+msgctxt "confirm"
+msgid "Voulez-vous revenir au menu principal ?"
+msgstr "Ana menüye dönmek istiyor musun ?"
+
+#: game/scenes/gui/game_menu/save_button_template.tscn
+#: game/scripts/gui/menu/save_button_template.gd
+msgctxt "saves.button.invalid"
+msgid "Sauvegarde invalide."
+msgstr "Geçersiz kayıt"
+
+#: game/scenes/gui/game_menu/rename.tscn game/scenes/gui/rename.tscn
+msgid "Nom par défaut"
+msgstr "Varsayılan İsim"
+
+#: game/scenes/gui/game_menu/rename.tscn game/scenes/gui/rename.tscn
+msgid "Indiquez votre nom :"
+msgstr "Isminizi Girin:"
+
+#: game/scenes/gui/game_menu/thanks.tscn
+msgid "Informations légales"
+msgstr "Hukuki Bilgiler"
+
+#: game/scenes/gui/game_menu/thanks.tscn
+msgid "Godot Engine"
+msgstr "Godot Engine"
+
+#: game/scenes/gui/game_menu/thanks.tscn
+msgid "Dialogue Manager"
+msgstr "Diyalog Yöneticisi"
+
+#: game/scenes/gui/game_menu/thanks.tscn
+msgid "Mécènes"
+msgstr "Müşteriler"
+
+#: game/scenes/gui/game_menu/galleries/sprites.tscn
+msgid "ATTRIBUTE GROUP"
+msgstr "Nitelik Grubu"
+
+#: game/scenes/gui/game_menu/galleries/sprites.tscn
+msgid "ATTRIBUTE"
+msgstr "ATTRIBUTE"
+
+#: game/scenes/gui/gui_end_version.tscn
+msgid "Merci d'avoir joué à Goodbye Eternity !"
+msgstr "Goodbye Eternity'i oynadığınız için teşekkürler!"
+
+#: game/scenes/gui/gui_end_version.tscn
+msgid ""
+"Si vous avez aimé le jeu, n'hésitez pas à supporter le projet sur PATREON, "
+"et si vous voulez rejoindre la communauté, rejoignez-nous sur le Discord "
+"officiel."
+msgstr ""
+"Eğer oyunu beğendiyseniz, projeyi desteklemekten çekinmeyin ve topluluğa "
+"katılmak isterseniz, resmi Discord'ta bize katılın."
+
+#: game/scenes/gui/gui_end_version.tscn
+msgid ""
+"Merci à tous les contributeurs qui nous soutiennent, sans eux ce projet "
+"n'existerait pas !"
+msgstr ""
+"Bizi destekleyen tüm oyunculara çok teşekkür ederiz; onlarsız bu proje "
+"sadece var olmazdı!"
+
+#: game/scenes/gui/gui_end_version.tscn
+msgid "Histoire | Design"
+msgstr "Hikaye | Tasarım"
+
+#: game/scenes/gui/gui_end_version.tscn
+msgid "Arrières-plans"
+msgstr "Arka Plan"
+
+#: game/scenes/gui/gui_end_version.tscn
+msgid "Sprites"
+msgstr "Sprites"
+
+#: game/scenes/gui/gui_end_version.tscn
+msgid "Animations"
+msgstr "Animasyonlar"
+
+#: game/scenes/gui/gui_end_version.tscn
+msgid "Musique"
+msgstr "Müzik"
+
+#: game/scenes/gui/gui_end_version.tscn
+msgid "Conception sonore"
+msgstr "Ses tasarımı"
+
+#: game/scenes/gui/gui_end_version.tscn
+msgid "Traduction"
+msgstr "Çeviri"
+
+#: game/scenes/gui/gui_end_version.tscn
+msgid "Localisation | Relecture"
+msgstr "Lokalizasyon editörü"
+
+#: game/scenes/gui/gui_end_version.tscn
+msgid "Ajoutez-nous en liste de souhaits !"
+msgstr "Bizi istek listenize ekleyin!"
+
+#: game/scenes/gui/gui_start_noriko.tscn
+msgid "NORIKO"
+msgstr "NORIKO"
+
+#: game/scenes/gui/gui_start_noriko.tscn
+msgid "Vous pouvez dès à présent poursuivre l’histoire de {{noriko.n}}."
+msgstr "Artık {{noriko.n}}'ın hikayesine devam edebilirsiniz."
+
+#: game/scenes/gui/gui_start_noriko.tscn
+msgid ""
+"Vous avez choisi de ne pas vous laisser faire par {{noriko.n}} et de prendre"
+" les choses en main."
+msgstr ""
+"{{noriko.n}}'ı üstün gelmesine izin vermemeye karar verdiniz ve işleri kendi "
+"ellerinize aldınız."
+
+#: game/scenes/gui/gui_start_noriko.tscn
+msgid "Oui, mais c'est moi qui commande maintenant."
+msgstr "Evet, ancak şimdi ben yönetiyorum."
+
+#: game/scenes/gui/rename.tscn
+msgid "Commencer"
+msgstr "Başla"
+
+#: game/scenes/gui/game_menu/galleries/movies_visualisation.tscn
+msgid "Fellation"
+msgstr "Sakso"
+
+#: game/scenes/gui/game_menu/galleries/movies_visualisation.tscn
+msgid "Vaginal"
+msgstr "Vajinal"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_38_asami_love_corruption"
+msgstr "{{minato.n}}'ya gitmeliyim."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_38_1_asami_love_corruption"
+msgstr "{{minato.n}}'ya gitmeliyim."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_39_asami_love_corruption"
+msgstr "{{chiaki.n}}'yi en kısa sürede bulmalıyım."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_39_asami_love_corruption_chiaki_restaurant_exterior"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_39_asami_love_corruption_chiaki_dojo_exterior"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_39_asami_love_corruption_chiaki_park"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_39_asami_love_corruption_chiaki_home_player_exterior"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_40_asami_love_corruption"
+msgstr "{{chiaki.n}}'yi mümkün olan en kısa sürede bulmalıyım."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_41_asami_love_corruption"
+msgstr "{{asami.n}}'yle parkta buluşarak ona kötü haberleri söyle."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_42_asami_love_corruption"
+msgstr "Boktan bir gün daha...Ben de uyuyayım bari."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_43_asami_love_corruption"
+msgstr "Uyku vakti, yarın restorandaki işime başlıyorum."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_forced_sleep"
+msgstr "Bir gece {{yasuka.n}} ile geçir"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "macumba_asami_1"
+msgstr "Formda kalmak istiyorsam antrenmana devam etmeliyim."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "macumba_asami_2"
+msgstr "Formda kalmak istiyorsam antrenmana devam etmeliyim."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "macumba_asami_3"
+msgstr "Forma girmek istiyorsam antrenmana devam etmeliyim."
+
+msgctxt "preferences.variable.display_mode"
+msgid "Borderless Fullscreen:2"
+msgstr "Çerçevesiz tam ekran"
+
+msgctxt "preferences.variable.display_mode"
+msgid "Fullscreen:3"
+msgstr "Tam ekran"
+
+msgctxt "preferences.variable"
+msgid "character_pulse"
+msgstr "Sprite titreşimi"
+
+#: game/scenes/locations/arcade_exterior.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "NorikoClawMachine"
+msgstr "{{noriko.n}} (pençe makinesi)"
+
+#: game/scenes/locations/canal.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "SaitoSit"
+msgstr "{{saito.n}} (oturuyor)"
+
+#: game/scenes/locations/canal.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "AsamiLay"
+msgstr "{{asami.n}} (yatıyor)"
+
+#: game/scenes/locations/canal.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "NatsumeLean"
+msgstr "{{natsume.n}} (yaslanıyor)"
+
+#: game/scenes/locations/coffeebar_exterior.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "NetoruSit"
+msgstr "{{netoru.n}} (oturarak)"
+
+#: game/scenes/locations/coffeebar_interior.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "YasukaBarista"
+msgstr "{{yasuka.n}} (barista)"
+
+#: game/scenes/locations/dojo_exterior.tscn
+#: game/scenes/locations/hostess_club_exterior.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "ThugsStand"
+msgstr "Eşkıyalar (bekliyor)"
+
+#: game/scenes/locations/home_asami_exterior.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "NetoruStand"
+msgstr "{{netoru.n}} (kapı zili)"
+
+#: game/scenes/locations/home_asami_livingroom.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "SayuriCook"
+msgstr "{{sayuri.n}} (yemek pişirme)"
+
+#: game/scenes/locations/home_asami_livingroom.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "SayuriSit"
+msgstr "{{sayuri.n}} (oturuyor)"
+
+#: game/scenes/locations/home_kimochi_interior.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "KimochiSit"
+msgstr "{{kimochi.n}} (oturuyor)"
+
+#: game/scenes/locations/home_minato_exterior.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "Car"
+msgstr "Araba"
+
+#: game/scenes/locations/home_player_corridor.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "NorikoStand"
+msgstr "{{noriko.n}} (bekliyor)"
+
+#: game/scenes/locations/home_player_exterior.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "ChiakiCat"
+msgstr "{{chiaki.n}} (kedi)"
+
+#: game/scenes/locations/home_player_exterior.tscn
+#: game/scenes/locations/restaurant_sakuya_room.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "SakuyaStand"
+msgstr "{{sakuya.n}} (bekliyor)"
+
+#: game/scenes/locations/home_player_livingroom.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "YasukaCoffee"
+msgstr "{{yasuka.n}} (kahve)"
+
+#: game/scenes/locations/home_player_noriko_room.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "NorikoPC"
+msgstr "{{noriko.n}} (pc)"
+
+#: game/scenes/locations/home_player_noriko_room.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "NorikoSitNude"
+msgstr "{{noriko.n}} (oturuyor, çıplak)"
+
+#: game/scenes/locations/home_player_noriko_room.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "NorikoLeanNude"
+msgstr "{{noriko.n}} (bekliyor, çıplak)"
+
+#: game/scenes/locations/home_player_noriko_room.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "NorikoSleep"
+msgstr "{{noriko.n}} (uyuyor)"
+
+#: game/scenes/locations/home_player_saito_room.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "Walkman"
+msgstr "Walkman"
+
+#: game/scenes/locations/home_player_saito_room.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "Dumbbells"
+msgstr "Dambıllar"
+
+#: game/scenes/locations/home_player_saito_room.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "NorikoSitting"
+msgstr "{{noriko.n}} (oturuyor)"
+
+#: game/scenes/locations/home_player_yasuka_room.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "YasukaRest"
+msgstr "{{yasuka.n}} (dinleniyor)"
+
+#: game/scenes/locations/home_player_yasuka_room.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "YasukaSleep"
+msgstr "{{yasuka.n}} (uyuyor)"
+
+#: game/scenes/locations/home_player_yasuka_room.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "NorikoCrouchNude"
+msgstr "{{noriko.n}} (çömelmiş, çıplak)"
+
+#: game/scenes/locations/hostess_club_exterior.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "YasukaStand"
+msgstr "{{yasuka.n}} (bekliyor)"
+
+#: game/scenes/locations/hostess_club_interior.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "MacumbaGuard"
+msgstr "{{macumba.n}} (koruyor)"
+
+#: game/scenes/locations/konbini_interior.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "SayuriWork"
+msgstr "{{sayuri.n}} (çalışıyor)"
+
+#: game/scenes/locations/onsen_bath.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "SakuyaBath"
+msgstr "{{sakuya.n}} (duş alıyor)"
+
+#: game/scenes/locations/park.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "MacumbaSit"
+msgstr "{{macumba.n}} (oturuyor)"
+
+#: game/scenes/locations/park.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "AsamiSit"
+msgstr "{{asami.n}} (oturuyor)"
+
+#: game/scenes/locations/park.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "AsamiWalkDress"
+msgstr "{{asami.n}} (geziyor, elbise)"
+
+#: game/scenes/locations/park.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "AsamiWalkSexy"
+msgstr "{{asami.n}} (geziyor, seksi)"
+
+#: game/scenes/locations/restaurant_exterior.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "ChefSmoke"
+msgstr "{{chef.n}} (sigara içiyor)"
+
+#: game/scenes/locations/restaurant_interior.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "ChefCook"
+msgstr "{{chef.n}} (pişiriyor)"
+
+#: game/scenes/locations/restaurant_interior.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "SakuyaClean"
+msgstr "{{sakuya.n}} (temizliyor)"
+
+#: game/scenes/locations/restaurant_sakuya_room.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "AkiraWindow"
+msgstr "{{akira.n}} (pencere)"
+
+#: game/scenes/gui/game_menu/galleries/movies.tscn
+msgctxt "galleries.movies.hints"
+msgid "Suivre l'histoire d'{{asami.n}}."
+msgstr "{{asami.n}}'in hikayesini takip et."
+
+#: game/scenes/gui/game_menu/galleries/movies.tscn
+msgctxt "galleries.movies.attribute"
+msgid "notan"
+msgstr "Bronzlaşma izleri"
+
+#: game/scenes/gui/game_menu/galleries/movies.tscn
+msgctxt "galleries.movies.attribute"
+msgid "tan"
+msgstr "Bronzlaşmış"
+
+#: game/scenes/gui/game_menu/galleries/movies.tscn
+msgctxt "galleries.movies.hints"
+msgid "Corrompre {{asami.n}}."
+msgstr "Yozlaşmış {{asami.n}}."
+
+#: game/scenes/gui/game_menu/galleries/movies.tscn
+msgctxt "galleries.movies.hints"
+msgid "Suivre l'histoire de {{sakuya.n}}."
+msgstr "{{sakuya.n}}'nın hikayesini takip et."
+
+#: game/scenes/gui/game_menu/galleries/movies.tscn
+msgctxt "galleries.movies.hints"
+msgid "Faire chanter {{noriko.n}}."
+msgstr "{{noriko.n}}'i şantaj etmek."
+
+#: game/scenes/gui/game_menu/galleries/movies.tscn
+msgctxt "galleries.movies.hints"
+msgid "Ne pas rejeter {{noriko.n}}."
+msgstr "{{noriko.n}}'i reddetme."
+
+#: game/scenes/gui/game_menu/galleries/movies.tscn
+msgctxt "galleries.movies.hints"
+msgid "Suivre l'histoire de {{yasuka.n}}."
+msgstr "{{yasuka.n}}'nın hikayesini takip et."
+
+#: game/scenes/gui/game_menu/galleries/movies.tscn
+msgctxt "galleries.movies.attribute"
+msgid "behind"
+msgstr "Arkanı görmek"
+
+#: game/scenes/gui/game_menu/galleries/movies.tscn
+msgctxt "galleries.movies.hints"
+msgid "Laisser travailler {{yasuka.n}} comme hôtesse."
+msgstr "{{yasuka.n}}'in hostes olarak çalışmasına izin ver."
+
+#: game/scenes/gui/game_menu/galleries/movies.tscn
+msgctxt "galleries.movies.attribute"
+msgid "akira"
+msgstr "{{akira.n}} ile"
+
+#: game/scenes/gui/game_menu/galleries/movies.tscn
+msgctxt "galleries.movies.hints"
+msgid "Choisir de dominer {{noriko.n}}."
+msgstr "{{noriko.n}}'i domine et."
