@@ -112,7 +112,7 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-07 19:57+0100\n"
-"PO-Revision-Date: 2024-06-22 14:19+0000\n"
+"PO-Revision-Date: 2024-06-23 08:57+0000\n"
 "Last-Translator: DayBat <870354653@qq.com>\n"
 "Language-Team: Chinese (Simplified) <https://translations.teot-studio.com/"
 "projects/goodbye-eternity/game-translation/zh_Hans/>\n"
@@ -56884,7 +56884,7 @@ msgstr "在{{noriko.n}}铸成大错前，去情趣酒店拦住她。"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "noriko_maledom_63"
-msgstr "[null]"
+msgstr "在{{noriko.n}}铸成大错前，去情趣酒店拦住她。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -63399,3 +63399,8 @@ msgstr "[null]"
 msgctxt "galleries.backgrounds.sprite"
 msgid "NobuPlay"
 msgstr "{{nobu.n}} (玩耍)"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_61f9b272_1"
+msgid "[font_size=14]Idiot ![/font_size]"
+msgstr "[font_size=14]笨蛋！[/font_size]"
