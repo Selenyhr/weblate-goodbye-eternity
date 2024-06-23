@@ -111,7 +111,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "PO-Revision-Date: 2024-06-24 15:19+0000\n"
-"Last-Translator: Иванов Станислав Сергеевич <Ivanovst4nist4v@yandex.ru>\n"
+"Last-Translator: Aleksandr <aleksandr-tugai@mail.ru>\n"
 "Language-Team: Russian <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/ru/>\n"
 "Language: ru\n"
@@ -63325,10 +63325,9 @@ msgid "Quoi ?! Non, je peux me débrouiller sans toi."
 msgstr "Что?! Ну уж нет, я могу позаботиться о себе и без твоей помощи."
 
 #: game/story/home_player_corridor.dialogue
-#, fuzzy
 msgctxt "t99357b3de5"
 msgid "Je ne me souviens pas t'avoir demandé ton avis."
-msgstr "Я тебя не спрашивала."
+msgstr "Не помню, чтобы я спрашивала твоего мнения."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "t746f84d886"
@@ -63387,10 +63386,9 @@ msgstr ""
 "В любом случае, как только ей что-то надоедает, она сразу же бросает это."
 
 #: game/story/home_player_corridor.dialogue
-#, fuzzy
 msgctxt "home_player_corridor_cae88a0c"
 msgid "Je pense que tu devrais sincèrement avoir une discussion avec elle."
-msgstr "Я думаю, вам просто нужно честно поговорить друг с другом."
+msgstr "Я думаю, тебе просто нужно честно поговорить с ней."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_15183c2b"
@@ -63473,16 +63471,14 @@ msgid ""
 msgstr "Прекрасно. Я боялся, что ты убежишь, но я рад, что ошибался."
 
 #: game/story/home_player_corridor.dialogue
-#, fuzzy
 msgctxt "home_player_corridor_be80cc7a"
 msgid ""
 "Non idiot ! J'étais venue pour passer un moment tranquille avec toi et jouer"
 " à la console toute la journée mais... Je ne savais pas qu'il y avait autant"
 " de monde chez toi."
 msgstr ""
-"Нет, дурак! Я пришла, чтобы провести с тобой немного времени в тишине и "
-"поиграть в игры весь день, но... Я не знала, что в твоем доме так много "
-"людей."
+"Нет, дурак! Я пришла, чтобы провести с тобой время в тишине и играть в игры "
+"весь день, но... Я не знала, что у тебя дома столько людей."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_677cc9b4"
@@ -64245,13 +64241,12 @@ msgid "Ouais... ouais..."
 msgstr "Да... Да..."
 
 #: game/story/home_kenji_exterior.dialogue
-#, fuzzy
 msgctxt "bar_exterior_28bc1757"
 msgid ""
 "T'inquiète pas ma beauté... Bientôt tu pourras de nouveau rouler... et ce "
 "jour-là..."
 msgstr ""
-"Не волнуйся, красавица... Скоро ты снова сможешь ездить верхом... и в этот "
+"Не переживай, моя красавица... Скоро ты снова сможешь кататься... и в этот "
 "день..."
 
 #: game/story/home_kenji_exterior.dialogue
@@ -65190,10 +65185,9 @@ msgid "Elle voulait vraiment que je me mette a genoux pour..."
 msgstr "Она действительно хотела, чтобы я встал на колени, чтобы..."
 
 #: game/story/warehouse_exterior.dialogue
-#, fuzzy
 msgctxt "warehouse_exterior_254c5efd"
 msgid "Qui aurait pensé que cette raclure de chiotte avait autant de succès ?"
-msgstr "Кто бы мог подумать, что этот кусок говна так преуспеет?"
+msgstr "Кто бы мог подумать, что этот кусок дерьма так преуспеет?"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "home_kimochi_exterior_40411d61"
@@ -65733,3 +65727,64 @@ msgid ""
 msgstr ""
 "[font_size=14]Нет... Ну, это почти случилось. Не то чтобы я не находила его "
 "привлекательным, но...[/font_size]"
+
+#: game/story/home_kimochi_exterior.dialogue
+msgctxt "home_kimochi_exterior_494b01e4"
+msgid "Tout le monde n'a pas la chance d'avoir un harem !!"
+msgstr "Не каждому посчастливится иметь такой гарем, как у тебя!"
+
+#: game/story/home_kimochi_exterior.dialogue
+msgctxt "home_kimochi_exterior_68b0e948"
+msgid "N'est-ce pas monsieur {{saito.n}} ?"
+msgstr "Не так ли, мистер {{saito.n}}?"
+
+#: game/story/home_kimochi_exterior.dialogue
+msgctxt "home_kimochi_exterior_d5fb4b5a"
+msgid "[font_size=14]Bouge toi, on t'attend ![/font_size]"
+msgstr "[font_size=14]Шевелись, мы тебя ждём![/font_size]"
+
+#: game/story/home_kimochi_exterior.dialogue
+msgctxt "home_kimochi_exterior_5046afd1"
+msgid "Allons-y tout de suite, ne perdons pas de temps !"
+msgstr "Идём прямо сейчас, не будем терять времени!"
+
+#: game/story/home_kimochi_exterior.dialogue
+msgctxt "home_kimochi_exterior_565db66e"
+msgid "Tout de suite ma reine !"
+msgstr "Как прикажете, моя королева!"
+
+#: game/story/home_kimochi_exterior.dialogue
+msgctxt "home_kimochi_exterior_c58da231"
+msgid ""
+"Il ne sera pas seul avant ce soir probablement donc en attendant je dois "
+"passer voir {{asami.n}}."
+msgstr ""
+"Он, вероятно, будет не один до самого вечера, так что, пока я должен зайти и "
+"навестить {{asami.n}}."
+
+#: game/story/home_kimochi_exterior.dialogue
+msgctxt "home_kimochi_exterior_ae982da4"
+msgid "Tu ne me caches rien ?"
+msgstr "Ты что-то от меня скрываешь?"
+
+#: game/story/home_kimochi_exterior.dialogue
+#, fuzzy
+msgctxt "home_kimochi_exterior_8ab6876e"
+msgid "Occupe-toi de tes affaires !"
+msgstr "Не лезь не в своё дело!"
+
+#: game/story/home_player_livingroom.dialogue
+#: game/story/home_player_yasuka_room.dialogue
+msgctxt "t44f9756af6"
+msgid "[next]"
+msgstr "[next]"
+
+#: game/story/home_kimochi_exterior.dialogue
+msgctxt "home_kimochi_exterior_1926119c"
+msgid "...[w] Bref, passons au Konbini avant."
+msgstr "...[w] В любом случае, давай сначала зайдём в конбини."
+
+#: game/story/home_kimochi_exterior.dialogue
+msgctxt "home_kimochi_exterior_97d2d62c"
+msgid "Je ne sais pas pourquoi tu es aussi pressée mais on a le temps..."
+msgstr "Не знаю, почему ты так спешишь, но у нас есть время..."
