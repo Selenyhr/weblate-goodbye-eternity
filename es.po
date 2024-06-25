@@ -112,7 +112,7 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-07 19:57+0100\n"
-"PO-Revision-Date: 2024-06-20 13:28+0000\n"
+"PO-Revision-Date: 2024-06-25 17:24+0000\n"
 "Last-Translator: Roger Miró <puniasterus@gmail.com>\n"
 "Language-Team: Spanish <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/es/>\n"
@@ -57371,7 +57371,9 @@ msgstr ""
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "noriko_maledom_63"
-msgstr "[null]"
+msgstr ""
+"Alcanza a {{noriko.n}} en el hotel del amor antes de que haga algo "
+"irreparable."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -61352,3 +61354,12 @@ msgstr "..."
 msgctxt "bar_exterior_13d8606f"
 msgid "Mais..."
 msgstr "Pero..."
+
+#: game/scenes/gui/gui_start_asami.tscn
+msgid "Vous avez fait le choix de [color=yellow]rester amis[/color]."
+msgstr "Elegiste [color=yellow]seguir siendo amigos[/color]."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t58a1744d48"
+msgid "Retour"
+msgstr "Volver"
