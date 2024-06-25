@@ -112,7 +112,7 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-07 19:57+0100\n"
-"PO-Revision-Date: 2024-06-25 10:47+0000\n"
+"PO-Revision-Date: 2024-06-25 17:24+0000\n"
 "Last-Translator: WangYu <joestblack@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://translations.teot-studio.com/"
 "projects/goodbye-eternity/game-translation/zh_Hans/>\n"
@@ -21499,10 +21499,9 @@ msgid "Et je pense qu'en écoutant {{yasuka.n}} lui expliquer la raison pour laq
 msgstr "她认真听{{yasuka.n}}解释了为什么我们会发展到这一步..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_d6dcdb2c"
 msgid "Elle s'est probablement mise à sa place."
-msgstr "所以愿意设身处地为{{yasuka.n}}着想。"
+msgstr "所以愿意设身处地为她着想。"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_4141febb"
@@ -66381,7 +66380,7 @@ msgstr "哎呀，我可怜的老朋友…你打得还算可以。"
 #: game/story/dojo_exterior.dialogue
 msgctxt "dojo_exterior_f52bcafa"
 msgid "...J'avoue que moi même je ne sais pas trop."
-msgstr ""
+msgstr "…我承认我其实自己也没那么清楚。"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_3d3fd553"
@@ -66447,7 +66446,7 @@ msgstr "[font_size=14]你要不要听听你在说什么？！[/font_size]"
 #: game/story/dojo_exterior.dialogue
 msgctxt "dojo_exterior_7afc8ce9"
 msgid "Tu essayais de prouver quoi en te lançant là-dedans ?"
-msgstr ""
+msgstr "你惹出这乱子是想证明些什么？"
 
 #: game/story/dojo_exterior.dialogue
 msgctxt "dojo_exterior_74b04dd2"
@@ -66475,3 +66474,293 @@ msgid ""
 "je te donnerai une récompense.[/font_size]"
 msgstr "[font_size=14]之后你会感谢我的，而且...[w] "
 "让我看看你有多勇敢，我就会给你个奖励的。[/font_size]"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "ta2dccf3a0b"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t3f9c49d299"
+msgid "..."
+msgstr "……"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "t814c558c8e"
+msgid "Tu n'as pas peur que ma mère nous surprenne ?"
+msgstr "你不怕我妈妈会给我们一个惊喜吗？"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t17e6a8e713"
+msgid "Discuter"
+msgstr "交谈"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "t2addd821bd"
+msgid "Je n'ai pas beaucoup dormi mais ça en valait la peine !"
+msgstr "我没能睡很久，但这是值得的。"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t60102eff9b"
+msgid "Sexe"
+msgstr "做爱。"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_noriko_room_closed_3f06fac8"
+msgid "Si je lui coupe le wifi, je suis certain à 200% qu'elle va sortir de sa chambre !"
+msgstr "也许把Wi-Fi关上能够引恶魔离开她的领地。"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "tbebaae39cc"
+msgid "{{yasuka.n}} semble bien vouloir absolument rattraper tout le temps perdu."
+msgstr "{{yasuka.n}} 要把以前没来得及做的都补上。"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "t6dfe63f33a"
+msgid "Pauvre {{asami.n}}..."
+msgstr "可怜的 {{asami.n}}..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t45b45539cf"
+msgid "[next]"
+msgstr "[next]"
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "t5c5bdad902"
+msgid "...[w] Oh ça sent les emmerdes à pleins nez ça !"
+msgstr "...[w]隔着八百米就能闻到一股麻烦的味道了。"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_9582b474"
+msgid "Quel effet ça t'a fait d'en mettre au moins une à cet idiot de {{nobu.n}} ?"
+msgstr "至少能给那个白痴{{nobu.n}}来上一拳的感觉如何？"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_f3ebe530"
+msgid "S'ils ne veulent plus accepter d'élèves pourquoi ils ne mettent pas simplement une putain de pancarte ?"
+msgstr "如果他们不想再收学生了，他们为什么不他妈的挂个牌子呢？"
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "t9dd1e4c53f"
+msgid "Oh ! Une dernière chose qui à son importance."
+msgstr "哦！最后一件事，也是最重要的事情。"
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "t19c5ae680d"
+msgid "J'ai une connaissance qui pourrait potentiellement te sortir de toute situation dangereuse."
+msgstr "我认识一个人，他应该能帮你摆脱任何危险情况。"
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "t98e4cd7b3a"
+msgid "Rien de particulier, je me baladais dans le quartier quand..."
+msgstr "没什么特别的啊，我当时在沿着街区散步然后…"
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "tc83a8ed316"
+msgid "Traduction, tu étais a un endroit ou tu ne devais pas être !"
+msgstr "翻译一下，你在一个你不该出现的地方!"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_bd4cb59d"
+msgid "On essaye de tuer le lâche qui sommeille en lui !"
+msgstr "我们在试图消灭寄生在他身体里的那个懦夫！"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_a64dab3d"
+msgid "On a pas d'argent !"
+msgstr "我们一分钱都没有！"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t58a1744d48"
+msgid "Retour"
+msgstr "返回"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t561f72a786"
+msgid "Partir"
+msgstr "离开。"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t68bbbd9360"
+msgid "[next]"
+msgstr "[next]"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "tccb792b07d"
+msgid "Je le savais !"
+msgstr "我就知道！"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "t60c70d70b6"
+msgid "Dormir avec {{noriko.n}}"
+msgstr "和 {{noriko.n}}一起睡"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "t7ae0480eb5"
+msgid "Tu as intérêt à rester discret."
+msgstr "你最好保持安静。"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "tc056176144"
+msgid "Tu as juste à te laisser faire."
+msgstr "你只需要要放手。"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "tc8831c52b9"
+msgid "Et si j'ai envie de résister ?"
+msgstr "如果我想反抗呢？"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "t39523ed3cc"
+msgid "Tu peux toujours essayer..."
+msgstr "你可以试试…"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "tc4131958bc"
+msgid "Mais...[w] Je ne te laisserais pas faire."
+msgstr "不过...[w] 我不会让你得手。"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "t0ff550a756"
+msgid "Humph !!"
+msgstr "哼唔唔唔！"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "t580883d222"
+msgid "Moi non plus !"
+msgstr "我也是！"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "t45cda2bc7c"
+msgid "et puis il y a {{sakuya.n}}... Je n'ai aucune idée de comment je vais la gérer."
+msgstr "还有一个 {{sakuya.n}}...我还不知道该怎么和她相处。"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "t79344e5734"
+msgid "Pourquoi tu dis ça ?"
+msgstr "你为什么这么说？"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "t9111b5deb3"
+msgid "...[w]Pour rien, t'es un cas désespéré."
+msgstr "...[w]没什么，你就是个木头脑袋。"
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "tc1015f02e7"
+msgid "Si jamais tu avis des problèmes."
+msgstr "如果你遇到麻烦的话。"
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "t8c111f8bdd"
+msgid "Vraiment ? Tu as ça dans tes amis ?"
+msgstr "真的吗？你还认识这么有能耐的人？"
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "t45f894b929"
+msgid "{{macumba.n}}..."
+msgstr "{{macumba.n}}..."
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "te138e74969"
+msgid "Pfff... On dirait une sorte d'incantation vaudoo."
+msgstr "噗…想起来像巫毒教的咒语。"
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "taa6797e737"
+msgid "Oui mais elle porte chance tu verras."
+msgstr "也么说也不算错，但是个幸运咒语，相信我。"
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "t939abaafa7"
+msgid "Purée mais comment vous faites pour..."
+msgstr "天杀的，为什么你总能…"
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "t8b0606b105"
+msgid "Oh le con ! Tu étais devant chez {{minato.n}} c'est ça ?!"
+msgstr "你失心疯啊！你去 {{minato.n}}家门口了，是吧？！"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_e2149467"
+msgid "Oh intéressant ! Fascinant même ! Je suis moi même un maître."
+msgstr "哦，有趣！ 令人赞叹简直！我是自己的主人。"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_c48c3ea1"
+msgid "Avec de bons conseils je suis certain de pouvoir faire quelque chose de toi... Moyennant un peu d'-"
+msgstr "配合优秀的指导，我肯定能将你训练出一身本领... 只要一点小—"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_160f5d47"
+msgid "Je peux vous faire un prix d'amis si vous voulez."
+msgstr "你们诚心想学的话我可以给你们个友情价。"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_abaa917f"
+msgid "Non merci ça ira !"
+msgstr "谢了不用，我们不需要！"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_4dbf42fb"
+msgid "Tchhh... Bande de petits ingrats !"
+msgstr "嘶... 你们这群忘恩负义的小崽子！"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_d52834ef"
+msgid "Alors satisfaite ?"
+msgstr "所以，你说够了吗？"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_ca2b2ba8"
+msgid "C'était bien plus satisfaisant que je le pensais."
+msgstr "比想象中的还令人满足得多。"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_8fd5b882"
+msgid "J'ai mal partout mais je m'en, remettrais."
+msgstr "我浑身是伤，但我能克服的。"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_b5cf9ea3"
+msgid "Retournons chez {{kimochi.n}} !"
+msgstr "我们回 {{kimochi.n}}的家吧！"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_41ffcc3f"
+msgid "Cet idiot? Mais pourquoi ?"
+msgstr "那个白痴？为什么？"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_e57dbd9e"
+msgid "Il est pas si inutile que tu penses."
+msgstr "他没你想象的那么差劲啦。"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_74be698c"
+msgid "Putain encore une journée de gâchée..."
+msgstr "该死，又浪费了一天…"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_28200032"
+msgid "Redites moi pourquoi on fait ça exactement ?"
+msgstr "提醒我一下我们为什么要这么做，具体点？"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_c5183291"
+msgid "...L'autre pignouf marque un point."
+msgstr "...另一个猪头说的有道理。"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_81dce7b1"
+msgid "On sert vraiment a rien ici, même si l'autre déchet de {{saito.n}} voulait s'inscrire il se ferait quand même jeter dehors."
+msgstr "我们在这里真的有什么用吗。即使{{saito.n}}那垃圾想来报名，他也会被扔出去的。"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_b94eff6d"
+msgid "[font_size=14]Les enfoirés...[/font_size]"
+msgstr "[font_size=14]那些混蛋...[/font_size]"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_755c5592"
+msgid "Arrêtez de vous plaindre..."
+msgstr "别再抱怨了..."
