@@ -113,7 +113,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-07 19:57+0100\n"
 "PO-Revision-Date: 2024-06-26 05:35+0000\n"
-"Last-Translator: WangYu <joestblack@gmail.com>\n"
+"Last-Translator: DayBat <870354653@qq.com>\n"
 "Language-Team: Chinese (Simplified) <https://translations.teot-studio.com/"
 "projects/goodbye-eternity/game-translation/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -66968,3 +66968,58 @@ msgstr "回家。"
 msgctxt "quests.hints"
 msgid "main_42_asami_reject_friendship"
 msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_friendship_4"
+msgstr "和{{asami.n}}一起回家。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_friendship_2"
+msgstr "和{{asami.n}}一起回家。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_friendship_3"
+msgstr "和{{asami.n}}一起回家。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_friendship_5"
+msgstr "和{{asami.n}}一起回家。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_friendship_6"
+msgstr "跟着{{asami.n}}和{{noriko.n}}去客厅。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_friendship_7"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_friendship_8"
+msgstr "陪{{asami.n}}回家。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_friendship_9"
+msgstr "睡觉。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_friendship_10"
+msgstr "和{{macumba.n}}一起训练。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_friendship_11"
+msgstr "跟着{{asami.n}}去运河。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_friendship_12"
+msgstr "陪{{asami.n}}回她家。"
