@@ -112,7 +112,7 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-07 19:57+0100\n"
-"PO-Revision-Date: 2024-06-26 12:54+0000\n"
+"PO-Revision-Date: 2024-06-27 07:14+0000\n"
 "Last-Translator: WangYu <joestblack@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://translations.teot-studio.com/"
 "projects/goodbye-eternity/game-translation/zh_Hans/>\n"
@@ -55443,7 +55443,7 @@ msgstr "他跟我说只要我答应做他的...性奴，他就保证没人敢再
 #: game/story/bus_stop.dialogue
 msgctxt "bus_stop_e0bf4162"
 msgid "Putain mais quel enfoiré !"
-msgstr "操，真他妈混蛋！"
+msgstr "操，真他妈是个畜生！"
 
 #: game/story/bus_stop.dialogue
 msgctxt "bus_stop_6f5389ca"
@@ -67783,7 +67783,7 @@ msgstr "我觉得是时候解决{{kenji.n}}了。"
 #: game/story/lake.dialogue
 msgctxt "lake_8ca1fc62"
 msgid "{{noriko.n}}... Tu m'as aidé pour me reprendre en main... À ta façon bien sûr."
-msgstr "{{noriko.n}}...你帮我回到了正轨….当然，以你自己的方式。"
+msgstr "{{noriko.n}}...你让我重新振作起来了….当然，用你的方式。"
 
 #: game/story/lake.dialogue
 msgctxt "lake_93d7880d"
@@ -67813,4 +67813,313 @@ msgstr "然后呢？"
 #: game/story/lake.dialogue
 msgctxt "lake_f301c440"
 msgid "Maintenant qu'on en a terminé tu m'ignores de nouveau ?"
-msgstr "现在我们结束了，你又无视我了？"
+msgstr "现在都解决了，你又不理我了？"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "te685980fbd"
+msgid "Oui !"
+msgstr "是的！"
+
+#: game/scenes/dialogue/vn_game_scene.tscn
+msgid "Retour"
+msgstr "返回"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t9390e2399b"
+msgid "Ça vient !"
+msgstr "我要射了！"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t5d0f7032d3"
+msgid "Plus vite !"
+msgstr "再快点～！"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "td57a081859"
+msgid "Plus vite !"
+msgstr "再快点～！"
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "t883c43b7cd"
+msgid "Spooning"
+msgstr "侧入式"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t97a0ce1559"
+msgid "Oh mon dieu oui !"
+msgstr "啊太棒了，真舒服！"
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "t8b5696d616"
+msgid "Pas seulement ce soir... J'en voudrais tous les jours."
+msgstr "不只是今晚…我每天都想要。"
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "ta0ddccc070"
+msgid "Quelqu'un voulait un peu de tendresse ce soir ?"
+msgstr "今晚想要个抱抱吗？"
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "te824b1b295"
+msgid "Mon chéri, je sens que ça vient !"
+msgstr "亲爱的，我感觉要来了！"
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "t310ee9fa6e"
+msgid "J'ai passé une merveilleuse nuit avec toi."
+msgstr "我和你一起度过了美妙的一夜。"
+
+#: game/story/lake.dialogue
+msgctxt "lake_1db034d5"
+msgid "Pfff comme tu voudras..."
+msgstr "噗，随你便…"
+
+#: game/story/lake.dialogue
+msgctxt "lake_47ca85e9"
+msgid "Quand j'y repense... tu semblais terriblement pressée que j'en finisse avec eux."
+msgstr "现在想起来…你似乎非常急迫地催促我和他们做个了断。"
+
+#: game/story/lake.dialogue
+msgctxt "lake_9fb4f4f9"
+msgid "Laisse tomber, il est trop tard à présent."
+msgstr "算了吧，已经太晚了。"
+
+#: game/story/lake.dialogue
+msgctxt "lake_b78879cb"
+msgid "Malheureusement pour moi à l'école, le fait qu'elle m'ait élevée seule a fait de moi un cas à part."
+msgstr "不幸的是，在学校里，她独自抚养我的事让我成了所谓的“异类”。"
+
+#: game/story/lake.dialogue
+msgctxt "lake_03e2b765"
+msgid "Ils sont trop nombreux et je voulais en finir vite."
+msgstr "可他们人太多了，我想尽快结束这一切。"
+
+#: game/story/lake.dialogue
+msgctxt "lake_204d0eb2"
+msgid "J'ai refusé mais il m'a menacée de s'en prendre à maman..."
+msgstr "我拒绝了，可他威胁要伤害妈妈…"
+
+#: game/story/lake.dialogue
+msgctxt "lake_dbf6a15d"
+msgid "Je te promets qu'il n'essaiera plus de s'en prendre à toi, tant que je serai là."
+msgstr "我保证，只要我在，他就别想碰你一根毫毛。"
+
+#: game/story/lake.dialogue
+msgctxt "lake_021b5183"
+msgid "Laisse-moi t'aider pour une fois."
+msgstr "请让我帮你一次吧。"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "tad37546a14"
+msgid "Quoi donc ?"
+msgstr "你什么意思？"
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "t0423ea197e"
+msgid "Missionary"
+msgstr "正常位"
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "te47f666780"
+msgid "Et encore plus si cela vient de toi."
+msgstr "更何况是你来抱我就更想要了。"
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "t1936b5aafb"
+msgid "Alors viens mon chéri."
+msgstr "那就快过来吧亲爱的。"
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "t839da3351d"
+msgid "Hmmm."
+msgstr "哼嗯嗯嗯。"
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "tb80883c431"
+msgid "Je suis si heureuse !"
+msgstr "我好开心！"
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "t776f1b292d"
+msgid "Oui c'est parfait."
+msgstr "嗯，太完美了。"
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "tc2cef3a190"
+msgid "Juste comme ça..."
+msgstr "就这样…"
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "t257a32ac70"
+msgid "Oh ouiii !"
+msgstr "啊～！好棒啊～！"
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "td5a137123a"
+msgid "Mon dieu... Tu es toujours aussi incroyable."
+msgstr "啊我的天呐…你总是棒到难以置信。"
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "t8c416a4d99"
+msgid "J'ai beau être restée allongée, je suis épuisée."
+msgstr "我筋疲力尽了，尽管我只是躺在那里。"
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "tba3ef1f831"
+msgid "La prochaine fois ce sera à mon tour de me laisser faire."
+msgstr "下次我要当被照顾的那个。"
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "t2695116478"
+msgid "Pourquoi pas..."
+msgstr "为什么不呢…"
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "tf257c0882b"
+msgid "Passe une très bonne journée mon amour."
+msgstr "好好享受今天我亲爱的。"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t344423c79c"
+msgid "S'il te plaît !"
+msgstr "求你了！"
+
+#: game/story/lake.dialogue
+msgctxt "lake_a98e3e4f"
+msgid "Mais je vois bien qu'il y a toujours quelque chose qui te préoccupe."
+msgstr "但我感觉你明显还在担心些什么。"
+
+#: game/story/lake.dialogue
+msgctxt "lake_07b1d2c1"
+msgid "Comme s'il y avait une date limite à tout ça..."
+msgstr "好像快要来不及了一样…"
+
+#: game/story/lake.dialogue
+msgctxt "lake_15f75d5d"
+msgid "...[w] Tu ne pourras rien contre lui, personne ne peut."
+msgstr "...[w] 你根本就不是他的对手。没人是。"
+
+#: game/story/lake.dialogue
+msgctxt "lake_abe858dc"
+msgid "S'il y a bien un truc que j'ai appris ces derniers temps c'est justement qu'il n'est jamais trop tard."
+msgstr "如果说我最近学到了什么，那就是一切都不会太晚。"
+
+#: game/story/lake.dialogue
+msgctxt "lake_f60eb0c3"
+msgid "Ce n'est pas à toi d'en décider, maintenant dis-moi de qui tu parles."
+msgstr "这不是由你来判断的。告诉我你说的人是谁。"
+
+#: game/story/lake.dialogue
+msgctxt "lake_d982de1e"
+msgid "Mais... tu étais la seule personne à me montrer de la gentillesse."
+msgstr "但...你却对我那么好。"
+
+#: game/story/lake.dialogue
+msgctxt "lake_13990668"
+msgid "À leurs yeux je n'étais que la fille d'une pute..."
+msgstr "因为在他们眼里，我就是妓女的女儿..."
+
+#: game/story/lake.dialogue
+msgctxt "lake_3b6a7f58"
+msgid "Après j'ai eu cette idée débile de faire appel aux trois idiots..."
+msgstr "我就想了这个蠢主意去找那三个傻瓜…"
+
+#: game/story/lake.dialogue
+msgctxt "lake_181ed5e2"
+msgid "Ah ça..."
+msgstr "哦，这…"
+
+#: game/story/lake.dialogue
+msgctxt "lake_770b9b12"
+msgid "Mais... À présent qu'on en a terminé avec les thugs..."
+msgstr "但…我们现在已经摆脱他们了…"
+
+#: game/story/lake.dialogue
+msgctxt "lake_a4f9f20e"
+msgid "Il va falloir s'occuper de tous ceux qui nous ont causé du tort."
+msgstr "我们会好好回击每个欺负我们的人。"
+
+#: game/story/lake.dialogue
+msgctxt "lake_91bb1bb2"
+msgid "C'est pour ça que j'ai demandé l'aide d'{{akira.n}}."
+msgstr "所以我去求 {{akira.n}}了。"
+
+#: game/story/lake.dialogue
+msgctxt "lake_4e3da6c0"
+msgid "Je n'aime pas la direction que prend cette conversation..."
+msgstr "但愿不是我想的那样…"
+
+#: game/story/lake.dialogue
+msgctxt "lake_1329b19a"
+msgid "Je devais devenir son plan cul personnel."
+msgstr "做他的性奴。"
+
+#: game/story/lake.dialogue
+msgctxt "lake_e8d5dd26"
+msgid "{{saito.n}} j'ai vraiment peur, ce type est capable de tout..."
+msgstr "{{saito.n}}，我好害怕。 那个人真的什么都做得出来…"
+
+#: game/story/lake.dialogue
+msgctxt "lake_cad9bc1f"
+msgid "Ne t'en fais pas, j'en fais mon affaire !"
+msgstr "不怕，我会对付他的！"
+
+#: game/story/lake.dialogue
+msgctxt "lake_ee2203c6"
+msgid "Mais il est bien plus fort que toi !"
+msgstr "可你真的打不过他的！"
+
+#: game/story/lake.dialogue
+msgctxt "lake_a4c11ba3"
+msgid "Putain j'en étais sur, ce type est une véritable ordure."
+msgstr "操他妈的，我就知道！那家伙真的就是畜生。"
+
+#: game/story/lake.dialogue
+msgctxt "lake_f2adc391"
+msgid "Il avait une sale réputation qui n'était plus à faire... Il me protégerait en échange de..."
+msgstr "他恶名昭彰，从来没人敢惹他…他答应保护我只要我…"
+
+#: game/story/lake.dialogue
+msgctxt "lake_cbacebf4"
+msgid "Plus maintenant !"
+msgstr "那是过去式了！"
+
+#: game/story/lake.dialogue
+msgctxt "lake_9a208089"
+msgid "Laisse moi m'occuper de ça !"
+msgstr "交给我吧！"
+
+#: game/story/lake.dialogue
+msgctxt "lake_1aad3c91"
+msgid "Tu devais le retrouver où ?"
+msgstr "他让你什么时候，去哪里找他？"
+
+#: game/story/lake.dialogue
+msgctxt "lake_38d2681e"
+msgid "Ce soir, devant le love hotel."
+msgstr "今晚，在情趣酒店门口。"
+
+#: game/story/lake.dialogue
+msgctxt "lake_e2a87085"
+msgid "Très bien, rentre a la maison."
+msgstr "好，回家等着吧。"
+
+#: game/story/lake.dialogue
+msgctxt "lake_667b9231"
+msgid "Je vais gérer ça personnellement !"
+msgstr "我会自己把这件事处理好的。"
+
+#: game/story/lake.dialogue
+msgctxt "lake_72454bac"
+msgid "Fais... Fais attention à toi !"
+msgstr "要…要小心点！"
+
+#: game/story/lake.dialogue
+msgctxt "lake_5386ef61"
+msgid "Idiot ! Je m'inquiète toujours pour toi !"
+msgstr "笨蛋！我一直都很担心你！"
+
+#: game/story/lake.dialogue
+msgctxt "lake_a0248723"
+msgid "...[w] Je pourrais apprécier ce côté où tu t'inquiètes pour moi tu sais..."
+msgstr "...[w]你知道吗，你担心我的时候样子还挺好看的…"
