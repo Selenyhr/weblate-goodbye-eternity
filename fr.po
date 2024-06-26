@@ -113,8 +113,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-06-25 12:54+0200\n"
-"PO-Revision-Date: 2024-06-25 13:01+0200\n"
+"POT-Creation-Date: 2024-06-26 14:36+0200\n"
+"PO-Revision-Date: 2024-06-26 14:40+0200\n"
 "Last-Translator: Dev Team <info@teot-studio.com>\n"
 "Language-Team: Dev Team\n"
 "Language: fr\n"
@@ -665,6 +665,11 @@ msgctxt "noriko_forgive_a02b5dd8"
 msgid "Oui !"
 msgstr "Oui !"
 
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "te685980fbd"
+msgid "Oui !"
+msgstr "Oui !"
+
 #: game/story/park.dialogue
 msgctxt "doggystyle_again_fa8791f1"
 msgid "Oui !"
@@ -772,6 +777,10 @@ msgstr "Retour"
 
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "tefcefacc7c"
+msgid "Retour"
+msgstr "Retour"
+
+#: game/scenes/dialogue/vn_game_scene.tscn
 msgid "Retour"
 msgstr "Retour"
 
@@ -8200,6 +8209,11 @@ msgctxt "talk_yasuka_339d426f"
 msgid "Quoi donc ?"
 msgstr "Quoi donc ?"
 
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "tad37546a14"
+msgid "Quoi donc ?"
+msgstr "Quoi donc ?"
+
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "home_kimochi_exterior_bbc669bd"
 msgid "Je ne fais pas ça pour le plaisir..."
@@ -12347,6 +12361,11 @@ msgstr "Ça vient !"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_bc3b1102"
+msgid "Ça vient !"
+msgstr "Ça vient !"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t9390e2399b"
 msgid "Ça vient !"
 msgstr "Ça vient !"
 
@@ -16630,6 +16649,16 @@ msgctxt "home_player_yasuka_room_26e61273"
 msgid "Plus vite !"
 msgstr "Plus vite !"
 
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t5d0f7032d3"
+msgid "Plus vite !"
+msgstr "Plus vite !"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "td57a081859"
+msgid "Plus vite !"
+msgstr "Plus vite !"
+
 #: game/story/park.dialogue
 msgctxt "doggystyle_again_b2e2bdea"
 msgid "Plus vite !"
@@ -20676,6 +20705,16 @@ msgid "Alors ? Tu as envie de quoi ce soir ?"
 msgstr "Alors ? Tu as envie de quoi ce soir ?"
 
 #: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "t883c43b7cd"
+msgid "Spooning"
+msgstr "Spooning"
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "t0423ea197e"
+msgid "Missionary"
+msgstr "Missionary"
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
 msgctxt "tb09c6ff4b8"
 msgid "La laisser dormir."
 msgstr "La laisser dormir."
@@ -23508,6 +23547,11 @@ msgctxt "t1778dd17f9"
 msgid "Oh mon dieu oui !"
 msgstr "Oh mon dieu oui !"
 
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t97a0ce1559"
+msgid "Oh mon dieu oui !"
+msgstr "Oh mon dieu oui !"
+
 #: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
 msgctxt "t26a1088e2f"
 msgid "Ca vient !"
@@ -23907,6 +23951,86 @@ msgstr "[font_size=14]...[/font_size]"
 msgctxt "kimochi_password_556679e5"
 msgid "[font_size=14]...[/font_size]"
 msgstr "[font_size=14]...[/font_size]"
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "ta0ddccc070"
+msgid "Quelqu'un voulait un peu de tendresse ce soir ?"
+msgstr "Quelqu'un voulait un peu de tendresse ce soir ?"
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "t8b5696d616"
+msgid "Pas seulement ce soir... J'en voudrais tous les jours."
+msgstr "Pas seulement ce soir... J'en voudrais tous les jours."
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "te47f666780"
+msgid "Et encore plus si cela vient de toi."
+msgstr "Et encore plus si cela vient de toi."
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "t1936b5aafb"
+msgid "Alors viens mon chéri."
+msgstr "Alors viens mon chéri."
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "t839da3351d"
+msgid "Hmmm."
+msgstr "Hmmm."
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "tb80883c431"
+msgid "Je suis si heureuse !"
+msgstr "Je suis si heureuse !"
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "t776f1b292d"
+msgid "Oui c'est parfait."
+msgstr "Oui c'est parfait."
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "tc2cef3a190"
+msgid "Juste comme ça..."
+msgstr "Juste comme ça..."
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "te824b1b295"
+msgid "Mon chéri, je sens que ça vient !"
+msgstr "Mon chéri, je sens que ça vient !"
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "t257a32ac70"
+msgid "Oh ouiii !"
+msgstr "Oh ouiii !"
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "td5a137123a"
+msgid "Mon dieu... Tu es toujours aussi incroyable."
+msgstr "Mon dieu... Tu es toujours aussi incroyable."
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "t8c416a4d99"
+msgid "J'ai beau être restée allongée, je suis épuisée."
+msgstr "J'ai beau être restée allongée, je suis épuisée."
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "tba3ef1f831"
+msgid "La prochaine fois ce sera à mon tour de me laisser faire."
+msgstr "La prochaine fois ce sera à mon tour de me laisser faire."
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "t2695116478"
+msgid "Pourquoi pas..."
+msgstr "Pourquoi pas..."
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "t310ee9fa6e"
+msgid "J'ai passé une merveilleuse nuit avec toi."
+msgstr "J'ai passé une merveilleuse nuit avec toi."
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "tf257c0882b"
+msgid "Passe une très bonne journée mon amour."
+msgstr "Passe une très bonne journée mon amour."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_wifi_a627f3ab"
@@ -32858,6 +32982,11 @@ msgctxt "home_asami_livingroom_20fa640b"
 msgid "S'il te plaît !"
 msgstr "S'il te plaît !"
 
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t344423c79c"
+msgid "S'il te plaît !"
+msgstr "S'il te plaît !"
+
 #: game/story/home_asami_livingroom.dialogue
 msgctxt "home_asami_livingroom_c07ed478"
 msgid "[font_size=14]...[w] D'accord...[/font_size]"
@@ -41464,6 +41593,206 @@ msgid "Piledriving"
 msgstr "Piledriving"
 
 #: game/story/home_player_noriko_room.dialogue
+msgctxt "tb857e566df"
+msgid "Aller... Montre-moi si tu t'es amélioré !"
+msgstr "Aller... Montre-moi si tu t'es amélioré !"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "tfabd20be6d"
+msgid "Mhh... Oui... Voilà..."
+msgstr "Mhh... Oui... Voilà..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "te7a81490e8"
+msgid "Doucement."
+msgstr "Doucement."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "tbbdf61a836"
+msgid "Continue c'est..."
+msgstr "Continue c'est..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t0107bdadc8"
+msgid "Parfait..."
+msgstr "Parfait..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t4f2833588b"
+msgid "Oh bon sang ! Oui vas-y !"
+msgstr "Oh bon sang ! Oui vas-y !"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t64e364fe26"
+msgid "Oh ouiii... Ouiiiii."
+msgstr "Oh ouiii... Ouiiiii."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t1f87b2e78f"
+msgid "Tu...[w] tu n'as pas envie de passer aux choses sérieuses maintenant ?"
+msgstr "Tu...[w] tu n'as pas envie de passer aux choses sérieuses maintenant ?"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "tf052c3bfac"
+msgid "Arrête de me faire languir !"
+msgstr "Arrête de me faire languir !"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t539dc1e77a"
+msgid "Je n'ai pas le droit d'apprécier le moment ?"
+msgstr "Je n'ai pas le droit d'apprécier le moment ?"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "tc10c78a3c4"
+msgid "Aller !"
+msgstr "Aller !"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t9b4954aa87"
+msgid "Aller !"
+msgstr "Aller !"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "tf124775777"
+msgid "C'est bon me voilà..."
+msgstr "C'est bon me voilà..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t530b7f11ab"
+msgid "Oui ! Voilà !"
+msgstr "Oui ! Voilà !"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "ta30e8a4982"
+msgid "Oh mon dieu, je vais jouir..."
+msgstr "Oh mon dieu, je vais jouir..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "tc8312e24e3"
+msgid "Je jouis !"
+msgstr "Je jouis !"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "tb602c5efbe"
+msgid "Satisfaite ?"
+msgstr "Satisfaite ?"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_a1c5c607"
+msgid "Satisfaite ?"
+msgstr "Satisfaite ?"
+
+#: game/story/park.dialogue
+msgctxt "doggystyle_again_384ee40d"
+msgid "Satisfaite ?"
+msgstr "Satisfaite ?"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t41aa53a63f"
+msgid "Oui... J'ai encore les jambes qui tremblent."
+msgstr "Oui... J'ai encore les jambes qui tremblent."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t9a31e67d1e"
+msgid "Non mais ça t'arrive jamais d'être épuisé ?"
+msgstr "Non mais ça t'arrive jamais d'être épuisé ?"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t83eabb5726"
+msgid "Non."
+msgstr "Non."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "tfe303cf97f"
+msgid "Dépêche-toi !"
+msgstr "Dépêche-toi !"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t55c6f9e6ff"
+msgid "Je n'ai pas le droit de profiter de l'instant ?"
+msgstr "Je n'ai pas le droit de profiter de l'instant ?"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t73e146c31c"
+msgid "C'est bon à présent ?"
+msgstr "C'est bon à présent ?"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "tc2b1a3ae76"
+msgid "Prends-moi fort !"
+msgstr "Prends-moi fort !"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t8dc2b2e9d9"
+msgid "Oui comme ça, continue !"
+msgstr "Oui comme ça, continue !"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t936b7ea322"
+msgid "Oh mon dieu !"
+msgstr "Oh mon dieu !"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t1f144eb41d"
+msgid "Oui...[w] Oui ![w] OUIII !!"
+msgstr "Oui...[w] Oui ![w] OUIII !!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t46c08473f6"
+msgid "...[w] Je veux ré-essayer."
+msgstr "...[w] Je veux ré-essayer."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t064a5d4276"
+msgid "Ne m'oblige pas à le dire... Prends juste... l'autre chemin."
+msgstr "Ne m'oblige pas à le dire... Prends juste... l'autre chemin."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t00262521f0"
+msgid "Oh ! Okay."
+msgstr "Oh ! Okay."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t3504f6b14e"
+msgid "Je comprends pas..."
+msgstr "Je comprends pas..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t5ecc2ed62a"
+msgid "Pourquoi c'est aussi bon ?"
+msgstr "Pourquoi c'est aussi bon ?"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t9a035e5f03"
+msgid "Mhhh."
+msgstr "Mhhh."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t9b12d4a165"
+msgid "Continue ! Continue !"
+msgstr "Continue ! Continue !"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "tb78b182571"
+msgid "Va plus vite encore !"
+msgstr "Va plus vite encore !"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t5ef66e234a"
+msgid "ÇA VIENT !!"
+msgstr "ÇA VIENT !!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "tfc6f37fc87"
+msgid "Tu n'es toujours pas fatigué ?"
+msgstr "Tu n'es toujours pas fatigué ?"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t5940d301fd"
+msgid "Moi ? Jamais !"
+msgstr "Moi ? Jamais !"
+
+#: game/story/home_player_noriko_room.dialogue
 msgctxt "pc_noriko_e7719ae9"
 msgid "Qu'est-ce qu'elle regardait comme ça... ?"
 msgstr "Qu'est-ce qu'elle regardait comme ça... ?"
@@ -43282,16 +43611,6 @@ msgstr "Allez !"
 msgctxt "akira_escape_f2f16850"
 msgid "Allez !"
 msgstr "Allez !"
-
-#: game/story/home_player_noriko_room.dialogue
-msgctxt "menu_rejet_noriko_final_a1c5c607"
-msgid "Satisfaite ?"
-msgstr "Satisfaite ?"
-
-#: game/story/park.dialogue
-msgctxt "doggystyle_again_384ee40d"
-msgid "Satisfaite ?"
-msgstr "Satisfaite ?"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_5efecf68"
@@ -66355,6 +66674,18 @@ msgctxt "arcade_center_interior_3f75181d"
 msgid "Comme ça on est deux."
 msgstr "Comme ça on est deux."
 
+#: game/scenes/dialogue/vn_game_scene.tscn
+msgid "Avance rapide"
+msgstr "Avance rapide"
+
+#: game/scenes/dialogue/vn_game_scene.tscn
+msgid "Menu"
+msgstr "Menu"
+
+#: game/scenes/dialogue/vn_game_scene.tscn
+msgid "Préférences"
+msgstr "Préférences"
+
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "city"
@@ -69828,6 +70159,11 @@ msgstr "{{chiaki.n}} (chat)"
 msgctxt "galleries.backgrounds.sprite"
 msgid "SakuyaStand"
 msgstr "{{sakuya.n}} (attente)"
+
+#: game/scenes/locations/home_player_livingroom.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "RouterLight"
+msgstr "Routeur"
 
 #: game/scenes/locations/home_player_livingroom.tscn
 msgctxt "galleries.backgrounds.sprite"
