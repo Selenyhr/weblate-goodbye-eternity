@@ -112,7 +112,7 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-07 19:57+0100\n"
-"PO-Revision-Date: 2024-06-26 05:36+0000\n"
+"PO-Revision-Date: 2024-06-26 05:37+0000\n"
 "Last-Translator: DayBat <870354653@qq.com>\n"
 "Language-Team: Chinese (Simplified) <https://translations.teot-studio.com/"
 "projects/goodbye-eternity/game-translation/zh_Hans/>\n"
@@ -67038,3 +67038,23 @@ msgstr "[null]"
 msgctxt "quests.hints"
 msgid "asami_friendship_15"
 msgstr "睡一个好觉之后，情况会好一些。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_friendship_17"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_friendship_16"
+msgstr "和{{asami.n}}一起去运河。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_friendship_18"
+msgstr "回家。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_friendship_19"
+msgstr "等待明天。"
