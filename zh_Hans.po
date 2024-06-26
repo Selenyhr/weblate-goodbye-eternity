@@ -112,8 +112,8 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-07 19:57+0100\n"
-"PO-Revision-Date: 2024-06-26 05:48+0000\n"
-"Last-Translator: DayBat <870354653@qq.com>\n"
+"PO-Revision-Date: 2024-06-26 12:35+0000\n"
+"Last-Translator: WangYu <joestblack@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://translations.teot-studio.com/"
 "projects/goodbye-eternity/game-translation/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -55058,12 +55058,12 @@ msgstr "[font_size=14]{{saito."
 #: game/story/bus_stop.dialogue
 msgctxt "bus_stop_47a42739"
 msgid "[font_size=14]J'ai compris je ne suis pas sourde ![/font_size]"
-msgstr "[font_size=14]我已经听你话了！我又不聋！[/font_size]"
+msgstr "[font_size=14]我听见了！我又不聋！[/font_size]"
 
 #: game/story/bus_stop.dialogue
 msgctxt "bus_stop_52de4434"
 msgid "Toi... On dirait que j'ai pas été assez clair."
-msgstr "我说...你是听不明白我说的话么。"
+msgstr "我说...你是听不明白我说的话嘛。"
 
 #: game/story/bus_stop.dialogue
 msgctxt "bus_stop_f2fdc689"
@@ -55158,7 +55158,7 @@ msgstr "…大概是…"
 #: game/story/bus_stop.dialogue
 msgctxt "bus_stop_2b1cbb4d"
 msgid "Non ! C'est une ordure c'est tout."
-msgstr "没有大概！他就是个渣滓，毋庸置疑。"
+msgstr "没有大概！他就是个畜生，毋庸置疑。"
 
 #: game/story/bus_stop.dialogue
 msgctxt "bus_stop_4bed1de7"
@@ -59445,7 +59445,7 @@ msgstr "勒索{{noriko.n}}。"
 #: game/scenes/gui/game_menu/galleries/movies.tscn
 msgctxt "galleries.movies.hints"
 msgid "Ne pas rejeter {{noriko.n}}."
-msgstr "不要拒绝{{noriko.n}}。"
+msgstr "不拒绝{{noriko.n}}。"
 
 #: game/scenes/gui/game_menu/galleries/movies.tscn
 msgctxt "galleries.movies.attribute"
@@ -60040,7 +60040,7 @@ msgstr "{{noriko.n}} (电脑)"
 #: game/scenes/locations/home_player_noriko_room.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "NorikoLeanNude"
-msgstr "{{noriko.n}} (等待, 裸体)"
+msgstr "{{noriko.n}} (等待，裸体)"
 
 #: game/scenes/locations/home_player_noriko_room.tscn
 msgctxt "galleries.backgrounds.sprite"
@@ -60065,7 +60065,7 @@ msgstr "{{noriko.n}} (坐姿)"
 #: game/scenes/locations/home_player_saito_room.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "AsamiDreamcastEveryday"
-msgstr "{{asami.n}} (游戏机, 普通)"
+msgstr "{{asami.n}} (游戏机，普通)"
 
 #: game/scenes/locations/home_player_yasuka_room.tscn
 msgctxt "galleries.backgrounds.sprite"
@@ -60110,12 +60110,12 @@ msgstr "{{natsume.n}} (散步)"
 #: game/scenes/locations/park.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "AsamiWalkDress"
-msgstr "{{asami.n}} (散步,打扮)"
+msgstr "{{asami.n}} (散步，打扮)"
 
 #: game/scenes/locations/park.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "AsamiWalkSexy"
-msgstr "{{asami.n}} (散步, 性感)"
+msgstr "{{asami.n}} (散步，性感)"
 
 #: game/scenes/locations/restaurant_exterior.tscn
 msgctxt "galleries.backgrounds.sprite"
@@ -60170,12 +60170,12 @@ msgstr "{{natsume.n}} (倚靠)"
 #: game/scenes/locations/home_player_noriko_room.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "NorikoSitNude"
-msgstr "{{noriko.n}} (坐姿, 裸体)"
+msgstr "{{noriko.n}} (坐姿，裸体)"
 
 #: game/scenes/locations/home_player_yasuka_room.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "NorikoCrouchNude"
-msgstr "{{noriko.n}} (蹲姿, 裸体)"
+msgstr "{{noriko.n}} (蹲姿，裸体)"
 
 #: game/scenes/locations/hostess_club_interior.tscn
 msgctxt "galleries.backgrounds.sprite"
@@ -60190,17 +60190,17 @@ msgstr "{{noriko.n}} (坐姿)"
 #: game/scenes/locations/home_asami_asami_room.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "AsamiSitEveryday"
-msgstr "{{asami.n}} (坐姿, 普通)"
+msgstr "{{asami.n}} (坐姿，普通)"
 
 #: game/scenes/locations/home_asami_asami_room.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "AsamiSitSexy"
-msgstr "{{asami.n}} (坐姿, 性感)"
+msgstr "{{asami.n}} (坐姿，性感)"
 
 #: game/scenes/locations/home_player_saito_room.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "AsamiDreamcastSexy"
-msgstr "{{asami.n}} (游戏机, 性感)"
+msgstr "{{asami.n}} (游戏机，性感)"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_b11d758e"
@@ -65960,7 +65960,7 @@ msgid ""
 "allé, tu t'es fais avoir et a présent tu en rejette la faute sur {{saito.n}}"
 " ? J'ai bien résumé."
 msgstr "所以总结一下就是，你明知这很危险，但你还是去了那里，明明是自己犯蠢才被抓，然"
-"后现在你倒打一耙怪{{saito.n}}？我说的是真相吧。"
+"后现在你倒打一耙怪给{{saito.n}}？我说的是真相吧。"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_72fff64e"
@@ -67217,4 +67217,555 @@ msgstr "被{{noriko.n}}支配。"
 #: game/scenes/gui/game_menu/galleries/movies.tscn
 msgctxt "galleries.movies.hints"
 msgid "Se laisser dominer par {{noriko.n}}."
-msgstr "由{{noriko.n}}主导。"
+msgstr "被{{noriko.n}}支配。"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_52879005"
+msgid "On sait jamais... Il sera peut être encore devant a m'attendre ?"
+msgstr "我怕那人还在…他可能还在外面等我。"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_48d60b65"
+msgid "T'es vraiment inutile comme gars !"
+msgstr "你真的是屁用不顶，兄弟！"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_895b9ae4"
+msgid "Vous voulez pas m'accompagner chez moi les mecs ?"
+msgstr "你们不想去我家吗？"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_113d2bbb"
+msgid "{{kenji.n}} ! Toi t'es pas un connard comme {{takeo.n}}, tu veux bien m'aider ?"
+msgstr "{{kenji.n}}！你不是像{{takeo.n}}那样的混蛋。你会帮我吗？"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_6c2ff241"
+msgid "On parle de {{saito.n}} le déchet ! Ce mec est une putain de victime, perdre contre lui c'est..."
+msgstr "不过就区区一个{{saito."
+"n}}，就那么个软柿子！一辈子都他妈不敢出头的死亡八。输给他简直…"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_8174110c"
+msgid "Nous verrons bien...[w] Mais si tu te fais défoncer toi aussi, ça voudra dire que toi aussi tu ne vaux moins que rien."
+msgstr "我们拭目以待......[w]但如果你也被揍扁了，那就说明你也狗屁不是。"
+
+#: game/story/lake.dialogue
+msgctxt "lake_16e71f3f"
+msgid "Quand les parents ont appris que l'une des filles de la classe n'avait probablement jamais connu son père, les premières critiques envers maman ont commencé."
+msgstr "家长们发现班里有个女生不知道自己爸爸是谁，就开始背后议论我妈妈。"
+
+#: game/story/lake.dialogue
+msgctxt "lake_c33ad280"
+msgid "Ça me revient maintenant... Je n'avais plus ma mère, mon père m'avait littéralement abandonné mais j'y avais gagné une sœur."
+msgstr "我很怀念...我失去了母亲，父亲抛弃了我，但我有一个妹妹。"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_ba9834eb"
+msgid "Ils t'ont fait vivre un enfer."
+msgstr "他们把你折磨得生不如死。"
+
+#: game/story/lake.dialogue
+msgctxt "lake_29d9a13a"
+msgid "... Au fur et à mesure du temps j'ai pensé qu'en m'éloignant de toi, en te repoussant suffisamment, ils te laisseraient tranquille."
+msgstr "...后来，我觉得只要躲着你，不再跟你那么要好，他们就会放过你。"
+
+#: game/story/lake.dialogue
+msgctxt "lake_08082e20"
+msgid "Et j'ai fait la même erreur que toi... Je n'ai pas voulu inquiéter {{yasuka.n}}..."
+msgstr "我们犯了同样的错误... 不想让{{yasuka.n}}担心所以不告诉她..."
+
+#: game/story/bus_stop.dialogue
+msgctxt "noriko_forgive_03ec9695"
+msgid "Je n'ai pas besoin de toi une seule fois et je ne compte pas faire appel à toi, ni maintenant ni jamais !"
+msgstr "我从来都不需要你帮忙，我也从来都没打算求你帮忙，现在不会，以后更不会！"
+
+#: game/story/bus_stop.dialogue
+msgctxt "noriko_forgive_552c32cf"
+msgid "Oh, je crois que j'ai mal entendu, répète un peu ?"
+msgstr "哈？我想我大概没听清楚。你再说一次？"
+
+#: game/story/bus_stop.dialogue
+msgctxt "noriko_forgive_3ec404ba"
+msgid "Ne t'approche pas de ma famille !"
+msgstr "不准靠近我的家人！"
+
+#: game/story/bus_stop.dialogue
+msgctxt "noriko_forgive_851dbf5b"
+msgid "J'attend ta réponse d'ici demain... Après ça, je ne répondrais plus de rien."
+msgstr "我等你的答复到明天…晚了，就只有天知道会怎么样了。"
+
+#: game/story/lake.dialogue
+msgctxt "lake_31ede489"
+msgid "Viens t'asseoir, on a pas mal de temps à tuer en attendant ce soir !"
+msgstr "坐过来。我们今晚有很多时间可以消磨！"
+
+#: game/story/lake.dialogue
+msgctxt "lake_ae148ef7"
+msgid "Et je ne mentionne pas la proposition que tu m'as faite hier dans la chambre..."
+msgstr "而且也不讨论你昨天在卧室里的那个提议前提下…"
+
+#: game/story/lake.dialogue
+msgctxt "lake_2536c814"
+msgid "Comme tu voudras... Mais c'est toi qui rate quelque chose."
+msgstr "听你的呗…不要是你的损失。"
+
+#: game/story/lake.dialogue
+msgctxt "lake_cf2cdee8"
+msgid "Comme nous vivions dans une maison plutôt correcte, les gens ont pensé qu'il n'y avait qu'une activité de ce style qui pouvait procurer ce niveau de vie."
+msgstr "因为我们家的房子很好，所以大家都信了，认为肯定是靠卖身我妈才负担得起。"
+
+#: game/story/bus_stop.dialogue
+msgctxt "noriko_forgive_0f0b917e"
+msgid "Je pensais que tu cherchais à m'éviter dernièrement..."
+msgstr "我觉得你最近在躲着我…"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_14c246d6"
+msgid "D'ailleurs en parlant de mec inutiles... Vous êtes pas restés comme je vous l'avais demandé hier !"
+msgstr "说起不中用的... 我昨天让你呆在门口守着你为什么不听！"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_e5fc8bee"
+msgid "J'ai autre chose à foutre que de faire le portier pendant que toi tu vis ta meilleure vie."
+msgstr "因为我有比傻站在那当门卫好让你能去快活更重要的事。"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_5df213f9"
+msgid "Parce que tu crois que je m'amuse pendant ce temps là enfoiré ?!"
+msgstr "你以为我每次离开都是去找乐子的吗，混蛋？"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_0517cb83"
+msgid "... Mec[w], ne me fais pas honte."
+msgstr "...老弟[w] , 别让我丢人了。"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_c4d48a58"
+msgid "Il a eu ce qu'il méritait."
+msgstr "他活该。"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_d9d1f13f"
+msgid "C'est clair !"
+msgstr "就是！"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_2416cc17"
+msgid "Fais nous des excuses enculé !"
+msgstr "跟我们道歉，混账玩意儿！"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_6e682aaa"
+msgid "Je n'ai pas besoins de vous pour gérer cette situation."
+msgstr "用不着你们，我自己就能摆平。"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_2ff0b13d"
+msgid "Ça... Ça n'arrivera pas !"
+msgstr "肯…肯定不会！"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_9cf0c347"
+msgid "On est comme des frères !"
+msgstr "我们是好兄弟！"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_7f17911f"
+msgid "{{takeo.n}}... On est frères seulement quand ça t'arrange !"
+msgstr "{{takeo.n}}... 只有你配得上的时候我们才是兄弟！"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_e6b02164"
+msgid "Quelqu'un d'autre hein..."
+msgstr "别人，嗯…"
+
+#: game/story/lake.dialogue
+msgctxt "lake_5a507ade"
+msgid "... Ça a commencé il y a des années."
+msgstr "…是好几年前的事了。"
+
+#: game/story/lake.dialogue
+msgctxt "lake_20c73d6c"
+msgid "À cette époque tu ne nous avais pas encore rejointes."
+msgstr "那时候，你还没有来我家。"
+
+#: game/story/lake.dialogue
+msgctxt "lake_e0bcf416"
+msgid "Maman travaillait beaucoup pour subvenir à nos besoins."
+msgstr "妈妈很辛苦地工作才能养家糊口。"
+
+#: game/story/lake.dialogue
+msgctxt "lake_0442acf3"
+msgid "Elle faisait de son mieux..."
+msgstr "她我给了我她最好的..."
+
+#: game/story/lake.dialogue
+msgctxt "lake_5f44d25a"
+msgid "J'ai été mise de côté, on a commencé à m'embêter d'abord un peu pour rigoler, puis au fur et à mesure les choses se sont emballées."
+msgstr "我被排挤了，班上的同学起初只是为了好笑捉弄我，但渐渐越来越过分。"
+
+#: game/story/bus_stop.dialogue
+msgctxt "noriko_forgive_8c68b1d5"
+msgid "Tu sais, que tu refuses je peux le comprendre, mais quelqu'un d'autre va devoir payer pour toi !"
+msgstr "你想怎么拒绝我都随意，但既然我来了你就得付出代价，不是你，那就是别人！"
+
+#: game/story/lake.dialogue
+msgctxt "lake_4d32bf5d"
+msgid "Je demandais juste..."
+msgstr "就随口问问…"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_4987d32c"
+msgid "Comme si cette fiotte avait les couilles de faire ça !"
+msgstr "说得好像那个怂货真有种敢做一样！"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_f422ae2c"
+msgid "On pourra l'avoir ensemble !"
+msgstr "我们可以一起抓住他！"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_81521bb4"
+msgid "Débrouille toi, si t'es un mec gère ça seul !"
+msgstr "自己搞定。真男人总是独当一面的。"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_0feb45b8"
+msgid "Reprends-toi !"
+msgstr "自己他妈的解决！"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_046fa181"
+msgid "Putain mais t'es sérieux {{kenji.n}} ?"
+msgstr "该死，你认真的吗，{{kenji.n}}？"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_1db42f50"
+msgid "Je vous avais prévenus mais personne ne m'écoute !"
+msgstr "我警告过你，但你不听我的！"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_afd91f6b"
+msgid "Mais ferme ta gueule toi ! Il m'a eu par surprise, un coup par derrière comme un foutu lâche."
+msgstr "哦，闭嘴吧！他打了我个措手不及，而且还是无耻的背后偷袭。"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_3d9933c9"
+msgid "[font_size=14]Ce batard a dit qu'il s'en prendrait a ma moto....[/font_size]"
+msgstr "[font_size=14]那混蛋说会把我的机车也抢走的....[/font_size]"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_de8c79c7"
+msgid "Tain les gars vous me faites honte, comment je vais expliquer ça au boss moi ?"
+msgstr "妈的，弟兄们， 你们真是把我的脸都丢干净了。你让我怎么去和老大解释?"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_d6c6e482"
+msgid "T'es le prochain mec..."
+msgstr "下一个就是你…"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_d596bf03"
+msgid "Putain vous me faites chier, même une simple merde comme lui vaut mieux que vous."
+msgstr "他奶奶的，你们真是气死我了。连他那种烂得扶不上的烂泥都烂不过你们。"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_0c220152"
+msgid "...[font_size=14]Ta gueule putain...[/font_size]"
+msgstr "...[font_size=14]把嘴他妈的闭上吧...[/font_size]"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_ad8fa899"
+msgid "Ouais...Et on va le chopper tous ensemble et lui faire regr-"
+msgstr "对…正好我们可以一举将他拿下然后让他悔—"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_7374f16f"
+msgid "Non, tu ne peux pas nous traiter comme de la merde et ensuite nous demander de l'aide comme si de rien n'était."
+msgstr "滚吧，把我们骂得狗血淋头还好意思让我们帮忙，脸可真大啊。"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_2ec2bd34"
+msgid "Vous faire des excuses ? Alors que c'est vous qui avez merdé ?"
+msgstr "跟你们道歉？你们他妈把事情办砸了还要我道歉？"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_1cf3a70e"
+msgid "Bon les gars soyez cool..."
+msgstr "算了，伙计们，都冷静点吧…"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_8de19e6f"
+msgid "On est potes après tout."
+msgstr "我们总归还是朋友。"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_e2bdae4d"
+msgid "J'ai pas souvenir que tu m'aies déjà traité comme un pote ou comme un frère justement."
+msgstr "我不记得你有像朋友或者兄弟一样对我。"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_e51aa65a"
+msgid "Putain les gars, me lâchez pas maintenant !"
+msgstr "该死，伙计们，别无视我啊！"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_191c3384"
+msgid "Débrouille toi, trouve quelqu'un d'autre si tu veux un coup de main."
+msgstr "自己想清楚！搞不定就去求别人帮忙吧。"
+
+#: game/story/lake.dialogue
+msgctxt "lake_2684528b"
+msgid "Ça a dérapé très vite, on a pensé qu'elle se prostituait et que j'étais l'enfant qu'elle avait eue avec l'un de ses clients."
+msgstr "谣言很快就传开了，说我妈是妓女，我是她跟嫖客生的。"
+
+#: game/story/lake.dialogue
+msgctxt "lake_4cbc8b5e"
+msgid "Mais ?! C'est horrible de penser un truc pareil !"
+msgstr "什么？！这些人也太恶心了！"
+
+#: game/story/lake.dialogue
+msgctxt "lake_20119698"
+msgid "Maman avait plusieurs emplois... et je savais qu'elle faisait de son mieux."
+msgstr "妈妈打了好几份工......才撑起这个家。"
+
+#: game/story/lake.dialogue
+msgctxt "lake_e0d70d10"
+msgid "Jamais elle n'a cédé à la facilité."
+msgstr "她挣的每一分钱都是对得起良心的干净钱。"
+
+#: game/story/lake.dialogue
+msgctxt "lake_aa743d6d"
+msgid "Je ne voulais pas les entendre dire ça, pas après tout ce qu'elle faisait."
+msgstr "我不想他们侮辱她，尤其在她如此含辛茹苦的情况下。"
+
+#: game/story/lake.dialogue
+msgctxt "lake_1f17067a"
+msgid "J'ai commencé à répondre, à me défendre, mais il était déjà trop tard."
+msgstr "我和所有人争辩，试图为妈妈辩解，但已经晚了。"
+
+#: game/story/lake.dialogue
+msgctxt "lake_0ab3a1c0"
+msgid "J'étais devenue leur cible et les critiques, les moqueries, tout était dirigé vers moi."
+msgstr "每一次被批评和数落的反而是我，他们在针对我。"
+
+#: game/story/lake.dialogue
+msgctxt "lake_9f9e9371"
+msgid "Bon sang..."
+msgstr "真该死..."
+
+#: game/story/lake.dialogue
+msgctxt "lake_3b1d0fbf"
+msgid "Quand tu es arrivé à la maison, je ne faisais plus confiance aux enfants de mon âge."
+msgstr "你来我家的时候，我早就觉得所有人都是坏人了。"
+
+#: game/story/lake.dialogue
+msgctxt "lake_833d362b"
+msgid "J'ai de bons souvenirs de cette période..."
+msgstr "那是我人生中最美好的回忆..."
+
+#: game/story/lake.dialogue
+msgctxt "lake_340e4cbf"
+msgid "Oui, moi aussi.[w] Mais ça n'a pas continué longtemps."
+msgstr "嗯，我也是。[w]但好景不长。"
+
+#: game/story/lake.dialogue
+msgctxt "lake_9d9cc55c"
+msgid "Ceux qui s'en prenaient à moi s'en sont pris à toi."
+msgstr "那些欺负我的人也开始欺负你了。"
+
+#: game/story/lake.dialogue
+msgctxt "lake_ba9834eb"
+msgid "Ils t'ont fait vivre un enfer."
+msgstr "他们把你折磨得生不如死。"
+
+#: game/story/lake.dialogue
+msgctxt "lake_494c7c20"
+msgid "Je vois... C'est là que ma mémoire s'arrête. On dit que c'est un mécanisme de défense."
+msgstr "我明白了...所以无论如何我都想不起来。是大脑在自我防卫。"
+
+#: game/story/lake.dialogue
+msgctxt "lake_12e31614"
+msgid "On oublie les souvenirs trop douloureux à supporter."
+msgstr "过于痛苦而难以承受的记忆会被遗忘。"
+
+#: game/story/lake.dialogue
+msgctxt "lake_231ec03e"
+msgid "Mais ça n'a pas duré longtemps."
+msgstr "但并没有。"
+
+#: game/story/lake.dialogue
+msgctxt "lake_63f30f9f"
+msgid "Te voir prendre des coups, jour après jour, c'était comme prendre des coups de poignard dans le cœur à chaque fois."
+msgstr "我只能眼睁睁看着你挨打，日复一日，让我心如刀绞。"
+
+#: game/story/lake.dialogue
+msgctxt "lake_4cf617a9"
+msgid "C'était comme si j'étais responsable de cette situation..."
+msgstr "如果我不疏远你，你起码不用独自承受..."
+
+#: game/story/bus_stop.dialogue
+msgctxt "noriko_forgive_377db4fd"
+msgid "Non... J'étais juste très occupée."
+msgstr "不...我只是真的很忙。"
+
+#: game/story/bus_stop.dialogue
+msgctxt "noriko_forgive_de72879a"
+msgid "C'est non !"
+msgstr "我拒绝！"
+
+#: game/story/bus_stop.dialogue
+msgctxt "noriko_forgive_7a45f1fd"
+msgid "Elle n'a rien à voir dans cette histoire !"
+msgstr "她跟这事没关系！"
+
+#: game/story/bus_stop.dialogue
+msgctxt "noriko_forgive_e46ed7bc"
+msgid "Tu sais ce qui va t'arriver si..."
+msgstr "你清楚会发生什么吧，如果你不—"
+
+#: game/story/bus_stop.dialogue
+msgctxt "noriko_forgive_165cdb3c"
+msgid "Je me demande bien ce qui était plus important que ça."
+msgstr "我不觉得有什么事能比这个重要。"
+
+#: game/story/bus_stop.dialogue
+msgctxt "noriko_forgive_ab0925ea"
+msgid "Bref... Quelle est ta décision ?"
+msgstr "所以…决定好了吗？"
+
+#: game/story/bus_stop.dialogue
+msgctxt "noriko_forgive_66465f12"
+msgid "J'ai dit non ! Je regrette d'être venue te voir, je n'aurai pas besoin de toi !"
+msgstr "我拒绝！我后悔跟你见面了！我不需要你。"
+
+#: game/story/bus_stop.dialogue
+msgctxt "noriko_forgive_8eb9816d"
+msgid "{{noriko.n}}, {{noriko.n}}, {{noriko.n}}... Ce n'est pas comme ça que ça fonctionne, tu le sais ?"
+msgstr "{{noriko.n}}， {{noriko.n}}， {{noriko.n}}… 这种事是你说不想就不想的吗？"
+
+#: game/story/bus_stop.dialogue
+msgctxt "noriko_forgive_d9699901"
+msgid "Je ne sais pas moi par exemple... Ta mère peut-être ?"
+msgstr "谁呢…不如…你妈妈吧？"
+
+#: game/story/bus_stop.dialogue
+msgctxt "noriko_forgive_dbb08126"
+msgid "Avec moi on paye toujours d'avance !"
+msgstr "在我这里，凡事必须有代价！"
+
+#: game/story/bus_stop.dialogue
+msgctxt "noriko_forgive_b533dc16"
+msgid "Ça ne tient qu'à toi !"
+msgstr "这取决于你！"
+
+#: game/story/bus_stop.dialogue
+msgctxt "noriko_forgive_128ec7e6"
+msgid "Tu... Tu n'as rien ?"
+msgstr "你…还好吗？"
+
+#: game/story/bus_stop.dialogue
+msgctxt "noriko_forgive_99e96fdc"
+msgid "C'est fini, il ne s'en prendra plus à nous désormais."
+msgstr "都结束了。他不会再缠着我们了。"
+
+#: game/story/bus_stop.dialogue
+msgctxt "noriko_forgive_1227a561"
+msgid "C'est terminé..."
+msgstr "结束了…"
+
+#: game/story/bus_stop.dialogue
+msgctxt "noriko_forgive_a66a6979"
+msgid "Mais... Qu'est-ce qui s'est passé, qu'est-ce que tu as fait pour qu-"
+msgstr "可…怎么回事？你是怎么能—"
+
+#: game/story/bus_stop.dialogue
+msgctxt "noriko_forgive_4c277fb4"
+msgid "On va dire qu'il n'était tout simplement plus à la hauteur."
+msgstr "这么说吧，他对我没法像以前那样硬起来了。"
+
+#: game/story/bus_stop.dialogue
+msgctxt "noriko_forgive_abfa94f5"
+msgid "On rentre à présent ?"
+msgstr "我们一起回家吧？"
+
+#: game/story/bus_stop.dialogue
+msgctxt "noriko_forgive_518134ef"
+msgid "Shhht laisse-moi en profiter juste encore un peu !"
+msgstr "嘘，让我再多享受一会！"
+
+#: game/story/lake.dialogue
+msgctxt "lake_0af37d08"
+msgid "A quoi tu penses ?"
+msgstr "你在想什么？"
+
+#: game/story/lake.dialogue
+msgctxt "lake_25dc4344"
+msgid "On a d'abord eu une relation très forte... Ça a changé pour diverses raisons."
+msgstr "我们本来亲密无间…但却渐行渐远。"
+
+#: game/story/lake.dialogue
+msgctxt "lake_5781bcdf"
+msgid "Tu m'as fait vivre un enfer, genre littéralement."
+msgstr "你把我的生活变成了地狱，不夸张的说。"
+
+#: game/story/lake.dialogue
+msgctxt "lake_85feaee9"
+msgid "Tout ça pour mon bien..."
+msgstr "全都是为了我好…"
+
+#: game/story/lake.dialogue
+msgctxt "lake_b0f0928f"
+msgid "... et aujourd'hui tu es là m'aider à changer pour le mieux."
+msgstr "…现在你又陪在我身边，帮我变得更好。"
+
+#: game/story/lake.dialogue
+msgctxt "lake_38bc82eb"
+msgid "Je me disais que j'avais vraiment du mal a te suivre..."
+msgstr "我在想，要理解你是怎么想的真是费劲啊…"
+
+#: game/story/lake.dialogue
+msgctxt "lake_046c9aaf"
+msgid "Et je ne mentionne pas ce qu'on a fait toi et moi hier dans la chambre..."
+msgstr "这还是在不讨论我们在卧室里干了什么的前提下…"
+
+#: game/story/lake.dialogue
+msgctxt "lake_559dc029"
+msgid "Nous ne sommes pas frère et sœur donc je ne vois pas où est le problème ?"
+msgstr "我们又不是真的兄妹，我不觉得有什么问题。"
+
+#: game/story/lake.dialogue
+msgctxt "lake_ff89d187"
+msgid "C'est à peu près ça..."
+msgstr "差不多这样吧…"
+
+#: game/story/lake.dialogue
+msgctxt "lake_4c9dbb2c"
+msgid "Tu prévois une autre récompense aussi si je mets une branlée à {{kenji.n}} ?"
+msgstr "如果我把{{kenji.n}}也痛扁一顿的话，还有奖励吗？"
+
+#: game/story/lake.dialogue
+msgctxt "lake_02dec0f4"
+msgid "...Donc on oublie tout le passé et on se concentre sur l'avenir en gros."
+msgstr "…所以我们现在应该，忘记过去，然后展望未来，吗？"
+
+#: game/story/lake.dialogue
+msgctxt "lake_d9096b73"
+msgid "Tu aimerais ?"
+msgstr "你想要吗？"
+
+#: game/story/lake.dialogue
+msgctxt "t7932c4e3c3"
+msgid "Ne dis pas de bêtises !"
+msgstr "别说胡话了！"
+
+#: game/story/lake.dialogue
+msgctxt "lake_63fe5d60"
+msgid "Oh monsieur {{saito.n}} préfère camper sur sa position ?"
+msgstr "哦，听起来 {{saito.n}} 先生挺有原则啊？"
+
+#: game/story/lake.dialogue
+msgctxt "lake_ab9924e2"
+msgid "Je vais prendre ton silence pour un oui."
+msgstr "不说话我就当你是想要了。"
