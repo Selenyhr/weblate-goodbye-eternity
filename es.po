@@ -112,7 +112,7 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-07 19:57+0100\n"
-"PO-Revision-Date: 2024-06-26 04:00+0000\n"
+"PO-Revision-Date: 2024-06-27 07:14+0000\n"
 "Last-Translator: Roger Miró <puniasterus@gmail.com>\n"
 "Language-Team: Spanish <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/es/>\n"
@@ -47554,7 +47554,7 @@ msgstr "¡Hola!"
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "kimochi_password_ea2d86fb_1"
 msgid "Salut !"
-msgstr "¡Oye!"
+msgstr "¡Hola!"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "kimochi_password_a2de39ce"
@@ -57019,7 +57019,7 @@ msgstr "Me pregunto hasta dónde llegará su locura."
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "noriko_femdom_5"
-msgstr "[null]"
+msgstr "Ve a registrarte en el [color=yellow]dojo[/color]."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -61388,3 +61388,498 @@ msgstr "..."
 msgctxt "home_player_corridor_13a6eff2"
 msgid "Salut !"
 msgstr "¡Hola!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_3f6b8829"
+msgid "Tu viens {{noriko.n}} ?"
+msgstr "¿Vienes {{noriko.n}} ?"
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Se laisser dominer par {{noriko.n}}."
+msgstr "Déjate dominar por {{noriko.n}}."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_13"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_60"
+msgstr "Ve a ver a {{noriko.n}} en su habitación."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_62"
+msgstr "Encuentra a {{noriko.n}} cerca del estanque."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_39_asami_reject_friendship_chiaki_restaurant_exterior"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_friendship_14"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_48"
+msgstr "Ve a ver a {{kimochi.n}}."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_9"
+msgstr "Vuelve al dojo y comprueba si los matones se han marchado."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_22"
+msgstr "Sigue a {{nobu.n}} hasta el salón arcade."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_33"
+msgstr "Ve a ver a {{noriko.n}} en su habitación."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_43"
+msgstr ""
+"Mantén a {{yasuka.n}} ocupada hasta que {{noriko.n}} pueda escabullirse."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_6"
+msgstr "Ve al dojo con {{noriko.n}}."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_23"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_24"
+msgstr "Continúa siguiendo a {{nobu.n}} hacia el konbini."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_31"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_32"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_38"
+msgstr "[null]"
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "yasuka_love_sexe_repeat_9156b917"
+msgid "Je..."
+msgstr "Yo..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "te685980fbd"
+msgid "Oui !"
+msgstr "¡Sí!"
+
+#: game/scenes/dialogue/vn_game_scene.tscn
+msgid "Retour"
+msgstr "Volver"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_40288dea"
+msgid "Hey !"
+msgstr "¡Oye!"
+
+#: game/story/canal.dialogue
+msgctxt "canal_f044b30a"
+msgid "Hey !"
+msgstr "¡Oye!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_3fa93862"
+msgid "Je..."
+msgstr "Yo..."
+
+#: game/story/canal.dialogue
+msgctxt "canal_0b7d8a15"
+msgid "Je..."
+msgstr "Yo..."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_0b7d8a15"
+msgid "Je..."
+msgstr "Yo..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_b3062610"
+msgid "Fait chier..."
+msgstr "Vete a la mierda..."
+
+#: game/story/canal.dialogue
+msgctxt "canal_f109e3c2"
+msgid "Fait chier..."
+msgstr "Vete a la mierda..."
+
+#: game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "arcade_interior"
+msgstr "Arcade (interior)"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_39_asami_reject_friendship_chiaki_dojo_exterior"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_39_asami_reject_friendship_chiaki_park"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_39_asami_reject_friendship_chiaki_home_player_exterior"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_42_asami_reject_friendship"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_41_asami_reject_friendship"
+msgstr "Vuelve a casa."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_friendship_17"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_friendship_23"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_friendship_24"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_friendship_25"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_friendship_21"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_friendship_22"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_friendship_18"
+msgstr "Vuelve a casa."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_14"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_15"
+msgstr "Ve a ver a {{noriko.n}} en su habitación."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_17"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_20"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_27"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_34"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_7"
+msgstr "Ve a ver a {{kimochi.n}}."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_8"
+msgstr "Ve a ver a {{kimochi.n}}."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_10"
+msgstr "Vuelve a ver a {{kimochi.n}}."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_11"
+msgstr "Pasa por el konbini antes de volver a casa."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_12"
+msgstr "Vuelve a casa."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_16"
+msgstr "Mañana será un día mejor."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_18"
+msgstr "Ve a ver a {{noriko.n}}."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_19"
+msgstr "Ve a ver a {{kimochi.n}} con {{noriko.n}}."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_21"
+msgstr "Espía a los matones en el dojo."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_25"
+msgstr "Continúa siguiendo a {{nobu.n}} hacia el konbini."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_26"
+msgstr "Sigue a {{nobu.n}} discretamente hasta su casa."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_28"
+msgstr "Vuelve a casa y descansa."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_29"
+msgstr "Vuelve a casa y descansa."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_30"
+msgstr "Ve al konbini y devuélvele el dinero a {{sayuri.n}}."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_35"
+msgstr "Ve a dormir."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_36"
+msgstr "Ve al bar de los barrios bajos."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_37"
+msgstr "Sigue a {{noriko.n}} hasta el parque."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_39"
+msgstr "Vuelve al bar y ocúpate de {{kenji.n}}."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_61"
+msgstr "Sal de casa."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_63"
+msgstr "Enfréntate a {{akira.n}} delante del hotel del amor."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_64"
+msgstr "Reúnete con {{noriko.n}} en la parada del autobús."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_65"
+msgstr "Vete a casa con {{noriko.n}}."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_66"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_67"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_68"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_69"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_70"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_71"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_72"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_73"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_44"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_49"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_51"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_52"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_53"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_54"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_55"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_56"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_58"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_59"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_47"
+msgstr "Ve a ver a {{kimochi.n}}."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_40"
+msgstr "Vuelve a casa."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_41"
+msgstr "Reúnete con {{noriko.n}} en el salón."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_42"
+msgstr "Reúnete con {{noriko.n}} en la habitación de {{yasuka.n}}."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_45"
+msgstr "Vuelve a tu habitación."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_46"
+msgstr "Es hora de dormir."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_50"
+msgstr "Habla con {{asami.n}} en el konbini."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_57"
+msgstr "Vete a casa y descansa para el último combate de mañana."
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Ne pas rejeter {{noriko.n}}."
+msgstr "No rechaces a {{noriko.n}}."
+
+#: game/scenes/locations/arcade_interior.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "NobuPlay"
+msgstr "{{nobu.n}} (arcade)"
+
+#: game/scenes/gui/game_menu/galleries/movies.tscn
+msgctxt "galleries.movies.hints"
+msgid "Se laisser dominer par {{noriko.n}}."
+msgstr "Déjate dominar por {{noriko.n}}."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_friendship_7"
+msgstr "[null]"
