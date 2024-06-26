@@ -112,7 +112,7 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-07 19:57+0100\n"
-"PO-Revision-Date: 2024-06-25 17:24+0000\n"
+"PO-Revision-Date: 2024-06-26 04:01+0000\n"
 "Last-Translator: WangYu <joestblack@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://translations.teot-studio.com/"
 "projects/goodbye-eternity/game-translation/zh_Hans/>\n"
@@ -66758,9 +66758,38 @@ msgstr "我们在这里真的有什么用吗。即使{{saito.n}}那垃圾想来�
 #: game/story/dojo_exterior.dialogue
 msgctxt "dojo_exterior_b94eff6d"
 msgid "[font_size=14]Les enfoirés...[/font_size]"
-msgstr "[font_size=14]那些混蛋...[/font_size]"
+msgstr "[font_size=14]这些混蛋...[/font_size]"
 
 #: game/story/dojo_exterior.dialogue
 msgctxt "dojo_exterior_755c5592"
 msgid "Arrêtez de vous plaindre..."
-msgstr "别再抱怨了..."
+msgstr "别再叽叽歪歪了..."
+
+#: game/scenes/gui/gui_start_asami.tscn
+msgid "Vous avez fait le choix de [color=yellow]rester amis[/color]."
+msgstr "你选择和她[color=yellow]保持朋友关系[/color]."
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_553fff79"
+msgid "On nous a donné une consigne et nous devons nous y tenir, c'est notre détermination qui est testée."
+msgstr "既然上头命令我们，就必须在这儿守着。这就是在考验我们的定力。"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_9c448c12"
+msgid "Mais... y'a personne, même le dojo est vide..."
+msgstr "可…哪有人来啊。连道场里都是空的…"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_8de5b6b6"
+msgid "Ferme ta bouche et contente toi d'attendre."
+msgstr "闭嘴守着吧！"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_16534e9a"
+msgid "[font_size=14]Vous faites chier sérieux...[/font_size]"
+msgstr "[font_size=14]你们这些家伙真的烦死人了...[/font_size]"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_d3bb6346"
+msgid "Je me casse !"
+msgstr "我不干了！"
