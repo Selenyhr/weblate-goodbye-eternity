@@ -113,17 +113,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-06-26 14:36+0200\n"
-"PO-Revision-Date: 2024-06-27 07:14+0000\n"
-"Last-Translator: Development team <info@teot-studio.com>\n"
-"Language-Team: French <https://translations.teot-studio.com/projects/"
-"goodbye-eternity/game-translation/fr/>\n"
+"POT-Creation-Date: 2024-06-27 13:21+0200\n"
+"PO-Revision-Date: 2024-06-27 13:28+0200\n"
+"Last-Translator: Dev Team <info@teot-studio.com>\n"
+"Language-Team: Dev Team\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8-bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.17\n"
+"X-Generator: Lokalize 24.05.1\n"
 
 #: game/scenes/cg/noriko/laptop.tscn
 msgid "Demi-Sœur Dépucelle Son Demi-Frère"
@@ -3167,6 +3166,11 @@ msgstr "Tu viens ?"
 
 #: game/story/onsen_bath.dialogue
 msgctxt "onsen_bath_4dcd7cbf"
+msgid "Tu viens ?"
+msgstr "Tu viens ?"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "te0df105c29"
 msgid "Tu viens ?"
 msgstr "Tu viens ?"
 
@@ -9062,6 +9066,11 @@ msgstr "Partir"
 
 #: game/story/onsen_bath.dialogue
 msgctxt "t6994e975c6"
+msgid "Partir"
+msgstr "Partir"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "tac447fde05"
 msgid "Partir"
 msgstr "Partir"
 
@@ -17125,6 +17134,11 @@ msgctxt "home_player_room_23f0987c"
 msgid "Tu veux que j'arrête ?"
 msgstr "Tu veux que j'arrête ?"
 
+#: game/story/home_player_livingroom.dialogue
+msgctxt "t676db2df8d"
+msgid "Tu veux que j'arrête ?"
+msgstr "Tu veux que j'arrête ?"
+
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_13504329"
 msgid "Hors de question ! Je vais plutôt augmenter la cadence !"
@@ -24068,6 +24082,11 @@ msgctxt "t786a368cb1"
 msgid "Discuter"
 msgstr "Discuter"
 
+#: game/story/home_player_livingroom.dialogue
+msgctxt "t3c4fb61ee5"
+msgid "Discuter"
+msgstr "Discuter"
+
 #: game/story/home_asami_livingroom.dialogue
 msgctxt "t2181f750a1"
 msgid "Discuter"
@@ -24118,6 +24137,11 @@ msgctxt "ta3f1ded669"
 msgid "Sexe"
 msgstr "Sexe"
 
+#: game/story/home_player_livingroom.dialogue
+msgctxt "t33a780d3b9"
+msgid "Sexe"
+msgstr "Sexe"
+
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "t60102eff9b"
 msgid "Sexe"
@@ -24132,6 +24156,111 @@ msgstr "Sexe"
 msgctxt "t85a3e0c5ea"
 msgid "Sexe"
 msgstr "Sexe"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "tcb65e2b33f"
+msgid "Qu'est-ce que tu fais ?"
+msgstr "Qu'est-ce que tu fais ?"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "t8cbe2758f3"
+msgid "Je t'attendais !"
+msgstr "Je t'attendais !"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_847cdc2c"
+msgid "Je t'attendais !"
+msgstr "Je t'attendais !"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "t213bc6254b"
+msgid "Tu veux dire que tu voulais qu'on..."
+msgstr "Tu veux dire que tu voulais qu'on..."
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "t7dcfd17a5e"
+msgid "Ah ! Doucement ! Je savais pas que tu étais si pressée..."
+msgstr "Ah ! Doucement ! Je savais pas que tu étais si pressée..."
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "tc30644acd0"
+msgid "Mmhhh ferme-là !"
+msgstr "Mmhhh ferme-là !"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "t812f02fd06"
+msgid "Mais {{yasuka.n}} pourrait nous surprendre..."
+msgstr "Mais {{yasuka.n}} pourrait nous surprendre..."
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "tf90eca5426"
+msgid "Alors fais moins de bruit !"
+msgstr "Alors fais moins de bruit !"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "t6d9ad3331f"
+msgid "Finalement tu sembles bien motivé."
+msgstr "Finalement tu sembles bien motivé."
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "t39ccd05bbb"
+msgid "NON !"
+msgstr "NON !"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "home_player_exterior_e01068a9"
+msgid "NON !"
+msgstr "NON !"
+
+#: game/story/coffeebar_exterior.dialogue
+msgctxt "talk_ubs_17e5b34d"
+msgid "NON !"
+msgstr "NON !"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "t636dac2e62"
+msgid "Shhht !"
+msgstr "Shhht !"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "t473ad6a9c6"
+msgid "[font_size=14]Je veux dire non ![/font_size]"
+msgstr "[font_size=14]Je veux dire non ![/font_size]"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "t536e6380a9"
+msgid "[font_size=14]Plus fort ![/font_size]"
+msgstr "[font_size=14]Plus fort ![/font_size]"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "t0ae29e84c6"
+msgid "Mhhhh oui !"
+msgstr "Mhhhh oui !"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "tbf11166cbb"
+msgid "[font_size=14]Je tiens plus debout...[/font_size]"
+msgstr "[font_size=14]Je tiens plus debout...[/font_size]"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "tf5f953dbdb"
+msgid "[font_size=14]Alors laisse-toi faire.[/font_size]"
+msgstr "[font_size=14]Alors laisse-toi faire.[/font_size]"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "tbbf445a06b"
+msgid "[font_size=14]Hey ! Qu'est-ce que tu fais ?![/font_size]"
+msgstr "[font_size=14]Hey ! Qu'est-ce que tu fais ?![/font_size]"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "t6a32302f0d"
+msgid "[font_size=14]Il me semblait pourtant que tu appréçiais.[/font_size]"
+msgstr "[font_size=14]Il me semblait pourtant que tu aies apprécié.[/font_size]"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "t733d02bdbd"
+msgid "[font_size=14]Tu aurais pu me prévenir ![/font_size]"
+msgstr "[font_size=14]Tu aurais pu me prévenir ![/font_size]"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "talk_yasuka_4fce3151"
@@ -43249,11 +43378,6 @@ msgid "Bordel mais pourquoi t'es encore à poil ?"
 msgstr "Bordel mais pourquoi t'es encore à poil ?"
 
 #: game/story/home_player_noriko_room.dialogue
-msgctxt "talk_noriko_847cdc2c"
-msgid "Je t'attendais !"
-msgstr "Je t'attendais !"
-
-#: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_ea095bd7"
 msgid "Quoi ?! Mais bordel, je ne veux pas jouer à ton petit jeu j'aimerais juste..."
 msgstr "Quoi ?! Mais bordel, je ne veux pas jouer à ton petit jeu j'aimerais juste..."
@@ -50161,16 +50285,6 @@ msgstr "Ne te force pas... Si tu n'as pas envie d'en parler, ce n'est pas grave.
 msgctxt "home_player_exterior_40c91e1d"
 msgid "Je vais te raccompagner chez toi..."
 msgstr "Je vais te raccompagner chez toi..."
-
-#: game/story/home_player_exterior.dialogue
-msgctxt "home_player_exterior_e01068a9"
-msgid "NON !"
-msgstr "NON !"
-
-#: game/story/coffeebar_exterior.dialogue
-msgctxt "talk_ubs_17e5b34d"
-msgid "NON !"
-msgstr "NON !"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "home_player_exterior_f9c4994b"
@@ -71067,3 +71181,4 @@ msgstr "Se laisser dominer par {{noriko.n}}."
 #~ msgctxt "character.sprite.group"
 #~ msgid "badge"
 #~ msgstr "Badge"
+
