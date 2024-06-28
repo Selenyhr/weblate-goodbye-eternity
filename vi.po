@@ -112,7 +112,7 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-07 19:57+0100\n"
-"PO-Revision-Date: 2024-05-30 15:37+0000\n"
+"PO-Revision-Date: 2024-06-28 21:03+0000\n"
 "Last-Translator: Hoang Nhat Minh <hoangnhatminh19102007@gmail.com>\n"
 "Language-Team: Vietnamese <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/vi/>\n"
@@ -11655,12 +11655,12 @@ msgstr "Bảo ngồi xuống !"
 #: game/story/home_player_corridor.dialogue
 msgctxt "talk_noriko_3df9a51c"
 msgid "J'ai beaucoup réfléchi depuis la dernière fois."
-msgstr "Tao đã nghĩ nhiều trong một thời gian dài..."
+msgstr "Tao đã nghĩ nhiều bấy lâu nay rồi..."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "talk_noriko_84b2077f"
 msgid "Et je trouve que pour un chien, tu es drôlement désobéissant."
-msgstr "... và tao nghĩ là với một con chó, mày quá là hư đốn."
+msgstr "... và, với một con chó như mày ý, mày quá là hư đốn."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "talk_noriko_a525e043"
@@ -11670,12 +11670,14 @@ msgstr "Tao cần phải giáo dục mày nghiêm khắc hơn mới được."
 #: game/story/home_player_corridor.dialogue
 msgctxt "talk_noriko_3619d0e8"
 msgid "Je ne supporte plus de te voir aller et venir à longueur de journée faire je ne sais quoi avec je ne sais qui."
-msgstr "Tao không thể chịu đựng được việc mày đi lung tung khắp nhà, làm cái đéo gì, gặp đĩ điếm nào mà chi có trời mới biết."
+msgstr ""
+"Tao không thể chịu đựng được việc mày đi lung tung khắp nhà, làm cái đéo gì, "
+"gặp đĩ điếm nào mà có trời mới biết."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "talk_noriko_8ce72db8"
 msgid "Tu n'es qu'un animal comme tous les autres."
-msgstr "Mày chỉ là một con thú vật."
+msgstr "Mày chỉ là một con súc vật."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "talk_noriko_d6749340"
@@ -11691,8 +11693,8 @@ msgstr "Nhưng từ nay sẽ không có chuyện ấy nữa."
 msgctxt "talk_noriko_d4bbeb03"
 msgid "Si je te vois encore trainer avec une autre femme que moi, je devrais sévir."
 msgstr ""
-"Tao mà bắt gặp mày giao du với một người đứa con gái nào khác tao, tao sẽ "
-"trừng phạt mày."
+"Tao mà bắt gặp mày giao du với một đứa con gái nào khác tao, tao sẽ cho mày "
+"lãnh đủ."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "talk_noriko_09cd89ea"
@@ -11707,7 +11709,7 @@ msgstr "Tốt. Một con chó ngoan."
 #: game/story/home_player_corridor.dialogue
 msgctxt "talk_noriko_c421c568"
 msgid "Oh, mais que vois-je ?"
-msgstr "Ồ, nhưng tao đang nhìn thấy cái gì thế này ?"
+msgstr "Ồ, thế mà cái cục cưng cứng gì đây ?"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "talk_noriko_96fdacd5"
@@ -22953,12 +22955,12 @@ msgstr "Không khí đang trở nên... hơi yên ắng nhể ?"
 #: game/story/home_player_exterior.dialogue
 msgctxt "talk_sakuya_c54b06bb"
 msgid "Y'a comme un malaise."
-msgstr "Có cái gì đó hơi... căng thẳng về mấy chuyện như này."
+msgstr "Bộ mình nhát gái quá hay gì... nhể."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "talk_sakuya_0e46956c"
 msgid "Tu sais... {{akira.n}} ne pensais pas à mal."
-msgstr "Bạn biết không... {{akira.n}} nói không sai đâu."
+msgstr "Bạn biết không... {{akira.n}} nói không có sai đâu."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "talk_sakuya_152c8fed"
@@ -22990,7 +22992,7 @@ msgstr ""
 #: game/story/home_player_exterior.dialogue
 msgctxt "talk_sakuya_67c72473"
 msgid "Quoi ?! Bien sûr que non."
-msgstr "Cái gì ?! Không, tất nhiên rồi."
+msgstr "Hở ?! À không, không có phải."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "talk_sakuya_49230adf"
@@ -61268,3 +61270,94 @@ msgstr "Tên file lưu"
 #: game/scenes/gui/main_menu.tscn
 msgid "Galeries"
 msgstr "Thư viện ảnh"
+
+#: game/story/canal.dialogue
+msgctxt "canal_7f6dc742"
+msgid "Oui !"
+msgstr "Có chứ !"
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "t0bfbfc30cf"
+msgid "Oui !"
+msgstr "Có luôn!"
+
+#: game/story/bus_stop.dialogue
+msgctxt "noriko_forgive_a02b5dd8"
+msgid "Oui !"
+msgstr "Được chứ !"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "td8a34bf2bb"
+msgid "Chanter, danser, jouer dans des dramas... Tu pensais à quoi exactement ?"
+msgstr "Ừm thì, ca hát, nhảy múa, cosplay... Bộ bạn nghĩ tới gì đó dzợ ?"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "t2e093246df"
+msgid "Au contraire je pense que tu t'es fixée un objectif assez ambitieux !"
+msgstr "Tớ, tớ nghĩ là cậu... khá là tiềm năng đó ấy chứ."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "te685980fbd"
+msgid "Oui !"
+msgstr "Ngay và luôn !"
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "home_player_hallway_f86a3991"
+msgid "J'ai déjà hâte d'y être."
+msgstr "Thật bồn chồn làm sao."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_ac754e82"
+msgid "J'espère bien !"
+msgstr "Chỉ biết ước :)!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t58a1744d48"
+msgid "Retour"
+msgstr "Quay lại"
+
+#: game/scenes/dialogue/vn_game_scene.tscn
+msgid "Retour"
+msgstr "Quay lại"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_3e85771d"
+msgid "Oui..."
+msgstr "Yeah..."
+
+#: game/scenes/gui/gui_start_asami.tscn
+msgid "Vous avez fait le choix de [color=yellow]rester amis[/color]."
+msgstr ""
+"Tình bạn, hay tình yêu ? [color=yellow]Tất nhiên là tình bạn rồi[/color]."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "t54df850f11"
+msgid "Mais... Quel genre d'idole exactement ?"
+msgstr "Nhưng mà... Idol... là Idol thế nào vậy nhỉ ?"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "t3eb455b673"
+msgid "Oh euh... À la même chose !"
+msgstr "À ờ... Tớ cũng... nghĩ thế !"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "t5fa84b5ef9"
+msgid "Je me sens désolé pour elle... {{akira.n}} s'est joué de sa crédulité pour la présenter aux mauvaises personnes."
+msgstr ""
+"Mình thấy tội bạn ấy quá đi... thằng chó {{akira.n}} ngon ngọt một hồi rồi "
+"\"Hải, quay xe!\" một cái, tống con bé vào chốn lầu xanh luôn."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "te90c81789c"
+msgid "Ce type est vraiment une pourriture."
+msgstr "Thằng súc sinh ấy dã man thật."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "t5ca79f2e84"
+msgid "Tu semble surpris ? Tu penses que je n'en suis pas capable ?"
+msgstr "Ngạc nhiên quá ha ? Chắc mình đúng là không có hợp với nghề này rồi..."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "tc3f49edc1f"
+msgid "Je voulais devenir une idole..."
+msgstr "Mình mún thành một idol..."
