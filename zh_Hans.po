@@ -113,7 +113,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-07 19:57+0100\n"
 "PO-Revision-Date: 2024-06-28 17:18+0000\n"
-"Last-Translator: WangYu <joestblack@gmail.com>\n"
+"Last-Translator: DayBat <870354653@qq.com>\n"
 "Language-Team: Chinese (Simplified) <https://translations.teot-studio.com/"
 "projects/goodbye-eternity/game-translation/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -71939,3 +71939,45 @@ msgstr "希望这白痴真的是要回家。我现在杀了他的心都有。"
 msgctxt "arcade_center_interior_3f75181d"
 msgid "Comme ça on est deux."
 msgstr "原来你也想杀了他啊。"
+
+#: game/scenes/dialogue/vn_game_scene.tscn
+msgid "Avance rapide"
+msgstr "快进"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_38_1_asami_reject_friendship"
+msgstr "我得去见{{minato.n}}。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_39_asami_reject_friendship_chiaki_restaurant_exterior"
+msgstr "[null]"
+
+#: game/scenes/dialogue/vn_game_scene.tscn
+msgid "Préférences"
+msgstr "偏好"
+
+#: game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "arcade_interior"
+msgstr "游戏中心内部"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_39_asami_reject_friendship"
+msgstr "我得尽快找到{{chiaki.n}}。"
+
+#: game/scenes/locations/home_player_livingroom.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "RouterLight"
+msgstr "路由器"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_38_asami_reject_friendship"
+msgstr "我得去见{{minato.n}}。"
+
+#: game/scenes/dialogue/vn_game_scene.tscn
+msgid "Menu"
+msgstr "菜单"
