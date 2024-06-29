@@ -110,7 +110,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
-"PO-Revision-Date: 2024-06-29 12:06+0000\n"
+"PO-Revision-Date: 2024-06-29 12:59+0000\n"
 "Last-Translator: Dogancan Yılmazer <dogancanyilmazer46@gmail.com>\n"
 "Language-Team: Turkish <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/tr/>\n"
@@ -64200,10 +64200,9 @@ msgid "T'es plutôt... Je veux dire..."
 msgstr "Sen daha çok öylesin... Demek istediğim..."
 
 #: game/story/canal.dialogue
-#, fuzzy
 msgctxt "canal_2b11d8d5"
 msgid "Oui dis-moi {{saito.n}}, ça m'intéresse, je suis ?.."
-msgstr "Evet söyle bana saito.n}}, ilgileniyorum, değil mi?.."
+msgstr "Evet söyle bana {{saito.n}}, ilgileniyorum, değil mi?.."
 
 #: game/story/canal.dialogue
 msgctxt "canal_e5720ab9"
@@ -64267,10 +64266,9 @@ msgid "Tiens mais qui voilà ?"
 msgstr "Burada, ama orada kim var?"
 
 #: game/story/canal.dialogue
-#, fuzzy
 msgctxt "canal_74ef2a24"
 msgid "{{asami.n}}... Je suis venu pour te présenter mes excuses."
-msgstr "asami.n}}... Senden özür dilemeye geldim."
+msgstr "{{asami.n}}... Senden özür dilemeye geldim."
 
 #: game/story/canal.dialogue
 msgctxt "canal_392ed8b1"
@@ -64325,10 +64323,9 @@ msgid "Je vais aller lui parler et mettre les choses au clair."
 msgstr "Gidip onunla konuşacağım ve rekoru kıracağım."
 
 #: game/story/canal.dialogue
-#, fuzzy
 msgctxt "canal_a9a627b3"
 msgid "Fais-moi confiance {{saito.n}}."
-msgstr "Güven bana saito.n}}."
+msgstr "Güven bana {{saito.n}}."
 
 #: game/story/canal.dialogue
 msgctxt "canal_a90aa9c1"
@@ -64336,10 +64333,9 @@ msgid "J'en aurais pas pour longtemps !"
 msgstr "Uzun sürmeyecek!"
 
 #: game/story/canal.dialogue
-#, fuzzy
 msgctxt "t6ec60c8085"
 msgid "[i]Ne rien dire.[/i]"
-msgstr "[ben] Hiçbir şey söyleme.[/ben]"
+msgstr "[i]Hiçbir şey söyleme.[/i]"
 
 #: game/story/canal.dialogue
 msgctxt "canal_a0f478d6"
@@ -64347,11 +64343,10 @@ msgid "J'accepte mais seulement quelques minutes."
 msgstr "Kabul ediyorum ama sadece birkaç dakikalığına."
 
 #: game/story/canal.dialogue
-#, fuzzy
 msgctxt "canal_fa14eca9"
 msgid "{{saito.n}}, je suis sincèrement désolée je vais devoir te laisser quelques minutes."
 msgstr ""
-"saito.n}}, Size birkaç dakika vermek zorunda kalacağım için içtenlikle "
+"{{saito.n}}, sana birkaç dakika vermek zorunda kalacağım için gerçekten "
 "üzgünüm."
 
 #: game/story/canal.dialogue
@@ -64407,10 +64402,9 @@ msgstr ""
 "geldim."
 
 #: game/story/canal.dialogue
-#, fuzzy
 msgctxt "canal_5bb43214"
 msgid "{{minato.n}} va me raccompagner chez moi directement."
-msgstr "minato.beni doğrudan eve götürecek."
+msgstr "{{minato.n}} beni doğrudan evime götürecek."
 
 #: game/story/canal.dialogue
 msgctxt "canal_46ac28a6"
@@ -64450,10 +64444,9 @@ msgid "T'es qui et tu me veux quoi ?"
 msgstr "Sen kimsin ve benden ne istiyorsun?"
 
 #: game/story/canal.dialogue
-#, fuzzy
 msgctxt "canal_4ce9c7c5"
 msgid "Tu peux m'appeler {{kimochi.n}}."
-msgstr "Bana kimochi diyebilirsin.n}}."
+msgstr "Bana {{kimochi.n}} diyebilirsin."
 
 #: game/story/canal.dialogue
 msgctxt "canal_6a1fd3d9"
@@ -64486,10 +64479,9 @@ msgid "J'y penserais..."
 msgstr "Bunu düşünürdüm..."
 
 #: game/story/canal.dialogue
-#, fuzzy
 msgctxt "tc85942e946"
 msgid "Je me demande comment ça se passe avec {{asami.n}}."
-msgstr "Asami ile işlerin nasıl gittiğini merak ediyorum.n}}."
+msgstr "{{asami.n}} ile işlerin nasıl gittiğini merak ediyorum."
 
 #: game/story/canal.dialogue
 msgctxt "canal_6f6d4133"
@@ -64512,13 +64504,11 @@ msgid "Tss... Tu as vraiment une si mauvaise opinion de moi ?"
 msgstr "Tss... Hakkımda gerçekten bu kadar kötü bir fikrin var mı?"
 
 #: game/story/canal.dialogue
-#, fuzzy
 msgctxt "canal_d186b2b7"
 msgid "Je ne sais pas... Le fait que tu agisses comme une sorte d'électron libre, un coup en compagnie de {{minato.n}}, l'autre avec nous, ne m'aide pas vraiment à avoir confiance en toi."
 msgstr ""
-"Hiçbir fikrim yok... Bir tür serbest elektron gibi davranman, minato "
-"eşliğinde bir darbe.n}}, yanımızdaki diğeri, sana güvenmeme pek yardımcı "
-"olmuyor."
+"Bilmiyorum... Bir kez {{minato.n}} ile, diğer kez bizimle birlikte bir tür "
+"serbest elektron gibi davranman sana güvenmeme pek yardımcı olmuyor."
 
 #: game/story/canal.dialogue
 msgctxt "canal_2c87a577"
@@ -64798,10 +64788,9 @@ msgid "Tire toi maintenant !"
 msgstr "Hemen defol buradan!"
 
 #: game/story/home_player_saito_room.dialogue
-#, fuzzy
 msgctxt "t60c70d70b6"
 msgid "Dormir avec {{noriko.n}}"
-msgstr "Noriko ile yatmak.n}}"
+msgstr "{{noriko.n}} ile uyuyorum"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "t7ae0480eb5"
@@ -64844,10 +64833,9 @@ msgid "Je n'ai pas beaucoup dormi mais ça en valait la peine !"
 msgstr "Fazla uyuyamadım ama buna değdi!"
 
 #: game/story/home_player_saito_room.dialogue
-#, fuzzy
 msgctxt "home_player_room_c1111ed6"
 msgid "J'ai repoussé la proposition d'{{asami.n}} et je pense que j'ai bien fait."
-msgstr "Asami'nin teklifini reddettim.n}} ve sanırım doğru yaptım."
+msgstr "{{asami.n}}'nin teklifini reddettim ve iyi iş çıkardığımı düşünüyorum."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_16c260e9"
@@ -64911,10 +64899,9 @@ msgid "Venir ici était définitivement une bonne idée."
 msgstr "Buraya gelmek kesinlikle iyi bir fikirdi."
 
 #: game/story/home_player_saito_room.dialogue
-#, fuzzy
 msgctxt "home_player_room_fc8b3430"
 msgid "Et puis {{noriko.n}} n'était pas si horrible que ça."
-msgstr "Ve sonra {{noriko.o kadar da korkunç değildi."
+msgstr "Ve {{noriko.n}} o kadar da kötü değildi."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_5bdbc391"
@@ -64983,10 +64970,9 @@ msgid "Est-ce que je suis juste une blague pour vous ?"
 msgstr "Sana şaka mı yapıyorum?"
 
 #: game/story/home_player_saito_room.dialogue
-#, fuzzy
 msgctxt "home_player_room_db7bd06d"
 msgid "Est-ce qu'{{asami.n}} sera là aujourd'hui ?"
-msgstr "Bu{{asami.bugün orada olacak mısın?"
+msgstr "{{asami.n}} bugün orada olacak mı?"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_c8fac591"
@@ -65000,12 +64986,11 @@ msgstr ""
 "Annemden başka bir kadın seninle ilgilendiğinde, daha çok endişelenebilirsin!"
 
 #: game/story/home_player_saito_room.dialogue
-#, fuzzy
 msgctxt "home_player_room_3a6ec138"
 msgid "...si je l'ai invité à la base c'est parce qu'elle s'était faite lâchement jeter par {{minato.n}} alors qu'elle lui avait fait sa déclaration."
 msgstr ""
-"...eğer onu üsse davet ettiysem, bunun nedeni minato tarafından korkakça "
-"terk edilmiş olmasıdır.n}} ona ifadesini verdiğinde."
+"...eğer onu üsse davet ettiysem bunun nedeni, ona açıklama yaptığında "
+"{{minato.n}} tarafından korkakça dışarı atılmış olmasıydı."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_41585cac"
@@ -65020,12 +65005,11 @@ msgstr ""
 "istedim..."
 
 #: game/story/home_player_saito_room.dialogue
-#, fuzzy
 msgctxt "home_player_room_08756560"
 msgid "Pfff t'es un idiot... Si ce type est trop con pour ne pas se rendre compte qu'{{asami.n}} est géniale c'est qu'il a de la merde dans les yeux."
 msgstr ""
-"Pfff sen bir aptalsın... Eğer bu adam asami'nin farkına varamayacak kadar "
-"aptalsa.n}} harika olan şey, gözlerinde bok olması."
+"Pfff sen bir aptalsın... Eğer bu adam {{asami.n}}'nin harika olduğunu fark "
+"edemeyecek kadar aptalsa, o zaman gözlerinde bok var demektir."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_fc73d998"
@@ -65033,10 +65017,9 @@ msgid "Courir au parc."
 msgstr "Parka koşuyorum."
 
 #: game/story/home_player_saito_room.dialogue
-#, fuzzy
 msgctxt "home_player_room_896104e0"
 msgid "Et {{asami.n}} ?"
-msgstr "Ve asami.n}} ?"
+msgstr "Peki {{asami.n}}?"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_92143c6c"
@@ -65128,13 +65111,11 @@ msgid "Ai-je besoin d'une raison pour aller voir un ami ?"
 msgstr "Bir arkadaşıma gitmek için bir nedene ihtiyacım var mı?"
 
 #: game/story/home_player_saito_room.dialogue
-#, fuzzy
 msgctxt "home_player_room_076531de"
 msgid "...Tu marques un point. Mais honnêtement après ce qui m'est arrivé hier soir avec {{minato.n}} je ne sais plus trop comment fonctionne l'amitié."
 msgstr ""
-"...Bir noktaya değindin. Ama dürüst olmak gerekirse dün gece minato'yla "
-"başıma gelenlerden sonra.artık arkadaşlığın nasıl yürüdüğünü gerçekten "
-"bilmiyorum."
+"...Haklısın. Ama açıkçası dün gece {{minato.n}} ile başıma gelenlerden sonra "
+"artık arkadaşlığın nasıl yürüdüğünü gerçekten bilmiyorum."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_f80c4bc0"
@@ -65152,41 +65133,37 @@ msgid "Dormir n'aura pas été suffisant..."
 msgstr "Uyumak yeterli olmayacaktı..."
 
 #: game/story/home_player_saito_room.dialogue
-#, fuzzy
 msgctxt "home_player_room_cd6a6693"
 msgid "{{noriko.n}} ?"
-msgstr "noriko.n}} ?"
+msgstr "{{noriko.n}} ?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_fc8becd8"
 msgid "{{noriko.n}} ?"
-msgstr "noriko.n}} ?"
+msgstr "{{noriko.n}} ?"
 
 #: game/story/bus_stop.dialogue
-#, fuzzy
 msgctxt "noriko_forgive_fc8becd8"
 msgid "{{noriko.n}} ?"
-msgstr "noriko.n}} ?"
+msgstr "{{noriko.n}} ?"
 
 #: game/story/bus_stop.dialogue
-#, fuzzy
 msgctxt "noriko_forgive_fc8becd8_1"
 msgid "{{noriko.n}} ?"
-msgstr "noriko.n}} ?"
+msgstr "{{noriko.n}} ?"
 
 #: game/story/home_player_saito_room.dialogue
-#, fuzzy
 msgctxt "tbebaae39cc"
 msgid "{{yasuka.n}} semble bien vouloir absolument rattraper tout le temps perdu."
-msgstr "yasuka.kaybedilen tüm zamanı telafi etmek için çaresiz görünüyor."
+msgstr ""
+"{{yasuka.n}} kesinlikle kaybedilen zamanı telafi etmek istiyor gibi "
+"görünüyor."
 
 #: game/story/home_player_saito_room.dialogue
-#, fuzzy
 msgctxt "t45cda2bc7c"
 msgid "et puis il y a {{sakuya.n}}... Je n'ai aucune idée de comment je vais la gérer."
 msgstr ""
-"ve sonra {{sakuya var.n}}... Bununla nasıl başa çıkacağım hakkında hiçbir "
+"ve sonra {{sakuya.n}} var... Bununla nasıl başa çıkacağım hakkında hiçbir "
 "fikrim yok."
 
 #: game/story/home_player_saito_room.dialogue
@@ -65304,10 +65281,9 @@ msgstr ""
 "korkarsam, kaçınılmaz olarak aynı hataları tekrar yaparım."
 
 #: game/story/home_player_saito_room.dialogue
-#, fuzzy
 msgctxt "home_player_room_02c2d0f8"
 msgid "En particulier avec {{noriko.n}} !"
-msgstr "Özellikle noriko ile.n}} !"
+msgstr "Özellikle {{noriko.n}} ile!"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_b86f5905"
@@ -65315,18 +65291,16 @@ msgid "C'est décidé, demain j'arrête d'être un lâche !"
 msgstr "Karar verildi, yarın korkak olmayı bırakacağım!"
 
 #: game/story/home_player_saito_room.dialogue
-#, fuzzy
 msgctxt "home_player_room_540a2c18"
 msgid "Allez ma décision est prise... Allons voir {{noriko.n}}."
-msgstr "Hadi, kararım verildi... Gidip noriko'yu görelim.n}}."
+msgstr "Hadi, kararım verildi... Hadi gidip {{noriko.n}}'yu görelim."
 
 #: game/story/home_player_saito_room.dialogue
-#, fuzzy
 msgctxt "home_player_room_2da32710"
 msgid "En attendant d'aller voir {{noriko.n}}, je ferais mieux d'aller rendre à {{sayuri.n}} ce que {{nobu.n}} lui a volé."
 msgstr ""
-"Noriko'yu görmek için bekliyorum.gidip sayuri'yi ziyaret etsem iyi olacak.n}}"
-" ne {{nobu.ondan çaldım."
+"Ben {{noriko.n}}'yu görmeyi beklerken gidip {{nobu.n}}'nun ondan çaldığı "
+"{{sayuri.n}}'ya dönsem iyi olur."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_b7862e21"
@@ -65414,10 +65388,9 @@ msgid "Non merci, on s'en sortira tout seul !"
 msgstr "Hayır teşekkürler, kendi başımıza hallederiz!"
 
 #: game/story/home_player_saito_room.dialogue
-#, fuzzy
 msgctxt "home_player_room_f7952ce0"
 msgid "{{saito.n}}...[w] Fais attention à toi, j'ai un mauvais pressentiment."
-msgstr "saito.n}}...kendine iyi bak, içimde kötü bir his var."
+msgstr "{{saito.n}}...[w] Dikkatli ol, içimde kötü bir his var."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_b6759527"
@@ -65444,10 +65417,9 @@ msgid "On a la prochaine adresse ?"
 msgstr "Sıradaki adresi biliyor muyuz?"
 
 #: game/story/home_player_saito_room.dialogue
-#, fuzzy
 msgctxt "home_player_room_adf01100"
 msgid "Oui celle de {{kenji.n}}."
-msgstr "Evet, kenji'ninki.n}}."
+msgstr "Evet {{kenji.n}}'ninki."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_ef0ecd35"
@@ -65505,10 +65477,10 @@ msgid "...[w] Juste... Dépêchons-nous."
 msgstr "...[w] Sadece... Acele edelim."
 
 #: game/story/home_player_saito_room.dialogue
-#, fuzzy
 msgctxt "home_player_room_fd64390e"
 msgid "Tête de bite m'a contactée pour la maison de {{takeo.n}}."
-msgstr "Sik kafalı, takeo'nun evi hakkında benimle iletişime geçti.n}}."
+msgstr ""
+"Sik kafalı, {{takeo.n}}'nun eviyle ilgili olarak benimle iletişime geçti."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_49f1a54a"
@@ -65842,7 +65814,7 @@ msgstr "Evet, evet!"
 #: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
 msgctxt "t0f833dbc13"
 msgid "mmhhhhh Oui Oui Ouiiii !"
-msgstr "mmhhhhh Evet Evet Evet Evet!"
+msgstr "mmhhhhh Evet Evet Evet Evetttttt!"
 
 #: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
 msgctxt "td1eb83fca6"
@@ -65920,12 +65892,11 @@ msgid "Merde !"
 msgstr "Bok!"
 
 #: game/story/home_player_saito_room.dialogue
-#, fuzzy
 msgctxt "home_player_room_d891e03c"
 msgid "Je suis contente d'avoir appris à te connaître {{saito.n}}, j'espère sincèrement qu'on pourra se revoir."
 msgstr ""
-"Seni tanıdığıma sevindim saito.n}}, içtenlikle tekrar görüşebileceğimizi "
-"umuyorum."
+"Seni tanıdığıma çok sevindim {{saito.n}}, tekrar görüşebileceğimizi "
+"içtenlikle umuyorum."
 
 #: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
 msgctxt "t2fd7eee741"
@@ -66229,3 +66200,23 @@ msgstr "...kendinden emin misin?"
 msgctxt "tf29a7685e8"
 msgid "Tu... tu ne viens pas ?"
 msgstr "Sen... gelmiyor musun?"
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "t62dc6be753"
+msgid "Ca craint pas que j'ai..."
+msgstr "Bu hiç de korkutucu değil..."
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "t471916c4c4"
+msgid "C'est que maintenant que tu t'en préoccupe ?"
+msgstr "Bunu yalnızca şimdi mi önemsiyorsun?"
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "t9f07dd3022"
+msgid "On s'en fiche, je prend la pillule !"
+msgstr "Kimin umurunda, hapı alıyorum!"
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "tccd59f0e25"
+msgid "Essayons plutot autre chose."
+msgstr "Bunun yerine başka bir şey deneyelim."
