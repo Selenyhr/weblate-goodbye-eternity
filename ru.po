@@ -110,7 +110,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
-"PO-Revision-Date: 2024-06-29 17:02+0000\n"
+"PO-Revision-Date: 2024-06-29 17:53+0000\n"
 "Last-Translator: Иванов Станислав Сергеевич <Ivanovst4nist4v@yandex.ru>\n"
 "Language-Team: Russian <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/ru/>\n"
@@ -2047,7 +2047,7 @@ msgstr "Спать в одиночестве"
 #: game/story/home_player_saito_room.dialogue
 msgctxt "sleep_menu_53c814c7"
 msgid "Allez, j'ai du pain sur la planche !"
-msgstr "Давай! У меня еще есть работа!"
+msgstr "Вперёд! У меня есть работа!"
 
 #: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
 msgctxt "yasuka_love_sexe_repeat_53c814c7"
@@ -2207,7 +2207,7 @@ msgstr "В следующий раз давай поспим в моей ком�
 #: game/story/home_player_saito_room.dialogue
 msgctxt "sleeping_with_yasuka_saito_room_87ebd839"
 msgid "Je suppose que tu veux dormir avec moi cette nuit ?"
-msgstr "Догадываюсь, что этой ночью ты хочешь спать со мной?"
+msgstr "Дай угадаю, этой ночью ты снова хочешь поспать со мной?"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "sleeping_with_yasuka_saito_room_d51ada21"
@@ -2277,12 +2277,12 @@ msgstr "Ещё одна чудесная ночка..."
 #: game/story/home_player_saito_room.dialogue
 msgctxt "sleeping_with_yasuka_saito_room_4a5609e2"
 msgid "Je suis content que tu dormes aussi bien."
-msgstr "Рад, что тебе прекрасно спалось."
+msgstr "Рад, что тебе хорошо спалось."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "sleeping_with_yasuka_saito_room_c4bbc95b"
 msgid "N'hésite pas à me le dire si jamais je suis trop envahissante."
-msgstr "Не стесняйся сказать, если я слишком навязчивая."
+msgstr "Не стесняйся сказать, если я слишком навязчива."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "sleeping_with_yasuka_saito_room_6388eb64"
@@ -3991,6 +3991,7 @@ msgid "Bon, quand faut y aller, faut y aller."
 msgstr "Нужно делать то, что нужно, а не то, что хочется."
 
 #: game/story/home_player_saito_room.dialogue
+#, fuzzy
 msgctxt "halteres_6031261b"
 msgid "Selon {{macumba.n}}, le bandeau devrait se brancher ici..."
 msgstr "Если верить {{macumba.n}}, то бандану нужно подключить вот сюда..."
@@ -4048,7 +4049,7 @@ msgstr "[i]Единственный способ добиться прогрес
 #: game/story/home_player_saito_room.dialogue
 msgctxt "halteres_8b4685b7"
 msgid "[i]Mettre sa vie en jeu.[/i]"
-msgstr "[i]Поставьте свою жизнь на кон.[/i]"
+msgstr "[i]Поставь свою жизнь на кон.[/i]"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "halteres_adb086e9"
@@ -4058,7 +4059,7 @@ msgstr "Да ладно, из какого это аниме?"
 #: game/story/home_player_saito_room.dialogue
 msgctxt "halteres_55de9ed1"
 msgid "[i]La première chose à expérimenter, c'est la douleur.[/i]"
-msgstr "[i]Первое, что вам нужно испытать, это боль.[/i]"
+msgstr "[i]Первое, что тебе нужно испытать, это боль.[/i]"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "halteres_575353fe"
@@ -4108,12 +4109,12 @@ msgstr "[i]Тебя ещё раз ударит током.[/i]"
 #: game/story/home_player_saito_room.dialogue
 msgctxt "halteres_4f05de0c"
 msgid "Putain..."
-msgstr "Да Блять."
+msgstr "Да блять."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "home_player_exterior_4f05de0c"
 msgid "Putain..."
-msgstr "Сууукааа..."
+msgstr "Бля..."
 
 #: game/story/park.dialogue
 msgctxt "park_4f05de0c"
@@ -4153,7 +4154,9 @@ msgstr "[i]Вот и всё, братан. На сегодня трениров�
 #: game/story/home_player_saito_room.dialogue
 msgctxt "halteres_e62355ab"
 msgid "[i]Si tu ressens de la douleur dans les bras et les pecs, c'est que tu as bien travaillé.[/i]"
-msgstr "[i]Если у вас болят руки или грудные мышцы, это означает, что вы хорошо потренировались.[/i]"
+msgstr ""
+"[i]Если у тебя болят руки или грудные мышцы, это означает, что ты хорошо "
+"потренировался.[/i]"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "halteres_64609877"
@@ -4188,12 +4191,12 @@ msgstr "После еще одного-двух занятий, я думаю, �
 #: game/story/home_player_saito_room.dialogue
 msgctxt "halteres_23a75d96"
 msgid "Allez ! Je ne dois pas oublier pourquoi je fais tout ça !"
-msgstr "Ну же! Я должен помнить, почему я это делаю."
+msgstr "Ну же! Я должен помнить, зачем я это делаю."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "halteres_6cf44cb9"
 msgid "Il est temps de passer au niveau 2."
-msgstr "Время перейти к уровню 2."
+msgstr "Время перейти ко уровню 2."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "halteres_ce47c619"
@@ -4238,7 +4241,7 @@ msgstr "Но я думаю, что привыкаю к этому."
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_ddd07557"
 msgid "Mon chéri, j'espère que je ne te dérange pas, mais je crois qu'il y a quelqu'un pour toi devant la maison."
-msgstr "Солнышко, прости за беспокойство, но там тебя ждут у входа."
+msgstr "Солнышко, прости за беспокойство, но возле входа тебя кто-то ждёт."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_e8b03ae9"
@@ -4248,7 +4251,7 @@ msgstr "В это время суток? {{minato.n}} что ли?"
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_3ad7cebc"
 msgid "Non, c'est une belle jeune fille en kimono."
-msgstr "Нет, молодая барышня в кимоно."
+msgstr "Нет, молодая девушка в кимоно."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_463b4fe1"
@@ -11800,7 +11803,7 @@ msgstr "О боже."
 #: game/story/home_player_corridor.dialogue
 msgctxt "talk_noriko_09593c00"
 msgid "J'ai le cœur qui bat à 200 à l'heure."
-msgstr "Моё сердце просто сумасшедше бьется."
+msgstr "Моё сердце бьётся как сумасшедшее."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "talk_noriko_dcaf134f"
@@ -19442,7 +19445,7 @@ msgstr "Мне так приятно видеть тебя таким."
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_e283da46"
 msgid "Avant, tu semblais si déprimé."
-msgstr "Раньше ты выглядил таким депрессивным."
+msgstr "Раньше ты выглядел таким депрессивным."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_4fd38db4"
@@ -28245,7 +28248,7 @@ msgstr "Тренировка"
 #: game/story/park.dialogue
 msgctxt "t955076f05b"
 msgid "[color=yellow]De la puissance[/color]"
-msgstr "[color=yellow]Мне нужна сила"
+msgstr "[color=yellow]Мне нужна сила[/color]"
 
 #: game/story/park.dialogue
 msgctxt "tbae3384d71"
@@ -28356,8 +28359,8 @@ msgstr "Ну тогда НАЧНЁМ!"
 msgctxt "talk_macumba_ce30b131"
 msgid "Vous ne savez plus si vous êtes là pour préserver votre virginité anale ou pour augmenter votre endurance..."
 msgstr ""
-"Вы ещё сами не знаете: вы здесь для увеличения вашей стамины или для того, "
-"чтобы лишиться анальной девственности..."
+"Вы ещё сами не знаете: вы здесь для увеличения вашей выносливости или для "
+"того, чтобы лишиться анальной девственности..."
 
 #: game/story/park.dialogue
 msgctxt "tb6192adb08"
@@ -28392,7 +28395,7 @@ msgstr "Братишка, ты делаешь успехи, не так уж и 
 #: game/story/park.dialogue
 msgctxt "talk_macumba_4623c6f5"
 msgid "N'oublie pas de bien rester hydraté et de t'étirer."
-msgstr "Не забывай также про питьё и растяжку."
+msgstr "Не забывай также про воду и растяжку."
 
 #: game/story/park.dialogue
 msgctxt "talk_macumba_69432704"
@@ -28407,7 +28410,7 @@ msgstr "Завтра усложняем."
 #: game/story/park.dialogue
 msgctxt "talk_macumba_b55286c6"
 msgid "On n'était pas déjà au maximum ?"
-msgstr "Так это... не предел?.."
+msgstr "Так это... не предел?..."
 
 #: game/story/park.dialogue
 msgctxt "talk_macumba_96837f64"
@@ -28452,7 +28455,7 @@ msgstr "Я замучу тебе стальные мышцы."
 #: game/story/park.dialogue
 msgctxt "talk_asami_62163926"
 msgid "Mais pour ça... Il faut détruire les anciens !"
-msgstr "Но для этого... Нужно тебя сломать полностью!"
+msgstr "Но для этого... Тебя нужно полностью сломать!"
 
 #: game/story/park.dialogue
 msgctxt "talk_asami_e1c00035"
@@ -28474,8 +28477,8 @@ msgstr "Давай, братиш, начинай бежать."
 msgctxt "talk_asami_adaddc93"
 msgid "[i]Isekai. Si ce nom vous parait familier de nos jours, c'est parce qu'il est devenu un sous-genre à part entière du manga.[/i]"
 msgstr ""
-"[i]Если слово ‘исекай' звучит вам знакомо сейчас, то это потому, что оно "
-"стало означать самостоятельный поджанр манги.[/i]"
+"[i]Если слово «исекай» звучит знакомо, то это потому, что оно означает "
+"самостоятельный поджанр манги.[/i]"
 
 #: game/story/park.dialogue
 msgctxt "talk_asami_fac8a1b8"
@@ -28485,14 +28488,14 @@ msgstr "[i]Каждую секунду появляется новое прои�
 #: game/story/park.dialogue
 msgctxt "talk_asami_421eaa7b"
 msgid "[i]...et un isekai s'arrête.[/i]"
-msgstr "[i]либо какое-то прекращает выпуск .[/i]"
+msgstr "[i]...а какое-то кончается .[/i]"
 
 #: game/story/park.dialogue
 msgctxt "talk_asami_0440baf2"
 msgid "[i]Dans cet ouvrage, nous allons voir ensemble qu'est-ce qui fait le succès de cette recette controversé.[/i]"
 msgstr ""
 "[i]В этой статье мы рассмотрим причины успеха противоречивого жанра "
-"исекай.[/i]"
+"«исекай».[/i]"
 
 #: game/story/park.dialogue
 msgctxt "talk_asami_1fd71c9e"
@@ -28508,8 +28511,7 @@ msgstr "[i]Исекай — это своего рода фастфуд в ми�
 #: game/story/park.dialogue
 msgctxt "talk_asami_3a37d05e"
 msgid "[i]Rapide à consommer, mais la plupart du temps le client reste sur sa faim.[/i]"
-msgstr ""
-"[i]Он быстро поглощается, но в итоге покупатель всегда неудовлетворён.[/i]"
+msgstr "[i]Он быстро поглощается, но в итоге покупатель всегда недоволен.[/i]"
 
 #: game/story/park.dialogue
 msgctxt "talk_asami_3cdb43ac"
@@ -28533,18 +28535,18 @@ msgstr "...Пфф, чувствую, что зря только время по�
 #: game/story/park.dialogue
 msgctxt "talk_asami_0a567ee1"
 msgid "C'est pas non plus comme si j'avais important à faire."
-msgstr "Но больше нечем заняться."
+msgstr "Но больше мне заняться нечем."
 
 #: game/story/park.dialogue
 msgctxt "talk_asami_26e6241e"
 msgid "[i]Tout d'abord, il est important de définir ce qu'est un Isekai.[/i]"
-msgstr "[i]Сначала нужно определиться, что же такое исекай.[/i]"
+msgstr "[i]Сначала нужно определиться, что же такое «исекай».[/i]"
 
 #: game/story/park.dialogue
 msgctxt "talk_asami_202bc8d4"
 msgid "[i]Isekai est un sous-genre de la fantasy, dont l'intrigue tourne principalement autour d'un personnage lambda qui est transporté dans un univers parallèle.[/i]"
 msgstr ""
-"[i]'Исекай' — это, как правило, поджанр фэнтези, сюжет которого часто "
+"[i]«Исекай» — это, как правило, поджанр фэнтези, сюжет которого часто "
 "вращается вокруг обычного человека, простака, чудом перенесённого в другую "
 "вселенную.[/i]"
 
@@ -29663,7 +29665,7 @@ msgstr "Вот это настрой, беги быстрее ветра!"
 #: game/story/park.dialogue
 msgctxt "talk_macumba_58c11423"
 msgid "{{saito.n}} se fait poursuivre par {{macumba.n}}."
-msgstr "{{saito.n}} преследуется качком по имени {{macumba.n}}."
+msgstr "За {{saito.n}} побежал и {{macumba.n}}."
 
 #: game/story/park.dialogue
 msgctxt "talk_macumba_ed6995c5"
@@ -29838,12 +29840,12 @@ msgstr "Возьми вот эти, это слегка модифицирова
 #: game/story/park.dialogue
 msgctxt "t4f33baf539"
 msgid "Vous obtenez les haltères modifiées de {{macumba.n}}."
-msgstr "{macumba.n} даёт вам модифицированные гантели."
+msgstr "{{macumba.n}} даёт вам модифицированные гантели."
 
 #: game/story/park.dialogue
 msgctxt "talk_macumba_c493fee6"
 msgid "Avec ça tu obtiendras des résultats en quelques jours à peine."
-msgstr "С ними ты добьёшься результата за пару дни."
+msgstr "С ними ты добьёшься результата за пару дней."
 
 #: game/story/park.dialogue
 msgctxt "talk_macumba_f5f1bd94"
@@ -29863,7 +29865,7 @@ msgstr "Пожалуйста, братишка; ты всегда можешь �
 #: game/story/park.dialogue
 msgctxt "talk_macumba_af0127b0"
 msgid "On pourra dire ce qu'on veut, il a beau être flippant."
-msgstr "Что ни говори, но он может быть страшным."
+msgstr "Кто бы что ни говорил, но он может быть страшным."
 
 #: game/story/park.dialogue
 msgctxt "talk_macumba_083dfb30"
@@ -37253,7 +37255,7 @@ msgstr "Тебе нечем заняться что ли?"
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_2517edc1"
 msgid "...et pourquoi pas, {{sakuya.n}} ?"
-msgstr "... и почему нет, {{sakuya.n}}?"
+msgstr "...и почему нет, {{sakuya.n}}?"
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_2074f98b"
@@ -37268,7 +37270,9 @@ msgstr "Я... Я не знаю. Мне нужно время, что бы это
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_5a3a13bb"
 msgid "À un moment, réfléchir devient contre-productif, tu sais. Tu es une femme qui sait ce qu'elle veut."
-msgstr "В какой-то момент размышления становятся контрпродуктивными, понимаешь? Ты же женщина, которая знает, чего хочет."
+msgstr ""
+"В какой-то момент размышления становятся грузом, понимаешь? Ты же женщина, "
+"которая знает, чего хочет."
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_07012011"
@@ -37308,7 +37312,9 @@ msgstr "Без каких-либо дальнейших перспектив."
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_57616eb6"
 msgid "Tu as le droit d'être heureuse et de penser à toi avant de toujours penser aux autres."
-msgstr "У тебя есть право на счастье, и право думать о себе прежде, чем о других."
+msgstr ""
+"У тебя есть право на счастье и право думать сначала о себе, а уже потом о "
+"других."
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_c0bba6cc"
@@ -37333,7 +37339,7 @@ msgstr "Нет, нет, подожди, я пока не готова."
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_dac976c1"
 msgid "Shhhhhh, il est trop tard pour revenir en arrière, laisse-toi faire."
-msgstr "Шшшшшш, уже поздно, пути назад нет.Просто не сдерживай себя."
+msgstr "Шшшшшш, уже поздно, пути назад нет. Просто не сдерживай себя."
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_8f68ff84"
@@ -37363,12 +37369,12 @@ msgstr "...Ты действительно начинаешь бесить ме�
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_d243728f"
 msgid "Barre-toi maintenant ou je te jure que..."
-msgstr "Съебался сейчас же, не то я клянусь, я..."
+msgstr "Съебался сейчас же, а не то клянусь, я..."
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_c48d66f6"
 msgid "Je me suis assez fait écraser par {{akira.n}} dans ma vie d'avant !"
-msgstr "{{akira.n}} достаточно сломил меня в прошлой жизни!"
+msgstr "{{akira.n}} достаточно заебал меня в прошлой жизни!"
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_01183ae4"
@@ -37443,7 +37449,7 @@ msgstr "Если ты серьёзно - вернись с телосложен�
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_a9b99e8c"
 msgid "Désolé si j'ai interrompu quelque chose d'important avec {{akira.n}}..."
-msgstr "Прости, если я прервал что-то важное для тебя с {{akira.n}}..."
+msgstr "Прости, если {{akira.n}} говорил что-то важное..."
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_e39e9cb8"
@@ -37513,7 +37519,7 @@ msgstr "Что ж, может пришло время поиграть с суд
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_d981cc6d"
 msgid "Mince, il est trop tard, il faudra que je repasse demain matin ou dans l'après-midi."
-msgstr "Чёрт, уже очень поздно. Пидётся придти завтра утром или днём."
+msgstr "Чёрт, уже слишком поздно. Придётся придти завтра утром или днём."
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_8b9ab530"
@@ -37558,8 +37564,8 @@ msgstr "А теперь давай закрепим поцелуе-"
 msgctxt "restaurant_exterior_4ce3d3a2"
 msgid "Putain {{saito.n}}, arrête de te rincer l'œil, casse-toi, tu vois pas que tu me déranges ?"
 msgstr ""
-"{{saito.n}}, блять, как ты заебал! Свали куда подальше, не мозоль глаза, не "
-"мешай мне!"
+"{{saito.n}}, блять, как же ты заебал! Свали куда подальше, не мозоль глаза и "
+"не мешай мне!"
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_3282dae6"
@@ -37648,7 +37654,7 @@ msgstr "Ты такой же, как и другие: думаешь о том, 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_4cda1b5b"
 msgid "Va-t'en, s'il te plait, j'ai besoins d'être seule."
-msgstr "Уходите, пожалуйста, оставьте меня в покое."
+msgstr "Уходи, пожалуйста, я хочу побыть одна."
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_24eb94b1"
@@ -65835,3 +65841,48 @@ msgstr "Не знаю, почему ты так спешишь, но у нас �
 msgctxt "home_player_noriko_room_closed_3f06fac8"
 msgid "Si je lui coupe le wifi, je suis certain à 200% qu'elle va sortir de sa chambre !"
 msgstr "Может быть, если я выключу Wi-Fi, это выманит демона из логова."
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "tae4034358f"
+msgid "{{akira.n}} est toujours insistant, j'ai de plus en plus de mal à le repousser."
+msgstr ""
+"{{akira.n}} слишком настойчивый. Мне всё труднее и труднее удерживать его в "
+"узде."
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "tc560d7eed2"
+msgid "Non ! Je ne veux pas, c'est hors de question !"
+msgstr "Нет! Я не хочу, об этом не может быть и речи!"
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "t28acd83ffc"
+msgid "Bref, je m'égare, merci encore, j'espère que mon père t'embauchera."
+msgstr ""
+"В любом случае, я отвлеклась. Большое спасибо, надеюсь, мой отец наймет тебя."
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "t146e392351"
+msgid "Je... j'ai réfléchi et c'est non !"
+msgstr "Я... я подумала об этом, и мой ответ\"нет\"."
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "t6e796be6de"
+msgid "Désolé mais ce n'était pas une question, juste de la rhétorique."
+msgstr "Это был риторический вопрос."
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "t49c49212d2"
+msgid "Il est évident que tu acceptes !"
+msgstr "Ты обязательно согласишься!"
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "t051437fb4d"
+msgid "Tu n'as jamais voulu m'aider pour mon rêve au final... Tout ce que tu voulais c'était moi, m'ajouter à ta liste ! Je me trompe non ?"
+msgstr ""
+"Ты никогда не хотел помочь мне осуществить мою мечту. Все, чего ты хотел, "
+"это добавить меня в свой список шалав! Я ошибаюсь?"
+
+#: game/story/park.dialogue
+msgctxt "t5ff035b562"
+msgid "[color=yellow]Niveau supérieur[/color]"
+msgstr "[color=yellow]Следующий уровень.[/color]"
