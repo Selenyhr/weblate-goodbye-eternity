@@ -110,8 +110,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
-"PO-Revision-Date: 2024-06-25 17:24+0000\n"
-"Last-Translator: Иванов Станислав Сергеевич <Ivanovst4nist4v@yandex.ru>\n"
+"PO-Revision-Date: 2024-06-29 00:36+0000\n"
+"Last-Translator: Aleksandr <aleksandr-tugai@mail.ru>\n"
 "Language-Team: Russian <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/ru/>\n"
 "Language: ru\n"
@@ -18621,7 +18621,7 @@ msgstr "Ну же, скажи мне!"
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_8dc5c85a"
 msgid "[speed=5]80 000 000 ¥..."
-msgstr "{cps=5}80 000 000 ¥... {/cps}"
+msgstr "[speed=5]80 000 000 ¥..."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_76ba1dec"
@@ -22334,7 +22334,7 @@ msgstr "Если ты действительно хочешь помочь, то
 msgctxt "t054f10dd07"
 msgid "[hint=ROUTE FEMDOM/MALEDOM]Dans tes rêves {{noriko.n}} !"
 msgstr ""
-"[Подсказка=ПУТЬ ЖЕНСКОГО ДОМИНИРОВАНИЯ/МУЖСКОГО ДОМИНИРОВАНИЯ]Только в твоих "
+"[hint=ПУТЬ ЖЕНСКОГО ДОМИНИРОВАНИЯ/МУЖСКОГО ДОМИНИРОВАНИЯ]Только в твоих "
 "мечтах, {{noriko.n}}!"
 
 #: game/story/home_player_hallway.dialogue
@@ -58511,7 +58511,7 @@ msgstr "Общая громкость"
 
 msgctxt "preferences.variable"
 msgid "master_mute"
-msgstr "Беззвучный режим"
+msgstr "Отключить звук"
 
 msgctxt "preferences.variable"
 msgid "music_volume"
@@ -58519,19 +58519,19 @@ msgstr "Громкость музыки"
 
 msgctxt "preferences.variable"
 msgid "music_mute"
-msgstr "Отключение музыки"
+msgstr "Отключить музыку"
 
 msgctxt "preferences.variable"
 msgid "sound_volume"
-msgstr "Громкость звука"
+msgstr "Громкость эффектов"
 
 msgctxt "preferences.variable"
 msgid "sound_mute"
-msgstr "Отключение звука"
+msgstr "Отключить эффекты"
 
 msgctxt "preferences.group"
 msgid "Language"
-msgstr "Языки"
+msgstr "Язык"
 
 msgctxt "preferences.group"
 msgid "Gameplay"
@@ -58640,7 +58640,7 @@ msgstr "НАЗАД"
 
 #: game/scenes/gui/game_menu/navigation.tscn
 msgid "PRÉFÉRENCES"
-msgstr "ПЕРСОНАЛЬНЫЕ НАСТРОЙКИ"
+msgstr "НАСТРОЙКИ"
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgctxt "game_menu.crumbs"
@@ -58661,7 +58661,7 @@ msgstr "ПАТРЕОН"
 
 #: game/scenes/gui/game_menu/navigation.tscn
 msgid "REMERCIEMENTS"
-msgstr "СПАСИБО"
+msgstr "ОСОБАЯ БЛАГОДАРНОСТЬ"
 
 #: game/scenes/gui/game_menu/navigation.tscn
 msgid "MENU PRINCIPAL"
@@ -60684,7 +60684,8 @@ msgstr "Ресепшен мотеля"
 msgctxt "quests.hints"
 msgid "main_4"
 msgstr ""
-"Уже поздно бегать. Можно попробовать [color=yellow]ресторан[/color] в городе."
+"Уже поздно бегать. Можно попробовать пойти в [color=yellow]ресторан[/color] "
+"в городе."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -62570,7 +62571,7 @@ msgstr "ПЕРЕИМЕНОВАТЬ"
 #: game/scenes/gui/game_menu/thanks.tscn
 msgctxt "game_menu.crumbs"
 msgid "REMERCIEMENTS"
-msgstr "СПАСИБО"
+msgstr "ОСОБАЯ БЛАГОДАРНОСТЬ"
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgctxt "preferences.unit.skip_frame_delay"
@@ -62604,8 +62605,9 @@ msgid "Dialogue Manager"
 msgstr "Менеджер Диалогов"
 
 #: game/scenes/gui/game_menu/thanks.tscn
+#, fuzzy
 msgid "Mécènes"
-msgstr "Патроны"
+msgstr "\"Goodbye Eternity\" никогда бы не стала возможной без вашей поддержки."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
