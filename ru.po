@@ -111,7 +111,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "PO-Revision-Date: 2024-06-29 01:05+0000\n"
-"Last-Translator: Иванов Станислав Сергеевич <Ivanovst4nist4v@yandex.ru>\n"
+"Last-Translator: Aleksandr <aleksandr-tugai@mail.ru>\n"
 "Language-Team: Russian <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/ru/>\n"
 "Language: ru\n"
@@ -58571,7 +58571,7 @@ msgstr "Графика"
 
 msgctxt "preferences.variable.display_mode"
 msgid "Borderless Window:1"
-msgstr "Оконный без полей"
+msgstr "Оконный без рамки"
 
 msgctxt "preferences.variable"
 msgid "language"
@@ -61265,7 +61265,7 @@ msgstr "Хитрое"
 #: game/scenes/characters/sprites/master.tscn
 msgctxt "character.sprite.attribute"
 msgid "happy"
-msgstr "Радость"
+msgstr "Радостное"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -61295,21 +61295,21 @@ msgstr "Одежда"
 #: game/scenes/characters/sprites/sayuri.tscn game/scenes/characters/sprites/master.tscn
 msgctxt "character.sprite.attribute"
 msgid "neutral"
-msgstr "Нейтрально"
+msgstr "Нейтральное"
 
 #: game/scenes/characters/sprites/saito.tscn game/scenes/characters/sprites/asami.tscn game/scenes/characters/sprites/yasuka.tscn game/scenes/characters/sprites/minato.tscn
 #: game/scenes/characters/sprites/macumba.tscn game/scenes/characters/sprites/chef.tscn game/scenes/characters/sprites/akira.tscn game/scenes/characters/sprites/sayuri.tscn
 #: game/scenes/characters/sprites/master.tscn
 msgctxt "character.sprite.attribute"
 msgid "upset"
-msgstr "Расстроенный"
+msgstr "Расстроенное"
 
 #: game/scenes/characters/sprites/saito.tscn game/scenes/characters/sprites/asami.tscn game/scenes/characters/sprites/yasuka.tscn game/scenes/characters/sprites/chiaki.tscn
 #: game/scenes/characters/sprites/macumba.tscn game/scenes/characters/sprites/natsume.tscn game/scenes/characters/sprites/sakuya.tscn game/scenes/characters/sprites/kimochi.tscn
 #: game/scenes/characters/sprites/sayuri.tscn game/scenes/characters/sprites/master.tscn
 msgctxt "character.sprite.attribute"
 msgid "sad"
-msgstr "Грусть"
+msgstr "Грустное"
 
 #: game/scenes/characters/sprites/saito.tscn game/scenes/characters/sprites/asami.tscn game/scenes/characters/sprites/yasuka.tscn game/scenes/characters/sprites/natsume.tscn
 #: game/scenes/characters/sprites/sayuri.tscn
@@ -61395,7 +61395,7 @@ msgstr "Куртка"
 #: game/scenes/characters/sprites/natsume.tscn game/scenes/characters/sprites/sakuya.tscn game/scenes/characters/sprites/sayuri.tscn
 msgctxt "character.sprite.attribute"
 msgid "nude"
-msgstr "Раздетый"
+msgstr "Нагишом"
 
 #: game/scenes/characters/sprites/asami.tscn
 msgctxt "character.sprite.attribute"
@@ -61415,7 +61415,7 @@ msgstr "Загорелый"
 #: game/scenes/characters/sprites/asami.tscn
 msgctxt "character.sprite.attribute"
 msgid "notan"
-msgstr "Натурально"
+msgstr "Натуральный"
 
 #: game/scenes/characters/sprites/noriko.tscn game/scenes/characters/sprites/natsume.tscn
 msgctxt "character.sprite.attribute"
@@ -61454,9 +61454,10 @@ msgid "moved"
 msgstr "Предвкушение"
 
 #: game/scenes/characters/sprites/yasuka.tscn game/scenes/characters/sprites/sayuri.tscn
+#, fuzzy
 msgctxt "character.sprite.attribute"
 msgid "depressed"
-msgstr "Депрессия"
+msgstr "Подавленное"
 
 #: game/scenes/characters/sprites/yasuka.tscn
 msgctxt "character.sprite.attribute"
@@ -61492,7 +61493,7 @@ msgstr "Улыбка"
 #: game/scenes/characters/sprites/chiaki.tscn game/scenes/characters/sprites/kimochi.tscn
 msgctxt "character.sprite.attribute"
 msgid "think"
-msgstr "Задумчиво"
+msgstr "Задумчивое"
 
 #: game/scenes/characters/sprites/chiaki.tscn
 msgctxt "character.sprite.attribute"
@@ -62745,7 +62746,7 @@ msgstr "Задний фон"
 
 msgctxt "preferences.variable.display_mode"
 msgid "Borderless Fullscreen:2"
-msgstr "Полноэкранный режим без полей"
+msgstr "Gолноэкранный режим без рамок"
 
 #: game/scenes/gui/game_menu/galleries/sprites.tscn
 msgid "ATTRIBUTE"
