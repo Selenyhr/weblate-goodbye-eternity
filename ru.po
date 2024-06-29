@@ -110,7 +110,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
-"PO-Revision-Date: 2024-06-29 01:05+0000\n"
+"PO-Revision-Date: 2024-06-29 05:43+0000\n"
 "Last-Translator: Aleksandr <aleksandr-tugai@mail.ru>\n"
 "Language-Team: Russian <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/ru/>\n"
@@ -58628,7 +58628,7 @@ msgstr "ИЗОБРАЖЕНИЯ"
 
 #: game/scenes/gui/game_menu/galleries.tscn
 msgid "ARRIÈRES-PLANS"
-msgstr "ЗАДНИЙ ФОН"
+msgstr "ФОНЫ"
 
 #: game/scenes/gui/game_menu/galleries.tscn
 msgid "ANIMATIONS"
@@ -58645,7 +58645,7 @@ msgstr "НАСТРОЙКИ"
 #: game/scenes/gui/game_menu/preferences.tscn
 msgctxt "game_menu.crumbs"
 msgid "PRÉFÉRENCES"
-msgstr "ПЕРСОНАЛЬНЫЕ НАСТРОЙКИ"
+msgstr "ОБЩИЕ"
 
 #: game/scenes/gui/game_menu/navigation.tscn
 msgid "SAUVEGARDES"
@@ -58805,7 +58805,7 @@ msgstr "Интерьер ресторана"
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "restaurant_sakuya_room"
-msgstr "комната {{sakuya.n}}"
+msgstr "Комната {{sakuya.n}}"
 
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
@@ -61607,7 +61607,7 @@ msgstr "Шапочка"
 
 msgctxt "preferences.subgroup"
 msgid "Performance"
-msgstr "Перформанс"
+msgstr "Производительность"
 
 #: game/scenes/gui/game_menu/galleries/images.tscn
 msgctxt "galleries.images.hints"
