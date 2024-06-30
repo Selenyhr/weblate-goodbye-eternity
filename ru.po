@@ -110,8 +110,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
-"PO-Revision-Date: 2024-06-30 22:34+0000\n"
-"Last-Translator: Иванов Станислав Сергеевич <Ivanovst4nist4v@yandex.ru>\n"
+"PO-Revision-Date: 2024-07-01 06:39+0000\n"
+"Last-Translator: Aleksandr <aleksandr-tugai@mail.ru>\n"
 "Language-Team: Russian <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/ru/>\n"
 "Language: ru\n"
@@ -3514,7 +3514,7 @@ msgstr "...Я поражён."
 #: game/story/home_player_saito_room.dialogue
 msgctxt "talk_noriko_fa2fc293"
 msgid "Mais en échange, tu me donnes l'enregistrement."
-msgstr "А в замен ты отдашь запись."
+msgstr "А взамен ты отдашь запись."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "talk_noriko_3c91a114"
@@ -3996,7 +3996,7 @@ msgstr "Нужно делать то, что нужно, а не то, что х
 #, fuzzy
 msgctxt "halteres_6031261b"
 msgid "Selon {{macumba.n}}, le bandeau devrait se brancher ici..."
-msgstr "Если верить {{macumba.n}}, то бандану нужно подключить вот сюда..."
+msgstr "Если верить {{macumba.n}}, то повязку нужно подключить вот сюда..."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "halteres_e2547d9a"
@@ -19686,31 +19686,34 @@ msgstr "Конечно, спрашивай что угодно!"
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_ea40047c"
 msgid "...Si tu avais connaissance que quelque chose d'horrible arrivait à une personne que tu apprécies."
-msgstr "...Допустим, что кто-то, кто тебе очень дорог, попадёт в беду..."
+msgstr ""
+"...Если бы ты знала, что с кем-то, кто тебе дорог, происходит что-то "
+"плохое..."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_d3445ba3"
 msgid "Mais que tu ne pouvais pas l'aider sous peine de te mettre toi et tous ceux que tu aimes en danger."
 msgstr ""
-"Но помочь ему нельзя, поскольку это поставит под угрозу жизни других любимых "
-"людей."
+"Но если ты попытаешься помочь, то подвергнешь опасности себя и своих "
+"близких..."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_6c3fec7c"
 msgid "Que ferais-tu ?"
-msgstr "Что делать в такой ситуации?"
+msgstr "Что бы ты сделала?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_901bf4af"
 msgid "...Je dois avouer que je m'attendais à autre chose, mais ça a l'air grave."
-msgstr "... Признаю, что не ожидала такого серьёзного вопроса."
+msgstr ""
+"...Должна признаться, я ожидала чего-то другого, но это звучит серьёзно."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_583494a0"
 msgid "Ça ressemble beaucoup à ce fameux dilemme avec le tramway ou tu dois choisir soit de sauver 5 personnes ou choisir celle que tu aimes."
 msgstr ""
-"Он немного напомнил мне ту дилемму с трамваем, где давался выбор между "
-"спасением 5 неизвестных человек или одного любимого."
+"Это напоминает знаменитую \"Проблему вагонетки\", когда нужно выбрать между "
+"спасением 5 человек или любимого человека."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_362b7712"
@@ -19725,24 +19728,22 @@ msgstr "В таком случае, к сожалению, нет правиль
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_08080960"
 msgid "Parfois, il y a juste deux mauvaises solutions et tu dois choisir la moins pire des deux..."
-msgstr ""
-"Если из решений доступны только два и они оба плохие, то тогда обычно "
-"выбирают меньшее зло."
+msgstr "Иногда оба решения плохие, и мы вынуждены выбрать меньшее из зол..."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_30ec452e"
 msgid "...Je vois merci {{yasuka.n}}."
-msgstr "... Ага, понял, спасибо, {{yasuka.n}}."
+msgstr "...Понятно, спасибо, {{yasuka.n}}."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_1f439b15"
 msgid "Mais il y a peut-être une autre solution à ce problème."
-msgstr "Но есть ещё один вариант."
+msgstr "Но может быть и другое решение проблемы."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_8b5e8646"
 msgid "Vraiment ?"
-msgstr "Разве?"
+msgstr "Правда?"
 
 #: game/story/park.dialogue
 msgctxt "park_f4164179"
@@ -19772,32 +19773,32 @@ msgstr "Например, у тебя же есть друзья, которые
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_3357dcbd"
 msgid "À plusieurs, je suis certaine que vous arriverez à surmonter tout ça."
-msgstr "Просто позови их - тогда все проблемы сами исчезнут."
+msgstr "Я уверена, что вместе вы сможете преодолеть эту проблему."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_39fbac5d"
 msgid "Tu n'es pas d'accord ?"
-msgstr "Разве нет?"
+msgstr "Разве ты не согласен?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_a61744fb"
 msgid "Tu es toujours aussi optimiste !"
-msgstr "А ты оптимистка!"
+msgstr "Ты всегда так оптимистична!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_76a754a3"
 msgid "Mais c'est ce que je préfère chez toi."
-msgstr "Но это мне и нравится в тебе."
+msgstr "Но именно это мне в тебе и нравится."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_dbd00681"
 msgid "Tu as raison, je ne suis pas seul !"
-msgstr "Ты права, я больше не один!"
+msgstr "Ты права, я не одинок!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_52d79dea"
 msgid "Je suis ravi de voir que j'ai pu te redonner le sourire."
-msgstr "Я рада, что смогла хотя бы заставить тебя улыбнуться."
+msgstr "Я рада, что смогла снова заставить тебя улыбаться."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_7b2c5ef2"
@@ -19812,7 +19813,7 @@ msgstr "Хорошего тебе денька, дорогой."
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_26bf1564"
 msgid "Elle a raison, je ne suis plus tout seul."
-msgstr "Да, она права, я же больше не один."
+msgstr "Да, она права, я больше не одинок."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_f6c68de8"
@@ -22912,7 +22913,7 @@ msgstr "ПРОСТО УХОДИ, ЧЕРТ ВОЗЬМИ!!!"
 #: game/story/home_player_exterior.dialogue
 msgctxt "t5d6eae1f92"
 msgid "[hint=ROUTE REJET/CHANTAGE]Menacer"
-msgstr "[hint=ОТКАЗ/ПУТЬ ШАНТАЖА] Угрожать."
+msgstr "[hint=ОТКАЗ/ПУТЬ ШАНТАЖА]Угрожать."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "home_player_exterior_40a58231"
@@ -22982,7 +22983,7 @@ msgstr "Придётся держать ухо востро, чтобы чего
 #: game/story/home_player_exterior.dialogue
 msgctxt "t91f4a1e93e"
 msgid "[hint=ROUTE MALEDOM]Intimider"
-msgstr "[hint=ПУТЬ МУЖСКОГО ДОМИНИРОВАНИЯ] Угрожать."
+msgstr "[hint=ПУТЬ МУЖСКОГО ДОМИНИРОВАНИЯ]Запугать."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "t6a54a6bfd4"
@@ -54939,8 +54940,7 @@ msgstr "Пообещай, что ты ничего не расскажешь!"
 #: game/story/konbini_exterior.dialogue
 msgctxt "konbini_exterior_4dd8d5c2"
 msgid "Oui, mais en échange, dis-moi pourquoi tu sembles si terrifié par ton propre frère ?"
-msgstr ""
-"Обещаю, но в замен расскажи, что тебя пугает столь сильно в твоём брате?"
+msgstr "Обещаю, но взамен расскажи, что тебя пугает столь сильно в твоём брате?"
 
 #: game/story/konbini_exterior.dialogue
 msgctxt "konbini_exterior_640c5da6"
@@ -58947,7 +58947,7 @@ msgstr "Нужно вернуть его владельцу..."
 msgctxt "quests.hints"
 msgid "main_13"
 msgstr ""
-"А что если {{macumba.n}} возьмёт мой плеер в замен на помощь с тренировками?"
+"А что если {{macumba.n}} возьмёт мой плеер взамен на помощь с тренировками?"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
