@@ -110,7 +110,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
-"PO-Revision-Date: 2024-07-01 19:23+0000\n"
+"PO-Revision-Date: 2024-07-01 23:04+0000\n"
 "Last-Translator: Baffrus <baffrus@gmail.com>\n"
 "Language-Team: Italian <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/it/>\n"
@@ -124,12 +124,12 @@ msgstr ""
 #: game/story/introduction.dialogue
 msgctxt "intro_90fcefcc"
 msgid "Je ne sais plus à quel moment les choses sont devenues incontrôlables."
-msgstr ""
+msgstr "Non so come le cose siano sfuggite di mano."
 
 #: game/story/introduction.dialogue
 msgctxt "intro_3bb13317"
 msgid "Mon corps aujourd'hui n'est plus qu'une prison de chair."
-msgstr ""
+msgstr "Oggi il mio corpo è una prigione di carne e ossa."
 
 #: game/story/introduction.dialogue
 msgctxt "intro_cb62efe6"
@@ -18984,12 +18984,12 @@ msgstr ""
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_8cc61393"
 msgid "Bonjour mon chéri."
-msgstr "Buongiorno tesoro."
+msgstr "Buongiorno, tesoro."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_13f52085"
 msgid "Bonjour mon chéri."
-msgstr "Buongiorno tesoro."
+msgstr "Buongiorno, tesoro."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_c57e37b8"
@@ -20674,17 +20674,17 @@ msgstr ""
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_1b5723bb"
 msgid "Bonjour mon chéri !"
-msgstr ""
+msgstr "Ciao tesoro!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_65cb155f"
 msgid "Bonjour mon chéri !"
-msgstr ""
+msgstr "Ciao tesoro!"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_062ace96"
 msgid "Bonjour mon chéri !"
-msgstr ""
+msgstr "Ciao tesoro!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_19feb979"
@@ -34772,7 +34772,7 @@ msgstr "Prendetevi un momento di pausa."
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_2a515d02"
 msgid "Je vais fermer la boutique quelques minutes afin qu'on ne soit pas dérangé."
-msgstr "Fammi chiudere il negozio per qualche minuto così nessuno ci disturba."
+msgstr "Chiudo il negozio per qualche minuto, così non veniamo disturbati."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_c547b09e"
@@ -35321,272 +35321,285 @@ msgstr "Deve essere successo qualcosa ieri sera."
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_019f200a"
 msgid "Bonjour {{saito.n}} !"
-msgstr ""
+msgstr "Buongiorno {{saito.n}} !"
 
 #: game/story/restaurant_interior.dialogue
 msgctxt "restaurant_interior_aedbd962"
 msgid "Bonjour {{saito.n}} !"
-msgstr ""
+msgstr "Buongiorno {{saito.n}} !"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_52e8a705"
 msgid "{{sakuya.n}}... C'était bien toi !"
-msgstr ""
+msgstr "{{sakuya.n}}... sei tu!"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_454dc301"
 msgid "Tu es surpris ?"
-msgstr ""
+msgstr "Sei sorpreso?"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_59acee05"
 msgid "Le mot est faible..."
-msgstr ""
+msgstr "È un eufemismo..."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_a0f28b52"
 msgid "Tu avais des doutes ?"
-msgstr ""
+msgstr "Avevi qualche dubbio?"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_c41469da"
 msgid "Je n'ai raconté tous mes problèmes qu'à une seule personne."
-msgstr ""
+msgstr "Ho parlato dei miei problemi a una sola persona."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_ef90dbbb"
 msgid "Et cette personne, c'était moi."
-msgstr ""
+msgstr "E quella persona, ero io."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_7648545e"
 msgid "Que lui est-il arrivé ?"
-msgstr ""
+msgstr "Cosa gli è successo?"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_6d81239f"
 msgid "Oh, lui ? Il est toujours vivant."
-msgstr ""
+msgstr "Oh, lui? È ancora vivo."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_c2ee4dc9"
 msgid "Il me reste deux ou trois choses à régler et toute cette histoire sera derrière nous."
 msgstr ""
+"Devo ancora occuparmi di un paio di cose e poi potremo lasciarci tutto alle "
+"spalle."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_0cbce7c2"
 msgid "Mais bordel, comme si j'avais pas assez de problèmes comme ça, je me retrouve à devoir gérer une folle."
 msgstr ""
+"Merda. Come se non avessi già abbastanza problemi, ora devo gestire anche "
+"questa ragazza pazza."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_536f0964"
 msgid "Je savais que tout ça se passait trop bien."
-msgstr ""
+msgstr "Sapevo che stava andando tutto troppo bene."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_ba1262f9"
 msgid "Il y aurait forcément un prix à payer tôt ou tard."
-msgstr ""
+msgstr "Prima o dopo ci sarebbe stato un prezzo da pagare."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_4dcd7cbf"
 msgid "Tu viens ?"
-msgstr ""
+msgstr "Vieni?"
 
 #: game/story/onsen_bath.dialogue
 msgctxt "onsen_bath_4dcd7cbf"
 msgid "Tu viens ?"
-msgstr ""
+msgstr "Vieni?"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_68138ac2"
 msgid "Où ça ?"
-msgstr ""
+msgstr "Dove?"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_c771531c"
 msgid "Tu es bête ! Ton service va bientôt commencer, tu ne voudrais pas arriver en retard, non ?"
 msgstr ""
+"Sciocco! Il tuo turno inizierà tra poco e non vorrai arrivare in ritardo, "
+"vero?"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_169816be"
 msgid "Je... Non en effet."
-msgstr ""
+msgstr "Io... No, hai ragione."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_73d89f9c"
 msgid "Alors c'est parfait, allons-y ensemble !"
-msgstr ""
+msgstr "Va bene, allora. Andiamo insieme!"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_dcfbfbe3"
 msgid "Je constate que tu n'as pas perdu de temps."
-msgstr ""
+msgstr "Vedo che non hai perso tempo."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_cd56f517"
 msgid "Je ne supportais plus de rester là à ne rien faire."
-msgstr ""
+msgstr "Non potevo stare senza far niente."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_4497dc2c"
 msgid "Tu t'es occupé de tous mes problèmes, tu as été formidable."
-msgstr ""
+msgstr "Vi siete occupati di tutti i miei problemi, siete stati fantastici."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_b9c66c77"
 msgid "Je ne pourrais jamais assez te remercier."
-msgstr ""
+msgstr "Non potrò mai ringraziarvi abbastanza."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_b9c9f2f8"
 msgid "Tu n'as pas besoins de me remercier, mais..."
-msgstr ""
+msgstr "Non devi ringraziarmi, ma..."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_5f7ace04"
 msgid "Si tu insistes, je peux..."
-msgstr ""
+msgstr "Se insisti, posso..."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_fcf81914"
 msgid "Shhh, n'en dis pas plus ! J'ai compris."
-msgstr ""
+msgstr "Shhh, non dire altro! So cosa vuoi dire."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_85085b88"
 msgid "Retrouve-moi à la maison en fin de journée, je m'occuperais de toi."
-msgstr ""
+msgstr "Incontriamoci a casa questa sera e mi occuperò di te."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_780a890f"
 msgid "Avec plaisir alors, à ce soir !"
-msgstr ""
+msgstr "Mi piacerebbe molto! Ci vediamo stasera!"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_41499d63"
 msgid "J'ai hâte d'y être, ce soir mon chéri !"
-msgstr ""
+msgstr "Non vedo l'ora. Ci vediamo in serata, tesoro!"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_d3f41477"
 msgid "Gamin, j'espère que tu as de quoi commander, sinon tu peux ressortir tout de suite."
 msgstr ""
+"Ragazzo, spero che tu abbia qualcosa da ordinare. Altrimenti, puoi andartene "
+"subito."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_f4f2b1e5"
 msgid "{{yasuka.n}} m'a prévenu que son patron était un gros connard."
-msgstr ""
+msgstr "{{yasuka.n}} Mi ha detto che il suo capo era uno stronzo."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_ced09ecf"
 msgid "J'espère juste qu'elle l'a surestimée."
-msgstr ""
+msgstr "Spero solo che abbia esagerato."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_c5322b67"
 msgid "Je ne sais pas s'il sera sensible à mes problèmes."
-msgstr ""
+msgstr "Non so se gli interesseranno i miei problemi."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_19c8916a"
 msgid "Mais j'ai comme un gros doute."
-msgstr ""
+msgstr "Ma ho un grosso dubbio."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_15e7b9f7"
 msgid "Dépêche-toi, je n'ai pas que ça à faire !"
-msgstr ""
+msgstr "Sbrigatevi. Ho cose migliori da fare!"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_6dddebf6"
 msgid "Oui, j'aimerais commander s'il vous plait."
-msgstr ""
+msgstr "Si, vorrei ordinare, per favore."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_1095df51"
 msgid "Tchh"
-msgstr ""
+msgstr "Tchh."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_1cd11301"
 msgid "{{saito.n}} s'installa sur une banquette et passa la journée à attendre."
 msgstr ""
+"{{saito.n}} Si sedette su una panchina e passò tutto il giorno ad aspettare."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_31d77837"
 msgid "Bon, je vais fermer, c'est le moment pour toi de partir."
-msgstr ""
+msgstr "Bene, sto per chiudere, quindi è ora che tu vada."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_cd8861e5"
 msgid "Merde ! Ils sont encore là à m'attendre."
-msgstr ""
+msgstr "Merda! Sono ancora qui ad aspettarmi."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_64067c20"
 msgid "Je sais pas comment je vais me tirer de ce mauvais pas."
-msgstr ""
+msgstr "Non so come uscirò da questa situazione."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_678fa7b8"
 msgid "Ils sont décidés à vouloir ma peau."
-msgstr ""
+msgstr "Sono determinati ad uccidermi."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_16eef316"
 msgid "Il me faut une idée brillante."
-msgstr ""
+msgstr "Ho bisogno di un idea brillante."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_f17e1fde"
 msgid "Il me semblait qu'avant, il y avait une femme qui travaillait ici."
-msgstr ""
+msgstr "Mi sembra di ricordare che una donna lavorasse qui in passato."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_a2a9adcd"
 msgid "Ce n'est plus le cas ?"
-msgstr ""
+msgstr "Non è più così?"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_43aac03c"
 msgid "Qu'est-ce que ça peut te faire ? Cette foutue ingrate a démissionné, maintenant, je me tape tout le boulot."
 msgstr ""
+"Cosa te ne importa? Quella stronza ingrata si è licenziata e ora sono io a "
+"fare tutto il lavoro."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_bea2a22f"
 msgid "Oula doucement, je ne cherche pas les problèmes."
-msgstr ""
+msgstr "Stai calmo, non sono in cerca di guai."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_c6b40686"
 msgid "Vous cherchez quelqu'un pour la remplacer ?"
-msgstr ""
+msgstr "Sta cercando qualcuno che la sostituisca?"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_63dccf2a"
 msgid "...Toi ?"
-msgstr ""
+msgstr "...Tu?"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_728cbd2a"
 msgid "Me fait pas rire !"
-msgstr ""
+msgstr "Ma fammi il piacere!"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_356148b6"
 msgid "Allez tire toi !"
-msgstr ""
+msgstr "Avanti, sparisci!"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_2f904ecf"
 msgid "[font_size=14]{{saito.n}}, c'est l'heure ! Arrête de faire durer le plaisir ![/font_size]"
 msgstr ""
+"[font_size=14]È ora, {{saito.n}}! Smettila di trascinare il "
+"divertimento![/font_size]"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_7a9476be"
 msgid "[font_size=14]C'est juste un très mauvais moment à passer.[/font_size]"
-msgstr ""
+msgstr "[font_size=14]È solo un brutto momento.[/font_size]"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_56ec7904"
@@ -56377,3 +56390,15 @@ msgstr "..."
 msgctxt "home_nobu_exterior_03775ec8"
 msgid "..."
 msgstr "..."
+
+#: game/story/introduction.dialogue
+msgctxt "intro_cb62efe6"
+msgid "Ma faible constitution[w], les séjours à l'hôpital à répétition[w], la maladie[w], la solitude..."
+msgstr ""
+"La mia debole costituzione [w], i ripetuti ricoveri in ospedale [w], la "
+"malattia [w], la solitudine..."
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "te0df105c29"
+msgid "Tu viens ?"
+msgstr "Vieni?"
