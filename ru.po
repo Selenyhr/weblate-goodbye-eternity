@@ -110,8 +110,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
-"PO-Revision-Date: 2024-07-01 23:04+0000\n"
-"Last-Translator: Иванов Станислав Сергеевич <Ivanovst4nist4v@yandex.ru>\n"
+"PO-Revision-Date: 2024-07-03 04:36+0000\n"
+"Last-Translator: Aleksandr <aleksandr-tugai@mail.ru>\n"
 "Language-Team: Russian <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/ru/>\n"
 "Language: ru\n"
@@ -18860,12 +18860,12 @@ msgstr ""
 msgctxt "t0c397db10b"
 msgid "[hint=ROUTE CORRUPTION]Euh... c'est pas un genre de métier sexuel ?"
 msgstr ""
-"[hint=ПУТЬ РАЗВРАЩЕНИЯ]Эм... Это же вроде профессия сексуального направления?"
+"[hint=ПУТЬ РАЗВРАЩЕНИЯ]Эм... Разве это профессия не сексуального характера?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_7b38df2e"
 msgid "Un métier sexuel ?"
-msgstr "Сексуального направления?"
+msgstr "Сексуального характера?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_d98c38a6"
@@ -66074,3 +66074,130 @@ msgstr "В любом случае."
 msgctxt "te685980fbd"
 msgid "Oui !"
 msgstr "Ага!"
+
+#: game/story/park.dialogue
+msgctxt "asami_choice_498be4ee"
+msgid "Honnêtement j'ai déjà mes propres problèmes à gérer."
+msgstr ""
+"Честно говоря, у меня уже есть свои проблемы, с которыми нужно разобраться."
+
+#: game/story/park.dialogue
+msgctxt "asami_choice_c7d15c6e"
+msgid "Et puis maintenant que j'y pense... Tu ferais mieux d'aller te déclarer directement."
+msgstr ""
+"Но знаешь, когда я об этом думаю... Тебе было бы лучше признаться напрямую."
+
+#: game/story/park.dialogue
+msgctxt "asami_choice_6fc18a2f"
+msgid "Si je me déclare et qu'il me repousse j'aurais tout perdu et je n'en ai pas envie !"
+msgstr ""
+"Если я признаюсь, а он меня отвергнет, я потеряю всё, а я этого не хочу!"
+
+#: game/story/park.dialogue
+msgctxt "asami_choice_4aa4959a"
+msgid "T'en penses quoi ? J'ai été si méchant que ça ?"
+msgstr "Как думаешь? Я правда был так плох?"
+
+#: game/story/park.dialogue
+msgctxt "asami_choice_f702f8ec"
+msgid "Tout le monde peut faire des erreurs, mais il ne faut jamais prendre de haut ceux qui essaient de faire de leur mieux."
+msgstr ""
+"Все могут ошибаться, но никогда не стоит смотреть свысока на тех, кто "
+"старается изо всех сил."
+
+#: game/story/park.dialogue
+msgctxt "asami_choice_28ee5233"
+msgid "Malheureusement ce n'est pas possible, à partir du moment où tu as développé des sentiments, cette relation était vouée inévitablement à se terminer un jour ou l'autre."
+msgstr ""
+"Тогда, к сожалению, так не получится. С того момента, как у тебя появились "
+"чувства, эти отношения были неизбежно обречены закончиться тем или иным "
+"образом."
+
+#: game/story/park.dialogue
+msgctxt "asami_choice_3e5609a9"
+msgid "Si tu choisis la seconde option ça reste ni plus ni moins que du masochisme."
+msgstr "Если выберешь второй вариант, то это будет не что иное, как мазохизм."
+
+#: game/story/park.dialogue
+msgctxt "asami_choice_6f8b4342"
+msgid "Et puis je n'ai pas envie d'être un foutu messager."
+msgstr "И я не хочу быть чёртовым посыльным."
+
+#: game/story/park.dialogue
+msgctxt "asami_choice_963ccbdb"
+msgid "Donc merci pour la proposition mais non merci."
+msgstr "Так что спасибо за предложение, но я, пожалуй, откажусь."
+
+#: game/story/park.dialogue
+msgctxt "asami_choice_a91ac232"
+msgid "Je pense que je peux me débrouiller tout seul."
+msgstr "Думаю, я смогу справиться сам."
+
+#: game/story/park.dialogue
+msgctxt "asami_choice_ba42b63c"
+msgid "Si vous êtes réellement amis de longues date, être franche et sincère reste le choix le plus cohérent."
+msgstr ""
+"Если вы действительно долго дружили, то быть откровенным и искренним "
+"остаётся самым логичным выбором."
+
+#: game/story/park.dialogue
+msgctxt "asami_choice_bdf40a8d"
+msgid "Tu es bouché ou quoi ? J'ai dit que je ne voulais pas le perdre en tant qu'ami."
+msgstr "Ты что, глухой? Я же сказала, что не хочу терять его как друга."
+
+#: game/story/park.dialogue
+msgctxt "asami_choice_59295e18"
+msgid "Donc en fait tu veux le beurre et l'argent du beurre si j'ai bien compris ?"
+msgstr "Так ты на самом деле хочешь и тог и другое, если я правильно понял?"
+
+#: game/story/park.dialogue
+msgctxt "asami_choice_d6992f96"
+msgid "Maintenant c'est à toi de voir, tu préfères tenter ta chance aujourd'hui quitte à souffrir un peu ?"
+msgstr ""
+"Тебе решать. Предпочтешь ли испытать удачу сегодня, даже если это принесёт "
+"небольшие страдания?"
+
+#: game/story/park.dialogue
+msgctxt "asami_choice_1929ac8d"
+msgid "Ou tu préfères souffrir en silence en gardant tout ce que tu ressens pour toi jusqu'à ce qu'il se trouve quelqu'un ?"
+msgstr ""
+"Или предпочтешь страдать в тишине, держа все свои чувства в себе, пока он не "
+"найдет кого-то другого?"
+
+#: game/story/park.dialogue
+#, fuzzy
+msgctxt "asami_choice_8a89f7df"
+msgid "Tu n'as pas besoin d'être aussi odieux !"
+msgstr "Тебе необязательно быть такой занозой в заднице!"
+
+#: game/story/park.dialogue
+msgctxt "asami_choice_3369c625"
+msgid "[font_size=14]De toute façon tu dois encore me rembourser mon livre ![/font_size]"
+msgstr ""
+"[font_size=14]В любом случае, ты всё ещё не вернул мне деньги за мою "
+"книгу![/font_size]"
+
+#: game/story/park.dialogue
+#, fuzzy
+msgctxt "asami_choice_587ff2ec"
+msgid "Petit frère... même si le fond était probablement juste, la forme était mauvaise."
+msgstr ""
+"Братишка... хоть суть, возможно, была правильной, однако её посыл был не "
+"совсем верный."
+
+#: game/story/park.dialogue
+msgctxt "asami_choice_f9e928fc"
+msgid "Rattrape-la et apporte-lui ton soutien. Qui sait... peut-être qu'elle deviendra une amie sur qui tu pourras t'appuyer à ton tour ?"
+msgstr ""
+"Догони её и окажи ей поддержку, и кто знает... Может быть, она станет "
+"другом, на которого ты сможешь положиться?"
+
+#: game/story/park.dialogue
+msgctxt "asami_choice_d9a5c191"
+msgid "Pourquoi je me prend la tête avec ça, je la connais même pas cette fille..."
+msgstr "Зачем я вообще об этом заморачиваюсь? Я даже не знаю эту девушку..."
+
+#: game/story/park.dialogue
+msgctxt "asami_choice_93c78103"
+msgid "Rhaaaa bon sang !"
+msgstr "Аааах, чёрт побери!"
