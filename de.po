@@ -110,7 +110,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
-"PO-Revision-Date: 2024-07-03 12:52+0000\n"
+"PO-Revision-Date: 2024-07-03 15:05+0000\n"
 "Last-Translator: Tim Siekmann <sebastiana.laubenstein@gmail.com>\n"
 "Language-Team: German <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/de/>\n"
@@ -56464,3 +56464,416 @@ msgstr "Sprachen"
 msgctxt "preferences.variable"
 msgid "language"
 msgstr "Sprache"
+
+#: game/scenes/characters/sprites/saito.tscn game/scenes/characters/sprites/asami.tscn game/scenes/characters/sprites/noriko.tscn game/scenes/characters/sprites/yasuka.tscn
+#: game/scenes/characters/sprites/chiaki.tscn game/scenes/characters/sprites/minato.tscn game/scenes/characters/sprites/macumba.tscn game/scenes/characters/sprites/natsume.tscn
+#: game/scenes/characters/sprites/sakuya.tscn game/scenes/characters/sprites/kimochi.tscn game/scenes/characters/sprites/chef.tscn game/scenes/characters/sprites/akira.tscn
+#: game/scenes/characters/sprites/kenji.tscn game/scenes/characters/sprites/takeo.tscn game/scenes/characters/sprites/nobu.tscn game/scenes/characters/sprites/netoru.tscn
+#: game/scenes/characters/sprites/sayuri.tscn game/scenes/characters/sprites/master.tscn
+msgctxt "character.sprite.group"
+msgid "face"
+msgstr "Ausdruck"
+
+#: game/scenes/characters/sprites/asami.tscn
+msgctxt "character.sprite.attribute"
+msgid "tan"
+msgstr "Gebräunt"
+
+#: game/scenes/characters/sprites/asami.tscn
+msgctxt "character.sprite.attribute"
+msgid "notan"
+msgstr "Natürlich"
+
+#: game/scenes/characters/sprites/asami.tscn game/scenes/characters/sprites/noriko.tscn game/scenes/characters/sprites/yasuka.tscn game/scenes/characters/sprites/chiaki.tscn
+#: game/scenes/characters/sprites/natsume.tscn game/scenes/characters/sprites/sakuya.tscn game/scenes/characters/sprites/sayuri.tscn
+msgctxt "character.sprite.attribute"
+msgid "nude"
+msgstr "Entkleidet"
+
+#: game/scenes/characters/sprites/kimochi.tscn game/scenes/characters/sprites/netoru.tscn
+msgctxt "character.sprite.attribute"
+msgid "frustrated"
+msgstr "Frustriert"
+
+#: game/scenes/characters/sprites/asami.tscn game/scenes/characters/sprites/noriko.tscn game/scenes/characters/sprites/yasuka.tscn game/scenes/characters/sprites/sayuri.tscn
+msgctxt "character.sprite.attribute"
+msgid "babydoll"
+msgstr "Nachthemd"
+
+#: game/scenes/characters/sprites/yasuka.tscn game/scenes/characters/sprites/sayuri.tscn
+msgctxt "character.sprite.attribute"
+msgid "depressed"
+msgstr "Deprimiert"
+
+#: game/scenes/characters/sprites/saito.tscn game/scenes/characters/sprites/noriko.tscn game/scenes/characters/sprites/yasuka.tscn game/scenes/characters/sprites/chiaki.tscn
+#: game/scenes/characters/sprites/minato.tscn game/scenes/characters/sprites/macumba.tscn game/scenes/characters/sprites/natsume.tscn game/scenes/characters/sprites/sakuya.tscn
+#: game/scenes/characters/sprites/netoru.tscn game/scenes/characters/sprites/sayuri.tscn
+msgctxt "character.sprite.group"
+msgid "cloth"
+msgstr "Kleidung"
+
+#: game/scenes/characters/sprites/saito.tscn game/scenes/characters/sprites/asami.tscn game/scenes/characters/sprites/noriko.tscn game/scenes/characters/sprites/yasuka.tscn
+#: game/scenes/characters/sprites/chiaki.tscn game/scenes/characters/sprites/minato.tscn game/scenes/characters/sprites/macumba.tscn game/scenes/characters/sprites/natsume.tscn
+#: game/scenes/characters/sprites/sakuya.tscn game/scenes/characters/sprites/kimochi.tscn game/scenes/characters/sprites/chef.tscn game/scenes/characters/sprites/akira.tscn
+#: game/scenes/characters/sprites/kenji.tscn game/scenes/characters/sprites/takeo.tscn game/scenes/characters/sprites/nobu.tscn game/scenes/characters/sprites/netoru.tscn
+#: game/scenes/characters/sprites/sayuri.tscn game/scenes/characters/sprites/master.tscn
+msgctxt "character.sprite.attribute"
+msgid "neutral"
+msgstr "Neutral"
+
+#: game/scenes/characters/sprites/saito.tscn game/scenes/characters/sprites/asami.tscn game/scenes/characters/sprites/yasuka.tscn game/scenes/characters/sprites/minato.tscn
+#: game/scenes/characters/sprites/macumba.tscn game/scenes/characters/sprites/chef.tscn game/scenes/characters/sprites/akira.tscn game/scenes/characters/sprites/sayuri.tscn
+#: game/scenes/characters/sprites/master.tscn
+msgctxt "character.sprite.attribute"
+msgid "upset"
+msgstr "Verärgert"
+
+#: game/scenes/characters/sprites/saito.tscn game/scenes/characters/sprites/asami.tscn game/scenes/characters/sprites/noriko.tscn game/scenes/characters/sprites/yasuka.tscn
+#: game/scenes/characters/sprites/minato.tscn game/scenes/characters/sprites/macumba.tscn game/scenes/characters/sprites/natsume.tscn game/scenes/characters/sprites/sakuya.tscn
+#: game/scenes/characters/sprites/kimochi.tscn game/scenes/characters/sprites/chef.tscn game/scenes/characters/sprites/akira.tscn game/scenes/characters/sprites/sayuri.tscn
+#: game/scenes/characters/sprites/master.tscn
+msgctxt "character.sprite.attribute"
+msgid "happy"
+msgstr "Fröhlich"
+
+#: game/scenes/characters/sprites/saito.tscn game/scenes/characters/sprites/asami.tscn game/scenes/characters/sprites/yasuka.tscn game/scenes/characters/sprites/chiaki.tscn
+#: game/scenes/characters/sprites/macumba.tscn game/scenes/characters/sprites/natsume.tscn game/scenes/characters/sprites/sakuya.tscn game/scenes/characters/sprites/kimochi.tscn
+#: game/scenes/characters/sprites/sayuri.tscn game/scenes/characters/sprites/master.tscn
+msgctxt "character.sprite.attribute"
+msgid "sad"
+msgstr "Traurig"
+
+#: game/scenes/characters/sprites/saito.tscn game/scenes/characters/sprites/asami.tscn game/scenes/characters/sprites/yasuka.tscn game/scenes/characters/sprites/natsume.tscn
+#: game/scenes/characters/sprites/sayuri.tscn
+msgctxt "character.sprite.attribute"
+msgid "surprised"
+msgstr "Überrascht"
+
+#: game/scenes/characters/sprites/saito.tscn game/scenes/characters/sprites/asami.tscn game/scenes/characters/sprites/noriko.tscn game/scenes/characters/sprites/minato.tscn
+#: game/scenes/characters/sprites/natsume.tscn game/scenes/characters/sprites/sakuya.tscn game/scenes/characters/sprites/kimochi.tscn game/scenes/characters/sprites/chef.tscn
+#: game/scenes/characters/sprites/akira.tscn game/scenes/characters/sprites/kenji.tscn game/scenes/characters/sprites/takeo.tscn game/scenes/characters/sprites/nobu.tscn
+#: game/scenes/characters/sprites/netoru.tscn game/scenes/characters/sprites/master.tscn
+msgctxt "character.sprite.attribute"
+msgid "angry"
+msgstr "Wütend"
+
+#: game/scenes/characters/sprites/saito.tscn
+msgctxt "character.sprite.attribute"
+msgid "guilty"
+msgstr "Schuldig"
+
+#: game/scenes/characters/sprites/saito.tscn
+msgctxt "character.sprite.attribute"
+msgid "underwear"
+msgstr "Unterwäsche"
+
+#: game/scenes/characters/sprites/saito.tscn game/scenes/characters/sprites/asami.tscn game/scenes/characters/sprites/noriko.tscn game/scenes/characters/sprites/yasuka.tscn
+#: game/scenes/characters/sprites/chiaki.tscn game/scenes/characters/sprites/minato.tscn game/scenes/characters/sprites/natsume.tscn game/scenes/characters/sprites/netoru.tscn
+#: game/scenes/characters/sprites/sayuri.tscn
+msgctxt "character.sprite.attribute"
+msgid "everyday"
+msgstr "Alltag"
+
+#: game/scenes/characters/sprites/saito.tscn game/scenes/characters/sprites/macumba.tscn game/scenes/characters/sprites/netoru.tscn
+msgctxt "character.sprite.attribute"
+msgid "suit"
+msgstr "Anzug"
+
+#: game/scenes/characters/sprites/saito.tscn game/scenes/characters/sprites/sakuya.tscn
+msgctxt "character.sprite.attribute"
+msgid "towel"
+msgstr "Handtuch"
+
+#: game/scenes/characters/sprites/asami.tscn
+msgctxt "character.sprite.group"
+msgid "base"
+msgstr "Teint"
+
+#: game/scenes/characters/sprites/asami.tscn game/scenes/characters/sprites/noriko.tscn game/scenes/characters/sprites/yasuka.tscn game/scenes/characters/sprites/chiaki.tscn
+#: game/scenes/characters/sprites/sakuya.tscn game/scenes/characters/sprites/kimochi.tscn game/scenes/characters/sprites/sayuri.tscn
+msgctxt "character.sprite.group"
+msgid "mood"
+msgstr "Stimmung"
+
+#: game/scenes/characters/sprites/asami.tscn
+msgctxt "character.sprite.group"
+msgid "clothes"
+msgstr "Kleidung"
+
+#: game/scenes/characters/sprites/asami.tscn game/scenes/characters/sprites/sakuya.tscn
+msgctxt "character.sprite.attribute"
+msgid "bored"
+msgstr "Gelangweilt"
+
+#: game/scenes/characters/sprites/asami.tscn game/scenes/characters/sprites/yasuka.tscn game/scenes/characters/sprites/natsume.tscn game/scenes/characters/sprites/sakuya.tscn
+#: game/scenes/characters/sprites/sayuri.tscn
+msgctxt "character.sprite.attribute"
+msgid "pouting"
+msgstr "Schmollend"
+
+#: game/scenes/characters/sprites/asami.tscn game/scenes/characters/sprites/yasuka.tscn game/scenes/characters/sprites/chiaki.tscn
+msgctxt "character.sprite.attribute"
+msgid "dress"
+msgstr "Kleid"
+
+#: game/scenes/characters/sprites/asami.tscn game/scenes/characters/sprites/noriko.tscn game/scenes/characters/sprites/yasuka.tscn game/scenes/characters/sprites/chiaki.tscn
+#: game/scenes/characters/sprites/natsume.tscn game/scenes/characters/sprites/sakuya.tscn game/scenes/characters/sprites/kimochi.tscn game/scenes/characters/sprites/sayuri.tscn
+msgctxt "character.sprite.attribute"
+msgid "blush"
+msgstr "Errötet"
+
+#: game/scenes/characters/sprites/asami.tscn
+msgctxt "character.sprite.attribute"
+msgid "sexy"
+msgstr "Sexy"
+
+#: game/scenes/characters/sprites/noriko.tscn game/scenes/characters/sprites/natsume.tscn
+msgctxt "character.sprite.attribute"
+msgid "cute"
+msgstr "Niedlich"
+
+#: game/scenes/characters/sprites/noriko.tscn game/scenes/characters/sprites/kimochi.tscn game/scenes/characters/sprites/kenji.tscn game/scenes/characters/sprites/takeo.tscn
+#: game/scenes/characters/sprites/nobu.tscn
+msgctxt "character.sprite.attribute"
+msgid "disgusted"
+msgstr "Angewidert"
+
+#: game/scenes/characters/sprites/noriko.tscn game/scenes/characters/sprites/natsume.tscn
+msgctxt "character.sprite.attribute"
+msgid "shame"
+msgstr "Beschämt"
+
+#: game/scenes/characters/sprites/noriko.tscn game/scenes/characters/sprites/chiaki.tscn game/scenes/characters/sprites/natsume.tscn
+msgctxt "character.sprite.attribute"
+msgid "afraid"
+msgstr "Ängstlich"
+
+#: game/scenes/characters/sprites/noriko.tscn game/scenes/characters/sprites/natsume.tscn game/scenes/characters/sprites/kenji.tscn game/scenes/characters/sprites/takeo.tscn
+#: game/scenes/characters/sprites/nobu.tscn game/scenes/characters/sprites/netoru.tscn game/scenes/characters/sprites/master.tscn
+msgctxt "character.sprite.attribute"
+msgid "bad"
+msgstr "Listig"
+
+#: game/scenes/characters/sprites/noriko.tscn
+msgctxt "character.sprite.attribute"
+msgid "excited"
+msgstr "Aufgeregt"
+
+#: game/scenes/characters/sprites/noriko.tscn
+msgctxt "character.sprite.attribute"
+msgid "pyjama"
+msgstr "Pyjama"
+
+#: game/scenes/characters/sprites/yasuka.tscn game/scenes/characters/sprites/sayuri.tscn
+msgctxt "character.sprite.attribute"
+msgid "moved"
+msgstr "Gerührt"
+
+#: game/scenes/characters/sprites/yasuka.tscn
+msgctxt "character.sprite.attribute"
+msgid "barista"
+msgstr "Barista"
+
+#: game/scenes/characters/sprites/yasuka.tscn
+msgctxt "character.sprite.attribute"
+msgid "pantsu"
+msgstr "Höschen"
+
+#: game/scenes/characters/sprites/chiaki.tscn game/scenes/characters/sprites/kimochi.tscn game/scenes/characters/sprites/chef.tscn game/scenes/characters/sprites/netoru.tscn
+#: game/scenes/characters/sprites/sayuri.tscn
+msgctxt "character.sprite.group"
+msgid "accessories"
+msgstr "Accessoires"
+
+#: game/scenes/characters/sprites/chiaki.tscn
+msgctxt "character.sprite.attribute"
+msgid "cry"
+msgstr "Weinend"
+
+#: game/scenes/characters/sprites/chiaki.tscn
+msgctxt "character.sprite.attribute"
+msgid "shy"
+msgstr "Schüchtern"
+
+#: game/scenes/characters/sprites/chiaki.tscn
+msgctxt "character.sprite.attribute"
+msgid "smile"
+msgstr "Lächelnd"
+
+#: game/scenes/characters/sprites/chiaki.tscn game/scenes/characters/sprites/kimochi.tscn
+msgctxt "character.sprite.attribute"
+msgid "think"
+msgstr "Nachdenklich"
+
+#: game/scenes/characters/sprites/chiaki.tscn
+msgctxt "character.sprite.attribute"
+msgid "jewels"
+msgstr "Schmuck"
+
+#: game/scenes/characters/sprites/chiaki.tscn
+msgctxt "character.sprite.attribute"
+msgid "lingerie"
+msgstr "Unterwäsche"
+
+#: game/scenes/characters/sprites/minato.tscn
+msgctxt "character.sprite.attribute"
+msgid "suspicious"
+msgstr "Verdächtig"
+
+#: game/scenes/characters/sprites/natsume.tscn
+msgctxt "character.sprite.group"
+msgid "Mood"
+msgstr "Stimmung"
+
+#: game/scenes/characters/sprites/sakuya.tscn
+msgctxt "character.sprite.group"
+msgid "hair"
+msgstr "Haare"
+
+#: game/scenes/characters/sprites/sakuya.tscn
+msgctxt "character.sprite.attribute"
+msgid "natural"
+msgstr "Natürlich"
+
+#: game/scenes/characters/sprites/sakuya.tscn
+msgctxt "character.sprite.attribute"
+msgid "job"
+msgstr "Gebunden"
+
+#: game/scenes/characters/sprites/sakuya.tscn
+msgctxt "character.sprite.attribute"
+msgid "melancholic"
+msgstr "Melancholisch"
+
+#: game/scenes/characters/sprites/sakuya.tscn
+msgctxt "character.sprite.attribute"
+msgid "kimono"
+msgstr "Kimono"
+
+#: game/scenes/characters/sprites/kimochi.tscn
+msgctxt "character.sprite.attribute"
+msgid "doubt"
+msgstr "Misstrauisch"
+
+#: game/scenes/characters/sprites/kimochi.tscn
+msgctxt "character.sprite.attribute"
+msgid "horny"
+msgstr "Erregt"
+
+#: game/scenes/characters/sprites/kimochi.tscn game/scenes/characters/sprites/netoru.tscn
+msgctxt "character.sprite.attribute"
+msgid "glasses"
+msgstr "Brille"
+
+#: game/scenes/characters/sprites/chef.tscn game/scenes/characters/sprites/kenji.tscn game/scenes/characters/sprites/takeo.tscn game/scenes/characters/sprites/nobu.tscn
+msgctxt "character.sprite.attribute"
+msgid "mocking"
+msgstr "Ärgernd"
+
+#: game/scenes/characters/sprites/chef.tscn
+msgctxt "character.sprite.attribute"
+msgid "hat"
+msgstr "Kopfbedeckung"
+
+#: game/scenes/characters/sprites/akira.tscn game/scenes/characters/sprites/netoru.tscn
+msgctxt "character.sprite.attribute"
+msgid "arrogant"
+msgstr "Arrogant"
+
+#: game/scenes/characters/sprites/netoru.tscn
+msgctxt "character.sprite.attribute"
+msgid "regular"
+msgstr "Normal"
+
+#: game/scenes/characters/sprites/netoru.tscn
+msgctxt "character.sprite.attribute"
+msgid "mirror"
+msgstr "Spiegel"
+
+#: game/scenes/characters/sprites/sayuri.tscn
+msgctxt "character.sprite.attribute"
+msgid "ring"
+msgstr "Ring"
+
+#: game/scenes/characters/sprites/master.tscn
+msgctxt "character.sprite.group"
+msgid "hat"
+msgstr "Kopfbedeckung"
+
+#: game/scenes/characters/sprites/master.tscn
+msgctxt "character.sprite.attribute"
+msgid "beanie"
+msgstr "Mütze"
+
+msgctxt "preferences.group"
+msgid "Visuals"
+msgstr "Video"
+
+msgctxt "preferences.subgroup"
+msgid "Global"
+msgstr "Allgemein"
+
+msgctxt "preferences.variable.display_mode"
+msgid "Windowed:0"
+msgstr "Fenster"
+
+msgctxt "preferences.variable.display_mode"
+msgid "Borderless Window:1"
+msgstr "Rahmenloses Fenster"
+
+msgctxt "preferences.variable.display_mode"
+msgid "Borderless Fullscreen:2"
+msgstr "Rahmenloses Vollbild"
+
+msgctxt "preferences.variable.display_mode"
+msgid "Fullscreen:3"
+msgstr "Vollbild"
+
+msgctxt "preferences.variable"
+msgid "display_mode"
+msgstr "Anzeigemodus"
+
+msgctxt "preferences.subgroup"
+msgid "Performance"
+msgstr "Leistung"
+
+msgctxt "preferences.variable.anisotropic_filter"
+msgid "Off:0"
+msgstr "Aus"
+
+msgctxt "preferences.variable.anisotropic_filter"
+msgid "X 2:1"
+msgstr "x2"
+
+msgctxt "preferences.variable.anisotropic_filter"
+msgid "X 4:2"
+msgstr "x4"
+
+msgctxt "preferences.variable.anisotropic_filter"
+msgid "X 8:3"
+msgstr "x8"
+
+msgctxt "preferences.variable.anisotropic_filter"
+msgid "X 16:4"
+msgstr "x16"
+
+msgctxt "preferences.variable"
+msgid "anisotropic_filter"
+msgstr "Antisotrope Filterung"
+
+msgctxt "preferences.variable"
+msgid "particles"
+msgstr "Partikel"
+
+msgctxt "preferences.variable"
+msgid "character_pulse"
+msgstr "Pulsierende Bilder"
+
+msgctxt "preferences.subgroup"
+msgid "User Interface"
+msgstr "Benutzeroberfläche"
+
+#: game/scenes/characters/sprites/asami.tscn
+msgctxt "character.sprite.attribute"
+msgid "jacket"
+msgstr "Jacke"
