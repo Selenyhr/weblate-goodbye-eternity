@@ -110,7 +110,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
-"PO-Revision-Date: 2024-07-03 12:09+0000\n"
+"PO-Revision-Date: 2024-07-03 12:42+0000\n"
 "Last-Translator: Tim Siekmann <sebastiana.laubenstein@gmail.com>\n"
 "Language-Team: German <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/de/>\n"
@@ -55978,9 +55978,9 @@ msgid ""
 " cohérence avec le monde réel."
 msgstr ""
 "Während deines Abenteuers werden deine Entscheidungen Einfluss auf andere "
-"haben. Wenn du einen Charakter mehrfach abweist, kann es sein, dass sie sich "
-"entscheidet jemand anderen zu sehen. Dadurch soll eine gewisse Ähnlichkeit "
-"zur realen Welt erhalten bleiben."
+"haben. Wenn du einen Charakter mehrfach abweist, kann es sein, dass er sich "
+"entscheidet, sich mit anderen zu treffen. Dadurch soll eine gewisse "
+"Ähnlichkeit zur realen Welt erhalten bleiben."
 
 #: game/scenes/gui/splashscreen.tscn
 msgid "Vos actions auront des conséquences..."
@@ -56039,3 +56039,420 @@ msgstr "50"
 msgctxt "home_nobu_exterior_44784a8a"
 msgid "{{saito.n}} !"
 msgstr "{{saito.n}}!"
+
+#: game/scenes/gui/game_menu/save_button_template.tscn
+msgid "CHARGER"
+msgstr "LADEN"
+
+#: game/scenes/gui/game_menu/navigation.tscn
+msgid "GALERIES"
+msgstr "GALERIE"
+
+#: game/scenes/gui/game_menu/galleries/movies_visualisation.tscn
+msgid "Anal"
+msgstr "Anal"
+
+#: game/scenes/gui/game_menu/galleries.tscn
+msgid "PERSONNAGES"
+msgstr "CHARAKTERE"
+
+#: game/scenes/gui/game_menu/galleries/sprites.tscn
+msgctxt "game_menu.crumbs.galleries"
+msgid "PERSONNAGES"
+msgstr "CHARAKTERE"
+
+#: game/scenes/gui/game_menu/galleries.tscn
+msgid "MUSIQUES"
+msgstr "MUSIK"
+
+#: game/scenes/gui/game_menu/galleries/music.tscn
+msgctxt "game_menu.crumbs.galleries"
+msgid "MUSIQUES"
+msgstr "MUSIK"
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "game_menu.crumbs.galleries"
+msgid "IMAGES"
+msgstr "BILDER"
+
+#: game/scenes/gui/game_menu/galleries.tscn
+msgid "ARRIÈRES-PLANS"
+msgstr "HINTERGRÜNDE"
+
+#: game/scenes/gui/game_menu/galleries/backgrounds.tscn
+msgctxt "game_menu.crumbs.galleries"
+msgid "ARRIÈRES-PLANS"
+msgstr "HINTERGRÜNDE"
+
+#: game/scenes/gui/game_menu/galleries/movies.tscn
+msgctxt "game_menu.crumbs.galleries"
+msgid "ANIMATIONS"
+msgstr "ANIMATIONEN"
+
+#: game/scenes/gui/game_menu/main.tscn
+msgid "OPTIONS"
+msgstr "OPTIONEN"
+
+#: game/scenes/gui/game_menu/main.tscn game/scenes/gui/game_menu/galleries/backgrounds_visualisation.tscn game/scenes/gui/game_menu/galleries/movies_visualisation.tscn
+msgid "RETOUR"
+msgstr "ZURÜCK"
+
+#: game/scenes/gui/game_menu/preferences.tscn
+msgctxt "game_menu.crumbs"
+msgid "PRÉFÉRENCES"
+msgstr "PRÄFERENZEN"
+
+#: game/scenes/gui/game_menu/saves.tscn game/scripts/gui/menu/save_ui.gd
+msgctxt "game_menu.crumbs"
+msgid "SAUVEGARDES"
+msgstr "SPIELSTÄNDE"
+
+#: game/scenes/gui/game_menu/navigation.tscn
+msgid "RENOMMER"
+msgstr "UMBENENNEN"
+
+#: game/scenes/gui/game_menu/rename.tscn
+msgctxt "game_menu.crumbs"
+msgid "RENOMMER"
+msgstr "UMBENENNEN"
+
+#: game/scenes/gui/game_menu/navigation.tscn
+msgid "PATREON"
+msgstr "PATREON"
+
+#: game/scenes/gui/game_menu/navigation.tscn
+msgid "MENU PRINCIPAL"
+msgstr "HAUPTMENÜ"
+
+#: game/scenes/gui/game_menu/navigation.tscn
+msgid "QUITTER"
+msgstr "VERLASSEN"
+
+#: game/scenes/gui/game_menu/preferences.tscn game/scenes/gui/game_menu/galleries/images.tscn game/scenes/gui/game_menu/galleries/movies.tscn game/scenes/gui/game_menu/galleries/sprites.tscn
+msgid "GROUP"
+msgstr "GRUPPE"
+
+#: game/scenes/gui/game_menu/preferences.tscn
+msgid "SUBGROUP"
+msgstr "NEBENGRUPPE"
+
+#: game/scenes/gui/game_menu/preferences.tscn
+msgid "Préférence range"
+msgstr "Präferenz Bereich"
+
+#: game/scenes/gui/game_menu/preferences.tscn
+msgid "Valeur enum"
+msgstr "Wert Aufzählung"
+
+#: game/scenes/gui/game_menu/preferences.tscn
+msgid "Préférence bool"
+msgstr "Präferenz Bool"
+
+#: game/scenes/gui/game_menu/saves.tscn
+msgid "<<"
+msgstr "<<"
+
+#: game/scenes/gui/game_menu/saves.tscn
+msgid "<"
+msgstr "<"
+
+#: game/scenes/gui/game_menu/saves.tscn
+msgid "Q"
+msgstr "Q"
+
+#: game/scenes/gui/game_menu/saves.tscn
+msgid ">"
+msgstr ">"
+
+#: game/scenes/gui/game_menu/saves.tscn
+msgid ">>"
+msgstr ">>"
+
+#: game/scenes/gui/game_menu/galleries/images.tscn game/scenes/gui/game_menu/galleries/movies.tscn
+msgid "TOUT"
+msgstr "ALLE"
+
+#: game/scenes/gui/game_menu/save_button_template.tscn
+msgid "Nom de sauvegarde"
+msgstr "NAME"
+
+#: game/scenes/gui/game_menu/rename.tscn game/scenes/gui/rename.tscn
+msgid "Nom par défaut"
+msgstr "Standardname"
+
+#: game/scenes/gui/game_menu/thanks.tscn
+msgid "Dialogue Manager"
+msgstr "Dialogmanager"
+
+#: game/scenes/gui/game_menu/galleries/sprites.tscn
+msgid "ATTRIBUTE GROUP"
+msgstr "ATTRIBUTGRUPPE"
+
+#: game/scenes/gui/game_menu/galleries/movies_visualisation.tscn
+msgid "Fellation"
+msgstr "Blowjob"
+
+#: game/scenes/gui/game_menu/galleries/movies_visualisation.tscn
+msgid "Vaginal"
+msgstr "Vaginal"
+
+#: game/scenes/gui/game_menu/galleries.tscn
+msgid "ANIMATIONS"
+msgstr "ANIMATIONEN"
+
+#: game/scenes/gui/game_menu/navigation.tscn
+msgid "SAUVEGARDES"
+msgstr "SPIELSTÄNDE"
+
+#: game/scenes/gui/game_menu/navigation.tscn
+msgid "REMERCIEMENTS"
+msgstr "DANK"
+
+#: game/scenes/gui/game_menu/preferences.tscn
+msgid "Préférence enum"
+msgstr "Präferenz Aufzählungen"
+
+#: game/scenes/gui/game_menu/thanks.tscn
+msgid "Mécènes"
+msgstr "Patrons"
+
+#: game/scenes/gui/game_menu/galleries/sprites.tscn
+msgid "ATTRIBUTE"
+msgstr "ATTRIBUT"
+
+#: game/scenes/gui/game_menu/main.tscn
+msgid "Oui"
+msgstr "Ja"
+
+#: game/scenes/gui/game_menu/main.tscn
+msgid "Non"
+msgstr "Nein"
+
+#: game/scenes/gui/game_menu/navigation.tscn
+msgid "PRÉFÉRENCES"
+msgstr "PRÄFERENZEN"
+
+#: game/scenes/gui/game_menu/preferences.tscn
+msgctxt "preferences.unit.skip_frame_delay"
+msgid "frame(s)"
+msgstr "Frame(s)"
+
+#: game/scenes/gui/game_menu/saves.tscn
+msgid "A"
+msgstr "A"
+
+#: game/scenes/gui/game_menu/save_button_template.tscn game/scripts/gui/menu/save_button_template.gd
+msgctxt "saves.button.invalid"
+msgid "Sauvegarde invalide."
+msgstr "Ungültiger Spielstand"
+
+#: game/scenes/gui/game_menu/rename.tscn game/scenes/gui/rename.tscn
+msgid "Indiquez votre nom :"
+msgstr "Gib deinen Namen ein:"
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Ne pas rejeter {{noriko.n}}."
+msgstr "Weise {noriko.n} nicht ab."
+
+#: game/scenes/gui/game_menu/galleries/movies.tscn
+msgctxt "galleries.movies.hints"
+msgid "Laisser travailler {{yasuka.n}} comme hôtesse."
+msgstr "Lass {yasuka.n} als Hostess arbeiten."
+
+#: game/scenes/gui/game_menu/galleries.tscn game/scenes/gui/game_menu/galleries/images.tscn game/scenes/gui/game_menu/galleries/backgrounds.tscn game/scenes/gui/game_menu/galleries/movies.tscn
+#: game/scenes/gui/game_menu/galleries/music.tscn game/scenes/gui/game_menu/galleries/sprites.tscn
+msgctxt "game_menu.crumbs"
+msgid "GALERIES"
+msgstr "GALERIE"
+
+#: game/scenes/gui/game_menu/thanks.tscn
+msgctxt "game_menu.crumbs"
+msgid "REMERCIEMENTS"
+msgstr "DANK"
+
+#: game/scenes/gui/game_menu/save_button_template.tscn game/scripts/gui/menu/save_button_template.gd
+msgctxt "saves.button.played_time_long"
+msgid "{hours}h {minutes}m"
+msgstr "{hours}h {minutes}min"
+
+#: game/scenes/gui/game_menu/save_button_template.tscn game/scripts/gui/menu/save_button_template.gd
+msgctxt "saves.button.played_time_short"
+msgid "{minutes}m"
+msgstr "{minutes}min"
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Entraînement avec {{macumba.n}}."
+msgstr "Training mit {{macumba.n}}."
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Première apparition d'{{asami.n}}."
+msgstr "{asami.n}s erster Auftritt."
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Deuxième apparition d'{{asami.n}}."
+msgstr "{asami.n}s zweiter Auftritt."
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Troisième apparition d'{{asami.n}}."
+msgstr "{asami.n}s dritter Auftritt."
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Vouloir travailler pour le restaurant."
+msgstr "Auf Jobsuche im Restaurant"
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Empêcher {{yasuka.n}} de travailler comme hôtesse."
+msgstr "Halt {yasuka.n} davon ab, als Hostess zu arbeiten."
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Domir avec {{yasuka.n}} plusieurs fois."
+msgstr "Schlafe mehrmals mit {yasuka.n}."
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Faire chanter {{noriko.n}}."
+msgstr "Erpresse {noriko.n}."
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Choisir de dominer {{noriko.n}}"
+msgstr "Dominiere {noriko.n}."
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Se faire dominer par {{noriko.n}}."
+msgstr "Lass dich von {noriko.n} dominieren."
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Écouter à la porte de {{noriko.n}}."
+msgstr "Horche an {noriko.n}s Tür."
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Suivre l'histoire principale."
+msgstr "Folge der Handlung."
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Travailler au restaurant."
+msgstr "Arbeite beim Restaurant."
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Se lier d'amitié avec {{asami.n}}."
+msgstr "Freunde dich mit {asami.n} an."
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Corrompre {{asami.n}}."
+msgstr "Korrumpiere {asami.n}."
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Poser les bonnes questions à {{asami.n}}."
+msgstr "Stelle {asami.n} die richtigen Fragen."
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Laisser travailler {{yasuka.n}} comme hôtesse."
+msgstr "Lass {yasuka.n} als Hostess arbeiten."
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Suivre l'histoire de {{sakuya.n}}."
+msgstr "Folge {sakuya.n}s Handlung."
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Choisir de dominer {{noriko.n}}."
+msgstr "Dominiere {noriko.n}."
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Se laisser dominer par {{noriko.n}}."
+msgstr "Lass dich von {noriko.n} dominieren."
+
+#: game/scenes/gui/game_menu/galleries/movies.tscn
+msgctxt "galleries.movies.hints"
+msgid "Suivre l'histoire d'{{asami.n}}."
+msgstr "Folge {asami.n}s Handlung."
+
+#: game/scenes/gui/game_menu/galleries/movies.tscn
+msgctxt "galleries.movies.attribute"
+msgid "notan"
+msgstr "Natürlich"
+
+#: game/scenes/gui/game_menu/galleries/movies.tscn
+msgctxt "galleries.movies.attribute"
+msgid "tan"
+msgstr "Nahtlose Bräune"
+
+#: game/scenes/gui/game_menu/galleries/movies.tscn
+msgctxt "galleries.movies.hints"
+msgid "Corrompre {{asami.n}}."
+msgstr "Korrumpiere {asami.n}."
+
+#: game/scenes/gui/game_menu/galleries/movies.tscn
+msgctxt "galleries.movies.hints"
+msgid "Suivre l'histoire de {{sakuya.n}}."
+msgstr "Folge {sakuya.n}s Handlung."
+
+#: game/scenes/gui/game_menu/galleries/movies.tscn
+msgctxt "galleries.movies.hints"
+msgid "Faire chanter {{noriko.n}}."
+msgstr "Erpresse {noriko.n}."
+
+#: game/scenes/gui/game_menu/galleries/movies.tscn
+msgctxt "galleries.movies.hints"
+msgid "Ne pas rejeter {{noriko.n}}."
+msgstr "Weise {noriko.n} nicht ab."
+
+#: game/scenes/gui/game_menu/galleries/movies.tscn
+msgctxt "galleries.movies.hints"
+msgid "Suivre l'histoire de {{yasuka.n}}."
+msgstr "Folge {yasuka.n}s Handlung."
+
+#: game/scenes/gui/game_menu/galleries/movies.tscn
+msgctxt "galleries.movies.attribute"
+msgid "behind"
+msgstr "Siehe hinten"
+
+#: game/scenes/gui/game_menu/galleries/movies.tscn
+msgctxt "galleries.movies.attribute"
+msgid "akira"
+msgstr "Mit {akira.n}"
+
+#: game/scenes/gui/game_menu/galleries/movies.tscn
+msgctxt "galleries.movies.hints"
+msgid "Choisir de dominer {{noriko.n}}."
+msgstr "Dominiere {noriko.n}."
+
+#: game/scenes/gui/game_menu/galleries/movies.tscn
+msgctxt "galleries.movies.hints"
+msgid "Se laisser dominer par {{noriko.n}}."
+msgstr "Lass dich von {noriko.n} dominieren."
+
+#: game/scenes/gui/game_menu/galleries.tscn
+msgid "IMAGES"
+msgstr "BILDER"
+
+#: game/scenes/gui/game_menu/save_button_template.tscn
+msgid "SAUVEGARDER"
+msgstr "SPEICHERN"
+
+#: game/scenes/gui/game_menu/thanks.tscn
+msgid "Informations légales"
+msgstr "Rechtliche Informationen"
+
+#: game/scenes/gui/game_menu/thanks.tscn
+msgid "Godot Engine"
+msgstr "Godot-Engine"
