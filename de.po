@@ -110,7 +110,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
-"PO-Revision-Date: 2024-07-03 15:54+0000\n"
+"PO-Revision-Date: 2024-07-03 16:07+0000\n"
 "Last-Translator: Tim Siekmann <sebastiana.laubenstein@gmail.com>\n"
 "Language-Team: German <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/de/>\n"
@@ -55822,7 +55822,7 @@ msgstr "Restaurant"
 #: game/scenes/locations/city.tscn
 msgctxt "location"
 msgid "konbini_exterior"
-msgstr "Supermarkt"
+msgstr "Kombini"
 
 #: game/scenes/locations/city.tscn
 msgctxt "location"
@@ -57306,7 +57306,7 @@ msgstr ""
 
 #: game/scenes/gui/main_menu.tscn
 msgid "Charger"
-msgstr "Laden"
+msgstr "Spiel laden"
 
 #: game/scenes/gui/gui_end_version.tscn
 msgid "Animations"
@@ -57319,3 +57319,8 @@ msgstr "Sounddesign"
 #: game/scenes/gui/gui_start_asami.tscn
 msgid "Vous avez fait le choix de [color=yellow]rester amis[/color]."
 msgstr "Du hast dich entschlossen, [color=yellow]befreundet[/color] zu bleiben."
+
+#: game/scripts/gui/menu/game_menu.gd
+msgctxt "confirm"
+msgid "Voulez-vous quitter ?"
+msgstr "Möchtest du das Spiel verlassen?"
