@@ -110,7 +110,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
-"PO-Revision-Date: 2024-07-03 12:50+0000\n"
+"PO-Revision-Date: 2024-07-03 12:52+0000\n"
 "Last-Translator: Tim Siekmann <sebastiana.laubenstein@gmail.com>\n"
 "Language-Team: German <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/de/>\n"
@@ -56456,3 +56456,11 @@ msgstr "Rechtliche Informationen"
 #: game/scenes/gui/game_menu/thanks.tscn
 msgid "Godot Engine"
 msgstr "Godot-Engine"
+
+msgctxt "preferences.group"
+msgid "Language"
+msgstr "Sprachen"
+
+msgctxt "preferences.variable"
+msgid "language"
+msgstr "Sprache"
