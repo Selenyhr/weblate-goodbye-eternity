@@ -110,7 +110,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
-"PO-Revision-Date: 2024-07-03 15:05+0000\n"
+"PO-Revision-Date: 2024-07-03 15:32+0000\n"
 "Last-Translator: Tim Siekmann <sebastiana.laubenstein@gmail.com>\n"
 "Language-Team: German <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/de/>\n"
@@ -56877,3 +56877,346 @@ msgstr "Benutzeroberfläche"
 msgctxt "character.sprite.attribute"
 msgid "jacket"
 msgstr "Jacke"
+
+#: game/scenes/locations/arcade_exterior.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "NorikoClawMachine"
+msgstr "{{noriko.n}} (Greifautomat)"
+
+#: game/scenes/locations/onsen_bath.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "SakuyaBath"
+msgstr "{{sakuya.n}} (badend)"
+
+msgctxt "preferences.variable"
+msgid "mobile_mode"
+msgstr "Handymodus"
+
+msgctxt "preferences.variable"
+msgid "textbox_opacity"
+msgstr "Transparenz der Textboxen"
+
+msgctxt "preferences.variable"
+msgid "asami_pubes"
+msgstr "Asami"
+
+msgctxt "preferences.variable"
+msgid "chiaki_pubes"
+msgstr "Chiaki"
+
+msgctxt "preferences.variable"
+msgid "natsume_pubes"
+msgstr "Natsume"
+
+msgctxt "preferences.variable"
+msgid "noriko_pubes"
+msgstr "Noriko"
+
+msgctxt "preferences.variable"
+msgid "sakuya_pubes"
+msgstr "Sakuya"
+
+msgctxt "preferences.variable"
+msgid "sayuri_pubes"
+msgstr "Sayuri"
+
+msgctxt "preferences.variable"
+msgid "yasuka_pubes"
+msgstr "Yasuka"
+
+msgctxt "preferences.group"
+msgid "Audio"
+msgstr "Audio"
+
+msgctxt "preferences.variable"
+msgid "master_volume"
+msgstr "Gesamtlautstärke"
+
+msgctxt "preferences.variable"
+msgid "music_volume"
+msgstr "Musiklautstärke"
+
+msgctxt "preferences.variable"
+msgid "sound_volume"
+msgstr "Stimmen- & Geräuschelautstärke"
+
+msgctxt "preferences.variable"
+msgid "sound_mute"
+msgstr "Stimmen & Geräusche stummschalten"
+
+msgctxt "preferences.group"
+msgid "Gameplay"
+msgstr "Gameplay"
+
+msgctxt "preferences.subgroup"
+msgid "Auto-save"
+msgstr "Automatisches Speichern"
+
+msgctxt "preferences.variable"
+msgid "auto_on_choice"
+msgstr "Automatisches Speichern bei Entscheidungen"
+
+msgctxt "preferences.variable"
+msgid "auto_before_quit"
+msgstr "Automatisches Speichern bei Beenden"
+
+msgctxt "preferences.subgroup"
+msgid "Hints"
+msgstr "Hinweise"
+
+msgctxt "preferences.variable"
+msgid "path_hints"
+msgstr "Hinweise zu Routen"
+
+msgctxt "preferences.variable"
+msgid "skip_frame_delay"
+msgstr "Verzögerung beim Überspringen"
+
+msgctxt "preferences.subgroup"
+msgid "Skip"
+msgstr "Überspringen"
+
+msgctxt "preferences.variable"
+msgid "skip_unseen"
+msgstr "Ungesehenen Text überspringen"
+
+msgctxt "preferences.variable"
+msgid "skip_on_location_change"
+msgstr "Überspringen nach Ortswechsel"
+
+#: game/scenes/locations/canal.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "SaitoSit"
+msgstr "{{saito.n}} (sitzend)"
+
+#: game/scenes/locations/canal.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "AsamiLay"
+msgstr "{{asami.n}} (liegend)"
+
+#: game/scenes/locations/canal.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "NatsumeLean"
+msgstr "{{natsume.n}} (lehnend)"
+
+#: game/scenes/locations/canal.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "Diary"
+msgstr "Tagebuch"
+
+#: game/scenes/locations/coffeebar_exterior.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "NetoruSit"
+msgstr "{{netoru.n}} (sitzend)"
+
+#: game/scenes/locations/coffeebar_interior.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "YasukaBarista"
+msgstr "{{yasuka.n}} (Barista)"
+
+#: game/scenes/locations/dojo_exterior.tscn game/scenes/locations/hostess_club_exterior.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "ThugsStand"
+msgstr "Thugs (wartend)"
+
+#: game/scenes/locations/home_asami_asami_room.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "AsamiSitEveryday"
+msgstr "{{asami.n}} (sitzend, normal)"
+
+#: game/scenes/locations/home_asami_asami_room.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "AsamiSitSexy"
+msgstr "{{asami.n}} (sitzend, sexy)"
+
+#: game/scenes/locations/home_asami_exterior.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "NetoruStand"
+msgstr "{{netoru.n}} (Türklingel)"
+
+#: game/scenes/locations/home_asami_livingroom.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "SayuriCook"
+msgstr "{{sayuri.n}} (kochend)"
+
+#: game/scenes/locations/home_asami_livingroom.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "SayuriSit"
+msgstr "{{sayuri.n}} (sitzend)"
+
+#: game/scenes/locations/home_kimochi_interior.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "KimochiSit"
+msgstr "{{kimochi.n}} (sitzend)"
+
+#: game/scenes/locations/home_minato_exterior.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "Car"
+msgstr "Auto"
+
+#: game/scenes/locations/home_player_corridor.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "NorikoStand"
+msgstr "{{noriko.n}} (wartend)"
+
+#: game/scenes/locations/home_player_exterior.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "ChiakiCat"
+msgstr "{{chiaki.n}} (Katze)"
+
+#: game/scenes/locations/home_player_exterior.tscn game/scenes/locations/restaurant_sakuya_room.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "SakuyaStand"
+msgstr "{{sakuya.n}} (wartend)"
+
+#: game/scenes/locations/home_player_livingroom.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "RouterLight"
+msgstr "Router"
+
+#: game/scenes/locations/home_player_livingroom.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "YasukaCoffee"
+msgstr "{{yasuka.n}} (Kaffee)"
+
+#: game/scenes/locations/home_player_noriko_room.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "NorikoPC"
+msgstr "{{noriko.n}} (pc)"
+
+#: game/scenes/locations/home_player_noriko_room.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "NorikoSitNude"
+msgstr "{{noriko.n}} (sitzend, nackt)"
+
+#: game/scenes/locations/home_player_noriko_room.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "NorikoLeanNude"
+msgstr "{{noriko.n}} (wartend, nakt)"
+
+#: game/scenes/locations/home_player_noriko_room.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "NorikoSleep"
+msgstr "{{noriko.n}} (schlafend)"
+
+#: game/scenes/locations/home_player_saito_room.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "Walkman"
+msgstr "Walkman"
+
+#: game/scenes/locations/home_player_saito_room.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "Dumbbells"
+msgstr "Hanteln"
+
+#: game/scenes/locations/home_player_saito_room.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "NorikoSitting"
+msgstr "{{noriko.n}} (sitzend)"
+
+#: game/scenes/locations/home_player_saito_room.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "AsamiDreamcastEveryday"
+msgstr "{{asami.n}} (Dreamcast, normal)"
+
+#: game/scenes/locations/home_player_saito_room.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "AsamiDreamcastSexy"
+msgstr "{{asami.n}} (Dreamcast, sexy)"
+
+#: game/scenes/locations/home_player_yasuka_room.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "YasukaRest"
+msgstr "{{yasuka.n}} (ruhend)"
+
+#: game/scenes/locations/home_player_yasuka_room.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "NorikoCrouchNude"
+msgstr "{{noriko.n}} (kriechend, nackt)"
+
+#: game/scenes/locations/hostess_club_exterior.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "YasukaStand"
+msgstr "{{yasuka.n}} (wartend)"
+
+#: game/scenes/locations/hostess_club_interior.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "MacumbaGuard"
+msgstr "{{macumba.n}} (wachend)"
+
+#: game/scenes/locations/konbini_interior.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "SayuriWork"
+msgstr "{{sayuri.n}} (arbeitend)"
+
+#: game/scenes/locations/lake.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "NorikoSit"
+msgstr "{{noriko.n}} (sitzend)"
+
+#: game/scenes/locations/park.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "MacumbaSit"
+msgstr "{{macumba.n}} (sitzend)"
+
+#: game/scenes/locations/park.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "AsamiSit"
+msgstr "{{asami.n}} (sitzend)"
+
+#: game/scenes/locations/park.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "NatsumeWalk"
+msgstr "{{natsume.n}} (spazieren)"
+
+#: game/scenes/locations/park.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "AsamiWalkDress"
+msgstr "{{asami.n}} (spazieren, Kleid)"
+
+#: game/scenes/locations/park.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "AsamiWalkSexy"
+msgstr "{{asami.n}} (spazieren, sexy)"
+
+#: game/scenes/locations/restaurant_exterior.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "ChefSmoke"
+msgstr "{{chef.n}} (rauchend)"
+
+#: game/scenes/locations/restaurant_interior.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "ChefCook"
+msgstr "{{chef.n}} (kochend)"
+
+#: game/scenes/locations/restaurant_interior.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "SakuyaClean"
+msgstr "{{sakuya.n}} (wischend)"
+
+#: game/scenes/locations/restaurant_sakuya_room.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "AkiraWindow"
+msgstr "{{akira.n}} (Fenster)"
+
+msgctxt "preferences.subgroup"
+msgid "Character pubes"
+msgstr "Intimbehaarung"
+
+msgctxt "preferences.variable"
+msgid "music_mute"
+msgstr "Musik stummschalten"
+
+#: game/scenes/locations/arcade_interior.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "NobuPlay"
+msgstr "{{nobu.n}} (Spielhalle)"
+
+#: game/scenes/locations/home_player_yasuka_room.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "YasukaSleep"
+msgstr "{{yasuka.n}} (schlafend)"
+
+msgctxt "preferences.variable"
+msgid "master_mute"
+msgstr "Alles stummschalten"
