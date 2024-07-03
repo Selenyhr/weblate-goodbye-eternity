@@ -110,7 +110,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
-"PO-Revision-Date: 2024-07-03 15:36+0000\n"
+"PO-Revision-Date: 2024-07-03 15:54+0000\n"
 "Last-Translator: Tim Siekmann <sebastiana.laubenstein@gmail.com>\n"
 "Language-Team: German <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/de/>\n"
@@ -55913,17 +55913,17 @@ msgstr "ASAMI"
 #: game/scenes/gui/gui_start_asami.tscn
 msgid "Vous pouvez dès à présent poursuivre l’histoire d’{{asami.n}} et revenir à l’intrigue principale quand vous le souhaitez."
 msgstr ""
-"Von jetzt an kannst du {{asami.n}}'s Geschichte fortsetzen und jederzeit zur "
-"Hauptgeschickte zurückkehren."
+"Von jetzt an kannst du {{asami.n}}s Geschichte fortsetzen und jederzeit zur "
+"Hauptgeschichte zurückkehren."
 
 #: game/scenes/gui/gui_start_asami.tscn
 msgid "Vous avez fait le choix de vous lier [color=yellow]d'amitié[/color]."
 msgstr ""
-"Du hast dich entschieden dich mit ihr [color=yellow]anzufreunden[/color]."
+"Du hast dich entschieden, dich mit ihr [color=yellow]anzufreunden[/color]."
 
 #: game/scenes/gui/gui_start_asami.tscn
 msgid "Vous avez fait le choix de la [color=yellow]corrompre[/color]."
-msgstr "Du hast dich entschieden sie zu [color=yellow]manipulieren[/color]."
+msgstr "Du hast dich entschieden, sie zu [color=yellow]korrumpieren[/color]."
 
 #: game/scenes/gui/gui_start_asami.tscn game/scenes/gui/gui_start_sakuya.tscn game/scenes/gui/gui_start_yasuka.tscn
 msgid "J'ai compris"
@@ -55935,13 +55935,13 @@ msgstr "SAKUYA"
 
 #: game/scenes/gui/gui_start_sakuya.tscn
 msgid "Vous pouvez dès à présent poursuivre l’histoire de {{sakuya.n}}."
-msgstr "Du kannst jetzt {{sakuya.n}}'s Geschichte fortsetzen."
+msgstr "Du kannst jetzt {{sakuya.n}}s Geschichte fortsetzen."
 
 #: game/scenes/gui/gui_start_sakuya.tscn
 msgid "Vous avez fait des choix tout au long de votre aventure, peu importe qu'ils soient bons ou mauvais. {{sakuya.n}} vous les fera assumer."
 msgstr ""
-"Du hast im Verlauf deines Abenteuers Entscheidungen getroffen, ob gute oder "
-"schlechte. {{sakuya.n}} wird dich dafür Verantwortung übernehmen lassen."
+"Du hast im Verlauf deines Abenteuers Entscheidungen getroffen, egal ob gute "
+"oder schlechte. {{sakuya.n}} wird dich dafür Verantwortung übernehmen lassen."
 
 #: game/scenes/gui/gui_start_yasuka.tscn
 msgid "YASUKA"
@@ -55950,13 +55950,13 @@ msgstr "YASUKA"
 #: game/scenes/gui/gui_start_yasuka.tscn
 msgid "Vous pouvez dès à présent poursuivre l’histoire de {{yasuka.n}} et revenir à l’intrigue principale quand vous le souhaitez."
 msgstr ""
-"Du kannst jetzt {{yasuka.n}}'s Geschichte fortsetzen und jederzeit zur "
+"Du kannst jetzt {{yasuka.n}}s Geschichte fortsetzen und jederzeit zur "
 "Hauptgeschichte zurückkehren."
 
 #: game/scenes/gui/gui_start_yasuka.tscn
 msgid "Vous avez fait le choix de l'[color=yellow]aimer et de la soutenir[/color]."
 msgstr ""
-"Du hast dich entschieden sie zu [color=yellow]lieben und zu "
+"Du hast dich entschieden, sie zu [color=yellow]lieben und zu "
 "unterstützen[/color]"
 
 #: game/scenes/gui/gui_start_yasuka.tscn
@@ -55989,7 +55989,7 @@ msgstr "Deine Handlungen werden Konsequenzen haben..."
 #: game/scenes/gui/splashscreen.tscn
 msgid "[fill]Certaines [url=data]données anonymes[/url] peuvent être récoltées pour améliorer l'expérience de jeu.[/fill]"
 msgstr ""
-"[fill]Manche [url=data]anonymen Daten[/url] können gesammelt werden um das "
+"[fill]Manche [url=data]anonymen Daten[/url] können gesammelt werden, um das "
 "Spielerlebnis zu verbessern.[/fill]"
 
 #: game/scenes/gui/splashscreen.tscn
@@ -56000,11 +56000,11 @@ msgid ""
 "- informations de plateforme (Windows, Android, etc.)\n"
 "- informations de build (animations, censure, mode web, etc.)"
 msgstr ""
-"\"Die gesammelten Daten umfassen:\n"
+"Die gesammelten Daten umfassen:\n"
 "- aktuelle Versionsnummer\n"
-"- Spielerpräferenzen (Modus \"patate\")\n"
+"- Spielerpräferenzen\n"
 "- Plattforminformationen (Windows, Android usw.)\n"
-"- Build-Informationen (Animationen, Zensur, Webmodus usw.)\""
+"- Build-Informationen (Animationen, Zensur, Webmodus usw.)"
 
 #: game/scenes/gui/splashscreen.tscn
 msgid "Ces données seront recueillies après acceptation de ces termes, et ne contiennent pas d'identifiant direct ni informations externes au jeu."
@@ -57220,3 +57220,102 @@ msgstr "{{yasuka.n}} (schlafend)"
 msgctxt "preferences.variable"
 msgid "master_mute"
 msgstr "Alles stummschalten"
+
+#: game/scenes/gui/gui_end_version.tscn
+msgid "Programmation"
+msgstr "Programmieren"
+
+#: game/scenes/gui/gui_end_version.tscn
+msgid "Sprites"
+msgstr "Sprites"
+
+#: game/scenes/gui/gui_end_version.tscn
+msgid "Musique"
+msgstr "Musik"
+
+#: game/scenes/gui/gui_end_version.tscn
+msgid "Traduction"
+msgstr "Übersetzung"
+
+#: game/scenes/gui/gui_end_version.tscn
+msgid "Localisation | Relecture"
+msgstr "Lokalisierungsbearbeiter"
+
+#: game/scenes/gui/gui_start_noriko.tscn
+msgid "NORIKO"
+msgstr "NORIKO"
+
+#: game/scenes/gui/gui_start_noriko.tscn
+msgid "Oui, mais c'est moi qui commande maintenant."
+msgstr "Ja, aber ich habe jetzt das Sagen."
+
+#: game/scenes/gui/main_menu.tscn
+msgid "© THE END OF TIME STUDIOS - ALL RIGHTS RESERVED"
+msgstr "© THE END OF TIME STUDIOS - ALL RIGHTS RESERVED"
+
+#: game/scenes/gui/main_menu.tscn
+msgid "Nouvelle partie"
+msgstr "Neues Spiel"
+
+#: game/scenes/gui/main_menu.tscn
+msgid "Galeries"
+msgstr "Galerie"
+
+#: game/scenes/gui/rename.tscn
+msgid "Commencer"
+msgstr "Anfangen"
+
+#: game/scenes/gui/gui_end_version.tscn
+msgid "Merci d'avoir joué à Goodbye Eternity !"
+msgstr "Danke fürs Spielen von Goodbye Eternity!"
+
+#: game/scenes/gui/gui_end_version.tscn
+msgid "Merci à tous les contributeurs qui nous soutiennent, sans eux ce projet n'existerait pas !"
+msgstr ""
+"Vielen Dank an alle Spieler, die uns unterstützen; ohne sie wäre das Projekt "
+"nicht möglich!"
+
+#: game/scenes/gui/gui_end_version.tscn
+msgid "Ajoutez-nous en liste de souhaits !"
+msgstr "Füg uns deiner Wunschliste hinzu!"
+
+#: game/scenes/gui/gui_end_version.tscn
+msgid "Histoire | Design"
+msgstr "Geschichte | Design"
+
+#: game/scenes/gui/gui_start_noriko.tscn
+msgid "Vous pouvez dès à présent poursuivre l’histoire de {{noriko.n}}."
+msgstr "Du kannst nun {{noriko.n}}s Geschichte fortsetzen."
+
+#: game/scenes/gui/gui_end_version.tscn
+msgid "Si vous avez aimé le jeu, n'hésitez pas à supporter le projet sur PATREON, et si vous voulez rejoindre la communauté, rejoignez-nous sur le Discord officiel."
+msgstr ""
+"Wenn dir das Spiel gefiel, unterstütze das Projekt gerne auf PATREON und – "
+"wenn du der Community beitreten möchtest – tritt dem offiziellen Discord-"
+"Server bei."
+
+#: game/scenes/gui/gui_end_version.tscn
+msgid "Arrières-plans"
+msgstr "Hintergründe"
+
+#: game/scenes/gui/gui_start_noriko.tscn
+msgid "Vous avez choisi de ne pas vous laisser faire par {{noriko.n}} et de prendre les choses en main."
+msgstr ""
+"Du hast dich entschieden, dich von {{noriko.n}} nicht ausnutzen zu lassen "
+"und die Dinge selbst in die Hand zu nehmen."
+
+#: game/scenes/gui/main_menu.tscn
+msgid "Charger"
+msgstr "Laden"
+
+#: game/scenes/gui/gui_end_version.tscn
+msgid "Animations"
+msgstr "Animationen"
+
+#: game/scenes/gui/gui_end_version.tscn
+msgid "Conception sonore"
+msgstr "Sounddesign"
+
+#: game/scenes/gui/gui_start_asami.tscn
+msgid "Vous avez fait le choix de [color=yellow]rester amis[/color]."
+msgstr "Du hast dich entschlossen, [color=yellow]befreundet[/color] zu bleiben."
