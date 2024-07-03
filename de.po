@@ -110,7 +110,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
-"PO-Revision-Date: 2024-03-15 21:20+0000\n"
+"PO-Revision-Date: 2024-07-03 12:06+0000\n"
 "Last-Translator: Tim Siekmann <sebastiana.laubenstein@gmail.com>\n"
 "Language-Team: German <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/de/>\n"
@@ -55842,7 +55842,7 @@ msgstr "{{kimochi.n}}s Haus"
 #: game/scenes/locations/city.tscn
 msgctxt "location"
 msgid "home_natsume_exterior"
-msgstr "Das Haus von {{natsume.n}}"
+msgstr "{{natsume.n}}s Haus"
 
 #: game/scenes/locations/city.tscn
 msgctxt "location"
@@ -56034,3 +56034,8 @@ msgstr ""
 #: game/scenes/gui/game_menu/preferences.tscn
 msgid "50"
 msgstr "50"
+
+#: game/story/home_nobu_exterior.dialogue
+msgctxt "home_nobu_exterior_44784a8a"
+msgid "{{saito.n}} !"
+msgstr "{{saito.n}}!"
