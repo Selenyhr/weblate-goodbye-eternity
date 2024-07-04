@@ -110,8 +110,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
-"PO-Revision-Date: 2024-07-04 21:25+0000\n"
-"Last-Translator: Sven Ziegler <ziegler.sven93@gmail.com>\n"
+"PO-Revision-Date: 2024-07-04 21:30+0000\n"
+"Last-Translator: Tim Siekmann <sebastiana.laubenstein@gmail.com>\n"
 "Language-Team: German <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/de/>\n"
 "Language: de\n"
@@ -3326,7 +3326,7 @@ msgstr ""
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_317a7e66"
 msgid "Enfin !!!"
-msgstr ""
+msgstr "Endlich!"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_80cf7884"
@@ -11191,17 +11191,17 @@ msgstr "Ich habe mich gefragt, ob du ihn vielleicht gese-"
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_noriko_room_closed_a1d6bd2c"
 msgid "...Évidemment !"
-msgstr "...Offensichtlich !"
+msgstr "...Offensichtlich!"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_noriko_room_closed_1ed63590"
 msgid "Bon... Il va falloir trouver une stratégie plus efficace..."
-msgstr ""
+msgstr "Nun... Ich befürchte, wir müssen eine bessere Strategie finden..."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_noriko_room_closed_a2a2c4f6"
 msgid "Elle doit probablement jouer sur son PC, peut-être que..."
-msgstr ""
+msgstr "Sie spielt wahrscheinlich wieder auf ihrem PC..."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_noriko_room_closed_3f06fac8"
@@ -11211,42 +11211,50 @@ msgstr ""
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_noriko_room_closed_7a9b7c49"
 msgid "Le routeur doit être dans le [color=yellow]salon[/color]."
-msgstr ""
+msgstr "Der Router ist im [color=yellow]Wohnzimmer[/color]."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_noriko_room_closed_d6ed5375"
 msgid "Il va falloir être rapide !"
-msgstr ""
+msgstr "Ich muss aber schnell sein."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_0c3ec198"
 msgid "Une minute..."
-msgstr ""
+msgstr "Eine Sekunde..."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_82150078"
 msgid "Si je rentre ici sans être préparé, elle va encore trouver le moyen de me faire chanter..."
 msgstr ""
+"Wenn ich da unvorbereitet reingehe, wird sie wieder einen Weg finden, mich "
+"zu erpressen..."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_2075f795"
 msgid "Dans mon rêve, elle m'avait accusé de l'avoir violé et avait quitté la maison peu de temps après."
 msgstr ""
+"Damals hatte sie mich beschuldigt, sie vergewaltigt zu haben und ist kurz "
+"darauf abgehauen."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_c9edb325"
 msgid "{{yasuka.n}} ne m'avait plus jamais adressée la parole, j'avais dû quitter la maison par la suite."
 msgstr ""
+"Danach hat {{yasuka.n}} nie wieder ein Wort mit mir geredet und ich musste "
+"auch gehen."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_a3deec1e"
 msgid "{{noriko.n}} cette fois-ci, je ne me ferais pas avoir !"
 msgstr ""
+"Diesmal nicht, {{noriko.n}}. Du wirst mir mein Zuhause nicht nochmal "
+"wegnehmen."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "t377300f535"
 msgid "Vous avez activé l'enregistreur audio de votre tablette."
-msgstr ""
+msgstr "Du hast den Audiorekorder auf deinem Tablet aktiviert."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_c92622f5"
@@ -58407,3 +58415,9 @@ msgstr "Was?! Aber ich..."
 msgctxt "home_player_room_34d90840"
 msgid "Euh..."
 msgstr "Ähm..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_noriko_room_closed_3f06fac8"
+msgid "Si je lui coupe le wifi, je suis certain à 200% qu'elle va sortir de sa chambre !"
+msgstr ""
+"Vielleicht kann ich sie aus ihrem Zimmer locken, indem ich das WLAN abstelle."
