@@ -110,7 +110,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
-"PO-Revision-Date: 2024-07-04 13:59+0000\n"
+"PO-Revision-Date: 2024-07-04 14:40+0000\n"
 "Last-Translator: Tim Siekmann <sebastiana.laubenstein@gmail.com>\n"
 "Language-Team: German <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/de/>\n"
@@ -55900,7 +55900,7 @@ msgstr "Onsen"
 #: game/scenes/locations/city.tscn
 msgctxt "location"
 msgid "warehouse_exterior"
-msgstr "Lagerhaus"
+msgstr "Lagerhalle"
 
 #: game/scenes/locations/city.tscn
 msgctxt "location"
@@ -57759,3 +57759,597 @@ msgstr "..."
 msgctxt "home_nobu_exterior_03775ec8"
 msgid "..."
 msgstr "..."
+
+#: game/scenes/dialogue/vn_game_scene.tscn
+msgid "Préférences"
+msgstr "Präferenzen"
+
+#: game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "city"
+msgstr "Stadt"
+
+#: game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "arcade_interior"
+msgstr "Arcade-Halle (Innen)"
+
+#: game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "home_player_hallway"
+msgstr "Hausflur"
+
+#: game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "home_player_livingroom"
+msgstr "Wohnzimmer"
+
+#: game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "home_player_saito_room"
+msgstr "{{saito.n}}s Zimmer"
+
+#: game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "home_player_yasuka_room"
+msgstr "{{yasuka.n}}s Zimmer"
+
+#: game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "home_asami_livingroom"
+msgstr "{{asami.n}}s Wohnzimmer"
+
+#: game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "restaurant_interior"
+msgstr "Restaurant (Innen)"
+
+#: game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "onsen_room"
+msgstr "Onsen (Zimmer)"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_2"
+msgstr "Geh zum [color=yellow]Park[/color], um zu joggen."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_6"
+msgstr "Ich sollte einfach [color=yellow]nach Hause[/color] gehen..."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_8"
+msgstr "Morgen wird's besser... hoffentlich..."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_9"
+msgstr "Morgen wird's besser... hoffentlich..."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_11"
+msgstr "Ihr könnt mich alle mal! Ich gehe zum [color=yellow]Park[/color]!"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_12"
+msgstr "Ich muss das hier dem Besitzer zurückgeben..."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_14_noriko_femdom_maledom"
+msgstr "Frag {{noriko.n}} nach einer Erklärung."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_15_noriko_femdom_maledom"
+msgstr "Der WLAN-Router steht im [color=yellow]Wohnzimmer[/color]."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_17_noriko_blackmail_reject"
+msgstr "Hol dir deinen Walkman aus {{noriko.n}}s Zimmer!"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_18_noriko_blackmail_reject"
+msgstr "Hol dir deinen Walkman aus {{noriko.n}}s Zimmer!"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_19_1_noriko_femdom_maledom"
+msgstr "Nimm dir den Walkman und triff dich mit {{macumba.n}}."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_22"
+msgstr ""
+"Geh zurück zum [color=yellow]Park[/color], um nach {{macumba.n}} zu sehen."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_25"
+msgstr "{{macumba.n}} wartet wahrscheinlich auf meinen ersten Trainingstag."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_26"
+msgstr ""
+"Es ist an der Zeit, diesen alten Bastard wiederzusehen! Und wenn ich ihn "
+"dazu zwingen muss, mich anzunehmen."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_28"
+msgstr "Vielleicht kann mir {{macumba.n}} auch dabei helfen, stärker zu werden?"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_29_1_noriko_blackmail_reject"
+msgstr "Ich werde sie in meinem Zimmer aufbauen und mit dem Training beginnen."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_29_1_noriko_femdom_maledom"
+msgstr "Ich werde sie in meinem Zimmer aufbauen und mit dem Training beginnen."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_30"
+msgstr "Ich werde sie in meinem Zimmer aufbauen und mit dem Training beginnen."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_31_1"
+msgstr ""
+"Ich kann meine Ausdauer morgens verbessern und meine Kraft mittags ausbauen."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_32"
+msgstr ""
+"Ich denke, ich bin bereit dorthin zurückzukehren. Ich hoffe, das alles gut "
+"geht."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_33"
+msgstr ""
+"Scheiße, mit der Jobmöglichkeit hab ich's verkackt. Ich muss mir irgendwas "
+"anderes ausdenken."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_36"
+msgstr "Ich werde {{sakuya.n}} nach Hause begleiten."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_37"
+msgstr ""
+"Jetzt kann ich mich endlich auf das Training mit {{macumba.n}} konzentrieren."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_38_asami_love_corruption"
+msgstr "Ich muss zu {{minato.n}} gehen."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_39_asami_love_corruption"
+msgstr "Ich muss {{chiaki.n}} so schnell wie möglich finden."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_39_asami_love_corruption_chiaki_restaurant_exterior"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_39_asami_love_corruption_chiaki_park"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_39_asami_love_corruption_chiaki_home_player_exterior"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_40_asami_love_corruption"
+msgstr "Ich muss {{chiaki.n}} so schnell wie möglich finden."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_42_asami_love_corruption"
+msgstr "Ein weiterer beschissener Tag... Ich denke, ich sollte schlafen gehen."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_43_asami_love_corruption"
+msgstr "Zeit, schlafen zu gehen. Morgen beginnt meine Arbeit im Restaurant."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_38_asami_reject_friendship"
+msgstr "Ich muss zu {{minato.n}} gehen."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_38_1_asami_reject_friendship"
+msgstr "Ich muss zu {{minato.n}} gehen."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_39_asami_reject_friendship"
+msgstr "Ich muss {{chiaki.n}} so schnell wie möglich finden."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_39_asami_reject_friendship_chiaki_restaurant_exterior"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_39_asami_reject_friendship_chiaki_dojo_exterior"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_39_asami_reject_friendship_chiaki_park"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_39_asami_reject_friendship_chiaki_home_player_exterior"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_40_asami_reject_friendship"
+msgstr "Ich muss {{chiaki.n}} so schnell wie möglich finden."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_41_asami_reject_friendship"
+msgstr "Geh nach Hause."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_42_asami_reject_friendship"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_47"
+msgstr "Erfrisch dich im [color=yellow]Badezimmer[/color]!"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_48"
+msgstr "Ich muss {{noriko.n}} fragen."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_49"
+msgstr "Ich muss {{noriko.n}} fragen."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_love_5"
+msgstr "Ich bin mir sicher, dass sie im Park ist."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_love_6"
+msgstr "Bring {{asami.n}} in dein Zimmer."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_love_7"
+msgstr "Bring {{asami.n}} in dein Zimmer."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_love_11"
+msgstr "Begleite {{asami.n}} nach Hause."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_love_12"
+msgstr "Klingel an {{minato.n}}s Haus."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_love_12_1"
+msgstr "Klingel an {{minato.n}}s Haus."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_love_13"
+msgstr "Sie weiß vielleicht mehr über {{minato.n}}s eigenartiges Verhalten."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_love_17"
+msgstr "Geh zurück zu {{minato.n}}s Haus, um die Dinge zu klären."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_love_18"
+msgstr "Verbringe den Tag mit {{asami.n}} in deinem Zimmer."
+
+#: game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "home_asami_asami_room"
+msgstr "{{asami.n}}s Zimmer"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_4"
+msgstr ""
+"Es ist zu spät zum Joggen. Du solltest beim [color=yellow]Restaurant[/color] "
+"in der Stadt vorbeischauen."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_7"
+msgstr "Morgen wird's besser... hoffentlich..."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_14_noriko_blackmail_reject"
+msgstr "Frag {{yasuka.n}} nach mehr Informationen."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_15_noriko_blackmail_reject"
+msgstr "Hol dir deinen Walkman aus {{noriko.n}}s Zimmer!"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_23"
+msgstr "Der Tag war stressig; ich denke, ich sollte etwas Schlaf kriegen."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_29"
+msgstr "Vielleicht kann mir {{macumba.n}} auch dabei helfen, stärker zu werden?"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_30_1"
+msgstr "Ich werde sie in meinem Zimmer aufbauen und mit dem Training beginnen."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_39_asami_love_corruption_chiaki_dojo_exterior"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_45"
+msgstr "Zeit, schlafen zu gehen. Morgen beginnt meine Arbeit im Restaurant."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_love_9"
+msgstr "Bring {{asami.n}} in dein Zimmer."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_love_16"
+msgstr "Geh zurück zu {{minato.n}}s Haus, um die Dinge zu klären."
+
+#: game/scenes/dialogue/vn_game_scene.tscn
+msgid "Menu"
+msgstr "Menü"
+
+#: game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "home_player_corridor"
+msgstr "Flur"
+
+#: game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "home_player_bathroom"
+msgstr "Badezimmer"
+
+#: game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "restaurant_sakuya_room"
+msgstr "{{sakuya.n}}s Zimmer"
+
+#: game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "home_kimochi_interior"
+msgstr "{{kimochi.n}}s Wohnung (Innen)"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_0"
+msgstr ""
+"Verlasse das Schlafzimmer und triff dich mit {{yasuka.n}} im Wohnzimmer."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_5"
+msgstr ""
+"Jetzt muss ich nur noch zum [color=yellow]Dojo[/color]. Ich hasse diesen "
+"Tag..."
+
+#: game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "home_player_noriko_room"
+msgstr "{{noriko.n}}s Zimmer"
+
+#: game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "onsen_interior"
+msgstr "Onsen (Innen)"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_3"
+msgstr "Geh zum [color=yellow]Park[/color], um zu joggen."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_10"
+msgstr "Ihr könnt mich alle mal! Ich gehe zum [color=yellow]Park[/color]!"
+
+#: game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "onsen_bath"
+msgstr "Onsen (Bad)"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_13"
+msgstr ""
+"Was, wenn ich {{macumba.n}} meinen alten Walkman im Austausch gegen etwas "
+"Coaching geben würde?"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_17_noriko_femdom_maledom"
+msgstr "Durchsuche {{noriko.n}}s Zimmer nach dem Walkman."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_21_noriko_femdom_maledom"
+msgstr ""
+"Geh zurück zum [color=yellow]Park[/color], um nach {{macumba.n}} zu sehen."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_24"
+msgstr "Der Tag war stressig; ich denke, ich sollte etwas Schlaf kriegen."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_27"
+msgstr "Vielleicht kann mir {{macumba.n}} auch dabei helfen, stärker zu werden?"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_31"
+msgstr ""
+"Ich kann meine Ausdauer morgens verbessern und meine Kraft mittags ausbauen."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_34"
+msgstr ""
+"Scheiße, mit der Jobmöglichkeit hab ich's verkackt. Ich muss mir irgendwas "
+"anderes ausdenken."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_38_1_asami_love_corruption"
+msgstr "Ich muss zu {{minato.n}} gehen."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_41_asami_love_corruption"
+msgstr ""
+"Triff dich mit {{asami.n}} im Park, um ihr die schlechten Neuigkeiten zu "
+"überbringen."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_love_8"
+msgstr "Bring {{asami.n}} in dein Zimmer."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_love_15"
+msgstr "Geh zurück zu {{minato.n}}s Haus, um die Dinge zu klären."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_18_noriko_femdom_maledom"
+msgstr "Finde {{yasuka.n}}, um den Walkan zurückzubekommen."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_35"
+msgstr ""
+"Scheiße, mit der Jobmöglichkeit hab ich's verkackt. Ich muss mir irgendwas "
+"anderes ausdenken."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_44"
+msgstr "Zeit, schlafen zu gehen. Morgen beginnt meine Arbeit im Restaurant."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_love_10"
+msgstr "Begleite {{asami.n}} nach Hause."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_19_noriko_femdom_maledom"
+msgstr "Nimm dir den Walkman und triff dich mit {{macumba.n}}."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_46"
+msgstr "Heute ist mein erster Tag im [color=yellow]Restaurant[/color]!"
+
+#: game/scenes/dialogue/vn_game_scene.tscn
+msgid "Avance rapide"
+msgstr "Überspringen"
+
+#: game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "coffeebar_interior"
+msgstr "[i]Coffee Boutique[/i] (Innen)"
+
+#: game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "hostess_club_alley"
+msgstr "Nachtklub (Gasse)"
+
+#: game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "hostess_club_interior"
+msgstr "Nachtklub (Innen)"
+
+#: game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "love_hotel_reception"
+msgstr "Stundenhotel (Rezeption)"
+
+#: game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "love_hotel_room"
+msgstr "Stundenhotel (Zimmer)"
+
+#: game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "warehouse_interior"
+msgstr "Lagerhalle (Innen)"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_1"
+msgstr ""
+"Verlasse das Schlafzimmer und triff dich mit {{yasuka.n}} im Wohnzimmer."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_4_1"
+msgstr ""
+"Sprich mit dem {{chef.n}} beim [color=yellow]Restaurant[/color], um dich für "
+"den Job zu bewerben."
+
+#: game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "konbini_interior"
+msgstr "Kombini (Innen)"
