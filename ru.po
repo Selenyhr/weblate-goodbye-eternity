@@ -110,7 +110,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
-"PO-Revision-Date: 2024-07-04 22:41+0000\n"
+"PO-Revision-Date: 2024-07-04 23:39+0000\n"
 "Last-Translator: Natsu <Ivanovst4nist4v@yandex.ru>\n"
 "Language-Team: Russian <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/ru/>\n"
@@ -3995,7 +3995,6 @@ msgid "Bon, quand faut y aller, faut y aller."
 msgstr "Нужно делать то, что нужно, а не то, что хочется."
 
 #: game/story/home_player_saito_room.dialogue
-#, fuzzy
 msgctxt "halteres_6031261b"
 msgid "Selon {{macumba.n}}, le bandeau devrait se brancher ici..."
 msgstr "Если верить {{macumba.n}}, то повязку нужно подключить вот сюда..."
@@ -47926,7 +47925,7 @@ msgstr "Всё ещё хуже, чем я себе представлял..."
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "home_kimochi_exterior_4b698217"
 msgid "C'est {{minato.n}} qui les a pistonnés pour entrer au dojo."
-msgstr "Это {{minato.n}} подключил связи, чтобы они попали в додзё."
+msgstr "Похоже {{minato.n}} подключил связи, чтобы они попали в додзё."
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "home_kimochi_exterior_8bc54340"
@@ -47985,7 +47984,7 @@ msgstr "Но ты ведь обращаешься ко мне, не так ли?
 msgctxt "home_kimochi_exterior_ad6d4460"
 msgid "...[w] C'est différent. Réfléchir à deux sur un problème ne nous met pas en danger."
 msgstr ""
-"...[w] Это другое. Размышления над общей проблемой не подвергают нас "
+"...[w]Это другое. Размышления над общей проблемой не подвергают нас "
 "опасности."
 
 #: game/story/home_kimochi_exterior.dialogue
@@ -48589,7 +48588,6 @@ msgstr ""
 "его сестры..."
 
 #: game/story/home_kimochi_interior.dialogue
-#, fuzzy
 msgctxt "kimochi_password_56ddb3cf"
 msgid "Je te classe dans la catégorie des prédateurs sexuels."
 msgstr "Выглядят так, будто ты сексуальный маньяк."
@@ -54274,7 +54272,7 @@ msgstr "Этот идиот вырубился с одного удара."
 msgctxt "warehouse_exterior_0fc484bb"
 msgid "... {{nobu.n}} n'est pas le plus fort de nous trois mais ça aurait dû suffire."
 msgstr ""
-"... {{nobu.n}} не самый сильный из нас троих, но этого должно было хватить."
+"...{{nobu.n}} не самый сильный из нас троих, но этого должно было хватить."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_271f90c6"
@@ -54315,7 +54313,7 @@ msgstr "Согласен, но пока не трогай её."
 msgctxt "warehouse_exterior_a973ff60"
 msgid "{{akira.n}} semble avoir un lien avec elle et j'ai pas envie d'avoir à gérer un second psychopathe."
 msgstr ""
-"Видимо {{akira.n}} имеет с ней какие-то совместные дела, и мне не хочется "
+"Видимо, {{akira.n}} имеет с ней какие-то совместные дела, и мне не хочется "
 "разбираться со вторым психопатом."
 
 #: game/story/warehouse_exterior.dialogue
@@ -63246,7 +63244,6 @@ msgid "...D'accord."
 msgstr "...Хорошо."
 
 #: game/story/home_kimochi_exterior.dialogue
-#, fuzzy
 msgctxt "home_kimochi_exterior_7cd71a94"
 msgid "Je sais... Tu as raison."
 msgstr "Я знаю... Ты прав."
@@ -63516,12 +63513,11 @@ msgstr ""
 "интересах тогда, когда я не могла трезво мыслить...[/font_size]"
 
 #: game/story/home_player_corridor.dialogue
-#, fuzzy
 msgctxt "home_player_corridor_ebe35646"
 msgid ""
 "Parfait, j'avais peur que tu te defiles mais je suis contente de m'être "
 "trompée."
-msgstr "Прекрасно. Я боялся, что ты убежишь, но я рад, что ошибался."
+msgstr "Прекрасно. Я боялась, что ты убежишь, но рада, что ошибалась."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_be80cc7a"
@@ -64318,10 +64314,9 @@ msgid "Amène t-"
 msgstr "Покончим с эт-"
 
 #: game/story/home_kenji_exterior.dialogue
-#, fuzzy
 msgctxt "bar_exterior_082cebea"
 msgid "Boarf..."
-msgstr "Boarf..."
+msgstr "БУЭ..."
 
 #: game/story/home_kenji_exterior.dialogue
 msgctxt "bar_exterior_fb26e746"
@@ -66460,3 +66455,100 @@ msgstr "..."
 msgctxt "te0df105c29"
 msgid "Tu viens ?"
 msgstr "Ты идёшь?"
+
+#: game/story/park.dialogue
+msgctxt "menu_macumba_ef2f8954"
+msgid "Exactement !"
+msgstr "Именно!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "tad37546a14"
+msgid "Quoi donc ?"
+msgstr "Что ты имеешь в виду?"
+
+#: game/story/canal.dialogue
+msgctxt "canal_da58eadc"
+msgid "... T'es toujours aussi optimiste ?"
+msgstr "...Ты всегда такой оптимистичный?"
+
+#: game/story/canal.dialogue
+msgctxt "canal_ef2f8954"
+msgid "Exactement !"
+msgstr "Именно!"
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "home_kimochi_interior_98b1069b"
+msgid "Exactement !"
+msgstr "Именно!"
+
+#: game/story/canal.dialogue
+msgctxt "canal_b0878a1e"
+msgid "Puisque c'est comme ça... Je vais t'aider !"
+msgstr "Раз так... Я помогу тебе!"
+
+#: game/story/canal.dialogue
+msgctxt "canal_ceba36e7"
+msgid "M'aider ? Non, ne te mêle pas de ça, tu ne sais vraiment pas à quoi tu t'exposes."
+msgstr ""
+"Поможешь мне? Нет, ты не знаешь, что происходит. Я не позволю тебе вмешаться."
+
+#: game/story/canal.dialogue
+msgctxt "canal_81dd777d"
+msgid "Et puis s'il t'arrivait quelque chose à cause de moi..."
+msgstr "И если бы с тобой что-то случилось из-за меня..."
+
+#: game/story/canal.dialogue
+msgctxt "canal_87c47280"
+msgid "Je m'en moque... Tu as passé trop de temps à te battre tout seul."
+msgstr ""
+"Мне все равно... Ты потратил слишком много времени, сражаясь в одиночку."
+
+#: game/story/canal.dialogue
+msgctxt "canal_e0851f7f"
+msgid "D'ailleurs c'est quoi la prochaine étape apres la course ? Apprendre à se défendre ?"
+msgstr "Кстати, какой следующий шаг после бега? Научишься защищаться?"
+
+#: game/story/canal.dialogue
+msgctxt "canal_74160d93"
+msgid "Oui d'ailleurs je..."
+msgstr "Да, на счёт этого, я..."
+
+#: game/story/canal.dialogue
+msgctxt "canal_a6e7311e"
+msgid "Attaque de la motte de terre !"
+msgstr "Щебень атакует!"
+
+#: game/story/canal.dialogue
+msgctxt "canal_68fad403"
+msgid "Bloarf..."
+msgstr "БУЭХ..."
+
+#: game/story/canal.dialogue
+msgctxt "canal_822fb0a8"
+msgid "Bordel, tu m'as envoyé de la terre dans la bouche !"
+msgstr "Чёрт, ты бросил грязь мне в рот!"
+
+#: game/story/canal.dialogue
+msgctxt "canal_dadb39bd"
+msgid "Haha !"
+msgstr "Ха-ха!"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_dadb39bd"
+msgid "Haha !"
+msgstr "Ха-ха!"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_dadb39bd"
+msgid "Haha !"
+msgstr "Ха-ха!"
+
+#: game/story/home_asami_asami_room.dialogue
+msgctxt "home_asami_asami_room_dadb39bd"
+msgid "Haha !"
+msgstr "Ха-ха!"
+
+#: game/story/canal.dialogue
+msgctxt "canal_915f1f2b"
+msgid "Franchement je ne comprends pas..."
+msgstr "Честно говоря, я не понимаю..."
