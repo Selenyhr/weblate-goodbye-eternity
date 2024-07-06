@@ -112,7 +112,7 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-07 19:57+0100\n"
-"PO-Revision-Date: 2024-07-06 18:06+0000\n"
+"PO-Revision-Date: 2024-07-06 20:50+0000\n"
 "Last-Translator: Veydzher <veydzherdgswift008@gmail.com>\n"
 "Language-Team: Ukrainian <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/uk/>\n"
@@ -1756,7 +1756,7 @@ msgstr "Який зараз рік?"
 #: game/story/introduction.dialogue
 msgctxt "home_player_room_7a7db3e9"
 msgid "PUTAIN, {{year}} !"
-msgstr "Дідько, вже {{year}}!"
+msgstr "Дідько, це {{year}}!"
 
 #: game/story/introduction.dialogue
 msgctxt "home_player_room_0bde6d77"
@@ -1771,7 +1771,7 @@ msgstr "Ще навіть не час повертатися до коледжу
 #: game/story/introduction.dialogue
 msgctxt "home_player_room_8eefbcd5"
 msgid "J'ai encore tous mes souvenirs de ce qu'il va se passer ensuite."
-msgstr "Я досі пам'ятаю, що буде далі."
+msgstr "Я досі пам’ятаю, що станеться далі."
 
 #: game/story/introduction.dialogue
 msgctxt "home_player_room_a32414fc"
@@ -10208,7 +10208,7 @@ msgstr "Гадаю, я тобі винен це."
 #: game/story/home_player_saito_room.dialogue
 msgctxt "t483193d969"
 msgid "[hint=ROUTE MALEDOM]Maintenant, on est quitte !"
-msgstr "[hint=MALEDOM ROUTE]Тепер ми квити!"
+msgstr "[hint=ШЛЯХ ЧОЛОВІЧОЇ ДОМІНАЦІЇ]Тепер ми квити!"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_b00a7050"
@@ -10218,7 +10218,7 @@ msgstr "Тепер все гаразд? Я можу вдягнутися?"
 #: game/story/home_player_saito_room.dialogue
 msgctxt "tc3c1f61be2"
 msgid "[hint=ROUTE FEMDOM]Pardon pour avoir t'avoir fait ça."
-msgstr "[hint=FEMDOM ROUTE]Вибач, що так з тобою вчинив."
+msgstr "[hint=ШЛЯХ ЖІНОЧОЇ ДОМІНАЦІЇ]Вибач, що так з тобою вчинив."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_68674be4"
@@ -13588,7 +13588,7 @@ msgstr "Що ж, для початку..."
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "t6dfeb25814"
 msgid "[hint=ROUTE REJET]Donne-moi le baladeur MP3."
-msgstr ""
+msgstr "[hint=ШЛЯХ ВІДМОВИ]Віддай мені плеєр."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_4371f6a9"
@@ -13646,6 +13646,8 @@ msgstr "[font_size=19]Так...[/font_size]"
 msgctxt "tf77c3e2d7c"
 msgid "[hint=ROUTE CHANTAGE]Jusqu'à quel point tu ne veux pas que ça se sache {{noriko.n}} ?"
 msgstr ""
+"[hint=ШЛЯХ ШАНТАЖУ]Наскільки сильно ти хочеш зберегти його в таємниці, "
+"{{noriko.n}}?"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_6a640c96"
@@ -18383,7 +18385,7 @@ msgstr "Що скажеш?"
 #: game/story/home_player_livingroom.dialogue
 msgctxt "t4e2134e9d8"
 msgid "[hint=ROUTE CORRUPTION]C'est probablement une bonne idée en effet !"
-msgstr ""
+msgstr "[hint=ШЛЯХ РОЗБЕЩЕННЯ]Може, це гарна ідея!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_c7581d29"
@@ -18423,7 +18425,7 @@ msgstr "Удачі."
 #: game/story/home_player_livingroom.dialogue
 msgctxt "t3c1d75debd"
 msgid "[hint=ROUTE AMOUR]Je ne pense pas que ce soit une bonne idée."
-msgstr ""
+msgstr "[hint=ШЛЯХ КОХАННЯ]Не думаю, що це гарна ідея."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_bba9737d"
@@ -18488,7 +18490,7 @@ msgstr "Я ж казав, що зроблю усе, щоб витягнути н
 #: game/story/home_player_livingroom.dialogue
 msgctxt "t0c397db10b"
 msgid "[hint=ROUTE CORRUPTION]Euh... c'est pas un genre de métier sexuel ?"
-msgstr ""
+msgstr "[hint=ШЛЯХ РОЗБЕЩЕННЯ]Е-е… А хіба це не сексуальна професія?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_7b38df2e"
@@ -18583,7 +18585,7 @@ msgstr "{{yasuka.n}}, зрештою, це може бути не гарною �
 #: game/story/home_player_livingroom.dialogue
 msgctxt "tbc542980bb"
 msgid "[hint=ROUTE CORRUPTION]Tu n'as pas à t'infliger ça, tu sais..."
-msgstr ""
+msgstr "[hint=ШЛЯХ РОЗБЕЩЕННЯ]Ти не повинна робити це з собою, знаєш..."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_06e8b429"
@@ -18655,7 +18657,7 @@ msgstr "Добре. Добраніч, {{yasuka.n}}."
 #: game/story/home_player_livingroom.dialogue
 msgctxt "tfc4bf76365"
 msgid "[hint=ROUTE LOVE]Il est encore temps de changer d'avis."
-msgstr ""
+msgstr "[hint=ШЛЯХ КОХАННЯ]Ще є час передумати."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_ae44d7a9"
@@ -21837,7 +21839,7 @@ msgstr "Якщо ти справді хочеш допомогти, то йди 
 #: game/story/home_player_hallway.dialogue
 msgctxt "t054f10dd07"
 msgid "[hint=ROUTE FEMDOM/MALEDOM]Dans tes rêves {{noriko.n}} !"
-msgstr ""
+msgstr "[hint=ШЛЯХ ЖІНОЧОЇ/ЧОЛОВІЧОЇ ДОМІНАЦІЇ]У твоїх мріях, {{noriko.n}}!"
 
 #: game/story/home_player_hallway.dialogue
 msgctxt "home_player_hallway_e2efdd07"
@@ -21862,7 +21864,7 @@ msgstr "Геть з дороги!"
 #: game/story/home_player_hallway.dialogue
 msgctxt "t43dc392295"
 msgid "[hint=ROUTE REJET/CHANTAGE]Va te faire foutre {{noriko.n}} !"
-msgstr ""
+msgstr "[hint=ШЛЯХ ВІДМОВИ/ШАНТАЖУ]Та пішла ти, {{noriko.n}}!"
 
 #: game/story/home_player_hallway.dialogue
 msgctxt "home_player_hallway_25d48ba9"
@@ -22377,7 +22379,7 @@ msgstr "ПРОСТО ЙДИ ГЕТЬ, ЗАРАДИ БОГА!!!"
 #: game/story/home_player_exterior.dialogue
 msgctxt "t5d6eae1f92"
 msgid "[hint=ROUTE REJET/CHANTAGE]Menacer"
-msgstr ""
+msgstr "[hint=ШЛЯХ ВІДМОВИ/ШАНТАЖУ]Погрожувати."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "home_player_exterior_40a58231"
@@ -22447,12 +22449,12 @@ msgstr "Мені доведеться наглядати за нею і спод
 #: game/story/home_player_exterior.dialogue
 msgctxt "t91f4a1e93e"
 msgid "[hint=ROUTE MALEDOM]Intimider"
-msgstr ""
+msgstr "[hint=ШЛЯХ ЧОЛОВІЧОЇ ДОМІНАЦІЇ]Залякати."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "t6a54a6bfd4"
 msgid "[hint=ROUTE MALEDOM]Intimider"
-msgstr ""
+msgstr "[hint=ШЛЯХ ЧОЛОВІЧОЇ ДОМІНАЦІЇ]Залякати."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "home_player_exterior_761ca9eb"
@@ -22549,7 +22551,7 @@ msgstr "Мабуть, їй пора зрозуміти, що я більше н�
 #: game/story/home_player_exterior.dialogue
 msgctxt "tedcafea14f"
 msgid "[hint=ROUTE FEMDOM]Négocier"
-msgstr ""
+msgstr "[hint=ШЛЯХ ЖІНОЧОЇ ДОМІНАЦІЇ]Спробувати домовитись."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "home_player_exterior_42145185"
@@ -23245,6 +23247,7 @@ msgstr "Стань моїм хлопцем і допоможи мені стат
 msgctxt "t6d25cef1d9"
 msgid "[hint=ROUTE CORRUPTION]...Okay, comment refuser une telle proposition?"
 msgstr ""
+"[hint=ШЛЯХ РОЗБЕЩЕННЯ]…Добре, як я можу відмовитися від такої пропозиції?"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "home_player_exterior_eea0c563"
@@ -23314,7 +23317,7 @@ msgstr "Гадаю, усе буде добре, зрештою, це вона з
 #: game/story/home_player_exterior.dialogue
 msgctxt "t7eba75cd46"
 msgid "[hint=ROUTE AMOUR]Non, j'ai pas envie de servir de bouche-trou."
-msgstr ""
+msgstr "[hint=ШЛЯХ КОХАННЯ]Ні, я не хочу бути дублером."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "home_player_exterior_b14ef24c"
@@ -28290,7 +28293,7 @@ msgstr ""
 #: game/story/park.dialogue
 msgctxt "t728a33ea95"
 msgid "[hint=ROUTE AMOUR/CORRUPTION]Ça marche !"
-msgstr ""
+msgstr "[hint=ШЛЯХ КОХАННЯ/РОЗБЕЩЕННЯ]Як на мене, звучить непогано!"
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_d5adc33d"
@@ -33646,7 +33649,7 @@ msgstr "Я краще помру!"
 #: game/story/coffeebar_exterior.dialogue
 msgctxt "t2a53526e89"
 msgid "[hint=ROUTE ???]C'est à elle de décider de ça, pas à moi."
-msgstr ""
+msgstr "[hint=ШЛЯХ ???]Це залежить від неї, не від мене."
 
 #: game/story/coffeebar_exterior.dialogue
 msgctxt "coffeebar_exterior_17d89edc"
@@ -56229,12 +56232,12 @@ msgstr "Склад (у приміщенні)"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_0"
-msgstr "Вийти зі спальні й піти до {{yasuka.n}} у вітальню."
+msgstr "Вийди з кімнати й піди до {{yasuka.n}} у вітальню."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_1"
-msgstr "Вийти зі спальні й піти до {{yasuka.n}} у вітальню."
+msgstr "Вийди з кімнати й піди до {{yasuka.n}} у вітальню."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -57581,7 +57584,7 @@ msgstr "Попроси копію запису у {{netoru.n}}."
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_corruption_17"
-msgstr "Вийдіть із крамниці та оцініть ситуацію."
+msgstr "Вийди із крамниці та оціни ситуацію."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -59370,7 +59373,7 @@ msgstr "Автозбереження"
 
 msgctxt "preferences.variable"
 msgid "auto_before_quit"
-msgstr "Авто. зберегти перед виходом"
+msgstr "Автозбереження перед виходом"
 
 msgctxt "preferences.subgroup"
 msgid "Hints"
@@ -59404,7 +59407,7 @@ msgstr "Задоволене"
 
 msgctxt "preferences.variable"
 msgid "auto_on_choice"
-msgstr "Авто. зберегти під час вибору варіанту"
+msgstr "Автозбереження під час вибору варіанту"
 
 #: game/scenes/gui/game_menu/galleries/images.tscn
 msgctxt "galleries.images.hints"
@@ -60755,3 +60758,8 @@ msgstr "Проте…[w] Гадаю, якщо будемо обережні, т�
 msgctxt "arcade_center_exterior_a10e3710"
 msgid "Et puis... Ca faisait longtemps que je voulais venir sans jamais oser."
 msgstr "До того ж… Я давно хотів сюди зайти, але не наважувався."
+
+#: game/story/park.dialogue
+msgctxt "t4768c31c6d"
+msgid "[hint=ROUTE REJET/AMITIÉ]Débrouille-toi !"
+msgstr "[hint=ШЛЯХ ВІДМОВИ/ДРУЖБИ]Ти сама по собі!"
