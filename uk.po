@@ -112,7 +112,7 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-07 19:57+0100\n"
-"PO-Revision-Date: 2024-07-06 14:30+0000\n"
+"PO-Revision-Date: 2024-07-06 17:46+0000\n"
 "Last-Translator: Veydzher <veydzherdgswift008@gmail.com>\n"
 "Language-Team: Ukrainian <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/uk/>\n"
@@ -58449,12 +58449,12 @@ msgstr "Знайди рішення, як вийти з цієї халепи."
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "asami_love_25"
-msgstr ""
+msgstr "Попроси допомоги у {{macumba.n}}."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "asami_love_26"
-msgstr ""
+msgstr "Попросіть допомоги у {{macumba.n}}."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -60347,3 +60347,293 @@ msgstr "Поглянути за..."
 msgctxt "galleries.movies.hints"
 msgid "Laisser travailler {{yasuka.n}} comme hôtesse."
 msgstr "Дозволь {{yasuka.n}} працювати як хостес."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_friendship_1"
+msgstr "Зустрінься з {{asami.n}} перед її будинком завтра вранці."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_friendship_6"
+msgstr "Слідкуй за {{asami.n}} та {{noriko.n}} до вітальні."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_25"
+msgstr "Продовжуй слідувати за {{nobu.n}} до конбіні."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_38_asami_love_corruption"
+msgstr "Мені треба йти до {{minato.n}}."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_6"
+msgstr "Іди до додзьо з {{noriko.n}}."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_7"
+msgstr "Іди провідай {{kimochi.n}}."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_8"
+msgstr "Іди провідай {{kimochi.n}}."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_9"
+msgstr "Заглянь за додзьо, якщо головорізи пішли."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_10"
+msgstr "Повертайся до {{kimochi.n}}."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_11"
+msgstr "Завітай до конбіні перед тим, як йти додому."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_12"
+msgstr "Іди додому."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_38_1_asami_love_corruption"
+msgstr "Мені треба йти до {{minato.n}}."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_39_asami_love_corruption"
+msgstr "Мені треба знайти {{chiaki.n}} якнайшвидше."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_40_asami_love_corruption"
+msgstr "Мені треба знайти {{chiaki.n}} якнайшвидше."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_41_asami_love_corruption"
+msgstr "Зустрінься з {{asami.n}} в парку, щоб повідомити їй погані новини."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_42_asami_love_corruption"
+msgstr "Ще один паскудний день... Я краще піду посплю."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_43_asami_love_corruption"
+msgstr "Час іти спати, завтра я починаю працювати в ресторані."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_38_asami_reject_friendship"
+msgstr "Мені треба йти до {{minato.n}}."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_38_1_asami_reject_friendship"
+msgstr "Мені треба йти до {{minato.n}}."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_39_asami_reject_friendship"
+msgstr "Мені треба знайти {{chiaki.n}} якнайшвидше."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_40_asami_reject_friendship"
+msgstr "Мені треба знайти {{chiaki.n}} якнайшвидше."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_41_asami_reject_friendship"
+msgstr "Іди додому."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_friendship_2"
+msgstr "Іди додому разом з {{asami.n}}."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_friendship_3"
+msgstr "Іди додому разом з {{asami.n}}."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_friendship_4"
+msgstr "Іди додому разом з {{asami.n}}."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_friendship_5"
+msgstr "Іди додому разом з {{asami.n}}."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_friendship_8"
+msgstr "Проведи {{asami.n}} додому."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_friendship_9"
+msgstr "Поспи."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_friendship_10"
+msgstr "Іди тренуйся з {{macumba.n}}."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_friendship_11"
+msgstr "Слідуй за {{asami.n}} до каналу."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "yasuka_love_forced_sleep"
+msgstr "Проведи ніч з {{yasuka.n}}."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_friendship_12"
+msgstr "Проведи {{asami.n}} до її дому."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_friendship_13"
+msgstr "Іди провідай {{minato.n}}."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_friendship_15"
+msgstr "Після файного сну справи підуть краще."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_friendship_16"
+msgstr "Іди до каналу разом з {{asami.n}}."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_friendship_18"
+msgstr "Повертайся додому."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_friendship_19"
+msgstr "Зачекай до завтрашнього дня."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_friendship_20"
+msgstr "Іди в парк."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_15"
+msgstr "Зустрінь {{noriko.n}} в її кімнаті."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_16"
+msgstr "Завтрашній день буде кращим."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_18"
+msgstr "Іди заглянь до {{noriko.n}}."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_19"
+msgstr "Іди до {{kimochi.n}} разом з {{noriko.n}}."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_21"
+msgstr "Слідкуй за головорізами в додзьо."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_22"
+msgstr "Слідкуй за {{nobu.n}} до центру ігрових автоматів."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_24"
+msgstr "Продовжуй слідувати за {{nobu.n}} до конбіні."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_26"
+msgstr "Прослідкуй за {{nobu.n}} до його будинку."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_28"
+msgstr "Іди додому й відпочинь."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_29"
+msgstr "Іди додому й відпочинь."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_30"
+msgstr "Іди до конбіні, щоб віддати {{sayuri.n}} її гроші."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_33"
+msgstr "Повернися додому і зайди до кімнати {{noriko.n}}."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_35"
+msgstr "Іди спати."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_36"
+msgstr "Іди до бару в нетрях."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_37"
+msgstr "Слідуй за {{noriko.n}} до парку."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_39"
+msgstr "Повернися до бару і подбай про {{kenji.n}}."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_40"
+msgstr "Іди додому."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "macumba_asami_2"
+msgstr "Мені слід продовжувати тренуватися, якщо я хочу повернутися у форму."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "macumba_asami_1"
+msgstr "Мені слід продовжувати тренуватися, якщо я хочу повернутися у форму."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "macumba_asami_3"
+msgstr "Мені слід продовжувати тренуватися, якщо я хочу повернутися у форму."
