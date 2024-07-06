@@ -112,7 +112,7 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-07 19:57+0100\n"
-"PO-Revision-Date: 2024-07-06 18:00+0000\n"
+"PO-Revision-Date: 2024-07-06 18:02+0000\n"
 "Last-Translator: Veydzher <veydzherdgswift008@gmail.com>\n"
 "Language-Team: Ukrainian <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/uk/>\n"
@@ -55721,6 +55721,8 @@ msgstr ""
 msgctxt "arcade_center_exterior_7bbf1256"
 msgid "[font_size=14]Il a raison, même si c'est dur tu dois résister. On doit comprendre pourquoi, sinon on aura fait tout ça pour rien.[/font_size]"
 msgstr ""
+"[font_size=14]Його правда. Навіть якщо це важко, тобі треба стриматися. Ми "
+"повинні зрозуміти, чому так сталося. Інакше все це буде даремно.[/font_size]"
 
 #: game/story/arcade_exterior.dialogue
 msgctxt "arcade_center_exterior_f1e95324"
@@ -55730,7 +55732,7 @@ msgstr "[font_size=14]Дуже важко дивитися на неї в так
 #: game/story/arcade_exterior.dialogue
 msgctxt "arcade_center_exterior_3b94d80b"
 msgid "[font_size=14]{{noriko.n}} sois forte ![/font_size]"
-msgstr ""
+msgstr "[font_size=14]{{noriko.n}}, тримайся![/font_size]"
 
 #: game/story/arcade_exterior.dialogue
 msgctxt "arcade_center_exterior_ae295143"
@@ -60728,3 +60730,8 @@ msgstr "Знайди {{noriko.n}} на зупинці."
 msgctxt "quests.hints"
 msgid "noriko_femdom_65"
 msgstr "Іди додому разом з {{noriko.n}}."
+
+#: game/story/arcade_exterior.dialogue
+msgctxt "arcade_center_exterior_6f023063"
+msgid "Alors qu'est ce qu'on attend, on entre ?"
+msgstr "То чого ж ми чекаємо? Ходімо!"
