@@ -112,7 +112,7 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-07 19:57+0100\n"
-"PO-Revision-Date: 2024-07-08 04:34+0000\n"
+"PO-Revision-Date: 2024-07-08 04:36+0000\n"
 "Last-Translator: Roger Miró <puniasterus@gmail.com>\n"
 "Language-Team: Spanish <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/es/>\n"
@@ -68091,9 +68091,14 @@ msgstr "No tardaré."
 #: game/story/dojo_exterior.dialogue
 msgctxt "dojo_exterior_d3bb6346"
 msgid "Je me casse !"
-msgstr "¡Me voy de aquí!"
+msgstr "¡Me voy!"
 
 #: game/story/dojo_exterior.dialogue
 msgctxt "dojo_exterior_5f207008"
 msgid "Putain il fait chier..."
 msgstr "Maldita sea..."
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_c7f5c292"
+msgid "Quoi mais {{takeo.n}} a dit que..."
+msgstr "Pero {{takeo.n}} dijo que..."
