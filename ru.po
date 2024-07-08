@@ -110,7 +110,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
-"PO-Revision-Date: 2024-07-08 07:39+0000\n"
+"PO-Revision-Date: 2024-07-08 09:59+0000\n"
 "Last-Translator: Aleksandr <aleksandr-tugai@mail.ru>\n"
 "Language-Team: Russian <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/ru/>\n"
@@ -64423,7 +64423,7 @@ msgstr "Лжец."
 #: game/story/home_nobu_exterior.dialogue
 msgctxt "event_nobu_fight_at_home_b23ab5dd"
 msgid "Et tu as sûrement fini ta journée a l'arcade center..."
-msgstr "И вы, вероятно, закончили свой день в аркаде..."
+msgstr "И, вероятно, закончили свой день в аркаде..."
 
 #: game/story/home_nobu_exterior.dialogue
 msgctxt "event_nobu_fight_at_home_70e89da9"
@@ -67037,7 +67037,7 @@ msgstr "Я знал!"
 #: game/story/home_nobu_exterior.dialogue
 msgctxt "event_nobu_fight_at_home_85396649"
 msgid "Je le savais !"
-msgstr "Я знал!"
+msgstr "Я так и знала!"
 
 #: game/story/canal.dialogue
 msgctxt "canal_a66a8928"
@@ -71021,7 +71021,7 @@ msgstr "Трус!"
 #: game/story/arcade_exterior.dialogue
 msgctxt "arcade_center_exterior_41de6b9f"
 msgid "Mais...[w] Je suppose qu'en faisant attention ça ira."
-msgstr "Но...[w]Думаю, если мы будем осторожны, всё будет хорошо."
+msgstr "Но...[w] Думаю, если мы будем осторожны, всё будет хорошо."
 
 #: game/story/arcade_exterior.dialogue
 msgctxt "arcade_center_exterior_a10e3710"
@@ -71167,7 +71167,7 @@ msgstr ""
 #: game/story/konbini_exterior.dialogue
 msgctxt "konbini_exterior_8a2e49fd"
 msgid "Oh {{saito.n}}, {{noriko.n}} vous êtes là ?"
-msgstr "Ох, {saito.n}}, {{noriko.n}}, вы здесь?"
+msgstr "Ох, {{saito.n}}, {{noriko.n}}, вы здесь?"
 
 #: game/story/konbini_exterior.dialogue
 msgctxt "konbini_exterior_f1fe3103"
@@ -72947,7 +72947,7 @@ msgstr "Вот же подонок..."
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_55099618"
 msgid "Besoins de préparation ?"
-msgstr "Тебе нужно сделать приготовления?"
+msgstr "Нужно сделать приготовления?"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_53520d54"
@@ -72990,3 +72990,226 @@ msgstr "[font_size=14]{{saito.n}}, поторопись, мы тебя ждём!
 msgctxt "konbini_exterior_8fb2f30c"
 msgid "Oui, j'arrive !"
 msgstr "Хорошо, уже иду!"
+
+#: game/story/lake.dialogue
+msgctxt "lake_ba9834eb"
+msgid "Ils t'ont fait vivre un enfer."
+msgstr "Они превратили твою жизнь в ад."
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_81dce7b1"
+msgid "On sert vraiment a rien ici, même si l'autre déchet de {{saito.n}} voulait s'inscrire il se ferait quand même jeter dehors."
+msgstr ""
+"Мы тут реально бесполезны. Даже если бы этот кусок мусора {{saito.n}} хотел "
+"записаться, его бы все равно послали бы куда подальше."
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_c7f5c292"
+msgid "Quoi mais {{takeo.n}} a dit que..."
+msgstr "Но {{takeo.n}} сказал..."
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_f79ebd4c"
+msgid "C'est parce qu'ils sont tellement con qu'ils préfèrent traîner avec des gens qu'ils n'aiment plutôt que de rester seuls."
+msgstr ""
+"Это потому что они настолько тупые, что предпочитают быть вместе с теми, кто "
+"им не нравятся, чем быть в одиночку."
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_3f7133f0"
+msgid "Tu n'as qu'à continuer d'attendre comme un gentil toutou."
+msgstr "А ты можешь продолжать ждать, как послушная собачка."
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_b94eff6d"
+msgid "[font_size=14]Les enfoirés...[/font_size]"
+msgstr "[font_size=14]Эти ублюдки...[/font_size]"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_28200032"
+msgid "Redites moi pourquoi on fait ça exactement ?"
+msgstr "Напомни мне, зачем мы это вообще делаем?"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_f3ebe530"
+msgid "S'ils ne veulent plus accepter d'élèves pourquoi ils ne mettent pas simplement une putain de pancarte ?"
+msgstr ""
+"Если они больше не хотят принимать учеников, почему бы им просто не повесить "
+"грёбаную табличку?"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_c5183291"
+msgid "...L'autre pignouf marque un point."
+msgstr "...А эта свиная башка дело говорит."
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_755c5592"
+msgid "Arrêtez de vous plaindre..."
+msgstr "Хватит спорить..."
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_553fff79"
+msgid "On nous a donné une consigne et nous devons nous y tenir, c'est notre détermination qui est testée."
+msgstr ""
+"Нам дали указание, и мы должны ему следовать. Это испытание нашей решимости."
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_9c448c12"
+msgid "Mais... y'a personne, même le dojo est vide..."
+msgstr "Но... Здесь никого нет. Даже додзё пустое..."
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_8de5b6b6"
+msgid "Ferme ta bouche et contente toi d'attendre."
+msgstr "Заткнись и просто жди."
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_16534e9a"
+msgid "[font_size=14]Vous faites chier sérieux...[/font_size]"
+msgstr "[font_size=14]Вы, ребята, реально раздражаете...[/font_size]"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_99df319e"
+msgid "D'ailleurs vous allez devoir faire sans moi pendant un certain temps, je dois aller voir le boss."
+msgstr ""
+"Кстати, давайте пока без меня какое-то время. Мне нужно сходить к боссу."
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_84063c63"
+msgid "Quoi ?! Mais et nous ?!"
+msgstr "Что?! А как же мы?!"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_ede0d3d9"
+msgid "Vous restez là et vous attendez !"
+msgstr "А вы остаётесь здесь и ждёте!"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_c810bda8"
+msgid "J'en ai pas pour longtemps."
+msgstr "Я быстро."
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_5f207008"
+msgid "Putain il fait chier..."
+msgstr "Грёбаное дерьмо..."
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_d3bb6346"
+msgid "Je me casse !"
+msgstr "Я сваливаю!"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_430350c5"
+msgid "J'en ai rien à cirer et je déteste perdre mon temps inutilement."
+msgstr "Да мне плевать, я ненавижу тратить время на бесполезную фигню."
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_c0350ff9"
+msgid "Mais putainnnnn !"
+msgstr "Да вашу же ма-а-ать!"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_ff88e763"
+msgid "Puisque c'est comme ça allez tous vous faire foutre, je me casse aussi !"
+msgstr "Если всё так, то идите все к чёрту, я тоже ухожу!"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_a9bd5153"
+msgid "Suivons le!"
+msgstr "Пойдём за ним!"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_b357759b"
+msgid "Franchement je comprends pas pourquoi ils continuent de traîner ensemble."
+msgstr "Честно говоря, я не понимаю, почему они продолжают тусоваться вместе."
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_dacee941"
+msgid "C'est a peine s'ils se supportent les uns les autres."
+msgstr "Они едва выносят друг друга."
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_b6e8c3b9"
+msgid "Voilà à quel point ils sont pathétiques."
+msgstr "Вот насколько они жалкие."
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_0553f546"
+msgid "Et dire que tu étais terrifié par eux..."
+msgstr "И подумать только, что ты их боялся..."
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_d7098d5a"
+msgid "On se demande vraiment qui est le plus pathétique ici."
+msgstr "Даже заставляет задуматься, кто здесь самый жалкий."
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_aaacb0c8"
+msgid "Je ne sais pas s'il me restera encore un peu d'amour propre d'ici ce soir."
+msgstr "Не знаю, останется ли у меня хоть капля самоуважения к вечеру."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_ba9834eb"
+msgid "Ils t'ont fait vivre un enfer."
+msgstr "Они превратили твою жизнь в ад."
+
+#: game/story/konbini_exterior.dialogue
+msgctxt "konbini_exterior_8982bdba"
+msgid "[font_size=14]Ca fera 1500¥...[/font_size]"
+msgstr "[font_size=14]Это будет 1500¥...[/font_size]"
+
+#: game/story/konbini_exterior.dialogue
+msgctxt "konbini_exterior_dcbabbe8"
+msgid "[font_size=14]Hey... Vous n'av-[/font_size]"
+msgstr "[font_size=14]Эй... Тебе не стоит-[/font_size]"
+
+#: game/story/konbini_exterior.dialogue
+msgctxt "konbini_exterior_d9b82a80"
+msgid "[font_size=14]Qu'est-ce que tu comptes faire la vieille ?![/font_size]"
+msgstr "[font_size=14]Ну и что ты сделаешь, старая карга?[/font_size]"
+
+#: game/story/konbini_exterior.dialogue
+msgctxt "konbini_exterior_34736219"
+msgid "[font_size=14]Tu comptes appeler les flics pour si peu ?[/font_size]"
+msgstr "[font_size=14]Позвонишь в полицию из-за такой мелочи?[/font_size]"
+
+#: game/story/konbini_exterior.dialogue
+msgctxt "konbini_exterior_bc9811ac"
+msgid "[font_size=14]Tu vas voir si je...[/font_size]"
+msgstr "[font_size=14]Ты увидишь, если я...[/font_size]"
+
+#: game/story/konbini_exterior.dialogue
+msgctxt "konbini_exterior_b32d0c10"
+msgid "[font_size=14]Allez a plus la vieille ![/font_size]"
+msgstr "[font_size=14]До скорого, cтарушка![/font_size]"
+
+#: game/story/konbini_exterior.dialogue
+msgctxt "konbini_exterior_b0a2b2d1"
+msgid "[font_size=14]Non ! Reviens ici petit c-[/font_size]"
+msgstr "[font_size=14]Нет! А ну вернись сюда, ты маленький...-[/font_size]"
+
+#: game/story/konbini_exterior.dialogue
+msgctxt "konbini_exterior_c70a2c8a"
+msgid "Ahah... Rien de tel que de manger à l'œil !"
+msgstr "Ахах... Нет ничего лучше, чем поесть бесплатно!"
+
+#: game/story/konbini_exterior.dialogue
+msgctxt "konbini_exterior_6bca033e"
+msgid "Allez... assez traîner."
+msgstr "Что ж, пора идти."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "asami_truth_c9985ca3"
+msgid "Rejoins-moi dans ma chambre demain en fin d'après midi et tu verras bien..."
+msgstr "Зайди завтра вечером ко мне в комнату, и ты увидишь..."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "asami_truth_10a3f9db"
+msgid "Au fait, cette histoire de récompense c'était quoi ?"
+msgstr "Кстати, к чему была вся эта история с вознаграждением?"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "asami_truth_00453ba9"
+msgid "Ne sois pas si impatient, ça nécessite un peu de préparation."
+msgstr "Не будь таким нетерпеливым. Потребуются небольшие приготовления."
