@@ -110,7 +110,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
-"PO-Revision-Date: 2024-07-16 21:26+0000\n"
+"PO-Revision-Date: 2024-07-17 16:23+0000\n"
 "Last-Translator: Tim Siekmann <sebastiana.laubenstein@gmail.com>\n"
 "Language-Team: German <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/de/>\n"
@@ -53214,7 +53214,7 @@ msgstr ""
 msgctxt "warehouse_exterior_8b25c843"
 msgid "Le résultat est là, vous avez merdé et je me retrouve avec plus d'ennuis sur les bras par votre incompétence."
 msgstr ""
-"Das Ergebnis ist da, du hast es vermasselt und ich habe aufgrund deiner "
+"Das Ergebnis ist da, du hast es verkackt und ich habe aufgrund deiner "
 "Inkompetenz noch mehr Probleme."
 
 #: game/story/warehouse_exterior.dialogue
@@ -53275,7 +53275,7 @@ msgstr "Wir wollen ernst genommen werden, aber solange er da ist..."
 msgctxt "warehouse_exterior_01fc644f"
 msgid "... D'accord je vois. Casse-toi maintenant, je vais voir ce que je peux faire."
 msgstr ""
-"... Okay, ich verstehe. Verpisst euch jetzt. Ich werde sehen, was ich tun "
+"... Okay, ich verstehe. Verpiss dich jetzt. Ich werde sehen, was ich tun "
 "kann."
 
 #: game/story/warehouse_exterior.dialogue
@@ -53286,7 +53286,7 @@ msgstr "Danke, Boss! Wir versprechen, alles für dich zu geben."
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_aae97457"
 msgid "Ouais ouais j'ai compris, dégage vite !"
-msgstr "Ja, ja, ich hab's kapiert. Jetzt verschwindet endlich!"
+msgstr "Ja, ja, ich hab's kapiert. Jetzt verschwinde endlich!"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_3523c6a4"
@@ -58767,8 +58767,7 @@ msgstr "Melde dich beim [color=yellow]Dojo[/color] an."
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "noriko_maledom_63"
-msgstr ""
-"Hol {{noriko.n}} beim Stundenhotel ein, bevor sie etwas Unwiderrufliches tut."
+msgstr "Hol {{noriko.n}} beim Stundenhotel ein, bevor sie etwas Dummes tut."
 
 #: game/story/canal.dialogue
 msgctxt "canal_7f6dc742"
@@ -63724,3 +63723,18 @@ msgstr "Vielen Danke! Ich werde aber versuchen, euch nicht allzu oft zu stören.
 msgctxt "home_player_livingroom_fba1dc55"
 msgid "... Je..."
 msgstr "...Ich..."
+
+#: game/scripts/gui/menu/game_menu.gd
+msgctxt "confirm"
+msgid "Voulez-vous continuer ?"
+msgstr "Möchtest du fortfahren?"
+
+#: game/scripts/gui/menu/game_menu.gd
+msgctxt "confirm"
+msgid "Voulez-vous revenir au menu principal ?"
+msgstr "Möchtest du zurück zum Hauptmenü?"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_maledom_38"
+msgstr "[null]"
