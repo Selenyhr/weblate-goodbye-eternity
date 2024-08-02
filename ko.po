@@ -107,14 +107,19 @@
 #
 # FIRST AUTHOR < EMAIL @ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
+"PO-Revision-Date: 2024-08-03 10:27+0000\n"
+"Last-Translator: Ratatouille <seyheen04@gmail.com>\n"
+"Language-Team: Korean <https://translations.teot-studio.com/projects/"
+"goodbye-eternity/game-translation/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8-bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.17\n"
 
 #: game/story/introduction.dialogue
 msgctxt "intro_90fcefcc"
@@ -33285,9 +33290,10 @@ msgid "Mais quel enfoiré ce type !"
 msgstr "이거 완전 지랄맞은 개자식이네!"
 
 #: game/story/coffeebar_exterior.dialogue
+#, fuzzy
 msgctxt "coffeebar_exterior_5d15ecaa"
 msgid "Je dois comprendre pourquoi elle tient tant à rester travailler ici."
-msgstr "왜 {{yasuka.n}} 씨가 굳이 계속 여기서 일하려고 하시는지 알아봐야겠어."
+msgstr "왜 굳이 {{yasuka.n}} 씨가 계속 여기서 일하려고 하는지 알아봐야겠어."
 
 #: game/story/coffeebar_exterior.dialogue
 msgctxt "coffeebar_exterior_80f48e75"
