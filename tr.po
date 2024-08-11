@@ -110,8 +110,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
-"PO-Revision-Date: 2024-08-08 11:22+0000\n"
-"Last-Translator: Dogancan Yılmazer <dogancanyilmazer46@gmail.com>\n"
+"PO-Revision-Date: 2024-08-11 04:28+0000\n"
+"Last-Translator: Enes Dinç <enesdinc2005@hotmail.com>\n"
 "Language-Team: Turkish <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/tr/>\n"
 "Language: tr\n"
@@ -69319,3 +69319,4784 @@ msgid "Putain vous me faites chier, même une simple merde comme lui vaut mieux 
 msgstr ""
 "Lanet olsun, beni kızdırıyorsunuz. Onun gibi basit bir bok parçası bile "
 "sizden daha iyi."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_5e4de788"
+msgid "À bientôt alors..."
+msgstr "Kendine iyi bak o zaman..."
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "t28acd83ffc"
+msgid "Bref, je m'égare, merci encore, j'espère que mon père t'embauchera."
+msgstr "Neyse, konudan saptık. Çok teşekkürler, umarım babam seni işe alır."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "t2cf5eb9e64"
+msgid "En fait... Je veux que ce soit toi."
+msgstr "Aslında, senin olmanı istiyorum."
+
+#: game/story/park.dialogue
+msgctxt "park_7713b3d3"
+msgid "Avoue que ça doit piquer un peu."
+msgstr "İtiraf et, bu biraz acıtmış olmalı."
+
+#: game/story/home_nobu_exterior.dialogue
+msgctxt "event_nobu_fight_at_home_bbc51ada"
+msgid "[font_size=14]Hey qu'est ce que...[/font_size]"
+msgstr "[font_size=14]Hey, ne...[/font_size]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_friendship_14"
+msgstr "[null]"
+
+#: game/story/lake.dialogue
+msgctxt "lake_93d7880d"
+msgid "Comme quoi, tu apprends vite de tes erreurs..."
+msgstr "Görünüşe göre hatalarınızdan çabuk ders alıyorsun..."
+
+#: game/story/lake.dialogue
+msgctxt "lake_8ca1fc62"
+msgid "{{noriko.n}}... Tu m'as aidé pour me reprendre en main... À ta façon bien sûr."
+msgstr ""
+"{{noriko.n}}... Yoluma devam etmeme yardım ettin. Kendi yöntemlerinle tabii "
+"ki."
+
+#: game/story/lake.dialogue
+msgctxt "lake_abe858dc"
+msgid "S'il y a bien un truc que j'ai appris ces derniers temps c'est justement qu'il n'est jamais trop tard."
+msgstr ""
+"Son zamanlarda öğrendiğim bir şey varsa, o da hiçbir zaman geç olmadığıdır."
+
+#: game/story/lake.dialogue
+msgctxt "lake_3b6a7f58"
+msgid "Après j'ai eu cette idée débile de faire appel aux trois idiots..."
+msgstr "Sonra aklıma üç aptaldan yardım almak gibi aptalca bir fikir geldi."
+
+#: game/story/lake.dialogue
+msgctxt "lake_f2adc391"
+msgid "Il avait une sale réputation qui n'était plus à faire... Il me protégerait en échange de..."
+msgstr "Koruması gereken bir itibarı vardı. Karşılığında beni koruyacaktı."
+
+#: game/story/lake.dialogue
+msgctxt "lake_dbf6a15d"
+msgid "Je te promets qu'il n'essaiera plus de s'en prendre à toi, tant que je serai là."
+msgstr "Söz veriyorum, ben burada olduğum sürece kimse sana zarar veremiyecek."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_0d1ca0e3"
+msgid "Ta famille est vraiment extra !"
+msgstr "Ailen gerçekten harika!"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_083fb47c"
+msgid "Quant à mon père... Je n'ai même pas envie d'en parler."
+msgstr "Babama gelince. Bu konuda konuşmak bile istemiyorum."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_20a473c8"
+msgid "Faudra que je pense à toucher un mot à {{minato.n}} d'ailleurs."
+msgstr "Bu arada {{minato.n}} ile konuşmam gerekecek."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_a9eec075"
+msgid "Allez, tarde pas trop, passe une bonne nuit {{asami.n}}."
+msgstr "Hadi, fazla bekleme. İyi geceler, {{asami.n}}."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_4ba88853"
+msgid "Aucun problème, c'est vrai que ça remonte à loin la dernière fois où on a eu une véritable conversation ensemble."
+msgstr ""
+"Sorun değil. En son birlikte gerçek bir muhabbet yapmamızın üzerinden uzun "
+"zaman geçti."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_e0655406"
+msgid "J'ai... j'ai paniqué, j'étais tellement pas prêt que mon cœur s'est emballé et j'ai dit absolument n'importe quoi."
+msgstr ""
+"Ben... ben Panikledim. O kadar hazırlıksızdım ki kalbim hızla çarptı ve "
+"saçma sapan şeyler söyledim."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_e7862748"
+msgid "Ce que j'essaie de dire c'est que... te voir avec l'autre d-[w] avec {{saito.n}} m'a fait réaliser ce que je risquais de perdre."
+msgstr ""
+"Söylemeye çalıştığım şey şu. Seni {{saito.n}} ile birlikte diğer d-[w] ile "
+"görmek ne kaybedeceğimi anlamamı sağladı."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_e9d04398"
+msgid "Tu abandonnerais plus de 10 ans d'amitié et de souvenirs en commun pour 3 jours passés en compagnie d'une personne dont tu ne connais au final pas grand chose ?"
+msgstr ""
+"Hakkında çok az şey bildiğiniz biriyle geçireceğiniz 3 gün için 10 yılı "
+"aşkın arkadaşlığınızdan ve paylaştığınız anılardan vazgeçer miydiniz?"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_64bf0e45"
+msgid "Je ne sais pas ce que tu as l'intention de faire mais si jamais tu lui fais du mal..."
+msgstr "Ne yapmak istediğini bilmiyorum ama eğer onu incitirsen."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_2822d8fb"
+msgid "Bref ! Tire-toi maintenant, il me semble t'avoir déjà dit de ne plus venir me faire chier."
+msgstr ""
+"Her neyse! Siktir git şimdi. Sana beni rahatsız etmemeni söylediğimi "
+"sanıyordum."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_4b1951d2"
+msgid "Il faudra que j'en discute avec elle demain, même si elle finit par me détester je dois au moins essayer."
+msgstr ""
+"Yarın onunla konuşmam gerekecek. Sonunda benden nefret etse bile, en azından "
+"denemek zorundayım."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_70aa4137"
+msgid "Tu crois que j'ai mes chances avec elle ?"
+msgstr "Sence onunla bir şansım var mı?"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_cc85cb2b"
+msgid "...C'était sympa... On devrait vraiment se faire ça plus souvent !"
+msgstr "...Bu eğlenceliydi... Bunu daha sık yapmalıyız!"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_d50ef64a"
+msgid "J'avoue que je suis curieuse, tu me diras si c'est une réussite ou pas."
+msgstr ""
+"Merak ettiğimi itiraf etmeliyim, bu yüzden bana nasıl gittiğini anlatmayı "
+"unutmayın."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t94da9d47c5"
+msgid "Cunnilingus"
+msgstr "Dil atmak"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t1f87b2e78f"
+msgid "Tu...[w] tu n'as pas envie de passer aux choses sérieuses maintenant ?"
+msgstr "Şimdi...[w] işe koyulmak ister misin?"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t530b7f11ab"
+msgid "Oui ! Voilà !"
+msgstr "Evet! Evet! İşte böyle!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t1f144eb41d"
+msgid "Oui...[w] Oui ![w] OUIII !!"
+msgstr "Evet...[w] Evet![w] EVEEEET!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t9f474f55f7"
+msgid "Tu sais je peux aussi arreter et aller voir ailleurs."
+msgstr "Biliyorsun, durup başka bir zaman devam edebiliriz."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_e70e98c9"
+msgid "Bon ça suffit, vous allez trop loin toutes les deux."
+msgstr "Tamam, bu kadar yeter! İkiniz de çok ileri gidiyorsunuz."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_39728dee"
+msgid "Si tu te fais sans cesse harceler par les thugs c'est à cause de moi !"
+msgstr "Haydutlar tarafından sürekli rahatsız edilmen, benim suçum!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_b79539b1"
+msgid "Tu étais trop gentil avec tous les autres... Tu te faisais marcher sur les pieds sans jamais lever la voix."
+msgstr ""
+"Başkalarına karşı çok iyiydin. Hiç sesini yükseltmeden kendini riske attın."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_406dcdec"
+msgid "C'est quand même fou... C'est moi qui ai subi tout ça... et tu me donnes l'impression d'avoir été la victime."
+msgstr ""
+"Bu hala çılgınca. Tüm bunların acısını çeken benim... ve sen bana kendimi "
+"kurbanmışım gibi hissettiriyorsun."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_ae7a3404"
+msgid "{{noriko.n}}... Même si je t'ai détesté voir hais toutes ces années... Comprendre enfin la raison derrière tout ça me fait voir les choses sous un autre angle."
+msgstr ""
+"{{noriko.n}}... Bunca yıldır senden nefret etmeme rağmen. Sonunda her şeyin "
+"arkasındaki nedeni anlamak, olayları başka bir açıdan görmemi sağladı."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t5c0f6cf729"
+msgid "Allez ne soit pas timide !"
+msgstr "Hadi, utanma."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t2617e12123"
+msgid "Voilà c'est mieux.. Oh ! Oui, beaucoup mieux."
+msgstr "Ah, daha iyi. Oh! Çok, çok daha iyi."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "choice_noriko_cunni_0295de52"
+msgid "On se revoit demain pour la prochaine étape."
+msgstr "Bir sonraki aşama için yarın tekrar görüşmek üzere."
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "tae4034358f"
+msgid "{{akira.n}} est toujours insistant, j'ai de plus en plus de mal à le repousser."
+msgstr ""
+"{{akira.n}} çok ısrarcı. Onu uzak tutmakta gittikçe daha fazla zorlanıyorum."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "ta30e8a4982"
+msgid "Oh mon dieu, je vais jouir..."
+msgstr "Aman Tanrım, boşalacağım."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t3948b597b1"
+msgid "Si tu fais ça je pourrirais encore plus la vie qu'avant !"
+msgstr "Eğer bunu yaparsan, hayatını daha da cehenneme çeviririm!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_3021a9c0"
+msgid "Je me sens touché que vous vous fassiez autant de soucis pour moi mais j'aimerais quand même avoir mon mot à dire sur toute cette histoire."
+msgstr ""
+"Benim için bu kadar endişelenmeniz beni duygulandırdı, ancak yine de bu "
+"hikâyede söz sahibi olan benim."
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "t051437fb4d"
+msgid "Tu n'as jamais voulu m'aider pour mon rêve au final... Tout ce que tu voulais c'était moi, m'ajouter à ta liste ! Je me trompe non ?"
+msgstr ""
+"Hayallerimi gerçekleştirmeme yardım etmeyi hiç istemedin. Tek istediğin beni "
+"de fetihlerine katmaktı! Yanılıyor muyum?"
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "restaurant_exterior_eaa3d458"
+msgid "Quel enfoiré cet {{akira.n}} quand même..."
+msgstr "Şu {{akira.n}} tam bir sik kafalı."
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "t5dc1b1f70c"
+msgid "Pour le moment c'est compliqué, mon père va garder un oeil sur toi."
+msgstr "Şu an için durum biraz karışık. Babam sana göz kulak olacak."
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "t7c1499d49f"
+msgid "[font_size=14]{{sakuya.n}} qu'est-ce que tu fais encore dehors à cette heure-ci ?![/font_size]"
+msgstr ""
+"[font_size=14]{{sakuya.n}}, bu saatte neden hala dışarıdasın?![/font_size]"
+
+#: game/story/konbini_exterior.dialogue
+msgctxt "konbini_exterior_efe54fcc"
+msgid "Je n'aime pas savoir que mon meilleur ami souffre en silence sans m'en parler !"
+msgstr ""
+"Sevgilimin bana söylemeden sessizce acı çektiğini bilmek hoşuma gitmiyor!"
+
+#: game/story/konbini_exterior.dialogue
+msgctxt "konbini_exterior_85dec372"
+msgid "Bien sûr que je viens !"
+msgstr "Tabii ki geliyorum!"
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "t097014b608"
+msgid "Le plus important, c'est que j'ai un travail et que je vais pouvoir aider {{yasuka.n}} à rembourser les dettes de la maison."
+msgstr ""
+"Önemli olan bir işimin olması ve {{yasuka.n}}'ın borçlarını ödemesine "
+"yardımcı olabilmem."
+
+#: game/story/home_asami_asami_room.dialogue
+msgctxt "home_asami_asami_room_88eeb506"
+msgid "Oh ! Alors peut-être que l'amie qui est venue te rendre visite pourra t'aider ?"
+msgstr "Belki seni ziyarete gelen arkadaşın sana yardım edebilir?"
+
+#: game/story/home_asami_asami_room.dialogue
+msgctxt "home_asami_asami_room_8cea69bc"
+msgid "Si tu es plutôt rétro-gaming j'ai la Super-NES..."
+msgstr "ğer daha çok retro oyunlarla ilgileniyorsanız, SNES'im var."
+
+#: game/story/home_asami_asami_room.dialogue
+msgctxt "home_asami_asami_room_44fc3c3e"
+msgid "Ahah tu te défendais mieux chez toi !"
+msgstr "Ahah, sen kendi evinde daha iyi dayanıyordun!"
+
+#: game/story/home_asami_asami_room.dialogue
+msgctxt "home_asami_asami_room_7f674549"
+msgid "Allez sois pas timide, rejoins-moi sur le lit, c'est plus confortable !"
+msgstr "Hadi, utanma! Yatakta bana katıl, daha rahat olur!"
+
+#: game/story/home_asami_asami_room.dialogue
+msgctxt "home_asami_asami_room_cf3c3a75"
+msgid "Oh désolé, je ne pensais pas que tu serais habillée en..."
+msgstr "Özür dilerim, senin şey gibi giyineceğini düşünmemiştim."
+
+#: game/story/home_asami_asami_room.dialogue
+msgctxt "tc89ed41127"
+msgid "Je me demande ce que fais {{saito.n}}... Ça aurait été sympa de passer la soirée ensemble."
+msgstr "Acaba {{saito.n}} ne yapıyor? Akşamı birlikte geçirmek güzel olurdu."
+
+#: game/story/konbini_exterior.dialogue
+msgctxt "konbini_exterior_34736219"
+msgid "[font_size=14]Tu comptes appeler les flics pour si peu ?[/font_size]"
+msgstr ""
+"[font_size=14]Bu kadar küçük bir şey için polis mi "
+"çağıracaksın...[/font_size]"
+
+#: game/story/konbini_exterior.dialogue
+msgctxt "konbini_exterior_25a3d31e"
+msgid "Ne t'inquiète pas... Je n'ai qu'une envie c'est de lui faire bouffer ses dents !"
+msgstr "Merak etmeyin. Şu anda istediğim tek şey ona dişlerini yedirmek!"
+
+#: game/story/konbini_exterior.dialogue
+msgctxt "konbini_exterior_ee1c7189"
+msgid "Tu vas à cette adresse, je te rejoins après j'ai un truc à faire !"
+msgstr ""
+"Sen o adrese git. Seninle sonra buluşuruz. Önce yapmam gereken bir şey var!"
+
+#: game/story/restaurant_sakuya_room.dialogue
+msgctxt "restaurant_sakuya_room_6f285784"
+msgid "Le temps que ton ex-amie arrête de te chercher partout en ville"
+msgstr "O eski arkadaşın seni şehrin her yerinde aramayı bıraksa iyi olur."
+
+#: game/story/restaurant_sakuya_room.dialogue
+msgctxt "restaurant_sakuya_room_c2d249cc"
+msgid "Je vais te donner du plaisir comme jamais et après tu pourras décider si tu veux continuer de renoncer à ça..."
+msgstr ""
+"Sana daha önce hiç olmadığı kadar zevk yaşatacağım ve sonra bundan "
+"vazgeçmekte ısrar edip etmeyeceğine karar verebilirsin..."
+
+#: game/story/restaurant_sakuya_room.dialogue
+msgctxt "akira_escape_99d9cd89"
+msgid "Je n'ai plus envie qu'on t'éloigne de moi ou qu'on te fasse du mal !"
+msgstr ""
+"Artık kimsenin seni benden almasını ya da sana zarar vermesini istemiyorum!"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "t893bddbece"
+msgid "Il en était hors de question, mais il revenait sans cesse, jour après jour."
+msgstr "Bu söz konusu bile olamazdı. Ama her gün geri gelmeye devam etti."
+
+#: game/story/konbini_exterior.dialogue
+msgctxt "konbini_exterior_752678c4"
+msgid "Mais quel enfoiré !"
+msgstr "Ne göt herif ama!"
+
+#: game/story/konbini_exterior.dialogue
+msgctxt "konbini_exterior_007f7612"
+msgid "[font_size=14]{{saito.n}} dépêche toi, on t'attend ![/font_size]"
+msgstr "[font_size=14]{{saito.n}}, acele et, seni bekliyoruz![/font_size]"
+
+#: game/story/restaurant_sakuya_room.dialogue
+msgctxt "akira_escape_fef67177"
+msgid "Allez, rince-toi l'œil {{saito.n}}, je suis sûr qu'un dégénéré comme toi sera excité de voir sa meilleure amie sucer un autre homme devant lui."
+msgstr ""
+"Hadi, bir bak, {{saito.n}}, eminim senin gibi bir dejenere, en iyi "
+"arkadaşının önünde başka bir erkeğe sakso çektiğini görünce "
+"heyecanlanacaktır."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_sakuya_e39fdb4c"
+msgid "Je... je ne vois pas comment je pourrais refuser, mais... je ne connais pas le métier d'agent."
+msgstr ""
+"Ben... Nasıl reddedebileceğimi bilmiyorum, ama... Bir ajans olarak nasıl "
+"çalışılır bilmiyorum."
+
+#: game/story/konbini_exterior.dialogue
+msgctxt "konbini_exterior_e858a9e0"
+msgid "Qu'est ce qui s'est passé ?! Tu as la tête de quelqu'un qui est tombé dans les escaliers !"
+msgstr "Ne oldu?! Merdivenlerden düşmüş gibi görünüyorsun!"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "td8a34bf2bb"
+msgid "Chanter, danser, jouer dans des dramas... Tu pensais à quoi exactement ?"
+msgstr "Şarkı söylemek, dans etmek, dizilerde oynamak. Ne düşünüyordun?"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "t34bb949d1c"
+msgid "Donc, si j'ai bien compris, dans mon ancienne vie, c'est {{akira.n}} qui avait lancé sa carrière mais pas dans le bon milieu."
+msgstr ""
+"Eğer yanılmıyorsam, önceki hayatımda kariyerini başlatan kişi {{akira.n}} "
+"idi, ama doğru alanda değil."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "home_player_exterior_d54de04e"
+msgid "... eh bien techniquement ce n'est pas maison. {{yasuka.n}} m'a recueilli quand j'étais jeune après que mon père se soit tiré."
+msgstr ""
+"...Şey, teknik olarak benim evim değil. Babam öldükten sonra küçükken "
+"{{yasuka.n}} beni yanına aldı."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "home_player_exterior_cd0706bf"
+msgid "Quel enfoiré..."
+msgstr "Ne göt herif ama."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "home_player_exterior_ad74cc1a"
+msgid "J'aurais... S'il y avait une autre femme dans ta vie, j'aurais aimé le savoir."
+msgstr "Ben... Eğer hayatında başka bir kadın olsaydı, bilmek isterdim."
+
+#: game/story/park.dialogue
+msgctxt "menu_macumba_30b561b3"
+msgid "Salut petit frère, prêt à transpirer un peu ?"
+msgstr "Hey, küçük kardeşim! Biraz terlemeye hazır mısın?"
+
+#: game/story/park.dialogue
+msgctxt "menu_macumba_ed7887a9"
+msgid "Mais ça ne coûte rien de se faire une séance un peu plus soutenue une à deux fois par semaine."
+msgstr ""
+"Ancak haftada bir veya iki kez biraz daha yoğun bir seans yapmanın hiçbir "
+"maliyeti olmayacaktır."
+
+#: game/story/park.dialogue
+msgctxt "menu_macumba_2045610e"
+msgid "Eh bien quoi ? Ma question est légitime, tu t'entraînes comme si ta vie en dépendait..."
+msgstr "Peki, ne olmuş ona? Hayatın buna bağlıymış gibi antrenman yapıyorsun."
+
+#: game/story/park.dialogue
+msgctxt "park_844a9302"
+msgid "Tu as passé plusieurs jours à remonter le moral d'une fille qui s'est faite rejeter, pour finalement voir qu'elle va retomber entre ses mains 3 jours plus tard."
+msgstr ""
+"Reddedilen bir kızı neşelendirmek için birkaç gün harcadın, ancak üç gün "
+"sonra aynı kişinin eline düşmesine neden oldun."
+
+#: game/story/park.dialogue
+msgctxt "park_09b9c89f"
+msgid "Dis-le que tu as tellement la haine que tu aimerais coller ton poing sur le visage de {{minato.n}}."
+msgstr ""
+"Yumruğunu {{minato.n}}'in suratına indirmek isteyecek kadar nefretle dolu "
+"olduğunuzu söyle."
+
+#: game/story/park.dialogue
+msgctxt "park_2cc53ccc"
+msgid "Non idiot ! Il faut s'enfoncer un peu plus loin..."
+msgstr "Hayır, salak! Biraz daha ileri gitmeliyiz."
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_202613fb"
+msgid "...et voilà! Tu sais tout!"
+msgstr "...İşte böyle! Her şeyi biliyorsun!"
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_85a21146"
+msgid "Si j'avais pas eu un petit coup de pression inattendu je pense que j'aurais fini par abandonner cette idée."
+msgstr ""
+"Son zamanlarda bu kadar baskı yaşamamış olsaydım, sanırım bu fikirden "
+"vazgeçerdim."
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_7eb188b4"
+msgid "Non pas vraiment... Tu es plus comme une sorte de petit chiot un peu foufou qui traîne dans mes jambes."
+msgstr ""
+"Hayır, pek sayılmaz. Sen daha çok bacaklarımın etrafında dolanan küçük "
+"çılgın bir köpek yavrusu gibisin."
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_b22f509e"
+msgid "Oui, demain je viens te chercher, et je te changer les idées."
+msgstr "Evet, yarın gelip seni alacağım ve kafanı toparlamana yardım edeceğim."
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_26ed3276"
+msgid "... Il ne devrait plus tarder."
+msgstr "...Yakında burada olur."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "tacca16d632"
+msgid "Travailler ensemble."
+msgstr "Birlikte çalışsak."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "asami_truth_1ecf14c7"
+msgid "J'ai pu m'entretenir avec elle et il s'avère qu'elle est une jeune femme assez raisonnable."
+msgstr ""
+"Onunla konuşabildim ve oldukça makul bir genç kadın olduğu ortaya çıktı."
+
+#: game/story/park.dialogue
+msgctxt "menu_macumba_7b6d59ba"
+msgid "Hmmm... On pourrait effectivement monter un peu la difficulté mais je suis contre le sur-entraînement."
+msgstr ""
+"Hmmm... Gerçekten de zorluğu biraz artırabiliriz ama ben aşırı antrenmana "
+"karşıyım."
+
+#: game/story/park.dialogue
+msgctxt "park_e1cd062b"
+msgid "OUI ! Oui j'ai la haine, je suis dégoûté..."
+msgstr "EVET! Evet, nefret ediyorum, iğreniyorum."
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_b55ce602"
+msgid "Hey {{minato.n}} tu tombes bien, j'avais un truc à te d-"
+msgstr ""
+"Hey, {{minato.n}}! Burada olmana sevindim. Sana sormak istediğim bir şey "
+"vardı."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "t3ee32783e8"
+msgid "Juste toi et moi, ça m'a comblée de bonheur."
+msgstr "Sadece sen ve ben, bu bana büyük bir neşe getirdi."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "asami_truth_c502719b"
+msgid "Ça ne me dérange pas non plus... après tout c'est pas comme si on sortait ensemble."
+msgstr "Bu beni de rahatsız etmiyor. Ne de olsa çıkmıyoruz."
+
+#: game/story/park.dialogue
+msgctxt "park_3ee290ac"
+msgid "Eh bien voilà ! On se sent pas mieux à présent ?"
+msgstr "İşte oldu! Şimdi daha iyi hissetmiyor musun?"
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_3638be4c"
+msgid "Ton meilleur ami ?"
+msgstr "En iyi arkadaşın mı?"
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_b1834627"
+msgid "Si je t'accordais un peu d'attention c'était seulement par curiosité."
+msgstr "Sadece merakımdan sana biraz ilgi gösteriyordum."
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_1b504790"
+msgid "Je vais être clair avec toi et je te conseille de bien m'écouter."
+msgstr "Size karşı açık olacağım ve beni dikkatle dinlemenizi tavsiye ederim."
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_ce076563"
+msgid "Putain {{kenji.n}}... S'il te plait me laisse pas seul, laisse moi rester avec toi !"
+msgstr ""
+"Lanet olsun, {{kenji.n}}... Lütfen beni yalnız bırakma! Bırak seninle "
+"kalayım!"
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_ae695783"
+msgid "Tu sais... Y'a de fortes chances que celui qui s'en est pris à moi s'en prenne à toi aussi !"
+msgstr "Biliyorsun... Bana saldıran kişinin sana da saldırma ihtimali yüksek!"
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_6aa4833c"
+msgid "Je vais aller voir {{takeo.n}}, lui prendra ça au sérieux !"
+msgstr "Gidip {{takeo.n}}'i göreceğim. En azından o ciddiye alır!"
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_5cb2a7bd"
+msgid "{{kenji.n}} c'est la même chose... Il se cache juste derrière une fausse agressivité."
+msgstr ""
+"{{kenji.n}} de farklı değil. Sadece sert bir dış görünüşün arkasına "
+"saklanıyor."
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_6dbfa01a"
+msgid "Je ne sais pas, j'observais votre petit numéro."
+msgstr "Bilmiyorum. Sadece küçük gösterini izliyordum."
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_66bcf576"
+msgid "C'était... Laisse tomber, elle ne fait que ce qu'elle veux."
+msgstr "Bu... Boşver, o ne isterse onu yapar."
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_5ceca82d"
+msgid "...Je t'emmène quelque part où on sera tranquille."
+msgstr "...Seni rahatsız edilmeyeceğimiz bir yere götürüyorum."
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_5f5a6232"
+msgid "J'en ai assez de t'entendre jurer à longueur de temps !"
+msgstr "Bütün gün küfür ettiğini duymaktan bıktım!"
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_4478a5f4"
+msgid "C'est ma moto petit idiot... Je l'ai prêtée à ton père, c'est tout !"
+msgstr "O benim, seni küçük aptal. Babana ödünç verdim, hepsi bu!"
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_28bc1757"
+msgid "T'inquiète pas ma beauté... Bientôt tu pourras de nouveau rouler... et ce jour-là..."
+msgstr "Merak etme güzelim. Yakında tekrar ata binebileceksin... ve o gün..."
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_5d3f8a18"
+msgid "Je... je ne sais pas, j'ai pas vraiment l'impression d'aimer ce que je suis en train de devenir."
+msgstr "Ben... Bilmiyorum. Dönüştüğüm şeyi gerçekten sevdiğimi sanmıyorum."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "asami_truth_10a3f9db"
+msgid "Au fait, cette histoire de récompense c'était quoi ?"
+msgstr "Bu arada, şu ödül olayı neydi?"
+
+#: game/story/home_nobu_exterior.dialogue
+msgctxt "home_nobu_exterior_17a006b5"
+msgid "J'ai une vie entière de regrets à évacuer."
+msgstr "Hayatım boyunca kurtulmam gereken pişmanlıklarım var."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "asami_truth_d3ccc383"
+msgid "Je venais pour une petite visite mais je suis tombée sur {{noriko.n}}."
+msgstr "Seni ziyarete geliyordum ama {{noriko.n}} ile karşılaştım."
+
+#: game/story/home_nobu_exterior.dialogue
+msgctxt "event_nobu_fight_at_home_6e3827a6"
+msgid "Grouille toi j'ai vraiment passé une grosse journée, je suis claqué."
+msgstr "Acele et! Gerçekten yorucu bir gün geçirdim. Yorgunum."
+
+#: game/story/home_nobu_exterior.dialogue
+msgctxt "event_nobu_fight_at_home_70e89da9"
+msgid "[font_size=14]...Putain tu fais chié.[/font_size]"
+msgstr "[font_size=14]...Lanet olsun, tam bir baş belasısın.[/font_size]"
+
+#: game/story/home_nobu_exterior.dialogue
+msgctxt "event_nobu_fight_at_home_a5595a7a"
+msgid "T'en profites bien quand je ramène à manger."
+msgstr "Yemek getirdiğimde hoşuna gidiyor."
+
+#: game/story/home_nobu_exterior.dialogue
+msgctxt "event_nobu_fight_at_home_06b650bd"
+msgid "Ce jour là ne compte pas sur moi pour t'aider."
+msgstr "Ve o gün geldiğinde, sana yardım etmem için bana güvenme."
+
+#: game/story/home_nobu_exterior.dialogue
+msgctxt "event_nobu_fight_at_home_e8b17a2b"
+msgid "Vu ta gueule, je suppose que c'était mérité !"
+msgstr "Yüzüne bakılırsa, sanırım bunu hak ettin!"
+
+#: game/story/home_nobu_exterior.dialogue
+msgctxt "home_nobu_exterior_db29a4c4"
+msgid "J'ai l'impression qu'un poids énorme a été retiré de mes épaules."
+msgstr "Sanki omuzlarımdan büyük bir yük kalkmış gibi hissediyorum."
+
+#: game/story/home_takeo_exterior.dialogue
+msgctxt "home_takeo_exterior_46a016fb"
+msgid "Vu qu'il n'y a personne pour le moment je ferais mieux de rester planqué."
+msgstr "Şu anda etrafta kimse olmadığına göre, saklansam iyi olur."
+
+#: game/story/home_takeo_exterior.dialogue
+msgctxt "home_takeo_exterior_b3171964"
+msgid "J'ai pas besoin de ces lâcheurs de toute façon, je vais te régler ton compte moi-même !"
+msgstr "O eziklere ihtiyacım yok zaten. Seninle kendim ilgileneceğim!"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_22"
+msgstr "Oyun merkezine kadar {{nobu.n}}'yi takip edin."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_30"
+msgstr "Parasını geri vermek için {{sayuri.n}} konbini'ye git."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_50"
+msgstr "Konbini'de {{asami.n}} ile konuş."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_63"
+msgstr "Aşk otelinin önünde {{akira.n}} nın belasını sik."
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Ne pas rejeter {{noriko.n}}."
+msgstr "{{noriko.n}}Reddetme"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "asami_truth_d6ad52d2"
+msgid "Elle semblait nerveuse, j'ai cru qu'il t'était arrivé quelque chose mais elle n'a rien voulu me dire."
+msgstr ""
+"Gergin görünüyordu. Sana bir şey oldu sandım ama bana bir şey söylemek "
+"istemedi."
+
+#: game/story/home_takeo_exterior.dialogue
+msgctxt "home_takeo_exterior_f6e52d86"
+msgid "C'est tout ce que ça lui fait ?"
+msgstr "Onun için tek yaptığı bu mu?"
+
+#: game/story/love_hotel_exterior.dialogue
+msgctxt "love_hotel_exterior_9496cd11"
+msgid "{{noriko.n}} ne viendra pas, il faudra se contenter de moi !"
+msgstr "{{noriko.n}} gelmiyor, o yüzden benimle idare etmek zorundasınız!"
+
+#: game/story/arcade_interior.dialogue
+msgctxt "arcade_center_interior_4aeabf91"
+msgid "Je sais pas combien j'ai pu dépenser dans cette borne..."
+msgstr "Bu makineye ne kadar harcadığımı bilmiyorum."
+
+#: game/story/love_hotel_exterior.dialogue
+msgctxt "love_hotel_exterior_67e96b5c"
+msgid "Sinon quoi ? Tu vas avoir une erection ?"
+msgstr "Yoksa ne olur? Tahrik mi oluyorsun"
+
+#: game/story/arcade_interior.dialogue
+msgctxt "arcade_center_interior_70120b89"
+msgid "[font_size=14]Tu veux pas que je lui éclate la tête sur sa machine pendant qu'il ne fait pas attention a moi ?[/font_size]"
+msgstr ""
+"[font_size=14]O bana dikkat etmezken kafasını makineye çarpmamı istemiyor "
+"musun?[/font_size]"
+
+#: game/story/love_hotel_exterior.dialogue
+msgctxt "love_hotel_exterior_045910c6"
+msgid "Tu le regretteras de toute façon, j'étais la seule chance pour {{noriko.n}} de s'en sortir."
+msgstr ""
+"Nasıl olsa pişman olacaksın. Ben {{noriko.n}}'in kaçmak için tek şansıydım."
+
+#: game/story/arcade_interior.dialogue
+msgctxt "arcade_center_interior_5b7c8d82"
+msgid "[font_size=14]Ca me plairait de voir ça mais si on fait ça ici devant tout le monde on aura des problèmes...[/font_size]"
+msgstr ""
+"[font_size=14]Bunu görmek isterdim, ama bunu burada herkesin önünde yaparsak "
+"sorun yaşarız...[/font_size]"
+
+#: game/story/love_hotel_exterior.dialogue
+msgctxt "love_hotel_exterior_57e2c04c"
+msgid "Allez tous vous faire foutre !"
+msgstr "Hepinizi sikeyim!"
+
+#: game/story/arcade_interior.dialogue
+msgctxt "arcade_center_interior_c713ba33"
+msgid "j'espère que cet idiot va enfin rentrer chez lui je commence a avoir des envies de meurtre."
+msgstr ""
+"Umarım bu salak sonunda evine gider. Aklıma cinayet düşünceleri gelmeye "
+"başladı."
+
+#: game/story/park.dialogue
+msgctxt "t5ff035b562"
+msgid "[color=yellow]Niveau supérieur[/color]"
+msgstr "[color=yellow]Sonraki seviye.[/color]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_38_asami_reject_friendship"
+msgstr "Benim {{minato.n}}'e gitmem gerekiyor."
+
+#: game/story/park.dialogue
+msgctxt "talk_asami_9c7c49d7"
+msgid "Si je dois me déclarer auprès de lui, je veux en être sûre à 100%."
+msgstr "Eğer ona kendimi açıklamak zorunda kalırsam, %100 emin olmak isterim."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_38_1_asami_reject_friendship"
+msgstr "Benim {{minato.n}}'e gitmem gerekiyor."
+
+#: game/story/park.dialogue
+msgctxt "asami_choice_c7d15c6e"
+msgid "Et puis maintenant que j'y pense... Tu ferais mieux d'aller te déclarer directement."
+msgstr "Ve şimdi düşünüyorum da. Doğrudan itiraf etsen iyi olur."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_friendship_1"
+msgstr "Yarın sabah evinin önünde {{asami.n}} ile buluş."
+
+#: game/story/park.dialogue
+msgctxt "asami_choice_ba42b63c"
+msgid "Si vous êtes réellement amis de longues date, être franche et sincère reste le choix le plus cohérent."
+msgstr ""
+"Eğer gerçekten uzun süredir arkadaşsanız, açık sözlü ve samimi olmak hala en "
+"tutarlı seçimdir."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_friendship_6"
+msgstr "{{asami.n}} ve {{noriko.n}}'ı oturma odasına kadar takip et."
+
+#: game/story/park.dialogue
+msgctxt "asami_choice_28ee5233"
+msgid "Malheureusement ce n'est pas possible, à partir du moment où tu as développé des sentiments, cette relation était vouée inévitablement à se terminer un jour ou l'autre."
+msgstr ""
+"Ne yazık ki bu mümkün değil. Duygularını geliştirdiğiniz andan itibaren, bu "
+"ilişki kaçınılmaz olarak öyle ya da böyle bitmeye mahkumdu."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_friendship_11"
+msgstr "Kanala kadar {{asami.n}}'yi takip edin."
+
+#: game/story/park.dialogue
+msgctxt "asami_choice_f9e928fc"
+msgid "Rattrape-la et apporte-lui ton soutien. Qui sait... peut-être qu'elle deviendra une amie sur qui tu pourras t'appuyer à ton tour ?"
+msgstr ""
+"Ona yetiş ve desteğini ver, kim bilir... Belki o da sizin sırtını "
+"dayayabileceğin bir arkadaşın olur?"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_friendship_16"
+msgstr "{{asami.n}} ile birlikte kanala git."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_11"
+msgstr "Eve gitmeden önce konbini'ye uğra."
+
+#: game/story/bus_stop.dialogue
+msgctxt "noriko_forgive_851dbf5b"
+msgid "J'attend ta réponse d'ici demain... Après ça, je ne répondrais plus de rien."
+msgstr "Yarına kadar cevabını bekleyeceğim. Ondan sonra kim bilir ne yaparım."
+
+#: game/story/bus_stop.dialogue
+msgctxt "noriko_forgive_128ec7e6"
+msgid "Tu... Tu n'as rien ?"
+msgstr "Sen... İyi misin?"
+
+#: game/story/bus_stop.dialogue
+msgctxt "noriko_forgive_1227a561"
+msgid "C'est terminé..."
+msgstr "Bitti."
+
+#: game/story/bus_stop.dialogue
+msgctxt "noriko_forgive_99e96fdc"
+msgid "C'est fini, il ne s'en prendra plus à nous désormais."
+msgstr "Bitti artık. Artık peşimizden gelmeyecek."
+
+#: game/story/bus_stop.dialogue
+msgctxt "noriko_forgive_a66a6979"
+msgid "Mais... Qu'est-ce qui s'est passé, qu'est-ce que tu as fait pour qu-"
+msgstr "Ama... Ne oldu? Ne yaptın-"
+
+#: game/story/bus_stop.dialogue
+msgctxt "noriko_forgive_4c277fb4"
+msgid "On va dire qu'il n'était tout simplement plus à la hauteur."
+msgstr "Diyelim ki artık bu göreve uygun değil."
+
+#: game/story/bus_stop.dialogue
+msgctxt "noriko_forgive_abfa94f5"
+msgid "On rentre à présent ?"
+msgstr "Artık eve gidelim mi?"
+
+#: game/story/bus_stop.dialogue
+msgctxt "noriko_forgive_518134ef"
+msgid "Shhht laisse-moi en profiter juste encore un peu !"
+msgstr "Şşşt, biraz daha tadını çıkarayım!"
+
+#: game/story/lake.dialogue
+msgctxt "lake_31ede489"
+msgid "Viens t'asseoir, on a pas mal de temps à tuer en attendant ce soir !"
+msgstr "Gel otur. Bu gece öldürecek çok vaktimiz var!"
+
+#: game/story/lake.dialogue
+msgctxt "lake_0af37d08"
+msgid "A quoi tu penses ?"
+msgstr "Ne düşünüyorsun?"
+
+#: game/story/lake.dialogue
+msgctxt "lake_38bc82eb"
+msgid "Je me disais que j'avais vraiment du mal a te suivre..."
+msgstr "Seni anlamakta gerçekten zorlandığımı düşünüyordum."
+
+#: game/story/lake.dialogue
+msgctxt "lake_25dc4344"
+msgid "On a d'abord eu une relation très forte... Ça a changé pour diverses raisons."
+msgstr ""
+"Başlangıçta gerçekten güçlü bir ilişkimiz vardı. Ama çeşitli nedenlerden "
+"dolayı değişti."
+
+#: game/story/lake.dialogue
+msgctxt "lake_5781bcdf"
+msgid "Tu m'as fait vivre un enfer, genre littéralement."
+msgstr "Hayatımı cehenneme çevirdin, neredeyse kelimenin tam anlamıyla."
+
+#: game/story/lake.dialogue
+msgctxt "lake_85feaee9"
+msgid "Tout ça pour mon bien..."
+msgstr "Hepsi benim iyiliğim içindi."
+
+#: game/story/lake.dialogue
+msgctxt "lake_b0f0928f"
+msgid "... et aujourd'hui tu es là m'aider à changer pour le mieux."
+msgstr "...ve şimdi iyi anlamda değişmeme yardım etmek için buradasın."
+
+#: game/story/lake.dialogue
+msgctxt "lake_046c9aaf"
+msgid "Et je ne mentionne pas ce qu'on a fait toi et moi hier dans la chambre..."
+msgstr "Dün yatak odasında yaptıklarımızdan bahsetmiyorum bile."
+
+#: game/story/lake.dialogue
+msgctxt "lake_ae148ef7"
+msgid "Et je ne mentionne pas la proposition que tu m'as faite hier dans la chambre..."
+msgstr "Dün yatak odasında yaptığın tekliften de bahsetmiyorum."
+
+#: game/story/lake.dialogue
+msgctxt "lake_559dc029"
+msgid "Nous ne sommes pas frère et sœur donc je ne vois pas où est le problème ?"
+msgstr "Biz kardeş değiliz, o yüzden bir sorun göremiyorum."
+
+#: game/story/lake.dialogue
+msgctxt "lake_02dec0f4"
+msgid "...Donc on oublie tout le passé et on se concentre sur l'avenir en gros."
+msgstr "...Yani geçmişi unutmalı ve sadece geleceğe odaklanmalıyız, değil mi?"
+
+#: game/story/lake.dialogue
+msgctxt "lake_ff89d187"
+msgid "C'est à peu près ça..."
+msgstr "Hepsi bu kadar."
+
+#: game/story/lake.dialogue
+msgctxt "lake_4c9dbb2c"
+msgid "Tu prévois une autre récompense aussi si je mets une branlée à {{kenji.n}} ?"
+msgstr "Eğer {{kenji.n}}'nin canını okursam başka bir ödül alacak mıyım?"
+
+#: game/story/lake.dialogue
+msgctxt "lake_4d32bf5d"
+msgid "Je demandais juste..."
+msgstr "Sadece soruyordum..."
+
+#: game/story/lake.dialogue
+msgctxt "lake_d9096b73"
+msgid "Tu aimerais ?"
+msgstr "Bir tane ister misin?"
+
+#: game/story/lake.dialogue
+msgctxt "t7932c4e3c3"
+msgid "Ne dis pas de bêtises !"
+msgstr "Saçma sapan konuşmayı kes!"
+
+#: game/story/lake.dialogue
+msgctxt "lake_63fe5d60"
+msgid "Oh monsieur {{saito.n}} préfère camper sur sa position ?"
+msgstr "Oh efendim {{saito.n}} silahlarına sadık kalmayı mı tercih ediyor?"
+
+#: game/story/lake.dialogue
+msgctxt "lake_2536c814"
+msgid "Comme tu voudras... Mais c'est toi qui rate quelque chose."
+msgstr "Nasıl istersen. Ama bir şeyi kaçırıyorsun."
+
+#: game/story/lake.dialogue
+msgctxt "lake_ab9924e2"
+msgid "Je vais prendre ton silence pour un oui."
+msgstr "Sessizliğini evet olarak kabul ediyorum."
+
+#: game/story/lake.dialogue
+msgctxt "lake_e514c953"
+msgid "Regardez moi ce pervers qui en veut toujours plus !"
+msgstr "Şu sapığa bak, hep daha fazlasını istiyor!"
+
+#: game/story/lake.dialogue
+msgctxt "lake_10e113ae"
+msgid "La dernière fois ne t'a pas suffit ?"
+msgstr "Geçen sefer yetmedi mi?"
+
+#: game/story/lake.dialogue
+msgctxt "lake_f86bcf37"
+msgid "Je crois qu'il est temps d'aller s'occuper de {{kenji.n}}."
+msgstr "Sanırım {{kenji.n}} ile ilgilenme zamanı geldi."
+
+#: game/story/lake.dialogue
+msgctxt "lake_bdf9ac4a"
+msgid "Oui!"
+msgstr "Evet!"
+
+#: game/story/lake.dialogue
+msgctxt "lake_34cb23a5"
+msgid "Et bien alors ?"
+msgstr "O zaman?"
+
+#: game/story/lake.dialogue
+msgctxt "lake_f301c440"
+msgid "Maintenant qu'on en a terminé tu m'ignores de nouveau ?"
+msgstr "İşimiz bittiğine göre beni yine görmezden mi geliyorsun?"
+
+#: game/story/lake.dialogue
+msgctxt "lake_a98e3e4f"
+msgid "Mais je vois bien qu'il y a toujours quelque chose qui te préoccupe."
+msgstr "Ama aklınızda hâlâ bir şeyler olduğunu açıkça görebiliyorum."
+
+#: game/story/lake.dialogue
+msgctxt "lake_47ca85e9"
+msgid "Quand j'y repense... tu semblais terriblement pressée que j'en finisse avec eux."
+msgstr "Düşündüğümde. Onlarla işimin bitmesi için çok hevesli görünüyordun."
+
+#: game/story/lake.dialogue
+msgctxt "lake_07b1d2c1"
+msgid "Comme s'il y avait une date limite à tout ça..."
+msgstr "Sanki bir son tarih varmış gibi."
+
+#: game/story/lake.dialogue
+msgctxt "lake_021b5183"
+msgid "Laisse-moi t'aider pour une fois."
+msgstr "Lütfen bir kez olsun sana yardım etmeme izin ver."
+
+#: game/story/lake.dialogue
+msgctxt "lake_9fb4f4f9"
+msgid "Laisse tomber, il est trop tard à présent."
+msgstr "Boş ver, artık çok geç."
+
+#: game/story/lake.dialogue
+msgctxt "lake_15f75d5d"
+msgid "...[w] Tu ne pourras rien contre lui, personne ne peut."
+msgstr "...[w] Eğer sen hiçbir şey yapamazsan. Kimse yapamaz."
+
+#: game/story/lake.dialogue
+msgctxt "lake_f60eb0c3"
+msgid "Ce n'est pas à toi d'en décider, maintenant dis-moi de qui tu parles."
+msgstr "Karar vermek sana düşmez. Şimdi bana kimden bahsettiğini söyle."
+
+#: game/story/lake.dialogue
+msgctxt "lake_1db034d5"
+msgid "Pfff comme tu voudras..."
+msgstr "Pfff, nasıl istersen..."
+
+#: game/story/lake.dialogue
+msgctxt "lake_b78879cb"
+msgid "Malheureusement pour moi à l'école, le fait qu'elle m'ait élevée seule a fait de moi un cas à part."
+msgstr ""
+"Ne yazık ki okulda beni yalnız yetiştirmiş olması beni özel bir durum haline "
+"getirdi."
+
+#: game/story/lake.dialogue
+msgctxt "lake_13990668"
+msgid "À leurs yeux je n'étais que la fille d'une pute..."
+msgstr "Onların gözünde bir fahişenin kızından başka bir şey değildim."
+
+#: game/story/lake.dialogue
+msgctxt "lake_d982de1e"
+msgid "Mais... tu étais la seule personne à me montrer de la gentillesse."
+msgstr "Ama... bana nezaket gösteren tek kişi sendin."
+
+#: game/story/lake.dialogue
+msgctxt "lake_770b9b12"
+msgid "Mais... À présent qu'on en a terminé avec les thugs..."
+msgstr "Ama... Şimdi onlarla işimiz bittiğine göre."
+
+#: game/story/lake.dialogue
+msgctxt "lake_a4f9f20e"
+msgid "Il va falloir s'occuper de tous ceux qui nous ont causé du tort."
+msgstr "Bize zarar veren herkesin icabına bakmamız gerekecek."
+
+#: game/story/lake.dialogue
+msgctxt "lake_03e2b765"
+msgid "Ils sont trop nombreux et je voulais en finir vite."
+msgstr "Çok fazla var ve bir an önce halletmek istedim."
+
+#: game/story/lake.dialogue
+msgctxt "lake_91bb1bb2"
+msgid "C'est pour ça que j'ai demandé l'aide d'{{akira.n}}."
+msgstr "Bu yüzden {{akira.n}}'dan yardım istedim."
+
+#: game/story/lake.dialogue
+msgctxt "lake_4e3da6c0"
+msgid "Je n'aime pas la direction que prend cette conversation..."
+msgstr "Bunun gittiği yeri sevmiyorum."
+
+#: game/story/lake.dialogue
+msgctxt "lake_1329b19a"
+msgid "Je devais devenir son plan cul personnel."
+msgstr "Onun kişisel seks partneri olmak zorundaydım."
+
+#: game/story/lake.dialogue
+msgctxt "lake_a4c11ba3"
+msgid "Putain j'en étais sur, ce type est une véritable ordure."
+msgstr "Kahretsin, biliyordum! Bu adam tam bir pislik."
+
+#: game/story/lake.dialogue
+msgctxt "lake_204d0eb2"
+msgid "J'ai refusé mais il m'a menacée de s'en prendre à maman..."
+msgstr "Ben reddettim ama o anneme zarar vermekle tehdit etti."
+
+#: game/story/lake.dialogue
+msgctxt "lake_e8d5dd26"
+msgid "{{saito.n}} j'ai vraiment peur, ce type est capable de tout..."
+msgstr "{{saito.n}}, gerçekten korkuyorum. Bu adam her şeyi yapabilir."
+
+#: game/story/lake.dialogue
+msgctxt "lake_cad9bc1f"
+msgid "Ne t'en fais pas, j'en fais mon affaire !"
+msgstr "Merak etme, kendi ellerimle boğucam onu!"
+
+#: game/story/lake.dialogue
+msgctxt "lake_ee2203c6"
+msgid "Mais il est bien plus fort que toi !"
+msgstr "Ama o senden çok daha güçlü!"
+
+#: game/story/lake.dialogue
+msgctxt "lake_cbacebf4"
+msgid "Plus maintenant !"
+msgstr "Artık değil!"
+
+#: game/story/lake.dialogue
+msgctxt "lake_9a208089"
+msgid "Laisse moi m'occuper de ça !"
+msgstr "Bırak ben halledeyim!"
+
+#: game/story/lake.dialogue
+msgctxt "lake_1aad3c91"
+msgid "Tu devais le retrouver où ?"
+msgstr "Onunla nerede buluşacaktın?"
+
+#: game/story/lake.dialogue
+msgctxt "lake_e2a87085"
+msgid "Très bien, rentre a la maison."
+msgstr "Pekala, hadi doğru eve."
+
+#: game/story/lake.dialogue
+msgctxt "lake_667b9231"
+msgid "Je vais gérer ça personnellement !"
+msgstr "Bunu halledip geleceğim."
+
+#: game/story/lake.dialogue
+msgctxt "lake_72454bac"
+msgid "Fais... Fais attention à toi !"
+msgstr "Sadece... Dikkatli ol!"
+
+#: game/story/lake.dialogue
+msgctxt "lake_a0248723"
+msgid "...[w] Je pourrais apprécier ce côté où tu t'inquiètes pour moi tu sais..."
+msgstr ""
+"...[w] Benim için endişelendiğini görmekten mutlu oluyorum, biliyorsun..."
+
+#: game/story/lake.dialogue
+msgctxt "lake_5386ef61"
+msgid "Idiot ! Je m'inquiète toujours pour toi !"
+msgstr "Aptal! Hep senin için endişeleniyorum!"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_b486e775"
+msgid "Je suis prête !"
+msgstr "Ben hazırım!"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_85f01cdd"
+msgid "Tu m'attendais depuis longtemps ?"
+msgstr "Uzun zamandır mı bekliyordunuz?"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_b99d8de6"
+msgid "Tu ne m'as pas donné d'heure précise alors..."
+msgstr "Bana belirli bir zaman vermedin, o yüzden..."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_83e4e034"
+msgid "Désolé !"
+msgstr "Özür dilerim!"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_6bdfc43b"
+msgid "C'est pas grave, maintenant que tu es là, allons-y !"
+msgstr "Endişelenme. Artık buradasın, hadi gidelim!"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_40251db1"
+msgid "... Merci {{saito.n}}."
+msgstr "...Teşekkürler, {{saito.n}}."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_bc7b1eb1"
+msgid "Ça serait bien trop louche !"
+msgstr "Bu çok şüpheli olurdu!"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_64055739"
+msgid "Qui sait quels sombres secrets on y découvrirait ?"
+msgstr "Kim bilir ne karanlık sırlar bulursun?"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_ebbf6348"
+msgid "Et ta famille à toi elle a quoi d'étrange ?"
+msgstr "Peki ya seninki? Garip olan ne?"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_49823c33"
+msgid "Ma mère déteste par dessus tout qu'on l'appelle madame, ça la rend folle."
+msgstr ""
+"Annem kendisine 'hanımefendi' denmesinden her şeyden çok nefret eder. Bu onu "
+"deli ediyor."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_db9067a3"
+msgid "Je crois que vieillir ne lui réussit pas."
+msgstr "Sanırım yaşlanma düşüncesinden hoşlanmıyor."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_6ba40909"
+msgid "Toujours en voyage d'affaire, il préfère son travail à sa famille."
+msgstr "Sürekli iş gezilerinde. İşini ailesine tercih ediyor."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_4fee10f3"
+msgid "Bienvenue au club des pères à chier dans ce cas !"
+msgstr "Boktan Babalar Kulübü'ne hoş geldiniz!"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_50e30f23"
+msgid "Oh chouette, on est combien ?"
+msgstr "Oh güzel. Kaç kişiyiz?"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_44561938"
+msgid "Mhhh toi et moi ça fait deux, mais si on compte {{noriko.n}} ça doit faire trois."
+msgstr "Mmm, sen ve ben iki eder, ama {{noriko.n}}'yu da sayarsak üç."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_c7a846f8"
+msgid "Merci encore pour tout {{saito.n}}."
+msgstr "Her şey için tekrar teşekkürler, {{saito.n}}."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_f12eac4e"
+msgid "Pas de problème, passe une bonne nuit {{asami.n}} !"
+msgstr "Sorun değil. İyi geceler, {{asami.n}}!"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_1a5983b9"
+msgid "On pourra se revoir ?"
+msgstr "Tekrar görüşebilir miyiz?"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_d5512fe6"
+msgid "Quand tu voudras !"
+msgstr "Ne zaman istersen!"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_546cd231"
+msgid "Quand tu voudras !"
+msgstr "Ne zaman istersen!"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_5433dae9"
+msgid "Finalement elle était pas si mal cette journée."
+msgstr "Sonuçta bugün o kadar da kötü değildi."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_675ec5c0"
+msgid "S'il s'était pas comporté comme un connard avec elle, je n'aurais probablement jamais pu faire sa connaissance."
+msgstr "Eğer o böyle bir pislik olmasaydı, muhtemelen onu hiç tanımayacaktım."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_0013aaa5"
+msgid "Bon... Il est temps de rentrer à présent."
+msgstr "Pekala... Eve gitme vakti geldi."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_a9e8e433"
+msgid "... et voilà !"
+msgstr "... ve işte bu kadar!"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_36a22839"
+msgid "J'ai encore passé une super journée !"
+msgstr "Harika bir gün daha!"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_7c215c6a"
+msgid "Si j'avais su... Je serais venue te parler beaucoup plus tôt."
+msgstr "Eğer bilseydim. Seninle çok daha önce konuşurdum."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_e3b41045"
+msgid "C'est comme ça, on ne peut pas y faire grand chose."
+msgstr "Durum böyle işte. Bu konuda yapabileceğimiz pek bir şey yok."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_af2db745"
+msgid "... En effet."
+msgstr "...Bu doğru."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_2f5d45ce"
+msgid "Non idiot ! Quoique...."
+msgstr "Hayır, salak! Ama mantıklı gib..."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_aa716569"
+msgid "Bonne nuit {{saito.n}}."
+msgstr "İyi geceler, {{saito.n}}!"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_71a4920c"
+msgid "C'est vraiment une chouette fille..."
+msgstr "O gerçekten harika bir kız."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_2bf3e4fb"
+msgid "Pourquoi cet abruti de {{minato.n}} l'a rejetée comme ça."
+msgstr "Neden o pislik {{minato.n}} onu reddetti acaba..."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_25d8f8b9"
+msgid "Surtout si c'est une amie d'enfance..."
+msgstr "Üstelik çocukluk arkadaşı."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_b789ca5b"
+msgid "Faut que je lui touche un mot."
+msgstr "Onunla konuşmam gerek."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_992ddb08"
+msgid "Nous y voilà !"
+msgstr "İşte geldik!"
+
+#: game/story/home_nobu_exterior.dialogue
+msgctxt "home_nobu_exterior_b1f98bf3"
+msgid "Nous y voilà !"
+msgstr "İşte başlıyoruz!"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_2dce5cff"
+msgid "Merci de m'avoir raccompagnée !"
+msgstr "Bana eşlik ettiğiniz için teşekkürler!"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_4ad32068"
+msgid "Merci de m'avoir raccompagnée !"
+msgstr "Bana eşlik ettiğin için teşekkürler!"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_650631bb"
+msgid "Ça m'avait manqué tu sais..."
+msgstr "Kaçırmıştım, biliyorsun."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_73787e2c"
+msgid "Dans ce cas pourquoi m'avoir traitée comme ça la dernière fois."
+msgstr "O zaman geçen sefer neden bana öyle davrandın?"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_d0a1a190"
+msgid "Si je te le dis... Tu vas te moquer de moi."
+msgstr "Eğer sana söylersem. Bana gülersin."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_c3d29360"
+msgid "Et comment ! C'est tout ce que tu mérites après ce que tu m'as dit."
+msgstr "Tabii ki! Bana söylediklerinden sonra olacak tek şey bu."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_ec302c2b"
+msgid "Touché !"
+msgstr "Tuş!"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_bfe78f41"
+msgid "Je ne suis vraiment pas fier de ce que j'ai dit ce jour-là. J'ai été odieux et je ne mérite pas d'être pardonné."
+msgstr ""
+"O gün söylediklerimle gerçekten gurur duymuyorum. Nefret doluydum ve "
+"affedilmeyi hak etmiyorum."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_8e3b713f"
+msgid "Tu sais que tu m'as vraiment fait mal !"
+msgstr "Beni gerçekten incittiğini biliyorsun!"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_aff029d3"
+msgid "Heureusement que {{saito.n}} était là sinon je ne sais pas ce que j'aurais pu faire..."
+msgstr "Neyse ki {{saito.n}} oradaydı. Yoksa ne yapardım bilmiyorum."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_de44bf3c"
+msgid "Je sais... Je suis désolé. J'ai été nul."
+msgstr "Biliyorum. Özür dilerim. Berbat davrandım."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_7cf59ba0"
+msgid "Ravie de voir qu'on est du même avis."
+msgstr "Aynı dalga boyunda olduğumuzu gördüğüme sevindim."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_eaf35a99"
+msgid "Tu sais... Le moment est peut-être mal choisi mais..."
+msgstr "Biliyorsun. Muhtemelen doğru zaman değil ama."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_e48703c9"
+msgid "Après avoir de nouveau discuté avec toi je me suis senti de nouveau... complet."
+msgstr "Seninle tekrar konuştuktan sonra kendimi tamamlanmış hissettim."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_f88e904f"
+msgid "... et ?.."
+msgstr "...Ve?..."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_88c6fc82"
+msgid "Si tu es toujours d'accord... J'aimerais moi aussi faire évoluer notre relation."
+msgstr ""
+"Eğer hala istiyorsan. Ben de ilişkimizi bir sonraki seviyeye taşımak "
+"istiyorum."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_f888024d"
+msgid "Qu'est-ce que tu en penses ?"
+msgstr "Sen ne düşünüyorsun?"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_e4950d7a"
+msgid "... Je... j'ai attendu que tu me dises ces mots depuis si longtemps."
+msgstr "...Ben... Bu kelimeler için çok uzun süre bekledim."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_54a1bc8f"
+msgid "Je pensais que ça n'arriverait jamais."
+msgstr "Bu anın hiç gelmeyeceğini düşünmüştüm."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_7dc4d884"
+msgid "Tu me l'aurais dit il y a une semaine je t'aurais répondu oui immédiatement."
+msgstr "Aynı şeyi bana bir hafta önce söyleseydin, hemen evet derdim."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_3c2790b6"
+msgid "Aujourd'hui les choses ont changé et j'ai rencontré quelqu'un qui m'apporte mieux qu'un amour à sens unique."
+msgstr ""
+"Şimdi işler değişti ve bana tek taraflı aşktan daha iyi bir şey veren "
+"biriyle tanıştım."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_a4c13f6d"
+msgid "Ne t'en fais pas, je ne te demanderais pas une réponse immédiate."
+msgstr "Merak etme, senden hemen bir cevap istemeyeceğim."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_cc8a9257"
+msgid "Prends la nuit pour y réfléchir et donne-moi ta réponse demain, d'accord ?"
+msgstr "Bu gece düşün ve yarın bana cevabını ver, tamam mı?"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_8390c95a"
+msgid "Oh ! Et {{asami.n}}..."
+msgstr "Ah! Ve {{asami.n}}..."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_75973bdf"
+msgid "Tu m'avais manqué."
+msgstr "Seni özledim."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_ea5c17b7"
+msgid "... Toi aussi."
+msgstr "...Bende seni."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_8b570b39"
+msgid "Je te jure que..."
+msgstr "Yemin ederim."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_a9d5e298"
+msgid "Que quoi ? Qu'est-ce qu'une victime comme toi va bien pouvoir me faire ?"
+msgstr "Ne yapacaksın? Senin gibi bir kurban bana ne yapacak?"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_2555d23d"
+msgid "Rien ! C'est bien ce que je pensais, tu as toujours été pathétique et tu le resteras."
+msgstr ""
+"Hiçbir şey! Ben de öyle düşünmüştüm. Her zaman acınacak haldeydin ve hep "
+"öyle kalacaksın."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_6af563f5"
+msgid "Tu te branleras tout seul dans ta chambre pendant que moi..."
+msgstr "Sen odanda tek başına mastürbasyon yaparken ben..."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_ad35ff4f"
+msgid "... je ne serais pas seul, si tu vois ce que je veux dire !"
+msgstr "...Yalnız olmayacağım, ne demek istediğimi anlıyorsun!"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_9d553b1e"
+msgid "Peu importe ce que tu penses, si tu lui fais du mal, ou si tu joues avec ses sentiments tu auras affaire à moi !"
+msgstr ""
+"Ne düşünürsen düşün, eğer onu incitirsen ya da duygularıyla oynarsan, "
+"benimle hesaplaşmak zorunda kalırsın!"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t9088251adb"
+msgid "Bien qu'on se soit un peu rapprochés, je ne peux pas forcer {{asami.n}} à m'écouter."
+msgstr "Yakınlaşmamıza rağmen {{asami.n}}'i beni dinlemeye zorlayamıyorum."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_d0ab2f04"
+msgid "Elle me prendrait pour un mec ultra possessif..."
+msgstr "Benim aşırı sahiplenici bir adam olduğumu düşünüyor."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_40a8f93c"
+msgid "Sans compter le fait qu'elle est censée disparaître pendant les vacances..."
+msgstr "Tatillerde ortadan kaybolması gerektiğinden bahsetmiyorum bile."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_bcc084e9"
+msgid "Tout ça est un véritable casse-tête."
+msgstr "Tam bir baş belası."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_1faaf8db"
+msgid "Aucun problème."
+msgstr "Sorun değil."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_fb1e524f"
+msgid "Des choses de prévues pour demain ?"
+msgstr "Yarın için planın var mı?"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_35b68e6b"
+msgid "C'est possible... On a quelques problèmes d'argent depuis un bout de temps."
+msgstr "Muhtemelen... Son zamanlarda bazı mali sorunlar yaşıyoruz."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_634d5be1"
+msgid "Et je n'ai pas l'intention de laisser {{yasuka.n}} s'occuper de ça toute seule."
+msgstr ""
+"Ve {{yasuka.n}}'in bununla tek başına başa çıkmasına izin vermeyi "
+"planlamıyorum."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_4ec9622a"
+msgid "Si tu as besoin d'aide fais-moi signe."
+msgstr "Yardıma ihtiyacın olursa bana haber ver."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_fe7ab3b5"
+msgid "À bientôt !"
+msgstr "Yakında görüşürüz!"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_afd6c516"
+msgid "Pfff, n'importe quoi ! J'ai pas envie de t'appeler beau-papa."
+msgstr "Pfff, hayatta olmaz! Sana 'üvey baba' demek istemiyorum."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_4c5d35be"
+msgid "Donc interdiction de faire du charme à ma mère !"
+msgstr "Yani annemle tatlı dille konuşmak yok!"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_31fbb2aa"
+msgid "Bon faut que je te laisse, {{noriko.n}} m'attend !"
+msgstr "Artık gitmem gerekiyor. {{noriko.n}} beni bekliyor!"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_82a55b09"
+msgid "Ah oui ! Cette histoire de gâteau..."
+msgstr "Oh, evet! Şu pasta hikayesi."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_7404c1bf"
+msgid "Ça va être une surprise totale, c'est la première fois qu'elle va faire quelque chose comme ça."
+msgstr "Tam bir sürpriz olacak. İlk kez böyle bir şey yapıyor."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_5daaa213"
+msgid "Haha.. j'espère que tu as l'estomac bien accroché."
+msgstr "Haha... Umarım güçlü bir miden vardır."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_105d2bbc"
+msgid "Je l'espère aussi."
+msgstr "Ben de öyle umuyorum."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t88c54ce230"
+msgid "Je crois savoir pourquoi tu es là."
+msgstr "Sanırım neden burada olduğunu biliyorum."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t68c9cc8670"
+msgid "Tu es sûr que tu ne veux que discuter ?.."
+msgstr "Sadece konuşmak istediğine emin misin?"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "td9551ac9c2"
+msgid "Et donc ? Qu'est-ce que tu veux ?"
+msgstr "Ne olmuş yani? Ne demek istiyorsun?"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "tf64a83c8ef"
+msgid "Doggystyle"
+msgstr "Doggystyle"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t4936578593"
+msgid "Piledriving"
+msgstr "Piledriving"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "tb857e566df"
+msgid "Aller... Montre-moi si tu t'es amélioré !"
+msgstr "Haydi... Gelişip gelişmediğini göster bana!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "tfabd20be6d"
+msgid "Mhh... Oui... Voilà..."
+msgstr "Hmm... evet... bunun gibi..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "te7a81490e8"
+msgid "Doucement."
+msgstr "Yavaşca"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "tbbdf61a836"
+msgid "Continue c'est..."
+msgstr "Devam et..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t0107bdadc8"
+msgid "Parfait..."
+msgstr "Mükemmel..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t4f2833588b"
+msgid "Oh bon sang ! Oui vas-y !"
+msgstr "Oh lanet olsun! Devam et!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t64e364fe26"
+msgid "Oh ouiii... Ouiiiii."
+msgstr "Oh eveeeet... Eveeeeet."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "tf052c3bfac"
+msgid "Arrête de me faire languir !"
+msgstr "Beni bekletmeyi bırak!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t539dc1e77a"
+msgid "Je n'ai pas le droit d'apprécier le moment ?"
+msgstr "Anın tadını çıkarmaya iznim yok mu?"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "tc10c78a3c4"
+msgid "Aller !"
+msgstr "Hadi ama!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t9b4954aa87"
+msgid "Aller !"
+msgstr "Hadi ama!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "tf124775777"
+msgid "C'est bon me voilà..."
+msgstr "Pekala, işte buradayım."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "tc8312e24e3"
+msgid "Je jouis !"
+msgstr "Ben boşalıyoruum!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "tb602c5efbe"
+msgid "Satisfaite ?"
+msgstr "Tatmin oldun mu?"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t41aa53a63f"
+msgid "Oui... J'ai encore les jambes qui tremblent."
+msgstr "Evet... Bacaklarım hala titriyor."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t9a31e67d1e"
+msgid "Non mais ça t'arrive jamais d'être épuisé ?"
+msgstr "Sen hiç yorulmaz mısın?"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t83eabb5726"
+msgid "Non."
+msgstr "Asla."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "tfe303cf97f"
+msgid "Dépêche-toi !"
+msgstr "Acele et!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t55c6f9e6ff"
+msgid "Je n'ai pas le droit de profiter de l'instant ?"
+msgstr "Anın tadını çıkarmaya iznim yok mu?"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t73e146c31c"
+msgid "C'est bon à présent ?"
+msgstr "Şimdi iyi mi?"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "tc2b1a3ae76"
+msgid "Prends-moi fort !"
+msgstr "Bana daha sert ol!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t8dc2b2e9d9"
+msgid "Oui comme ça, continue !"
+msgstr "Evet böyle, devam et!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t936b7ea322"
+msgid "Oh mon dieu !"
+msgstr "Aman Tanrım!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t46c08473f6"
+msgid "...[w] Je veux ré-essayer."
+msgstr "...[w]Tekrar yapmak istiyorum."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "td41137fc8e"
+msgid "Je plaisantais ! Allez !"
+msgstr "Şaka yapıyordum. Hadi ama!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_0bf3ffe0"
+msgid "IL NE POURRA SE SORTIR DE CETTE SITUATION S'IL EST CONSTAMMENT SURPROTÉGÉ !"
+msgstr "EĞER SÜREKLI AŞIRI KORUNURSA BU DURUMDAN KURTULAMAZ!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_a7153541"
+msgid "LE METTRE EN DANGER N'EST PAS UNE SOLUTION NON PLUS !"
+msgstr "ONU TEHLIKEYE ATMAK DA ÇÖZÜM DEĞIL!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_ff63257f"
+msgid "TU FAIS QUOI SI L'UN DE CES TROIS IDIOTS SORT UN COUTEAU ET..."
+msgstr "EĞER O ÜÇ SALAKTAN BIRI BIÇAK ÇEKIP..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_c3703306"
+msgid "Désolée..."
+msgstr "Üzgünüm.."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_8dbc4975"
+msgid "Pfff si tu veux..."
+msgstr "Pfff, nasıl istersen..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_f0b633f9"
+msgid "Arrêtez de vous mêler de mes affaires !"
+msgstr "İşime karışmayı bırak!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_e701ac91"
+msgid "Si vous devez vous fâcher toutes les deux à cause de moi je préfère encore me débrouiller seul."
+msgstr ""
+"Eğer benim yüzümden birbirinize kızacaksanız, tek başıma olmayı tercih "
+"ederim."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_c32bd976"
+msgid "Bon... Je peux savoir ce qui se p-"
+msgstr "Şey... Neler olduğunu öğrenmeye dayanabilirim."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_cb628197"
+msgid "C'est moi !"
+msgstr "Benim!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_13292e4b"
+msgid "Je ne suis pas sûr de comprendre... Pourquoi ce serait ta faute ?"
+msgstr "Anladığımdan emin değilim. Neden senin suçun olsun ki?"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_438dad13"
+msgid "C'est parce que je leur ai demandé de le faire."
+msgstr "Çünkü onlardan bunu yapmalarını ben istemiştim."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_236905ba"
+msgid "Ce qui explique pourquoi {{asami.n}} s'est mise en colère. Je comprend mieux a présent."
+msgstr "Bu {{asami.n}}'in neden kızdığını açıklıyor. Şimdi anlıyorum."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_41aedebf"
+msgid "Je veux une explication sinon crois moi j'en ai terminé avec toi."
+msgstr "Bir açıklama istiyorum. Yoksa inan bana, seninle işim biter."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_b788d0f7"
+msgid "...Je... J'en avais plus qu'assez..."
+msgstr "...Ben... Ben bıkmıştım."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_fb0870e4"
+msgid "Tu te fais harceler depuis tellement longtemps, tu ne disais rien a personne."
+msgstr "Çok uzun süredir zorbalanıyordun ama kimseye bir şey söylemiyordun."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_7200eb5a"
+msgid "Tu t'es laissé faire en pensant que ça passerait avec le temps."
+msgstr "Zamanla geçeceğini düşünerek sustun."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_08ff9204"
+msgid "Je voulais que tu réagisses... Que pour une fois tu puisses faire face."
+msgstr "Direnmeni istedim. Böylece bir kez olsun kendini koruyabilirdin."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_e21dc606"
+msgid "Alors..."
+msgstr "Yani..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_f22f2d10"
+msgid "J'ai demandé aux thugs de te mener la vie dure pour qu'un jour tu prennes confiance en toi et que tu t'affirmes."
+msgstr ""
+"Haydutlardan hayatı senin için zorlaştırmalarını istedim ki bir gün kendine "
+"güvenin gelsin ve kendini savunabilesin."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_7999945b"
+msgid "Ces trois idiots ne valent rien !"
+msgstr "O üç salak beş para etmez!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_e9bd6bd0"
+msgid "Facile à dire..."
+msgstr "Senin için söylemesi kolay."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_ad2285e9"
+msgid "ILS NE VALENT RIEN !"
+msgstr "ONLAR DEĞERSIZ!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_cc4ca906"
+msgid "Je ne sais pas pourquoi tu es si effrayé par eux mais ils ne sont rien..."
+msgstr "Onlardan neden bu kadar korktuğunu anlamıyorum! Onlar bir hiç..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_67f017b0"
+msgid "Bref... J'en ai assez entendu pour aujourd'hui je crois."
+msgstr "Her neyse. Bugünlük bu kadar yeter sanırım."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_fb95b21e"
+msgid "Je vais...[w] J'ai besoin de faire le point."
+msgstr "Ben...[w] Bütün bunları düşünmem gerekiyor."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_8f035b01"
+msgid "Non ! Ne pars pas !"
+msgstr "Hayır! Hayır! Gitme!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_e196db52"
+msgid "J'ai été odieuse je le sais, a cause de moi tu as souffert mais je voulais seulement arranger les choses, je voulais..."
+msgstr ""
+"Nefret doluydum, biliyorum ve benim yüzümden acı çektin, ama ben sadece "
+"işleri yoluna koymak istedim! İstedim ki..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_6fa2a78d"
+msgid "Laisse moi faire le tri dans mes idées et je te promets que que ça ira mieux demain."
+msgstr ""
+"Düşüncelerimi toparlamama izin ver, söz veriyorum yarın daha iyi olacak."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_f4a3689b"
+msgid "Merde... Si j'avais su tout ça avant..."
+msgstr "Kahretsin... Bunu daha önce bilseydim."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_18a5829e"
+msgid "Quoi ?! Mais... Je croyais que tu allais juste..."
+msgstr "Ne?! Ama... Ben senin sadece..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_78e4fd33"
+msgid "Comment tu as pu penser un truc pareil ?"
+msgstr "Böyle bir şeyi nasıl düşünebilirsin?"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_0b7519e0"
+msgid "Je me le demande...[w] Et donc ? Pourquoi tu es... nue ?"
+msgstr "Merak ediyorum... [w] Yani? Neden çıplaksın?"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_0cb72bb2"
+msgid "Tu vas bien manger mais pas ce que tu croyais.."
+msgstr "Bir şeyler yiyeceksin, ama pastayı değil..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_695320b8"
+msgid "J'ai pas envie de jouer a ça {{noriko.n}} !"
+msgstr "Oyun oynamayı bırak, {{noriko.n}}!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_6bf1a80d"
+msgid "Ah oui ? Tu es sur de toi, c'est probablement ta seule chance..."
+msgstr "Gerçekten mi? Emin misin? Bu muhtemelen senin tek şansın..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_659c843b"
+msgid "Tu va la saisir ou te comporter comme un lâche une fois de plus ?"
+msgstr "Geliyormusun yoksa yine korkak gibi mi davranacaksın?"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_5852b62f"
+msgid "Mais bordel jusqu'ou tu compte aller pour..."
+msgstr "Ne halt edeceksin..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_f46dbb43"
+msgid "C'est maintenant que tu dois te décider !"
+msgstr "Şimdi karar verme zamanı!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t14df079ce9"
+msgid "Sortir de la chambre"
+msgstr "Yatak odasından çık."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "choice_noriko_cunni_97d407ad"
+msgid "Tu es sur de toi ?"
+msgstr "Emin misin?"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "choice_noriko_cunni_78240909"
+msgid "Tu risques probablement de le regretter tu sais..."
+msgstr "Muhtemelen pişman olacaksın, biliyorsun..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t408003a491"
+msgid "Je ne jouerai pas à tes jeux pervers !"
+msgstr "Senin sapık oyunlarını oynamayacağım!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "tc771d71017"
+msgid "Finalement... Pourquoi pas ?"
+msgstr "Sonunda... Neden olmasın?"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t9493cdfee5"
+msgid "Plonger sa tête entre les cuisses de {{noriko.n}}"
+msgstr "Başını {{noriko.n}}'in bacak arasına sok."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "td96b0485c7"
+msgid "Ces derniers temps tu avais la langue bien pendue."
+msgstr "Son günlerde boşboğazlık edip duruyorsun."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t8aa812a473"
+msgid "Autant rendre ça... utile."
+msgstr "O zaman bunu kullanalım."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t782c2647ba"
+msgid "C'est... pas mal... C'est la première fois que tu fais ça ?"
+msgstr "Fena değil. Bunu ilk kez mi yapıyorsun?"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "tee9d9c26a5"
+msgid "mhhh... oui... ouiiii"
+msgstr "Hmmm... evet, evet!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t1445c48258"
+msgid "Oh bon sang !"
+msgstr "Oh lanet olsun!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t62f9a14f41"
+msgid "Ahhh Ah ça vient !"
+msgstr "Aaaah, geliyorum!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t8260429204"
+msgid "Oh mon dieu oui..."
+msgstr "Aman Tanrım, evet."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t0cf6c1a1fa"
+msgid "Qui aurait cru que tu cachais ce talent ?"
+msgstr "Bu tür bir yeteneği sakladığını kim bilebilirdi?"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t6b92b65428"
+msgid "Tu ne t'es pas fait prier en tout cas."
+msgstr "Zaten bir saniye bile tereddüt etmedin."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t8379656e4a"
+msgid "Peut-être que tu attendais ça depuis longtemps ?"
+msgstr "Belki de uzun zamandır bunu bekliyordun?"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "choice_noriko_cunni_391e7ae0"
+msgid "Hmmm ça suffit !"
+msgstr "Hmmm, bu kadar yeter!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "choice_noriko_cunni_1550b49a"
+msgid "Mais je..."
+msgstr "Ama Ben..."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "asami_truth_d6d5effb"
+msgid "Mais je..."
+msgstr "Ama ben..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "choice_noriko_cunni_c76ed81b"
+msgid "...Encore un peu plus et je lui aurais sauté dessus..."
+msgstr "...Biraz daha uzun olsaydı, üzerine atlardım..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_dcc20267"
+msgid "Non elle n'est pas là visiblement..."
+msgstr "Hayır, orada olmadığı çok açık."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_758bf0c1"
+msgid "Tu cherches {{noriko.n}} mon chéri ?"
+msgstr "{{noriko.n}}'i mi arıyorsun, tatlım?"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_60da636f"
+msgid "Elle n'est pas à la maison ?"
+msgstr "Evde değil mi?"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_ef39e117"
+msgid "Non... Elle est partie tôt ce matin, elle n'avait pas l'air dans son assiette."
+msgstr "Hayır... Bu sabah erkenden ayrıldı. Pek iyi görünmüyordu."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_f1d28687"
+msgid "Je suis inquiète, tu crois que tu pourrais...?"
+msgstr "Endişeleniyorum. Sen biliyormusun...?"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_00719994"
+msgid "Je m'en occupe !"
+msgstr "Ben halledeceğim!"
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "tc560d7eed2"
+msgid "Non ! Je ne veux pas, c'est hors de question !"
+msgstr "Hayır! İstemiyorum, söz konusu bile olamaz!"
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "t146e392351"
+msgid "Je... j'ai réfléchi et c'est non !"
+msgstr "Ben... Ben bunu düşündüm ve hayır."
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "t6e796be6de"
+msgid "Désolé mais ce n'était pas une question, juste de la rhétorique."
+msgstr "Bu bir soru değildi, tamamen retorikti."
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "t49c49212d2"
+msgid "Il est évident que tu acceptes !"
+msgstr "Belli ki kabul edeceksiniz."
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "t5dee050404"
+msgid "Une fois que tu aura gagné sa confiance alors nous pourrons commencer."
+msgstr "Onun güvenini kazandıktan sonra başlayabileceğiz."
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "t392c988515"
+msgid "Je comprend."
+msgstr "Anlıyorum."
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "t1ea44ade22"
+msgid "J'ai aucune idée de comment l'aider dans son rêve..."
+msgstr "Ona bu hayalinde nasıl yardım edeceğimi bilmiyorum."
+
+#: game/story/home_asami_asami_room.dialogue
+msgctxt "home_asami_asami_room_ec8e6ef7"
+msgid "Pfff... Quelle situation nulle !"
+msgstr "Pfff... Bu durum berbat!"
+
+#: game/story/home_asami_asami_room.dialogue
+msgctxt "home_asami_asami_room_ee95d5b9"
+msgid "Je comprends pas comment j'en suis arrivée là !"
+msgstr "Buraya nasıl geldiğimi anlamıyorum!"
+
+#: game/story/home_asami_asami_room.dialogue
+msgctxt "home_asami_asami_room_a18e7070"
+msgid "Ma chérie, tout va bien ?"
+msgstr "Hayatım, her şey yolunda mı?"
+
+#: game/story/home_asami_asami_room.dialogue
+msgctxt "home_asami_asami_room_523bebc0"
+msgid "C'est juste un choix compliqué et je ne m'en sors pas..."
+msgstr ""
+"Sadece yapmam gereken karmaşık bir seçim var ve ben bunun üstesinden "
+"gelemiyorum..."
+
+#: game/story/home_asami_asami_room.dialogue
+msgctxt "home_asami_asami_room_bef97d0f"
+msgid "Une amie ?"
+msgstr "Arkadaşın mı?"
+
+#: game/story/home_asami_asami_room.dialogue
+msgctxt "home_asami_asami_room_75507adf"
+msgid "Merci beaucoup madame, je vais prendre le relais !"
+msgstr "Çok teşekkür ederim, hanımefendi! Bundan sonrasını ben hallederim!"
+
+#: game/story/home_asami_asami_room.dialogue
+msgctxt "home_asami_asami_room_a3efa4b0"
+msgid "C'est {{sayuri.n}}, madame c'est trop... Bref ! Ravie d'avoir fait ta connaissance."
+msgstr ""
+"Bu {{sayuri.n}}; 'hanımefendi' çok fazla... Her neyse! Tanıştığımıza memnun "
+"oldum."
+
+#: game/story/home_asami_asami_room.dialogue
+msgctxt "home_asami_asami_room_f5459b45"
+msgid "C'est vraiment sympa ici, j'aime beaucoup !"
+msgstr "Burası gerçekten çok güzel. Hoşuma gitti!"
+
+#: game/story/home_asami_asami_room.dialogue
+msgctxt "home_asami_asami_room_4543f9cf"
+msgid "T'es la fille qui traînait avec {{minato.n}} hier près du canal."
+msgstr "Sen dün kanalda {{minato.n}} ile takılan kızsın."
+
+#: game/story/home_asami_asami_room.dialogue
+msgctxt "home_asami_asami_room_2b840516"
+msgid "Tu es qui exactement pour lui ?"
+msgstr "Sen tam olarak kimsin?"
+
+#: game/story/home_asami_asami_room.dialogue
+msgctxt "home_asami_asami_room_2eed7b0c"
+msgid "Quelqu'un qui ne te veut que du bien..."
+msgstr "Senin için sadece iyi şeyler isteyen biri..."
+
+#: game/story/home_asami_asami_room.dialogue
+msgctxt "home_asami_asami_room_e8fce8f6"
+msgid "Alors, tu as pris une décision ?"
+msgstr "Peki, bir karar verdiniz mi?"
+
+#: game/story/home_asami_asami_room.dialogue
+msgctxt "home_asami_asami_room_ae147d17"
+msgid "... Je ne sais pas trop, j'ai désiré ça depuis si longtemps et maintenant que je l'ai, je ne suis plus sûre d'en vouloir."
+msgstr ""
+"...Gerçekten bilmiyorum. Bunu çok uzun zamandır istiyordum, ama şimdi sahip "
+"olduğuma göre, artık istediğimden emin değilim."
+
+#: game/story/home_asami_asami_room.dialogue
+msgctxt "home_asami_asami_room_dbd63f36"
+msgid "Je constate que tu es sur la bonne voie..."
+msgstr "Görüyorum ki doğru yoldasın."
+
+#: game/story/home_asami_asami_room.dialogue
+msgctxt "home_asami_asami_room_4c92cb72"
+msgid "Mais j'aimerais néanmoins que tu écoutes ça."
+msgstr "Ama yine de bunu dinlemenizi istiyorum."
+
+#: game/story/home_asami_asami_room.dialogue
+msgctxt "home_asami_asami_room_b9284e40"
+msgid "Un petit enregistrement. Ça te sera sûrement très utile."
+msgstr "Küçük bir kayıt. Sizin için kesinlikle çok faydalı olacaktır."
+
+#: game/story/home_asami_asami_room.dialogue
+msgctxt "home_asami_asami_room_a646827f"
+msgid "Toutefois j'ai une condition... Détruis-le après l'avoir écouté."
+msgstr "Ancak, bir şartım var. Dinledikten sonra yok edin."
+
+#: game/story/home_asami_asami_room.dialogue
+msgctxt "home_asami_asami_room_fe73a7a5"
+msgid "On dirait un truc d'espions..."
+msgstr "Bir casus filminden fırlamış gibi görünüyor."
+
+#: game/story/home_asami_asami_room.dialogue
+msgctxt "home_asami_asami_room_9ee1d2c9"
+msgid "C'est à peu près ça, mais j'aurais des ennuis si ça s'apprend donc promets-le moi."
+msgstr "Hepsi bu kadar, ama biri öğrenirse başım belaya girer, söz ver bana."
+
+#: game/story/home_asami_asami_room.dialogue
+msgctxt "home_asami_asami_room_9c702275"
+msgid "Alors... Voyons ça..."
+msgstr "Yani... Bir göz atalım."
+
+#: game/story/home_asami_asami_room.dialogue
+msgctxt "home_asami_asami_room_520326bd"
+msgid "Peu importe, montre-moi celui que tu préfères."
+msgstr "Her şey olabilir. En çok hangisini sevdiğini göster."
+
+#: game/story/home_asami_asami_room.dialogue
+msgctxt "home_asami_asami_room_3cf5a21e"
+msgid "Oui mais... C'est un jeu solo, donc ça va pas être drôle si tu passes ton temps à regarder."
+msgstr ""
+"Tamam, ama... Bu tek kişilik bir oyun, bu yüzden tüm zamanınızı izleyerek "
+"geçirirseniz eğlenceli olmayacaktır."
+
+#: game/story/home_asami_asami_room.dialogue
+msgctxt "home_asami_asami_room_678df1d6"
+msgid "Que penses-tu d'un petit bomberman ?"
+msgstr "Bomberman'e ne dersin?"
+
+#: game/story/home_asami_asami_room.dialogue
+msgctxt "home_asami_asami_room_18c21cb3"
+msgid "Ah ! Ça ça me parle ! Très bon choix !"
+msgstr "Ah! Bunu biliyorum! Bu iyi bir seçim!"
+
+#: game/story/home_asami_asami_room.dialogue
+msgctxt "home_asami_asami_room_bef49bc0"
+msgid "Mon amour pourquoi es-tu entré dans cette maison ?"
+msgstr "Sevgilim, neden bu eve girdin?"
+
+#: game/story/home_asami_asami_room.dialogue
+msgctxt "home_asami_asami_room_dae2e233"
+msgid "C'est qui cette fille ?!"
+msgstr "Bu kız da kim?!"
+
+#: game/story/home_asami_asami_room.dialogue
+msgctxt "home_asami_asami_room_d0a47177"
+msgid "Je suis sûre qu'elle en a après lui !"
+msgstr "Eminim onun peşindedir!"
+
+#: game/story/home_asami_asami_room.dialogue
+msgctxt "home_asami_asami_room_fc6a8dba"
+msgid "{{saito.n}} est à moi et à personne d'autre !"
+msgstr "{{saito.n}} benim ve sadece benim!"
+
+#: game/story/home_asami_asami_room.dialogue
+msgctxt "home_asami_asami_room_60271c6f"
+msgid "Ahhh c'est juste que... ça fait longtemps, laisse-moi retrouver mes réflexes !"
+msgstr "Ahhh, sadece... Uzun zaman oldu, reflekslerimi geri kazanmama izin ver!"
+
+#: game/story/home_asami_asami_room.dialogue
+msgctxt "home_asami_asami_room_d3d69929"
+msgid "Pas de soucis grand-père !"
+msgstr "Sorun değil, büyükbaba!"
+
+#: game/story/home_asami_asami_room.dialogue
+msgctxt "home_asami_asami_room_f110498d"
+msgid "Insolente !"
+msgstr "Ne kadar küstahça!"
+
+#: game/story/home_asami_asami_room.dialogue
+msgctxt "home_asami_asami_room_f3f0c139"
+msgid "Au fait pourquoi tu t'es assis aussi loin de moi ?"
+msgstr "Bu arada, neden benden bu kadar uzakta oturdun?"
+
+#: game/story/home_asami_asami_room.dialogue
+msgctxt "home_asami_asami_room_9d723b0b"
+msgid "Oh je..."
+msgstr "Oh, ben..."
+
+#: game/story/home_asami_asami_room.dialogue
+msgctxt "home_asami_asami_room_02024b09"
+msgid "NON NON NON !"
+msgstr "HAYIR HAYIR HAYIR!"
+
+#: game/story/home_asami_asami_room.dialogue
+msgctxt "home_asami_asami_room_3ad4cb3e"
+msgid "Écarte-toi de lui tout de suite !"
+msgstr "Hemen ondan uzaklaş!"
+
+#: game/story/home_asami_asami_room.dialogue
+msgctxt "home_asami_asami_room_5eb007a4"
+msgid "C'est qui cette folle ?"
+msgstr "Kim bu ucube?"
+
+#: game/story/home_asami_asami_room.dialogue
+msgctxt "home_asami_asami_room_6ed4cc59"
+msgid "[font_size=14]{{saito.n}} est à moi, t'approche pas de lui sinon...[/font_size]"
+msgstr "[font_size=14]{{saito.n}} benim! Ona yaklaşma, yoksa...[/font_size]"
+
+#: game/story/home_asami_asami_room.dialogue
+msgctxt "home_asami_asami_room_9bd3d4fa"
+msgid "Je rêve ou elle me menace ?!"
+msgstr "Rüya mı görüyorum yoksa beni tehdit mi ediyor?!"
+
+#: game/story/home_asami_asami_room.dialogue
+msgctxt "home_asami_asami_room_fbd82e2f"
+msgid "Elle a gâché notre journée jeu..."
+msgstr "Oyun günümüzü mahvetti."
+
+#: game/story/home_asami_asami_room.dialogue
+msgctxt "home_asami_asami_room_16672cb8"
+msgid "C'est bon... C'est juste une nuisette !"
+msgstr "Sorun değil. Bu sadece bir gecelik!"
+
+#: game/story/home_asami_asami_room.dialogue
+msgctxt "home_asami_asami_room_fbdc6eba"
+msgid "Qu'est-ce que tu fais la ? Tu voulais te mater un film avec moi ?"
+msgstr "Ne yapıyorsun burada? Benimle film izlemek ister misin?"
+
+#: game/story/home_asami_asami_room.dialogue
+msgctxt "home_asami_asami_room_bfdca012"
+msgid "Écoute... Je... Je pense que notre amitié va un peu trop loin justement et..."
+msgstr "Dinle. I... Arkadaşlığımızın biraz fazla ileri gittiğini düşünüyorum."
+
+#: game/story/home_asami_asami_room.dialogue
+msgctxt "home_asami_asami_room_781ddc0b"
+msgid "Les gens ne mettent pas fin à une amitié comme ça, c'est même plutôt rare, à moins de..."
+msgstr "İnsanlar arkadaşlıklarını böyle bitirmezler. Aslında oldukça nadirdir."
+
+#: game/story/konbini_exterior.dialogue
+msgctxt "konbini_exterior_ad4cbbaf"
+msgid "Boh c'est rien t'en fais pas, juste le quotidien."
+msgstr "Önemli bir şey değil, endişelenme. Sadece günlük hayat."
+
+#: game/story/konbini_exterior.dialogue
+msgctxt "konbini_exterior_d2d8fa20"
+msgid "Tu es sûre ? Tu ne me caches rien ?"
+msgstr "Emin misin? Bir şey saklamıyorsun, değil mi?"
+
+#: game/story/konbini_exterior.dialogue
+msgctxt "konbini_exterior_eb0ab77a"
+msgid "Je n'aime pas savoir que mon chéri souffre en silence sans m'en parler !"
+msgstr ""
+"Sevgilimin bana söylemeden sessizce acı çektiğini bilmek hoşuma gitmiyor!"
+
+#: game/story/konbini_exterior.dialogue
+msgctxt "konbini_exterior_91a539a7"
+msgid "Viens a la maison, je pourrais te dire ce qu'on prévois de faire si ça t'intéresse."
+msgstr "Eve gel, eğer ilgileniyorsan sana ne yapmayı planladığımızı anlatayım."
+
+#: game/story/konbini_exterior.dialogue
+msgctxt "konbini_exterior_4a6f0a42"
+msgid "Pfff une fois de plus..."
+msgstr "Pfff, bir kez daha..."
+
+#: game/story/konbini_exterior.dialogue
+msgctxt "konbini_exterior_8fb2f30c"
+msgid "Oui, j'arrive !"
+msgstr "Tamam, geliyorum!"
+
+#: game/story/konbini_exterior.dialogue
+msgctxt "konbini_exterior_8982bdba"
+msgid "[font_size=14]Ca fera 1500¥...[/font_size]"
+msgstr "[font_size=14]Bu 1500¥ olacak...[/font_size]"
+
+#: game/story/konbini_exterior.dialogue
+msgctxt "konbini_exterior_dcbabbe8"
+msgid "[font_size=14]Hey... Vous n'av-[/font_size]"
+msgstr "[font_size=14]Hey... Sahip değilsin-[/font_size]"
+
+#: game/story/konbini_exterior.dialogue
+msgctxt "konbini_exterior_d9b82a80"
+msgid "[font_size=14]Qu'est-ce que tu comptes faire la vieille ?![/font_size]"
+msgstr "[font_size=14]Ne yapacaksın, yaşlı cadı?[/font_size]"
+
+#: game/story/konbini_exterior.dialogue
+msgctxt "konbini_exterior_bc9811ac"
+msgid "[font_size=14]Tu vas voir si je...[/font_size]"
+msgstr "[font_size=14]Göreceksin eğer...[/font_size]"
+
+#: game/story/konbini_exterior.dialogue
+msgctxt "konbini_exterior_b32d0c10"
+msgid "[font_size=14]Allez a plus la vieille ![/font_size]"
+msgstr "[font_size=14]Görüşürüz, yaşlı bayan![/font_size]"
+
+#: game/story/konbini_exterior.dialogue
+msgctxt "konbini_exterior_b0a2b2d1"
+msgid "[font_size=14]Non ! Reviens ici petit c-[/font_size]"
+msgstr "[font_size=14]Hayır! Buraya gel, seni küçük-[/font_size]"
+
+#: game/story/konbini_exterior.dialogue
+msgctxt "konbini_exterior_c70a2c8a"
+msgid "Ahah... Rien de tel que de manger à l'œil !"
+msgstr "Ahah... Yemeği de beleşe getirdim yine iyiyim!"
+
+#: game/story/konbini_exterior.dialogue
+msgctxt "konbini_exterior_6bca033e"
+msgid "Allez... assez traîner."
+msgstr "Pekala... Gitme vakti geldi."
+
+#: game/story/konbini_exterior.dialogue
+msgctxt "konbini_exterior_c412f2de"
+msgid "Ça va être à toi de jouer, j'espère que tu es déterminé ?"
+msgstr "Şimdi oynama sırası sende. Umarım kararlısındır!"
+
+#: game/story/konbini_exterior.dialogue
+msgctxt "konbini_exterior_8a2e49fd"
+msgid "Oh {{saito.n}}, {{noriko.n}} vous êtes là ?"
+msgstr "Oh, {{saito.n}}, {{noriko.n}}, burada mıydınız?"
+
+#: game/story/konbini_exterior.dialogue
+msgctxt "konbini_exterior_3acd6217"
+msgid "Vous n'auriez pas vu passer un garçon aux cheveux décolorés ?"
+msgstr "Saçları ağarmış bir çocuk görmüş olamazsınız, değil mi?"
+
+#: game/story/konbini_exterior.dialogue
+msgctxt "konbini_exterior_f1fe3103"
+msgid "{{saito.n}} va s'en occuper !"
+msgstr "{{saito.n}} bunun icabına bakacak!"
+
+#: game/story/konbini_exterior.dialogue
+msgctxt "konbini_exterior_e3bc9868"
+msgid "Quoi ?! Vous êtes sûrs ? Ne vous mettez pas en danger pour si peu."
+msgstr "Ne?! Emin misin? Bu kadar küçük bir şey için kendini tehlikeye atma."
+
+#: game/story/konbini_exterior.dialogue
+msgctxt "konbini_exterior_102e657f"
+msgid "Ce gamin a juste besoin qu'on lui enseigne le respect."
+msgstr "Bu çocuğa birinin saygı öğretmesi gerekiyor."
+
+#: game/story/konbini_exterior.dialogue
+msgctxt "konbini_exterior_561fc26a"
+msgid "Je te rapporterai ce qu'il te doit."
+msgstr "Sana olan borcunu geri alacağım."
+
+#: game/story/konbini_exterior.dialogue
+msgctxt "konbini_exterior_6112cdbb"
+msgid "C'est bientôt terminé de toute façon..."
+msgstr "Neredeyse bitti zaten."
+
+#: game/story/konbini_exterior.dialogue
+msgctxt "konbini_exterior_cc88fd33"
+msgid "Je sais...[w] Alors où va-t-on ?"
+msgstr "Biliyorum...[w] Peki nereye gidiyoruz?"
+
+#: game/story/konbini_exterior.dialogue
+msgctxt "konbini_exterior_f12e4980"
+msgid "Mais ! C'est à côté de..."
+msgstr "Ama...! Bu hemen yanında."
+
+#: game/story/restaurant_sakuya_room.dialogue
+msgctxt "t6b20079ee9"
+msgid "Refuser les avances de {{sakuya.n}}."
+msgstr "{{sakuya.n}}'ın tekliflerini reddet."
+
+#: game/story/restaurant_sakuya_room.dialogue
+msgctxt "restaurant_sakuya_room_7f387350"
+msgid "Tu ne veux toujours pas de moi ?"
+msgstr "Hala beni istemiyor musun?"
+
+#: game/story/restaurant_sakuya_room.dialogue
+msgctxt "restaurant_sakuya_room_37536662"
+msgid "Pourtant je t'assure que tu ne le regretterais pas."
+msgstr "Seni temin ederim, pişman olmayacaksınız."
+
+#: game/story/restaurant_sakuya_room.dialogue
+msgctxt "restaurant_sakuya_room_41de9b74"
+msgid "Je... je ne me sens pas encore prêt !"
+msgstr "Ben... Henüz hazır hissetmiyorum!"
+
+#: game/story/restaurant_sakuya_room.dialogue
+msgctxt "restaurant_sakuya_room_768d4d7e"
+msgid "Comme tu voudras mais tu finiras bien par céder à un moment ou à un autre."
+msgstr "Nasıl istersen, ama sonunda bir noktada pes edeceksin."
+
+#: game/story/restaurant_sakuya_room.dialogue
+msgctxt "restaurant_sakuya_room_29cada36"
+msgid "Alors mon amour, tu es décidé à sauter le pas avec moi ?"
+msgstr "Ee aşkım, benimle birlikte dalmaya karar verdin mi?"
+
+#: game/story/restaurant_sakuya_room.dialogue
+msgctxt "restaurant_sakuya_room_f9a793b1"
+msgid "Je... Non..."
+msgstr "Ben... Hayır..."
+
+#: game/story/restaurant_sakuya_room.dialogue
+msgctxt "restaurant_sakuya_room_156a0cd8"
+msgid "Je ne vais plus pouvoir me satisfaire de cette réponse."
+msgstr "Bu cevapla daha fazla tatmin olamayacağım."
+
+#: game/story/restaurant_sakuya_room.dialogue
+msgctxt "restaurant_sakuya_room_bb41d11a"
+msgid "Aller, laisse-moi descendre cette braguette..."
+msgstr "Hadi, uçmaya geri dönelim."
+
+#: game/story/restaurant_sakuya_room.dialogue
+msgctxt "restaurant_sakuya_room_8201282f"
+msgid "Oh je constate que ton corps est plus réceptif à mon contact."
+msgstr "Vücudunun dokunuşlarıma oldukça açık olduğunu fark ediyorum."
+
+#: game/story/restaurant_sakuya_room.dialogue
+msgctxt "restaurant_sakuya_room_7919dec8"
+msgid "[font_size=14]Ma chérie ! J'ai besoin de toi en bas, on a du monde. Dépêche-toi ![/font_size]"
+msgstr ""
+"[font_size=14]Tatlım! Sana aşağıda ihtiyacım var! Bir sürü müşteri var, "
+"acele et![/font_size]"
+
+#: game/story/restaurant_sakuya_room.dialogue
+msgctxt "restaurant_sakuya_room_629b781e"
+msgid "Peut-être réussiras-tu à me mettre enceinte rapidement ? Ou peut-être devrons-nous essayer tous les jours aussi longtemps que nécessaire ?"
+msgstr ""
+"Belki beni hemen hamile bırakabilirsin? Ya da belki de gerektiği kadar uzun "
+"süre her gün denemek zorunda kalacağız?"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "tc3f49edc1f"
+msgid "Je voulais devenir une idole..."
+msgstr "Bir idol olmak istiyordum."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "t54df850f11"
+msgid "Mais... Quel genre d'idole exactement ?"
+msgstr "Ama... Ne tür bir idol?"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "t3eb455b673"
+msgid "Oh euh... À la même chose !"
+msgstr "Oh, şey... aynı türden!"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "te90c81789c"
+msgid "Ce type est vraiment une pourriture."
+msgstr "Bu adam gerçekten iğrenç."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "t5ca79f2e84"
+msgid "Tu semble surpris ? Tu penses que je n'en suis pas capable ?"
+msgstr "Şaşırmış görünüyorsun. Bunu yapabileceğimi düşünmüyor musun?"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "t2e093246df"
+msgid "Au contraire je pense que tu t'es fixée un objectif assez ambitieux !"
+msgstr "Hiç de değil, oldukça hırslı olduğunu düşünüyordum."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "t07fdbdf3c8"
+msgid "S'il avait les contacts, pourquoi avoir rejeté {{akira.n}} dans ce cas ?"
+msgstr "Eğer doğru kişileri tanıyorsa, neden {{akira.n}}'yı reddettin?"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "td961876521"
+msgid "Heureusement, tu es arrivé."
+msgstr "Neyse ki sen geldin."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "t135b5bfd98"
+msgid "Je n'embrasserais qu'une seule personne, uniquement celle que j'aurai choisie et pas celle qu'on m'aura imposé."
+msgstr ""
+"Sadece bir kişiyi öpeceğim, ve sadece kendi seçtiğim kişiyi. Beni zorlayan "
+"birini değil."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "ta169c85ffe"
+msgid "Aide-moi à devenir une idole."
+msgstr "Bir idol olmama yardım et."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "td1db4f68a7"
+msgid "Ce qui s'est passé avec {{akira.n}} m'a fait prendre conscience d'une chose, c'est que je ne peux pas faire confiance à n'importe qui."
+msgstr ""
+"{{akira.n}} ile olanlar bir şeyin farkına varmamı sağladı, kimseye öylece "
+"güvenemem."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "t65622948df"
+msgid "Je ne connais pas le métier d'idole non plus, mais je sais que je peux avoir confiance en toi."
+msgstr ""
+"İdollerin nasıl çalıştığını ben de bilmiyorum ama sana güvenebileceğimi "
+"biliyorum."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "t9947423675"
+msgid "Une fois le contrat signé elle pas dû avoir le choix que de continuer et avec les vidéos ils pouvaient la faire chanter."
+msgstr ""
+"Sözleşme imzalandıktan sonra, devam etmekten başka seçeneği yoktu ve "
+"videolarla ona şantaj yapmışlardı."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "tb74ac426ea"
+msgid "Merci infiniement, je me réjouis de travailler avec toi !"
+msgstr "Çok teşekkür ederim, seninle çalışmaktan çok memnunum!"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "home_player_exterior_954b6209"
+msgid "Tiens... Je me demande si {{asami.n}} a écouté mes conseils au final."
+msgstr "Şey... Acaba {{asami.n}} tavsiyemi dinledi mi?"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "home_player_exterior_a71605eb"
+msgid "Quand je repense au comportement suspect de {{minato.n}} je m'en voudrais presque."
+msgstr ""
+"{minato.n}'in şüpheli davranışlarını düşündüğümde neredeyse kendimi "
+"suçluyorum."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "home_player_exterior_8170a373"
+msgid "Je devrais peut-être aller voir discrètement si tout se passe bien...."
+msgstr ""
+"Belki de gidip her şeyin yolunda gidip gitmediğini gizlice kontrol "
+"etmeliyim..."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "home_player_exterior_d6482803"
+msgid "Nous y voilà ! C'est ici que j'habite !"
+msgstr "İşte buradayız! Burası benim yaşadığım yer!"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "home_player_exterior_b564ad20"
+msgid "Drôle de façon de présenter sa maison."
+msgstr "Evini tanıtmak için komik bir yol."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "home_player_exterior_bb00f4bf"
+msgid "Oh... Désolée d'apprendre ça."
+msgstr "Oh... Bunu duyduğuma üzüldüm."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "home_player_exterior_11cf9f02"
+msgid "Ne t'inquiète pas, je crois que j'y ai gagné au change."
+msgstr "Merak etme, bence iyi bir anlaşmaydı."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "home_player_exterior_943afcfd"
+msgid "Par contre...[w] Fais attention à {{noriko.n}}, elle me pourrit la vie depuis toujours et ne crois pas un mot de ce qu'elle te dira sur moi !"
+msgstr ""
+"Öte yandan...[w] {{noriko.n}}'e dikkat et. O her zaman hayatımı mahvetti ve "
+"benim hakkımda söylediği tek bir kelimeye bile inanmamalısın!"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "home_player_exterior_76af1c04"
+msgid "Okay... J'ai de plus en plus envie de la connaître à présent."
+msgstr "Tamam. Şimdi onu tanımakla daha çok ilgileniyorum."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "home_player_exterior_34b28526"
+msgid "Tu le regretteras !"
+msgstr "Pişman olacaksın!"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "home_player_exterior_cc2f4d67"
+msgid "Mais bordel quel enfoiré !"
+msgstr "Lanet olsun, ne göt herifsin!"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "home_player_exterior_76f59bfd"
+msgid "Depuis tout ce temps il se foutait de ma gueule !"
+msgstr "Bunca zamandır benimle dalga geçiyordun!"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "t396308f0d9"
+msgid "C'était vrai ton rêve de devenir une idole ?"
+msgstr "Bir idol olma hayalin gerçek mi?"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "te4ce61a6e4"
+msgid "Mais au final..."
+msgstr "Ama sonunda."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "tc81e642eed"
+msgid "De plus... tu as changé..."
+msgstr "Dahası, sen değiştin."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "teeab4ccfff"
+msgid "Attends une seconde... Depuis combien de temps tu m'espionnes ?"
+msgstr "Bekle bir dakika. Ne zamandır beni gözetliyorsun?"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "home_player_exterior_77d76f9b"
+msgid "Je ne me serais pas fâchée... mais j'aurais beaucoup apprécié faire sa connaissance."
+msgstr "Kızmazdım. Ama onu tanımaktan gerçekten zevk alırdım."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "home_player_exterior_87d02f80"
+msgid "Ce n'est pas comme si j'avais voulu te le cacher."
+msgstr "Senden saklamak istediğimden değil."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "home_player_exterior_a2fb5444"
+msgid "Vraiment ?[w] Mais c'est qui ?"
+msgstr "Gerçekten mi? Kim o?"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "asami_truth_0c02cc8c"
+msgid "Je savais que vous étiez amis... Alors je me suis dit que ça ne te dérangerait pas."
+msgstr ""
+"İkinizin arkadaş olduğunu biliyordum. Bu yüzden sorun etmeyeceğini düşündüm."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "asami_truth_2e8b9276"
+msgid "Donc ça ne me dérange pas de te partager..."
+msgstr "Bu yüzden seninle paylaşmaktan çekinmiyorum."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "asami_truth_d17d8079"
+msgid "Oh tu devrais peut-être tenter ta chance ma chérie !"
+msgstr "Belki de şansını denemelisin, tatlım!"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "asami_truth_41aac39e"
+msgid "Il y a bien trop de concurrence pour moi !"
+msgstr "Benim için çok fazla rekabet var!"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "asami_truth_00453ba9"
+msgid "Ne sois pas si impatient, ça nécessite un peu de préparation."
+msgstr "Bu kadar sabırsız olma. Biraz hazırlık gerekiyor."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "asami_truth_c9985ca3"
+msgid "Rejoins-moi dans ma chambre demain en fin d'après midi et tu verras bien..."
+msgstr "Yarın akşam odama gelin, göreceksiniz."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "asami_truth_55099618"
+msgid "Besoins de préparation ?"
+msgstr "Hazırlık mı istiyorsun?"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "asami_truth_53520d54"
+msgid "Ne me dites pas qu'elle va tenter de cuisiner quelque chose pour moi ?"
+msgstr "Benim için bir şeyler pişirmeye çalışacağını söyleme sakın."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "asami_truth_0f113e38"
+msgid "Tiens qu'est-ce que tu fais là ?"
+msgstr "Hey, burada ne yapıyorsun?"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "asami_truth_0f3fce43"
+msgid "Je crois qu'il y a un problème... Je vais aller la chercher."
+msgstr "Sanırım bir sorun var. Gidip onu getireyim."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "asami_truth_215d0806"
+msgid "Enfin ! Je commençais à m'ennuyer à mourir ! Tu veux un coup de main ?"
+msgstr "Nihayet! Sıkıntıdan ölmeye başlamıştım! Yardım ister misin?"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "asami_truth_3d7fec40"
+msgid "Non, ne t'en fais pas, je sais où elle se trouve..."
+msgstr "Hayır, merak etme. Nerede olduğunu biliyorum."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "asami_truth_d59c6ff7"
+msgid "Demain nous pourrons enfin passer du temps ensemble."
+msgstr "Yarın, nihayet birlikte vakit geçirebileceğiz."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "asami_truth_03572045"
+msgid "Mhh... D'accord... J'espère juste que ce n'est pas trop grave."
+msgstr "Mmm... Pekala... Umarım çok ciddi bir şey değildir."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "asami_truth_e6c30045"
+msgid "Ça ira, cette fois-ci je peux l'aider !"
+msgstr "Sorun yok, bu sefer ona yardım edebilirim!"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "asami_truth_0d7b9a51"
+msgid "Dans ce cas... A demain sans faute !"
+msgstr "Peki o zaman. Yarın kesinlikle görüşürüz!"
+
+#: game/story/love_hotel_exterior.dialogue
+msgctxt "love_hotel_exterior_bfcda05a"
+msgid "Putain... TOI !!"
+msgstr "Siktir... GİT!!"
+
+#: game/story/love_hotel_exterior.dialogue
+msgctxt "love_hotel_exterior_2806bd16"
+msgid "Ne t'approche pas !"
+msgstr "Daha fazla yaklaşma!"
+
+#: game/story/love_hotel_exterior.dialogue
+msgctxt "love_hotel_exterior_f84b2f16"
+msgid "Tu es donc toujours sous l'effet de cette drogue n'est-ce pas ?"
+msgstr "Hâlâ o ilacın etkisi altındasın, değil mi?"
+
+#: game/story/love_hotel_exterior.dialogue
+msgctxt "love_hotel_exterior_06c16761"
+msgid "C'est la faute de ta folle de copine !"
+msgstr "Bu senin deli kız arkadaşının suçu!"
+
+#: game/story/love_hotel_exterior.dialogue
+msgctxt "love_hotel_exterior_c733153f"
+msgid "{{sakuya.n}} ?[w] Non je ne pense pas..."
+msgstr "{{sakuya.n}}'ın mı?[w] Hayır, sanmıyorum..."
+
+#: game/story/love_hotel_exterior.dialogue
+msgctxt "love_hotel_exterior_b8933dbc"
+msgid "C'est toi qui avais ce truc sur toi."
+msgstr "Üzerinde o şey olan sendin."
+
+#: game/story/love_hotel_exterior.dialogue
+msgctxt "love_hotel_exterior_a5417e4d"
+msgid "Tout ce qu'il s'est passé est juste un retour de karma."
+msgstr "Olan her şey sadece karmik bir intikamdı."
+
+#: game/story/love_hotel_exterior.dialogue
+msgctxt "love_hotel_exterior_b7f222e0"
+msgid "T'approche pas bordel !"
+msgstr "Lanet olsun! Daha fazla yaklaşma!"
+
+#: game/story/love_hotel_exterior.dialogue
+msgctxt "love_hotel_exterior_4a67b980"
+msgid "Tu ne vas pas pouvoir t'empêcher de venir me suc-"
+msgstr "Benimkini emmekten kendini alıkoyamayacaksın."
+
+#: game/story/love_hotel_exterior.dialogue
+msgctxt "love_hotel_exterior_41cc89af"
+msgid "Putain ta gueule ! STOP ! Arrête ça !"
+msgstr "Kapa çeneni! DUR! Dur dedim!"
+
+#: game/story/love_hotel_exterior.dialogue
+msgctxt "love_hotel_exterior_690bf5cc"
+msgid "Si tu veux que j'arrête c'est simple... Sors de ma vie, de celle de {{noriko.n}} et de {{yasuka.n}}."
+msgstr ""
+"Eğer durmamı istiyorsan, çok basit. Hayatımdan ve {{noriko.n}} ile {{yasuka."
+"n}}'ın hayatlarından çık."
+
+#: game/story/love_hotel_exterior.dialogue
+msgctxt "love_hotel_exterior_2a40481d"
+msgid "Tu nous oublies et on fera de même !"
+msgstr "Siz bizi unutun, biz de aynısını yapalım!"
+
+#: game/story/love_hotel_exterior.dialogue
+msgctxt "love_hotel_exterior_5e59e2b9"
+msgid "Qu'elle profite de sa tranquillité retrouvée si elle le veut."
+msgstr "İsterse yeni bulduğu huzurun tadını çıkarsın."
+
+#: game/story/love_hotel_exterior.dialogue
+msgctxt "love_hotel_exterior_9125a530"
+msgid "De toute façon, ça ne durera pas longtemps."
+msgstr "Her iki şekilde de uzun sürmez."
+
+#: game/story/love_hotel_exterior.dialogue
+msgctxt "love_hotel_exterior_f70d0b52"
+msgid "Ne crois pas non plus que je ne m'en prendrais plus jamais à toi... Je trouverai une solution pour me débarrasser de... ça !"
+msgstr ""
+"Bir daha peşine düşmeyeceğimi sanma. Bundan kurtulmak için bir çözüm "
+"bulacağım!"
+
+#: game/story/love_hotel_exterior.dialogue
+msgctxt "love_hotel_exterior_ecd12cf6"
+msgid "Voilà une bonne chose de faite !"
+msgstr "Bu iyi bir şey!"
+
+#: game/story/love_hotel_exterior.dialogue
+msgctxt "love_hotel_exterior_9a270151"
+msgid "En ce qui concerne les menaces... C'est la routine avec {{akira.n}}."
+msgstr "Tehditlere gelince. Bu {{akira.n}} ile yapılan bir rutin."
+
+#: game/story/love_hotel_exterior.dialogue
+msgctxt "love_hotel_exterior_27641333"
+msgid "Je m'occuperais de ça le moment venu."
+msgstr "O köprüyü oraya vardığımda geçeceğim."
+
+#: game/story/park.dialogue
+msgctxt "t4768c31c6d"
+msgid "[hint=ROUTE REJET/AMITIÉ]Débrouille-toi !"
+msgstr "[hint=REDDET/ARKADAŞLIK ROTASI]Tek başınasın!"
+
+#: game/story/park.dialogue
+msgctxt "asami_choice_498be4ee"
+msgid "Honnêtement j'ai déjà mes propres problèmes à gérer."
+msgstr "Dürüst olmak gerekirse, zaten uğraşmam gereken kendi sorunlarım var."
+
+#: game/story/park.dialogue
+msgctxt "asami_choice_6f8b4342"
+msgid "Et puis je n'ai pas envie d'être un foutu messager."
+msgstr "Ve ben lanet bir elçi olmak istemiyorum."
+
+#: game/story/park.dialogue
+msgctxt "asami_choice_963ccbdb"
+msgid "Donc merci pour la proposition mais non merci."
+msgstr "Teklif için teşekkürler ama hayır."
+
+#: game/story/park.dialogue
+msgctxt "asami_choice_bdf40a8d"
+msgid "Tu es bouché ou quoi ? J'ai dit que je ne voulais pas le perdre en tant qu'ami."
+msgstr ""
+"Sağır falan mısın? Onu bir arkadaş olarak kaybetmek istemediğimi söyledim."
+
+#: game/story/park.dialogue
+msgctxt "asami_choice_6fc18a2f"
+msgid "Si je me déclare et qu'il me repousse j'aurais tout perdu et je n'en ai pas envie !"
+msgstr ""
+"İtiraf edersem ve beni reddederse, her şeyimi kaybederim ve bunu istemiyorum!"
+
+#: game/story/park.dialogue
+msgctxt "asami_choice_59295e18"
+msgid "Donc en fait tu veux le beurre et l'argent du beurre si j'ai bien compris ?"
+msgstr ""
+"Yani doğru anladıysam, aslında her iki şekilde de sahip olmak istiyorsunuz?"
+
+#: game/story/park.dialogue
+msgctxt "asami_choice_d6992f96"
+msgid "Maintenant c'est à toi de voir, tu préfères tenter ta chance aujourd'hui quitte à souffrir un peu ?"
+msgstr ""
+"Artık her şey size bağlı. Biraz acı çekmek anlamına gelse bile bugün "
+"şansınızı denemeyi tercih eder misiniz?"
+
+#: game/story/park.dialogue
+msgctxt "asami_choice_1929ac8d"
+msgid "Ou tu préfères souffrir en silence en gardant tout ce que tu ressens pour toi jusqu'à ce qu'il se trouve quelqu'un ?"
+msgstr ""
+"Yoksa o başka birini bulana kadar hissettiğiniz her şeyi kendinize "
+"saklayarak sessizce acı çekmeyi mi tercih edersiniz?"
+
+#: game/story/park.dialogue
+msgctxt "asami_choice_3e5609a9"
+msgid "Si tu choisis la seconde option ça reste ni plus ni moins que du masochisme."
+msgstr ""
+"Eğer ikinci seçeneği seçersen, bu mazoşizmden başka bir şey olmayacaktır."
+
+#: game/story/park.dialogue
+msgctxt "asami_choice_8a89f7df"
+msgid "Tu n'as pas besoin d'être aussi odieux !"
+msgstr "Bu kadar baş belası olmana gerek yok!"
+
+#: game/story/park.dialogue
+msgctxt "asami_choice_3369c625"
+msgid "[font_size=14]De toute façon tu dois encore me rembourser mon livre ![/font_size]"
+msgstr "[font_size=14]Her neyse, kitabımın parasını hala ödemedin![/font_size]"
+
+#: game/story/park.dialogue
+msgctxt "asami_choice_4aa4959a"
+msgid "T'en penses quoi ? J'ai été si méchant que ça ?"
+msgstr "Ne düşünüyorsun? O kadar kötü müydüm?"
+
+#: game/story/park.dialogue
+msgctxt "asami_choice_587ff2ec"
+msgid "Petit frère... même si le fond était probablement juste, la forme était mauvaise."
+msgstr "Küçük kardeşim. İçerik muhtemelen doğru olsa da, biçim yanlıştı."
+
+#: game/story/park.dialogue
+msgctxt "asami_choice_f702f8ec"
+msgid "Tout le monde peut faire des erreurs, mais il ne faut jamais prendre de haut ceux qui essaient de faire de leur mieux."
+msgstr ""
+"Herkes hata yapabilir, ancak elinden gelenin en iyisini yapmaya çalışanlara "
+"asla tepeden bakmamalısınız."
+
+#: game/story/park.dialogue
+msgctxt "asami_choice_93c78103"
+msgid "Rhaaaa bon sang !"
+msgstr "Ooofff, lanet olsun!"
+
+#: game/story/park.dialogue
+msgctxt "menu_macumba_63fc7d11"
+msgid "Oui mais... Je trouve que je me suis pas mal amélioré ces derniers jours est-ce qu'on pourrait pas..."
+msgstr "Evet, ama... Sanırım son birkaç günde kendimi biraz geliştirdim."
+
+#: game/story/park.dialogue
+msgctxt "menu_macumba_f3f90fd3"
+msgid "Durcir l'entraînement ?"
+msgstr "Daha sıkı çalışalım mı?"
+
+#: game/story/park.dialogue
+msgctxt "menu_macumba_e96087dd"
+msgid "Ce n'est pas l'intensité de l'effort qui te fera le plus progresser mais la régularité de ton entraînement."
+msgstr ""
+"Seni en çok ilerletecek olan şey eforun yoğunluğu değil, antrenmanın "
+"düzenliliğidir."
+
+#: game/story/park.dialogue
+msgctxt "menu_macumba_8f15de15"
+msgid "{{saito.n}} j'aimerais vraiment savoir pourquoi tu te donnes autant de mal."
+msgstr ""
+"{{saito.n}}, neden bu kadar zahmete girdiğinizi gerçekten bilmek isterim."
+
+#: game/story/park.dialogue
+msgctxt "menu_macumba_652f7a8a"
+msgid "Hey petite sœur !"
+msgstr "Hey, küçük kardeşim!"
+
+#: game/story/park.dialogue
+msgctxt "menu_macumba_0abc3615"
+msgid "Ne m'attends pas {{macumba.n}}, je te rejoins dès que possible."
+msgstr "Beni bekleme, {{macumba.n}}. Elimden geldiğince çabuk size katılacağım."
+
+#: game/story/park.dialogue
+msgctxt "menu_macumba_32ea02bb"
+msgid "Prends ton temps petit frère, {{macumba.n}} est là tous les jours."
+msgstr "Acele etme, küçük kardeşim. {{macumba.n}} her gün burada."
+
+#: game/story/park.dialogue
+msgctxt "menu_macumba_9d2b0435"
+msgid "Me dis pas que tu t'es fixé comme objectif d'être aussi musclé que lui ?"
+msgstr "Kendine onun kadar kaslı olma hedefi koyduğunu söyleme sakın."
+
+#: game/story/park.dialogue
+msgctxt "menu_macumba_63426619"
+msgid "T'es bien curieuse je trouve..."
+msgstr "Oldukça meraklısın."
+
+#: game/story/park.dialogue
+msgctxt "menu_macumba_cf648b34"
+msgid "...[w] Peut-être parce que c'est le cas..."
+msgstr "...[w] Belki de öyle olduğu için..."
+
+#: game/story/park.dialogue
+msgctxt "menu_macumba_d0ba0d92"
+msgid "Suis-moi !"
+msgstr "Beni takip et!"
+
+#: game/story/park.dialogue
+msgctxt "menu_macumba_b8a96758"
+msgid "Quoi mais j'-..."
+msgstr "Ne? Ama ben..."
+
+#: game/story/park.dialogue
+msgctxt "menu_macumba_492e99c9"
+msgid "Discute pas et fais-moi confiance !"
+msgstr "Tartışmayı bırak ve bana güven!"
+
+#: game/story/park.dialogue
+msgctxt "menu_macumba_e3196705"
+msgid "Est-ce qu'un jour j'aurais le droit d'en placer une ?"
+msgstr "Ne zaman bir şey söyleyebileceğim?"
+
+#: game/story/park.dialogue
+msgctxt "park_cd456f6e"
+msgid "Hannn hannnn..."
+msgstr "Haaah, haaaahhh..."
+
+#: game/story/park.dialogue
+msgctxt "park_b2a8607e"
+msgid "Alors on crache ses poumons ?"
+msgstr "Akciğerini kesecekmiş gibi görünüyorsun."
+
+#: game/story/park.dialogue
+msgctxt "park_2f7e96ab"
+msgid "Tu en fais une tête, je venais juste prendre des nouvelles..."
+msgstr "Neden yüzün asık? Sadece haber almaya geldim."
+
+#: game/story/park.dialogue
+msgctxt "park_e6dc9666"
+msgid "Comme tu voudras... Je me disais que tu ne devais pas te sentir bien."
+msgstr "Her neyse... Kendini iyi hissetmediğini sanıyordum."
+
+#: game/story/park.dialogue
+msgctxt "park_5e4f0b81"
+msgid "Je m'en moque... Elle est libre de faire ce qu'elle veut, c'est pas comme si je la connaissais depuis longtemps."
+msgstr ""
+"Umurumda değil. İstediğini yapmakta özgür. Zaten onu uzun zamandır "
+"tanımıyorum."
+
+#: game/story/park.dialogue
+msgctxt "park_edf71498"
+msgid "Tu sais que j'ai un don ? Je détecte les menteurs à des kilomètres et là..."
+msgstr ""
+"Benim bir yeteneğim var, biliyor musun? Kilometrelerce öteden yalancıları "
+"tespit edebiliyorum."
+
+#: game/story/park.dialogue
+msgctxt "park_55532e57"
+msgid "Tu es juste en train de mentir mon cher {{saito.n}}."
+msgstr "Ve şu anda yalan söylüyorsun, sevgili {{saito.n}}."
+
+#: game/story/park.dialogue
+msgctxt "park_eef160c2"
+msgid "Fiche-moi la paix !"
+msgstr "Beni rahat bırak!"
+
+#: game/story/park.dialogue
+msgctxt "park_daf43121"
+msgid "Dis-le que ça te fait chier de la voir retourner auprès de lui."
+msgstr "Söyle! Ona geri döndüğünü görmenin seni kızdırdığını söyle."
+
+#: game/story/park.dialogue
+msgctxt "park_29ac74d0"
+msgid "Dis-le que tu aimerais qu'elle soit à tes côtés !"
+msgstr "Seninle olmasını istediğini söyle!"
+
+#: game/story/park.dialogue
+msgctxt "park_f2793d2d"
+msgid "Arrête !"
+msgstr "Dur!"
+
+#: game/story/park.dialogue
+msgctxt "park_31d7d853"
+msgid "Dis... le..."
+msgstr "Söyle...hemen..."
+
+#: game/story/park.dialogue
+msgctxt "park_10038d52"
+msgid "Pas vraiment..."
+msgstr "Pek sayılmaz..."
+
+#: game/story/park.dialogue
+msgctxt "park_4d78b111"
+msgid "Je vois...[w] Tu sais quoi ? Tu te prends trop la tête."
+msgstr "Anlıyorum... [w] Biliyor musun? Fazla düşünüyorsun."
+
+#: game/story/park.dialogue
+msgctxt "park_c9a93155"
+msgid "Malgré son air ingénue je suis certaine qu'elle prendra la bonne décision."
+msgstr "Saf görünüşüne rağmen, doğru kararı vereceğinden eminim."
+
+#: game/story/park.dialogue
+msgctxt "park_b607e838"
+msgid "Et si ce n'est pas le cas ?"
+msgstr "Peki ya yapmazsa?"
+
+#: game/story/park.dialogue
+msgctxt "park_020b55c3"
+msgid "Je ne me trompe jamais !"
+msgstr "Ben asla yanılmam!"
+
+#: game/story/park.dialogue
+msgctxt "park_d65ed823"
+msgid "Bye bye {{saito.n}}."
+msgstr "Güle güle, {{saito.n}}."
+
+#: game/story/park.dialogue
+msgctxt "park_7d37e973"
+msgid "La bonne décision hein..."
+msgstr "Doğru karar, ha..."
+
+#: game/story/park.dialogue
+msgctxt "park_6877ef6e"
+msgid "C'est ça ton coin tranquille ?"
+msgstr "Burası senin sessiz yerin mi?"
+
+#: game/story/park.dialogue
+msgctxt "park_24d5b7f3"
+msgid "Plus loin ?"
+msgstr "Daha ileri mi?"
+
+#: game/story/park.dialogue
+msgctxt "park_cda60b0d"
+msgid "Tu passes ton temps à courir autour tous les matins et tu ne t'en es jamais aperçu ?"
+msgstr ""
+"Her sabah vaktini burada koşturarak geçiriyorsun ve bunu hiç fark etmedin mi?"
+
+#: game/story/park.dialogue
+msgctxt "park_f568c2ef"
+msgid "Tu me fais de la peine !"
+msgstr "Senin için üzülüyorum!"
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_fdc01946"
+msgid "J'avais ça au fond de moi depuis tellement longtemps que ça me fait du bien d'enfin pouvoir te le dire."
+msgstr ""
+"Bunu o kadar uzun zamandır aklımın bir köşesinde tutuyordum ki sonunda size "
+"söyleyebilmek iyi geldi."
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_c668875f"
+msgid "Écoute... Je sais vraiment pas ce qui t'es passée par la tête mais je n'ai pas du tout envie de faire évoluer quoi que se soit..."
+msgstr ""
+"Dinle. Aklından neler geçtiğini gerçekten bilmiyorum, ama gerçekten hiçbir "
+"şeyin değişmesini istemiyorum..."
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_c9a58cb1"
+msgid "C'est vrai qu'on se connaît depuis des années mais..."
+msgstr "Birbirimizi yıllardır tanıdığımız doğru ama."
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_fcee4033"
+msgid "Juste... Arrête ça, ça en deviant malaisant."
+msgstr "Sadece... Kes şunu, garipleşmeye başladı."
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_32f89339"
+msgid "Donc si je comprend bien tu n'as jamais ressentie quoi que se soit pour moi ?"
+msgstr "Yani doğru anladıysam, bana karşı hiç bir şey hissetmedin mi?"
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_cafabc95"
+msgid "Maintenant que tu as eu réponse je vais te laisser, j'ai énormément de travail."
+msgstr "Cevabını aldığına göre, ben gidiyorum. Yapacak çok işim var."
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_3c24abd1"
+msgid "...Est-ce que ça va?"
+msgstr "...Sen iyi misin?"
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_e9c3cc51"
+msgid "Tu es venue pour te moquer de moi?"
+msgstr "Bana gülmeye mi geldin?"
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_0197a407"
+msgid "Tu as eu le courage de te déclarer a quelqu'un que tu aimais depuis des années..."
+msgstr "Yıllardır sevdiğin birine itiraf edecek kadar cesurdun."
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_19f83f3c"
+msgid "Je ne suis pas certain d'avoir autant de caractère que toi."
+msgstr "Senin kadar güçlü bir karaktere sahip olduğumdan emin değilim."
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_13099fdd"
+msgid "{{minato.n}} a agis comme un putain d'enfoiré, ce type ne mérite pas l'amour que tu lui porte!"
+msgstr ""
+"{{minato.n}} tam bir pislik gibi davrandı, O adam ona duyduğun sevgiyi hak "
+"etmiyor!"
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_e73956bf"
+msgid "Ca me fait si mal au coeur..."
+msgstr "Bu kalbimi çok acıtıyor."
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_49de1721"
+msgid "Est-ce que tu veux que je te raccompagne chez toi?"
+msgstr "Seni eve götürmemi ister misin?"
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_7016d135"
+msgid "Non merci..."
+msgstr "Hayır, teşekkürler."
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_dd5d7da8"
+msgid "Viens chez moi!"
+msgstr "Evime gel!"
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_b414ef4b"
+msgid "Quoi?!"
+msgstr "Ne?!"
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_9d9964e5"
+msgid "{{minato.n}} est... Non après la façon dont il vient de et répondre... était mon meilleur ami."
+msgstr ""
+"{{minato.n}} benim... Hayır, az önce verdiği cevaptan sonra... benim en iyi "
+"arkadaşımdı."
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_9bdaa5fe"
+msgid "Tu ferais ça pour moi ? Alors que tu ne me connais pas ?"
+msgstr "Bunu benim için yapar mısın? Beni tanımasan bile?"
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_7f07a5d9"
+msgid "C'est pas un piège hein?!"
+msgstr "Bu bir tuzak değil, değil mi?!"
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_0335350c"
+msgid "Je suppose qu'il n'y a qu'une seule façon pour toi de le découvrir."
+msgstr "Sanırım bunu öğrenmenin tek bir yolu var."
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_3acb57b7"
+msgid "Idiot!"
+msgstr "Aptal!"
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_c39fa7a4"
+msgid "[font_size=14]A demain alors!...[/font_size]"
+msgstr "[font_size=14]Yarın görüşürüz o zaman!...[/font_size]"
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_3ce2f812"
+msgid "Fais-le patienter juste assez p-"
+msgstr "Onu yeterince beklet-"
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_762fff47"
+msgid "Putain {{saito.n}} dégage d'ici c'est pas le moment !"
+msgstr "Siktir, {{saito.n}}! Meşgulüm, o yüzden siktir git!"
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_dd4c87b5"
+msgid "Bordel... T'es encore coincé avec ça ?"
+msgstr "Lanet olsun. Hala buna mı takıldın?"
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_0e810062"
+msgid "Tu me fais surtout pitié."
+msgstr "Senin için üzülüyorum."
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_c7d990e9"
+msgid "C'est donc ça le vrai {{minato.n}} ? Tu parles d'une déception."
+msgstr "Yani gerçek {{minato.n}} bu mu? Tam bir hayal kırıklığı."
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_fd8150bc"
+msgid "Finalement je suis content que tu aies remballé {{asami.n}}."
+msgstr "Sonunda, {{asami.n}}'i reddettiğin için mutluyum."
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_bf002834"
+msgid "La laisser avec un type comme toi aurait été une erreur monumentale !"
+msgstr "Onu senin gibi bir adamla bırakmak muazzam bir hata olurdu!"
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_4c256007"
+msgid "{{minato.n}}... On n'a plus de temps à p-"
+msgstr "{{minato.n}}... Daha fazla zaman kaybedemeyiz-"
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_5aed4fa8"
+msgid "Je sais, laisse-moi finir avec ce déchet et j'arrive !"
+msgstr "Biliyorum! Şu çöpü bitireyim, hemen geliyorum!"
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_64c3e72d"
+msgid "Ne viens plus me faire chier, ou chouiner comme tu le fais d'habitude."
+msgstr "Gelip beni kızdırma ya da her zaman yaptığın gibi dırdır etme."
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_c1a12759"
+msgid "Ton existence même m'insupporte, tu comprends ça ?"
+msgstr "Varlığın bile beni rahatsız ediyor, anlıyor musun?"
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_48326db9"
+msgid "... Va te faire foutre !"
+msgstr "...Sikerim seni!"
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_58464752"
+msgid "Donc comme ça {{asami.n}} t'a tapé dans l'œil hein ?!"
+msgstr "Görünüşe göre {{asami.n}} gözünüze çarpmış, ha?!"
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_36f3b871"
+msgid "Intéressant..."
+msgstr "İlginç."
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_d0a043f4"
+msgid "Tu me fais chier, achète toi une autre paire de couilles !"
+msgstr "Beni kızdırıyorsun. Kendine yeni bir çift taşak al!"
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_54943957"
+msgid "Je t'ai demandé de ne pas me foutre la honte."
+msgstr "Beni utandırmamanı söylemiştim."
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_d55eea32"
+msgid "...Je sais... je suis désolé mais... peu importe où je vais j'ai l'impression d'être surveillé en permanence."
+msgstr ""
+"...Biliyorum... Üzgünüm, ama... nereye gidersem gideyim, sanki hep "
+"izleniyormuşum gibi hissediyorum."
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_5f3f598c"
+msgid "Qu'on peut me tomber dessus a tout moment !"
+msgstr "Sanki her an biri bana saldırabilirmiş gibi!"
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_7b570eb7"
+msgid "T'es juste putain de parano, personne n'en a rien à foutre de toi !"
+msgstr "Sen sadece paranoyaksın. Kimse seni umursamıyor!"
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_7efb9d7f"
+msgid "Dis pas ça... On est potes putain !"
+msgstr "Öyle söyleme. Biz lanet olası arkadaşız!"
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_fb3ab35a"
+msgid "Ouais... si tu le dis."
+msgstr "Evet... Sen öyle diyorsan."
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_e154e68a"
+msgid "Si je reste avec toi, on aura plus de chance de..."
+msgstr "Eğer seninle kalırsam daha iyi bir şansımız olur-"
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_39b9b8de"
+msgid "...Je suis assez grand pour gérer un connard qui veut faire le malin."
+msgstr "...Beni alt etmeye çalışan her puştla başa çıkabilecek kadar büyüğüm."
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_8281c8fa"
+msgid "Il veut me casser la gueule ? Qu'il vienne, je l'attend."
+msgstr "Biri beni dövmek mi istiyor? Bırak gelsinler. Ben bekliyor olacağım."
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_b33a78e0"
+msgid "Je lui montrerais..."
+msgstr "Onlara göstereceğim."
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_3591892e"
+msgid "...[w] Putain tu fais chier !"
+msgstr "...[w] Çok sinir bozucusun!"
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_8e25323f"
+msgid "Attend moi, de toute façon je dois le rejoindre aussi !"
+msgstr "Beni bekle. Zaten ona katılmak zorundayım!"
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_b60ec6aa"
+msgid "On est bien au bon endroit..."
+msgstr "Doğru yerdeyiz..."
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_babf84c5"
+msgid "Le plan semble avoir fonctionné, j'ai jamais vu {{nobu.n}} comme ça."
+msgstr ""
+"Planımız işe yaramış gibi görünüyor. Daha önce {{nobu.n}}'i hiç böyle "
+"görmemiştim."
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_cae3ff0b"
+msgid "Je te l'ai dit, ces types ne sont que des grandes gueules."
+msgstr "Sana söyledim, bu adamlar sadece boşboğaz."
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_8078db60"
+msgid "Il semblerait."
+msgstr "Öyle görünüyor."
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_eee1ae7c"
+msgid "Tiens tiens tiens.... C'est plutôt rare de vous voir ici."
+msgstr "Vay, vay, vay... Seni burada görmek oldukça nadir."
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_48dc7168"
+msgid "Je me demande ce que vous prévoyez de faire."
+msgstr "Ne yapmayı planladığını merak ediyorum."
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_4fe2908f"
+msgid "Je vais où je veux, si t'es pas contente change de trottoir !"
+msgstr ""
+"Nereye istersem oraya giderim. Seni rahatsız ediyorsa başka bir yere git!"
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_589342b5"
+msgid "Et bien... de bien grands mots pour une fille aussi frêle."
+msgstr "Şey... Böyle çelimsiz bir kız için çok büyük sözler."
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_0650d611"
+msgid "Bouge pas... Je vais lui montrer ce que je peux f-"
+msgstr "Kımıldama. Ona ne yapabileceğimi göstereceğim-"
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_5855646b"
+msgid "Non ! {{natsume.n}} n'est pas une ennemie."
+msgstr "Hayır! {{natsume.n}} bizim düşmanımız değil!"
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_b4973da1"
+msgid "Écoute le donc, ça vaudra mieux."
+msgstr "Onu dinleyin. Böylesi daha iyi olacak."
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_b203611d"
+msgid "Qu'est ce que tu nous veux ?"
+msgstr "Ne istiyorsun?"
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_02bc9f3f"
+msgid "{{nobu.n}} c'est fait agressé l'autre jour... Maintenant je vous vois trainer autour de {{kenji.n}}..."
+msgstr ""
+"Geçen gün {{nobu.n}} saldırıya uğradı. Şimdi seni {{kenji.n}}'de takılırken "
+"görüyorum."
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_899b2c06"
+msgid "Est-ce une coincidence ?[w] Aucune idée..."
+msgstr "Bu bir tesadüf mü?[w] Hiçbir fikrim yok..."
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_57c54a5b"
+msgid "Mais au cas où."
+msgstr "Ama ne olur ne olmaz."
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_d3ae72a9"
+msgid "Il sera seul ce soir..."
+msgstr "Bu gece yalnız olacak."
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_4c4f067b"
+msgid "Amusez vous bien !"
+msgstr "İyi eğlenceler!"
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_047a8d26"
+msgid "C'était qui cette fille ?"
+msgstr "Kimdi o?"
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_a7d03fb7"
+msgid "Mais je ne pense pas qu'elle soit un problème dont on doive s'inquiéter."
+msgstr "Ama onun için endişelenmemize gerek olduğunu sanmıyorum."
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_a82feac5"
+msgid "Je suppose qu'ils vont de nouveau passer leur journée devant le dojo."
+msgstr "Sanırım günlerini yine dojo'nun önünde geçirecekler."
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_79c93907"
+msgid "Qu'est ce qu'on fait ?"
+msgstr "Ne yapmamız gerekiyor?"
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_364f3280"
+msgid "Ou ça ?"
+msgstr "Nerede?"
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_936c0bdd"
+msgid "Putain de journée gâchée une fois de plus..."
+msgstr "Kahretsin, bir gün daha boşa gitti.."
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_3d01aee2"
+msgid "J'en ai ras le cul de faire le poireau toute la journée pour des prunes !"
+msgstr "Bütün gün boşu boşuna beklemekten bıktım!"
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_c45a4ec7"
+msgid "Putain de bordel de m-"
+msgstr "Lanet olsun."
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_f0740dad"
+msgid "{{kenji.n}} ! Surveille ton langage !"
+msgstr "{{kenji.n}}! Diline dikkat et!"
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_24fa05e6"
+msgid "Mais maman..."
+msgstr "Ama anne..."
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_fe624b3c"
+msgid "Quand une situation ne te plaît pas, tout ce que tu sais faire c'est te plaindre !"
+msgstr "Bir durumdan hoşlanmadığınızda, tek bildiğiniz şey şikayet etmektir!"
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_da091af3"
+msgid "Je ne crois pas me souvenir d'avoir élevé une fiotte pareille !"
+msgstr "Böyle bir korkak yetiştirdiğimi hatırlamıyorum!"
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_03f223ad"
+msgid "[font_size=14]De toute façon... dès je l'aurais réparé je me tire d'ici ![/font_size]"
+msgstr "[font_size=14]Neyse... tamir eder etmez buradan gidiyorum![/font_size]"
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_d98b3379"
+msgid "J'ai tout entendu et tu iras nul part ! Ce n'est pas ta moto !"
+msgstr "Her şeyi duydum ve hiçbir yere gitmiyorsun! Bu senin bisikletin değil!"
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_b7f074a1"
+msgid "Elle appartenait à papa, elle est à moi maintenant !"
+msgstr "Babamındı, şimdi benim oldu!"
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_beda678d"
+msgid "...[font_size=14]M'en fous... j'aurai le dernier mot, c'est moi qui roulerai avec.[/font_size]"
+msgstr ""
+"...[font_size=14]Umurumda değil... Son sözü ben söylüyorum ve ona "
+"bineceğim.[/font_size]"
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_4187af0f"
+msgid "J'ai une course à faire en ville, je reviens d'ici une heure."
+msgstr "Yapmam gereken bazı işler var. Bir saat içinde dönerim."
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_cf182610"
+msgid "Ne fais pas de conneries tu veux bien ?"
+msgstr "Aptalca bir şey yapma, olur mu?"
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_97d06c2a"
+msgid "Ouais... ouais..."
+msgstr "Tabi...tabi..."
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_7bea6ec3"
+msgid "...[w] Oh... après {{nobu.n}} c'était donc moi ta cible ?"
+msgstr "...[w] Oh... yani {{nobu.n}}'den sonraki hedefiniz ben miydim?"
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_f5126b92"
+msgid "Tu crois que je vais me laisser faire ?"
+msgstr "Bunun olmasına izin vereceğimi mi sanıyorsun?"
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_79b87d35"
+msgid "Amène t-"
+msgstr "Geç bunları."
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_082cebea"
+msgid "Boarf..."
+msgstr "Boarf..."
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_665e317a"
+msgid "Continue de me faire chier et je reviendrai..."
+msgstr "Beni kızdırmaya devam edersen geri geleceğim..."
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_fb26e746"
+msgid "Ce serait dommage qu'il arrive quelque chose à ta précieuse moto."
+msgstr "Değerli motoruna bir şey olursa çok yazık olur."
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_41fae089"
+msgid "Woah... Tu l'as pas raté !"
+msgstr "Vay... Onu iyi yakalamışsın!"
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_79e0a5be"
+msgid "Et tu l'as même menacé avec ça !"
+msgstr "Ve onu bununla bile tehdit ettin!"
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_b0914373"
+msgid "J'ai l'impression de voir un tout nouveau {{saito.n}}."
+msgstr "Sanki yepyeni bir {{saito.n}} görüyormuşum gibi hissediyorum."
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_a021b4de"
+msgid "J'espère que tu plaisantes, idiot ?!"
+msgstr "Umarım şaka yapıyorsundur, aptal!"
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_31855fdf"
+msgid "Avec ça ta réputation est faite !"
+msgstr "Bu sayede yepyeni bir üne sahip olacaksın!"
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_107f99e4"
+msgid "Ils sauront que le nouveau {{saito.n}} sera impitoyable !"
+msgstr "Yeni {{saito.n}}'in acımasız olduğunu herkes bilecek!"
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_76d0227e"
+msgid "Peut-être oui..."
+msgstr "Sanırım haklısın."
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_b0b7eeb1"
+msgid "On dégage d'ici !"
+msgstr "Hadi gidelim buradan!"
+
+#: game/story/home_nobu_exterior.dialogue
+msgctxt "home_nobu_exterior_2cc40ea1"
+msgid "Il nous aura fait poireauter toute la journée mais cette fois-ci c'est bon !"
+msgstr "Bütün gün beklemek zorunda kaldık ama sonunda doğru zaman geldi!"
+
+#: game/story/home_nobu_exterior.dialogue
+msgctxt "home_nobu_exterior_0758151b"
+msgid "Va remettre ce connard à sa place et fais le bien regretter."
+msgstr "Git bu piç kurusuna haddini bildir ve pişman olmasını sağla."
+
+#: game/story/home_nobu_exterior.dialogue
+msgctxt "home_nobu_exterior_ea0f30bc"
+msgid "Ne t'arrête pas même s'il se met à pleurer !"
+msgstr "Ağlamaya başlasa bile durmayın!"
+
+#: game/story/home_nobu_exterior.dialogue
+msgctxt "home_nobu_exterior_82db5108"
+msgid "Pense à tout ce qu'il t'a fait !"
+msgstr "Sana yaptığı her şeyi düşün!"
+
+#: game/story/home_nobu_exterior.dialogue
+msgctxt "home_nobu_exterior_c2356fa4"
+msgid "Tu n'as pas besoin de me le vendre davantage."
+msgstr "İki kere söylemene gerek yok."
+
+#: game/story/home_nobu_exterior.dialogue
+msgctxt "home_nobu_exterior_0310003f"
+msgid "Comment ça une vie ?"
+msgstr "Ne demek ömür boyu?"
+
+#: game/story/home_nobu_exterior.dialogue
+msgctxt "home_nobu_exterior_810212b6"
+msgid "Euh.. Je veux dire toute mon adolescence."
+msgstr "Gençlik yıllarımdan bahsediyorum."
+
+#: game/story/home_nobu_exterior.dialogue
+msgctxt "home_nobu_exterior_867ed625"
+msgid "On s'en fout, fonce ! Il va rentrer chez lui sinon !"
+msgstr "Kimin umurunda? Git işte! Yoksa eve geri dönecek!"
+
+#: game/story/home_nobu_exterior.dialogue
+msgctxt "event_nobu_fight_at_home_4741be4b"
+msgid "C'est moi ! Ouvre la porte connasse !"
+msgstr "Benim! Kapıyı aç, sürtük!"
+
+#: game/story/home_nobu_exterior.dialogue
+msgctxt "event_nobu_fight_at_home_51e7174e"
+msgid "Non ! C'est pas une façon de parler à sa grande soeur !"
+msgstr "Hayır! Ablanla böyle konuşamazsın!"
+
+#: game/story/home_nobu_exterior.dialogue
+msgctxt "event_nobu_fight_at_home_a3f7cb25"
+msgid "Tant que tu ne seras pas plus poli tu resteras dehors."
+msgstr "Daha kibar olana kadar dışarıda kalacaksın!"
+
+#: game/story/home_nobu_exterior.dialogue
+msgctxt "event_nobu_fight_at_home_532012eb"
+msgid "Mais putain tu fais chier !"
+msgstr "Siktir git, kızdırma beni!"
+
+#: game/story/home_nobu_exterior.dialogue
+msgctxt "event_nobu_fight_at_home_e0630f15"
+msgid "Menteur."
+msgstr "Yalancı."
+
+#: game/story/home_nobu_exterior.dialogue
+msgctxt "event_nobu_fight_at_home_b971ea1b"
+msgid "Je suis sûre que tu as encore passé la plupart de ton temps à traîner avec les deux autres branleurs."
+msgstr "Eminim zamanının çoğunu diğer iki serseriyle takılarak geçiriyorsundur."
+
+#: game/story/home_nobu_exterior.dialogue
+msgctxt "event_nobu_fight_at_home_b23ab5dd"
+msgid "Et tu as sûrement fini ta journée a l'arcade center..."
+msgstr "Ve muhtemelen gününüzü atari merkezinde bitirmişsinizdir..."
+
+#: game/story/home_nobu_exterior.dialogue
+msgctxt "event_nobu_fight_at_home_a4481e29"
+msgid "PUTAIN OUVRE GROSSE CONNE !"
+msgstr "AÇ ŞU SİKİK KAPIYI, SENİ OROSPU!"
+
+#: game/story/home_nobu_exterior.dialogue
+msgctxt "event_nobu_fight_at_home_6fd004e4"
+msgid "Je fais ce que je veux, c'est mon pognon !"
+msgstr "Ne istersem onu yaparım! Bu benim param!"
+
+#: game/story/home_nobu_exterior.dialogue
+msgctxt "event_nobu_fight_at_home_d283bc5b"
+msgid "...Tu travailles pas, d'ou viendrais cet argent alors ?"
+msgstr "...Sen çalışmıyorsun, bu para nereden geliyor?"
+
+#: game/story/home_nobu_exterior.dialogue
+msgctxt "event_nobu_fight_at_home_f74a28d6"
+msgid "..Je... l'ai trouvé."
+msgstr "...ben... buldum."
+
+#: game/story/home_nobu_exterior.dialogue
+msgctxt "event_nobu_fight_at_home_ccfa2413"
+msgid "C'est la pire excuse que j'ai jamais entendue."
+msgstr "Bu şimdiye kadar duyduğum en kötü bahane."
+
+#: game/story/home_nobu_exterior.dialogue
+msgctxt "event_nobu_fight_at_home_3a2c2077"
+msgid "Je suis certaine que tu l'as volé."
+msgstr "Eminim çalmışsındır."
+
+#: game/story/home_nobu_exterior.dialogue
+msgctxt "event_nobu_fight_at_home_4f8c7135"
+msgid "Pfff et alors ? Qu'est ce que tu va faire ?"
+msgstr "Pfff, ne olmuş yani? Ne yapacaksın ki?"
+
+#: game/story/home_nobu_exterior.dialogue
+msgctxt "event_nobu_fight_at_home_f1b9df69"
+msgid "Tu vas t'attirer encore plus de problèmes."
+msgstr "Başını daha çok belaya sokacaksın."
+
+#: game/story/home_nobu_exterior.dialogue
+msgctxt "event_nobu_fight_at_home_0f1ab9c6"
+msgid "...Tu es vraiment le pire des frères !"
+msgstr "...Sen gerçekten en kötüsün kardeşim!"
+
+#: game/story/home_nobu_exterior.dialogue
+msgctxt "event_nobu_fight_at_home_20b00240"
+msgid "Ouais ouais c'est ça allez ouvre la porte !"
+msgstr "Evet, evet, hadi, kapıyı aç!"
+
+#: game/story/home_nobu_exterior.dialogue
+msgctxt "event_nobu_fight_at_home_8754c855"
+msgid "Un jour tu tomberas sur quelqu'un que tu n'auras jamais dû emmerder."
+msgstr "Bir gün asla kızdırmamanız gereken biriyle karşılaşacaksınız."
+
+#: game/story/home_nobu_exterior.dialogue
+msgctxt "event_nobu_fight_at_home_4b225ce5"
+msgid "Et tu peux être sur qu'il te fera bouffer ta putain d'assurance."
+msgstr "Ve emin ol, özgüvenini yerle bir edecekler."
+
+#: game/story/home_nobu_exterior.dialogue
+msgctxt "event_nobu_fight_at_home_3ed8832c"
+msgid "[font_size=14]Aie stop ![/font_size]"
+msgstr "[font_size=14]Aghh, dur![/font_size]"
+
+#: game/story/home_nobu_exterior.dialogue
+msgctxt "event_nobu_fight_at_home_d50a58c7"
+msgid "Ce sera un juste retour de karma."
+msgstr "Karma sana geri dönecek."
+
+#: game/story/home_nobu_exterior.dialogue
+msgctxt "t7de386b02c"
+msgid "Vous avez récupéré l'argent de {{sayuri.n}}."
+msgstr "{{sayuri.n}}'in parasını geri aldın."
+
+#: game/story/home_nobu_exterior.dialogue
+msgctxt "event_nobu_fight_at_home_386b7e7b"
+msgid "Tu m'écoutes ?"
+msgstr "Beni dinliyor musun?"
+
+#: game/story/home_nobu_exterior.dialogue
+msgctxt "event_nobu_fight_at_home_2ccc1168"
+msgid "Mais... Qu'est ce que tu fous allongé par terre ?"
+msgstr "Ne... Yerde ne halt ediyorsun?"
+
+#: game/story/home_nobu_exterior.dialogue
+msgctxt "event_nobu_fight_at_home_6cf844e7"
+msgid "Je... J'ai glissé."
+msgstr "Ben... Ben kaydım."
+
+#: game/story/home_nobu_exterior.dialogue
+msgctxt "event_nobu_fight_at_home_719cde8d"
+msgid "Tu me fais vraiment de la peine... Tu va faire quoi le jour ou je ne serais plus là ?"
+msgstr "Senin için gerçekten üzülüyorum. Bensiz ne yapacaksın?"
+
+#: game/story/home_nobu_exterior.dialogue
+msgctxt "event_nobu_fight_at_home_d62d54f0"
+msgid "Y'a bien un jour ou je me trouverais un mec et je partirais."
+msgstr "Bir gün bir erkek arkadaş bulup gideceğim."
+
+#: game/story/home_nobu_exterior.dialogue
+msgctxt "event_nobu_fight_at_home_b41dbe4e"
+msgid "Pfff faudrait déjà qu'un mec arrive a te supporter !"
+msgstr "Pfff, bir erkeğin önce sana tahammül etmesi gerekir!"
+
+#: game/story/home_nobu_exterior.dialogue
+msgctxt "event_nobu_fight_at_home_5f367bb1"
+msgid "Va te faire foutre enfoiré !"
+msgstr "Siktir git, göt herif!"
+
+#: game/story/home_nobu_exterior.dialogue
+msgctxt "event_nobu_fight_at_home_216888cb"
+msgid "...[font_size=14]Fait chié...[/font_size]"
+msgstr "...[font_size=14]Lanet olsun...[/font_size]"
+
+#: game/story/home_nobu_exterior.dialogue
+msgctxt "event_nobu_fight_at_home_e083e6b5"
+msgid "[font_size=14]Il m'a même volé mon fric cet enfoiré ![/font_size]"
+msgstr "[font_size=14]O piç paramı bile çaldı![/font_size]"
+
+#: game/story/home_nobu_exterior.dialogue
+msgctxt "home_nobu_exterior_8130e2d5"
+msgid "Haha... On l'a entendu couiner jusqu'ici !"
+msgstr "Haha... Buraya kadar ciyakladığını duyduk!"
+
+#: game/story/home_nobu_exterior.dialogue
+msgctxt "home_nobu_exterior_491e1e0e"
+msgid "C'était plaisant à voir."
+msgstr "Bu hoş bir manzaraydı."
+
+#: game/story/home_nobu_exterior.dialogue
+msgctxt "home_nobu_exterior_c94927cb"
+msgid "Tu te sens comment à présent ?"
+msgstr "Şimdi nasıl hissediyorsun?"
+
+#: game/story/home_nobu_exterior.dialogue
+msgctxt "home_nobu_exterior_36358795"
+msgid "Je... Je ne sais pas trop, j'ai un peu mal aux phalanges mais..."
+msgstr "Ben... Gerçekten bilmiyorum. Parmak eklemlerim biraz acıyor ama."
+
+#: game/story/home_nobu_exterior.dialogue
+msgctxt "home_nobu_exterior_d621b759"
+msgid "Je me sens... bien !"
+msgstr "Kendimi... iyi hissediyorum!"
+
+#: game/story/home_nobu_exterior.dialogue
+msgctxt "home_nobu_exterior_d4d8dcc7"
+msgid "C'est agréable comme sensation."
+msgstr "Bu güzel bir duygu."
+
+#: game/story/home_nobu_exterior.dialogue
+msgctxt "home_nobu_exterior_35efdef7"
+msgid "Si j'avais su que se lâcher faisait autant de bien..."
+msgstr "Bırakmanın bu kadar iyi hissettirdiğini bilseydim."
+
+#: game/story/home_nobu_exterior.dialogue
+msgctxt "home_nobu_exterior_4effff8d"
+msgid "Il est trop tard pour pour avoir des regrets de toute façon..."
+msgstr "Pişmanlık için artık çok geç."
+
+#: game/story/home_nobu_exterior.dialogue
+msgctxt "home_nobu_exterior_aa965593"
+msgid "mhh.. Quoi ?"
+msgstr "Mmh... Ne?"
+
+#: game/story/home_nobu_exterior.dialogue
+msgctxt "home_nobu_exterior_f2f590a5"
+msgid "Arrête de rêvasser, on rentre !"
+msgstr "Hayal kurmayı bırak da eve gidelim!"
+
+#: game/story/home_nobu_exterior.dialogue
+msgctxt "home_nobu_exterior_bbe8055f"
+msgid "Tu as raison, ne traînons pas."
+msgstr "Haklısın. Buralarda takılmayalım."
+
+#: game/story/home_takeo_exterior.dialogue
+msgctxt "home_takeo_exterior_2efda0ff"
+msgid "C'est ici... Qui aurait pensé qu'il vivrait dans ce quartier ?"
+msgstr "İşte burada. Bu mahallede yaşayacağı kimin aklına gelirdi?"
+
+#: game/story/home_takeo_exterior.dialogue
+msgctxt "home_takeo_exterior_f25c3205"
+msgid "Putain... Il fait quoi !"
+msgstr "Lanet olsun. Ne yapıyor bu?"
+
+#: game/story/home_takeo_exterior.dialogue
+msgctxt "home_takeo_exterior_b75581c7"
+msgid "Il m'a pas laissé tomber cet enfoiré j'espère ?"
+msgstr "O piç beni hayal kırıklığına uğratmamıştır umarım?"
+
+#: game/story/home_takeo_exterior.dialogue
+msgctxt "home_takeo_exterior_fa3b2acb"
+msgid "Non non il a été payé, je suis sûr qu'il est dans le coin !"
+msgstr "Hayır, hayır, parasını aldı. Eminim buralardadır!"
+
+#: game/story/home_takeo_exterior.dialogue
+msgctxt "home_takeo_exterior_5405e992"
+msgid "Putain... Toi !!!"
+msgstr "Sikicem... Seni!!"
+
+#: game/story/home_takeo_exterior.dialogue
+msgctxt "home_takeo_exterior_d0f6a062"
+msgid "Hehe... Tu peux sortir {{akira.n}} !"
+msgstr "Hehe... Göster kendini, {{akira.n}}!"
+
+#: game/story/home_takeo_exterior.dialogue
+msgctxt "home_takeo_exterior_4611507e"
+msgid "...[w] Maintenant !"
+msgstr "...[w] Şimdi!"
+
+#: game/story/home_takeo_exterior.dialogue
+msgctxt "home_takeo_exterior_314efa50"
+msgid "Je suppose qu'il ne viendra pas ?"
+msgstr "Sanırım gelmiyor?"
+
+#: game/story/home_takeo_exterior.dialogue
+msgctxt "home_takeo_exterior_8d44434a"
+msgid "J'vais t-"
+msgstr "Geliyoru-"
+
+#: game/story/home_takeo_exterior.dialogue
+msgctxt "home_takeo_exterior_329a4db4"
+msgid "Où tu étais ?"
+msgstr "Neredeydin?"
+
+#: game/story/home_takeo_exterior.dialogue
+msgctxt "home_takeo_exterior_f293e097"
+msgid "J'avais un rendez-vous important, mais je constate que tu n'avais pas besoin de moi."
+msgstr "Yapmam gereken önemli bir şey vardı ama sanırım bana ihtiyacın yoktu."
+
+#: game/story/home_takeo_exterior.dialogue
+msgctxt "home_takeo_exterior_468a6aa7"
+msgid "En même temps tu n'es pas venue te battre avec moi non plus les fois précédentes."
+msgstr "Yani, önceki seferlerde de benimle kavga etmeye gelmemiştin."
+
+#: game/story/home_takeo_exterior.dialogue
+msgctxt "home_takeo_exterior_463637f5"
+msgid "Je suis là pour le soutien émotionnel."
+msgstr "Duygusal destek için buradayım."
+
+#: game/story/home_takeo_exterior.dialogue
+msgctxt "home_takeo_exterior_2bdeef48"
+msgid "On en a terminé à présent !"
+msgstr "İşimiz bitti!"
+
+#: game/story/home_takeo_exterior.dialogue
+msgctxt "home_takeo_exterior_b1d517e1"
+msgid "...Oui, c'est fini."
+msgstr "...Evet, bitti."
+
+#: game/story/home_takeo_exterior.dialogue
+msgctxt "home_takeo_exterior_9a59ae18"
+msgid "...Quoi tout ça pour cette réaction ?"
+msgstr "...Ne, bütün bunlar bu tepki için mi?"
+
+#: game/story/home_takeo_exterior.dialogue
+msgctxt "home_takeo_exterior_a7f1558e"
+msgid "...Sérieusement je la comprendrai jamais."
+msgstr "...Cidden, onu asla anlayamayacağım."
+
+#: game/story/arcade_interior.dialogue
+msgctxt "arcade_center_interior_4e9bf2da"
+msgid "Fait chier encore perdu !"
+msgstr "Kahretsin, yine kaybettim!"
+
+#: game/story/arcade_interior.dialogue
+msgctxt "arcade_center_interior_50051752"
+msgid "Haha de toute façon c'est l'argent de l'autre con."
+msgstr "Haha, zaten diğer salağın parası."
+
+#: game/story/arcade_interior.dialogue
+msgctxt "arcade_center_interior_ffb40995"
+msgid "[font_size=14]L'autre con... Je suppose que c'est de moi..?[/font_size]"
+msgstr "[font_size=14]Diğer salak... Sanırım o benim...?[/font_size]"
+
+#: game/story/arcade_interior.dialogue
+msgctxt "arcade_center_interior_4f2efb58"
+msgid "[font_size=14]Il semblerait...[/font_size]"
+msgstr "[font_size=14]Öyle görünüyor...[/font_size]"
+
+#: game/story/arcade_interior.dialogue
+msgctxt "arcade_center_interior_c52333cd"
+msgid "[font_size=14]S'il sait qu'il peut se faire attraper jusque devant chez lui, l'effet sera bien meilleur.[/font_size]"
+msgstr ""
+"[font_size=14]Evinin önünde bile yakalanabileceğini bilirse, bu daha da iyi "
+"bir etki yaratacaktır.[/font_size]"
+
+#: game/story/arcade_interior.dialogue
+msgctxt "arcade_center_interior_b1c38b34"
+msgid "[font_size=14]J'ai hate d'y être...[/font_size]"
+msgstr "[font_size=14]Sabırsızlanıyorum...[/font_size]"
+
+#: game/story/arcade_interior.dialogue
+msgctxt "arcade_center_interior_724acc7f"
+msgid "Mais bordel !!! Ce jeu est truqué !"
+msgstr "Lanet olsun! Bu oyunda hile var!"
+
+#: game/story/arcade_interior.dialogue
+msgctxt "arcade_center_interior_c1b8e7ea"
+msgid "J'en ai ras le cul, je me casse !"
+msgstr "Yeter artık! Ben gidiyorum!"
+
+#: game/story/arcade_interior.dialogue
+msgctxt "arcade_center_interior_007021b5"
+msgid "Enfin ! c'est pas trop tôt."
+msgstr "Nihayet! Zamanı gelmişti."
+
+#: game/story/arcade_interior.dialogue
+msgctxt "arcade_center_interior_3f75181d"
+msgid "Comme ça on est deux."
+msgstr "Bu ikimiz için de geçerli."
+
+#: game/scenes/dialogue/vn_game_scene.tscn
+msgid "Avance rapide"
+msgstr "Hızlı İleri"
+
+#: game/scenes/dialogue/vn_game_scene.tscn
+msgid "Menu"
+msgstr "Menu"
+
+#: game/scenes/dialogue/vn_game_scene.tscn
+msgid "Préférences"
+msgstr "Tercihler"
+
+#: game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "arcade_interior"
+msgstr "Oyun salonu (iç mekan)"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_39_asami_reject_friendship"
+msgstr "Mümkün olduğunca çabuk {{chiaki.n}}'i bulmalıyım."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_39_asami_reject_friendship_chiaki_restaurant_exterior"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_39_asami_reject_friendship_chiaki_dojo_exterior"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_39_asami_reject_friendship_chiaki_park"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_39_asami_reject_friendship_chiaki_home_player_exterior"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_40_asami_reject_friendship"
+msgstr "Mümkün olduğunca çabuk {{chiaki.n}}'i bulmalıyım."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_41_asami_reject_friendship"
+msgstr "Evine dön."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_42_asami_reject_friendship"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_friendship_2"
+msgstr "{{asami.n}} ile eve dön."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_friendship_3"
+msgstr "{{asami.n}} ile eve dön."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_friendship_4"
+msgstr "{{asami.n}} ile eve dön."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_friendship_5"
+msgstr "{{asami.n}} ile eve dön."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_friendship_7"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_friendship_8"
+msgstr "{{asami.n}}'i eve götür."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_friendship_9"
+msgstr "Uyu."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_friendship_10"
+msgstr "Git ve {{macumba.n}} ile antrenman yap."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_friendship_12"
+msgstr "{{asami.n}}'i evine geri götür."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_friendship_13"
+msgstr "{{minato.n}} yu görmeye git."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_friendship_15"
+msgstr "İyi bir uykudan sonra her şey daha iyi olacak."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_friendship_17"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_friendship_18"
+msgstr "Eve dön."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_friendship_19"
+msgstr "Yarını bekle."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_friendship_20"
+msgstr "Parka git."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_friendship_21"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_friendship_22"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_friendship_23"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_friendship_24"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_friendship_25"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_6"
+msgstr "Dojo'ya {{noriko.n}} ile git."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_9"
+msgstr "Haydutlar gitmişmi diye dojoya bir göz at."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_10"
+msgstr "{{kimochi.n}}'e geri dön."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_12"
+msgstr "Eve dön."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_13"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_14"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_15"
+msgstr "Odasında {{noriko.n}} ile buluş."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_16"
+msgstr "Yarın daha iyi bir gün olacak."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_17"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_18"
+msgstr "{{noriko.n}} yu gör."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_19"
+msgstr "{{noriko.n}} ile birlikte {{kimochi.n}}'ye gidin."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_20"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_21"
+msgstr "Dojo'daki haydutları gözetleyin."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_23"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_24"
+msgstr "Konbini'ye doğru {{nobu.n}}'yi takip etmeye devam edin."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_25"
+msgstr "Konbini'ye doğru {{nobu.n}}'yi takip etmeye devam edin."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_26"
+msgstr "Evine kadar {{nobu.n}}'yi takip et."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_27"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_28"
+msgstr "Dinlenmek için eve dön."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_29"
+msgstr "Dinlenmek için eve dön."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_31"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_32"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_33"
+msgstr "Odasında {{noriko.n}} görmek için eve geri dönün."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_34"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_35"
+msgstr "Uyumaya git."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_36"
+msgstr "Gecekondu mahallesindeki bara git."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_37"
+msgstr "Parka kadar {{noriko.n}}'yi takip edin."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_38"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_39"
+msgstr "Bara geri dön ve {{kenji.n}} ile ilgilen."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_40"
+msgstr "Evine dön."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_41"
+msgstr "Oturma odasında {{noriko.n}} ile buluş."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_46"
+msgstr "Uyku vakti geldi."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_47"
+msgstr "{{kimochi.n}} yi gör."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_48"
+msgstr "{{kimochi.n}} yi gör."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_49"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_51"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_52"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_53"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_54"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_55"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_56"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_57"
+msgstr "Eve git ve yarınki son dövüş için dinlen."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_58"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_59"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_60"
+msgstr "Odasında {{noriko.n}} ile buluş."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_61"
+msgstr "Evinizden çıkın."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_62"
+msgstr "Gölün yakınında {{noriko.n}}'yi bul."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_64"
+msgstr "Otobüs durağında {{noriko.n}}'yi bul."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_65"
+msgstr "{{noriko.n}} ile eve dön."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_66"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_67"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_68"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_69"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_70"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_71"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_72"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_73"
+msgstr "[null]"
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Se laisser dominer par {{noriko.n}}."
+msgstr "{{noriko.n}} ya Hükmet"
+
+#: game/scenes/locations/arcade_interior.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "NobuPlay"
+msgstr "{{nobu.n}} (oynarken)"
+
+#: game/scenes/locations/home_player_livingroom.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "RouterLight"
+msgstr "Yönlendirici"
+
+#: game/scenes/gui/game_menu/galleries/movies.tscn
+msgctxt "galleries.movies.hints"
+msgid "Se laisser dominer par {{noriko.n}}."
+msgstr "{{noriko.n}} ya hükmet."
+
+#: game/story/lake.dialogue
+msgctxt "t42df33eaac"
+msgid "Moi je prends tout l'amour qu'on est prêt à me donner."
+msgstr "Bana verilecek tüm aşkı istiyorum."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_a7762a18"
+msgid "Elle est pas parfaite, mais oui y'a de bons côtés."
+msgstr "Mükemmel değil, ama gerçekten iyi."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_3efa2c66"
+msgid "Mais si j'en avais l'occasion je sais ce que je ferais en priorité."
+msgstr "Ama şansım olsaydı ilk ne yapacağımı biliyorum."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_854ad54b"
+msgid "Tu achèterais du bitcoin ?"
+msgstr "Bitcoin mi alırdın?"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_e3a01ea9"
+msgid "... D'accord, merci."
+msgstr "...Tamam, teşekkürler."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_b214599f"
+msgid "Putain d'enfoiré !"
+msgstr "Siktiğimin piçi!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t3610e6ac67"
+msgid "Tiens tiens tiens... Regardez qui voilà."
+msgstr "Vay, vay, vay... Bakın kim gelmiş."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t064a5d4276"
+msgid "Ne m'oblige pas à le dire... Prends juste... l'autre chemin."
+msgstr "Yüksek sesle söylemem için beni zorlama... Sadece... diğer taraf..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t00262521f0"
+msgid "Oh ! Okay."
+msgstr "Oh! TAMAM."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t3504f6b14e"
+msgid "Je comprends pas..."
+msgstr "Anlamıyorum."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t5ecc2ed62a"
+msgid "Pourquoi c'est aussi bon ?"
+msgstr "Neden bu kadar iyi?"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t9a035e5f03"
+msgid "Mhhh."
+msgstr "Mhhhmm."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t9b12d4a165"
+msgid "Continue ! Continue !"
+msgstr "Devam et! Devam et!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "tb78b182571"
+msgid "Va plus vite encore !"
+msgstr "Daha hızlı!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t5ef66e234a"
+msgid "ÇA VIENT !!"
+msgstr "GELIYORUM!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "tfc6f37fc87"
+msgid "Tu n'es toujours pas fatigué ?"
+msgstr "Hala yorulmadın mı?"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t5940d301fd"
+msgid "Moi ? Jamais !"
+msgstr "Ben mi? Asla!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_0e7d3bd5"
+msgid "Faire un gâteau ?"
+msgstr "Pasta mı yapacaksın?"
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "t34e2a56e7f"
+msgid "Mais peu importe."
+msgstr "Her neyse."
+
+#: game/story/home_asami_asami_room.dialogue
+msgctxt "home_asami_asami_room_42a9600a"
+msgid "C'est rien maman, j'ai juste un choix à faire et je ne suis pas sûre de savoir si je prendrais la bonne décision."
+msgstr ""
+"Önemli birşey değil anne. Sadece bir seçim yapmam gerekiyor ve doğru seçimi "
+"yapacağımdan emin değilim."
+
+#: game/story/home_asami_asami_room.dialogue
+msgctxt "home_asami_asami_room_cd50a907"
+msgid "Tu as peur que je te mange ou quoi ?"
+msgstr "Seni yememden falan mı korkuyorsun?"
+
+#: game/story/konbini_exterior.dialogue
+msgctxt "konbini_exterior_c620ecad"
+msgid "On...?"
+msgstr "Biz...?"
+
+#: game/story/konbini_exterior.dialogue
+msgctxt "konbini_exterior_c874740b"
+msgid "C'est bon tu en as terminé ?"
+msgstr "Tamam, bitti mi?"
+
+#: game/story/konbini_exterior.dialogue
+msgctxt "konbini_exterior_a1a1685c"
+msgid "Oui... Soit compréhensive, elle s'inquiétait."
+msgstr "Evet... Anlamaya çalış. Endişeliydi."
+
+#: game/story/restaurant_sakuya_room.dialogue
+msgctxt "restaurant_sakuya_room_0142393c"
+msgid "Ton ex-amie est venue fouiner dans le coin avec une autre fille !"
+msgstr "Eski kız arkadaşın başka bir kızla takılıyormuş!"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "t5fa84b5ef9"
+msgid "Je me sens désolé pour elle... {{akira.n}} s'est joué de sa crédulité pour la présenter aux mauvaises personnes."
+msgstr ""
+"Onun için üzülüyorum. {{akira.n}} onu bir gezintiye çıkardı ve onu yanlış "
+"türden biriyle tanıştırmak istedi."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "tdbc9826092"
+msgid "Je ne changerais ça pour rien au monde !"
+msgstr "Bunu dünyadaki hiçbir şeye değişmezdim."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "home_player_exterior_9acc6c7b"
+msgid "De plus tu la connais déjà..."
+msgstr "Ayrıca, onu zaten tanıyorsun."
+
+#: game/story/park.dialogue
+msgctxt "asami_choice_d9a5c191"
+msgid "Pourquoi je me prend la tête avec ça, je la connais même pas cette fille..."
+msgstr "Neden bununla uğraşıyorum ki? Bu kızı tanımıyorum bile."
+
+#: game/story/park.dialogue
+msgctxt "park_470a432e"
+msgid "De quoi tu parles ?"
+msgstr "Sen neden bahsediyorsun?"
+
+#: game/story/park.dialogue
+msgctxt "park_07dd704f"
+msgid "Tu nies l'évidence hein ?"
+msgstr "Demek kendine yalan söylüyorsun, ha?"
+
+#: game/story/park.dialogue
+msgctxt "park_a3acedc1"
+msgid "Après tout ça doit faire un mal."
+msgstr "Ne de olsa acıtıyor olmalı."
+
+#: game/story/park.dialogue
+msgctxt "park_8db8dead"
+msgid "Allez... Sois honnête, dis-le !"
+msgstr "Hadi ama... Dürüst ol, söyle!"
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_f0f43b9e"
+msgid "Tu n'es pas obligé de répondre tout de suite tu sais..."
+msgstr "Hemen cevap vermek zorunda değilsin, biliyorsun..."
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_9b3255fc"
+msgid "Je vais tout faire pour te faire oublier ce connard!"
+msgstr "O pisliği unutman için her şeyi yapacağım!"
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_263c92eb"
+msgid "C'est qui lui ?"
+msgstr "Kim o?"
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_d8126631"
+msgid "Son meilleur ami... enfin je le pensais."
+msgstr "Onun en iyi arkadaşı. Ya da ben öyle sanıyordum."
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_ed67b441"
+msgid "Je ne sais pas qui tu es mais c'est pas ton problème !"
+msgstr "Kim olduğunuzu bilmiyorum ama bu sizi ilgilendirmez!"
+
+#: game/story/home_nobu_exterior.dialogue
+msgctxt "event_nobu_fight_at_home_b1b98cff"
+msgid "[font_size=14]Aaah ![/font_size]"
+msgstr "[font_size=14]Aaah![/font_size]"
+
+#: game/story/home_nobu_exterior.dialogue
+msgctxt "home_nobu_exterior_c40c1b24"
+msgid "Je l'aurais fait plus tôt dans ma vie antérieure."
+msgstr "Önceki hayatımda bunu daha önce yapmıştım."
+
+#: game/story/home_nobu_exterior.dialogue
+msgctxt "home_nobu_exterior_4c232cfd"
+msgid "Ca m'aurait évité bien des problèmes."
+msgstr "Beni bir sürü dertten kurtardı."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_7"
+msgstr "{{kimochi.n}} yi gör."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_8"
+msgstr "{{kimochi.n}} gör."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_43"
+msgstr "{{noriko.n}} gizlice kaçarken {{yasuka.n}}'yi meşgul et."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_42"
+msgstr "{{noriko.n}} ile {{yasuka.n}}'in odasında buluş."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_44"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "noriko_femdom_45"
+msgstr "Odana git."
+
+#: game/story/lake.dialogue
+msgctxt "lake_181ed5e2"
+msgid "Ah ça..."
+msgstr "Oh, bu..."
+
+#: game/story/lake.dialogue
+msgctxt "lake_38d2681e"
+msgid "Ce soir, devant le love hotel."
+msgstr "Bu gece, Aşk Oteli'nin önünde."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_f06d4b83"
+msgid "Je t'en prie... Tu as déjà vu une famille parfaite toi ?"
+msgstr "Lütfen. Hiç mükemmel bir aile gördün mü?"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_b9d92e1a"
+msgid "C'est sûr, ce n'est pas comme si on pouvait revenir en arrière."
+msgstr "Tabii ki. Zamanda geriye gidemeyiz."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_8861fab6"
+msgid "J'étais à ce point pathétique.."
+msgstr "Gerçekten acınacak haldeydim."
+
+#: game/story/home_asami_asami_room.dialogue
+msgctxt "home_asami_asami_room_ae537cf2"
+msgid "Qu'est-ce qu'elle fait dans mon jardin !"
+msgstr "Bahçemde ne işi var?!"
+
+#: game/story/konbini_exterior.dialogue
+msgctxt "konbini_exterior_c563a0d5"
+msgid "Bien sûr qu'il te cache des choses, tu serais bien trop inquiète sinon."
+msgstr "Tabii ki senden bir şeyler saklıyor. Yoksa çok fazla endişelenirdin"
+
+#: game/story/restaurant_sakuya_room.dialogue
+msgctxt "restaurant_sakuya_room_5ab5d72e"
+msgid "On va changer les règles !"
+msgstr "Kuralları değiştirelim!"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "asami_truth_073e9b27"
+msgid "Elle est désespérément amoureuse de toi et tout ce qu'elle souhaite c'est passer du temps avec toi."
+msgstr "Sana umutsuzca aşık ve tek istediği seninle vakit geçirmek."
+
+#: game/story/park.dialogue
+msgctxt "asami_choice_a91ac232"
+msgid "Je pense que je peux me débrouiller tout seul."
+msgstr "Sanırım tek başıma iyi olacağım."
+
+#: game/story/park.dialogue
+msgctxt "menu_macumba_3eb2a3e7"
+msgid "Salut les garçons !"
+msgstr "Hey, millet!"
+
+#: game/story/home_takeo_exterior.dialogue
+msgctxt "home_takeo_exterior_c98e1082"
+msgid "Comme quoi... L'habit ne fait pas forcément le moine."
+msgstr "Sanırım kitabı kapağına bakarak yargılamamalısın."
