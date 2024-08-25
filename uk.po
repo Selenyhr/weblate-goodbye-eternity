@@ -112,7 +112,7 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-07 19:57+0100\n"
-"PO-Revision-Date: 2024-08-11 04:28+0000\n"
+"PO-Revision-Date: 2024-08-25 22:12+0000\n"
 "Last-Translator: veydzh3r <veydzherdgswift008@gmail.com>\n"
 "Language-Team: Ukrainian <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/uk/>\n"
@@ -1826,7 +1826,7 @@ msgstr "Подивимось... У коледжі буде важко. Я муш
 #: game/story/introduction.dialogue
 msgctxt "home_player_room_c59d19d3"
 msgid "Je devrais faire un tour au dojo du quartier, je crois savoir qu'il était assez réputé."
-msgstr "По сусідству було відоме додзьо, так? Треба перевірити."
+msgstr "Поблизу було відоме доджьо, еге ж? Треба буде завітати туди."
 
 #: game/story/introduction.dialogue
 msgctxt "home_player_room_8b69be5f"
@@ -1836,7 +1836,9 @@ msgstr "І мені потрібно більше грошей. Уві сні я
 #: game/story/introduction.dialogue
 msgctxt "home_player_room_8253a51d"
 msgid "Autant commencer par un petit boulot déjà, en plus ça couvrira les frais du dojo."
-msgstr "Невелика робота допомогла б. Це могло б покрити й плату за додзьо."
+msgstr ""
+"Підробіток не завадив би. З нього можна було б покрити й плату за заняття у "
+"доджьо."
 
 #: game/story/introduction.dialogue
 msgctxt "home_player_room_a27ae41b"
@@ -1871,7 +1873,9 @@ msgstr "Отже, підсумовуючи все це..."
 #: game/story/introduction.dialogue
 msgctxt "home_player_room_86db6b79"
 msgid "D'abord le [color=yellow]parc[/color], ensuite le [color=yellow]restaurant[/color] et enfin le [color=yellow]dojo[/color] !"
-msgstr "Спочатку я маю піти до [color=yellow]парку[/color], потім до [color=yellow]ресторану[/color], і нарешті до [color=yellow]додзьо[/color]!"
+msgstr ""
+"Спершу треба сходити до [color=yellow]парку[/color], потім до "
+"[color=yellow]ресторану[/color], і нарешті до [color=yellow]доджьо[/color]!"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_1d26945b"
@@ -4401,7 +4405,7 @@ msgstr "Я дуже сподіваюся, що все буде продовжу�
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_92b37223"
 msgid "La prochaine étape... C'est le dojo, je dois trouver un moyen d'y entrer."
-msgstr "Наступне... мені потрібно знайти спосіб записатися на доджьо."
+msgstr "Далі... мені потрібно буде знайти спосіб записатися на доджьо."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_e0b7465a"
@@ -8706,7 +8710,7 @@ msgstr "Я не можу витрачати весь свій час на вте
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_eafb4276"
 msgid "Et {{akira.n}} ne pourra pas éternellement m'empêcher de m'inscrire au dojo non plus."
-msgstr "Так чи інакше, {{akira.n}} не зможе утримати мене від доджьо назавжди."
+msgstr "{{akira.n}} не зможе завжди не давати мені записатися на доджьо."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_fe08084b"
@@ -25365,22 +25369,26 @@ msgstr "Це означає, що є й інші дівчата, з якими �
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_1e152b26"
 msgid "N'essaie pas de me mentir ou de me cacher la vérité."
-msgstr "Не намагайся брехати мені або приховувати від мене правду."
+msgstr "Навіть не думай брехати мені або приховувати від мене правду."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_8fd1ec85"
 msgid "Si je suis tombée amoureuse de toi, c'était surtout pour ta franchise à me dire les choses nécessaires quand j'avais besoin de les entendre."
-msgstr "Якщо я і закохалася в тебе, то це тому, що ти ніколи не стримувався і говорив мені те, що я найбільше потребувала почути."
+msgstr ""
+"Якщо я і закохалася у тебе, то це тому, що ти ніколи не стримувався і "
+"говорив мені те, що я найбільше потребувала почути."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_5b02e281"
 msgid "Si je suis tombée amoureuse de toi, c'était surtout parce que tu as toujours été là pour me soutenir."
-msgstr "Якщо я і закохалася в тебе, то це тому, що ти завжди був поруч, щоб підтримати мене."
+msgstr ""
+"Якщо я і закохалася у тебе, то це тому, що ти завжди був поруч, щоб "
+"підтримати мене."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_bcebbfab"
 msgid "Sois honnête avec moi, je t'en prie !"
-msgstr "Будь ласка, будь чесними зі мною!"
+msgstr "Будь чесними зі мною, прошу!"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_82f9ef55"
@@ -28576,7 +28584,7 @@ msgstr "Зачекай, що?"
 #: game/story/park.dialogue
 msgctxt "talk_macumba_ca0507fd"
 msgid "Ce mec à un problème, c'est certain..."
-msgstr "У цього хлопця точно є проблема..."
+msgstr "У цього хлопця точно проблеми..."
 
 #: game/story/park.dialogue
 msgctxt "talk_macumba_7c940036"
@@ -39938,7 +39946,7 @@ msgstr "Я говорю лише про нас з тобою."
 #: game/story/restaurant_sakuya_room.dialogue
 msgctxt "restaurant_sakuya_room_7993b461"
 msgid "Tu me laisseras m'inscrire au dojo ?"
-msgstr "Ти дозволиш мені приєднатися до додзьо?"
+msgstr "Ти даси мені записатися на доджо?"
 
 #: game/story/restaurant_sakuya_room.dialogue
 msgctxt "restaurant_sakuya_room_b7119ee0"
@@ -53390,7 +53398,7 @@ msgstr "Чорт! Він такий швидкий."
 #: game/story/konbini_exterior.dialogue
 msgctxt "konbini_exterior_733c4a7b"
 msgid "Je crois qu'il se dirigeait vers le [color=yellow]dojo[/color]."
-msgstr "Думаю, він прямував до [color=yellow]додзьо[/color]."
+msgstr "Думаю, він прямував до [color=yellow]доджьо[/color]."
 
 #: game/story/konbini_exterior.dialogue
 msgctxt "konbini_exterior_bde0f877"
