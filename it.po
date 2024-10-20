@@ -111,7 +111,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "PO-Revision-Date: 2024-10-22 14:22+0000\n"
-"Last-Translator: Doukutsu <jigenbogani@gmail.com>\n"
+"Last-Translator: Baffrus <baffrus@gmail.com>\n"
 "Language-Team: Italian <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/it/>\n"
 "Language: it\n"
@@ -19278,10 +19278,9 @@ msgid "Quoi donc ?"
 msgstr "E allora?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "talk_yasuka_4888a177"
 msgid "De te voir t'amuser avec {{noriko.n}}, cela faisait si longtemps..."
-msgstr "È da tanto che non vedevo divertirti con {{noriko.n}}..."
+msgstr "È da tanto che non ti vedevo divertirti con {{noriko.n}}..."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "talk_yasuka_6b83a044"
@@ -20022,7 +20021,7 @@ msgstr "Non voglio che la gente pensi che sia una ragazza ingrata."
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_bea3cc93"
 msgid "Mais tu m'en devras une !"
-msgstr ""
+msgstr "Ma mi devi un favore!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_03d9eec4"
@@ -20059,17 +20058,17 @@ msgstr "Restiamo positivi."
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_33d3eafd"
 msgid "Elle ne devrait plus trop tarder..."
-msgstr ""
+msgstr "Non dovrebbe mancare molto..."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_6ef3faa5"
 msgid "[i]Environ 3 heures plus tard...[/i]"
-msgstr ""
+msgstr "[i]Circa 3 ore dopo...[/i]."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_fff74431"
 msgid "Elle aurait déjà dû arriver depuis des heures..."
-msgstr ""
+msgstr "Sarebbe dovuta arrivare ore fa..."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_b474e50b"
@@ -67755,3 +67754,8 @@ msgstr "[font_size=14]Potevi dirmelo prima![/font_size]"
 msgctxt "galleries.backgrounds.sprite"
 msgid "NatsumeLean"
 msgstr "{{natsume.n}} (appoggiato)"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_b38e2f9c"
+msgid "Je n'ai vraiment pas envie d'y retourner..."
+msgstr "Non voglio tornare indietro..."
