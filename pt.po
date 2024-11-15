@@ -110,8 +110,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
-"PO-Revision-Date: 2024-11-14 03:39+0000\n"
-"Last-Translator: Kauan Ricardo Alves Alexandre <kauanalvesvpna@gmail.com>\n"
+"PO-Revision-Date: 2024-11-15 16:10+0000\n"
+"Last-Translator: Lucas <lucas25amaral@gmail.com>\n"
 "Language-Team: Portuguese <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/pt/>\n"
 "Language: pt\n"
@@ -13309,7 +13309,7 @@ msgstr "Você vai me obedecer, entendeu?"
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "pc_noriko_f8001b90"
 msgid "Est-ce que je me suis bien fait comprendre cette fois-ci ?"
-msgstr "{{noriko.n}}, eu deixei claro?"
+msgstr "Eu me fiz entender corretamente desta vez?"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "pc_noriko_e2cb7a2e"
@@ -18984,12 +18984,12 @@ msgstr ""
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_8cc61393"
 msgid "Bonjour mon chéri."
-msgstr ""
+msgstr "Olá, meu querido."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_13f52085"
 msgid "Bonjour mon chéri."
-msgstr ""
+msgstr "Olá, meu querido."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_c57e37b8"
@@ -19349,12 +19349,12 @@ msgstr ""
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_7b2c5ef2"
 msgid "Passe une bonne journée mon chéri."
-msgstr ""
+msgstr "Tenha um bom dia, minha querida."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_f7a2c8ca"
 msgid "Passe une bonne journée mon chéri."
-msgstr ""
+msgstr "Tenha um bom dia, minha querida."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_26bf1564"
@@ -34742,22 +34742,22 @@ msgstr "Mas é claro... Está fechado."
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_ec2adc19"
 msgid "On se verra ce soir à la maison."
-msgstr ""
+msgstr "Nos vemos em casa esta noite."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_bd1a143c"
 msgid "Ça me fait plaisir que tu viennes me voir !"
-msgstr ""
+msgstr "Fico feliz que você venha me ver!"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_04c36d55"
 msgid "Tu désires quelque chose ?"
-msgstr ""
+msgstr "Você quer alguma coisa?"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "t16597b9a4f"
 msgid "Un café."
-msgstr ""
+msgstr "Um café."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_221be6bf"
@@ -55615,7 +55615,7 @@ msgstr "Meia-irmã tira a virgindade do Meio-irmão"
 
 #: game/scenes/cg/noriko/laptop.tscn
 msgid "Demi-Sœur Se Fait Prendre Dans Son Sommeil Par Son Demi-Frère"
-msgstr "A Meia-irmã Foi Fodida Pelo Meio-irmão Enquanto Dormia"
+msgstr "Irmã adotiva foi fodida enquanto dormia pelo irmão adotivo"
 
 #: core/scripts/clock.gd
 msgid "morning"
@@ -55779,7 +55779,7 @@ msgstr "Kombini"
 #: game/scenes/locations/city.tscn
 msgctxt "location"
 msgid "home_minato_exterior"
-msgstr "Casa de {minato.n}"
+msgstr "Casa do {minato.n}"
 
 #: game/scenes/locations/city.tscn
 msgctxt "location"
@@ -55804,7 +55804,7 @@ msgstr "[i]Cafeteria[/i]"
 #: game/scenes/locations/city.tscn
 msgctxt "location"
 msgid "hostess_club_exterior"
-msgstr ""
+msgstr "Clube Hostess"
 
 #: game/scenes/locations/city.tscn
 msgctxt "location"
@@ -55814,27 +55814,27 @@ msgstr "Love Hotel (Exterior)"
 #: game/scenes/locations/city.tscn
 msgctxt "location"
 msgid "onsen_exterior"
-msgstr ""
+msgstr "Onsen"
 
 #: game/scenes/locations/city.tscn
 msgctxt "location"
 msgid "warehouse_exterior"
-msgstr ""
+msgstr "Exterior do armazém"
 
 #: game/scenes/locations/city.tscn
 msgctxt "location"
 msgid "canal"
-msgstr ""
+msgstr "Canal"
 
 #: game/scenes/locations/city.tscn
 msgctxt "location"
 msgid "bus_stop"
-msgstr ""
+msgstr "Ponto de ônibus"
 
 #: game/scenes/locations/city.tscn
 msgctxt "location"
 msgid "arcade_exterior"
-msgstr ""
+msgstr "Arcade (Exterior)"
 
 #: game/scenes/locations/city.tscn
 msgctxt "location"
@@ -55844,7 +55844,7 @@ msgstr ""
 #: game/scenes/locations/city.tscn
 msgctxt "location"
 msgid "lake"
-msgstr ""
+msgstr "Lago"
 
 #: game/scenes/gui/gui_location.tscn
 msgid "Lundi"
@@ -55852,77 +55852,93 @@ msgstr "Segunda-feira"
 
 #: game/scenes/gui/gui_location.tscn
 msgid "¥ "
-msgstr ""
+msgstr "¥ "
 
 #: game/scenes/gui/gui_location.tscn
 msgid "0123456789"
-msgstr ""
+msgstr "0123456789"
 
 #: game/scenes/gui/gui_start_asami.tscn
 msgid "ASAMI"
-msgstr ""
+msgstr "ASAMI"
 
 #: game/scenes/gui/gui_start_asami.tscn
 msgid "Vous pouvez dès à présent poursuivre l’histoire d’{{asami.n}} et revenir à l’intrigue principale quand vous le souhaitez."
 msgstr ""
+"Agora você pode continuar a história de {{asami.n}} e retornar à trama "
+"principal sempre que quiser."
 
 #: game/scenes/gui/gui_start_asami.tscn
 msgid "Vous avez fait le choix de vous lier [color=yellow]d'amitié[/color]."
-msgstr ""
+msgstr "Você escolheu se tornar [color=yellow]amigo[/color]."
 
 #: game/scenes/gui/gui_start_asami.tscn
 msgid "Vous avez fait le choix de la [color=yellow]corrompre[/color]."
-msgstr ""
+msgstr "Você optou por [colour=yellow]corrompê-la[/color]."
 
 #: game/scenes/gui/gui_start_asami.tscn game/scenes/gui/gui_start_sakuya.tscn game/scenes/gui/gui_start_yasuka.tscn
 msgid "J'ai compris"
-msgstr ""
+msgstr "Eu entendo"
 
 #: game/scenes/gui/gui_start_sakuya.tscn
 msgid "SAKUYA"
-msgstr ""
+msgstr "SAKUYA"
 
 #: game/scenes/gui/gui_start_sakuya.tscn
 msgid "Vous pouvez dès à présent poursuivre l’histoire de {{sakuya.n}}."
-msgstr ""
+msgstr "Agora você pode continuar a história de {{sakuya.n}}."
 
 #: game/scenes/gui/gui_start_sakuya.tscn
 msgid "Vous avez fait des choix tout au long de votre aventure, peu importe qu'ils soient bons ou mauvais. {{sakuya.n}} vous les fera assumer."
 msgstr ""
+"Você fez escolhas ao longo de sua aventura, não importa quão boas ou ruins "
+"elas tenham sido. {{sakuya.n}} fará você assumi-los."
 
 #: game/scenes/gui/gui_start_yasuka.tscn
 msgid "YASUKA"
-msgstr ""
+msgstr "YASUKA"
 
 #: game/scenes/gui/gui_start_yasuka.tscn
 msgid "Vous pouvez dès à présent poursuivre l’histoire de {{yasuka.n}} et revenir à l’intrigue principale quand vous le souhaitez."
 msgstr ""
+"Agora você pode continuar a história de {{yasuka.n}} e retornar à trama "
+"principal sempre que quiser."
 
 #: game/scenes/gui/gui_start_yasuka.tscn
 msgid "Vous avez fait le choix de l'[color=yellow]aimer et de la soutenir[/color]."
-msgstr ""
+msgstr "Você fez a escolha de amar e apoiar [color=yellow][/color]."
 
 #: game/scenes/gui/gui_start_yasuka.tscn
 msgid "Vous avez fait le choix de la laisser [color=yellow]travailler au bar à hôtesse[/color]."
 msgstr ""
+"Você optou por deixá-la [color=yellow]trabalhar no bar da "
+"recepcionista[/color]."
 
 #: game/scenes/gui/splashscreen.tscn
 msgid "Certaines scènes de ce jeu peuvent contenir du contenu sexuellement explicite et pourrait choquer un jeune public. Tous les personnages de ce jeu sont majeurs."
 msgstr ""
+"Algumas cenas deste jogo podem conter conteúdo sexualmente explícito e podem "
+"ser ofensivas para o público jovem. Todos os personagens deste jogo são "
+"adultos."
 
 #: game/scenes/gui/splashscreen.tscn
 msgid ""
 "Pendant votre aventure, vos choix impacteront votre entourage, si vous rejetez plusieurs fois un personnage attendez vous a ce qu’il aille voir ailleurs. Tout ceci dans le but de garder une certaine"
 " cohérence avec le monde réel."
 msgstr ""
+"Durante sua aventura, suas escolhas impactarão aqueles ao seu redor; se você "
+"rejeitar um personagem várias vezes, espere que eles procurem outro lugar. "
+"Tudo isso para manter uma certa consistência com o mundo real."
 
 #: game/scenes/gui/splashscreen.tscn
 msgid "Vos actions auront des conséquences..."
-msgstr ""
+msgstr "Suas ações terão consequências..."
 
 #: game/scenes/gui/splashscreen.tscn
 msgid "[fill]Certaines [url=data]données anonymes[/url] peuvent être récoltées pour améliorer l'expérience de jeu.[/fill]"
 msgstr ""
+"[fill]Alguns [url=data]dados anônimos[/url] podem ser coletados para "
+"melhorar a experiência de jogo.[/fill]"
 
 #: game/scenes/gui/splashscreen.tscn
 msgid ""
@@ -55932,19 +55948,45 @@ msgid ""
 "- informations de plateforme (Windows, Android, etc.)\n"
 "- informations de build (animations, censure, mode web, etc.)"
 msgstr ""
+"Os dados coletados incluem:\n"
+"- número da versão atual\n"
+"- preferências do jogador (modo \"batata\")\n"
+"- informações da plataforma (Windows, Android, etc.)\n"
+"- construir informações (animações, censura, modo web, etc.)"
 
 #: game/scenes/gui/splashscreen.tscn
 msgid "Ces données seront recueillies après acceptation de ces termes, et ne contiennent pas d'identifiant direct ni informations externes au jeu."
 msgstr ""
+"Esses dados serão coletados após a aceitação destes termos e não contêm "
+"nenhum identificador direto ou informações externas ao jogo."
 
 #: game/scenes/gui/splashscreen.tscn
 msgid "[url=disclaimer]Retour[/url]"
-msgstr ""
+msgstr "[url=disclaimer]Voltar[/url]"
 
 #: game/scenes/gui/splashscreen.tscn
 msgid "Je gère !"
-msgstr ""
+msgstr "Eu consigo!"
 
 #: game/scenes/gui/splashscreen.tscn
 msgid "Sortez-moi d'ici !"
-msgstr ""
+msgstr "Tire-me daqui!"
+
+#: game/scenes/gui/gui_start_asami.tscn
+msgid "Vous avez fait le choix de [color=yellow]rester amis[/color]."
+msgstr "Você optou por [color=yellow]continuar amigo[/color]."
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "home_kenji_exterior"
+msgstr "Casa de {{kenji.n}}"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "home_nobu_exterior"
+msgstr "Casa de {{nobu.n}}"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "home_takeo_exterior"
+msgstr "Casa de {{takeo.n}}"
