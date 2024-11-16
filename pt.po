@@ -111,7 +111,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "PO-Revision-Date: 2024-11-18 20:21+0000\n"
-"Last-Translator: Lucas <lucas25amaral@gmail.com>\n"
+"Last-Translator: Jack Hellrer <p.santoscarv1@gmail.com>\n"
 "Language-Team: Portuguese <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/pt/>\n"
 "Language: pt\n"
@@ -58746,3 +58746,28 @@ msgstr "Sai de cima de mim agora!"
 msgctxt "home_player_corridor_1d90a5cc"
 msgid "Et tête de bite ?"
 msgstr "E o cabeça de pica?"
+
+#: game/scenes/gui/game_menu/galleries.tscn
+msgid "ANIMATIONS"
+msgstr "ANIMAÇÕES"
+
+#: game/scenes/gui/game_menu/navigation.tscn
+msgid "PRÉFÉRENCES"
+msgstr "PREFERÊNCIAS"
+
+#: game/scenes/gui/game_menu/navigation.tscn
+msgid "SAUVEGARDES"
+msgstr "SALVAR"
+
+#: game/scenes/gui/game_menu/main.tscn
+msgid "OPTIONS"
+msgstr "OPÇÕES"
+
+#: game/scenes/gui/game_menu/main.tscn game/scenes/gui/game_menu/galleries/backgrounds_visualisation.tscn game/scenes/gui/game_menu/galleries/movies_visualisation.tscn
+msgid "RETOUR"
+msgstr "VOLTAR"
+
+#: game/scenes/gui/game_menu/preferences.tscn
+msgctxt "game_menu.crumbs"
+msgid "PRÉFÉRENCES"
+msgstr "PREFERÊNCIAS"
