@@ -112,8 +112,8 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-07 19:57+0100\n"
-"PO-Revision-Date: 2024-10-31 07:49+0000\n"
-"Last-Translator: Jorge Garcia <jorge30123@gmail.com>\n"
+"PO-Revision-Date: 2024-12-22 08:36+0000\n"
+"Last-Translator: Roger Miró <puniasterus@gmail.com>\n"
 "Language-Team: Spanish <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/es/>\n"
 "Language: es\n"
@@ -49938,12 +49938,12 @@ msgstr "¿Qué hay de-"
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "talk_thugs_67e34fd9"
 msgid "FERME TA GUEULE !"
-msgstr "¡CIERREN LA BOCA!"
+msgstr "¡CÁLLATE LA BOCA!"
 
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "talk_thugs_9e1e8e2b"
 msgid "J'EN AI RAS LE CUL DE VOUS TROIS !"
-msgstr "ESTOY HARTO DE VOSOTROS TRES."
+msgstr "¡ESTOY HARTO DE VOSOTROS TRES!"
 
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "talk_thugs_c67f0a8b"
@@ -56523,7 +56523,7 @@ msgstr "SAKUYA"
 
 #: game/scenes/gui/gui_start_sakuya.tscn
 msgid "Vous pouvez dès à présent poursuivre l’histoire de {{sakuya.n}}."
-msgstr "Ahora puedes continuar la historia de {{sakuya.n}}."
+msgstr "Ya puedes continuar la historia de {{sakuya.n}}."
 
 #: game/scenes/gui/gui_start_sakuya.tscn
 msgid "Vous avez fait des choix tout au long de votre aventure, peu importe qu'ils soient bons ou mauvais. {{sakuya.n}} vous les fera assumer."
@@ -72538,3 +72538,816 @@ msgstr "¡Te quedarás fuera hasta que seas más educado!"
 msgctxt "event_nobu_fight_at_home_532012eb"
 msgid "Mais putain tu fais chier !"
 msgstr "¡Eres un grano en el culo!"
+
+#: game/scenes/gui/gui_start_asami.tscn
+msgid "Vous pouvez dès à présent poursuivre l’histoire d’{{asami.n}}."
+msgstr "Ya puedes continuar la historia de {{asami.n}}."
+
+#: game/story/love_hotel_reception.dialogue
+msgctxt "t95cd12ef54"
+msgid "Oui !"
+msgstr "¡Sí!"
+
+#: game/story/home_minato_hallway.dialogue
+msgctxt "t2709a8f1a3"
+msgid "Oui..."
+msgstr "Sí..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "te5946ba32c"
+msgid "Je comprends..."
+msgstr "Entiendo..."
+
+#: game/story/canal.dialogue
+msgctxt "t60ba0d0c8c"
+msgid "Quoi ?!"
+msgstr "¡¿Qué?!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "tb58226ef9d"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "tcaa1b16bb4"
+msgid "..."
+msgstr "..."
+
+#: game/story/warehouse_exterior.dialogue
+msgctxt "t5f74ae7a1f"
+msgid "..."
+msgstr "..."
+
+#: game/story/onsen_bath.dialogue
+msgctxt "t39a93ffac4"
+msgid "..."
+msgstr "..."
+
+#: game/story/canal.dialogue
+msgctxt "ta01b77093f"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "td7358f7acf"
+msgid "..."
+msgstr "..."
+
+#: game/story/arcade_exterior.dialogue
+msgctxt "tc51296653b"
+msgid "..."
+msgstr "..."
+
+#: game/story/arcade_exterior.dialogue
+msgctxt "ta963a2a822"
+msgid "..."
+msgstr "..."
+
+#: game/story/love_hotel_reception.dialogue
+msgctxt "t5bcfe4757c"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "ta301e36e4e"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "t8bde632322"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "t58169b92dc"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "tc06f62f56a"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "td11dd8b9b3"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "td70e6e67ab"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t0be4a33b3a"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t6f74920340"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "td57711da10"
+msgid "..."
+msgstr "..."
+
+#: game/story/onsen_interior.dialogue
+msgctxt "t94e4e260d0"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "t8f0b6fb415"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "t232fbd9bf3"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "te77a993896"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "t0fdce11ac1"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "tddf15eab8d"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "ta83d00658f"
+msgid "..."
+msgstr "..."
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "ta7bface5ce"
+msgid "..."
+msgstr "..."
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "t8c62ab70f3"
+msgid "..."
+msgstr "..."
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "t6da9922d7f"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_minato_hallway.dialogue
+msgctxt "t4ff6dbb309"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_asami_bathroom.dialogue
+msgctxt "t693273e091"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "t77fb0b8a12"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "tfcef30ccb5"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "t82e78a9bd0"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "t9eef5cefc2"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "t6b78a40ccb"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "teba4cbc7c3"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "t5e0b7a179f"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_asami_sayuri_room.dialogue
+msgctxt "t8fda756839"
+msgid "..."
+msgstr "..."
+
+#: game/story/love_hotel_room.dialogue
+msgctxt "tc604a699c8"
+msgid "Euh..."
+msgstr "Uhh..."
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "t98bef4c467"
+msgid "Mais..."
+msgstr "Pero..."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t74fdc3042d"
+msgid "Mais..."
+msgstr "Pero..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "tee4cadabab"
+msgid "Alors ?"
+msgstr "¿Entonces?"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "t7b36ff4694"
+msgid "Mais ?"
+msgstr "¿Pero?"
+
+#: game/story/onsen_interior.dialogue
+msgctxt "t31937da5c5"
+msgid "Parfait !"
+msgstr "¡Perfecto!"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "tba2629200b"
+msgid "Parfait !"
+msgstr "¡Perfecto!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "taacebc84dc"
+msgid "Tu as rêvé de ça toute ta vie !"
+msgstr "¡Llevas toda la vida soñando con esto!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "tfbb01380fe"
+msgid "C'est ton moment, ne laisse personne te l'enlever !"
+msgstr "Este es tu momento, ¡no dejes que nadie te lo arrebate!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "te8e686c2f0"
+msgid "Oh non, je t'en prie, vas-y ! Va te faire latter les couilles !"
+msgstr "¡Oh no, por favor, adelante! ¡Ve y que te pateen las pelotas!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "t0f6371900e"
+msgid "Et comment, mon frère !"
+msgstr "¡Por supuesto, hermano!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "tcf664ac072"
+msgid "{{noriko.n}} tiens-toi prête, j'arrive !"
+msgstr "¡{{noriko.n}} prepárate, ¡ya voy!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "t6663a9251c"
+msgid "[font_size=14]Oh merde, c'est l'autre tête de bite ![/font_size]"
+msgstr "[font_size=14]¡Oh, mierda, es el otro imbécil![/font_size]"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "t4d8fde1f4b"
+msgid "[font_size=14]Je suis venu pour ma récompense ![/font_size]"
+msgstr "[font_size=14]¡He venido a por mi recompensa![/font_size]"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "tf971475309"
+msgid "[font_size=14]Tu n'as pas le droit de te défiler ![/font_size]"
+msgstr "[font_size=14]¡No tienes derecho a echarte atrás![/font_size]"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "t698697627b"
+msgid "[font_size=14]Et mais c'est sympa ici...[/font_size]"
+msgstr "[font_size=14]Pero aquí se está bien...[/font_size]"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "td1832a271f"
+msgid "[font_size=14]Très mignon ![/font_size]"
+msgstr "[font_size=14]¡Qué mono![/font_size]"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "tecfb510e0b"
+msgid "[font_size=14]Tu vas rentrer dans le vif du sujet ? Parfait ![/font_size]"
+msgstr ""
+"[font_size=14]¿Vas a llegar al fondo del asunto? ¡Estupendo![/font_size]"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "t5261577289"
+msgid "[font_size=14]Voici comment nous allons procéder, déjà j'aimerais que tu sois pieds nus et qu-[/font_size]"
+msgstr ""
+"[font_size=14]Así es como vamos a proceder. En primer lugar, me gustaría que "
+"te descalzaras y-[/font_size]"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "t988e69a3a5"
+msgid "[font_size=14]Put... Pourquoi tu as frappé avec le genou ?[/font_size]"
+msgstr ""
+"[font_size=14]Joder... ¿Por qué me golpeaste con la rodilla?[/font_size]"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "t06ea16b032"
+msgid "[font_size=14]Arglll...[/font_size]"
+msgstr "[font_size=14]Arglll...[/font_size]"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "t7c3c1203a8"
+msgid "Tu pouvais pas empêcher cet idiot d'entrer dans ma chambre ?"
+msgstr "¿No pudiste mantener a ese idiota fuera de mi habitación?"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "tb51918014d"
+msgid "Ce type est un crétin !"
+msgstr "¡Este tipo es un imbécil!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "t0b03df2d2e"
+msgid "Je sais..."
+msgstr "Lo sé..."
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "t000b6e0689"
+msgid "Je sais..."
+msgstr "Lo sé..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "tdffdab63ae"
+msgid "Oh mon pauvre petit bichon se retrouve tout seul !"
+msgstr "¡Oh, mi pobre bichoncito está solo!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "td62a2a62c2"
+msgid "Allez, ne t'en fais pas, je m'occuperai de toi ce soir si tu veux !"
+msgstr "Vamos, no te preocupes, ¡te cuidaré esta noche si quieres!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "t9c1da4a599"
+msgid "Objection !"
+msgstr "¡Protesto!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "t9032303c74"
+msgid "Occupe-toi plutôt de moi !"
+msgstr "¡Cuídame a mí en su lugar!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "t3a476f7a24"
+msgid "...[w]Plutôt mourir."
+msgstr "...[w]Prefiero morir."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "t79656c7c11"
+msgid "Allez, arrête les bêtises et discutons dans ma chambre plutôt !"
+msgstr "¡Vamos, déjate de tonterías y hablemos en mi habitación!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "t4f1e0d6e50"
+msgid "[font_size=14]Sa suffit, dégage ![/font_size]"
+msgstr "[font_size=14]¡Ya basta, lárgate![/font_size]"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "tfb1c013bb8"
+msgid "[font_size=14]Tu veux me tuer ou quoi ?[/font_size]"
+msgstr "[font_size=14]¿Quieres matarme o qué?[/font_size]"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "tc2593d6bca"
+msgid "[font_size=14]Tu n'as qu'a te finir tout seul ![/font_size]"
+msgstr ""
+"[font_size=14]¡Todo lo que tienes que hacer es acabar tú mismo![/font_size]"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "tcdc4c5feca"
+msgid "Mhh j'ai peut être un peu abusé."
+msgstr "Mhh, puede que me haya pasado un poco."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "te633e9bd8c"
+msgid "Je n'aurais pas du demander une septième fois."
+msgstr "No debería haber preguntado por séptima vez."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "t66482ca19b"
+msgid "Je suppose qu'il est temps d'aller dormir."
+msgstr "Supongo que es hora de dormir."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "t56ccf3cc2a"
+msgid "Et maintenant c'est au tour de la mère d'{{asami.n}} ?"
+msgstr "¿Y ahora es el turno de la madre de {{asami.n}}?"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "t54aa5fe07a"
+msgid "Comment ça ?"
+msgstr "¿Qué quieres decir?"
+
+#: game/story/onsen_bath.dialogue
+msgctxt "t73967b3c38"
+msgid "Comment ça ?"
+msgstr "¿Qué quieres decir?"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "ta50779437b"
+msgid "Comment ça ?"
+msgstr "¿Qué quieres decir?"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "ta54c19ad04"
+msgid "Depuis quelque temps tu as une fâcheuse tendance à te retrouver intime avec toutes les filles que tu rencontres."
+msgstr ""
+"Últimamente tienes una extraña tendencia a intimar con todas las chicas que "
+"conoces."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "t9515b484fd"
+msgid "...Je vais pas te contredire la dessus mais..."
+msgstr "...No te voy a contradecir en eso pero..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "t407d9f1bdc"
+msgid "Avec {{sayuri.n}} c'est différent !"
+msgstr "¡Con {{sayuri.n}} es diferente!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "t80a3ca40f4"
+msgid "Explique moi en quoi ?"
+msgstr "¿Cómo?"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "tb8fa6ebdf8"
+msgid "Elle est mariée !"
+msgstr "¡Está casada!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "t186315ea49"
+msgid "Quoi ?! C'est tout ?"
+msgstr "¡¿Qué?! ¿Eso es todo?"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "t5591db1c51"
+msgid "Et bien quoi ?"
+msgstr "¿Qué pasa con eso?"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "t572d2fd329"
+msgid "Pourtant ça t'a pas gêné de le faire avec ma mère et moi."
+msgstr "Pero no te importó hacerlo conmigo y con mi madre."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "ta1afcea64a"
+msgid "C'est... différent."
+msgstr "Esto es... diferente."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "td2c5070b86"
+msgid "En quoi ?"
+msgstr "¿En qué sentido?"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "tecfe73541b"
+msgid "Je plains l'autre tête de bite..."
+msgstr "Lo siento por el otro imbécil...."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "t1bbf64f9ef"
+msgid "Qu'est ce que {{kimochi.n}} à avoir là dedans ?"
+msgstr "¿Qué tiene que ver {{kimochi.n}} con esto?"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "t62830abfad"
+msgid "Il ne se passera rien avec elle !"
+msgstr "¡No ocurrirá nada con ella!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "t5b02d0740d"
+msgid "Tu sous-estimes trop le sex-appeal d'une femme mariée mon pauvre {{saito.n}}"
+msgstr ""
+"Subestimas el atractivo sexual de una mujer casada, mi pobre {{saito.n}}"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "t34550aa936"
+msgid "...[w]N'importe quoi..."
+msgstr "...[w]Tonterías..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "te66c6edf85"
+msgid "[font_size=14]Et rappelle toi...[/font_size]"
+msgstr "[font_size=14]Y recuerda...[/font_size]"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "tb1ec01f44d"
+msgid "[font_size=14]On ne touche pas pas à la mère de sa meilleure amie[/font_size]"
+msgstr "[font_size=14]¡No toques a la madre de tu mejor amiga![/font_size]"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "t4b748d8a3a"
+msgid "[font_size=14]On ne touche pas pas à la mère de sa petite amie[/font_size]"
+msgstr "[font_size=14]No toques a la madre de tu novia[/font_size]"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "tc4bea41113"
+msgid "Je t'ai déjà dis qu'il ne se passerait rien !"
+msgstr "¡Ya te dije que no pasaría nada!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "te8244f15f1"
+msgid "[font_size=14]C'est ce qu'ils disent tous...[/font_size]"
+msgstr "[font_size=14]Eso es lo que dicen todos...[/font_size]"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "teb79a71097"
+msgid "Oh merde !"
+msgstr "¡Oh, mierda!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "t583d7b4288"
+msgid "Tu m'as fait peur, je ne m'attendais pas à te trouver là."
+msgstr "Me asustaste, no esperaba encontrarte aquí."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "t00543a8508"
+msgid "Tu rentres tard, une fois de plus."
+msgstr "Vuelves tarde otra vez."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "te78d30b416"
+msgid "Oui je sais..."
+msgstr "Sí, ya lo sé..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "t95d51d26b9"
+msgid "Donc c'est terminé ?"
+msgstr "¿Así que se acabó?"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "tad373f642e"
+msgid "mhh pas exactement..."
+msgstr "Mhh no exactamente..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "tda848956db"
+msgid "Tu la vois toujours demain, c'est ça ?"
+msgstr "Vas a seguir viéndola mañana, ¿verdad?"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "t74d7ccd50e"
+msgid "On va au parc d'attractions..."
+msgstr "Iremos al parque de atracciones..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "t864211c504"
+msgid "Comment ça pour les couples ?"
+msgstr "¿Qué quieres decir con, para parejas?"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "tb232dd88a5"
+msgid "C'est à se demander si tu connais la ville dans laquelle tu habites."
+msgstr "Esto me hace preguntarme si siquiera conoces la ciudad en la que vives."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "tb9f597cd22"
+msgid "Celui pour les couples ?"
+msgstr "¿Para las parejas?"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "ta6fcdcf6ca"
+msgid "Bon sang ! Mais comment il peut être aussi naif ?!"
+msgstr "¡Maldita sea! ¡¿Cómo puede ser tan ingenuo?!"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "amusement_park_exterior"
+msgstr "Parque de atracciones (exterior)"
+
+#: game/scenes/gui/gui_start_yasuka.tscn
+msgid "Vous pouvez dès à présent poursuivre l’histoire de {{yasuka.n}}."
+msgstr "Ya puedes continuar la historia de {{yasuka.n}}."
+
+#: game/story/konbini_interior.dialogue
+msgctxt "t96081ec5f7"
+msgid "..."
+msgstr "..."
+
+#: game/story/konbini_exterior.dialogue
+msgctxt "t0915597108"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "te3575e0e4c"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "t05328323b7"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "t08253af01a"
+msgid "Merci pour tout."
+msgstr "Gracias por todo."
+
+#: game/story/park.dialogue
+msgctxt "te32d52fca2"
+msgid "Ferme ta gueule !"
+msgstr "¡Cállate!"
+
+#: game/story/amusement_park_interior.dialogue
+msgctxt "td927c4c8b9"
+msgid "Euh..."
+msgstr "Uhh..."
+
+#: game/story/home_asami_bathroom.dialogue
+msgctxt "tacac0c79c9"
+msgid "D'accord..."
+msgstr "De acuerdo..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "t9931b8e595"
+msgid "Allez, tu peux le faire !"
+msgstr "¡Vamos, puedes hacerlo!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "t3944054ebd"
+msgid "Ne dis rien ! Ne gâche pas mon heure de gloire !"
+msgstr "¡No digas ni una palabra! ¡No estropees mi momento de gloria!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "t701acf2248"
+msgid "Je me sens sale rien que de savoir ce qui va se passer là-dedans."
+msgstr "Me siento sucio solo de saber lo que va a pasar ahí dentro."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "t0b8c0a7a3e"
+msgid "[font_size=14]Arrête d'inspecter ma chambre et finissons-en rapidement, j'ai des choses à faire ![/font_size]"
+msgstr ""
+"[font_size=14]Deja de revisar mi habitación y acaba rápido, ¡tengo cosas que "
+"hacer![/font_size]"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "tb7cad4e7d5"
+msgid "C'était impossible de l'arrêter, il était déterminé à obtenir sa récompense."
+msgstr "No hay nada que le detuviera, estaba decidido a obtener su recompensa."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "tf5849805d6"
+msgid "Tu n'es pas avec {{asami.n}} finalement ?"
+msgstr "¿No estás con {{asami.n}} después de todo?"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "t4857709361"
+msgid "Non, son père est venu la chercher sans prévenir et elle est partie passer quelques jours avec lui."
+msgstr "No, su padre la recogió sin avisar y se fue a pasar unos días con él."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "t1a3c3d39db"
+msgid "[font_size=14]Si on recommence une fois de plus je vais faire une crise cardiaque ![/font_size]"
+msgstr ""
+"[font_size=14]¡Si lo hacemos una vez más me va a dar un infarto![/font_size]"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "t40fb58d7df"
+msgid "Tu penses que le fait qu'elle soit mariée la rend intouchable ?"
+msgstr "¿Crees que el hecho de que esté casada la hace intocable?"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "t87b3fc6ea1"
+msgid "Il va encore te voir avec une nouvelle femme à tes côtés alors que lui va probablement finir sa vie puceau."
+msgstr ""
+"Seguirá viéndote con una nueva mujer a tu lado, mientras que él "
+"probablemente acabará virgen."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "te7ab29873c"
+msgid "Ce parc a une particularité, c'est qu'il ne laisse entrer que et uniquement les couples."
+msgstr "Este parque es único en el sentido de que sólo admite parejas."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "t291e1a5d24"
+msgid "[font_size=14]Il ne se passera rien entre {{sayuri.n}} et moi ![/font_size]"
+msgstr "[font_size=14]¡No pasará nada entre {{sayuri.n}} y yo![/font_size]"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t56126c5a15"
+msgid "Merci !"
+msgstr "¡Gracias!"
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "t872e1234e6"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "t1020b80467"
+msgid "Mais..."
+msgstr "Pero..."
+
+#: game/story/warehouse_interior.dialogue
+msgctxt "tce302fcad6"
+msgid "Parfait !"
+msgstr "¡Perfecto!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "te34ca7e601"
+msgid "Je t'en prie, tu vois très bien de quoi je veux parler."
+msgstr "Por favor, sabes exactamente lo que quiero decir."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "t4f5f8fc6c2"
+msgid "Oh tu es si naïf parfois..."
+msgstr "Oh, a veces eres tan ingenuo..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "t4beca839c3"
+msgid "On devait passer la journée en ville et, au final, on est restés à la salle d'arcade."
+msgstr ""
+"Se suponía que íbamos a pasar el día en la ciudad, pero acabamos quedándonos "
+"en la sala de juegos."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "t6bf39b97ec"
+msgid "Arrête de te moquer de moi !"
+msgstr "¡Deja de reírte de mí!"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "tb222c41a00"
+msgid "Tu es un amour !"
+msgstr "¡Eres un encanto!"
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "t355be6e5ba"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "tc6ed9e19c7"
+msgid "Connard !"
+msgstr "¡Imbécil!"
+
+#: game/story/love_hotel_room.dialogue
+msgctxt "t78c6696c22"
+msgid "Bien sur !"
+msgstr "¡Por supuesto!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "t144d043333"
+msgid "Je ne suis pas assez fou pour tenter quoi que ce soit avec la mère de ma petite amie !"
+msgstr "¡No estoy tan loco como para intentar algo con la madre de mi novia!"
+
+#: game/story/home_minato_hallway.dialogue
+msgctxt "t7c25a56e9a"
+msgid "Oui !"
+msgstr "¡Sí!"
+
+#: game/story/restaurant_interior.dialogue
+msgctxt "t70ad7ccf7d"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t6b62569f21"
+msgid "Je..."
+msgstr "Yo..."
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "t41070439a8"
+msgid "Oui..."
+msgstr "Sí..."
+
+#: game/story/love_hotel_room.dialogue
+msgctxt "tc0a27b8edf"
+msgid "Alors ?"
+msgstr "¿Entonces?"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "te5832f1cb8"
+msgid "Enfin..."
+msgstr "Finalmente..."
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "t071ac4e14f"
+msgid "Merci."
+msgstr "Gracias."
+
+#: game/story/amusement_park_interior.dialogue
+msgctxt "t5563aa424e"
+msgid "Quoi ?!"
+msgstr "¡¿Qué?!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "tf01faab14a"
+msgid "..."
+msgstr "..."
