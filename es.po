@@ -112,7 +112,7 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-07 19:57+0100\n"
-"PO-Revision-Date: 2024-12-22 14:50+0000\n"
+"PO-Revision-Date: 2024-12-22 16:53+0000\n"
 "Last-Translator: Roger Miró <puniasterus@gmail.com>\n"
 "Language-Team: Spanish <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/es/>\n"
@@ -18066,17 +18066,17 @@ msgstr "Bañarse."
 #: game/story/home_player_livingroom.dialogue
 msgctxt "ta3f1ded669"
 msgid "Sexe"
-msgstr "Tener sexo."
+msgstr "Sexo"
 
 #: game/story/park.dialogue
 msgctxt "t85a3e0c5ea"
 msgid "Sexe"
-msgstr "Tener sexo."
+msgstr "Sexo"
 
 #: game/story/restaurant_sakuya_room.dialogue
 msgctxt "t803acfc2d4"
 msgid "Sexe"
-msgstr "Tener sexo."
+msgstr "Sexo"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "talk_yasuka_4fce3151"
@@ -25832,7 +25832,7 @@ msgstr "En efecto."
 #: game/story/restaurant_interior.dialogue
 msgctxt "talk_sakuya_21b9300c"
 msgid "En effet."
-msgstr "Sí, es cierto."
+msgstr "En efecto."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_0e3c8e42"
@@ -65642,7 +65642,7 @@ msgstr "¡Sshhh!"
 #: game/story/home_player_livingroom.dialogue
 msgctxt "t33a780d3b9"
 msgid "Sexe"
-msgstr "Tener sexo."
+msgstr "Sexo"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "t3c4fb61ee5"
@@ -65652,7 +65652,7 @@ msgstr "Hablar"
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "t60102eff9b"
 msgid "Sexe"
-msgstr "Tener sexo."
+msgstr "Sexo"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "t473ad6a9c6"
@@ -74605,3 +74605,584 @@ msgstr "Amor"
 msgctxt "chapters.choices"
 msgid "sakuya/nosex"
 msgstr "Sin sexo"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "tc508d85e63"
+msgid "Pourquoi avoir demandé un truc aussi débile aussi..."
+msgstr "¿Por qué pediste algo tan estúpido...?"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "t8c06a67b3b"
+msgid "Oui, mais pour le coup... c'est illégal."
+msgstr "Sí, pero... es ilegal."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "t7697583e4c"
+msgid "Mais ça ne me dit pas ce que je vais bien pouvoir faire avec {{sayuri.n}} demain..."
+msgstr "Pero eso no me dice lo que haré con {{sayuri.n}} mañana..."
+
+#: game/scenes/gui/gui_start_sayuri.tscn
+msgid "Vous pouvez dès à présent poursuivre l’histoire de {{sayuri.n}}."
+msgstr "Ahora puedes continuar la historia de {{sayuri.n}}."
+
+#: game/scenes/gui/gui_start_sayuri.tscn
+msgid "La mère de votre [color=yellow]meilleure amie[/color] semble déprimée suite à l'absence de sa fille. Peut-être pourriez-vous la réconforter ?"
+msgstr ""
+"La madre de tu [color=yellow]mejor amiga[/color] parece deprimida por la "
+"ausencia de su hija. ¿Quizás podrías animarla?"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "t29232b9113"
+msgid "Ça me paraît une très bonne idée !"
+msgstr "¡Me parece una idea estupenda!"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "tead74e837d"
+msgid "Mais...[w] Te savoir avec une autre femme que moi me perturbe plus que je ne l'aurais cru."
+msgstr ""
+"Pero...[w] Saber que estás con una mujer que no soy yo me molesta más de lo "
+"que pensaba."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "t75715b3828"
+msgid "Tu ne me laisses même pas la possibilité de m'occuper de toi."
+msgstr "Ni siquiera me diste la oportunidad de cuidarte."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "tb93a6105bf"
+msgid "C'est moi qui suis égoïste dans cette histoire."
+msgstr "Yo soy la egoísta en esta historia."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "tcb6a0f9b28"
+msgid "Pour la peine, cette nuit tu es à moi !"
+msgstr "¡Como castigo, esta noche eres mía!"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "t1a876b3080"
+msgid "Okay c'est bon j'ai compris... Avoir ta tête tu n'as pas pu t'en empêcher !"
+msgstr "Vale, lo entiendo... ¡Por la cara que has puesto no pudiste evitarlo!"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "t8c533898ed"
+msgid "En même temps.. Avec le nombre de filles avec qui tu as couché. On peut se permettre d'avoir des doutes !"
+msgstr ""
+"Pero al mismo tiempo... Con la cantidad de chicas con las que te has "
+"acostado. ¡Puedo permitirme tener dudas!"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "t907e05adc7"
+msgid "Bon... Avec ce qu'il s'est passé je vais avoir du mal a dormir."
+msgstr "Bueno... Después de lo que ha pasado voy a tener problemas para dormir."
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "t3c19c8622e"
+msgid "Tout ça m'a fait repenser à nous."
+msgstr "Todo esto me hizo pensar de nuevo en nosotros."
+
+#: game/story/love_hotel_reception.dialogue
+msgctxt "t341f1904ac"
+msgid "Tu n'avais même pas besoin de demander."
+msgstr "Ni siquiera tienes que pedirlo."
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "te2ea7d1f90"
+msgid "Timelapse"
+msgstr "Lapso de tiempo"
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "tfaf210ab97"
+msgid "Oh ![next=5.3]"
+msgstr "¡Oh![next=5.3]"
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "t0f833dbc13"
+msgid "mmhhhhh Oui Oui Ouiiii ![next=8.8]"
+msgstr "¡Hmmm, sí, sí, síííí![next=8.8]"
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "t332e19bb62"
+msgid "Attend ! Si tu bouge comme ça je vais encore...[next=5.3]"
+msgstr "¡Espera! Si te mueves así voy a...[next=5.3]"
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "t262844bbf6"
+msgid "et bien... Ca a l'air assez grave."
+msgstr "Bueno... Eso suena bastante serio."
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "tf23b23d2fe"
+msgid "Tu n'as pas idée à quel point j'étais heureuse d'être enfin considérée comme une femme après tout ce temps."
+msgstr ""
+"No sabes lo feliz que me sentí al ser considerada por fin una mujer después "
+"de tanto tiempo."
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_8dc5c85a"
+msgid "[speed=0.2]80 000 000 ¥..."
+msgstr "[speed=0.2]80 000 000 ¥..."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "tad7b3525e9"
+msgid "Et voilà !"
+msgstr "¡Y listo!"
+
+#: game/story/onsen_interior.dialogue
+msgctxt "ted3ed7f371"
+msgid "Un problème ?"
+msgstr "¿Hay algún problema?"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "t7f573ad0d6"
+msgid "Ca fait combien de temps que tu couchais avec elle ?"
+msgstr "¿Cuánto tiempo llevas acostándote con ella?"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "t9b2146bda9"
+msgid "Ne m'oblige pas à le dire... Tu sais très bien de quoi je veux parler."
+msgstr "No me hagas decirlo... Sabes muy bien lo que quiero decir."
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "t71128971aa"
+msgid "Ah toi aussi ça te choque, je ne suis pas folle, c'est..."
+msgstr "Ah, tú también estás conmocionado, no estoy loca, es..."
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "t3cae13c655"
+msgid "C'est une femme gentille et très attachante mais... Tu ne vas pas être... Jalouse si je passe plus de temps avec elle qu'avec toi ?"
+msgstr ""
+"Es una buena mujer y muy entrañable pero... No estarás... ¿Celosa si paso "
+"más tiempo con ella que contigo?"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t515e1022b8"
+msgid "Sexe"
+msgstr "Sexo"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "t02995efbb1"
+msgid "{{minato.n}} est peut-être un parfait connard avec nous, mais ça ne signifie pas pour autant qu'il s'en prendrait à sa sœur."
+msgstr ""
+"{{minato.n}} puede ser un completo imbécil con nosotros, pero eso no "
+"significa que iría tras su hermana."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "t464d587fb8"
+msgid "Je sais... Mais..."
+msgstr "Lo sé... Pero..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "te3fb38b4fb"
+msgid "J'ai vraiment la sensation qu'elle est en danger."
+msgstr "Realmente tengo la sensación de que está en peligro."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "tba2626cef8"
+msgid "La seule façon pour moi d'abandonner cette idée et de passer à autre chose serait d'entrer chez lui et de vérifier ça par moi-même."
+msgstr ""
+"La única forma de abandonar esa idea y seguir adelante sería entrar en su "
+"casa y comprobarlo por mí mismo."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "t54afcd3e2e"
+msgid "Mais si {{chiaki.n}} a vraiment des problèmes, ça en vaudra la peine."
+msgstr "Pero si {{chiaki.n}} está realmente en problemas, valdrá la pena."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "t8c7a4e2dce"
+msgid "Allez, raccompagne-moi dehors, j'ai du mal à marcher."
+msgstr "Vamos, acompáñame, apenas puedo caminar."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "tcc1e9589c7"
+msgid "À qui la faute aussi ?"
+msgstr "¿Y de quién es la culpa?"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "t0b0b454190"
+msgid "À {{noriko.n}}, bien sûr !"
+msgstr "¡De {{noriko.n}}, por supuesto!"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "t9a035f1b9c"
+msgid "J'ai bien dormi cette nuit !"
+msgstr "¡Anoche dormí bien!"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "t9022eb3200"
+msgid "J'irais bien courir avec {{macumba.n}}, ça fait un moment que je n'y suis pas allé et ça me manque un peu."
+msgstr ""
+"Me encantaría ir a correr con {{macumba.n}}, hace tiempo que no voy y lo "
+"echo de menos."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "tb344624cc0"
+msgid "Honnêtement je sais pas pourquoi elle s'inquiète autant."
+msgstr "Sinceramente, no sé por qué está tan preocupada."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "t30c9b9be16"
+msgid "A l'entendre dire, on croirait que je ne sais pas me contrôler."
+msgstr "Escuchándola, pensarías que no puedo controlarme."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "t523da34848"
+msgid "Est-ce que ce serait un brin de jalousie ?"
+msgstr "¿Podría ser un poco de celos?"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "t995b662168"
+msgid "C'est possible.."
+msgstr "Es posible..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "t57b55900d2"
+msgid "Un endroit intéressant... [w]mhhhh..."
+msgstr "Un lugar interesante... [w]Mhhhh..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "tecf2bc0512"
+msgid "Oh je crois que je sais !"
+msgstr "¡Oh, creo que lo sé!"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "t9c35dc6f40"
+msgid "Mais il va me falloir demander l'avis de {{sakuya.n}}."
+msgstr "Pero tendré que pedirle a {{sakuya.n}} su opinión."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "tb580e94b2c"
+msgid "Bon... Avec le onsen je pense que j'ai placé la barre assez haut."
+msgstr "Bueno... Con el onsen creo que he puesto el listón bastante alto."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "t3912424010"
+msgid "Il va être compliqué de trouver quelque chose d'aussi bien à faire."
+msgstr "Va a ser difícil encontrar algo que lo iguale."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "t27b7fd4da7"
+msgid "Peut-être que quelque chose de simple pourrait fonctionner ?"
+msgstr "¿Quizá algo sencillo podría funcionar?"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "taeb126b9d1"
+msgid "Pourquoi ne pas se balader en ville ?"
+msgstr "¿Por qué no dar un paseo por la ciudad?"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "td49f03a03f"
+msgid "Te revoilà enfin !"
+msgstr "¡Por fin estás aquí!"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "t2ab4409215"
+msgid "{{yasuka.n}} ? Mais que fais tu là ?"
+msgstr "¿{{yasuka.n}}? ¿Qué haces aquí?"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "t4d4084cd9c"
+msgid "Tu m'attend depuis longtemps ?"
+msgstr "¿Llevas mucho tiempo esperando?"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "tbdf43b88a4"
+msgid "Je pensais que cela ne me toucherait pas."
+msgstr "Pensé que no me afectaría."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "te6690cf70f"
+msgid "Que j'étais plus forte que ça."
+msgstr "Que yo era más fuerte que eso."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "t6d8235a88c"
+msgid "Moi aussi j'aimerais que tu m'emmènes en rendez-vous !"
+msgstr "¡A mí también me encantaría que me llevaras a una cita!"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "td4ec3c3868"
+msgid "Pardon... Je me suis laissé porté par la situation."
+msgstr "Lo siento... Me dejé llevar por la situación."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "t92c21389d4"
+msgid "Non mon chéri, tu n'as pas à t'excuser."
+msgstr "No, cariño, no tienes que disculparte."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "t91e85321a2"
+msgid "Après tout, tout ça était mon idée à la base."
+msgstr "Al fin y al cabo, todo fue idea mía."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "t2e4a5f8455"
+msgid "Allons, allons, ne sois pas aussi dure avec toi-même."
+msgstr "Vamos, vamos, no seas tan dura contigo misma."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "t2d599e349e"
+msgid "Demain sera mon dernier rendez-vous avec elle !"
+msgstr "¡Mañana es mi última cita con ella!"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "tc83be6fe48"
+msgid "Après, nous pourrons essayer de passer plus de temps ensemble, d'accord ?"
+msgstr "Después, intentaremos pasar más tiempo juntos, ¿vale?"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "t0256e048c8"
+msgid "Oui... Tu es un amour !"
+msgstr "Sí... ¡Eres un encanto!"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "tf1fb17c8b7"
+msgid "Et puis je crois que la jalousie te rend encore plus attachante..."
+msgstr "Y creo que los celos te hacen aún más entrañable..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "t1fea4ddc4a"
+msgid "Oh toi !"
+msgstr "¡Oh, tú!"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "tf3120e3de6"
+msgid "Mince j'ai encore dormis toute la matinée."
+msgstr "Maldición, dormí toda la mañana otra vez."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "t10003e8c21"
+msgid "Faut dire qu'avec la nuit passé avec {{yasuka.n}}... Il était impossible de ne pas être épuisé."
+msgstr ""
+"Tengo que admitir que después de pasar la noche con {{yasuka.n}}... Era "
+"imposible no estar exhausto."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "t115b58a6ae"
+msgid "Je vais être en retard !"
+msgstr "¡Voy a llegar tarde!"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "tf9a6a7da07"
+msgid "J'espère pour toi que ça en valait la peine au moins."
+msgstr "Espero por tu bien que al menos haya merecido la pena."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "t53326a9949"
+msgid "Qu'est ce que tu comptes faire du coup ?"
+msgstr "¿Qué planeas hacer ahora?"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "te0c0eb7e18"
+msgid "Moi ? Rien."
+msgstr "¿Yo? Nada."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "t8bfa644c7e"
+msgid "Tu vis ta vie comme tu veux... Je voulais juste que tu sois honnête dans tes intentions."
+msgstr ""
+"Vive tu vida como quieras... Solo quería que fueras honesto sobre tus "
+"intenciones."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "t4d9a52cf28"
+msgid "Je t'ai déjà dit qu'il ne se passerais rien !"
+msgstr "¡Te dije que no pasará nada!"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "td91bd17a22"
+msgid "Pourquoi tu n'as pas confiance ?"
+msgstr "¿Por qué no confías en mí?"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "t22ad481a69"
+msgid "Okay... J'admet que tu avais peut être raison."
+msgstr "Vale... Admito que puede que tuvieras razón."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "t899fea160e"
+msgid "La prochaine moi c'est à mon tour de profiter de toi !"
+msgstr "¡La próxima vez me tocará a mí disfrutar de ti!"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "t3fc061c527"
+msgid "Sinon..."
+msgstr "Si no..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "t59da2124a2"
+msgid "...[w]En fait...[w]J'ai promis à {{yasuka.n}} d'abord..."
+msgstr "...[w]En realidad...[w]Le prometí a {{yasuka.n}} primero..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "tddb8d02d47"
+msgid "Tu fais chier !"
+msgstr "¡Maldito seas!"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "t4c209fe4c1"
+msgid "C'est plus la {{noriko.n}} que je connais ça !"
+msgstr "¡Esa es más parecida a la {{noriko.n}} que conozco!"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "t3a34fa703e"
+msgid "Autant en profiter pour aller courir un peu !"
+msgstr "¡Podría aprovechar para salir a correr!"
+
+#: game/story/love_hotel_reception.dialogue
+msgctxt "t0452dc68ff"
+msgid "Merci..."
+msgstr "Gracias..."
+
+#: game/story/konbini_exterior.dialogue
+msgctxt "ta1bc91e18e"
+msgid "Merci..."
+msgstr "Gracias..."
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "tb1ab1807d7"
+msgid "Je serais doux c'est promis ![next=5.5]"
+msgstr "¡Seré delicado, lo prometo![next=5.5]"
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "t703da2bc13"
+msgid "Mmhhhhh Oui![next=8.8]"
+msgstr "¡Hmmmm, sí![next=8.8]"
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "t827064d1fa"
+msgid "En effet."
+msgstr "En efecto."
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "t45f43b7d2a"
+msgid "Tu as une idée pour lui faire retrouver le sourire ?"
+msgstr "¿Tienes alguna idea para que vuelva a sonreír?"
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "t710909f630"
+msgid "A nous ? Comment ça ?"
+msgstr "¿Sobre nosotros? ¿Cómo?"
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "tbcfca6d888"
+msgid "Redécouvrir le plaisir d'aimer et d'être aimé en retour."
+msgstr "Redescubrir el placer de amar y ser amada a cambio."
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "td2e615574d"
+msgid "Tu m'as comblée de bonheur quand tu t'es occupé de moi, tout ça m'a donné une idée."
+msgstr "Me hiciste tan feliz cuando me cuidaste, y todo eso me dio una idea."
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "t841c1f176c"
+msgid "Je ne suis pas sûr de savoir où tu veux en venir."
+msgstr "No sé muy bien qué quieres decir."
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "t8e1e247912"
+msgid "J'aimerais que {{sayuri.n}} puisse connaitre ce même bonheur."
+msgstr "Me gustaría que {{sayuri.n}} pudiera experimentar la misma felicidad."
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "t6cc7eb957c"
+msgid "Sinon j'ai peur qu'elle fasse des bêtises qu'elle pourrait regretter."
+msgstr "Si no, temo que haga algo de lo que se arrepienta."
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "t2e069a817d"
+msgid "Et bien présenté de cette façon c'est difficile de refuser."
+msgstr "Bueno, si lo planteas así, es difícil decir que no."
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "t842201da64"
+msgid "Quel est le problème ? Tu ne l'apprécies pas ?"
+msgstr "¿Qué problema hay? ¿No te gusta?"
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "t4879fc7ac8"
+msgid "Non, non, rien a voir."
+msgstr "No, no, nada que ver con eso."
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "t870aa99030"
+msgid "Mon chéri, c'est adorable que tu penses à moi avant tout mais ne t'en fais pas, il ne s'agit que de quelques jours le temps que sa fille ne revienne."
+msgstr ""
+"Cariño, es encantador que pienses en mí ante todo, pero no te preocupes, es "
+"solo por unos días hasta que vuelva su hija."
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "t634d5683c6"
+msgid "Autre problème que je vois.... {{sayuri.n}} acceptera t'elle de passer du temps avec un homme qui à l'âge de sa fille."
+msgstr ""
+"Otro problema que veo es.... ¿Aceptará {{sayuri.n}} pasar tiempo con un "
+"hombre de la edad de su hija?"
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "t670df50b98"
+msgid "Ne t'inquiète pas, je sais de source sûre qu'elle n'est pas insensible à tes charmes."
+msgstr ""
+"No te preocupes, sé de buena fuente que no es insensible a tus encantos."
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "tfb2f7a06d7"
+msgid "Une seconde, ça veut dire quoi ça...?"
+msgstr "Un momento, ¿qué significa eso...?"
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "t1fac59ba5f"
+msgid "Allez viens avec moi !"
+msgstr "¡Vamos, ven conmigo!"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t8e7bad3ac0"
+msgid "NON !"
+msgstr "¡NO!"
+
+#: game/story/park.dialogue
+msgctxt "t8fbfdb1872"
+msgid "J'ai un mauvais pressentiment."
+msgstr "Tengo un mal presentimiento."
+
+#: game/story/arcade_exterior.dialogue
+msgctxt "t1322efbb99"
+msgid "Un problème ?"
+msgstr "¿Hay algún problema?"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "tbae4d5efc7"
+msgid "...Il est vraiment reparti comme ça... Sans prévenir ?"
+msgstr "...¿Realmente se fue así... ¿Sin avisar?"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "t94d5259211"
+msgid "Oh bonjour {{saito.n}} !"
+msgstr "¡Oh, hola {{saito.n}}!"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "te2186388a4"
+msgid "Désolé mon chéri, on t'a réveillé ?"
+msgstr "Lo siento cariño, ¿te hemos despertado?"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "t102709a3a7"
+msgid "Non non, j'allais juste courir au parc."
+msgstr "No, no, solo iba a correr por el parque."
+
+#: game/scenes/gui/chapters/chapters.tscn
+msgid "Quand voulez-vous commencer l'histoire ?"
+msgstr "¿Cuándo quieres empezar la historia?"
+
+#: game/scenes/gui/chapters/chapters.tscn
+msgid "Quels choix avez-vous effectués ?"
+msgstr "¿Qué decisiones tomaste?"
+
+#: game/scenes/gui/gui_start_sayuri.tscn
+msgid "La mère de votre [color=yellow]petite amie[/color] semble déprimée suite à l'absence de sa fille. Peut-être pourriez-vous la réconforter ?"
+msgstr ""
+"La madre de tu [color=yellow]novia[/color] parece deprimida por la ausencia "
+"de su hija. ¿Quizás podrías animarla?"
+
+#: game/scenes/gui/gui_start_sayuri.tscn
+msgid "Remontons-lui le moral"
+msgstr "Animarla"
