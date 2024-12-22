@@ -112,7 +112,7 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-07 19:57+0100\n"
-"PO-Revision-Date: 2024-12-22 12:08+0000\n"
+"PO-Revision-Date: 2024-12-22 14:50+0000\n"
 "Last-Translator: Roger Miró <puniasterus@gmail.com>\n"
 "Language-Team: Spanish <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/es/>\n"
@@ -56664,7 +56664,7 @@ msgstr "Habitación de {{asami.n}}"
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "restaurant_interior"
-msgstr "Interior del restaurante"
+msgstr "Restaurante (interior)"
 
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
@@ -56674,52 +56674,52 @@ msgstr "Habitación de {{sakuya.n}}"
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "onsen_interior"
-msgstr "Interior del onsen"
+msgstr "Onsen (Interior)"
 
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "onsen_bath"
-msgstr "Baño onsen"
+msgstr "Onsen (Baños)"
 
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "onsen_room"
-msgstr "Habitación del onsen"
+msgstr "Onsen (Habitación)"
 
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "home_kimochi_interior"
-msgstr "Interior de la casa de {{kimochi.n}}"
+msgstr "Casa de {{kimochi.n}} (Interior)"
 
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "coffeebar_interior"
-msgstr "[i]Cafetería[/i] interior"
+msgstr "[i]Cafetería[/i] (Interior)"
 
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "hostess_club_alley"
-msgstr "Callejón del club de alterne"
+msgstr "Club de alterne (Callejón)"
 
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "hostess_club_interior"
-msgstr "Interior del club de alterne"
+msgstr "Club de alterne (Interior)"
 
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "love_hotel_reception"
-msgstr "Recepción del hotel del amor"
+msgstr "Hotel del amor (Recepción)"
 
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "love_hotel_room"
-msgstr "Habitación del hotel del amor"
+msgstr "Hotel del amor (Habitación)"
 
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "warehouse_interior"
-msgstr "Interior del almacén"
+msgstr "Almacén (Interior)"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -59549,7 +59549,7 @@ msgstr "Anillo"
 #: game/scenes/characters/sprites/master.tscn
 msgctxt "character.sprite.group"
 msgid "hat"
-msgstr "Sombrero"
+msgstr "Gorro de cocinero"
 
 #: game/scenes/characters/sprites/master.tscn
 msgctxt "character.sprite.attribute"
@@ -61026,12 +61026,12 @@ msgstr "Vaginal"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_38_asami_love_corruption"
-msgstr "Tengo que ir a {{minato.n}}"
+msgstr "Tengo que ir a casa de {{minato.n}}."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_38_1_asami_love_corruption"
-msgstr "Tengo que ir a {{minato.n}}"
+msgstr "Tengo que ir a casa de {{minato.n}}."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -73923,7 +73923,7 @@ msgstr "Limpio"
 
 msgctxt "chapters.choices"
 msgid "sakuya/sex"
-msgstr "Tener sexo."
+msgstr "Sexo"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "tecd1b08cab"
@@ -74192,3 +74192,416 @@ msgid "J'ai essayé toutes les approches : soit on ne me prend pas au sérieux, 
 msgstr ""
 "Lo he intentado todo: o no me toman en serio o los agentes que han venido no "
 "han encontrado nada sospechoso."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_21"
+msgstr "Reúnete con {{macumba.n}} en el parque."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_23"
+msgstr "Vuelve a casa y date una ducha."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_33"
+msgstr "Reúnete con {{sayuri.n}} delante de su casa."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_46"
+msgstr "Reúnete con {{sayuri.n}} delante de su casa."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_61"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_63"
+msgstr "Refúgiate en casa de {{sayuri.n}}."
+
+#: game/scenes/gui/gui_start_sayuri.tscn
+msgid "SAYURI"
+msgstr "SAYURI"
+
+#: game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "amusement_park_interior"
+msgstr "Parque de atracciones (interior)"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_73"
+msgstr "Reúnete con {{sayuri.n}} delante del hotel del amor por la noche."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_30_2"
+msgstr ""
+"Ahora puedo entrenar la resistencia por la mañana y la fuerza durante el día."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_friendship_17_1"
+msgstr "Ve a ver a {{kimochi.n}}."
+
+#: game/scenes/gui/chapters/chapters.tscn
+msgid "Valider"
+msgstr "Confirmar"
+
+#: game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "home_minato_hallway"
+msgstr "Pasillo"
+
+#: game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "home_minato_basement"
+msgstr "Sótano"
+
+#: game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "home_asami_bathroom"
+msgstr "Cuarto de baño ({{asami.n}})"
+
+#: game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "home_asami_sayuri_room"
+msgstr "Casa de {{sayuri.n}}"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_5_1"
+msgstr "Pasa por el [color=yellow]konbini[/color]..."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_30_3"
+msgstr "Consulta a {{macumba.n}} sobre el entrenamiento físico."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_22"
+msgstr "Reúnete con {{macumba.n}} en el parque."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_24"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_25"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_26"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_27"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_28"
+msgstr "Ve a tu habitación."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_29"
+msgstr "Ve a tu habitación."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_30"
+msgstr "Habla con {{sakuya.n}} en el restaurante."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_31"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_32"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_34"
+msgstr "Lleva a {{sayuri.n}} al onsen."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_35"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_36"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_37"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_38"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_39"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_40"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_41"
+msgstr "Acompaña a {{sayuri.n}} a su casa."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_42"
+msgstr "Vuelve a casa a dormir."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_43"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_44"
+msgstr "Vete a la cama."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_45"
+msgstr "Sal de tu habitación."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_47"
+msgstr "Ve al centro de la ciudad."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_48"
+msgstr "Entra en el salón recreativo."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_49"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_50"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_51"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_52"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_53"
+msgstr "Vuelve a casa a dormir."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_54"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_55"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_56"
+msgstr "Vuelve a ver a {{sayuri.n}}."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_57"
+msgstr "Ve al parque de atracciones con {{sayuri.n}}."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_58"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_59"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_60"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_62"
+msgstr "Ponte a cubierto en el pequeño callejón."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_64"
+msgstr "Únete a {{sayuri.n}} en el baño."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_65"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_66"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_67"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_68"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_69"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_70"
+msgstr "Vuelve a casa."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_71"
+msgstr "Reúnete con {{macumba.n}} en el parque para correr."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_72"
+msgstr "Pasa a ver {{sayuri.n}} en el konbini."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_74"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_75"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_76"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_77_asami_friendship"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_77_asami_corruption_love"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_78"
+msgstr "Acompaña a {{sayuri.n}} a su casa."
+
+#: game/scenes/characters/sprites/chef.tscn
+msgctxt "character.sprite.attribute"
+msgid "chefhat"
+msgstr "Gorro de chef"
+
+msgctxt "preferences.variable"
+msgid "typing_speed"
+msgstr "Velocidad del texto"
+
+#: game/scenes/locations/onsen_bath.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "SayuriBath"
+msgstr "{{sayuri.n}} (baño)"
+
+#: game/scenes/locations/onsen_bath.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "SaitoBath"
+msgstr "{{saito.n}} (baño)"
+
+#: game/scenes/locations/onsen_interior.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "SakuyaReception"
+msgstr "{{sakuya.n}} (recepción)"
+
+msgctxt "chapters.choices"
+msgid "yasuka/corruption"
+msgstr "Corrupción"
+
+msgctxt "chapters.choices"
+msgid "yasuka/love"
+msgstr "Amor"
+
+msgctxt "chapters.choices"
+msgid "noriko/blackmail"
+msgstr "Chantaje"
+
+msgctxt "chapters.choices"
+msgid "noriko/reject"
+msgstr "Rechazo"
+
+msgctxt "chapters.choices"
+msgid "noriko/femdom"
+msgstr "Femdom"
+
+msgctxt "chapters.choices"
+msgid "noriko/maledom"
+msgstr "Maledom"
+
+msgctxt "chapters.choices"
+msgid "asami/corruption"
+msgstr "Corrupción"
+
+msgctxt "chapters.choices"
+msgid "asami/friendship"
+msgstr "Amistad"
+
+msgctxt "chapters.choices"
+msgid "asami/love"
+msgstr "Amor"
+
+msgctxt "chapters.choices"
+msgid "sakuya/nosex"
+msgstr "Sin sexo"
