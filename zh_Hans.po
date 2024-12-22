@@ -113,7 +113,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-07 19:57+0100\n"
 "PO-Revision-Date: 2024-12-22 12:08+0000\n"
-"Last-Translator: WangYu <joestblack@gmail.com>\n"
+"Last-Translator: DayBat <870354653@qq.com>\n"
 "Language-Team: Chinese (Simplified) <https://translations.teot-studio.com/"
 "projects/goodbye-eternity/game-translation/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -73794,3 +73794,22 @@ msgstr "谢谢…"
 msgctxt "t341f1904ac"
 msgid "Tu n'avais même pas besoin de demander."
 msgstr "不用说我也会的。"
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Garder {{asami.n}} dans la friendzone."
+msgstr "继续和{{asami.n}}做朋友。"
+
+#: game/scenes/locations/arcade_interior.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "SaitoSayuriPlay"
+msgstr "{{saito.n}}+{{sayuri.n}}"
+
+msgctxt "preferences.variable"
+msgid "typing_speed"
+msgstr "文本速度"
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Suivre l'histoire de {{sayuri.n}}."
+msgstr "继续{{sayuri.n}}的故事。"
