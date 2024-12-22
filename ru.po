@@ -110,7 +110,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
-"PO-Revision-Date: 2024-12-22 12:09+0000\n"
+"PO-Revision-Date: 2024-12-22 16:53+0000\n"
 "Last-Translator: Aleksandr <aleksandr-tugai@mail.ru>\n"
 "Language-Team: Russian <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/ru/>\n"
@@ -74459,3 +74459,30 @@ msgstr "Поэтому я не возражаю против того, чтоб�
 msgctxt "location"
 msgid "amusement_park_exterior"
 msgstr "Парк развлечений"
+
+#: game/scenes/gui/gui_start_asami.tscn
+msgid "Vous pouvez dès à présent poursuivre l’histoire d’{{asami.n}}."
+msgstr "Теперь вы можете продолжить историю с {{asami.n}}."
+
+#: game/scenes/gui/gui_start_sayuri.tscn
+msgid "Vous pouvez dès à présent poursuivre l’histoire de {{sayuri.n}}."
+msgstr "Теперь вы можете продолжить историю с {{sayuri.n}}."
+
+#: game/scenes/gui/gui_start_yasuka.tscn
+msgid "Vous pouvez dès à présent poursuivre l’histoire de {{yasuka.n}}."
+msgstr "Теперь вы можете продолжить историю с {{yasuka.n}}."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t56126c5a15"
+msgid "Merci !"
+msgstr "Спасибо!"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "tb222c41a00"
+msgid "Tu es un amour !"
+msgstr "Милый мой!"
+
+#: game/story/love_hotel_reception.dialogue
+msgctxt "t95cd12ef54"
+msgid "Oui !"
+msgstr "Да!"
