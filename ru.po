@@ -110,7 +110,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
-"PO-Revision-Date: 2024-12-14 11:57+0000\n"
+"PO-Revision-Date: 2024-12-22 12:09+0000\n"
 "Last-Translator: Aleksandr <aleksandr-tugai@mail.ru>\n"
 "Language-Team: Russian <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/ru/>\n"
@@ -74454,3 +74454,8 @@ msgstr ""
 msgctxt "asami_truth_2e8b9276"
 msgid "Donc ça ne me dérange pas de te partager..."
 msgstr "Поэтому я не возражаю против того, чтобы делиться тобой..."
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "amusement_park_exterior"
+msgstr "Парк развлечений"
