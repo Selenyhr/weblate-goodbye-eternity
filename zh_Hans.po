@@ -112,8 +112,8 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-07 19:57+0100\n"
-"PO-Revision-Date: 2024-12-23 11:44+0000\n"
-"Last-Translator: DayBat <870354653@qq.com>\n"
+"PO-Revision-Date: 2024-12-23 14:34+0000\n"
+"Last-Translator: WangYu <joestblack@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://translations.teot-studio.com/"
 "projects/goodbye-eternity/game-translation/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -42364,7 +42364,7 @@ msgstr "嗨，亲爱的！这就回家了吗？"
 #: game/story/home_asami_livingroom.dialogue
 msgctxt "home_asami_livingroom_f8de9c97"
 msgid "Oh, mais qui voilà ?!"
-msgstr "哦，但这是谁啊？！"
+msgstr "哦，看看这是谁啊？！"
 
 #: game/story/home_asami_livingroom.dialogue
 msgctxt "home_asami_livingroom_5a2bbc49"
@@ -75130,7 +75130,7 @@ msgstr "你简直像头野兽一样！"
 #: game/story/home_asami_livingroom.dialogue
 msgctxt "tfbe0603b2f"
 msgid "Oui mais tu adores ça."
-msgstr "是，但你就喜欢这样对吧？"
+msgstr "是啊，但你就喜欢我这样对吧？"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -75146,3 +75146,408 @@ msgstr "送{{sayuri.n}}回家。"
 msgctxt "character.sprite.attribute"
 msgid "chefhat"
 msgstr "厨师帽"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t36442d02ea"
+msgid "Pourquoi dis-tu ça ? Avec qui es-tu sous la douche, actuellement ?"
+msgstr "你干嘛要这么说？现在是谁在陪你洗澡？"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "td3b6c04c23"
+msgid "Bon sang quelle nuit... Je suis épuisée."
+msgstr "今晚真的是…我已经精疲力尽了。"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "tfc60933127"
+msgid "Ma puce ? Tu dors encore ?"
+msgstr "宝贝女儿？你还在睡觉吗？"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t59453ea899"
+msgid "Hormis parler toute seul dans cette maison ?"
+msgstr "除了在这所房子里自言自语之外？"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t7f03ee4754"
+msgid "\"Je suis désolée d'avoir disparue aussi vite mais papa est passé en coup de vent hier soir pour nous voir et il repartait aussitôt.\""
+msgstr "“我知道就这样突然走了不好，但是昨天爸爸临时来看我们了，还说他马上就要离开。”"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t7da2ba8644"
+msgid "Au final... Est-ce qu'attendre une personne qui n'a visiblement pas envie de revenir en vaut il vraiment la peine ?"
+msgstr "到头来…守着一个不想着家的人，天天盼他回来真的值得吗？"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t0849f9abc7"
+msgid "Je... [w]C'était...[w]Oh bon sang... C'était complètement dingue !"
+msgstr "我...[w]这是...[w]哦，孩子... 这可太疯狂了！"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t21c761cea6"
+msgid "Je ne sais pas ce qui est en train de se passer mais jamais ma volonté n'a été mis à aussi rude épreuve."
+msgstr "我不知道事情怎么会变成这样，但我的意志力从未受到过如此严峻的考验。"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t05bc5aabb3"
+msgid "C'est vrai ?[w] Rien de plus ?"
+msgstr "真的？ [w] 你们没交往？"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t2266a4ae97"
+msgid "Oh si probablement mais... Je suis assez lent à apprendre donc, il est possible que je refasse plusieurs fois les mêmes erreurs."
+msgstr "不算吧，应该，不过…我学东西很慢，所以我总会一次又一次地犯同样的错误。"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t0fd6ff5ab8"
+msgid "Tu comptes m'aider à retrouver ma confiance en moi ?"
+msgstr "你打算帮我重新建立自信？"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t7453a3ce90"
+msgid "Viens là !"
+msgstr "到这来！"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "tf02921c4eb"
+msgid "Et un peu trop expérimentée...."
+msgstr "而且还有点过于…熟练。"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "tc60b25973e"
+msgid "Chut ! Maman a besoin de sa dose d'amour !"
+msgstr "嘘——！妈妈想要她的疼爱了！"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "td697d349c4"
+msgid "Tu m'as pourtant l'air d'être une personne sure d'elle."
+msgstr "在我眼里你是特别自信的人。"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "tc7d43845f8"
+msgid "Dois-je m'inquiéter ? Je trouves que tu commences à me connaitre un peu trop bien."
+msgstr "我该害怕吗？你有点太了解我了。"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "te7e86109bd"
+msgid "Pourquoi faudrait-il s'en inquieter ?"
+msgstr "有什么好怕的？"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t9c2fe5b8f3"
+msgid "Je crois que tu as perdu l'habitude de savourer l'instant."
+msgstr "我觉得你应该好好享受当下。"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "taa91561360"
+msgid "Tu étais si impatiente que ça pour venir me sauter dessus sur le canapé ?"
+msgstr "你就这么着急把我压倒在沙发上吗？"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t1dcab5074b"
+msgid "C'est bon, accelere !"
+msgstr "好舒服，再快点！"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t60825f1935"
+msgid "Comme ça oui !"
+msgstr "就像这样，哈啊！"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t9e4a89986b"
+msgid "J'y suis presque !"
+msgstr "我要高潮了！"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "tb54a5b0ae8"
+msgid "Oh mon dieu, oui !"
+msgstr "使劲干我，还要！"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t179062b755"
+msgid "Ouii... Ouii comme ça !"
+msgstr "太棒了…好厉害，再操我啊！"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t51b6d818e0"
+msgid "Oh bon sang, oh bon sang !"
+msgstr "啊操死我，啊操死我吧！"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t0fc15ae902"
+msgid "Une fois qu'on y a goûté, il n'est plus possible d'en revenir arrière."
+msgstr "一旦品尝过，你就再也回不去了。"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "tcc259a4ee6"
+msgid "Et moi je ne me lasse pas de cette... vigueur."
+msgstr "我永远不会厌倦你这种…活力。"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t93bef20569"
+msgid "Quelqu'un voulait-il un peu de compagnie sous la douche ?"
+msgstr "有人想来点儿鸳鸯浴吗？"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t3da4a9ec8c"
+msgid "...[w]Moi."
+msgstr "...[w]我。"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t0b214f3024"
+msgid "Et moi je te préfère toi."
+msgstr "而我喜欢你。"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t74da6152f5"
+msgid "Je sens que la facture d'eau de ce mois va être salée."
+msgstr "我有预感，这个月的水费会很高。"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t1986c3ff2d"
+msgid "Haha ! Désolé."
+msgstr "哈哈！抱歉。"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "tb63950a0f9"
+msgid "Je ne regrette rien !"
+msgstr "我一点都不后悔！"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t3f420705a3"
+msgid "La jeunesse à certains avantages."
+msgstr "年轻是有年轻的好处的。"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t606c3bdae4"
+msgid "Tu veux me rendre jalouse c'est ça ?"
+msgstr "你说这话是想让我嫉妒吗？"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "tf895009968"
+msgid "Pour t'avouer la vérité, je suis plutôt du genre à préférer les femmes plus âgées."
+msgstr "我告诉你件事，我是更喜欢熟女的那种人。"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t4e8d246823"
+msgid "J'ai définitivement besoin de vacance !"
+msgstr "我太需要放点假了！"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t08f5ffe502"
+msgid "Bon... Je fais quoi moi maintenant ?"
+msgstr "那么…我现在该怎么办？"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "tf82801e77b"
+msgid "Est ce qu'elle est là au moins ?"
+msgstr "她压根不在？"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t304fa3c3c9"
+msgid "Ne me dite pas que cette petite peste a passée la nuit ailleurs sans m'en avertir ?!"
+msgstr "别告诉我那个小讨厌鬼没跟我说就去别的地方过夜了？！"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t54a8e20902"
+msgid "Si c'est le cas... Attend un peu tu vas voir !"
+msgstr "如果是这样的话...你就等着瞧吧！"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "tc4fe0ebea7"
+msgid "mm?! Qu'est ce que c'est , un mot ?"
+msgstr "唔？！这是什么，一张便条？"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t53241d7092"
+msgid "Voyons ça..."
+msgstr "我看看……"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t7b23ba1c91"
+msgid "\"Coucou ma petite maman, tu verras mon message probablement demain matin\""
+msgstr "“嗨，妈妈。你应该会在明天早上看到我的留言。”"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t20bec7ce6c"
+msgid "Ne me dites pas que c'est enfoiré est rentré à la maison hier soir et il n'en a même pas profité pour venir me voir au konbini !?"
+msgstr "你别跟我说那个混蛋昨晚明明回家了，都不愿意来便利店告诉我一声！？"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "td9621e99d2"
+msgid "Quel...."
+msgstr "真他妈是个…"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "tc1bcfcd2aa"
+msgid "\"Je vais passer quelques jours avec lui et je reviendrai.\""
+msgstr "“我打算去他那呆几天，很快就会回来的。”"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "tef37cb9938"
+msgid "Oh ma puce...."
+msgstr "哦，宝贝女儿…"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t2d5c08439d"
+msgid "Ma chérie tu es rentrée ?"
+msgstr "宝贝女儿，你回来了？"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t61fbd1f0dd"
+msgid "Je ne peux pas t'en vouloir de vouloir passer du temps avec ton père."
+msgstr "我总不能因为她想和爸爸多呆一会就怪她吧。"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t6d3cd325fe"
+msgid "\"Pleins de bisous !\""
+msgstr "“使劲亲亲你！”"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t5ed8d4d4e2"
+msgid "Mais il aurait pu quand même me rester un peu ou me prévenir...."
+msgstr "但他难道就不能陪我呆一会，或者来告诉我一下……"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t77dcbad1eb"
+msgid "Cet enfoiré !"
+msgstr "王八蛋！"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "tce5c002a6e"
+msgid "[i]Knock Knock[/i]"
+msgstr "[i]敲门声！[/i]"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t12564f79d0"
+msgid "Tiens... Quelqu'un frappe à la porte."
+msgstr "哦…有人在敲门。"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t2fac677a14"
+msgid "Et voilà... Une journée de plus."
+msgstr "就这样吧…又是一天。"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "tcaedfe43df"
+msgid "C'est tellement étrange de se retrouver là toute seule."
+msgstr "一个人呆在这太奇怪了。"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "te815cc7acd"
+msgid "Ma petite puce me manque déjà."
+msgstr "我已经开始想我的小宝贝了。"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "tf240ab5967"
+msgid "Pfff....[w]Pourquoi cet enfoiré n'est pas resté quelques jours avec nous ?!"
+msgstr "嘁…[w]为什么那混蛋就连陪我们几天都不行？！"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t403f6e6c93"
+msgid "Son travail est vraiment plus important que sa famille ?"
+msgstr "他的工作就比整个家都重要是吧？"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t73d39040b4"
+msgid "Je me le demande."
+msgstr "我真的不知道。"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "tf900376802"
+msgid "Au moins pour souhaiter une bonne nuit a ma petite chérie."
+msgstr "至少要跟我的宝贝女儿道个晚安。"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t8cc0ff0912"
+msgid "Je... Je devrais l'appeler !"
+msgstr "我…我…我得给他打个电话！"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "te1fa1f2643"
+msgid "Il ne peut pas me refuser ça, je n'ai jamais été séparée d'elle depuis sa naissance !"
+msgstr "他没资格拦着我，自从她出生以来，我还从没和她分开过！"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t11a20c0857"
+msgid "Je suis certaine qu'il ne dors pas a cette heure."
+msgstr "我知道这个点他肯定还没睡觉。"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t8b4ecc3fab"
+msgid "*Raccroche au nez*"
+msgstr "*挂断*"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t19cb02ac9f"
+msgid "Quoi?! Il m'a raccrochée au nez ?! Mais quel espece de...."
+msgstr "哈？！他就直接挂我电话？！真是个……"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "tde39ddd47e"
+msgid "Il ne nous mérite vraiment pas !"
+msgstr "他简直不配呆在这个家！"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "tb43db25927"
+msgid "Mon dieu je suis complétement trempée !"
+msgstr "我的天，我完全湿透了！"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t7429586366"
+msgid "Je n'ai envie que d'une chose à cet instant c'est d'une douche bien chaude !"
+msgstr "现在我只想干一件事，洗个热水澡！"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "tf833342485"
+msgid "Je ne te contredirais pas la dessus."
+msgstr "没有比这更正确的想法了。"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t6e4ff33166"
+msgid "Je n'arrive pas à déterminer si elle le fait exprès ou si..."
+msgstr "我分不清她到底是故意这么做，还是……"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "tfbb9e8a875"
+msgid "Euh.. Je...[w]Tu es sure ?"
+msgstr "啊…我…[w]你认真的？"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "tbe677bb240"
+msgid "Il ne se passera rien... Il ne se passera rien... Il ne se passera rien !"
+msgstr "别想太多…别想太多…别想太多……"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t9bfe7cde47"
+msgid "Je ne sais plus quoi penser..."
+msgstr "我不知道该怎么想了......"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "tde5a0ddfe6"
+msgid "Un ami pour elle, rien de plus..."
+msgstr "我们只是朋友，没别的……"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t0b40fef84b"
+msgid "C'était probablement une erreur et...[w]Je suis sa mère ! Et toi tu es..."
+msgstr "这大概是个错误，况且…[w]我是他的妈妈！而你是她的……"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "tbfa98555a4"
+msgid "[font_size=14]Je croyais que tu avais déjà vu l'essentiel, ne me dis pas que tu es intimidé ?[/font_size]"
+msgstr "[font_size=14]该看的你不都看过了么。别告诉我你这次不敢了？[/font_size]"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t76fe9613ca"
+msgid "[font_size=14]{{saito.n}} m'a robe ne vas pas s'enlever toute seule tu sais ![/font_size]"
+msgstr "[font_size=14]{{saito.n}}，我的裙子可不会自己脱下来，你懂的！[/font_size]"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t76670a96b7"
+msgid "Je vois... dans ce cas... nous allons en commettre... beaucoup..."
+msgstr "我明白…这样的话…我们就得复习…很多次了……"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t60d1d86862"
+msgid "Ce n'était pas une erreur alors ?"
+msgstr "那就不算错事了，是吗？"
