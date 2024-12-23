@@ -113,7 +113,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-07 19:57+0100\n"
 "PO-Revision-Date: 2024-12-23 11:44+0000\n"
-"Last-Translator: WangYu <joestblack@gmail.com>\n"
+"Last-Translator: DayBat <870354653@qq.com>\n"
 "Language-Team: Chinese (Simplified) <https://translations.teot-studio.com/"
 "projects/goodbye-eternity/game-translation/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -75131,3 +75131,18 @@ msgstr "你简直像头野兽一样！"
 msgctxt "tfbe0603b2f"
 msgid "Oui mais tu adores ça."
 msgstr "是，但你就喜欢这样对吧？"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_73"
+msgstr "晚上在情趣酒店前和{{sayuri.n}}见面。"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_78"
+msgstr "送{{sayuri.n}}回家。"
+
+#: game/scenes/characters/sprites/chef.tscn
+msgctxt "character.sprite.attribute"
+msgid "chefhat"
+msgstr "厨师帽"
