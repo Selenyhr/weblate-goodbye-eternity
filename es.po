@@ -112,7 +112,7 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-07 19:57+0100\n"
-"PO-Revision-Date: 2024-12-24 11:17+0000\n"
+"PO-Revision-Date: 2024-12-25 00:10+0000\n"
 "Last-Translator: Roger Miró <puniasterus@gmail.com>\n"
 "Language-Team: Spanish <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/es/>\n"
@@ -77213,3 +77213,631 @@ msgstr "¡Joder, no!"
 msgctxt "tea63b3b132"
 msgid "A en juger par ta réaction tu les connais ?"
 msgstr "A juzgar por tu reacción, ¿los conoces?"
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "t2da5b5c946"
+msgid "Wow ! On entre pas chez les gens comme ça !"
+msgstr "¡Wow! ¡No puedes entrar así en casa de alguien!"
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "t96b7e2fdb8"
+msgid "Pff, pour qui tu me prends ? S'il y a bien une personne à qui tu peux faire confiance ici, c'est moi !"
+msgstr ""
+"Pff, ¿quién crees que soy? ¡Si hay una persona en la que puedes confiar "
+"aquí, soy yo!"
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "ta621a65dea"
+msgid "Mais ça alors ! Voila {{saito.n}} le tueur !"
+msgstr "¡Que me parta un rayo! ¡{{saito.n}} el asesino!"
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "t73c2d8f02c"
+msgid "Quoi ?! C'est quoi ces conneries encore ?"
+msgstr "¡¿Qué?! ¿Qué es esta mierda otra vez?"
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "tac87c1ffd2"
+msgid "Franchement pourquoi on perd notre temps, viens on va mettre un coup de boule à {{minato.n}} et c'est fini !"
+msgstr ""
+"Sinceramente, ¿por qué perdemos el tiempo? ¡Vamos, demos un cabezazo a "
+"{{minato.n}} y acabemos por hoy!"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "t9f972b7433"
+msgid "Je passerais bien au konbini avant de rentrer, je crois que j'ai besoins d'un petit réconfort..."
+msgstr ""
+"Me encantaría parar en el konbini de camino a casa, creo que necesito "
+"animarme un poco...."
+
+#: game/story/home_minato_hallway.dialogue
+msgctxt "t9259f9c0c3"
+msgid "Non !"
+msgstr "¡No!"
+
+#: game/story/arcade_interior.dialogue
+msgctxt "t45d1ee99cf"
+msgid "Et alors ?"
+msgstr "¿Y entonces?"
+
+#: game/story/park.dialogue
+msgctxt "t91222cb41e"
+msgid "Et bien alors ?"
+msgstr "¿Bien entonces?"
+
+#: game/story/love_hotel_exterior.dialogue
+msgctxt "t6f757428a9"
+msgid "Tu m'attendais depuis longtemps ?"
+msgstr "¿Llevas mucho tiempo esperándome?"
+
+#: game/story/onsen_exterior.dialogue
+msgctxt "t61eb8a0595"
+msgid "Nous y voilà !"
+msgstr "¡Allá voy!"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "tbd1a786d92"
+msgid "Il est peut etre temps d'aller voir {{kimochi.n}}, il avait vu juste, {{minato.n}} est une belle ordure."
+msgstr ""
+"Tal vez sea hora de ir a ver a {{kimochi.n}}, tenía razón, {{minato.n}} es "
+"una auténtica basura."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "tb599877384"
+msgid "Tu veux dire qu'il avait vraiment l'intention de me mettre fin à notre amitié ?"
+msgstr "¿Quieres decir que realmente pretendía acabar con nuestra amistad?"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t2fefbfaf45"
+msgid "... Je veux savoir qui est l'autre !"
+msgstr "... ¡Quiero saber quién es la otra!"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "tda83a2fbf3"
+msgid "C'est...[w] C'est quelque chose que tu dois apprendre de sa bouche, pas de la mienne !"
+msgstr "Eso es... [w]¡Eso es algo que tienes que aprender de él, no de mí!"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t178f0224ee"
+msgid "Oh c'est toi {{saito.n}} !"
+msgstr "¡Oh, eres tú {{saito.n}}!"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t219a7effa9"
+msgid "Je sens que la maison va être bien vide pendant ces quelques jours."
+msgstr ""
+"Tengo la sensación de que la casa va a estar bastante vacía durante los "
+"próximos días."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t3d5b610b53"
+msgid "J'avais promis à {{asami.n}} de venir la voir dès que tous mes problèmes avec {{noriko.n}} étaient réglés donc... me voilà."
+msgstr ""
+"Le prometí a {{asami.n}} que iría a verla en cuanto se solucionaran mis "
+"problemas con {{noriko.n}}, así que... aquí estoy."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t3c04d4143c"
+msgid "C'est vrai... Dans ce cas, à bientôt {{sayuri.n}}."
+msgstr "Es verdad... En ese caso, nos vemos pronto {{sayuri.n}}."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "tcaae445d4e"
+msgid "Je devrais peut être mettre quelque chose de plus simple après tout..."
+msgstr "Quizá debería ponerme algo más sencillo después de todo..."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t38eddd9a1d"
+msgid "{{sayuri.n}} fais moi confiance cette robe te va à merveille !"
+msgstr "{{sayuri.n}}, confía en mí, ¡este vestido te queda perfecto!"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "tafe3c22454"
+msgid "{{saito.n}} je... Je ne te savais pas si... audacieux..."
+msgstr "{{saito.n}}, no... no sabía que eras tan... atrevido..."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t4be68660ff"
+msgid "Vraiment ? Pourtant ce n'était pas grand chose je t'assure, ça m'a fait plaisir."
+msgstr "¿Ah, sí? No fue para tanto, te lo aseguro, pero me hizo feliz."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t573da60dc9"
+msgid "...[w]Ne sous-estime pas l'importance des efforts que tu as faits."
+msgstr "...[w]No subestimes la importancia de los esfuerzos que has hecho."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t45935cf2c6"
+msgid "Je suis désolée... Mais c'était si bien aujourd'hui... Ça m'a donné l'impression d'être un vrai couple..."
+msgstr ""
+"Lo siento mucho... Yo solo... Pero fue tan agradable hoy... Me hizo sentir "
+"como una pareja de verdad..."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "te6a7d650ce"
+msgid "Prête à passer un super moment ?"
+msgstr "¿Preparada para pasarlo en grande?"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t665670f7b8"
+msgid "Pas du tout ! Ça fait une éternité que je ne me suis pas baladée en ville."
+msgstr "En absoluto. Hace años que no salgo por la ciudad."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t89b4a8af8a"
+msgid "Non ça ira, il est tard et je crois qu'elles vont finir par s'inquiéter."
+msgstr "No, está bien, es tarde y creo que terminarán preocupándose."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "tfad0597300"
+msgid "Je me suis tellement amusée ces deux derniers jours que j'ai l'impression de retrouver ma jeunesse."
+msgstr ""
+"Me he divertido tanto estos dos últimos días que me siento joven de nuevo."
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "tc1ea035df2"
+msgid "Oui...[w]Et c'est une très mauvaise nouvelle."
+msgstr "Sí...[w]Y son muy malas noticias."
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "taa778ee6e9"
+msgid "Pourtant c'est un petit clan... A part vendre des bubbles tea..."
+msgstr "Pero es un clan pequeño... Aparte de vender té de burbujas..."
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "tb9a5c7a1b9"
+msgid "Ne les sous-estime pas !"
+msgstr "¡No los subestimes!"
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "t8fdd144739"
+msgid "Il va falloir faire attention à partir de maintenant."
+msgstr "Tendremos que tener cuidado a partir de ahora."
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "teea81815c6"
+msgid "La police n'interviendra pas, tu peux me croire !"
+msgstr "¡La policía no se involucrará, créeme!"
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "tb7a396e997"
+msgid "Je refuse de laisser tomber une fille en détresse, je ne serais plus digne d'être considéré comme un homme."
+msgstr ""
+"Me niego a abandonar a una chica en apuros, porque entonces no sería digno "
+"de ser considerado un hombre."
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "t28c0c85c68"
+msgid "Bien dit !"
+msgstr "¡Bien dicho!"
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "ta1a52c9a8a"
+msgid "Je vais continuer à fouiller de mon côté et voir si je trouve quelque chose d'intéressant."
+msgstr "Seguiré investigando a ver si encuentro algo interesante."
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "te8ec2a0e87"
+msgid "Tu as une mémoire à court terme ou quoi ?"
+msgstr "¿Tienes memoria a corto plazo o algo así?"
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "t67c570d81e"
+msgid "{{nobu.n}}, {{kenji.n}}, {{takeo.n}} et même {{akira.n}} !"
+msgstr "¡{{nobu.n}}, {{kenji.n}}, {{takeo.n}} e incluso {{akira.n}}!"
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "t243495a85d"
+msgid "Pour les thugs je veux bien mais {{akira.n}} c'est différent, je n'ai pas eu à me battre contre lui, disons qu'il est hors jeu mais il n'en reste pas moins dangereux."
+msgstr ""
+"Estoy de acuerdo con los matones, pero {{akira.n}} es otra historia, no he "
+"tenido que luchar contra él, digamos que está fuera del juego pero sigue "
+"siendo peligroso."
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "ta687658e23"
+msgid "Oula je ne vais pas te contredire, j'ai pas envie que tu me me casse la figure à moi aussi."
+msgstr "No voy a contradecirte, no quiero que me partas la cara a mí también."
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "t8b36664bd4"
+msgid "Tu me fatigues déjà..."
+msgstr "Ya me estás cansando..."
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "t2908bbd8c3"
+msgid "Mes excuses boss !"
+msgstr "¡Mis disculpas, jefe!"
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "tde4c528b14"
+msgid "Est-ce qu'on peut enfin se concentrer sur {{chiaki.n}} ?"
+msgstr "¿Podemos concentrarnos por fin en {{chiaki.n}}?"
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "t9d3c43d946"
+msgid "Oh bon sang oui c'est vrai j'allais oublier !"
+msgstr "Maldición, es verdad, ¡casi lo olvido!"
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "t27d92b40ba"
+msgid "Ah ! Ravi que t-"
+msgstr "¡Ah! Me alegro de que..."
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "t1d5916cc44"
+msgid "Ferme là et suis moi !"
+msgstr "¡Cállate y sígueme!"
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "t0a64cae53a"
+msgid "C'est une question de vie ou de mort !"
+msgstr "¡Es una cuestión de vida o muerte!"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "tdeed58f0ad"
+msgid "Pour te protéger, il a dû se séparer de toi."
+msgstr "Para protegerte, tuvo que separarse de ti."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t6f6a1b215c"
+msgid "{{saito.n}} a plusieurs...?"
+msgstr "¿{{saito.n}} tiene varias...?"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "tfc9590deec"
+msgid "Peut-être que je n'aurais pas dû venir aussi tôt ?"
+msgstr "¿Tal vez no debería haber venido tan temprano?"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t8113ed8a5c"
+msgid "Non tu ne me dérange pas mais..."
+msgstr "No, no me estás molestando, pero..."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "tc1c7c75c41"
+msgid "Ma fille est partie hier soir passer quelques jours en compagnie de son père."
+msgstr "Mi hija se fue anoche a pasar unos días con su padre."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t6a208ce2a8"
+msgid "Sans m'en avertir."
+msgstr "Sin decirme nada."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "td4c91a9314"
+msgid "Oh je vois, je ne savais pas non plus."
+msgstr "Oh, ya veo, yo tampoco lo sabía."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t3831819e03"
+msgid "Je suis désolée, je pensais qu'elle t'aurait averti également."
+msgstr "Lo siento, pensé que ella te habría avisado también."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t3215090795"
+msgid "Elle a du partir précipitamment..."
+msgstr "Tuvo que irse a toda prisa..."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t6987dc3ecd"
+msgid "Je peux vous tenir compagnie un peu si..."
+msgstr "Puedo hacerte compañía por un tiempo si..."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t409b682eba"
+msgid "{{saito.n}} arrête de me vouvoyer et ne t'en fais pas, je dois aller travailler."
+msgstr ""
+"{{saito.n}} deja de ser tan formal y no te preocupes, tengo que ir a "
+"trabajar."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "ta0a428954b"
+msgid "Le konbini ne va pas se gérer tout seul."
+msgstr "El konbini no funcionará solo."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "ta6b983bbcb"
+msgid "Wow..."
+msgstr "Wow..."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "tde58bad895"
+msgid "C'est quoi cette tête, ma robe ne te plait pas ?"
+msgstr "¿Por qué esa cara tan larga? ¿No te gusta mi vestido?"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t7d5ba18895"
+msgid "Non bien au contraire, tu es..."
+msgstr "No, al contrario, estás..."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t828db245df"
+msgid "Magnifique !"
+msgstr "¡Impresionante!"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t26ba1fa559"
+msgid "....[w]Oh merci, je ne m'attendais pas à un tel compliment."
+msgstr "....[w]Oh, gracias, no esperaba un cumplido así."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t72601da5ff"
+msgid "Peut être que j'en ai trop fait ?"
+msgstr "¿Quizá me he pasado?"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "te921b6730e"
+msgid "Je veux dire... non, tu es parfaite... je veux dire, c'est parfait comme ça."
+msgstr ""
+"Quiero decir... no, estás perfecta... quiero decir, está perfecto como está."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t3c2faac069"
+msgid "J'avais achetée cette robe il y a quelques années pour un rendez vous avec mon mari mais...."
+msgstr "Compré este vestido hace unos años para una cita con mi marido pero...."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t5acaa6898c"
+msgid "Il a annulé et je n'ai plus jamais eu l'occasion de la porter."
+msgstr "La canceló y nunca más tuve la oportunidad de ponérmelo."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t4e8d321518"
+msgid "Et bien... Il ne sait pas ce qu'il a raté !"
+msgstr "Bueno... ¡No sabe lo que se ha perdido!"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "tc8f9192396"
+msgid "Je suis sur que tu exagères..."
+msgstr "Seguro que estás exagerando..."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "td3a81e1bb1"
+msgid "Je suis certainement un peu boudinée et..."
+msgstr "Ciertamente estoy un poco regordeta y..."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t2ff8067ce4"
+msgid "Tu promet ?"
+msgstr "¿Lo prometes?"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t1080d04cbf"
+msgid "Je le promet !"
+msgstr "¡Lo prometo!"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "ta1e20becb7"
+msgid "D'accord, je la garde alors !"
+msgstr "¡Muy bien, me lo quedaré entonces!"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t213503dd93"
+msgid "Ou vas t'on ?"
+msgstr "¿Adónde vamos?"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t59f4cca4b8"
+msgid "C'est une surprise !"
+msgstr "¡Es una sorpresa!"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "teedbb50128"
+msgid "Tu peux bien me donner un petit indice quand même ?"
+msgstr "Pero, ¿puedes darme una pequeña pista?"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t7eb3637df6"
+msgid "On va quelque part ou on va pouvoir enlever nos vetements."
+msgstr "Vamos a algún sitio donde podemos quitarnos la ropa."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t4704a9ed33"
+msgid "Je ne sais pas si... c'est une bonne idée de..."
+msgstr "No sé si... es una buena idea..."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t73b6fc7507"
+msgid "Je ne sais pas ce que tu es en train d'imaginer mais je crois que tu fais fausse route."
+msgstr "No sé en qué estás pensando, pero creo que vas por mal camino."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "tad24e3ccbf"
+msgid "Tu verras bien"
+msgstr "Ya verás."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t1a5bcdf3e5"
+msgid "Très bien, très bien, j'attendrais !"
+msgstr "¡ Está bien, está bien, esperaré!"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "tf62c795a41"
+msgid "Merci infiniment pour cette journée {{saito.n}}."
+msgstr "Muchas gracias por lo de hoy {{saito.n}}."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t08489ca00d"
+msgid "Ça doit être la première fois de ma vie que je vis ce genre d'expérience."
+msgstr "Será la primera vez en mi vida que tengo una experiencia así."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t989c808682"
+msgid "Je suis vraiment heureuse pour la première fois depuis longtemps."
+msgstr "Estoy realmente feliz por primera vez en mucho tiempo."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t252ed4ec7d"
+msgid "Je crois que je vais pleurer..."
+msgstr "Creo que voy a llorar..."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t5fd9aacab1"
+msgid "Quoi ?! Non !"
+msgstr "¡¿Qué?! ¡No!"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t59a5887a58"
+msgid "Ne pleure pas, j'ai vraiment passé une bonne journée moi aussi et..."
+msgstr "No llores, yo también pasé un buen día y..."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t85e9155b43"
+msgid "Je pleure parce que je suis heureuse."
+msgstr "Lloro porque estoy feliz."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "tac8b1235fc"
+msgid "{{yasuka.n}} ne mentait pas quand elle m'a dit que tu prendrais vraiment soin de moi."
+msgstr "{{yasuka.n}} no mentía cuando dijo que me cuidarías de verdad."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t4e40fc0d1c"
+msgid "Je vois... Toute cette histoire de demande... Tout ça était prémédité."
+msgstr "Ya veo... Todo ese asunto de invitarte... Fue todo premeditado."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t61c8e1de17"
+msgid "Je vois... [w]Tu veux que je t'emmène ailleurs demain ?"
+msgstr "Ya veo... [w]¿Quieres que mañana te lleve a otro sitio?"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t017cd38661"
+msgid "Je... Je ne veux pas abuser de ta gentillesse."
+msgstr "Yo... No quiero aprovecharme de tu amabilidad."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t79af52f363"
+msgid "Mais tu en as très envie..."
+msgstr "Pero si realmente quieres..."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t3e44ba72da"
+msgid "Oui !!! [w] J'adorerais passer à nouveau une journée avec toi."
+msgstr "¡¡¡¡Sí!!! [w] Me encantaría pasar otro día contigo."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t10e5d48bf0"
+msgid "Eh bien je crois qu'on n'a plus qu'à se retrouver demain, même heure, même endroit !"
+msgstr ""
+"Bueno, supongo que tendremos que volver a vernos mañana, ¡a la misma hora y "
+"en el mismo sitio!"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t0377d548d3"
+msgid "Tu es un véritable amour, j'ai déjà hâte d'y être !"
+msgstr "Eres un encanto, ¡me muero de ganas de ir!"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "tb4d7cbe996"
+msgid "Passe une bonne nuit {{saito.n}} !"
+msgstr "¡Que pases buena noche {{saito.n}}!"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t5ed06488b7"
+msgid "Toi aussi {{sayuri.n}}."
+msgstr "A ti también {{sayuri.n}}."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "tcad1560e71"
+msgid "Où comptes-tu m'emmener cette fois-ci ?"
+msgstr "¿Adónde piensas llevarme esta vez?"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t01796a9cf9"
+msgid "Peu importe où nous irons !"
+msgstr "¡No importa adónde vayamos!"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "tc78d0e8540"
+msgid "Et bien...[w]Que dirais-tu d'aller te promener en ville et faire un peu de shopping ?"
+msgstr ""
+"Bueno...[w]¿Qué te parece si damos un paseo por la ciudad y vamos de compras?"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t4bc41917c2"
+msgid "J'adorerais ça !"
+msgstr "¡Me encantaría!"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t46572f6db7"
+msgid "C'est vrai, tu ne dis pas ça seulement pour me faire plaisir ?"
+msgstr "¿Verdad que no lo dices sólo para complacerme?"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t53274eb8b9"
+msgid "Alors c'est parti !"
+msgstr "Así que, ¡empecemos!"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t589527c336"
+msgid "Merci encore pour cette journée !"
+msgstr "¡Gracias de nuevo por este gran día!"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "tf9251c74ef"
+msgid "Tu veux entrer un moment pour boire quelque chose ?"
+msgstr "¿Te gustaría entrar a tomar algo?"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t423e5b034b"
+msgid "Dommage..."
+msgstr "Qué pena..."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t08a98c6078"
+msgid "Tu as eu des nouvelles d'{{asami.n}} dernièrement ?"
+msgstr "¿Has sabido algo de {{asami.n}} últimamente?"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t7c9f5a509e"
+msgid "Non, aucune, mais j'ai arrêtée de m'angoisser pour ça."
+msgstr "No, en absoluto, pero he dejado de preocuparme por eso."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t603d7c446c"
+msgid "Encore toutes mes excuses pour aujourd'hui..."
+msgstr "Mis disculpas de nuevo por hoy..."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "tac8eed65d4"
+msgid "T'excuser ? Mais pourquoi ?"
+msgstr "¿Disculpas? ¿Por qué?"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t7825e18a48"
+msgid "Tu avais prévu tout un programme et, au final, je nous ai fait rester à la salle d'arcade toute la journée."
+msgstr ""
+"Tenías todo un programa planeado y al final hice que nos quedáramos en los "
+"recreativos todo el día."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t1311d51d74"
+msgid "À la base, nos rendez-vous étaient pour que tu puisses t'amuser et..."
+msgstr "Básicamente, nuestras citas eran para que te divirtieras y..."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t3fb6c5fda2"
+msgid "Pas seulement..."
+msgstr "No solo eso..."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "td70b41b44b"
+msgid "C'était aussi pour avoir un semblant de rendez-vous amoureux..."
+msgstr "También era tener algo parecido a una cita..."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t023d16b441"
+msgid "Oh..! Je vois..."
+msgstr "¡Oh...! Ya veo..."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t47835dbc20"
+msgid "Nos deux premiers rendez-vous étaient formidables mais..."
+msgstr "Nuestras dos primeras citas fueron geniales, pero..."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "td19dcc69ed"
+msgid "Je ne veux pas que ça s'arrête maintenant !"
+msgstr "¡Ahora no quiero parar!"
