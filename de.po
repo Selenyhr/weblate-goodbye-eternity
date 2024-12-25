@@ -110,7 +110,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
-"PO-Revision-Date: 2024-12-24 11:17+0000\n"
+"PO-Revision-Date: 2024-12-25 10:30+0000\n"
 "Last-Translator: Tim Siekmann <sebastian.laubenstein@gmx.net>\n"
 "Language-Team: German <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/de/>\n"
@@ -73878,3 +73878,15 @@ msgstr "Ich weiß ... Aber ..."
 msgctxt "te3fb38b4fb"
 msgid "J'ai vraiment la sensation qu'elle est en danger."
 msgstr "Ich habe ein Gefühl, dass sie in Gefahr ist."
+
+#: game/scenes/gui/main_menu.tscn
+msgid "Chapitres"
+msgstr "Kapitel"
+
+#: game/scenes/gui/chapters/chapters.tscn
+msgid "Quand voulez-vous commencer l'histoire ?"
+msgstr "In welchem Kapitel der Geschichte möchtest du anfangen?"
+
+msgctxt "preferences.variable"
+msgid "typing_speed"
+msgstr "Textgeschwindigkeit"
