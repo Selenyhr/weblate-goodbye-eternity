@@ -110,7 +110,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
-"PO-Revision-Date: 2024-12-25 00:10+0000\n"
+"PO-Revision-Date: 2024-12-25 10:30+0000\n"
 "Last-Translator: Aleksandr <aleksandr-tugai@mail.ru>\n"
 "Language-Team: Russian <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/ru/>\n"
@@ -13860,7 +13860,7 @@ msgstr "С чего бы начать..."
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "t6dfeb25814"
 msgid "[hint=ROUTE REJET]Donne-moi le baladeur MP3."
-msgstr "[hint=ПУТЬ ОТКАЗА] Отдай мне плеер."
+msgstr "[hint=ПУТЬ ИГНОРИРОВАНИЯ] Отдай мне плеер."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_4371f6a9"
@@ -66027,7 +66027,7 @@ msgstr "Если я захочу признаться ему, я хочу быт
 #: game/story/park.dialogue
 msgctxt "t4768c31c6d"
 msgid "[hint=ROUTE REJET/AMITIÉ]Débrouille-toi !"
-msgstr "[hint=ПУТЬ ОТКАЗА/ДРУЖБЫ]Давай как-то сама!"
+msgstr "[hint=ПУТЬ ИГНОРИРОВАНИЯ/ДРУЖБЫ]Давай как-то сама!"
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "t392c988515"
@@ -66232,7 +66232,7 @@ msgstr "{{sakuya.n}}? [w]Нет, я так не думаю..."
 #: game/story/restaurant_sakuya_room.dialogue
 msgctxt "t6b20079ee9"
 msgid "Refuser les avances de {{sakuya.n}}."
-msgstr "Отказаться предложения {{sakuya.n}}."
+msgstr "Отказаться от предложения {{sakuya.n}}."
 
 #: game/story/canal.dialogue
 msgctxt "canal_f1afd5ae"
@@ -74859,3 +74859,66 @@ msgstr "Давай, ты сможешь это сделать!"
 msgctxt "taacebc84dc"
 msgid "Tu as rêvé de ça toute ta vie !"
 msgstr "Ты хотел этого всю свою жизнь!"
+
+#: game/scenes/gui/main_menu.tscn
+msgid "Chapitres"
+msgstr "Главы"
+
+#: game/scenes/gui/chapters/chapters.tscn
+#, fuzzy
+msgid "Quand voulez-vous commencer l'histoire ?"
+msgstr "С какого момента вы хотите начать историю?"
+
+#: game/scenes/gui/chapters/chapters.tscn
+msgid "Quels choix avez-vous effectués ?"
+msgstr "Какой выбор вы сделали?"
+
+#: game/scenes/gui/chapters/chapters.tscn
+msgid "Valider"
+msgstr "Начать"
+
+msgctxt "chapters.choices"
+msgid "yasuka/love"
+msgstr "Любовь"
+
+msgctxt "chapters.choices"
+msgid "noriko/blackmail"
+msgstr "Шантаж"
+
+msgctxt "chapters.choices"
+msgid "noriko/reject"
+msgstr "Игнорирование"
+
+msgctxt "chapters.choices"
+msgid "asami/corruption"
+msgstr "Развращение"
+
+#, fuzzy
+msgctxt "chapters.choices"
+msgid "noriko/femdom"
+msgstr "Доминирует"
+
+msgctxt "chapters.choices"
+msgid "asami/friendship"
+msgstr "Дружба"
+
+msgctxt "chapters.choices"
+msgid "asami/love"
+msgstr "Любовь"
+
+msgctxt "chapters.choices"
+msgid "sakuya/nosex"
+msgstr "Не было секса"
+
+msgctxt "chapters.choices"
+msgid "sakuya/sex"
+msgstr "Был секс"
+
+msgctxt "chapters.choices"
+msgid "yasuka/corruption"
+msgstr "Развращение"
+
+#, fuzzy
+msgctxt "chapters.choices"
+msgid "noriko/maledom"
+msgstr "Доминируешь"
