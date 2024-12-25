@@ -112,7 +112,7 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-07 19:57+0100\n"
-"PO-Revision-Date: 2024-12-25 10:54+0000\n"
+"PO-Revision-Date: 2024-12-25 11:16+0000\n"
 "Last-Translator: WangYu <joestblack@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://translations.teot-studio.com/"
 "projects/goodbye-eternity/game-translation/zh_Hans/>\n"
@@ -33125,7 +33125,7 @@ msgstr "你遇到麻烦了吗？"
 #: game/story/park.dialogue
 msgctxt "menu_macumba_b176c506"
 msgid "Disons que je dois à nouveau remettre à leur place les trois idiots qui m'avaient détruit mon baladeur."
-msgstr "比如说我要去处理那三个毁了我CD播放器的蠢货的问题。"
+msgstr "简单来说我要去和那三个毁了我随身听的蠢货讨个公道。"
 
 #: game/story/park.dialogue
 msgctxt "menu_macumba_ca2983cf"
@@ -56247,7 +56247,7 @@ msgstr "我必须把随身听物归原主..."
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_13"
-msgstr "把我的旧CD播放器给{{macumba.n}}来换取一些训练指导怎么样？"
+msgstr "把我的旧随身听给{{macumba.n}}来换取一些训练指导怎么样？"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -56287,17 +56287,17 @@ msgstr "去{{noriko.n}}的房间拿回你的随身听！"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_18_noriko_femdom_maledom"
-msgstr "去找{{yasuka.n}}拿回CD播放器。"
+msgstr "去找{{yasuka.n}}拿回随身听。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_19_noriko_femdom_maledom"
-msgstr "拿着CD播放器去找{{macumba.n}}。"
+msgstr "拿着随身听去找{{macumba.n}}。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_19_1_noriko_femdom_maledom"
-msgstr "拿着CD播放器去找{{macumba.n}}。"
+msgstr "拿着随身听去找{{macumba.n}}。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -78139,7 +78139,7 @@ msgstr "摧毁？"
 #: game/story/park.dialogue
 msgctxt "t4ced559fd2"
 msgid "Parfait ! Si tu as mal, c'est que ça fonctionne !"
-msgstr "好极了！痛，代表生长！"
+msgstr "好极了！痛，代表成长！"
 
 #: game/story/park.dialogue
 msgctxt "tf6d7fe60b2"
@@ -78436,3 +78436,68 @@ msgstr "[i]宅男通常必须痛苦地死去，才能被传送到新世界……
 msgctxt "t0f97913154"
 msgid "[i]Lui aussi maltraité par ses supérieurs. Se tuant à la tâche pour ne recevoir aucune considération.[/i]"
 msgstr "[i]他也会惯例受到上级的虐待，即便努力工作到累死也不会得到任何关心。[/i]"
+
+#: game/story/park.dialogue
+msgctxt "t63f348e22c"
+msgid "N'oublie pas de t'etirer, de boire beaucoup d'eau et de continuer l'entrainement physique en fin de journée !"
+msgstr "别忘了做拉伸，多喝水，并在一天结束时继续你的体能训练！"
+
+#: game/story/arcade_interior.dialogue
+msgctxt "tf9c96ac162"
+msgid "Incroyable !"
+msgstr "太棒了！"
+
+#: game/story/park.dialogue
+msgctxt "t1454015076"
+msgid "[i]L'ikemen ou mâle alpha, lui, serait le plus souvent invoqué, le nouveau monde ayant désespérément besoin de lui.[/i]"
+msgstr "[i]现充，或者叫顶级雄性，则通常在新世界迫切需要他的时候被召唤。[/i]"
+
+#: game/story/park.dialogue
+msgctxt "taec96b3628"
+msgid "C'est comme dans la vraie vie, plus tu es moche, plus tu ramasses."
+msgstr "就像现实生活中一样，长得越丑过得越惨。"
+
+#: game/story/park.dialogue
+msgctxt "t6fe48e3746"
+msgid "[font_size=14]Hey, faites attentions, vous passez trop près ![/font_size]"
+msgstr "[font_size=14]嘿，小心点，你离得太近了！[/font_size]"
+
+#: game/story/park.dialogue
+msgctxt "t680508f854"
+msgid "[font_size=14]C'est ça, ignorez-moi...[/font_size]"
+msgstr "[font_size=14]我知道，无视我就好……[/font_size]"
+
+#: game/story/park.dialogue
+msgctxt "tfd1d9a1f28"
+msgid "[font_size=14]Deux guignols en train de courir dans un parc... Pfff ![/font_size]"
+msgstr "[font_size=14]两个小丑在公园里跑步…… 噗！[/font_size]"
+
+#: game/story/park.dialogue
+msgctxt "td5a01c343b"
+msgid "Tu progresses à vue d'œil petit frère."
+msgstr "你进步很快，小兄弟。"
+
+#: game/story/park.dialogue
+msgctxt "t688626c5ef"
+msgid "La prochaine fois on augmentera encore la cadence."
+msgstr "下次，我们会再把速度提高一级。"
+
+#: game/story/park.dialogue
+msgctxt "t19be9f4d33"
+msgid "Simple question {{macumba.n}}, la cadence peut être augmentée combien de fois encore ?"
+msgstr "嘿，{{macumba.n}}，速度到底可以提高多少级？"
+
+#: game/story/park.dialogue
+msgctxt "t79409e5af2"
+msgid "Au final... Si j'ai mal, c'est que ça fonctionne."
+msgstr "你最后会达到的……如果你觉得痛，那代表你在成长。"
+
+#: game/story/park.dialogue
+msgctxt "tee89129abf"
+msgid "Mais ça fait un mal de chien !"
+msgstr "但是我快痛死了！"
+
+#: game/story/amusement_park_interior.dialogue
+msgctxt "t65fd8647c7"
+msgid "Pas exactement..."
+msgstr "并不是……"
