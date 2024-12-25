@@ -110,7 +110,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
-"PO-Revision-Date: 2024-12-25 10:30+0000\n"
+"PO-Revision-Date: 2024-12-25 10:34+0000\n"
 "Last-Translator: Tim Siekmann <sebastian.laubenstein@gmx.net>\n"
 "Language-Team: German <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/de/>\n"
@@ -61746,7 +61746,7 @@ msgstr "Stadt"
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "arcade_interior"
-msgstr "Arcade-Halle (Innen)"
+msgstr "Arcade-Halle (innen)"
 
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
@@ -61776,7 +61776,7 @@ msgstr "{{asami.n}}s Wohnzimmer"
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "restaurant_interior"
-msgstr "Restaurant (Innen)"
+msgstr "Restaurant (innen)"
 
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
@@ -62141,7 +62141,7 @@ msgstr "{{sakuya.n}}s Zimmer"
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "home_kimochi_interior"
-msgstr "{{kimochi.n}}s Wohnung (Innen)"
+msgstr "{{kimochi.n}}s Wohnung (innen)"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -62163,7 +62163,7 @@ msgstr "{{noriko.n}}s Zimmer"
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "onsen_interior"
-msgstr "Onsen (Innen)"
+msgstr "Onsen (innen)"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -62282,7 +62282,7 @@ msgstr "Überspringen"
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "coffeebar_interior"
-msgstr "[i]Coffee Boutique[/i] (Innen)"
+msgstr "[i]Coffee Boutique[/i] (innen)"
 
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
@@ -62292,7 +62292,7 @@ msgstr "Nachtklub (Gasse)"
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "hostess_club_interior"
-msgstr "Nachtklub (Innen)"
+msgstr "Nachtklub (innen)"
 
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
@@ -62307,7 +62307,7 @@ msgstr "Stundenhotel (Zimmer)"
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "warehouse_interior"
-msgstr "Lagerhalle (Innen)"
+msgstr "Lagerhalle (innen)"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -62324,7 +62324,7 @@ msgstr ""
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "konbini_interior"
-msgstr "Kombini (Innen)"
+msgstr "Kombini (innen)"
 
 #: game/story/home_minato_exterior.dialogue
 msgctxt "home_minato_exterior_eb593743"
@@ -72600,7 +72600,7 @@ msgstr "Aber jetzt will ich, dass du mir deine wilde Seite zeigst!"
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "amusement_park_exterior"
-msgstr "Vergnügungspark (außen)"
+msgstr "Freizeitpark (außen)"
 
 #: game/scenes/gui/gui_start_asami.tscn
 msgid "Vous pouvez dès à présent poursuivre l’histoire d’{{asami.n}}."
@@ -73890,3 +73890,16 @@ msgstr "In welchem Kapitel der Geschichte möchtest du anfangen?"
 msgctxt "preferences.variable"
 msgid "typing_speed"
 msgstr "Textgeschwindigkeit"
+
+#: game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "amusement_park_interior"
+msgstr "Freizeitpark (innen)"
+
+#: game/scenes/gui/chapters/chapters.tscn
+msgid "Quels choix avez-vous effectués ?"
+msgstr "Welche Entscheidungen hast du getroffen?"
+
+#: game/scenes/gui/chapters/chapters.tscn
+msgid "Valider"
+msgstr "Bestätigen"
