@@ -112,7 +112,7 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-07 19:57+0100\n"
-"PO-Revision-Date: 2024-12-26 17:03+0000\n"
+"PO-Revision-Date: 2024-12-26 22:55+0000\n"
 "Last-Translator: Roger Miró <puniasterus@gmail.com>\n"
 "Language-Team: Spanish <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/es/>\n"
@@ -50023,7 +50023,7 @@ msgstr "Tienes un don para meterte en problemas, pobre bastardo."
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "talk_thugs_e522306a"
 msgid "Tu n'as pas idée..."
-msgstr "No tienes idea..."
+msgstr "No tienes ni idea..."
 
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "talk_thugs_2ce2cf9d"
@@ -79922,3 +79922,167 @@ msgstr "En fin, ¡más vale empezar ya!"
 msgctxt "tf763b78c1e"
 msgid "Où suis-je ?"
 msgstr "¿Dónde estoy?"
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "t9a9daa52a9"
+msgid "Ça...[w]Ça ne me gène pas et puis... [w] J'ai déjà vu l'essentiel au onsen."
+msgstr ""
+"No...[w]No me molesta y además... [w]Ya he visto lo esencial en el onsen."
+
+#: game/story/hostess_club_exterior.dialogue
+msgctxt "t96a6165b20"
+msgid "Est ce qu'on peut faire une pause ?"
+msgstr "¿Podemos tomarnos un descanso?"
+
+#: game/story/hostess_club_exterior.dialogue
+msgctxt "te43f2a49b8"
+msgid "Je suis complètement trempée !"
+msgstr "¡Estoy completamente empapada!"
+
+#: game/scenes/gui/main_menu.tscn
+msgid "Chapitres"
+msgstr "Capítulos"
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "te1a690b0e9"
+msgid "Allez ! Regarde-moi bien, regarde autant que tu veux et dis-moi dans le creux de l'oreille..."
+msgstr "¡Adelante! Mírame bien, mira todo lo que quieras y dime al oído..."
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "tb24a483046"
+msgid "Je vois...[w]Mais tu es un garçon serieux qui ne se laissera pas tenter n'est ce pas ?"
+msgstr ""
+"Ya veo...[w]Pero tú eres un chico serio que no caerá en la tentación, "
+"¿verdad?"
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "t53398d412d"
+msgid "[font_size=14]Je t'attendrais alors...[/font_size]"
+msgstr "[font_size=14]Entonces te esperaré...[/font_size]"
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "t09df553352"
+msgid "Peut-être qu'en attendant quelques minutes le plus gros sera passé et..."
+msgstr "Quizá si esperamos unos minutos lo peor habrá pasado y..."
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "t8fb4eda249"
+msgid "...[w]Je...[w]Désolé, la pluie a rendu ta robe transparente et..."
+msgstr "...[w]Yo...[w]Lo siento, la lluvia ha transparentado tu vestido y..."
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "td9868ec864"
+msgid "Si cela te gène, tu n'es pas obligé de regarder non plus."
+msgstr "Si eso te molesta, tampoco tienes que mirar."
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "t34a61a737a"
+msgid "Comment ça, tu as vu l'essentiel ? Petit pervers !"
+msgstr "¿Qué quieres decir con que viste lo esencial? ¡Pequeño pervertido!"
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "tfaf5d6e252"
+msgid "[font_size=14]Je ne m'en étais même pas aperçue...[/font_size]"
+msgstr "[font_size=14]Ni siquiera me había dado cuenta...[/font_size]"
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "tf02c09a035"
+msgid "Et puis soit honnête... Entre toi et moi... Je pense que tu savais quel genre d'effet pouvait provoquer cette robe."
+msgstr ""
+"Y se honesta... Entre tú y yo... Creo que sabías el efecto que tendría este "
+"vestido."
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "t9afd0bf59b"
+msgid "Ah oui ? [w]Et qu'est-ce qu'elle provoque exactement ?"
+msgstr "¿Ah, sí? [w]¿Y qué es lo que provoca exactamente?"
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "t215604e88b"
+msgid "Je ne sais pas si je peux le dire..."
+msgstr "No sé si puedo decirlo..."
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "t31134e3065"
+msgid "Allez à ton tour {{saito.n}}, soit honnête."
+msgstr "Ahora es tu turno {{saito.n}}, sé honesto."
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "ta28dda5dee"
+msgid "Tu le sais déjà."
+msgstr "Ya lo sabes."
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "t68fc5ab73e"
+msgid "J'ai envie de te l'entendre dire..."
+msgstr "Quiero oírte decirlo..."
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "tdd1dcc0917"
+msgid "Ce que ma \"robe\" provoque en toi."
+msgstr "Lo que mi \"vestido\" provoca en ti."
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "tc5c576e274"
+msgid "[font_size=14]Une envie irrésistible de l'enlever....[/font_size]"
+msgstr "[font_size=14]Un impulso irresistible de quitártelo...[/font_size]"
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "t8df71525a8"
+msgid "Je vois...[w]Quel dommage que nous soyons dans cette ruelle à cet instant..."
+msgstr "Ya veo...[w]Qué pena que estemos en este callejón en este momento..."
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "t4b6988d827"
+msgid "Nous ferions mieux de rentrer dans ce cas"
+msgstr "Será mejor que nos vayamos a casa, en ese caso."
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "td144759573"
+msgid "Qui sait ce qui pourrait se passer dans quelques minutes...?"
+msgstr "¿Quién sabe lo que podría pasar en unos minutos...?"
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "t682934010a"
+msgid "Tu es vraiment cruelle, tu le sais ça ?"
+msgstr "Eres realmente cruel, ¿lo sabes?"
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "t2c6479f131"
+msgid "Hey mais tu es le gars au laxatif !"
+msgstr "¡Eh, tú eres el tipo del laxante!"
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "t1de247ba37"
+msgid "C'était toi qui en avait après {{chiaki.n}} ?"
+msgstr "¿Eras tú quien buscaba a {{chiaki.n}}?"
+
+#: game/story/amusement_park_exterior.dialogue
+msgctxt "t42fc0dc46b"
+msgid "Tu n'as pas idée..."
+msgstr "No tienes ni idea..."
+
+#: game/story/amusement_park_interior.dialogue
+msgctxt "t533b2f24e0"
+msgid "Tu vois ?"
+msgstr "¿Lo ves?"
+
+#: game/story/hostess_club_exterior.dialogue
+msgctxt "t3dc452a0ec"
+msgid "Je crois qu'on peut s'abriter ici temporairement..."
+msgstr "Creo que podemos refugiarnos aquí temporalmente..."
+
+#: game/story/hostess_club_exterior.dialogue
+msgctxt "t2daa45c319"
+msgid "Suis moi, c'est juste là !"
+msgstr "¡Sígueme, está justo aquí!"
+
+#: game/scenes/gui/game_menu/preferences.tscn
+msgctxt "preferences.variables.typing_speed"
+msgid "MAX"
+msgstr "MÁX"
+
+#: game/story/arcade_interior.dialogue
+msgctxt "t6912757cb1"
+msgid "Tout a tellement changé..."
+msgstr "Todo ha cambiado tanto..."
