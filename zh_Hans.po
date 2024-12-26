@@ -112,7 +112,7 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-07 19:57+0100\n"
-"PO-Revision-Date: 2024-12-26 05:18+0000\n"
+"PO-Revision-Date: 2024-12-26 06:30+0000\n"
 "Last-Translator: WangYu <joestblack@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://translations.teot-studio.com/"
 "projects/goodbye-eternity/game-translation/zh_Hans/>\n"
@@ -7723,7 +7723,7 @@ msgstr "好吧，那我现在该怎么办？"
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_61ae5cd9"
 msgid "Je ne sais pas si je peux sortir discrètement sans avoir de remarque de {{noriko.n}} ou de {{yasuka.n}}."
-msgstr "不知道我能不能在不被{{noriko.n}}或者{{yasuka.n}}发现的情况下偷偷的溜出去。"
+msgstr "不知道我能不能在不被{{noriko.n}}或者{{yasuka.n}}发现的前提下偷偷的溜出去。"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_d7eafe50"
@@ -8308,7 +8308,7 @@ msgstr "我必须坚持下去！"
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_e4a06382"
 msgid "Le matin à la boutique et l'après-midi au restaurant."
-msgstr "早奔咖啡厅，下午跑餐厅。"
+msgstr "早奔咖啡吧，下午跑料理店。"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_f17f151b"
@@ -8428,7 +8428,7 @@ msgstr "我还是去睡觉吧。"
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_60f6f9a9"
 msgid "Les choses ont pris une tournure bien plus intéressante avec {{yasuka.n}}."
-msgstr "{{yasuka.n}}的情况有了一些好转。"
+msgstr "{{yasuka.n}}的处境有了一些好转。"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_0fe2587e"
@@ -12387,7 +12387,7 @@ msgstr "我有什么能帮得上忙的吗？"
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_0ee441d7"
 msgid "Pour le moment... pas grand-chose."
-msgstr "现在的情况...没法帮。"
+msgstr "现在的形势...没法帮。"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_7a8efef1"
@@ -19462,7 +19462,7 @@ msgstr "哦，你真是太温柔体贴了。"
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_17825842"
 msgid "Viens me voir à la boutique au coin de la rue."
-msgstr "那就到街角的咖啡厅来找我吧。"
+msgstr "那就到街角的咖啡吧找我吧。"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_76e41588"
@@ -19592,7 +19592,7 @@ msgstr "去死！"
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_f3aff511"
 msgid "Peu importe, on se retrouve cet après-midi devant la boutique."
-msgstr "总而言之，我们今天下午在咖啡厅门口见。"
+msgstr "总而言之，我们今天下午在咖啡吧门口见。"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_7804cadd"
@@ -20032,12 +20032,12 @@ msgstr "你把文件交给{{yasuka.n}}。"
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_d7ecbdb9"
 msgid "La boutique est à présent à toi."
-msgstr "咖啡店现在是你的了。"
+msgstr "店现在是你的了。"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_ef6d3f84"
 msgid "Quoi ? La boutique ? Mais...[w] et tout cet argent, ça vient d'où ?"
-msgstr "什么？咖啡店？可是...[w] 那这些钱呢，这些钱又是哪里来的？"
+msgstr "什么？咖啡吧？可是...[w] 那这些钱呢，这些钱又是哪里来的？"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_d02212ef"
@@ -20357,7 +20357,7 @@ msgstr "上一个工作？你之前是做什么的？"
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_8d8126b7"
 msgid "Je travaillais pour le petit café au coin de la rue."
-msgstr "我之前在街上的一家小咖啡店打工。"
+msgstr "我之前在街上的一家小咖啡吧打工。"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_901fedd4"
@@ -24186,7 +24186,7 @@ msgstr "这是什么？"
 #: game/story/home_player_exterior.dialogue
 msgctxt "home_player_exterior_8c856325"
 msgid "L'acte de propriété de la boutique."
-msgstr "咖啡店的地契。"
+msgstr "咖啡吧的地契。"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "home_player_exterior_126ffefd"
@@ -33970,7 +33970,7 @@ msgstr "我赚的钱太少了，这解决不了我们的问题。"
 #: game/story/coffeebar_exterior.dialogue
 msgctxt "talk_ubs_c98dc509"
 msgid "Je vais devoir aller travailler au restaurant si je veux aussi pouvoir aider à rembourser les dettes."
-msgstr "如果我想帮忙偿还债务的话，就还得在咖啡厅这边下班后继续在料理店工作。"
+msgstr "如果我想帮忙偿还债务的话，就还得在咖啡吧这边下班后继续在料理店工作。"
 
 #: game/story/coffeebar_exterior.dialogue
 msgctxt "talk_ubs_e3ceb2b3"
@@ -37188,7 +37188,7 @@ msgstr "啊？！那些不良？！你是说你就是那个一直在背地里折
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_0b25b15c"
 msgid "Et pas seulement, je me suis occupée également de l'ex-propriétaire de la boutique de café."
-msgstr "不仅如此，我还搞定了咖啡厅的前任老板。"
+msgstr "不仅如此，我还搞定了咖啡吧的前任老板。"
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_7b0619e4"
@@ -41111,7 +41111,7 @@ msgstr "哈哈，跌宕起伏啊，我的兄弟。"
 #: game/story/canal.dialogue
 msgctxt "canal_854d292a"
 msgid "Je ne sais pas comment gérer cette situation, ça me dépasse."
-msgstr "我不知道如何处理这种情况，这超出了我的能力范围。"
+msgstr "我不知道如何处理这种掌控，这超出了我的能力范围。"
 
 #: game/story/canal.dialogue
 msgctxt "canal_48906a26"
@@ -44586,7 +44586,7 @@ msgstr "你得说得再详细点儿。肥猪去情趣酒店可不是个稀罕事
 #: game/story/love_hotel_exterior.dialogue
 msgctxt "love_hotel_exterior_b6afbb9c"
 msgid "Le patron du Coffee Boutique ! Le mec de l'autre jour que tu devais retenir."
-msgstr "就是那个咖啡厅的老板！你上次帮我支走的人。"
+msgstr "就是那个咖啡吧的老板！你上次帮我支走的人。"
 
 #: game/story/love_hotel_exterior.dialogue
 msgctxt "love_hotel_exterior_59191929"
@@ -45377,7 +45377,7 @@ msgstr "要是你能知道我等这一刻等了多久就好了。"
 #: game/story/love_hotel_reception.dialogue
 msgctxt "love_hotel_reception_d2f596cc"
 msgid "Depuis le premier jour où je t'ai vu entrer dans cette boutique..."
-msgstr "自从我看到你走进咖啡店的第一天起..."
+msgstr "自从我看到你走进咖啡吧的第一天起..."
 
 #: game/story/love_hotel_reception.dialogue
 msgctxt "love_hotel_reception_cbc92a4b"
@@ -45918,7 +45918,7 @@ msgstr "我又不能去警察局报案。他们可能会认为我疯了。"
 #: game/story/love_hotel_room.dialogue
 msgctxt "love_hotel_room_62e946f4"
 msgid "Et au pire, je pourrais avoir des problèmes."
-msgstr "在最坏的情况下，我可能又会惹上麻烦。"
+msgstr "在最坏的处境下，我可能又会惹上麻烦。"
 
 #: game/story/love_hotel_room.dialogue
 msgctxt "love_hotel_room_8abbae80"
@@ -46358,7 +46358,7 @@ msgstr "见鬼...{{kimochi.n}}说对了。"
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "home_kimochi_exterior_05827ffa"
 msgid "C'est même pire que tout..."
-msgstr "情况比我想象的更糟..."
+msgstr "形势比我想象的更糟..."
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "home_kimochi_exterior_4b698217"
@@ -47352,7 +47352,7 @@ msgstr "哎呀...也不能这么说吧。"
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "kimochi_password_4afe65fb"
 msgid "J'ai seulement besoin que tu détournes l'attention du patron du Coffee Boutique quelques minutes le temps d'entrer dans sa boutique."
-msgstr "我只需要你帮我把那个咖啡厅老板引开一会，这样他就不能拦着不让我进店了。"
+msgstr "我只需要你帮我把那个咖啡吧老板引开一会，这样他就不能拦着不让我进店了。"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "kimochi_password_ba6244ad"
@@ -47554,7 +47554,7 @@ msgstr "你肯定有办法救我吧，对吗？"
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "kimochi_password_aa9a0ee2"
 msgid "Pour le moment, le gros lard qui tient le Coffee Boutique a le dessus sur eux, il a fait un enregistrement quand ils me sont tombés dessus, mais je ne sais pas si ça va durer."
-msgstr "这么长时间以来，只有那个开咖啡馆的胖子让他们吃过瘪。他们找我茬的时候，被那胖"
+msgstr "这么长时间以来，只有那个开咖啡吧的胖子让他们吃过瘪。他们找我茬的时候，被那胖"
 "子录音了，但我不知道这录音能吓住他们多久。"
 
 #: game/story/home_kimochi_interior.dialogue
@@ -55902,7 +55902,7 @@ msgstr "{{natsume.n}}的家"
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "coffeebar_exterior"
-msgstr "[i]精品咖啡[/i]"
+msgstr "[i]精品咖啡吧[/i]"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
@@ -57057,12 +57057,12 @@ msgstr "到客厅找{{yasuka.n}}。"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_love_2"
-msgstr "下午前往咖啡店拜访{{yasuka.n}}。"
+msgstr "下午前往咖啡吧拜访{{yasuka.n}}。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_love_3"
-msgstr "下午前往咖啡店拜访{{yasuka.n}}。"
+msgstr "下午前往咖啡吧拜访{{yasuka.n}}。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -57102,12 +57102,12 @@ msgstr "寻找可以帮助我的[color=#55efc4]某人[/color]。"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_love_11"
-msgstr "在咖啡厅和{{kimochi.n}}见面。"
+msgstr "在咖啡吧和{{kimochi.n}}见面。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_love_12"
-msgstr "在咖啡厅和{{kimochi.n}}见面。"
+msgstr "在咖啡吧和{{kimochi.n}}见面。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -57152,7 +57152,7 @@ msgstr "陪{{yasuka.n}}平安到家。"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_love_21"
-msgstr "明天早上带着{{yasuka.n}}的辞职信回到咖啡厅。"
+msgstr "明天早上带着{{yasuka.n}}的辞职信回到咖啡吧。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -57392,7 +57392,7 @@ msgstr "去见{{yasuka.n}}。"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_love_64"
-msgstr "顺路去趟咖啡厅。"
+msgstr "顺路去趟咖啡吧。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -60003,7 +60003,7 @@ msgstr "{{netoru.n}} (坐姿)"
 #: game/scenes/locations/coffeebar_interior.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "YasukaBarista"
-msgstr "{{yasuka.n}} (咖啡馆店员)"
+msgstr "{{yasuka.n}} (咖啡吧店员)"
 
 #: game/scenes/locations/dojo_exterior.tscn
 #: game/scenes/locations/hostess_club_exterior.tscn
@@ -60060,7 +60060,7 @@ msgstr "{{sakuya.n}} (等待)"
 #: game/scenes/locations/home_player_livingroom.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "YasukaCoffee"
-msgstr "{{yasuka.n}} (咖啡馆)"
+msgstr "{{yasuka.n}} (咖啡吧)"
 
 #: game/scenes/locations/home_player_noriko_room.tscn
 msgctxt "galleries.backgrounds.sprite"
@@ -79856,3 +79856,78 @@ msgstr "哈啊～我要被你搞死了！"
 msgctxt "tf070bd5870"
 msgid "Aaah Ouiiiii! Oui !"
 msgstr "啊哈啊～顶我！使劲顶我！哈啊啊～！"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "tf97e08edf8"
+msgid "Combien de temps vous allez me laisser là ?!"
+msgstr "你要把我关在这里多久？！"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "t095d5a29d5"
+msgid "Et bien je vois que tu es toujours énergique, c'est rassurant !"
+msgstr "呵呵，看到你还是这么有活力，我就放心了！"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "tcd00e8b551"
+msgid "J'avais un peu peur d'avoir abusé avec le somnifère, mais non."
+msgstr "我还怕我安眠药下得太多了，不过事实证明你好得很呐。"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "t451cd0c7be"
+msgid "Tu espère sincèrement que je vais te répondre ?"
+msgstr "你不会真以为我会回答你问题吧？"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "t97dfa85638"
+msgid "...[w]J'aurais au moins essayé."
+msgstr "……[w]万一你就是那么傻呢。"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "t136466d982"
+msgid "Est-ce que vous pouvez au moins me dire pourquoi vous m'avez enlevée ?"
+msgstr "你至少得告诉我绑架我的目的吧？"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "t9940847536"
+msgid "Vous parlez de {{saito.n}} ?"
+msgstr "你说的是 {{saito.n}}？"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "t722e8d2cef"
+msgid "Tout ceci n'est que pure vengeance, à cause d'un petit ami... J'ai tout perdu."
+msgstr "就是纯粹的报复。拜你的小男友所赐……我失去了一切。"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "t2de7c6f348"
+msgid "Tout ceci n'est que pure vengeance, à cause d'une de tes fréquentation... J'ai tout perdu."
+msgstr "就是纯粹的报复。拜你的某个朋友所赐……我失去了一切。"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "td3915efa0c"
+msgid "Mon magasin, ma réputation, mon argent, tout !"
+msgstr "我的咖啡吧，我的名誉，我的钱，所有的一切！"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "t32d21bdd14"
+msgid "Tout est de sa faute !"
+msgstr "全都是他的错！"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "t9a7db5b983"
+msgid "S'en prendre à quelqu'un à qui il tient par-dessus tout n'est donc que justice."
+msgstr "因此，对他亲近的人下手是公平的。"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "tc4959e9eda"
+msgid "Ce n'est pas la faute de {{saito.n}}, c'est juste vous qui cherchez un responsable à vos échecs !"
+msgstr "这不是{{saito.n}}的错！你根本是活该，居然还要怪罪他！"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "t30b35e60bd"
+msgid "Tu es sûre de vouloir me provoquer ? Tu n'es pas dans une situation où tu peux aisément te défendre tu sais..."
+msgstr "你想把我惹急吗？认清楚，你现在可是任我宰割……"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "td3bcef4b98"
+msgid "J'en ai marre !"
+msgstr "我受够了！"
