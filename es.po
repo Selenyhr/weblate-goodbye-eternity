@@ -112,7 +112,7 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-07 19:57+0100\n"
-"PO-Revision-Date: 2024-12-26 15:42+0000\n"
+"PO-Revision-Date: 2024-12-26 17:03+0000\n"
 "Last-Translator: Roger Miró <puniasterus@gmail.com>\n"
 "Language-Team: Spanish <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/es/>\n"
@@ -13648,12 +13648,12 @@ msgstr "Aquí..."
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "t8fc53e68f6"
 msgid "Vous obtenez le baladeur MP3."
-msgstr "Obtienes el reproductor MP3"
+msgstr "Obtienes el reproductor MP3."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "t6a2e1e2138"
 msgid "Vous obtenez le baladeur MP3."
-msgstr "Obtienes el reproductor MP3"
+msgstr "Obtienes el reproductor MP3."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_b81fcf6d"
@@ -79240,7 +79240,7 @@ msgstr "Será mejor que lo devuelva."
 #: game/story/park.dialogue
 msgctxt "t5ee1615477"
 msgid "Vous obtenez le baladeur détruit."
-msgstr "Consigues el Walkman destruido."
+msgstr "Obtienes el Walkman destruido."
 
 #: game/story/park.dialogue
 msgctxt "tde20706126"
@@ -79510,3 +79510,415 @@ msgstr "¡Entonces deberías habérmelo dicho, hermanito!"
 msgctxt "t8e04dc41bc"
 msgid "...Je vois."
 msgstr "...Ya veo."
+
+#: game/story/park.dialogue
+msgctxt "tf148324293"
+msgid "Il n'y a pas d'entrainement physique dans Bible Black {{macumba.n}}."
+msgstr "No hay entrenamiento físico en Bible Black, {{macumba.n}}."
+
+#: game/story/park.dialogue
+msgctxt "t03bc898a36"
+msgid "J'ai testé tes halteres bricolés..."
+msgstr "Probé tus mancuernas modificadas..."
+
+#: game/story/park.dialogue
+msgctxt "tfe203ab61b"
+msgid "Puise en toi toute la force necéssaire sinon... Souviens toi du banc !"
+msgstr "Consigue toda la fuerza que necesites, si no... ¡Recuerda el banco!"
+
+#: game/story/park.dialogue
+msgctxt "t1454015076"
+msgid "[i]L'ikemen ou mâle alpha, lui, serait le plus souvent invoqué, le nouveau monde ayant désespérément besoin de lui.[/i]"
+msgstr ""
+"[i]El ikemen, o macho alfa, sería invocado con mayor frecuencia, ya que el "
+"nuevo mundo lo necesitaba desesperadamente.[/i]"
+
+#: game/story/arcade_interior.dialogue
+msgctxt "tf9c96ac162"
+msgid "Incroyable !"
+msgstr "¡Increíble!"
+
+#: game/story/park.dialogue
+msgctxt "t79dbf00b8e"
+msgid "Prends ceci, ce sont des haltères légèrement modifiés. J'utilisais ça avant."
+msgstr ""
+"Toma estas, son mancuernas ligeramente modificadas. Yo solía usar estas."
+
+#: game/story/park.dialogue
+msgctxt "teb61f7bd6d"
+msgid "[i]Au tout début de l'aventure, le personnage principal est souvent un garçon sans grand intérêt, rarement le protagoniste de sa propre vie.[/i]"
+msgstr ""
+"[i]Al principio de la aventura, el protagonista suele ser un chico sin "
+"interés, rara vez protagonista de su propia vida.[/i]"
+
+#: game/story/park.dialogue
+msgctxt "t63f348e22c"
+msgid "N'oublie pas de t'etirer, de boire beaucoup d'eau et de continuer l'entrainement physique en fin de journée !"
+msgstr ""
+"No olvides hacer estiramientos, beber mucha agua y continuar con tu "
+"entrenamiento físico al final del día."
+
+#: game/story/park.dialogue
+msgctxt "tbccaa550e5"
+msgid "Tu n'as pas l'air dans ton assiette, tout va bien ?"
+msgstr "No tienes muy buen aspecto, ¿estás bien?"
+
+#: game/story/park.dialogue
+msgctxt "tddbcc9a569"
+msgid "Et {{macumba.n}} avait fait le parfait bouc emissaire."
+msgstr "Y {{macumba.n}} fue el chivo expiatorio perfecto."
+
+#: game/story/amusement_park_interior.dialogue
+msgctxt "t65fd8647c7"
+msgid "Pas exactement..."
+msgstr "No exactamente..."
+
+#: game/story/park.dialogue
+msgctxt "tbbc9d17e4c"
+msgid "[i]Et c'est dans la mort que son âme pourra être transportée dans ce nouveau monde, telle une renaissance, tirant un trait sur celui qu'il était avant.[/i]"
+msgstr ""
+"[i]Y es en la muerte cuando su alma puede ser transportada a este nuevo "
+"mundo, como un renacimiento, trazando una línea bajo quien era antes.[/i]"
+
+#: game/story/park.dialogue
+msgctxt "tb130041537"
+msgid "[i]Si le protagoniste n'est pas un collégien/lycéen, alors c'est un adulte déjà intégré dans le monde du travail.[/i]"
+msgstr ""
+"[i]Si el protagonista no es un alumno de secundaria, es un adulto ya "
+"integrado en el mundo laboral.[/i]"
+
+#: game/story/park.dialogue
+msgctxt "t0f97913154"
+msgid "[i]Lui aussi maltraité par ses supérieurs. Se tuant à la tâche pour ne recevoir aucune considération.[/i]"
+msgstr ""
+"[i]Él también ha sido maltratado por sus superiores, trabajando hasta la "
+"muerte sólo para no recibir ninguna consideración.[/i]"
+
+#: game/story/park.dialogue
+msgctxt "t7a6063d899"
+msgid "J'ose esperer avoir fait assez de vague autour de moi pour modifier le cour des évenements."
+msgstr ""
+"Espero haber causado suficiente impacto para cambiar el curso de los "
+"acontecimientos."
+
+#: game/story/park.dialogue
+msgctxt "ta9df9733f9"
+msgid "Je passerais bien au konbini, ça me donnera l'occasion d'aller voir si {{sayuri.n}} a pu faire ce qu'elle voulait."
+msgstr ""
+"Me encantaría pasarme por el konbini, me dará la oportunidad de ver si "
+"{{sayuri.n}} pudo hacer lo que quería."
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "tb1f2c14496"
+msgid "Ici nous serons au sec !"
+msgstr "¡Aquí estaremos secos!"
+
+#: game/story/park.dialogue
+msgctxt "t565c39a146"
+msgid "J'essaye d'obtenir un job au restaurant de Udon du centre-ville, mais le chef refuse catégoriquement, car..."
+msgstr ""
+"Estoy intentando conseguir trabajo en el restaurante udon del centro de la "
+"ciudad, pero el chef se niega en redondo porque..."
+
+#: game/story/park.dialogue
+msgctxt "t84ed94a2fc"
+msgid "Tu as l'air d'un cadavre ?"
+msgstr "¿Pareces un cadáver?"
+
+#: game/story/park.dialogue
+msgctxt "t97f8ed8e7c"
+msgid "De sortir d'une longue maladie ?"
+msgstr "¿Recuperándote de una larga enfermedad?"
+
+#: game/story/park.dialogue
+msgctxt "t58e3102916"
+msgid "Merci, ça fait toujours plaisir à entendre."
+msgstr "Gracias, siempre es bueno oírlo."
+
+#: game/story/park.dialogue
+msgctxt "t08a42d93e5"
+msgid "J'ai besoin d'un entrainement physique avec des résultats rapides."
+msgstr "Necesito entrenamiento físico con resultados rápidos."
+
+#: game/story/park.dialogue
+msgctxt "tb08800cb1e"
+msgid "Je dois lui montrer que j'ai la carrure pour le job."
+msgstr "Tengo que demostrarle que soy el hombre adecuado para el trabajo."
+
+#: game/story/park.dialogue
+msgctxt "td985ab465c"
+msgid "J'ai peut-être quelque chose qui pourrait t'aider, j'ai vu ça dans un anime."
+msgstr "Puede que tenga algo que pueda ayudarte, lo vi en un anime."
+
+#: game/story/park.dialogue
+msgctxt "tc76ef914c1"
+msgid "Tout depend de ce que tu considère comme un entrainement petit frere."
+msgstr "Todo depende de lo que consideres entrenamiento, hermanito."
+
+#: game/story/park.dialogue
+msgctxt "t2e6e5a72cf"
+msgid "Si tu veux des résultats rapides, fais-moi confiance."
+msgstr "Si quieres resultados rápidos, confía en mí."
+
+#: game/story/park.dialogue
+msgctxt "ta55f79a48b"
+msgid "Vous obtenez les haltères modifiées de {{macumba.n}}."
+msgstr "Obtienes las mancuernas modificadas de {{macumba.n}}."
+
+#: game/story/park.dialogue
+msgctxt "t1d0d7576ec"
+msgid "Avec ça tu obtiendras des résultats en quelques jours à peine."
+msgstr "Con ellas, verás resultados en pocos días."
+
+#: game/story/park.dialogue
+msgctxt "tb7e3861201"
+msgid "Tu es vraiment la personne la plus fiable que j'ai jamais rencontrée."
+msgstr "Realmente eres la persona más confiable que he conocido."
+
+#: game/story/park.dialogue
+msgctxt "t9969dc7a3f"
+msgid "De rien, petit frère, tu ne pourras toujours compter sur moi."
+msgstr "De nada, hermanito, no siempre podrás contar conmigo."
+
+#: game/story/park.dialogue
+msgctxt "te317f16892"
+msgid "Ce type a le coeur sur la main !"
+msgstr "¡Pero tiene un corazón de oro!"
+
+#: game/story/park.dialogue
+msgctxt "tc56081540f"
+msgid "On pourra dire ce qu'on veut, il a beau être flippant."
+msgstr "Di lo que quieras, puede dar miedo."
+
+#: game/story/park.dialogue
+msgctxt "t8aac580287"
+msgid "Prêt pour la séance du matin, petit frère ?"
+msgstr "¿Listo para la sesión matutina, hermanito?"
+
+#: game/story/park.dialogue
+msgctxt "td0823b6e00"
+msgid "Magnifique, tu as apprécié l'entrainement ?"
+msgstr "Magnífico, ¿disfrutaste del entrenamiento?"
+
+#: game/story/park.dialogue
+msgctxt "t74e98b436d"
+msgid "Est-ce que tu as souffert ?"
+msgstr "¿Sufriste?"
+
+#: game/story/park.dialogue
+msgctxt "t6ca6737d5c"
+msgid "Oui, c'était horrible, j'ai tellement de courbatures que même le vent qui souffle sur ma peau me fait mal."
+msgstr ""
+"Sí, fue horrible, estoy tan dolorido que me duele hasta el viento en la piel."
+
+#: game/story/park.dialogue
+msgctxt "t867169ed4c"
+msgid "Parfait ! C'est maintenant qu'il faut continuer l'entrainement !"
+msgstr "¡Perfecto! ¡Ahora es el momento de seguir entrenando!"
+
+#: game/story/park.dialogue
+msgctxt "t193b3437a9"
+msgid "Commence à courir petit frere !"
+msgstr "¡Empieza a correr, hermanito!"
+
+#: game/story/park.dialogue
+msgctxt "te8bf459e6a"
+msgid "Quoi mais... Je en peux p-"
+msgstr "¡¿Qué?! Pero... No puedo-"
+
+#: game/story/park.dialogue
+msgctxt "t26c8a47650"
+msgid "Pitié... Laisse moi un peu d'avance !"
+msgstr "Por favor, solo... ¡Dame una ventaja!"
+
+#: game/story/park.dialogue
+msgctxt "te86880d03b"
+msgid "Alors, où est-ce que je me suis arrêtée la dernière fois ?"
+msgstr "¿Dónde me quedé la última vez?"
+
+#: game/story/park.dialogue
+msgctxt "tc8e8abef44"
+msgid "Il me semble que ça parlait de puceaux."
+msgstr "Creo que era sobre vírgenes."
+
+#: game/story/park.dialogue
+msgctxt "t7e5fe7db85"
+msgid "[i]Chapitre 1 : Le protagoniste[/i]"
+msgstr "[i]Capítulo 1: El protagonista[/i]"
+
+#: game/story/park.dialogue
+msgctxt "t876b45800f"
+msgid "[i]Souvent brimé ou ignoré par ses camarades de classes, il est le souffre-douleur, celui qui, inconsciemment, souhaite échapper à ce monde.[/i]"
+msgstr ""
+"[i]A menudo acosado o ignorado por sus compañeros de clase, es el chico "
+"golpeado, el que inconscientemente quiere escapar de este mundo.[/i]"
+
+#: game/story/park.dialogue
+msgctxt "te56294d979"
+msgid "[i]On peut faire un parallèle intéressant sur le fait que plus le personnage est pitoyable, pire sera sa mort.[/i]"
+msgstr ""
+"[i]Podemos establecer un interesante paralelismo con el hecho de que cuanto "
+"más lamentable sea el personaje, peor será su muerte.[/i]"
+
+#: game/story/park.dialogue
+msgctxt "t7bb80114ca"
+msgid "Eh bien, c'est joyeux tout ça !"
+msgstr "¡Vaya, qué alegría!"
+
+#: game/story/park.dialogue
+msgctxt "te782455d66"
+msgid "[i]Il existe aussi un autre type de personnage principal, les Ikemen.[/i]"
+msgstr "[i]También hay otro tipo de protagonistas, los ikemen.[/i]"
+
+#: game/story/park.dialogue
+msgctxt "td945178e32"
+msgid "[i]Des mâles alpha, supérieurs en tout point, qui grâce à leur intelligence ou leurs capacités physiques possèderont un avantage supplémentaire dès le début de leurs aventures.[/i]"
+msgstr ""
+"[i]Machos alfa, superiores en todos los sentidos, que gracias a su "
+"inteligencia o a sus habilidades físicas tendrán una ventaja extra desde el "
+"principio de sus aventuras.[/i]"
+
+#: game/story/park.dialogue
+msgctxt "tc783ddd9cd"
+msgid "[i]On peut toutefois remarquer un traitement différent des protagonistes.[/i]"
+msgstr "[i]Sin embargo, los protagonistas reciben un trato diferente.[/i]"
+
+#: game/story/park.dialogue
+msgctxt "t1240deab01"
+msgid "[i]Là où le neet devra en général mourir de façon atroce pour être transporté dans le nouveau monde...[/i]"
+msgstr ""
+"[i]Donde el nini normalmente tiene que morir de una muerte horrible para ser "
+"transportado al nuevo mundo...[/i]"
+
+#: game/story/park.dialogue
+msgctxt "taec96b3628"
+msgid "C'est comme dans la vraie vie, plus tu es moche, plus tu ramasses."
+msgstr "Como en la vida real, cuanto más feo eres, más sufres."
+
+#: game/story/park.dialogue
+msgctxt "t6fe48e3746"
+msgid "[font_size=14]Hey, faites attentions, vous passez trop près ![/font_size]"
+msgstr ""
+"[font_size=14]¡Oye, ten cuidado, te estás acercando demasiado![/font_size]"
+
+#: game/story/park.dialogue
+msgctxt "t680508f854"
+msgid "[font_size=14]C'est ça, ignorez-moi...[/font_size]"
+msgstr "[font_size=14]Así es, ignórame...[/font_size]"
+
+#: game/story/park.dialogue
+msgctxt "tfd1d9a1f28"
+msgid "[font_size=14]Deux guignols en train de courir dans un parc... Pfff ![/font_size]"
+msgstr "[font_size=14]Dos payasos corriendo en un parque... ¡Pfff![/font_size]"
+
+#: game/story/park.dialogue
+msgctxt "td5a01c343b"
+msgid "Tu progresses à vue d'œil petit frère."
+msgstr "Estás haciendo grandes progresos, hermanito."
+
+#: game/story/park.dialogue
+msgctxt "t688626c5ef"
+msgid "La prochaine fois on augmentera encore la cadence."
+msgstr "La próxima vez volveremos a acelerar el ritmo."
+
+#: game/story/park.dialogue
+msgctxt "t19be9f4d33"
+msgid "Simple question {{macumba.n}}, la cadence peut être augmentée combien de fois encore ?"
+msgstr ""
+"Una simple pregunta {{macumba.n}}, ¿cuántas veces más se puede aumentar el "
+"ritmo?"
+
+#: game/story/park.dialogue
+msgctxt "t79409e5af2"
+msgid "Au final... Si j'ai mal, c'est que ça fonctionne."
+msgstr "A fin de cuentas... Si duele, significa que está funcionando."
+
+#: game/story/park.dialogue
+msgctxt "tee89129abf"
+msgid "Mais ça fait un mal de chien !"
+msgstr "¡Pero duele mucho!"
+
+#: game/story/park.dialogue
+msgctxt "t008a71299f"
+msgid "Oh c'est toi petit frère ?"
+msgstr "Oh, ¿eres tú, hermanito?"
+
+#: game/story/park.dialogue
+msgctxt "t7319812b8c"
+msgid "Je ne sais pas comment l'expliquer mais..."
+msgstr "No sé cómo explicarlo pero..."
+
+#: game/story/park.dialogue
+msgctxt "tefb8b21273"
+msgid "C'est vrai que c'est à peu près à ce moment qu'{{asami.n}} avait disparue."
+msgstr "Es cierto que fue en estas fechas cuando {{asami.n}} desapareció."
+
+#: game/story/park.dialogue
+msgctxt "t6255630f10"
+msgid "La police lui était tombée dessus sans qu'il puisse se défendre."
+msgstr "La policía se le echó encima sin que pudiera defenderse."
+
+#: game/story/park.dialogue
+msgctxt "tae6351dfc2"
+msgid "Et on n'a plus jamais entendu parler de lui après..."
+msgstr "Y nunca más se supo de él..."
+
+#: game/story/park.dialogue
+msgctxt "t5bdcd34e02"
+msgid "Je ne sais même pas ce qu'il est advenu de lui apères ça."
+msgstr "Ni siquiera sé qué fue de él después de eso."
+
+#: game/story/park.dialogue
+msgctxt "t99cedfe48c"
+msgid "C'est bon, c'est passé !"
+msgstr "¡Está bien, se acabó!"
+
+#: game/story/park.dialogue
+msgctxt "t55b9ff4efc"
+msgid "Tout ça ne doit pas nous empêcher de transpirer."
+msgstr "Pero que eso no te impida sudar."
+
+#: game/story/park.dialogue
+msgctxt "t3180268ed4"
+msgid "Ah, ça c'est le {{macumba.n}} que je connais !"
+msgstr "¡Ah, ése es el {{macumba.n}} que yo conozco!"
+
+#: game/story/park.dialogue
+msgctxt "t28df2f8ec1"
+msgid "Petit frère je te laisse je dois aller me préparer pour aller travailler."
+msgstr "Hermanito, me voy. Tengo que prepararme para el trabajo."
+
+#: game/story/park.dialogue
+msgctxt "tf47cacede9"
+msgid "Je comprends, bon courage je vais rentrer prendre une douche."
+msgstr "Entiendo, buena suerte, me voy a casa a darme una ducha."
+
+#: game/story/park.dialogue
+msgctxt "t6158ae4d79"
+msgid "Tiens c'est curieux, je ne vois pas {{macumba.n}}..."
+msgstr "Qué raro, no veo a {{macumba.n}}..."
+
+#: game/story/park.dialogue
+msgctxt "t9a0ddd4da6"
+msgid "Ce n'est définitivement pas normal."
+msgstr "Esto definitivamente no es normal."
+
+#: game/story/park.dialogue
+msgctxt "tc2a287f991"
+msgid "Peut être qu'il est déjà reparti... C'est possible."
+msgstr "Tal vez ya se haya ido... Es posible."
+
+#: game/story/park.dialogue
+msgctxt "ted3c9ab5b8"
+msgid "Je suis affamé à présent !"
+msgstr "¡Me muero de hambre!"
+
+#: game/story/park.dialogue
+msgctxt "t3206e0338b"
+msgid "Bref, autant s'y mettre tout de suite !"
+msgstr "En fin, ¡más vale empezar ya!"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "tf763b78c1e"
+msgid "Où suis-je ?"
+msgstr "¿Dónde estoy?"
