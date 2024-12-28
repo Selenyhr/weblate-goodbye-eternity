@@ -112,8 +112,8 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-07 19:57+0100\n"
-"PO-Revision-Date: 2024-12-28 22:36+0000\n"
-"Last-Translator: Михайло <aesome826@gmail.com>\n"
+"PO-Revision-Date: 2024-12-28 22:41+0000\n"
+"Last-Translator: veydzh3r <veydzherdgswift008@gmail.com>\n"
 "Language-Team: Ukrainian <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/uk/>\n"
 "Language: uk\n"
@@ -59181,7 +59181,7 @@ msgstr "Засмага"
 #: game/scenes/characters/sprites/asami.tscn
 msgctxt "character.sprite.attribute"
 msgid "notan"
-msgstr "Натуральне"
+msgstr "Натуральна"
 
 #: game/scenes/characters/sprites/asami.tscn game/scenes/characters/sprites/noriko.tscn game/scenes/characters/sprites/yasuka.tscn game/scenes/characters/sprites/chiaki.tscn
 #: game/scenes/characters/sprites/natsume.tscn game/scenes/characters/sprites/sakuya.tscn game/scenes/characters/sprites/kimochi.tscn game/scenes/characters/sprites/sayuri.tscn
@@ -59332,7 +59332,7 @@ msgstr "Волосся"
 #: game/scenes/characters/sprites/sakuya.tscn
 msgctxt "character.sprite.attribute"
 msgid "natural"
-msgstr "Натуральне"
+msgstr "Натуральна"
 
 #: game/scenes/characters/sprites/sakuya.tscn
 msgctxt "character.sprite.attribute"
@@ -70953,4 +70953,19 @@ msgstr "Тримати {{asami.n}} у френдзоні."
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "amusement_park_exterior"
-msgstr "Парк розваг (відкритий)"
+msgstr "Парк розваг"
+
+#: game/scenes/locations/onsen_interior.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "SakuyaReception"
+msgstr "{{sakuya.n}} (на рецепції)"
+
+#: game/scenes/locations/onsen_bath.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "SayuriBath"
+msgstr "{{sayuri.n}} (приймає ванну)"
+
+#: game/scenes/locations/onsen_bath.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "SaitoBath"
+msgstr "{{saito.n}} (приймає ванну)"
