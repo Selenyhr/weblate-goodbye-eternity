@@ -112,7 +112,7 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-07 19:57+0100\n"
-"PO-Revision-Date: 2024-12-26 04:01+0000\n"
+"PO-Revision-Date: 2024-12-28 22:36+0000\n"
 "Last-Translator: veydzh3r <veydzherdgswift008@gmail.com>\n"
 "Language-Team: Ukrainian <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/uk/>\n"
@@ -59802,7 +59802,7 @@ msgstr "Шукаючи роботу в ресторані."
 #: game/scenes/gui/game_menu/galleries/images.tscn
 msgctxt "galleries.images.hints"
 msgid "Empêcher {{yasuka.n}} de travailler comme hôtesse."
-msgstr "Не дозволити {{yasuka.n}} працювати хостес."
+msgstr "Не дозволити {{yasuka.n}} працювати як хостес."
 
 #: game/scenes/gui/game_menu/galleries/images.tscn
 msgctxt "galleries.images.hints"
@@ -59812,7 +59812,7 @@ msgstr "Спати декілька разів з {{yasuka.n}}."
 #: game/scenes/gui/game_menu/galleries/images.tscn
 msgctxt "galleries.images.hints"
 msgid "Faire chanter {{noriko.n}}."
-msgstr "Шантаж {{noriko.n}}."
+msgstr "Шантажувати {{noriko.n}}."
 
 #: game/scenes/gui/game_menu/galleries/images.tscn
 msgctxt "galleries.images.hints"
@@ -59822,7 +59822,7 @@ msgstr "Домінувати над {{noriko.n}}."
 #: game/scenes/gui/game_menu/galleries/images.tscn
 msgctxt "galleries.images.hints"
 msgid "Se faire dominer par {{noriko.n}}."
-msgstr "Бути домінівним {{noriko.n}}."
+msgstr "Бути під домінуванням {{noriko.n}}."
 
 #: game/scenes/gui/game_menu/galleries/images.tscn
 msgctxt "galleries.images.hints"
@@ -59832,17 +59832,17 @@ msgstr "Підслухати під дверима {{noriko.n}}."
 #: game/scenes/gui/game_menu/galleries/images.tscn
 msgctxt "galleries.images.hints"
 msgid "Suivre l'histoire principale."
-msgstr "Стежте за головним сюжетом."
+msgstr "Слідувати за головним сюжетом."
 
 #: game/scenes/gui/game_menu/galleries/images.tscn
 msgctxt "galleries.images.hints"
 msgid "Travailler au restaurant."
-msgstr "Робота в ресторані."
+msgstr "Працювати в ресторані."
 
 #: game/scenes/gui/game_menu/galleries/images.tscn
 msgctxt "galleries.images.hints"
 msgid "Se lier d'amitié avec {{asami.n}}."
-msgstr "Подружитися з {{asami.n}}."
+msgstr "Бути друзями з {{asami.n}}."
 
 #: game/scenes/gui/game_menu/galleries/images.tscn
 msgctxt "galleries.images.hints"
@@ -59857,17 +59857,17 @@ msgstr "Поставити правильні питання до {{asami.n}}."
 #: game/scenes/gui/game_menu/galleries/images.tscn
 msgctxt "galleries.images.hints"
 msgid "Laisser travailler {{yasuka.n}} comme hôtesse."
-msgstr "Дозволити {{yasuka.n}} працювати хостес."
+msgstr "Дозволити {{yasuka.n}} працювати як хостес."
 
 #: game/scenes/gui/game_menu/galleries/images.tscn
 msgctxt "galleries.images.hints"
 msgid "Suivre l'histoire de {{sakuya.n}}."
-msgstr "Стежте за розвитком подій {{sakuya.n}}."
+msgstr "Слідувати за сюжетом {{sakuya.n}}."
 
 #: game/scenes/gui/game_menu/galleries/images.tscn
 msgctxt "galleries.images.hints"
 msgid "Choisir de dominer {{noriko.n}}."
-msgstr "Домінувати {{noriko.n}}."
+msgstr "Домінувати над {{noriko.n}}."
 
 #: game/scenes/gui/game_menu/main.tscn
 msgid "Oui"
@@ -60045,7 +60045,7 @@ msgstr "На весь екран без рамки"
 #: game/scenes/gui/game_menu/galleries/images.tscn
 msgctxt "galleries.images.hints"
 msgid "Se laisser dominer par {{noriko.n}}."
-msgstr "Бути під контролем {{noriko.n}}."
+msgstr "Бути під домінуванням {{noriko.n}}."
 
 #: game/scenes/gui/game_menu/galleries/movies.tscn
 msgctxt "galleries.movies.hints"
@@ -60101,7 +60101,7 @@ msgstr "Введіть своє ім’я:"
 #: game/scenes/gui/game_menu/galleries/images.tscn
 msgctxt "galleries.images.hints"
 msgid "Ne pas rejeter {{noriko.n}}."
-msgstr "Не відкидай {{noriko.n}}."
+msgstr "Не відмовляти {{noriko.n}}."
 
 #: game/scenes/locations/park.tscn
 msgctxt "galleries.backgrounds.sprite"
@@ -70830,3 +70830,122 @@ msgstr "МАКС."
 msgctxt "preferences.variable"
 msgid "typing_speed"
 msgstr "Швидкість друкування тексту"
+
+#: game/scenes/gui/chapters/chapters.tscn
+msgid "Quand voulez-vous commencer l'histoire ?"
+msgstr "Звідки ви б хотіли почати сюжет?"
+
+#: game/scenes/gui/gui_start_sayuri.tscn
+msgid "La mère de votre [color=yellow]petite amie[/color] semble déprimée suite à l'absence de sa fille. Peut-être pourriez-vous la réconforter ?"
+msgstr ""
+"[color=yellow]Мати твоєї дівчини[/color] виглядає засмученою через "
+"відсутність доньки. Може, ти міг би її підбадьорити?"
+
+#: game/scenes/locations/arcade_interior.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "SayuriDance"
+msgstr "{{sayuri.n}} (танцює)"
+
+#: game/scenes/gui/main_menu.tscn
+msgid "Chapitres"
+msgstr "Розділи"
+
+#: game/scenes/gui/chapters/chapters.tscn
+msgid "Quels choix avez-vous effectués ?"
+msgstr "Який вибір ви зробили?"
+
+#: game/scenes/gui/chapters/chapters.tscn
+msgid "Valider"
+msgstr "Підтвердити"
+
+#: game/scenes/gui/gui_start_sayuri.tscn
+msgid "SAYURI"
+msgstr "САЮРІ"
+
+#: game/scenes/gui/gui_start_sayuri.tscn
+msgid "Vous pouvez dès à présent poursuivre l’histoire de {{sayuri.n}}."
+msgstr "Тепер ви можете продовжити сюжет з {{sayuri.n}}."
+
+#: game/scenes/gui/gui_start_sayuri.tscn
+msgid "La mère de votre [color=yellow]meilleure amie[/color] semble déprimée suite à l'absence de sa fille. Peut-être pourriez-vous la réconforter ?"
+msgstr ""
+"[color=yellow]Мати твоєї найкращої подруги[/color] виглядає засмученою через "
+"відсутність доньки. Може, ти міг би її підбадьорити?"
+
+#: game/scenes/gui/gui_start_sayuri.tscn
+msgid "Remontons-lui le moral"
+msgstr "Підбадьоримо її"
+
+#: game/scenes/characters/sprites/chef.tscn
+msgctxt "character.sprite.attribute"
+msgid "chefhat"
+msgstr "Ковпак шеф-кухаря"
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Suivre l'histoire de {{sayuri.n}}."
+msgstr "Слідуйте за сюжетом {{sayuri.n}}."
+
+#: game/scenes/gui/game_menu/galleries/images.tscn
+msgctxt "galleries.images.hints"
+msgid "Garder {{asami.n}} dans la friendzone."
+msgstr "Тримати {{asami.n}} у френдзоні."
+
+#: game/scenes/locations/arcade_interior.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "SaitoSayuriPlay"
+msgstr "{{saito.n}} + {{sayuri.n}}"
+
+#: game/scenes/locations/arcade_interior.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "SayuriPlay"
+msgstr "{{sayuri.n}} (грається)"
+
+msgctxt "chapters.choices"
+msgid "yasuka/corruption"
+msgstr "Розбещення"
+
+msgctxt "chapters.choices"
+msgid "yasuka/love"
+msgstr "Кохання"
+
+msgctxt "chapters.choices"
+msgid "noriko/blackmail"
+msgstr "Шантажування"
+
+msgctxt "chapters.choices"
+msgid "noriko/reject"
+msgstr "Відмовлення"
+
+msgctxt "chapters.choices"
+msgid "noriko/femdom"
+msgstr "Жіноча домінація"
+
+msgctxt "chapters.choices"
+msgid "noriko/maledom"
+msgstr "Чоловіча домінація"
+
+msgctxt "chapters.choices"
+msgid "asami/corruption"
+msgstr "Розбещення"
+
+msgctxt "chapters.choices"
+msgid "asami/friendship"
+msgstr "Дружба"
+
+msgctxt "chapters.choices"
+msgid "asami/love"
+msgstr "Кохання"
+
+msgctxt "chapters.choices"
+msgid "sakuya/nosex"
+msgstr "Без сексу"
+
+msgctxt "chapters.choices"
+msgid "sakuya/sex"
+msgstr "Секс"
+
+#: game/scenes/gui/game_menu/galleries/movies.tscn
+msgctxt "galleries.movies.hints"
+msgid "Garder {{asami.n}} dans la friendzone."
+msgstr "Тримати {{asami.n}} у френдзоні."
