@@ -112,7 +112,7 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-07 19:57+0100\n"
-"PO-Revision-Date: 2024-12-28 22:41+0000\n"
+"PO-Revision-Date: 2024-12-28 23:11+0000\n"
 "Last-Translator: veydzh3r <veydzherdgswift008@gmail.com>\n"
 "Language-Team: Ukrainian <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/uk/>\n"
@@ -59176,7 +59176,7 @@ msgstr "Одяг"
 #: game/scenes/characters/sprites/asami.tscn
 msgctxt "character.sprite.attribute"
 msgid "tan"
-msgstr "Засмага"
+msgstr "Засмагла"
 
 #: game/scenes/characters/sprites/asami.tscn
 msgctxt "character.sprite.attribute"
@@ -59332,12 +59332,12 @@ msgstr "Волосся"
 #: game/scenes/characters/sprites/sakuya.tscn
 msgctxt "character.sprite.attribute"
 msgid "natural"
-msgstr "Натуральна"
+msgstr "Звичайне"
 
 #: game/scenes/characters/sprites/sakuya.tscn
 msgctxt "character.sprite.attribute"
 msgid "job"
-msgstr "Зв’язане"
+msgstr "У хустці"
 
 #: game/scenes/characters/sprites/sakuya.tscn
 msgctxt "character.sprite.attribute"
@@ -59777,7 +59777,7 @@ msgstr "Автозбереження під час вибору варіанту
 #: game/scenes/gui/game_menu/galleries/images.tscn
 msgctxt "galleries.images.hints"
 msgid "Entraînement avec {{macumba.n}}."
-msgstr "Тренування з {{macumba.n}}."
+msgstr "Тренуватися з {{macumba.n}}."
 
 #: game/scenes/gui/game_menu/galleries/images.tscn
 msgctxt "galleries.images.hints"
@@ -59797,7 +59797,7 @@ msgstr "Третя поява {{asami.n}}."
 #: game/scenes/gui/game_menu/galleries/images.tscn
 msgctxt "galleries.images.hints"
 msgid "Vouloir travailler pour le restaurant."
-msgstr "Шукаючи роботу в ресторані."
+msgstr "Шукати роботу в ресторані."
 
 #: game/scenes/gui/game_menu/galleries/images.tscn
 msgctxt "galleries.images.hints"
@@ -59827,7 +59827,7 @@ msgstr "Бути під домінуванням {{noriko.n}}."
 #: game/scenes/gui/game_menu/galleries/images.tscn
 msgctxt "galleries.images.hints"
 msgid "Écouter à la porte de {{noriko.n}}."
-msgstr "Підслухати під дверима {{noriko.n}}."
+msgstr "Підслухати {{noriko.n}} біля дверей."
 
 #: game/scenes/gui/game_menu/galleries/images.tscn
 msgctxt "galleries.images.hints"
@@ -59852,7 +59852,7 @@ msgstr "Розбестити {{asami.n}}."
 #: game/scenes/gui/game_menu/galleries/images.tscn
 msgctxt "galleries.images.hints"
 msgid "Poser les bonnes questions à {{asami.n}}."
-msgstr "Поставити правильні питання до {{asami.n}}."
+msgstr "Поставити {{asami.n}} правильні питання."
 
 #: game/scenes/gui/game_menu/galleries/images.tscn
 msgctxt "galleries.images.hints"
@@ -59941,7 +59941,7 @@ msgstr "{{sakuya.n}} (чекає)"
 #: game/scenes/locations/home_player_noriko_room.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "NorikoPC"
-msgstr "{{noriko.n}} (пк)"
+msgstr "{{noriko.n}} (у ПК)"
 
 #: game/scenes/locations/home_player_noriko_room.tscn
 msgctxt "galleries.backgrounds.sprite"
@@ -59981,7 +59981,7 @@ msgstr "{{asami.n}} (сидить, сексуальна)"
 #: game/scenes/locations/home_player_saito_room.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "AsamiDreamcastEveryday"
-msgstr "{{asami.n}} (Dreamcast, нормальна)"
+msgstr "{{asami.n}} (Dreamcast, у звичайному)"
 
 #: game/scenes/locations/home_player_livingroom.tscn
 msgctxt "galleries.backgrounds.sprite"
@@ -60050,7 +60050,7 @@ msgstr "Бути під домінуванням {{noriko.n}}."
 #: game/scenes/gui/game_menu/galleries/movies.tscn
 msgctxt "galleries.movies.hints"
 msgid "Se laisser dominer par {{noriko.n}}."
-msgstr "Будь під контролем {{noriko.n}}."
+msgstr "Бути під домінуванням {{noriko.n}}."
 
 #: game/scenes/locations/park.tscn
 msgctxt "galleries.backgrounds.sprite"
@@ -60069,7 +60069,7 @@ msgstr "ТЛА"
 #: game/scenes/gui/game_menu/galleries/movies.tscn
 msgctxt "galleries.movies.hints"
 msgid "Suivre l'histoire d'{{asami.n}}."
-msgstr "Слідкуй за сюжетом з {{asami.n}}."
+msgstr "Слідувати за сюжетом {{asami.n}}."
 
 #: game/scenes/dialogue/vn_game_scene.tscn
 msgid "Retour"
@@ -60223,7 +60223,7 @@ msgstr "На весь екран"
 #: game/scenes/gui/game_menu/galleries/movies.tscn
 msgctxt "galleries.movies.attribute"
 msgid "notan"
-msgstr "Натуральні"
+msgstr "Натуральна"
 
 #: game/scenes/gui/game_menu/galleries/movies.tscn
 msgctxt "galleries.movies.attribute"
@@ -60278,27 +60278,27 @@ msgstr "{{akira.n}} (вікно)"
 #: game/scenes/gui/game_menu/galleries/movies.tscn
 msgctxt "galleries.movies.hints"
 msgid "Corrompre {{asami.n}}."
-msgstr "Розбещуй {{asami.n}}."
+msgstr "Розбестити {{asami.n}}."
 
 #: game/scenes/gui/game_menu/galleries/movies.tscn
 msgctxt "galleries.movies.hints"
 msgid "Suivre l'histoire de {{sakuya.n}}."
-msgstr "Слідкуй за сюжетом з {{sakuya.n}}."
+msgstr "Слідувати за сюжетом {{sakuya.n}}."
 
 #: game/scenes/gui/game_menu/galleries/movies.tscn
 msgctxt "galleries.movies.hints"
 msgid "Faire chanter {{noriko.n}}."
-msgstr "Шантажуй {{noriko.n}}."
+msgstr "Шантажувати {{noriko.n}}."
 
 #: game/scenes/gui/game_menu/galleries/movies.tscn
 msgctxt "galleries.movies.hints"
 msgid "Ne pas rejeter {{noriko.n}}."
-msgstr "Не відхиляй {{noriko.n}}."
+msgstr "Не відмовляти {{noriko.n}}."
 
 #: game/scenes/gui/game_menu/galleries/movies.tscn
 msgctxt "galleries.movies.hints"
 msgid "Suivre l'histoire de {{yasuka.n}}."
-msgstr "Слідкуй за сюжетом {{yasuka.n}}"
+msgstr "Слідувати за сюжетом {{yasuka.n}}"
 
 #: game/scenes/gui/game_menu/galleries/movies.tscn
 msgctxt "galleries.movies.attribute"
@@ -60308,7 +60308,7 @@ msgstr "З {{akira.n}}"
 #: game/scenes/gui/game_menu/galleries/movies.tscn
 msgctxt "galleries.movies.hints"
 msgid "Choisir de dominer {{noriko.n}}."
-msgstr "Обери домінувати над {{noriko.n}}."
+msgstr "Домінувати над {{noriko.n}}."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -60727,12 +60727,12 @@ msgstr "{{macumba.n}} (охороняє)"
 #: game/scenes/gui/game_menu/galleries/movies.tscn
 msgctxt "galleries.movies.attribute"
 msgid "behind"
-msgstr "Поглянути за..."
+msgstr "Заглянути за двері"
 
 #: game/scenes/gui/game_menu/galleries/movies.tscn
 msgctxt "galleries.movies.hints"
 msgid "Laisser travailler {{yasuka.n}} comme hôtesse."
-msgstr "Дозволь {{yasuka.n}} працювати як хостес."
+msgstr "Дозволити {{yasuka.n}} працювати як хостес."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -70884,7 +70884,7 @@ msgstr "Ковпак шеф-кухаря"
 #: game/scenes/gui/game_menu/galleries/images.tscn
 msgctxt "galleries.images.hints"
 msgid "Suivre l'histoire de {{sayuri.n}}."
-msgstr "Слідуйте за сюжетом {{sayuri.n}}."
+msgstr "Слідувати за сюжетом {{sayuri.n}}."
 
 #: game/scenes/gui/game_menu/galleries/images.tscn
 msgctxt "galleries.images.hints"
@@ -70919,11 +70919,11 @@ msgstr "Відмовлення"
 
 msgctxt "chapters.choices"
 msgid "noriko/femdom"
-msgstr "Жіноча домінація"
+msgstr "Жін. домінація"
 
 msgctxt "chapters.choices"
 msgid "noriko/maledom"
-msgstr "Чоловіча домінація"
+msgstr "Чол. домінація"
 
 msgctxt "chapters.choices"
 msgid "asami/corruption"
@@ -70969,3 +70969,313 @@ msgstr "{{sayuri.n}} (приймає ванну)"
 msgctxt "galleries.backgrounds.sprite"
 msgid "SaitoBath"
 msgstr "{{saito.n}} (приймає ванну)"
+
+#: game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "home_minato_hallway"
+msgstr "Коридор"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_1"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_13"
+msgstr "Поговорити з {{kimochi.n}} у своїй кімнаті."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_52"
+msgstr "[null]"
+
+#: game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "home_asami_bathroom"
+msgstr "Ванна кімната {{asami.n}}"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_61"
+msgstr "[null]"
+
+#: game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "amusement_park_interior"
+msgstr "Парк розваг (всередині)"
+
+#: game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "home_minato_basement"
+msgstr "Підвал"
+
+#: game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "home_asami_sayuri_room"
+msgstr "Кімната {{sayuri.n}}"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_5_1"
+msgstr "Піти до [color=yellow]конбіні[/color]."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_30_2"
+msgstr "Тепер я можу тренувати витривалість вранці та силу протягом дня."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "main_30_3"
+msgstr "Запитати {{macumba.n}} про фізичне тренування."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "asami_friendship_17_1"
+msgstr "Піти до {{kimochi.n}}."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_2"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_3"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_4"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_5"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_6"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_7"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_8"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_9"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_10"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_11"
+msgstr "Піти з {{kimochi.n}} до коридору."
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_12"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_16"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_17"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_18"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_19"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_20"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_24"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_25"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_26"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_27"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_31"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_32"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_35"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_36"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_37"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_38"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_39"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_40"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_43"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_49"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_50"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_51"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_54"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_55"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_58"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_59"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_60"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_65"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_66"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_67"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_68"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_69"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_74"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_75"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_76"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_77_asami_friendship"
+msgstr "[null]"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "sayuri_77_asami_corruption_love"
+msgstr "[null]"
+
+#: game/scenes/locations/home_kimochi_interior.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "Clean"
+msgstr "Чиста"
+
+#: game/scenes/locations/home_asami_exterior.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "SayuriWait"
+msgstr "{{sayuri.n}} (чекає)"
