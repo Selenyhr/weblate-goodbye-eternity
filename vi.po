@@ -112,7 +112,7 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-07 19:57+0100\n"
-"PO-Revision-Date: 2024-12-29 18:23+0000\n"
+"PO-Revision-Date: 2024-12-29 23:20+0000\n"
 "Last-Translator: Hoang Nhat Minh <hoangnhatminh19102007@gmail.com>\n"
 "Language-Team: Vietnamese <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/vi/>\n"
@@ -10372,13 +10372,13 @@ msgstr "Ờmmm... Tôi có thể được biết là tôi đã fucked up cái gi
 msgctxt "home_player_room_53bea5af"
 msgid "J'arrive pas à croire que tu puisses être aussi prévenant avec moi, {{yasuka.n}} ou encore {{sakuya.n}}..."
 msgstr ""
-"Thật tui rất cảm kích rằng ông có thể rất chi là... với tui, {yasuka.n}, và "
-"cả {sakuya.n}..."
+"Thật tui rất cảm kích rằng ông có thể rất chi là... với tui, {{yasuka.n}}, "
+"và cả {{sakuya.n}}..."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_ed03ec27"
 msgid "... et mettre {{noriko.n}} de côté à chaque fois..."
-msgstr "... Nhưng mà cho {noriko.n} ra rìa mỗi lần thì..."
+msgstr "... Nhưng mà cho {{noriko.n}} ra rìa mỗi lần thì..."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_b4a86287"
@@ -10438,8 +10438,8 @@ msgstr "Có lẽ vậy..."
 msgctxt "home_player_room_309d4f2b"
 msgid "Mais... avec {{noriko.n}}... les choses ont pris de telles proportions que je me vois mal aller lui dire \"Aller on oublie tout et on passe à autre chose !\""
 msgstr ""
-"Nhưng mà... con bé... {noriko.n}... Sao tôi với nó còn có thể chung lối được "
-"nữa ? Năm tháng qua..."
+"Nhưng mà... con bé... {{noriko.n}}... Sao tôi với nó còn có thể chung lối "
+"được nữa ? Năm tháng qua..."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_c1881e42"
@@ -10472,7 +10472,7 @@ msgstr ""
 msgctxt "home_player_room_cc697f99"
 msgid "Elle avait quitté la maison après que {{yasuka.n}} ait pris ma défense."
 msgstr ""
-"Con bé xồng xộc khỏi nhà sau khi cô {yasuka.n} hết mực thanh minh cho mình."
+"Con bé xồng xộc khỏi nhà sau khi cô {{yasuka.n}} hết mực thanh minh cho mình."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_ccdebd01"
@@ -10555,8 +10555,8 @@ msgstr "Khỏi, ở trỏng tui cổ động cho."
 msgctxt "home_player_room_482eab7c"
 msgid "Ne baisse pas les bras, montre-lui que le nouveau {{saito.n}} n'abandonne pas !"
 msgstr ""
-"Gian truân đâu thể cản bước đấng anh hùng ! Hãy cho con bé thấy một {saito.n}"
-" mới đi !"
+"Gian truân đâu thể cản bước đấng anh hùng ! Hãy cho con bé thấy một {{saito."
+"n}} mới đi !"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_8376a6f1"
@@ -12999,7 +12999,7 @@ msgstr "Cái mõm xảo trá, rồi còn chuyện nó dây dưa với thằng {{
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_1db572c1"
 msgid "Bordel mais qu'est ce que tu fous {{noriko.n}} ?!"
-msgstr "Não mày úng nước quá thành chập nặng rồi sao, hả {noriko.n}} ?!"
+msgstr "Não mày úng nước quá thành chập nặng rồi sao, hả {{noriko.n}} ?!"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_ef84f8d8"
@@ -21577,7 +21577,7 @@ msgstr "Con sẽ không sao đâu, con chẳng còn là con ngày hôm qua nữa
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_15500ec7"
 msgid "{{noriko.n}} ma chérie, je suis tellement désolée..."
-msgstr "{noriko.n} con yêu, mẹ rất xin lỗi..."
+msgstr "{{noriko.n}} con yêu, mẹ rất xin lỗi..."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_4cafc087"
@@ -21707,7 +21707,7 @@ msgstr "... Ừm thì, phải đến vài lần rồi."
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_1fe8d940"
 msgid "Et {{asami.n}} est au courant ?"
-msgstr "Chị {asami.n} có biết không ạ ?"
+msgstr "Chị {{asami.n}} có biết không ạ ?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_766c09de"
@@ -21744,7 +21744,7 @@ msgstr "Thế còn cái bà điên kia thì sao?"
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_9ed39083"
 msgid "{{sakuya.n}} ? Elle n'est pas folle..."
-msgstr "{sakuya.n} á ? Chị ấy có điên đâu..."
+msgstr "{{sakuya.n}} á ? Chị ấy có điên đâu..."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_81db9706"
@@ -21799,7 +21799,7 @@ msgstr "Em muốn biết chứ. Anh fuckboy bỏ bà đi được ấy !"
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_027edc6f"
 msgid "Ne me dis pas que tu couches aussi avec la mère d'{{asami.n}} ?"
-msgstr "Đừng nói với em là anh cũng ngủ với mẹ chị {asami.n} luôn rồi nhé?"
+msgstr "Đừng nói với em là anh cũng ngủ với mẹ chị {{asami.n}} luôn rồi nhé?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_2e0b7461"
@@ -26960,7 +26960,7 @@ msgstr "Hà hà, ông Giời có tới cũng dí buồi quan tâm !"
 msgctxt "dojo_exterior_894076ab"
 msgid "Putain {{kenji.n}} ! T'es sérieux ?! T'as vraiment perdu contre {{saito.n}} ?"
 msgstr ""
-"Vãi nước đái chó thật đấy, {kenji.n}}! Mày có đớ không ? Cả mày cũng thua "
+"Vãi nước đái chó thật đấy, {{kenji.n}}! Mày có đớ không ? Cả mày cũng thua "
 "thằng {{saito.n}} nốt sao ?"
 
 #: game/story/dojo_exterior.dialogue
@@ -29450,7 +29450,7 @@ msgstr "Tôi đã chờ đợi điều này hàng năm trời rồi. Biết dư�
 #: game/story/park.dialogue
 msgctxt "park_cce033b1"
 msgid "Comme tu voudras."
-msgstr "Nếu như cô muốn."
+msgstr "Như cô muốn."
 
 #: game/story/park.dialogue
 msgctxt "park_09b8b02a"
@@ -39519,7 +39519,7 @@ msgstr "Cứ để xem sao..."
 #: game/story/restaurant_sakuya_room.dialogue
 msgctxt "te4fec99998"
 msgid "Combien de temps encore ?"
-msgstr "Bao lâu nữa ?"
+msgstr "Còn bao lâu nữa ?"
 
 #: game/story/restaurant_sakuya_room.dialogue
 msgctxt "restaurant_sakuya_room_5a2ed1cc"
@@ -44265,7 +44265,7 @@ msgstr ""
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_7dc6b5c7"
 msgid "{{saito.n}} dis quelque chose !"
-msgstr "Kìa, {saito.n}}, phản pháo lại coi !"
+msgstr "Kìa, {{saito.n}}, phản pháo lại coi !"
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_6e385087"
@@ -55995,7 +55995,7 @@ msgstr "Kìa em, em nghĩ rằng anh không xử đẹp nó được sao ?"
 #: game/story/bus_stop.dialogue
 msgctxt "bus_stop_b1803688"
 msgid "Mais... Comment tu... ? Et {{akira.n}} ?"
-msgstr "Anh... Nhưng... Sao lại ?... Còn {akira.n}}?"
+msgstr "Anh... Nhưng... Sao lại ?... Còn {{akira.n}}?"
 
 #: game/story/bus_stop.dialogue
 msgctxt "bus_stop_04205c35"
@@ -57092,7 +57092,7 @@ msgstr ""
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_14_noriko_blackmail_reject"
-msgstr "Hỏi {yasuka.n}} để biết thêm thông tin."
+msgstr "Hỏi {{yasuka.n}} để biết thêm thông tin."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -60696,7 +60696,7 @@ msgstr "Ngăn {{yasuka.n}} đi làm nhân viên tiếp rượu ở câu lạc b�
 #: game/scenes/gui/game_menu/galleries/images.tscn
 msgctxt "galleries.images.hints"
 msgid "Domir avec {{yasuka.n}} plusieurs fois."
-msgstr "Ngủ với {yasuka.n}}vài lần. (note: chỉ NGỦ thôi :)"
+msgstr "Ngủ với {{yasuka.n}}vài lần. (note: chỉ NGỦ thôi :)"
 
 #: game/scenes/gui/game_menu/galleries/images.tscn
 msgctxt "galleries.images.hints"
@@ -62079,7 +62079,7 @@ msgstr "Giờ thì ?"
 #: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
 msgctxt "t2e1f3a349e"
 msgid "Alors ?"
-msgstr "Thế ?"
+msgstr "Thế nào ?"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "tedc6fe1688"
@@ -74013,7 +74013,7 @@ msgstr "Ngay bây giờ ! [w]Ngay lúc này ! [w]Ngay và luôn !"
 #: game/story/love_hotel_room.dialogue
 msgctxt "tf65d5ff4d0"
 msgid "Tout de suite !"
-msgstr "Ngay và luôn !"
+msgstr "Ngay và luôn ơ kìa !"
 
 #: game/story/love_hotel_room.dialogue
 msgctxt "t3ffdaa6113"
@@ -74624,12 +74624,12 @@ msgstr "Trễ giờ mất thôi !"
 #: game/story/home_player_saito_room.dialogue
 msgctxt "t1a876b3080"
 msgid "Okay c'est bon j'ai compris... Avoir ta tête tu n'as pas pu t'en empêcher !"
-msgstr "Okay ! Okay ! Hiểu ! Anh muốn là phải làm cho ra ngô ra khoai chứ gì !"
+msgstr "Okay ! Okay ! Hiểu ! Lại con cu làm mờ con mắt chứ gì !"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "tf9a6a7da07"
 msgid "J'espère pour toi que ça en valait la peine au moins."
-msgstr "Hy vọng là sự thật sẽ xứng đáng cái lao tâm khổ tứ này đây."
+msgstr "Hy vong là ông anh thấy xứng với công lao tâm khổ tứ."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "t53326a9949"
@@ -74639,7 +74639,7 @@ msgstr "Thế em định làm gì ?"
 #: game/story/home_player_saito_room.dialogue
 msgctxt "t8bfa644c7e"
 msgid "Tu vis ta vie comme tu veux... Je voulais juste que tu sois honnête dans tes intentions."
-msgstr "Đời anh anh sống.Em chỉ muốn anh phải thành thật với ý đồ bản thân."
+msgstr "Đời anh anh sống. Em chỉ muốn anh phải thành thật với ý đồ bản thân."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "t4d9a52cf28"
@@ -74681,7 +74681,7 @@ msgstr "...[w]So rì...[w]Anh lỡ đặt lịch trước với cô {{yasuka.n}}
 #: game/story/home_player_saito_room.dialogue
 msgctxt "tddb8d02d47"
 msgid "Tu fais chier !"
-msgstr "Duỵt con mẹ mài !"
+msgstr "Đuỵt con mẹ mài !"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "t4c209fe4c1"
@@ -75135,7 +75135,7 @@ msgstr "Có chuyện gì khó nói phải không ?"
 #: game/story/konbini_interior.dialogue
 msgctxt "t0d9feb1588"
 msgid "La reprise du travail est difficile ?"
-msgstr "Đi làm việc trở lại có khó khăn à ?"
+msgstr "Đi làm việc trở lại có khó khăn hở cô ?"
 
 #: game/story/konbini_interior.dialogue
 msgctxt "tff5ad7b1c3"
@@ -75145,7 +75145,7 @@ msgstr "Ước gì chỉ có mỗi thế..."
 #: game/story/konbini_interior.dialogue
 msgctxt "tc17f859a71"
 msgid "J'ai bien eu la confirmation que l'assistante de mon m... de ce connard avait une relation depuis des années."
-msgstr "Tớ vừa được biết là cái thằng.... nhà tớ đi bồ đi bịch cả năm trời rồi."
+msgstr "Cô vừa được biết là cái thằng.... nhà cô nó bồ đi bịch cả NĂM trời rồi."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "ted8e6d7c93"
@@ -75155,17 +75155,17 @@ msgstr "Nghi kị đã là một chuyện, giờ nó lại còn đúng nữa..."
 #: game/story/konbini_interior.dialogue
 msgctxt "t3512d7f59c"
 msgid "J'ai l'impression d'avoir été stupide pendant si longtemps !"
-msgstr "Cảm tưởng như suốt thời gian qua mình cứ như một con đần vậy !"
+msgstr "Cảm tưởng như suốt thời gian qua cô cứ như một con đần vậy !"
 
 #: game/story/konbini_interior.dialogue
 msgctxt "t1b44c5832b"
 msgid "Ne soit pas si dure avec toi même..."
-msgstr "Đừng nặng nề với bản thân quá..."
+msgstr "Đừng nặng nề với bản thân quá cô à..."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "t2dccfdcd96"
 msgid "Vois ça du bon coté !"
-msgstr "Thử nghĩ tích cực xem !"
+msgstr "Cô thử nghĩ tích cực lên xem !"
 
 #: game/story/konbini_interior.dialogue
 msgctxt "t0bd164fcde"
@@ -75175,7 +75175,7 @@ msgstr "Tích cực là sao ?"
 #: game/story/konbini_interior.dialogue
 msgctxt "t3ba2f1932e"
 msgid "Tu peux désormais vivre ta vie sans culpabilité."
-msgstr "Cậu có thể bước tiếp mà không thấy hối lỗi gì cả."
+msgstr "Bâ giờ cô có thể bước tiếp mà không thấy hối lỗi gì cả."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "tc9ba34b532"
@@ -75192,7 +75192,7 @@ msgstr ""
 #: game/story/konbini_interior.dialogue
 msgctxt "t38854292d1"
 msgid "Je dois avoir peur ?"
-msgstr "Có nên thấy sợ không ?"
+msgstr "Con có nên thấy sợ không ạ ?"
 
 #: game/story/konbini_interior.dialogue
 msgctxt "t3ba68e83e7"
@@ -76129,7 +76129,7 @@ msgstr "Ôi, thật sao ?"
 msgctxt "t271d3f52d6"
 msgid "Et cette fois ci je n'aurais plus ce petit sentiment de culpabilité, je vais pouvoir me lâcher !"
 msgstr ""
-"Lần này ta sẽ không còn cảm thấy tội lỗi nữa, cứ coi như mọi sự về không !"
+"Lần này cô sẽ không còn cảm thấy tội lỗi nữa, cứ coi như mọi sự về không !"
 
 #: game/story/warehouse_interior.dialogue
 msgctxt "tb560851a13"
@@ -76466,12 +76466,12 @@ msgstr "Dạ thưa cô !"
 #: game/story/home_asami_livingroom.dialogue
 msgctxt "te9c85fe6cd"
 msgid "C'est {{sayuri.SPELLOUT}} !"
-msgstr "Đó là cô {{sayuri.SPELLOUT}} !"
+msgstr "Là cô {{sayuri.SPELLOUT}} !"
 
 #: game/story/home_asami_livingroom.dialogue
 msgctxt "t8018b4fff7"
 msgid "Mon dieu... Cette sensation !"
-msgstr "Lạy chua"
+msgstr "Lạy chúa tôi !"
 
 #: game/story/onsen_interior.dialogue
 msgctxt "tde13454f3d"
@@ -79922,7 +79922,7 @@ msgstr "Sắp rồiii !"
 #: game/story/home_asami_livingroom.dialogue
 msgctxt "tc57424744d"
 msgid "C'est pas qu'une question de taille c'est..."
-msgstr "Không phải chỉ là kích cỡ đâu, mà…"
+msgstr "Không phải... chỉ là kích cỡ đâu... kyahh~, mà…"
 
 #: game/story/home_asami_bathroom.dialogue
 msgctxt "tcd48afe733"
@@ -79937,7 +79937,7 @@ msgstr "Con nghĩ là tụi mình mắc lỗi hơi nhiều thì phải…"
 #: game/story/home_asami_livingroom.dialogue
 msgctxt "t3733995821"
 msgid "J'ai jamais pris mon pied."
-msgstr "Cô chưa bao giờ thấy sướng tới vậy."
+msgstr "Tê~ và phêêê~."
 
 #: game/story/home_asami_livingroom.dialogue
 msgctxt "t4ffde00911"
@@ -79962,7 +79962,7 @@ msgstr "Shhh~ Đã lỗi nhiều rồi, thì lỗi cho nhũn não cô luôn đi 
 #: game/story/home_asami_livingroom.dialogue
 msgctxt "t550962aceb"
 msgid "Et avec les trois jours que je vient de passer avec toi j'arrête de me retenir."
-msgstr "Với 3 ngày qua cùng con, ta không còn cần phải giữ kẽ nữa"
+msgstr "Với 3 ngày qua cùng con, ta không còn cần phải giữ kẽ nữa."
 
 #: game/story/park.dialogue
 msgctxt "t846667d4fe"
@@ -79988,3 +79988,921 @@ msgstr "Không hẳn…"
 msgctxt "t568f6a06a3"
 msgid "Quel horreur..."
 msgstr "Một cơn ác mộng kinh hoàng…"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t1a9395aaa5"
+msgid "Maman va le garder pour elle seule !"
+msgstr "Mất rồiii~ Nha... Áhhh~"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t5d83a12367"
+msgid "Je suis bien décidée à aggraver mon cas."
+msgstr "Chơi nhau cả đêm lẫn ngày luôn."
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "tff5f4e4ca1"
+msgid "Je vois...[w] On continue dans ta chambre ?"
+msgstr "Hiểu rồi ạ... [w] Thế để con dẫn cô vào phòng nhé ?"
+
+#: game/story/love_hotel_exterior.dialogue
+msgctxt "t6f757428a9"
+msgid "Tu m'attendais depuis longtemps ?"
+msgstr "Ây, cô chờ có lâu không ?"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t9318899c10"
+msgid "Je ne sais pas.... Peut-être que tu devrais m'aider ?"
+msgstr "Cô không biết nữa... Hay là con giúp cô đi ?"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t3b6ba22782"
+msgid "Pas sans quelques heures de sommeil j'en ai bien peur..."
+msgstr "Con cũng mới chỉ có vài tiếng ngủ thôi cô..."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t1db8ed5e27"
+msgid "Tu as peut être raison, c'est a peine si j'arrive a marcher correctement par ta faute !"
+msgstr "Lại chẳng ! Nhờ con mà giờ cô đứng không nổi đây này !"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t0e5f163cd2"
+msgid "Mais c'est toi qui avait demandée..."
+msgstr "Nhưng mà đấy là do cô đòi mà..."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "td7f4b65a5f"
+msgid "Et je ne regrette rien ! Allez repose toi bien !"
+msgstr "Cô không hối gì hết ! Đi nghỉ đi con nhé !"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "tbb144a9a58"
+msgid "Je tuerais pour quelques heures de sommeil."
+msgstr "Mình cũng muốn có vài tiếng ngủ nữa."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "td220151ad4"
+msgid "Apres ça, j'inviterais {{yasuka.n}} au onsen, je suis certain que ça lui fera énormément plaisir..."
+msgstr ""
+"Chắc lần sau, mình sẽ mời cô {{yasuka.n}} tới khu Onsen. Hẳn cô ấy sẽ vui "
+"lắm..."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "tba8d309c8c"
+msgid "[font_size=14]HAAAAAAAAAA NONNNNN[/font_size]"
+msgstr "[font_size=14]KHÔNGGGGGG[/font_size]"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "tb77f10a118"
+msgid "Qu'est ce que ?!"
+msgstr "Cái éo gì ?!"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t727e7a5aab"
+msgid "Que se passe t'il ?! Pourquoi ce cris ?!"
+msgstr "Chuyện gì xảy ra vậy cô ?! Sao cô hét vậy ?!"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "tc36b50483e"
+msgid "Ma petite puce...[w]{{asami.n}}..."
+msgstr "[w]{{asami.n}} bé bỏng của cô..."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t63a6fae811"
+msgid "Oh bon sang non...."
+msgstr "Không thể nào..."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "tac73ef12a2"
+msgid "Ne me dites pas que...."
+msgstr "Đừng nói là..."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "tf9d059eac6"
+msgid "Elle a été kidnappée et voici ce qu'ils ont laissés sur la table du salon..."
+msgstr "Con bé bị bắt cóc. Tất cả trên bàn chỉ để lại mấy cái này..."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "tc467ac2c45"
+msgid "Ma chérie... Ma pauvre chérie !!!! Pourquoi ?!!"
+msgstr "Con yêu của mẹ... KHÔNGGGG ???!  TẠI SAOOO ??!!"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "taad4cfc993"
+msgid "Fuck"
+msgstr "Địt con bà nó..."
+
+#: game/story/love_hotel_exterior.dialogue
+msgctxt "t63011f23af"
+msgid "Depuis bien trop longtemps si tu veux mon avis !"
+msgstr "Cô cứ sợ con chạy mất dép rồi cơ !"
+
+#: game/story/love_hotel_exterior.dialogue
+msgctxt "t7f929530b5"
+msgid "Allez hop ! La chambre nous attend !"
+msgstr "Mau nào ! Căn phòng đang chờ chúng ta !"
+
+#: game/story/love_hotel_exterior.dialogue
+msgctxt "ta7036e6d69"
+msgid "J'ai bien l'intention de rentabiliser la nuit complète, j'espère que tu es en forme ?"
+msgstr ""
+"Cô muốn cả đêm nay là với con, hy vọng con đã chuẩn bị tinh thần rồi chứ ?"
+
+#: game/story/love_hotel_exterior.dialogue
+msgctxt "ta0591f9a80"
+msgid "Ca... Ca devrait aller !"
+msgstr "Thì... cứ phải thử xem sao đã cô !"
+
+#: game/story/love_hotel_exterior.dialogue
+msgctxt "t92ae6bfde8"
+msgid "Mon dieu quel nuit !"
+msgstr "Thật là một đêm hoang dại !"
+
+#: game/story/love_hotel_exterior.dialogue
+msgctxt "tf28c19f9dc"
+msgid "Tu n'as pas failli à ta réputation !"
+msgstr "Tuổi trẻ thể lực đúng là sung mãn !"
+
+#: game/story/love_hotel_exterior.dialogue
+msgctxt "te58d27dc4a"
+msgid "Je donne toujours le maximum."
+msgstr "Con chỉ luôn cố gắng hết mình thôi ấy mà."
+
+#: game/story/love_hotel_exterior.dialogue
+msgctxt "t5ef3490440"
+msgid "Je ferais bien de me remettre en forme sinon je tiendrais jamais la rythme..."
+msgstr "Cô cũng phải tập tành mối được, không thì cô toàn đuối trước mất..."
+
+#: game/story/love_hotel_exterior.dialogue
+msgctxt "ta61adcfcc4"
+msgid "Dois-je conclure que tu ne souhaites pas t'arrêter là ?"
+msgstr "Vậy tức là cô con còn gặp nhau dài dài... ạ ?"
+
+#: game/story/love_hotel_exterior.dialogue
+msgctxt "t634cdef8e0"
+msgid "...[w]Si tu es d'accord bien sur ?"
+msgstr "...[w] Điii~ Mừ~ ?"
+
+#: game/story/love_hotel_exterior.dialogue
+msgctxt "t2234a46081"
+msgid "Mon dieu avec un tel regard..."
+msgstr "Nhìn kiểu đấy thì..."
+
+#: game/story/love_hotel_exterior.dialogue
+msgctxt "t0127750a54"
+msgid "Comment je pourrais lui refuser quoi que se soit ?"
+msgstr "...ai mà từ chối được cơ chứ..."
+
+#: game/story/love_hotel_exterior.dialogue
+msgctxt "t4a4824d082"
+msgid "Tant que c'est toi qui parle de cette situation à {{asami.n}} ça me va..."
+msgstr "Miễn sao là cô giải thích chuyện này với {{asami.n}} thì con ok thôi..."
+
+#: game/story/love_hotel_exterior.dialogue
+msgctxt "t9d0e980e14"
+msgid "...Je suis certaine qu'elle sera compréhensible et heureuse pour sa mère...[w]Je crois..."
+msgstr "Cô chắc chắn rằng con bé sẽ hiểu cho mẹ nó thôi mà... [w]Chắc thế..."
+
+#: game/story/love_hotel_exterior.dialogue
+msgctxt "t229b75289f"
+msgid "Allez je te raccompagne ?"
+msgstr "Để con đưa cô về nhé ?"
+
+#: game/story/love_hotel_exterior.dialogue
+msgctxt "t28869c1396"
+msgid "J'espère bien ! Si avec la nuit qu'on a passée tu me laisse tomber maintenant, je vais vraiment me fâcher !"
+msgstr ""
+"Được chứ ! Sau cả một đêm mặn nồng như thế, có khi con phải cõng cô về ấy "
+"chứ !"
+
+#: game/story/home_minato_hallway.dialogue
+msgctxt "t1d43d817f1"
+msgid "On ne va pas la garder éternellement comme ça..."
+msgstr "Cứ dông dài thế này là ăn cám cả nút..."
+
+#: game/story/home_minato_hallway.dialogue
+msgctxt "tb6ca61dba2"
+msgid "Dis à {{netoru.n}} de lui donner ça et de prendre la photo."
+msgstr "Đưa cho {{netoru.n}} và bảo ông ta đi kiếm ảnh đi."
+
+#: game/story/home_minato_hallway.dialogue
+msgctxt "t0d39c3d0d1"
+msgid "C'est bon je vais le faire !"
+msgstr "Dạ, vậy anh chờ em chút !"
+
+#: game/story/home_minato_hallway.dialogue
+msgctxt "tfe1faf9c95"
+msgid "Brave fille !"
+msgstr "Gái ngoan !"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "t5cf5030a5f"
+msgid "Je n'ai aucun moyen de savoir si ce que vous dites est la vérité ou pas !"
+msgstr "Làm sao tôi biết những gì ông nói là đúng hay sai ?!"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "tbe9fc61b54"
+msgid "Donc jusqu'à preuve du contraire tout ce que vous direz sera considéré comme un mensonge."
+msgstr ""
+"Vậy nên, trừ khi ông mang bằng chứng tới đây, thở câu nào tôi cũng không tin "
+"mô !"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "tdc9be53bff"
+msgid "Je vois, je vois... Je comprend."
+msgstr "Khà khà... tuân lệnh."
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "t296cefe20b"
+msgid "Je suis comme toi aussi, j'aime bien croire ce que je vois."
+msgstr "Tao cũng như mày thôi, tao thích mắt thấy tai nghe hơn."
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "te590233294"
+msgid "Les faits rien que les faits !"
+msgstr "Sự thật và không gì ngoài sự thật !"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "t680196b76d"
+msgid "Si vous avez compris laissez moi tranquille..."
+msgstr "Nếu ông hiểu rồi thì để tôi yên..."
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "t99a686e51a"
+msgid "C'est pour ça qu'on à des photos !"
+msgstr "Vậy nên là nhìn coi, tao có mấy tấm ảnh nè !"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "t3e8b082964"
+msgid "Regarde ! Ca c'est eux au parc !"
+msgstr "Nhìn này, lũ chúng nó ở Hội Hè !"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "ta2ba1b1740"
+msgid "Dans la grande roue en train de s'embrasser !"
+msgstr "Hôn nhau luôn kìa ! Hót hót hót !"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "t90eaa2459e"
+msgid "Dans la grande roue !"
+msgstr "Trên đu quay lãng mạn nữa cơ !"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "tfcdcd8cfff"
+msgid "Ca c'est eux dans une ruelle sombre... Je ne sais pas ce qu'ils se disent mais ça semble très intense."
+msgstr ""
+"Đây là lũ chúng nó trong một con hẻm tối... Không biết chúng nó đang làm gì "
+"hết nhá."
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "t0f42f3aadd"
+msgid "Et enfin les voici a la maison, tous les deux nus dans la salle de bain!"
+msgstr ""
+"Còn đây là trong phòng tắm nhà mày, hai đứa chúng nó trần truồng luôn nhớ !"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "t53c6735264"
+msgid "Je rêve ! Vous avez mis des caméras chez moi ?"
+msgstr "Cái mẹ, ông dám đặt camera trong nhà tôi ?"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "t28c11de615"
+msgid "Vous êtes vraiment le pire !"
+msgstr "Ông là thứ cặn bã xã hội !"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "teabebb29ca"
+msgid "Oh mais je l'assume ! Je suis effectivement le pire !"
+msgstr "Úi xời, quá khen ! Cặn bã sẽ hiếp mẹ mày tới ngu đần luôn !"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "t83edf875b9"
+msgid "D'ailleurs sans ça... je n'aurais pas eu ces images de ta mère et ton meilleur ami en train de... Bref, vois par toi même !"
+msgstr ""
+"Với cả, không làm thế thì mày nghĩ tao kiếm được nổi ảnh nó với mẹ mày đ-... "
+"Mà thôi, mày tự đi mà xem !"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "tdbd67f2d69"
+msgid "Non ! Peu importe ce qu'il se passe, vous ne me briserez pas le moral !"
+msgstr "Không ! Dẫu ông có làm gì đi nữa, ý chí tôi sẽ mãi quật cường !"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "tbe6040ab2e"
+msgid "Non ! Peu importe ce qu'il se passe, vous ne me briserez pas le moral !"
+msgstr "Không ! Dẫu ông có làm gì đi nữa, ý chí tôi sẽ mãi quật cường !"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "te6d2591f80"
+msgid ""
+"Ma mère est grande elle peut faire ce qu'elle veut et {{saito.n}} est juste un ami et s'il rend ma mère heureuse alors tant mieux, ce sera toujours mieux que d'avoir un père incapable et toujours "
+"absent."
+msgstr ""
+"Mẹ tôi là người lớn, thích ai thì thích. Hơn nữa, tôi với {{saito.n}} chỉ là "
+"bạn. Cậu ấy có thể khiến mẹ tôi vui lòng, vậy tốt hơn gấp một vạn lần một "
+"ông bố luôn lạnh nhạt và xa cách."
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "tc59db30bcf"
+msgid "Je suis sur que si on attend encore quelques jours, j'aurais des trucs sympa a te montrer !"
+msgstr "Cứ đợi vài ngày nữa, bọn tao sẽ có vài bức đẹp hơn cho mày coi !"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "tf3985c984b"
+msgid "J'ai confiance en {{saito.n}} ! Je sais qu'il ne fera rien de tel !"
+msgstr ""
+"Tôi có niềm tin vào {{saito.n}} ! Cậu ấy sẽ không bao giờ làm những điều như "
+"vậy !"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "t0527a025a7"
+msgid "Très bien comme tu voudras..."
+msgstr "Tùy mày thôi..."
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "t96c512d22f"
+msgid "Je te laisse seule avec tes pensées !"
+msgstr "Tao sẽ để mày cùng những tấm ảnh này vậy !"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "t3bfdba1301"
+msgid "Apportez moi d'autre jeux, j'ai fini ceux là !"
+msgstr "Đem cho tôi thêm game đi ! Đống này lại phá đảo hết rồi !"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "tebf16ddd57"
+msgid "...."
+msgstr "...."
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "t4a934fad8f"
+msgid "Personne ne t'a demande ton avis !"
+msgstr "Đã ai hỏi ý kiến mày chưa ?!"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "tabea73485c"
+msgid "{{natsume.n}} qu'est ce que tu fais là ?!"
+msgstr "{{natsume.n}}, bồ làm gì ở đây vậy ?!"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "t412933abac"
+msgid "Tu es venue pour me lib-"
+msgstr "Bồ tới cứu tui đúng khô-"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "tfd75881431"
+msgid "Désolé mais je ne suis pas venu pour ça !"
+msgstr "Xin lỗi, nhưng tớ không phải đến vì vậy !"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "t50250f9c58"
+msgid "C'est le moment ?"
+msgstr "Tới lúc rồi hả ?"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "ta1c809c177"
+msgid "Bon sang j'attend ça depuis trop longtemps !"
+msgstr "Con mẹ nó, ngồi chờ oải tới xương cốt tao !"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "tf84cccc409"
+msgid "{{natsume.n}}... Qu'est ce que tu fais ? Je pensais que nous étions..."
+msgstr "{{natsume.n}}... Bồ tính làm gì vậy ? Tôi tưởng bồ với tui là..."
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "t18aad2d043"
+msgid "amies ?"
+msgstr "...bạn ?"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "te55e1177a1"
+msgid "Dans une autre vie ça aurait pu se faire... Mais maintenant c'est trop tard."
+msgstr ""
+"Chỉ biết trách số phận sinh đôi ta nhầm kiếp... Tôi rất xin lỗi từ tận đáy "
+"lòng."
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "t6e61abc92d"
+msgid "C'est pas trop tard, détache moi et j'oublierais tout ça c'est promis !"
+msgstr "Đừng lo bà ơi, cứ cởi trói tui đi rồi tui tha thứ hết mà !"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "td0f6becafa"
+msgid "S'il vous plait... Laissez moi rentrer chez moi.... Je vous en prie..."
+msgstr "ĐI mà ! Cho tui về nhà đi... ! Tui xin bà đó... !"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "tee2b2741cb"
+msgid "Fait lui prendre sa première dose !"
+msgstr "Cho con bé uống liều đầu !"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "tc3b72a6083"
+msgid "Je ne prendrais pas ce truc !"
+msgstr "Không đời nào tôi nuốt thứ thuốc đó !"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "t6a3b82648e"
+msgid "Non ![w]NOOOON ![w] ARRETEZ !"
+msgstr "Không ![w] KHÔÔÔÔÔNGGG ![w] DỪNG LẠIII !"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "t9ee17d094b"
+msgid "{{natsume.n}} !!!!"
+msgstr "{{natsume.n}} !!!!"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "t111ea7d0cc"
+msgid "{{natsume.n}} !!!!"
+msgstr "{{natsume.n}} !!!!"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "taa46047957"
+msgid "Attache la sur le lit et prend la photo !"
+msgstr "Trói con bé vào giường rồi chụp những bức ảnh !"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "t5f026e745a"
+msgid "Allons, ne dis pas bêtises comme ça, personne ne veux ta mort ici !"
+msgstr "Nào, đừng có nói bậy, chẳng ai muốn mày chết ở đây hết !"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "t8b03dd6685"
+msgid "Crois moi avec ce qui va lui arriver à l'avenir, la mort est préférable."
+msgstr ""
+"Tôi bảo này, với những điều đang chờ bà trong tương lai, thì thà chết là "
+"đúng đấy."
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "ta281782833"
+msgid "Comment ça ?!!! Qu'est ce qui va m'arriver ?!!"
+msgstr "Bà nói thế ý là sao ?!!"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "t67766e1e3b"
+msgid "Sortez moi d'ici !!!"
+msgstr "Thả tôi ra !!!"
+
+#: game/story/home_asami_sayuri_room.dialogue
+msgctxt "t22b2f14ab8"
+msgid "Tu n'as pas perdu de temps cette fois ci !"
+msgstr "Lần này con hết chần chừ rồi nhỉ ?"
+
+#: game/story/home_asami_sayuri_room.dialogue
+msgctxt "td3ddb53f1e"
+msgid "Si j'avais encore pris mon temps tu n'aurais pas été contente."
+msgstr "Nếu con mà chần chừ thì cô lại giận con nữa mất."
+
+#: game/story/home_asami_sayuri_room.dialogue
+msgctxt "t682b77eda8"
+msgid "Dis moi plutot comment tu trouve cette position."
+msgstr "Sao mà con làm được tư thế hay vậy."
+
+#: game/story/home_asami_sayuri_room.dialogue
+msgctxt "t268b7ac8ca"
+msgid "C'est... si bestial..."
+msgstr "Thô... bạo... quá điii~"
+
+#: game/story/home_asami_sayuri_room.dialogue
+msgctxt "t157baff2df"
+msgid "Montre moi en plus !"
+msgstr "Mạnh nữa vào !"
+
+#: game/story/home_asami_sayuri_room.dialogue
+msgctxt "te72626b6ad"
+msgid "Accroche toi tien alors."
+msgstr "Chuẩn bị này cô !"
+
+#: game/story/home_asami_sayuri_room.dialogue
+msgctxt "t716842ce93"
+msgid "Je crois que vais l'apprecier celle là !"
+msgstr "Cô sướng cái bướm quá đi !"
+
+#: game/story/home_asami_sayuri_room.dialogue
+msgctxt "te9144aa3ea"
+msgid "C'est la plus reposante pour moi."
+msgstr "Vừa nằm nghỉ khỏe vừa sướnggg~"
+
+#: game/story/home_asami_sayuri_room.dialogue
+msgctxt "t4409cc6a06"
+msgid "Ne crois pas non plus que je vais faire tout le travail !"
+msgstr "Giao phối là phải đôi bên đấy nhớ ?!"
+
+#: game/story/home_asami_sayuri_room.dialogue
+msgctxt "t2de88f0099"
+msgid "Bien sur que non, attend un peu."
+msgstr "Được chứ, lại đây với cô nào."
+
+#: game/story/home_asami_sayuri_room.dialogue
+msgctxt "t7453a3ce90"
+msgid "Viens là!"
+msgstr "Tới đây !"
+
+#: game/story/home_asami_sayuri_room.dialogue
+msgctxt "tc3e19e6717"
+msgid "A toi de profiter un peu."
+msgstr "Ngồi mát ăn bát vàng."
+
+#: game/story/home_asami_sayuri_room.dialogue
+msgctxt "t1f8451c0e4"
+msgid "Je vois bien que tu te donnes beaucoup de mal depuis tout à l'heure."
+msgstr "Rắn rỏi phết nhỉ, hót hòn họt luôn á~."
+
+#: game/story/home_asami_sayuri_room.dialogue
+msgctxt "t26b454b42a"
+msgid "C'est si gentil !"
+msgstr "Cô đáng yêu quá đi !"
+
+#: game/story/home_asami_sayuri_room.dialogue
+msgctxt "t0b4528fe51"
+msgid "Tu crois que tu pourrais continuer comme ça combien de temps ?"
+msgstr "Đã mệt chưa vậy cô ?"
+
+#: game/story/home_asami_sayuri_room.dialogue
+msgctxt "t50ebbc8cdc"
+msgid "Je... J'ai déjà mal aux cuisses."
+msgstr "Hahhh~ Hết... hết nổi rồi..."
+
+#: game/story/home_asami_sayuri_room.dialogue
+msgctxt "taf29794631"
+msgid "Je vais me rattraper, j'ai envie de tester quelque chose que j'ai jamais fait !"
+msgstr "Để cô đền cho con một cái lần đầu của cô nhé !"
+
+#: game/story/home_asami_sayuri_room.dialogue
+msgctxt "tc8b0c341f8"
+msgid "Je suis curieux à présent..."
+msgstr "Con tò mò rồi nha..."
+
+#: game/story/home_asami_sayuri_room.dialogue
+msgctxt "t0ab750ae2b"
+msgid "C'est... Tu..."
+msgstr "Ahh... Cô... ơi..."
+
+#: game/story/home_asami_sayuri_room.dialogue
+msgctxt "t4f39586b1b"
+msgid "Tu es sur que c'est ta premiere fois ?"
+msgstr "Chắc đây là... lần đầu không ạ ?"
+
+#: game/story/home_asami_sayuri_room.dialogue
+msgctxt "tb491b7754a"
+msgid "mmhmmhh mouimmmhh"
+msgstr "mmhmmhh mouimmmhh"
+
+#: game/story/home_asami_sayuri_room.dialogue
+msgctxt "t4dfa7ec386"
+msgid "J'ai plus l'impression que tu es overqualifiée..."
+msgstr "Cô giỏi quá... arghhh... mất thôi..."
+
+#: game/story/home_asami_sayuri_room.dialogue
+msgctxt "t4e7f572292"
+msgid "Ch'est parche... que mmmmhh, che donne... mhhh toujours le meilleur mhhh de moi même !"
+msgstr "Cô nuôn... cố mmmmhh, hết hức... mhhh hoi mhhh !"
+
+#: game/story/home_asami_sayuri_room.dialogue
+msgctxt "t2a8c284dc6"
+msgid "Bien dormi ?"
+msgstr "Ngủ ngon chứ ?"
+
+#: game/story/home_asami_sayuri_room.dialogue
+msgctxt "tb0e27a59b1"
+msgid "Bien dormi ?"
+msgstr "Ngủ ngon chứ ?"
+
+#: game/story/home_asami_sayuri_room.dialogue
+msgctxt "tf38d896003"
+msgid "Un peu trop bien je pense..."
+msgstr "Có hơi ngon quá, con nghĩ vậy.."
+
+#: game/story/home_asami_sayuri_room.dialogue
+msgctxt "t828e41431f"
+msgid "C'est normal, avec tout ce qu'on a fait hier soir, j'ai cru que ça ne s'arrêterais jamais."
+msgstr ""
+"Bfinh thường mà. Tối qua con sung đến độ cô cứ nghĩ con hành cô tới sáng mất."
+
+#: game/story/home_asami_sayuri_room.dialogue
+msgctxt "td0b9a53410"
+msgid "C'est fou d'avoir autant d'endurance !"
+msgstr "Người thì bé tí mà sao lắm hơi sức cách vậy ?!"
+
+#: game/story/home_asami_sayuri_room.dialogue
+msgctxt "t140d1bfcca"
+msgid "Le canapé était plus confortable que je pensais..."
+msgstr "Cái sofa êm hơn là con nghĩ..."
+
+#: game/story/home_asami_sayuri_room.dialogue
+msgctxt "t0c140760c2"
+msgid "Oui j'avoue qu'il me prend en traitre assez souvent."
+msgstr "Phải nói rằng đã có đủ lần cô được nó chăm lo rồi."
+
+#: game/story/home_asami_sayuri_room.dialogue
+msgctxt "t7f37abd21f"
+msgid "Maintenant... Je vais régler certaine chose que j'avais mis en attendre depuis bien trop longtemps."
+msgstr ""
+"Bây giờ thì... Cô sẽ tất toán một món nợ mà đúng ra cô phải làm từ rất lâu "
+"về trước rồi."
+
+#: game/story/home_asami_sayuri_room.dialogue
+msgctxt "t1ce2c1d77c"
+msgid "Je vais me séparer de ce bon a rien."
+msgstr "Thằng cha chó này không được phép sánh vai cô tới cuối con đường nữa."
+
+#: game/story/home_asami_sayuri_room.dialogue
+msgctxt "t9f95542984"
+msgid "Je ne voul-"
+msgstr "Con không nghĩ là-"
+
+#: game/story/home_asami_sayuri_room.dialogue
+msgctxt "t641112acb0"
+msgid "{{saito.n}} ! Ne t'en fais pas; tu n'as pas a te sentir responsable de cette situation."
+msgstr ""
+"{{saito.n}} ! Con không cần phải thấy tội lỗi gì hết trong tình cảnh này."
+
+#: game/story/home_asami_sayuri_room.dialogue
+msgctxt "tb19e54ccda"
+msgid "Je repoussais cette idée depuis déjà bien longtemps et après avoir été aussi heureuse ces derniers jours."
+msgstr ""
+"Cô đã nín nhịn hết ngày này qua tháng khác, và sau khi trải qua ba ngày thực "
+"sự hạnh phúc vùa qua..."
+
+#: game/story/home_asami_sayuri_room.dialogue
+msgctxt "t9540a706b3"
+msgid "Je me suis dis que j'avais le droit d'être heureuse et ne plus rester dans l'attente."
+msgstr ""
+"Cô đã hiểu, rằng bản thân cô, đã, đang và sẽ mãi có quyền được mưu cầu hạnh "
+"phúc."
+
+#: game/story/home_asami_sayuri_room.dialogue
+msgctxt "t0a252e62f0"
+msgid "Bref ! Rentre chez toi pour rassurer {{yasuka.n}} qui doit surement s'inquiéter et passe me voir dans l'après midi au konbini."
+msgstr ""
+"Thôi mặc nó ! Về nhà với mẹ {{yasuka.n}} của con đi, chắc mẹ đang lo lắm. "
+"Thế rồi chiều thì tới gặp cô ở cái Konbini nhé."
+
+#: game/story/home_asami_sayuri_room.dialogue
+msgctxt "t446e37845e"
+msgid "Je vais aussi en profiter pour avoir des nouvelles d'{{asami.n}} et savoir quand elle compte rentrer."
+msgstr ""
+"Cô cũng phải đi lùng dò con bé {{asami.n}} xem bao giờ nó tính trở về nữa."
+
+#: game/story/home_asami_sayuri_room.dialogue
+msgctxt "td1a77db8c1"
+msgid "Trois jours sans donner de nouvelles, ça va barder !"
+msgstr ""
+"Ba ngày không một cuộc gọi, về nhà để cô cho nó một trận ! (Tl edit: Trừng "
+"phạt bằng sự sướng khoái, cướp cả lần đầu nụ môi trên môi dưới ahhhh tôi "
+"khốn nạn  quá tôi đi chết đây ! )"
+
+#: game/story/home_asami_sayuri_room.dialogue
+msgctxt "t86bac79d22"
+msgid "Je n'aimerais pas être à sa place !"
+msgstr "Thôi vậy cháu cũng xin tạm biệt cô ạ."
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t6a2ab9e214"
+msgid "C'est encore mieux que tout à l'heure."
+msgstr "Vẫn cứ sướng như lần đầu."
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t396045f7ac"
+msgid "Je te sent bien plus en moi..."
+msgstr "Ở sâuuu bên trong quá đi..."
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t4eba966d4d"
+msgid "J'ai envie de..."
+msgstr "Cô muốn..."
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "tf0fd720613"
+msgid "Ne bouge pas et laisse moi faire !"
+msgstr "Để cô lo cho, cứ nằm đó mà tận hưởng !"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t7e083b04d9"
+msgid "Comme tu voudras."
+msgstr "Như cô muốn."
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "tf982c20bcd"
+msgid "C'est dingue, je sent déjà l'orgasme venir !"
+msgstr "Điên quá điii~ Lại có... gì đó... sắp đếnnn~ !"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t5a8117ed1c"
+msgid "Pourquoi tu sembles si choquée ?"
+msgstr "Sao cô trông sốc quá vậy ?"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "ta018a7efb8"
+msgid "Tu ne comprend pas, j'ai jamais ressentie ça auparavant."
+msgstr "Con không... Mhhh... hiểu đâu~ , sướnggg~ lắmmm~"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "td7a290f9a1"
+msgid "Tant pis pour toi ma chérie, tu aurais du sauter sur {{saito.n}} avant."
+msgstr ""
+"Tiếc quá... con yêu ơiii~ Con phải giữữữ... {{saito.n}} hyahh... chặt như "
+"này nèèè ~ !"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t0628dcc753"
+msgid "Oui et plus vite que ça !"
+msgstr "Luôn và ngay !"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "te1df8783a8"
+msgid "Tu parviendras a retrouver la porte de ta chambre toute seule ?"
+msgstr "Cô còn tìm được đường về phòng không vậy ạ ?"
+
+#: game/story/home_minato_hallway.dialogue
+msgctxt "td7647dba04"
+msgid "C'est compris ?"
+msgstr "Rõ chửa ?"
+
+#: game/story/home_minato_hallway.dialogue
+msgctxt "t32f03e3bdc"
+msgid "Combien de temps encore ?"
+msgstr "Còn bao lâu nữa ?"
+
+#: game/story/park.dialogue
+msgctxt "t6158ae4d79"
+msgid "Tiens c'est curieux, je ne vois pas {{macumba.n}}..."
+msgstr "Lạ thật đấy nhỉ, không thấy {{macumba.n}} đâu..."
+
+#: game/story/park.dialogue
+msgctxt "t9a0ddd4da6"
+msgid "Ce n'est définitivement pas normal."
+msgstr "Chắc chắn có chuyện không ổn xảy ra rồi."
+
+#: game/story/park.dialogue
+msgctxt "tc2a287f991"
+msgid "Peut être qu'il est déjà reparti... C'est possible."
+msgstr "Mà cũng có thể anh ấy chạy xong rồi nên về trước... Có thể."
+
+#: game/story/park.dialogue
+msgctxt "t3206e0338b"
+msgid "Bref, autant s'y mettre tout de suite !"
+msgstr "Mà thôi, bắt đầu luôn nào !"
+
+#: game/story/park.dialogue
+msgctxt "ted3c9ab5b8"
+msgid "Je suis affamé à présent !"
+msgstr "Đói quá đi !"
+
+#: game/story/park.dialogue
+msgctxt "ta9df9733f9"
+msgid "Je passerais bien au konbini, ça me donnera l'occasion d'aller voir si {{sayuri.n}} a pu faire ce qu'elle voulait."
+msgstr "Tạt qua Konbini để hỏi thăm cô {{sayuri.n}} phát."
+
+#: game/story/home_minato_hallway.dialogue
+msgctxt "t4567b417c3"
+msgid "Combien de temps ça va encore durer ?"
+msgstr "Còn bao lâu nữa mới xong việc với cổ ?"
+
+#: game/story/home_minato_hallway.dialogue
+msgctxt "t7739140aa9"
+msgid "Non c'est bon, j'ai eu la réponse que je voulais."
+msgstr "Ồ, không sao hết, anh đã nhận được câu trả lời anh muốn rồi."
+
+#: game/story/home_minato_hallway.dialogue
+msgctxt "t520b4877fc"
+msgid "Les enchères vont pouvoir commencer."
+msgstr "Quá trình chuẩn bị bắt đầu rồi."
+
+#: game/story/home_minato_hallway.dialogue
+msgctxt "tfb149e6489"
+msgid "Donne lui le premier..."
+msgstr "Đưa ông ta liều đầu..."
+
+#: game/story/home_minato_hallway.dialogue
+msgctxt "tb07659f46a"
+msgid "Tu es certain de vouloir lui faire subir ça ? Elle ne connait rien de la vie encore..."
+msgstr "Anh có chắc không ? Con bé nó còn cả cuộc đời phía trước..."
+
+#: game/story/home_minato_hallway.dialogue
+msgctxt "t45bc207a90"
+msgid "{{natsume.n}} quand je te demanderais ton avis je te ferais signe !"
+msgstr "{{natsume.n}}, bao giờ anh cần xin ý kiến của em thì anh sẽ nói !"
+
+#: game/story/home_minato_hallway.dialogue
+msgctxt "t13f4a1a01a"
+msgid "En attendant tu la ferme et tu lui donne !"
+msgstr ""
+"Cho tới lúc đó thì, hãy ngoan ngoãn mà đưa liều thuốc cho con bé uống đi !"
+
+#: game/story/home_minato_hallway.dialogue
+msgctxt "tcc788ec71d"
+msgid "Il est diffèrent..."
+msgstr "Phòng lab vừa cải tiến công thức cũ nhỉ..."
+
+#: game/story/home_minato_hallway.dialogue
+msgctxt "td892ce23c2"
+msgid "Nouvelle formule, moins d'effets secondaires."
+msgstr "Các hoat chất mới đem lại ít tác dụng phụ hơn."
+
+#: game/story/home_minato_hallway.dialogue
+msgctxt "tc330c88e88"
+msgid "Il n'y a plus d'explosion de la libido à la première et à la seconde prise."
+msgstr ""
+"Sẽ không còn đợt kích dục tự phát nào trong liều đầu và liều thứ hai nữa."
+
+#: game/story/home_minato_hallway.dialogue
+msgctxt "tba556fdddd"
+msgid "A présent il est totalement intraçable..."
+msgstr "Ẩn khuất không thể đoán định..."
+
+#: game/story/home_minato_hallway.dialogue
+msgctxt "td879bfbbab"
+msgid "Les affaires sont les affaires..."
+msgstr "Chuyện phải làm thì phải làm thôi..."
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "t1b3165cf65"
+msgid "Laissez moi deviner ? Ils ont encore passés la journée ensemble ?"
+msgstr "Để tôi đoán nhé, lại đi chồng cây chuối với nhau chứ gì ?"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "t51a42a7ca0"
+msgid "J'ai de la peine pour vous quand même..."
+msgstr "Tôi thấy buồn cho ông đấy..."
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "te578d45589"
+msgid "On est tout les deux la à perdre notre temps alors qu'on pourrait très bien faire autre chose."
+msgstr ""
+"Ta có thể làm gì đó VUI hơn thay vì suốt ngày căn ke hai con người đó, ông "
+"biết chứ ?"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "t2fa7d86e17"
+msgid "Tu n'es pas curieuse ?"
+msgstr "Không tò mò hay sao ?"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "t65178c61e5"
+msgid "Ca fait le troisième jour de suite."
+msgstr "Ngày thứ ba liên tiếp rồi đấy."
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "t9e181ee972"
+msgid "Et alors ? Il y aura peut être un quatrième voir un cinquième ?"
+msgstr "Thì sao nào ? Rồi sẽ có ngày thứ tư, và thứ năm, thứ sáu ?"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "t1b0b631990"
+msgid "Peut-être... peut-être... mais...[w]Au troisième jour il n'est pas rentré dormir chez lui."
+msgstr ""
+"Có thể... Có thể... mà... [w] Vào ngày hôm nay, cậu ta không về nhà ngủ."
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "t616796f309"
+msgid "Il est resté chez toi."
+msgstr "Cậu ta nán lại nhà của mày."
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "tfe96ba4440"
+msgid "Un homme et une femme... seuls... dans une si grande maison... A la nuit tombée."
+msgstr ""
+"Một nam một nữ... một mình... trong một căn nhà... đêm tối canh khuya..."
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "t3e95f017f7"
+msgid "Tu penses tout de même pas qu'il va simplement dormir sur le canapé pendant qu'elle dort dans sa chambre ?"
+msgstr ""
+"Mày không nghĩ là thằng đấy sẽ ngủ trên ghế sofa trong khi mẹ mà thì ngủ "
+"trên nệm nhé ?"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "tc2a7244e78"
+msgid "Tu n'es quand même pas naïve a ce point {{asami.n}} ?"
+msgstr "Tại sao mày ngây thơ vậy hả {{asami.n}} ?"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "t284c708a90"
+msgid "Je...[w]Je n'ai pas envie d'en savoir plus..."
+msgstr "Tôi... [w] Tôi không muốn biết thêm nữa..."
+
+#: game/story/home_asami_sayuri_room.dialogue
+msgctxt "t475ff8182b"
+msgid "Je vois...."
+msgstr "Con... hiểu rồi ạ..."
+
+#: game/story/home_asami_sayuri_room.dialogue
+msgctxt "t0998841c18"
+msgid "Et puis je suis certaine que ce connard me trompe avec sa secrétaire depuis bien longtemps."
+msgstr ""
+"Với cả, cô thề với Chúa rằng chắc chắn thằng ấy đi lang chạ với con thư ký "
+"của nó từ đời thuở nào rồi."
+
+#: game/story/home_asami_sayuri_room.dialogue
+msgctxt "t20cebeec63"
+msgid "Je refusais juste de l'accepter."
+msgstr "Chỉ là cô từ chối chấp nhận thôi."
+
+#: game/story/home_asami_sayuri_room.dialogue
+msgctxt "t2bf44bc33a"
+msgid "D'accord !"
+msgstr "Dạ vâng !"
+
+#: game/scenes/gui/gui_start_sayuri.tscn
+msgid "SAYURI"
+msgstr "SAYURI"
