@@ -110,7 +110,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
-"PO-Revision-Date: 2024-12-30 15:15+0000\n"
+"PO-Revision-Date: 2024-12-30 21:45+0000\n"
 "Last-Translator: Tim Siekmann <sebastian.laubenstein@gmx.net>\n"
 "Language-Team: German <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/de/>\n"
@@ -139,12 +139,12 @@ msgstr ""
 #: game/story/introduction.dialogue
 msgctxt "intro_0ada2bb6"
 msgid "J'ai toujours été le souffre-douleur de service."
-msgstr "Ich wurde immer gemobbt…"
+msgstr "Ich wurde immer gemobbt ..."
 
 #: game/story/introduction.dialogue
 msgctxt "intro_233de029"
 msgid "Déjà... Dès l'enfance."
-msgstr "ausgenutzt…"
+msgstr "ausgenutzt ..."
 
 #: game/story/introduction.dialogue
 msgctxt "intro_80305fc4"
@@ -171,32 +171,32 @@ msgstr "Ich habe keine Familie ..."
 #: game/story/introduction.dialogue
 msgctxt "intro_3f5da8bf"
 msgid "Je n'ai personne qui se souviendra de moi..."
-msgstr "Niemand interessiert sich für mich…"
+msgstr "Niemand interessiert sich für mich ..."
 
 #: game/story/introduction.dialogue
 msgctxt "intro_bf9b219b"
 msgid "Personne ne me regrettera..."
-msgstr "Niemand wird sich an mich erinnern…"
+msgstr "Niemand wird sich an mich erinnern ..."
 
 #: game/story/introduction.dialogue
 msgctxt "intro_a2840a4c"
 msgid "S'il vous plaît... Que quelqu'un m'aide..."
-msgstr "Bitte… irgendjemand… ich brauche Hilfe…"
+msgstr "Bitte ... irgendjemand ... ich brauche Hilfe ..."
 
 #: game/story/introduction.dialogue
 msgctxt "intro_eda20439"
 msgid "N'importe qui... Dieu... Satan... Peu importe !"
-msgstr "Gott… Teufel… irgendjemand! Egal wer!"
+msgstr "Gott ... Teufel ... irgendjemand! Egal wer!"
 
 #: game/story/introduction.dialogue
 msgctxt "intro_9c78c287"
 msgid "Je ne veux pas partir comme ça..."
-msgstr "So will ich nicht sterben…"
+msgstr "So will ich nicht sterben ..."
 
 #: game/story/introduction.dialogue
 msgctxt "intro_a49290a7"
 msgid "Je voudrais juste une..."
-msgstr "Ich will nur…"
+msgstr "Ich will nur ..."
 
 #: game/story/introduction.dialogue
 msgctxt "intro_19efcd11"
@@ -206,7 +206,7 @@ msgstr "Eine zweite Chance ..."
 #: game/story/introduction.dialogue
 msgctxt "intro_a6ea1d5e"
 msgid "Que... ?!"
-msgstr "Was…?!"
+msgstr "Was ...?!"
 
 #: game/story/introduction.dialogue
 msgctxt "intro_a0515f23"
@@ -1692,7 +1692,7 @@ msgstr "..."
 msgctxt "intro_06f6289c"
 msgid "Si tout cela est vrai... Je dois tout faire pour changer mon destin !"
 msgstr ""
-"Wenn das alles wirklich passiert ist… dann muss ich alles tun, um mein "
+"Wenn das alles wirklich passiert ist ... dann muss ich alles tun, um mein "
 "Schicksal zu verändern!"
 
 #: game/story/introduction.dialogue
@@ -1803,7 +1803,7 @@ msgstr "{{yasuka.n}}?![w] Sie lebt noch?!"
 #: game/story/introduction.dialogue
 msgctxt "home_player_room_1676875a"
 msgid "Euh... Oui, désolé {{yasuka.n}}, j'arrive dans quelques minutes !"
-msgstr "Äh… Ja, Entschuldigung, {{yasuka.n}}! Ich komme gleich!"
+msgstr "Äh ... Ja, Entschuldigung, {{yasuka.n}}! Ich komme gleich!"
 
 #: game/story/introduction.dialogue
 msgctxt "home_player_room_582e02dd"
@@ -1820,7 +1820,7 @@ msgctxt "home_player_room_8130fdbe"
 msgid "Si je ne fais rien, l'histoire va se répéter et je vais me faire victimiser toute ma vie..."
 msgstr ""
 "Wenn ich nichts tue, wird sich die Geschichte wiederholen und ich werde "
-"erneut mein ganzes restliches Leben fertiggemacht…"
+"erneut mein ganzes restliches Leben fertiggemacht ..."
 
 #: game/story/introduction.dialogue
 msgctxt "home_player_room_e51fb514"
@@ -32592,12 +32592,14 @@ msgstr "Ich glaube, ich versteh’s."
 #: game/story/park.dialogue
 msgctxt "asami_choice_a731cfeb"
 msgid "Je comprends."
-msgstr ""
+msgstr "Ich verstehe."
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_c2f0c827"
 msgid "Tu ne dois plus avoir peur de la nudité, et surtout être familière avec l'anatomie masculine, héhé."
 msgstr ""
+"Du musst dich nicht davor verstecken, etwas Haut zu zeigen und du musst dich "
+"mit der männlichen Anatomie besonders gut auskennen."
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_7558dac8"
@@ -32612,192 +32614,205 @@ msgstr "Und die wäre?"
 #: game/story/park.dialogue
 msgctxt "asami_choice_51b445fb"
 msgid "Qu'est-ce que tu comptes lui faire faire ?"
-msgstr ""
+msgstr "Was hast du mit ihr vor?"
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_3c0b84bb"
 msgid "Ce n'est pas \"qu'est-ce que je vais lui faire\", mais plutôt qu'est-ce qu'elle va te faire ?"
 msgstr ""
+"Geht es nicht weniger darum, was ich mit ihr vorhabe, sondern eher darum, "
+"was sie mit dir vorhat?"
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_1aec392f"
 msgid "{{natsume.n}} !"
-msgstr ""
+msgstr "{{natsume.n}}!"
 
 #: game/story/home_minato_exterior.dialogue
 msgctxt "home_minato_exterior_abc88435"
 msgid "{{natsume.n}} !"
-msgstr ""
+msgstr "{{natsume.n}}!"
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_17021a4c"
 msgid "Je crains le pire."
-msgstr ""
+msgstr "Ich habe ein ganz mieses Gefühl bei der Sache."
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_f901ba7c"
 msgid "Rien de bien méchant, ne t'en fais pas. Tu me remercieras après."
-msgstr ""
+msgstr "Nichst Schlimmes, vertrau mir. Nachher wirst du mir danken."
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_658c78fe"
 msgid "Sur ce, je vous laisse, j'ai à faire, je te laisse entre de bonnes mains."
 msgstr ""
+"Wie dem auch sei, ich muss mich langsam von euch verabschieden. Ich habe "
+"noch ein paar Sachen zu erledigen, aber du bist ja in guten Händen."
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_949cdf8f"
 msgid "Rhoo, celle-là !"
-msgstr ""
+msgstr "Oh, dieses Mädchen!"
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_5ef565a0"
 msgid "Non, je... tout va bien."
-msgstr ""
+msgstr "Nein, mir ... mir geht’s gut."
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_ae3642a1"
 msgid "Je suis désolé, je n'ai pas fait grand-chose pour toi pour le moment."
 msgstr ""
+"Es tut mir leid. Ich habe bis jetzt wirklich noch nichts für dich getan."
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_9ac40ff3"
 msgid "Ne dis pas ça, c'est grâce à toi que je peux faire tout ça."
-msgstr ""
+msgstr "Sag das nicht. Ich bin nur deinetwegen so weit gekommen."
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_abcf2931"
 msgid "Je ne veux plus ressembler au garçon manqué que j'étais."
-msgstr ""
+msgstr "Ich will nicht länger wie ein Tomboy aussehen."
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_63d3d8cf"
 msgid "Le rejet de {{minato.n}} m'a fait comprendre qu'on me regardait comme une gamine et non comme une femme."
 msgstr ""
+"{{minato.n}}s Zurückweisung hat mich verstehen lassen, dass mich die Leute "
+"als ein Kind und nicht als Frau betrachtet haben."
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_3b43f4b6"
 msgid "Tu n'es pas obligée de le faire aussi vite, tu peux prendre ton temps."
-msgstr ""
+msgstr "Du musst dich nicht so schnell verändern. Du kannst dir Zeit lassen."
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_c326ea64"
 msgid "Non, de la même façon que tu enlèves un pansement, il faut tirer d'un coup sec."
 msgstr ""
+"Nein, es ist, als würde man ein Pflaster entfernen. Das muss man schnell und "
+"ohne zu zögern erledigen."
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_890d811d"
 msgid "{{saito.n}}...[w] Tu veux bien me suivre ?"
-msgstr ""
+msgstr "{{saito.n}} ...[w] Kannst du bitte mitkommen?"
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_52a94886"
 msgid "Bien sûr, mais où ?"
-msgstr ""
+msgstr "Klar, wohin denn?"
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_187800ce"
 msgid "Ferme les yeux et prends ma main. Ne triche pas surtout !"
-msgstr ""
+msgstr "Schließe deine Augen und nimm meine Hand. Und nicht schummeln!"
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_41c8bf98"
 msgid "Ok- Okay !"
-msgstr ""
+msgstr "O- Okay!"
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_bccbf31a"
 msgid "Attention à la marche."
-msgstr ""
+msgstr "Pass auf, wo du hintrittst."
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_1c2eedc7"
 msgid "Avance un peu ici."
-msgstr ""
+msgstr "Ein bisschen mehr in die Richtung."
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_ec9e0155"
 msgid "Voila... Colle-toi contre le mur comme ça."
-msgstr ""
+msgstr "So ... Und jetzt lehn dich so an die Wand hinter dir."
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_e6435803"
 msgid "Hé, qu'est-ce que...."
-msgstr ""
+msgstr "Hey, was machst du ..."
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_5db3a3d3"
 msgid "Tu... tu n'as pas envie ?"
-msgstr ""
+msgstr "Ähm ... Willst du etwa nicht?"
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_30fabff3"
 msgid "Wow, la vache, elle s'apprêtait vraiment à me sucer sans prévenir ?"
-msgstr ""
+msgstr "Wow, wollte sie mir wirklich einfach so ohne Vorwarnung einen blasen?"
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_237cc366"
 msgid "Qu'est-ce que {{natsume.n}} a bien pu lui mettre dans la tête ?"
-msgstr ""
+msgstr "Was für Ideen hat ihr {{natsume.n}} in den Kopf gesetzt?"
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_9b1048b4"
 msgid "Je ne m'y attendais vraiment pas..."
-msgstr ""
+msgstr "Ich habe das wirklich nicht erwartet ..."
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_c422b8a5"
 msgid "Si... Si bien au contraire."
-msgstr ""
+msgstr "Doch ... Doch, ich will."
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_85a8e325"
 msgid "Je sais que ça doit te paraitre un peu rapide, mais..."
-msgstr ""
+msgstr "Du denkst dir wahrscheinlich, ich gehe es etwas zu schnell an, aber ..."
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_f1596dae"
 msgid "Elle m'a dit que je devais arrêter les glaces à l'eau et passer aux choses sérieuses."
 msgstr ""
+"Sie hat mir gesagt, ich solle aufhören, rumzualbern und endlich mal einen "
+"Schritt wagen."
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_f99205ca"
 msgid "Je n'avais pas compris tout de suite de quoi elle parlait."
-msgstr ""
+msgstr "Ich habe zunächst nicht verstanden, wovon sie redet."
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_bbc5dce9"
 msgid "Mais maintenant..."
-msgstr ""
+msgstr "Aber jetzt ..."
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_e0adecce"
 msgid "C'est la première fois que je fais ça, c'est pour te remercier du mal que tu t'es donné."
 msgstr ""
+"Ich mache das zum ersten Mal, aber ich möchte dir für deine Mühen bedanken "
+"und dass du mir geholfen hast."
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_d8c2184e"
 msgid "Mais tu sais, tu n'es pas obligé d-"
-msgstr ""
+msgstr "Du weißt, dass du nicht-"
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_db203e3a"
 msgid "Ne dis plus rien maintenant."
-msgstr ""
+msgstr "Jetzt hör auf zu reden."
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_060fc720"
 msgid "Hmmmm, hmmmm..."
-msgstr ""
+msgstr "Hmmmm, hmmmmm ..."
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_170afae5"
 msgid "[i]*Bruits de succion*[/i]"
-msgstr ""
+msgstr "[i]*Ersticktes Stöhnen*[/i]"
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_ae88312e"
 msgid "Oh la vache, je n'étais pas préparé à ça !"
-msgstr ""
+msgstr "Oh verdammt, darauf war ich nicht vorbereitet!"
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_11e3890e"
@@ -32807,117 +32822,120 @@ msgstr "Das ist ..."
 #: game/story/park.dialogue
 msgctxt "asami_choice_50338b04"
 msgid "Où as-tu appris un truc pareil... ?"
-msgstr ""
+msgstr "Wo hast du sowas gelernt ...?"
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_777df40d"
 msgid "Hmmm- Slurp- Hmm, mmmmm..."
-msgstr ""
+msgstr "Hmmm- schlürf- hmm, mmmmm ..."
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_1dbc0f0f"
 msgid "C'est vraiment le pied !"
-msgstr ""
+msgstr "Das ist großartig!"
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_fa0ebb01"
 msgid "Mmmmh, mmmh..."
-msgstr ""
+msgstr "Mmmmh, mmmh ..."
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_bd0678eb"
 msgid "Ah... Je sens que ça vient !"
-msgstr ""
+msgstr "Ah ... Ich glaube, ich komme gleich!"
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_f02c7f75"
 msgid "Hmmm... mmmm..."
-msgstr ""
+msgstr "Hmmm ... mmmm ..."
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_51cbd8e2"
 msgid "Alors, c'était comment ?"
-msgstr ""
+msgstr "Also, wie war’s?"
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_d8efda58"
 msgid "C'était incroyable."
-msgstr ""
+msgstr "Es war unglaublich."
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_5b0b0ac3"
 msgid "{{asami.n}} est beaucoup plus douce que {{noriko.n}}."
-msgstr ""
+msgstr "{{asami.n}} ist viel behutsamer als {{noriko.n}}."
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_9962d76a"
 msgid "Et au moins, je n'ai pas senti ses dents..."
-msgstr ""
+msgstr "Und ich habe auch nicht ihre Zähne gespürt ..."
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_0ed79176"
 msgid "Ma nouvelle vie est vraiment intéressante."
-msgstr ""
+msgstr "Mein neues Leben ist wahrlich interessant."
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_0ac1a333"
 msgid "{{natsume.n}} m'a montrée plein de vidéos..."
-msgstr ""
+msgstr "{{natsume.n}} hat mir ein paar Videos gezeigt."
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_13783061"
 msgid "Et elle m'a surtout dit et je la cite \"La meilleure façon de garder son mec, c'est de lui montrer que tu es sa meilleure option.\""
 msgstr ""
+"Und vor allem hat sie mir gesagt, ich zitiere: „Die beste Möglichkeit, um "
+"deinen Freund für dich zu behalten besteht darin, ihm zu zeigen, dass du "
+"seine beste Option bist.“"
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_30b43180"
 msgid "Ah ! Et tu es d'accord avec ça ?"
-msgstr ""
+msgstr "Oh! Und da stimmst du zu?"
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_2b02ee92"
 msgid "Tu as l'intention d'aller voir ailleurs ?"
-msgstr ""
+msgstr "Hattest du vor, dich woanders umzusehen?"
 
 #: game/story/park.dialogue
 msgctxt "tcb46df749d"
 msgid "Jamais de la vie."
-msgstr ""
+msgstr "Nur über meine Leiche."
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_9ef2ab04"
 msgid "Et quand est-ce que je m'occupe de toi ?"
-msgstr ""
+msgstr "Also, wann darf ich mich bei dir revanchieren?"
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_0ac8673b"
 msgid "Je... Je ne suis pas encore prête, mais ne t'inquiète pas."
-msgstr ""
+msgstr "Ich ... Ich bin noch nicht bereit dafür, aber keine Sorge."
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_c4e611fd"
 msgid "J'ai encore des progrès à faire."
-msgstr ""
+msgstr "Es bleibt bei mir immer noch Raum für Verbesserung."
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_267ae4c1"
 msgid "Elle lui a totalement retourné le cerveau ma parole."
-msgstr ""
+msgstr "Verdammt, sie hat sie wirklich einer totalen Hirnwäsche unterzogen."
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_b836d2b8"
 msgid "Mais bon, c'est ce qu'elle voulait."
-msgstr ""
+msgstr "Aber das ist es, was sie wollte."
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_ea7364d5"
 msgid "Pourquoi je m'en plaindrai ?"
-msgstr ""
+msgstr "Warum sollte ich mich da beschweren?"
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_32fb36b2"
 msgid "Faut que je chasse de mon esprit ce sentiment de culpabilité après tout."
-msgstr ""
+msgstr "Ich muss diese Schuldgefühle langsam loswerden."
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_59452e29"
@@ -36956,7 +36974,7 @@ msgstr "Ich muss {{yasuka.n}} warnen, sich vor {{akira.n}} in Acht zu nehmen."
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_unavailable_6f3cbfbc"
 msgid "Forcement, c'est fermé à cette heure-ci..."
-msgstr "Natürlich, zu dieser Zeit ist es geschlossen …"
+msgstr "Natürlich, zu dieser Zeit ist es geschlossen ..."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_ec2adc19"
@@ -59845,7 +59863,7 @@ msgstr "{{asami.n}}s Haus"
 #: game/scenes/locations/city.tscn
 msgctxt "location"
 msgid "home_kimochi_exterior"
-msgstr "{{kimochi.n}}s Wohnung"
+msgstr "{{kimochi.n}}s Appartement"
 
 #: game/scenes/locations/city.tscn
 msgctxt "location"
@@ -59890,7 +59908,7 @@ msgstr "Bushaltestelle"
 #: game/scenes/locations/city.tscn
 msgctxt "location"
 msgid "arcade_exterior"
-msgstr "Arcade-Halle"
+msgstr "Spielhalle"
 
 #: game/scenes/locations/city.tscn
 msgctxt "location"
@@ -59965,19 +59983,19 @@ msgstr ""
 msgid "Vous avez fait le choix de l'[color=yellow]aimer et de la soutenir[/color]."
 msgstr ""
 "Du hast dich entschieden, sie zu [color=yellow]lieben und zu "
-"unterstützen[/color]"
+"unterstützen[/color]."
 
 #: game/scenes/gui/gui_start_yasuka.tscn
 msgid "Vous avez fait le choix de la laisser [color=yellow]travailler au bar à hôtesse[/color]."
 msgstr ""
 "Du hast dich entschieden, sie als Hostess [color=yellow]im Nachtklub "
-"arbeiten zu lassen.[/color]"
+"arbeiten zu lassen[/color]."
 
 #: game/scenes/gui/splashscreen.tscn
 msgid "Certaines scènes de ce jeu peuvent contenir du contenu sexuellement explicite et pourrait choquer un jeune public. Tous les personnages de ce jeu sont majeurs."
 msgstr ""
-"Einige Szenen in diesem Spiel können sexuell explizite Inhalte enthalten und "
-"sind für junge Zuschauer ungeeignet. Alle Charaktere in diesem Spiel sind "
+"Einige Szenen in diesem Spiel enthalten sexuell explizite Inhalte und sind "
+"für junge Zuschauer ungeeignet. Alle Charaktere in diesem Spiel sind "
 "erwachsen."
 
 #: game/scenes/gui/splashscreen.tscn
@@ -60037,7 +60055,7 @@ msgctxt "intro_cb62efe6"
 msgid "Ma faible constitution[w], les séjours à l'hôpital à répétition[w], la maladie[w], la solitude..."
 msgstr ""
 "Meine schwache Verfassung[w], wiederholte Aufenthalte im Krankenhaus[w], "
-"Krankheit[w], Einsamkeit…"
+"Krankheit[w], Einsamkeit ..."
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgid "50"
@@ -72600,7 +72618,7 @@ msgstr "Aber jetzt will ich, dass du mir deine wilde Seite zeigst!"
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "amusement_park_exterior"
-msgstr "Freizeitpark (außen)"
+msgstr "Freizeitpark"
 
 #: game/scenes/gui/gui_start_asami.tscn
 msgid "Vous pouvez dès à présent poursuivre l’histoire d’{{asami.n}}."
@@ -78958,3 +78976,288 @@ msgid "Prends ceci, ce sont des haltères légèrement modifiés. J'utilisais ç
 msgstr ""
 "Nimm die hier. Das sind leicht modifizierte Hanteln. Die habe ich früher "
 "benutzt."
+
+#: game/story/park.dialogue
+msgctxt "tbbc9d17e4c"
+msgid "[i]Et c'est dans la mort que son âme pourra être transportée dans ce nouveau monde, telle une renaissance, tirant un trait sur celui qu'il était avant.[/i]"
+msgstr ""
+"[i]Doch im Tod kann seine Seele in eine neue Welt transportiert werden, was "
+"eine Wiedergeburt und Trennung vom alten Leben darstellt.[/i]"
+
+#: game/story/park.dialogue
+msgctxt "t6fe48e3746"
+msgid "[font_size=14]Hey, faites attentions, vous passez trop près ![/font_size]"
+msgstr "[font_size=14]Hey, sei vorsichtig, du bist zu nah![/font_size]"
+
+#: game/story/onsen_exterior.dialogue
+msgctxt "ta9c07643b5"
+msgid "Ce lieu existe depuis plusieurs centaine d'années et plus que la beauté de l'endroit c'est la seule règle de l'établissement qui a fait sa renommée."
+msgstr ""
+"Dieser Ort existiert bereits seit Hunderten von Jahren, aber seine "
+"Berühmtheit hat er nicht seiner Schönheit oder seinem Alter zu verdanken, "
+"sondern der eher außergewöhnlichen Regel, die hier gilt."
+
+#: game/story/park.dialogue
+msgctxt "td945178e32"
+msgid "[i]Des mâles alpha, supérieurs en tout point, qui grâce à leur intelligence ou leurs capacités physiques possèderont un avantage supplémentaire dès le début de leurs aventures.[/i]"
+msgstr ""
+"[i]Alpha-Männer, die in jeder Hinsicht überlegen sind. Dank ihrer "
+"außerordentlichen Intelligenz und physischen Stärke haben sie von Beginn "
+"ihres Abenteuers an bereits einen Vorteil.[/i]"
+
+#: game/story/park.dialogue
+msgctxt "tfd1d9a1f28"
+msgid "[font_size=14]Deux guignols en train de courir dans un parc... Pfff ![/font_size]"
+msgstr ""
+"[font_size=14]Zwei Affen, die gemeinsam im Park laufen gehen ... "
+"Tsss![/font_size]"
+
+#: game/story/park.dialogue
+msgctxt "tfe203ab61b"
+msgid "Puise en toi toute la force necéssaire sinon... Souviens toi du banc !"
+msgstr ""
+"Sammel alle Kraft, die du noch hast, ansonsten ... kriegst du es mit der "
+"Bank zu tun!"
+
+#: game/story/park.dialogue
+msgctxt "t19be9f4d33"
+msgid "Simple question {{macumba.n}}, la cadence peut être augmentée combien de fois encore ?"
+msgstr "Hey, {{macumba.n}}, wie oft kann man das Tempo noch erhöhen?"
+
+#: game/story/park.dialogue
+msgctxt "teb61f7bd6d"
+msgid "[i]Au tout début de l'aventure, le personnage principal est souvent un garçon sans grand intérêt, rarement le protagoniste de sa propre vie.[/i]"
+msgstr ""
+"[i]Zu Beginn seines Abenteuers ist der Protagonist oft ein unbedeutender "
+"Junge, der selten überhaupt Herr über sein eigenes Leben ist.[/i]"
+
+#: game/story/onsen_exterior.dialogue
+msgctxt "tdcd07457b8"
+msgid "Est ce que tu sais combien de fois j'ai rêvée de venir ici ?"
+msgstr "Weißt du, wie oft ich davon geträumt habe, hierher zu kommen?"
+
+#: game/story/onsen_exterior.dialogue
+msgctxt "t4c38962c69"
+msgid "Cet endroit est juste incroyable !"
+msgstr "Dieser Ort ist einfach unglaublich!"
+
+#: game/story/onsen_exterior.dialogue
+msgctxt "t412e042e65"
+msgid "Rassure moi, tu connais la particularité de cet endroit ?"
+msgstr "Weißt du, was an diesem Ort so besonders ist?"
+
+#: game/story/onsen_exterior.dialogue
+msgctxt "tfafd214628"
+msgid "La particularité ?"
+msgstr "Besonders?"
+
+#: game/story/onsen_exterior.dialogue
+msgctxt "tc3c28958ec"
+msgid "Je le savais... Tu n'étais pas au courant !"
+msgstr "Ich wusste es ... Du hast keine Ahnung!"
+
+#: game/story/onsen_exterior.dialogue
+msgctxt "td1ab8bc015"
+msgid "Je t'en prie, éclaire moi."
+msgstr "Bitte klär mich auf."
+
+#: game/story/onsen_exterior.dialogue
+msgctxt "ta8bd1e9543"
+msgid "La seule règle ?"
+msgstr "Außergewöhnliche Regel?"
+
+#: game/story/onsen_exterior.dialogue
+msgctxt "te12a61a9a9"
+msgid "C'est eux qui choisissent leurs clients."
+msgstr "Sie suchen sich ihre Kunden selbst aus."
+
+#: game/story/park.dialogue
+msgctxt "ta55f79a48b"
+msgid "Vous obtenez les haltères modifiées de {{macumba.n}}."
+msgstr "Du erhältst die modifizierten Hanteln von {{macumba.n}}."
+
+#: game/story/park.dialogue
+msgctxt "t1d0d7576ec"
+msgid "Avec ça tu obtiendras des résultats en quelques jours à peine."
+msgstr "Mit denen wirst du schon in ein paar Tagen die ersten Ergebnisse sehen."
+
+#: game/story/park.dialogue
+msgctxt "tb7e3861201"
+msgid "Tu es vraiment la personne la plus fiable que j'ai jamais rencontrée."
+msgstr ""
+"Du bist wirklich die zuverlässigste Person, die ich je kennengelernt habe."
+
+#: game/story/park.dialogue
+msgctxt "t9969dc7a3f"
+msgid "De rien, petit frère, tu ne pourras toujours compter sur moi."
+msgstr "Immer wieder gerne, kleine Bro. Du kannst dich auf mich verlassen."
+
+#: game/story/park.dialogue
+msgctxt "tc56081540f"
+msgid "On pourra dire ce qu'on veut, il a beau être flippant."
+msgstr ""
+"Man kann sagen was man will, er mag vielleicht furchteinflößend wirken ..."
+
+#: game/story/park.dialogue
+msgctxt "te317f16892"
+msgid "Ce type a le coeur sur la main !"
+msgstr "Aber er hat ein Herz aus Gold!"
+
+#: game/story/park.dialogue
+msgctxt "t8aac580287"
+msgid "Prêt pour la séance du matin, petit frère ?"
+msgstr "Bereit für dein Morgenworkout, kleiner Bro?"
+
+#: game/story/park.dialogue
+msgctxt "t03bc898a36"
+msgid "J'ai testé tes halteres bricolés..."
+msgstr "Ich habe deine selbstgebastelten Hanteln getestet ..."
+
+#: game/story/park.dialogue
+msgctxt "td0823b6e00"
+msgid "Magnifique, tu as apprécié l'entrainement ?"
+msgstr "Wunderbar! Hat dir das Workout gefallen?"
+
+#: game/story/park.dialogue
+msgctxt "t74e98b436d"
+msgid "Est-ce que tu as souffert ?"
+msgstr "Hast du gelitten?"
+
+#: game/story/park.dialogue
+msgctxt "t6ca6737d5c"
+msgid "Oui, c'était horrible, j'ai tellement de courbatures que même le vent qui souffle sur ma peau me fait mal."
+msgstr ""
+"Ja, es war schrecklich! Ich bin so wund, dass sogar der Wind auf meiner Haut "
+"wehtut."
+
+#: game/story/park.dialogue
+msgctxt "t867169ed4c"
+msgid "Parfait ! C'est maintenant qu'il faut continuer l'entrainement !"
+msgstr "Perfekt! Jetzt ist es an der Zeit, mit dem Training weiterzumachen!"
+
+#: game/story/park.dialogue
+msgctxt "t193b3437a9"
+msgid "Commence à courir petit frere !"
+msgstr "Fang an, zu rennen, kleiner Bro!"
+
+#: game/story/park.dialogue
+msgctxt "te8bf459e6a"
+msgid "Quoi mais... Je en peux p-"
+msgstr "Was?! Aber ... Ich kann nicht-"
+
+#: game/story/park.dialogue
+msgctxt "t26c8a47650"
+msgid "Pitié... Laisse moi un peu d'avance !"
+msgstr "Bitte ... Gib mir einen Vorsprung!"
+
+#: game/story/park.dialogue
+msgctxt "tc8e8abef44"
+msgid "Il me semble que ça parlait de puceaux."
+msgstr "Ich glaube, es ging um Jungfrauen."
+
+#: game/story/park.dialogue
+msgctxt "te86880d03b"
+msgid "Alors, où est-ce que je me suis arrêtée la dernière fois ?"
+msgstr "Also, wo hab’ ich beim letzten Mal aufgehört?"
+
+#: game/story/park.dialogue
+msgctxt "t7e5fe7db85"
+msgid "[i]Chapitre 1 : Le protagoniste[/i]"
+msgstr "[i]Kapitel 1: Der Protagonist[/i]"
+
+#: game/story/park.dialogue
+msgctxt "t876b45800f"
+msgid "[i]Souvent brimé ou ignoré par ses camarades de classes, il est le souffre-douleur, celui qui, inconsciemment, souhaite échapper à ce monde.[/i]"
+msgstr ""
+"[i]Er wird von seinen Klassenkameraden oft gemobbt oder ignoriert. "
+"Unterbewusst wünscht er sich fort von seiner Welt.[/i]"
+
+#: game/story/park.dialogue
+msgctxt "te56294d979"
+msgid "[i]On peut faire un parallèle intéressant sur le fait que plus le personnage est pitoyable, pire sera sa mort.[/i]"
+msgstr ""
+"[i]Hier lässt sich eine interessante Parallele finden: Je armseliger das "
+"Leben des Charakters ist, desto schlimmer ist sein Tod.[/i]"
+
+#: game/story/park.dialogue
+msgctxt "tb130041537"
+msgid "[i]Si le protagoniste n'est pas un collégien/lycéen, alors c'est un adulte déjà intégré dans le monde du travail.[/i]"
+msgstr ""
+"[i]Wenn der Protagonist nicht mehr zur Schule geht, ist er als Erwachsener "
+"bereits in das Arbeitsleben integriert.[/i]"
+
+#: game/story/park.dialogue
+msgctxt "t0f97913154"
+msgid "[i]Lui aussi maltraité par ses supérieurs. Se tuant à la tâche pour ne recevoir aucune considération.[/i]"
+msgstr ""
+"[i]Hier wird er von seinen Vorgesetzten ausgenutzt und muss sich zu Tode "
+"arbeiten, ohne jemals auch nur ein kleines bisschen Anerkennung dafür zu "
+"ernten.[/i]"
+
+#: game/story/park.dialogue
+msgctxt "t7bb80114ca"
+msgid "Eh bien, c'est joyeux tout ça !"
+msgstr "Wow, das klingt ja fröhlich!"
+
+#: game/story/park.dialogue
+msgctxt "te782455d66"
+msgid "[i]Il existe aussi un autre type de personnage principal, les Ikemen.[/i]"
+msgstr "[i]Es gibt auch noch eine andere Art Hauptcharakter: die Ikemen.[/i]"
+
+#: game/story/park.dialogue
+msgctxt "tc783ddd9cd"
+msgid "[i]On peut toutefois remarquer un traitement différent des protagonistes.[/i]"
+msgstr ""
+"[i]Die verschiedenen Arten der Protagonisten werden unterschiedlich "
+"behandelt.[/i]"
+
+#: game/story/park.dialogue
+msgctxt "t1240deab01"
+msgid "[i]Là où le neet devra en général mourir de façon atroce pour être transporté dans le nouveau monde...[/i]"
+msgstr ""
+"[i]Während der Lambda-Charakter oftmals einen kläglichen Tod sterben muss, "
+"um in die neue Welt zu gelangen ...[/i]"
+
+#: game/story/park.dialogue
+msgctxt "t1454015076"
+msgid "[i]L'ikemen ou mâle alpha, lui, serait le plus souvent invoqué, le nouveau monde ayant désespérément besoin de lui.[/i]"
+msgstr ""
+"[i]Werden die Ikemen oder Alpha-Males in der Regel beschworen, wenn die Welt "
+"sie braucht.[/i]"
+
+#: game/story/park.dialogue
+msgctxt "taec96b3628"
+msgid "C'est comme dans la vraie vie, plus tu es moche, plus tu ramasses."
+msgstr "Wie im echten Leben. Je hässlicher du bist, desto mehr leidest du."
+
+#: game/story/park.dialogue
+msgctxt "t680508f854"
+msgid "[font_size=14]C'est ça, ignorez-moi...[/font_size]"
+msgstr "[font_size=14]Ja klar, ignorier mich einfach ...[/font_size]"
+
+#: game/story/park.dialogue
+msgctxt "td5a01c343b"
+msgid "Tu progresses à vue d'œil petit frère."
+msgstr "Du machst große Fortschritte, kleiner Bro."
+
+#: game/story/park.dialogue
+msgctxt "t63f348e22c"
+msgid "N'oublie pas de t'etirer, de boire beaucoup d'eau et de continuer l'entrainement physique en fin de journée !"
+msgstr ""
+"Vergiss nicht, dich zu dehnen und genug zu trinken. Und vernachlässige dein "
+"Krafttraining am Ende des Tages nicht!"
+
+#: game/story/park.dialogue
+msgctxt "t688626c5ef"
+msgid "La prochaine fois on augmentera encore la cadence."
+msgstr "Nächstes Mal werden wir das Tempo nochmal erhöhen."
+
+#: game/story/park.dialogue
+msgctxt "t79409e5af2"
+msgid "Au final... Si j'ai mal, c'est que ça fonctionne."
+msgstr "Wenn es am Ende wehtut, dann nur, weil es funktioniert."
+
+#: game/story/park.dialogue
+msgctxt "tee89129abf"
+msgid "Mais ça fait un mal de chien !"
+msgstr "Aber ich habe höllische Schmerzen!"
