@@ -110,8 +110,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
-"PO-Revision-Date: 2024-12-31 01:24+0000\n"
-"Last-Translator: Natsu <Ivanovst4nist4v@yandex.ru>\n"
+"PO-Revision-Date: 2024-12-31 06:40+0000\n"
+"Last-Translator: Aleksandr <aleksandr-tugai@mail.ru>\n"
 "Language-Team: Russian <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/ru/>\n"
 "Language: ru\n"
@@ -58285,11 +58285,11 @@ msgstr "[url=disclaimer]Назад[/url]"
 
 #: game/scenes/gui/splashscreen.tscn
 msgid "Je gère !"
-msgstr "Да, всё понятно!"
+msgstr "[font_size=10]Да, всё понятно![/font_size]"
 
 #: game/scenes/gui/splashscreen.tscn
 msgid "Sortez-moi d'ici !"
-msgstr "Вытащите меня отсюда!"
+msgstr "[font_size=10]Вытащите меня отсюда![/font_size]"
 
 #: game/story/introduction.dialogue
 msgctxt "intro_cb62efe6"
@@ -75167,7 +75167,7 @@ msgstr "Ну так что, сыграем?"
 #: game/story/arcade_interior.dialogue
 msgctxt "tf1109b6103"
 msgid "Ca me fait plaisir !"
-msgstr "Это делает меня счастливой!"
+msgstr "Это сделает меня счастливым!"
 
 #: game/story/arcade_interior.dialogue
 msgctxt "t551739daa5"
@@ -75223,7 +75223,7 @@ msgstr "Ты всё помнишь?"
 #: game/story/home_minato_hallway.dialogue
 msgctxt "t22d27aabb7"
 msgid "Je n'ai même pas besoins de jouer un rôle, j'ai fais ça toute ma vie."
-msgstr "Мне даже не нужно претворяться. Я занимался этим всю жизнь."
+msgstr "Мне даже не нужно притворяться. Я занимался этим всю жизнь."
 
 #: game/story/home_minato_hallway.dialogue
 msgctxt "t9bd45407ee"
@@ -75335,13 +75335,13 @@ msgstr "Я прекрасно провожу время."
 msgctxt "tcbf1a35c11"
 msgid "Après tout ce qui m'est arrivé dernièrement je pensais ne plus pouvoir prendre mon pied."
 msgstr ""
-"После всего, что случилось со мной в последнее время, я думала, что больше "
-"не смогу получать удовольствие."
+"После всего, что случилось со мной в последнее время, я думал, что больше не "
+"смогу получать удовольствие."
 
 #: game/story/home_minato_hallway.dialogue
 msgctxt "t6a00477153"
 msgid "Mais je suis content de m'être trompé."
-msgstr "Но я рада, что ошиблась."
+msgstr "Но я рад, что ошибался."
 
 #: game/story/home_minato_hallway.dialogue
 msgctxt "t110bce7a33"
@@ -75351,7 +75351,7 @@ msgstr "У тебя получилось?"
 #: game/story/home_minato_hallway.dialogue
 msgctxt "t6b6e749bf2"
 msgid "La graine du doute a bien été plantée au fond d'elle."
-msgstr "Я посадил семя сомнения в неё."
+msgstr "Семя сомнения зародилось глубоко внутри неё."
 
 #: game/story/home_minato_hallway.dialogue
 msgctxt "tee1bcb99e0"
@@ -75487,7 +75487,7 @@ msgstr "Хорошая девочка!"
 #: game/story/amusement_park_exterior.dialogue
 msgctxt "tce9ed5040b"
 msgid "Si tu savais depuis combien de temps j'attends ça !"
-msgstr "Если бы ты только знала, как долго я ждал этого!"
+msgstr "Если бы ты только знал, как долго я ждал этого!"
 
 #: game/story/amusement_park_exterior.dialogue
 msgctxt "t4a526fc865"
@@ -75512,7 +75512,7 @@ msgstr "Без разницы, это сейчас не важно, но вот 
 #: game/story/amusement_park_exterior.dialogue
 msgctxt "tbc51e00296"
 msgid "Je trouve ça tellement idiot de ne laisser entrer que les couples..."
-msgstr "Мне кажется, что глупо впускать сюда только парочки..."
+msgstr "Мне кажется, что глупо впускать сюда только парочек..."
 
 #: game/story/amusement_park_exterior.dialogue
 msgctxt "t8812a69820"
@@ -75757,19 +75757,19 @@ msgstr "Скажи {{netoru.n}} чтобы он сделал фото и пер�
 msgctxt "t6e1ae3014a"
 msgid "Peu importe, arrête de trop y réfléchir et allons nous amuser, mon chéri !"
 msgstr ""
-"В любом случае, не думай об этом и давай немного повеселимся, моя дорогой!"
+"В любом случае, не думай об этом и давай немного повеселимся, мой дорогой!"
 
 #: game/story/amusement_park_interior.dialogue
 msgctxt "t2ef14e25d1"
 msgid "{{sayuri.n}} et {{saito.n}} profitent du parc toute la journée et passent un très bon moment."
 msgstr ""
-"{{sayuri.n}} и {{saito.n}} насладитесь парком и отлично проведите время."
+"{{sayuri.n}} и {{saito.n}} наслаждались парком и отлично проводили время."
 
 #: game/story/amusement_park_interior.dialogue
 msgctxt "tf56f78b5c2"
 msgid "Je remercie mes entraînements de m'avoir aidé, de m'avoir donné la capacité de te suivre aujourd'hui !"
 msgstr ""
-"Я бы хотела поблагодарить свои тренировки за то, что они помогли мне не "
+"Я бы хотел поблагодарить свои тренировки за то, что они помогли мне не "
 "отставать от тебя!"
 
 #: game/story/amusement_park_interior.dialogue
@@ -76860,7 +76860,7 @@ msgstr "Привяжи её к кровати и сделай фото!"
 #: game/story/home_minato_basement.dialogue
 msgctxt "ta281782833"
 msgid "Comment ça ?!!! Qu'est ce qui va m'arriver ?!!"
-msgstr "Что ты имеешь ввиду?! Что со мной будет?!"
+msgstr "Что ты имеешь в виду?! Что со мной будет?!"
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "t67766e1e3b"
@@ -77698,7 +77698,7 @@ msgstr ""
 #: game/story/home_asami_sayuri_room.dialogue
 msgctxt "t7f37abd21f"
 msgid "Maintenant... Je vais régler certaine chose que j'avais mis en attendre depuis bien trop longtemps."
-msgstr "Теперь... Я собираюсь разобраться с тем, что слишком долго откладывал."
+msgstr "Теперь... Я собираюсь разобраться с тем, что слишком долго откладывала."
 
 #: game/story/home_asami_sayuri_room.dialogue
 msgctxt "tb19e54ccda"
@@ -78530,7 +78530,7 @@ msgstr "Блять!"
 #: game/story/home_player_corridor.dialogue
 msgctxt "t583d7b4288"
 msgid "Tu m'as fait peur, je ne m'attendais pas à te trouver là."
-msgstr "Ты напугала меня. Я не ожидал найти тебя тут."
+msgstr "Ты напугала меня. Я не ожидал увидеть тебя тут."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "t00543a8508"
@@ -79714,8 +79714,8 @@ msgstr "Заново открыть для себя это удовольств�
 msgctxt "td2e615574d"
 msgid "Tu m'as comblée de bonheur quand tu t'es occupé de moi, tout ça m'a donné une idée."
 msgstr ""
-"Ты наполнил меня счастьем (и не только), когда помогал и заботился обо мне, "
-"и это натолкнуло меня на мысль."
+"Ты наполнил меня счастьем, когда помогал и заботился обо мне, и это "
+"натолкнуло меня на мысль."
 
 #: game/story/hostess_club_alley.dialogue
 msgctxt "tb1f2c14496"
@@ -79877,7 +79877,7 @@ msgstr "Хммммммм, да![next=8.8]"
 #: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
 msgctxt "t827064d1fa"
 msgid "En effet."
-msgstr "Согласен."
+msgstr "Согласна."
 
 #: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
 msgctxt "t3c19c8622e"
@@ -81167,7 +81167,7 @@ msgstr "Советую тебе заткнуться, иначе я сверну
 #: game/story/restaurant_sakuya_room.dialogue
 msgctxt "t3e69ecf9c2"
 msgid "J'attendais ça depuis tellement longtemps !"
-msgstr "Я так долго ждал этого!"
+msgstr "Я так долго ждала этого!"
 
 #: game/story/restaurant_sakuya_room.dialogue
 msgctxt "t145bb07b76"
@@ -81453,7 +81453,7 @@ msgstr ""
 #: game/story/restaurant_sakuya_room.dialogue
 msgctxt "t1fbf8c5059"
 msgid "J'ai presque hésitée à venir me glisser dans ton lit pendant que tu dormais."
-msgstr "Я почти залезла к тебе в постель, пока ты спишь."
+msgstr "Я почти залезла к тебе в постель, пока ты спал."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "tfe20951b3a"
