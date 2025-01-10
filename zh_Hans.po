@@ -112,7 +112,7 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-07 19:57+0100\n"
-"PO-Revision-Date: 2025-01-10 03:59+0000\n"
+"PO-Revision-Date: 2025-01-10 04:01+0000\n"
 "Last-Translator: WangYu <joestblack@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://translations.teot-studio.com/"
 "projects/goodbye-eternity/game-translation/zh_Hans/>\n"
@@ -61488,7 +61488,7 @@ msgctxt "warehouse_exterior_e906b873"
 msgid ""
 "... Mouais en gros tu t'es pris un râteau et tu as juste du mal à le "
 "digérer..."
-msgstr "……嗯，大概就是你受到了打击，现在还难以接受……"
+msgstr "……嗯，大概就是你受到了打击，而且无论如何都无法接受……"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_6547ca09"
@@ -73109,9 +73109,10 @@ msgid "Mince je crois que j'ai dormis un peu trop longtemps."
 msgstr "该死，我好像睡过头了。"
 
 #: game/story/home_player_saito_room.dialogue
+#, fuzzy
 msgctxt "t9758fa4840"
 msgid "J'espère qu'Asami ne m'en voudra pas trop."
-msgstr "我希望{{Asami }}不会生我气。"
+msgstr "我希望{{asami.n}} 不会生我气。"
 
 #: game/story/home_asami_exterior.dialogue
 msgctxt "tb123e0894d"
