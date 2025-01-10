@@ -112,7 +112,7 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-07 19:57+0100\n"
-"PO-Revision-Date: 2025-01-10 06:34+0000\n"
+"PO-Revision-Date: 2025-01-10 09:14+0000\n"
 "Last-Translator: WangYu <joestblack@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://translations.teot-studio.com/"
 "projects/goodbye-eternity/game-translation/zh_Hans/>\n"
@@ -28681,12 +28681,12 @@ msgstr "等一下……这是不是在生理上不太科学……对吧？"
 #: game/story/park.dialogue
 msgctxt "talk_macumba_9e77b2df"
 msgid "Vous autres Japonais êtes fan du \"Fighting Spirit\", vous aimez vous donner à fond pendant les entrainements !"
-msgstr "你们日本人崇尚“战斗精神”，你得在训练中将它贯彻到底！"
+msgstr "你们日本人崇尚“燃烧热血”，你得在训练中将它贯彻到底！"
 
 #: game/story/park.dialogue
 msgctxt "talk_macumba_17fdc410"
 msgid "Attend... C'est dans les mangas que..."
-msgstr "不是……只有在二次元漫画里面才……"
+msgstr "不是……那个只在少年漫画里面才……"
 
 #: game/story/park.dialogue
 msgctxt "talk_macumba_b5e689ee"
@@ -28711,7 +28711,7 @@ msgstr "一套集《北斗神拳》，《七龙珠》和《黑暗圣经》为一
 #: game/story/park.dialogue
 msgctxt "talk_macumba_0393c2c8"
 msgid "Bible Black ? Mais, c'est pas un putain de shonen ça, mais un foutu hentai !"
-msgstr "等等，最后那个是什么鬼？那他妈不是热血少年漫，那他妈是个黄游！"
+msgstr "等等，最后那个是什么鬼？那他妈不是少年漫，那他妈是个里番！"
 
 #: game/story/park.dialogue
 msgctxt "talk_macumba_3f35ea44"
@@ -36272,7 +36272,7 @@ msgstr "滚开，否则我保证你那张娃娃脸会被放在我那该死的烧
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_bb6b5760"
 msgid "Ahem… Ce n'est pas ce que je voulais d-"
-msgstr "咳……这倒不是我希望看-"
+msgstr "咳……这倒不是我希望看—"
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_7cfc3e89"
@@ -55887,7 +55887,7 @@ msgstr "老人"
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "home_player_exterior"
-msgstr "屋外"
+msgstr "自己家"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
@@ -55942,17 +55942,17 @@ msgstr "公关俱乐部"
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "love_hotel_exterior"
-msgstr "情趣酒店外部"
+msgstr "情趣酒店"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "onsen_exterior"
-msgstr "温泉旅馆外部"
+msgstr "温泉旅馆"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "warehouse_exterior"
-msgstr "仓库外部"
+msgstr "仓库"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
@@ -55967,7 +55967,7 @@ msgstr "公交车站"
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "arcade_exterior"
-msgstr "街机厅外部"
+msgstr "街机厅"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
@@ -56070,7 +56070,7 @@ msgid ""
 msgstr ""
 "收集的数据包括：\n"
 "‐版本号\n"
-"‐玩家偏好（“脱敏”模式）\n"
+"‐玩家设置（“脱敏”模式）\n"
 "‐平台信息（电脑、安卓等）\n"
 "‐构建信息（动画、审查、网络模式等）"
 
@@ -59205,7 +59205,7 @@ msgstr "用户界面"
 
 msgctxt "preferences.variable"
 msgid "mobile_mode"
-msgstr "行动模式"
+msgstr "移动版界面"
 
 msgctxt "preferences.subgroup"
 msgid "Character pubes"
@@ -59302,7 +59302,7 @@ msgstr "跳过位置变更"
 #: game/scenes/gui/game_menu/preferences.tscn
 msgctxt "game_menu.crumbs"
 msgid "PRÉFÉRENCES"
-msgstr "偏好"
+msgstr "设置"
 
 #: game/scenes/gui/game_menu/navigation.tscn
 msgid "MENU PRINCIPAL"
@@ -59356,7 +59356,7 @@ msgstr "返回"
 
 #: game/scenes/gui/game_menu/navigation.tscn
 msgid "PRÉFÉRENCES"
-msgstr "偏好"
+msgstr "设置"
 
 #: game/scenes/gui/game_menu/navigation.tscn
 msgid "SAUVEGARDES"
@@ -59381,7 +59381,7 @@ msgstr "鸣谢"
 
 #: game/scenes/gui/game_menu/navigation.tscn
 msgid "QUITTER"
-msgstr "退出"
+msgstr "关闭游戏"
 
 #: game/scenes/gui/game_menu/preferences.tscn game/scenes/gui/game_menu/galleries/images.tscn
 msgid "GROUP"
@@ -59463,11 +59463,11 @@ msgstr "{minutes}分钟"
 
 #: game/scenes/gui/game_menu/save_button_template.tscn
 msgid "SAUVEGARDER"
-msgstr "存档"
+msgstr "保存"
 
 #: game/scenes/gui/game_menu/save_button_template.tscn
 msgid "CHARGER"
-msgstr "读档"
+msgstr "读取"
 
 #: game/scenes/gui/game_menu/save_button_template.tscn
 msgid "Nom de sauvegarde"
@@ -72010,7 +72010,7 @@ msgstr "[null]"
 
 #: game/scenes/dialogue/vn_game_scene.tscn
 msgid "Préférences"
-msgstr "偏好"
+msgstr "设置"
 
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
