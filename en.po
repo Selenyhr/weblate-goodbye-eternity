@@ -107,22 +107,21 @@
 #
 # FIRST AUTHOR < EMAIL @ADDRESS>, YEAR.
 #
-# SPDX-FileCopyrightText: 2024 Dev Team <info@teot-studio.com>
+# SPDX-FileCopyrightText: 2024, 2025 Dev Team <info@teot-studio.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-20 14:29+0100\n"
-"PO-Revision-Date: 2024-12-22 08:36+0000\n"
-"Last-Translator: Development team <info@teot-studio.com>\n"
-"Language-Team: English <https://translations.teot-studio.com/projects/"
-"goodbye-eternity/game-translation/en/>\n"
+"PO-Revision-Date: 2025-01-13 16:40+0100\n"
+"Last-Translator: Dev Team <info@teot-studio.com>\n"
+"Language-Team: Dev Team\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.17\n"
+"X-Generator: Lokalize 24.12.1\n"
 
 #: game/scenes/cg/noriko/laptop.tscn
 msgid "Demi-Sœur Dépucelle Son Demi-Frère"
@@ -35678,8 +35677,7 @@ msgstr "Good day, ma'am!"
 #: game/story/home_asami_livingroom.dialogue
 msgctxt "home_asami_livingroom_96911a20"
 msgid "Aïe... Madame... Non ! Appelle-moi {{sayuri.n}}, s'il te plaît, sinon je ne m'en remettrai pas !"
-msgstr ""
-"Ouch.. Ma'am... No! Call me {{sayuri.n}}, please, or I won't get over it!"
+msgstr "Ouch.. Ma'am... No! Call me {{sayuri.n}}, please, or I won't get over it!"
 
 #: game/story/home_asami_livingroom.dialogue
 msgctxt "home_asami_livingroom_8222fb18"
@@ -75014,7 +75012,7 @@ msgstr "Meet {{asami.n}} in your bedroom tonight."
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "asami_love_38"
-msgstr "Meet {{asami.n}} in your bedroom tonight."
+msgstr "Meet {{asami.n}} in your bedroom tonight once more."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -75364,7 +75362,7 @@ msgstr "Meet with {{kimochi.n}} at the coffee bar."
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_love_12"
-msgstr "Meet with {{kimochi.n}} at the coffee bar."
+msgstr "Talk to {{yasuka.n}}."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -76024,7 +76022,7 @@ msgstr "Go home without being seen."
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "sakuya_5"
-msgstr "I don't understand anymore. That girl really is an enigma."
+msgstr "Go back to your room."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"

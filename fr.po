@@ -108,13 +108,13 @@
 # FIRST AUTHOR < EMAIL @ADDRESS>, YEAR.
 #
 # SPDX-FileCopyrightText: 2024 Valentin LEGRAND <valentin.legrand4@gmail.com>
-# SPDX-FileCopyrightText: 2024 Dev Team <info@teot-studio.com>
+# SPDX-FileCopyrightText: 2024, 2025 Dev Team <info@teot-studio.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-20 14:29+0100\n"
-"PO-Revision-Date: 2024-12-20 14:32+0100\n"
+"PO-Revision-Date: 2025-01-13 16:40+0100\n"
 "Last-Translator: Dev Team <info@teot-studio.com>\n"
 "Language-Team: Dev Team\n"
 "Language: fr\n"
@@ -122,7 +122,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8-bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Lokalize 24.12.0\n"
+"X-Generator: Lokalize 24.12.1\n"
 
 #: game/scenes/cg/noriko/laptop.tscn
 msgid "Demi-Sœur Dépucelle Son Demi-Frère"
@@ -75005,7 +75005,7 @@ msgstr "Retrouver {{asami.n}} cette nuit dans votre chambre."
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "asami_love_38"
-msgstr "Retrouver {{asami.n}} cette nuit dans votre chambre."
+msgstr "Retrouver {{asami.n}} cette nuit dans votre chambre de nouveau."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -75355,7 +75355,7 @@ msgstr "Retrouver {{kimochi.n}} au coffee bar."
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_love_12"
-msgstr "Retrouver {{kimochi.n}} au coffee bar."
+msgstr "Parler à {{yasuka.n}}."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -76015,7 +76015,7 @@ msgstr "Rentrez chez vous sans vous faire voir."
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "sakuya_5"
-msgstr "Je n'y comprends plus rien, cette fille est une énigme."
+msgstr "Retourner dans votre chambre."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
