@@ -110,8 +110,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
-"PO-Revision-Date: 2024-12-22 20:23+0000\n"
-"Last-Translator: Dogancan Yılmazer <dogancanyilmazer46@gmail.com>\n"
+"PO-Revision-Date: 2025-01-19 15:34+0000\n"
+"Last-Translator: Enes Dinç <enesdinc2005@hotmail.com>\n"
 "Language-Team: Turkish <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/tr/>\n"
 "Language: tr\n"
@@ -74100,3 +74100,56 @@ msgstr "Hey, millet!"
 msgctxt "home_takeo_exterior_c98e1082"
 msgid "Comme quoi... L'habit ne fait pas forcément le moine."
 msgstr "Sanırım kitabı kapağına bakarak yargılamamalısın."
+
+#: game/scenes/gui/gui_start_yasuka.tscn
+msgid "Vous pouvez dès à présent poursuivre l’histoire de {{yasuka.n}}."
+msgstr "Artık {{yasuka.n}}'in hikayesine devam edebilirsiniz."
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "tb222c41a00"
+msgid "Tu es un amour !"
+msgstr "Çok tatlısın!"
+
+#: game/story/love_hotel_reception.dialogue
+msgctxt "t95cd12ef54"
+msgid "Oui !"
+msgstr "Evet!"
+
+#: game/story/home_minato_hallway.dialogue
+msgctxt "t7c25a56e9a"
+msgid "Oui !"
+msgstr "Evet!"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "te5832f1cb8"
+msgid "Enfin..."
+msgstr "Sonunda..."
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "t071ac4e14f"
+msgid "Merci."
+msgstr "Teşekkürler."
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "amusement_park_exterior"
+msgstr "Lunaparkın dış cephesi"
+
+#: game/scenes/gui/gui_start_asami.tscn
+msgid "Vous pouvez dès à présent poursuivre l’histoire d’{{asami.n}}."
+msgstr "Artık {{asami.n}}'in hikayesine devam edebilirsiniz."
+
+#: game/story/home_minato_hallway.dialogue
+msgctxt "t2709a8f1a3"
+msgid "Oui..."
+msgstr "Evet..."
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "t41070439a8"
+msgid "Oui..."
+msgstr "Evet..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "te5946ba32c"
+msgid "Je comprends..."
+msgstr "Anlıyorum."
