@@ -112,7 +112,7 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-01-22 16:14+0100\n"
-"PO-Revision-Date: 2025-01-24 12:01+0000\n"
+"PO-Revision-Date: 2025-01-24 12:41+0000\n"
 "Last-Translator: Roger Miró <puniasterus@gmail.com>\n"
 "Language-Team: Spanish <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/es/>\n"
@@ -4346,7 +4346,7 @@ msgstr "{{noriko.n}}... Oye... ¿Puedo hablar contigo un segundo?"
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_noriko_room_closed_18fae4d1"
 msgid "Je suis à la recherche de mon vieux MP3..."
-msgstr "Estoy buscando mi viejo reproductor MP3..."
+msgstr "Estoy buscando mi viejo Walkman..."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_noriko_room_closed_278e7c99"
@@ -6156,7 +6156,7 @@ msgstr "De acuerdo..."
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_41a61ae0"
 msgid "...Si tu cherches maman, elle est déjà partie !"
-msgstr "... si buscas a mamá, ¡ya se fue!"
+msgstr "...Si buscas a mamá, ¡ya se fue!"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_f0791c35"
@@ -14126,7 +14126,7 @@ msgstr "Voy a tener que encontrar una manera de entrar en [color=yellow]la guari
 #: game/story/home_player_saito_room.dialogue
 msgctxt "t57126a6dfd"
 msgid "Vous récupérez le baladeur MP3."
-msgstr "Recuperas el reproductor mp3"
+msgstr "Recuperas el Walkman."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_80cf7884"
@@ -25894,17 +25894,17 @@ msgstr "Hablar"
 #: game/story/home_player_livingroom.dialogue
 msgctxt "t85a0d68f24"
 msgid "Baladeur MP3"
-msgstr "Reproductor MP3"
+msgstr "Walkman"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "t6ce0e2618b"
 msgid "Baladeur MP3"
-msgstr "Reproductor MP3"
+msgstr "Walkman"
 
 #: game/story/park.dialogue
 msgctxt "t44b4302388"
 msgid "Baladeur MP3"
-msgstr "Reproductor MP3"
+msgstr "Walkman"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "t4170e3a7aa"
@@ -26884,7 +26884,7 @@ msgstr "¿Pasa algo, cariño?"
 #: game/story/home_player_livingroom.dialogue
 msgctxt "talk_yasuka_a05c0847"
 msgid "Rien de grave, je ne retrouve pas mon baladeur MP3, tu ne l'aurais pas vu à tout hasard ?"
-msgstr "Nada serio. No encuentro mi Walkman; ¿lo has visto, por casualidad?"
+msgstr "Nada serio, no encuentro mi Walkman; ¿lo has visto, por casualidad?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "talk_yasuka_d84393ed"
@@ -26949,7 +26949,9 @@ msgstr "¡MIERDAAAA!"
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_326bade1"
 msgid "Ah ! Je sens déjà son taux de sel grimper en flèche ! C'est le moment d'en profiter pour se faufiler discrètement dans sa chambre."
-msgstr "¡Claro que sí, está a dos pasos de un acalorado momento gamer! Es hora de entrar en esa habitación y coger mi walkman."
+msgstr ""
+"¡Claro que sí, está a dos pasos de un acalorado momento gamer! Ahora es el "
+"momento de colarse en su habitación."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_26b72fa2"
@@ -26959,7 +26961,7 @@ msgstr "Maldito router, ¡siempre se cuelga cuando consigo una partida decente!"
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_082170eb"
 msgid "Allez, marche ! BORDEL !"
-msgstr "¡Vamos, funciona! ¡Estuve así de cerca de llegar a Emperador!"
+msgstr "¡Vamos, funciona! ¡MALDITA SEA!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_66940478"
@@ -27014,7 +27016,7 @@ msgstr "Nada importante. Solo quería salir a correr, pero quería hacerlo con m
 #: game/story/home_player_livingroom.dialogue
 msgctxt "talk_yasuka_4de70af0"
 msgid "Oh, je suis désolée, je t'avais emprunté ton baladeur pour ma séance de yoga..."
-msgstr "Oh, lo siento. Tomé prestado tu Walkman para mi sesión de yoga..."
+msgstr "Oh, lo siento. Cogí prestado tu Walkman para mi sesión de yoga..."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "talk_yasuka_11c0ed48"
@@ -46588,7 +46590,8 @@ msgstr "¡Oh, cállate!"
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "pc_noriko_27fe91d9"
 msgid "Si tu t'étais contentée de me répondre dès le départ, on n'en serait pas arrivé là !"
-msgstr "Si me hubieras contestado cuando toque, no estaríamos en esta situación."
+msgstr ""
+"¡Si me hubieras contestado desde el principio, no habríamos llegado a esto!"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "pc_noriko_2b82e184"
@@ -46623,7 +46626,7 @@ msgstr "No sé por qué parece que nunca me tomas en serio... Pero creo que pode
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "pc_noriko_102ef7ee"
 msgid "Va... te... faire foutre !"
-msgstr "¡Vete... a...la mierda...!"
+msgstr "¡Vete... a... la mierda...!"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "pc_noriko_dae531e8"
@@ -46683,7 +46686,7 @@ msgstr "¿Dónde está mi Walkman, {{noriko.n}}?"
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "pc_noriko_cefb0a59"
 msgid "C'est maman qui t'a emprunté le baladeur, pas moi..."
-msgstr "Fue mamá quien tomó prestado el Walkman, no yo..."
+msgstr "Fue mamá quien cogió prestado Walkman, no yo..."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "pc_noriko_d19ce8a2"
@@ -46913,17 +46916,17 @@ msgstr "Bueno, para empezar..."
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "t6dfeb25814"
 msgid "[hint=ROUTE REJET]Donne-moi le baladeur MP3."
-msgstr "[hint=RUTA DEL RECHAZO]Dame el reproductor MP3."
+msgstr "[hint=RUTA DEL RECHAZO]Dame el Walkman."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "t8fc53e68f6"
 msgid "Vous obtenez le baladeur MP3."
-msgstr "Obtienes el reproductor MP3."
+msgstr "Obtienes el Walkman."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "t6a2e1e2138"
 msgid "Vous obtenez le baladeur MP3."
-msgstr "Obtienes el reproductor MP3."
+msgstr "Obtienes el Walkman."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_b81fcf6d"
@@ -62513,7 +62516,7 @@ msgstr "No tienes ni idea de lo que he tenido que pasar para conseguir esto."
 #: game/story/park.dialogue
 msgctxt "t2f68a71796"
 msgid "Vous donnez le baladeur CD à {{macumba.n}}."
-msgstr "Le das el reproductor de CD a {{macumba.n}}."
+msgstr "Le das el Walkman a {{macumba.n}}."
 
 #: game/story/park.dialogue
 msgctxt "talk_macumba_afbb6b1a"
@@ -67527,7 +67530,9 @@ msgstr "¿Tienes problemas?"
 #: game/story/park.dialogue
 msgctxt "menu_macumba_b176c506"
 msgid "Disons que je dois à nouveau remettre à leur place les trois idiots qui m'avaient détruit mon baladeur."
-msgstr "Digamos que tengo que poner en su sitio a los tres idiotas que destrozaron mi reproductor de CD."
+msgstr ""
+"Digamos que tengo que poner en su sitio a los tres idiotas que destrozaron "
+"mi Walkman."
 
 #: game/story/park.dialogue
 msgctxt "menu_macumba_ca2983cf"
@@ -74535,7 +74540,7 @@ msgstr "Tengo que devolver esto a su dueño..."
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_13"
-msgstr "¿Y si le doy a {{macumba.n}} mi viejo reproductor de CD a cambio de entrenamiento?"
+msgstr "¿Y si le doy a {{macumba.n}} mi Walkman a cambio de entrenamiento?"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -74550,7 +74555,7 @@ msgstr "Pide explicaciones a {{noriko.n}}."
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_15_noriko_blackmail_reject"
-msgstr "¡Ve a buscar tu reproductor de CD a la habitación de {{noriko.n}}!"
+msgstr "¡Ve a buscar tu Walkman a la habitación de {{noriko.n}}!"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -74560,32 +74565,32 @@ msgstr "El wifi está en la [color=yellow]sala de estar[/color]."
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_17_noriko_blackmail_reject"
-msgstr "¡Ve a buscar tu reproductor de CD a la habitación de {{noriko.n}}!"
+msgstr "¡Ve a buscar tu Walkman a la habitación de {{noriko.n}}!"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_17_noriko_femdom_maledom"
-msgstr "Busca en la habitación de {{noriko.n}} y encuentra el reproductor MP3."
+msgstr "Busca en la habitación de {{noriko.n}} y encuentra el Walkman."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_18_noriko_blackmail_reject"
-msgstr "¡Ve a buscar tu reproductor de CD a la habitación de {{noriko.n}}!"
+msgstr "¡Ve a buscar tu Walkman a la habitación de {{noriko.n}}!"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_18_noriko_femdom_maledom"
-msgstr "Ve a buscar a {{yasuka.n}} para recuperar el reproductor de CD."
+msgstr "Ve a buscar a {{yasuka.n}} para recuperar el Walkman."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_19_noriko_femdom_maledom"
-msgstr "Consigue el reproductor de CD y ve a ver a {{macumba.n}}."
+msgstr "Consigue el Walkman y ve a ver a {{macumba.n}}."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_19_1_noriko_femdom_maledom"
-msgstr "Consigue el reproductor de CD y ve a ver a {{macumba.n}}."
+msgstr "Consigue el Walkman y ve a ver a {{macumba.n}}."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
