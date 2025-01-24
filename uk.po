@@ -112,14 +112,16 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-01-22 16:14+0100\n"
-"PO-Revision-Date: 2025-01-01 04:19+0000\n"
+"PO-Revision-Date: 2025-01-25 00:24+0000\n"
 "Last-Translator: veydzh3r <veydzherdgswift008@gmail.com>\n"
-"Language-Team: Ukrainian <https://translations.teot-studio.com/projects/goodbye-eternity/game-translation/uk/>\n"
+"Language-Team: Ukrainian <https://translations.teot-studio.com/projects/"
+"goodbye-eternity/game-translation/uk/>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8-bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 4.17\n"
 
 #: game/scenes/cg/noriko/laptop.tscn
@@ -74828,12 +74830,12 @@ msgstr "Я маю покращити свій фізичний стан, якщ�
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "chef_2"
-msgstr "Завдяки {{sakuya.n}} ще є надія. Я повинен продовжувати тренуватися."
+msgstr "[null]"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_50"
-msgstr "Чорт, я занадто довго тягнув час. Я вже запізнююся на свій перший день."
+msgstr "Краще піду посплю. Уже завтра зустріну {{asami.n}}."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -75348,7 +75350,7 @@ msgstr "Зустрінься з {{kimochi.n}} у кав'ярні."
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_love_12"
-msgstr "Зустрінься з {{kimochi.n}} у кав'ярні."
+msgstr "Поговорити з {{yasuka.n}}."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
