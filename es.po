@@ -112,7 +112,7 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-01-22 16:14+0100\n"
-"PO-Revision-Date: 2025-01-27 09:45+0000\n"
+"PO-Revision-Date: 2025-01-27 16:52+0000\n"
 "Last-Translator: Roger Miró <puniasterus@gmail.com>\n"
 "Language-Team: Spanish <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/es/>\n"
@@ -8440,7 +8440,7 @@ msgstr "[font_size=14]Queremos hacernos más fuertes.[/font_size]"
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_ce60f9c2"
 msgid "Pardon ?! Tu peux répéter ? Je crois que j'ai mal compris."
-msgstr "¡¿Perdona?! ¿Podrías repetirlo Creo que lo he entendido mal."
+msgstr "¡¿Perdona?! ¿Podrías repetirlo? Creo que lo he entendido mal."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_6aba7299"
@@ -51321,7 +51321,8 @@ msgstr "Si, p-"
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_c9dd0846"
 msgid "{{saito.n}} ne dis plus rien, je t'ai souvent aidé maintenant c'est mon tour."
-msgstr "{saito.n}} no digas nada más, te he ayudado muchas veces, ahora es mi turno."
+msgstr ""
+"{{saito.n}} no digas nada más, te he ayudado muchas veces, ahora es mi turno."
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_e7793bd5"
@@ -51331,7 +51332,7 @@ msgstr "¡Quiero unirme!"
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_567db389"
 msgid "Si tu veux mais tu te fais des idées si tu penses que {{noriko.n}} te..."
-msgstr "Si quieres, pero te estás engañando si crees que {{noriko.n}} lo hará..."
+msgstr "Como quieras, pero te estás engañando si crees que {{noriko.n}}..."
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_25cc286d"
@@ -51456,7 +51457,9 @@ msgstr "Al final... no pareces tan malo después de todo."
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_0e48caf3"
 msgid "{{saito.n}} tu dois suivre {{noriko.n}} jour et nuit, nous devons tout savoir d'elle, je t'apprendrai à stalker comme un pro."
-msgstr "{{saito.n}}, tienes que seguir a {{noriko.n}} día y noche, becesitamos saber todo sobre ella, te enseñaré a acechar como un profesional."
+msgstr ""
+"{{saito.n}}, tienes que seguir a {{noriko.n}} día y noche, necesitamos saber "
+"todo sobre ella, te enseñaré a acechar como un profesional."
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_c3789aff"
@@ -76917,7 +76920,7 @@ msgstr "Ve al konbini."
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "noriko_maledom_23"
-msgstr "Entrer dans le konbini à la recherche d'informations."
+msgstr "Entra en el konbini en busca de información."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
