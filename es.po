@@ -112,7 +112,7 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-01-22 16:14+0100\n"
-"PO-Revision-Date: 2025-02-02 09:40+0000\n"
+"PO-Revision-Date: 2025-02-02 10:12+0000\n"
 "Last-Translator: Roger Miró <puniasterus@gmail.com>\n"
 "Language-Team: Spanish <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/es/>\n"
@@ -15241,7 +15241,7 @@ msgstr "¡Como órdenes!"
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_52190cc4"
 msgid "Allonge-toi, c'est moi qui m'occupe de tout."
-msgstr "Túmbate. Me encargaré de todo."
+msgstr "Túmbate, me encargaré de todo."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_56476ac3"
@@ -15586,7 +15586,7 @@ msgstr "No quiero dejarte."
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_92203f8a"
 msgid "Tu es ici chez toi, tu veux revenir ce soir ?"
-msgstr "Siempre eres bienvenido aquí. ¿Quieres volver esta noche?"
+msgstr "Siempre eres bienvenida aquí. ¿Quieres volver esta noche?"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_6dd50818"
@@ -38296,7 +38296,7 @@ msgstr "...[w] ¡Oh, eso huele a muchos problemas!"
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "kimochi_password_e428e16e"
 msgid "...[w] Mouais, tu veux encore m'attirer des ennuis."
-msgstr "...[w] Sí, me vas a meter en problemas otra vez."
+msgstr "...[w]Sí, me vas a meter en problemas otra vez."
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "kimochi_password_2781d76a"
@@ -66468,7 +66468,7 @@ msgstr "¿Siempre eres tan impaciente?"
 #: game/story/park.dialogue
 msgctxt "asami_choice_95971beb"
 msgid "C'est bon, j'arrive !"
-msgstr "¡Muy bien, aquí estoy!"
+msgstr "¡Muy bien, ya voy!"
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_625d743b"
@@ -66508,12 +66508,12 @@ msgstr "¡Ah, me estoy corriendo! ¡Puedo sentirlo!"
 #: game/story/park.dialogue
 msgctxt "t74a86a16ab"
 msgid "À l'intérieur"
-msgstr "Interior"
+msgstr "Dentro"
 
 #: game/story/park.dialogue
 msgctxt "td574267a43"
 msgid "À l'intérieur"
-msgstr "Interior"
+msgstr "Dentro"
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_671a76be"
@@ -66543,12 +66543,12 @@ msgstr "Por cierto, ya que estamos en el tema..."
 #: game/story/park.dialogue
 msgctxt "t74375ac8c0"
 msgid "À l'extérieur."
-msgstr "Afuera."
+msgstr "Fuera"
 
 #: game/story/park.dialogue
 msgctxt "t7ce6bae3c8"
 msgid "À l'extérieur."
-msgstr "Afuera."
+msgstr "Fuera"
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_ded4305a"
@@ -74565,12 +74565,12 @@ msgstr "Parque de atracciones (Interior)"
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "arcade_interior"
-msgstr "Arcade (interior)"
+msgstr "Arcade (Interior)"
 
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "konbini_interior"
-msgstr "Konbini (interior)"
+msgstr "Konbini (Interior)"
 
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
@@ -74640,7 +74640,7 @@ msgstr "Casa de {{sayuri.n}}"
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "restaurant_interior"
-msgstr "Restaurante (interior)"
+msgstr "Restaurante (Interior)"
 
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
@@ -75567,17 +75567,17 @@ msgstr "Espera a que {{yasuka.n}} vuelva a casa."
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_love_6"
-msgstr "Vuelve a la tienda mañana por el anochecer."
+msgstr "Vuelve a la cafetería mañana por la tarde."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_love_7"
-msgstr "Vuelve a la tienda mañana por el anochecer."
+msgstr "Vuelve a la cafetería mañana por la tarde."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_love_8"
-msgstr "Vuelve a la tienda mañana por el anochecer."
+msgstr "Vuelve a la cafetería mañana por la tarde."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -75642,7 +75642,9 @@ msgstr "Acompaña a {{yasuka.n}} a casa sana y salva."
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_love_21"
-msgstr "Vuelve a la tienda mañana por la mañana para traer la dimisión de {{yasuka.n}}."
+msgstr ""
+"Vuelve a la cafetería mañana por la mañana para traer la dimisión de {{yasuka"
+".n}}."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -75657,12 +75659,12 @@ msgstr "Dile a {{netoru.n}} que {{yasuka.n}} no volverá."
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_love_24"
-msgstr "Reemplaza a {{yasuka.n}} en la tienda."
+msgstr "Reemplaza a {{yasuka.n}} en la cafetería."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_love_25"
-msgstr "Reemplaza a {{yasuka.n}} en la tienda."
+msgstr "Reemplaza a {{yasuka.n}} en la cafetería."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -75672,7 +75674,7 @@ msgstr "Vete a casa y cuéntale a {{yasuka.n}} cómo te ha ido el día."
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_love_27"
-msgstr "Vuelve a la tienda mañana por la mañana."
+msgstr "Vuelve a la cafetería mañana por la mañana."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -75737,7 +75739,7 @@ msgstr "Es tarde. Hora de dormir."
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_love_38_1"
-msgstr "Vuelve a trabajar en la tienda."
+msgstr "Vuelve a trabajar en la cafetería."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -75767,7 +75769,7 @@ msgstr "Ya es hora de ir a dormir y reflexionar sobre todo lo que te ha pasado."
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_love_43"
-msgstr "Vuelve a trabajar en la tienda."
+msgstr "Vuelve a trabajar en la cafetería."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
