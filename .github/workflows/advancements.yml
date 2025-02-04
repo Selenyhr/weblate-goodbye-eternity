@@ -1,0 +1,32 @@
+name: Generate advancements
+
+on:
+  #push:
+  #  branches: [ "main" ]
+  #  paths: [ "*.po" ]
+
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Install `translate-toolkit`
+        run: |
+          sudo apt-get update
+          sudo apt-get install translate-toolkit
+          
+      - name: Checkout project
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref }}
+
+      - name: Generate advancements file
+        run: pocount --no-color --short-strings *.po > advancements.txt
+
+      - name: Autocommit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
