@@ -1,9 +1,9 @@
 name: Generate advancements
 
 on:
-  #push:
-  #  branches: [ "main" ]
-  #  paths: [ "*.po" ]
+  push:
+    branches: [ "main" ]
+    paths: [ "*.po" ]
 
   workflow_dispatch:
 
