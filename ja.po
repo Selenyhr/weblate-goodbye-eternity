@@ -2,9 +2,10 @@ msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-01-22 16:14+0100\n"
-"PO-Revision-Date: 2024-04-20 16:15+0000\n"
+"PO-Revision-Date: 2025-02-14 21:57+0000\n"
 "Last-Translator: Hexin <kazusa7512@gmail.com>\n"
-"Language-Team: Japanese <https://translations.teot-studio.com/projects/goodbye-eternity/game-translation/ja/>\n"
+"Language-Team: Japanese <https://translations.teot-studio.com/projects/"
+"goodbye-eternity/game-translation/ja/>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -82,7 +83,7 @@ msgstr "紀子"
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Yasuka"
-msgstr ""
+msgstr "安香"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
@@ -92,7 +93,7 @@ msgstr "千秋"
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Minato"
-msgstr ""
+msgstr "水人"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
@@ -102,7 +103,7 @@ msgstr "マクンバ"
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Natsume"
-msgstr ""
+msgstr "夏夢"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
@@ -132,12 +133,12 @@ msgstr "ケンジ"
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Takeo"
-msgstr "タケオ"
+msgstr "健男"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Nobu"
-msgstr "ノブ"
+msgstr "信夫"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
@@ -286,11 +287,11 @@ msgstr ""
 
 #: game/scenes/gui/gui_start_asami.tscn
 msgid "Vous avez fait le choix de vous lier [color=yellow]d'amitié[/color]."
-msgstr ""
+msgstr "あなたは彼女と[color=yellow]友達[/color]になる道を選んだ。"
 
 #: game/scenes/gui/gui_start_asami.tscn
 msgid "Vous avez fait le choix de la [color=yellow]corrompre[/color]."
-msgstr ""
+msgstr "あなたは彼女を[color=yellow]堕落/color]させる道を選んだ。"
 
 #: game/scenes/gui/gui_start_asami.tscn
 msgid "Vous avez fait le choix de [color=yellow]rester amis[/color]."
@@ -302,19 +303,20 @@ msgstr "分かった"
 
 #: game/scenes/gui/gui_start_sakuya.tscn
 msgid "SAKUYA"
-msgstr ""
+msgstr "咲夜"
 
 #: game/scenes/gui/gui_start_sakuya.tscn
 msgid "Vous pouvez dès à présent poursuivre l’histoire de {{sakuya.n}}."
-msgstr "これより{{sakuya.n}}のストーリーに続きます。"
+msgstr "これから先は{{sakuya.n}}のストーリーに続きます。"
 
 #: game/scenes/gui/gui_start_sakuya.tscn
 msgid "Vous avez fait des choix tout au long de votre aventure, peu importe qu'ils soient bons ou mauvais. {{sakuya.n}} vous les fera assumer."
-msgstr ""
+msgstr "良かれ悪しかれ、あなたは冒険を通じて選択をしてきた。{{sakuya."
+"n}}にその落とし前をつけることになるだろう。"
 
 #: game/scenes/gui/gui_start_yasuka.tscn
 msgid "YASUKA"
-msgstr ""
+msgstr "安香"
 
 #: game/scenes/gui/gui_start_yasuka.tscn
 msgid "Vous pouvez dès à présent poursuivre l’histoire de {{yasuka.n}}."
@@ -371,26 +373,26 @@ msgstr "[url=disclaimer]戻る[/url]"
 
 #: game/scenes/gui/splashscreen.tscn
 msgid "Je gère !"
-msgstr ""
+msgstr "やってやる！"
 
 #: game/scenes/gui/splashscreen.tscn
 msgid "Sortez-moi d'ici !"
-msgstr ""
+msgstr "ここから出してくれ！"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_unavailable_6f3cbfbc"
 msgid "Forcement, c'est fermé à cette heure-ci..."
-msgstr ""
+msgstr "こんな時間じゃ当然閉まってるな…"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_ec2adc19"
 msgid "On se verra ce soir à la maison."
-msgstr ""
+msgstr "夜にお家で会いましょう。"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_f7a2c8ca"
 msgid "Passe une bonne journée mon chéri."
-msgstr ""
+msgstr "良い一日を過ごしてね。"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_7b2c5ef2"
