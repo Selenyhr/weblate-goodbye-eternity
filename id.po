@@ -112,8 +112,8 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-01-22 16:14+0100\n"
-"PO-Revision-Date: 2025-02-14 21:57+0000\n"
-"Last-Translator: Kayee <rifkyaryahardian49@gmail.com>\n"
+"PO-Revision-Date: 2025-02-19 15:32+0000\n"
+"Last-Translator: Xtpn Wllm <stevenwilliam.wu@gmail.com>\n"
 "Language-Team: Indonesian <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/id/>\n"
 "Language: id\n"
@@ -233,32 +233,32 @@ msgstr ""
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Akira"
-msgstr ""
+msgstr "Akira"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Kenji"
-msgstr ""
+msgstr "Kenji"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Takeo"
-msgstr ""
+msgstr "Takeo"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Nobu"
-msgstr ""
+msgstr "Nobu"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Netoru"
-msgstr ""
+msgstr "Netoru"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Sayuri"
-msgstr ""
+msgstr "Sayuri"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
@@ -273,17 +273,17 @@ msgstr ""
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "dojo_exterior"
-msgstr ""
+msgstr "Dojo"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "park"
-msgstr ""
+msgstr "Taman"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "restaurant_exterior"
-msgstr ""
+msgstr "Restoran"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
@@ -293,22 +293,22 @@ msgstr ""
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "home_minato_exterior"
-msgstr ""
+msgstr "Rumah {{minato.n}}"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "home_asami_exterior"
-msgstr ""
+msgstr "Rumah {{asami.n}}"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "home_kimochi_exterior"
-msgstr ""
+msgstr "Rumah {{kimochi.n}}"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "home_natsume_exterior"
-msgstr ""
+msgstr "Rumah {{natsume.n}}"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
@@ -343,7 +343,7 @@ msgstr ""
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "bus_stop"
-msgstr ""
+msgstr "Halte bus"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
@@ -358,17 +358,17 @@ msgstr ""
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "home_kenji_exterior"
-msgstr ""
+msgstr "Rumah {{kenji.n}}"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "home_nobu_exterior"
-msgstr ""
+msgstr "Rumah {{nobu.n}}"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "home_takeo_exterior"
-msgstr ""
+msgstr "Rumah {{takeo.n}}"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
@@ -377,19 +377,19 @@ msgstr ""
 
 #: game/scenes/gui/gui_location.tscn
 msgid "Lundi"
-msgstr ""
+msgstr "Senin"
 
 #: game/scenes/gui/gui_location.tscn
 msgid "¥ "
-msgstr ""
+msgstr "¥ "
 
 #: game/scenes/gui/gui_location.tscn
 msgid "0123456789"
-msgstr ""
+msgstr "0123456789"
 
 #: game/scenes/gui/gui_start_asami.tscn
 msgid "ASAMI"
-msgstr ""
+msgstr "ASAMI"
 
 #: game/scenes/gui/gui_start_asami.tscn
 msgid "Vous pouvez dès à présent poursuivre l’histoire d’{{asami.n}}."
@@ -413,7 +413,7 @@ msgstr ""
 
 #: game/scenes/gui/gui_start_sakuya.tscn
 msgid "SAKUYA"
-msgstr ""
+msgstr "SAKUYA"
 
 #: game/scenes/gui/gui_start_sakuya.tscn
 msgid "Vous pouvez dès à présent poursuivre l’histoire de {{sakuya.n}}."
