@@ -113,7 +113,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-01-22 16:14+0100\n"
 "PO-Revision-Date: 2025-02-21 20:54+0000\n"
-"Last-Translator: T63Blacknight <shop@tegmen.de>\n"
+"Last-Translator: Marius Wehner <marius-wehner@gmx.de>\n"
 "Language-Team: German <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/de/>\n"
 "Language: de\n"
@@ -401,7 +401,7 @@ msgstr "Du hast dich entschieden, dich mit ihr [color=yellow]anzufreunden[/color
 
 #: game/scenes/gui/gui_start_asami.tscn
 msgid "Vous avez fait le choix de la [color=yellow]corrompre[/color]."
-msgstr "Du hast dich entschieden, sie zu [color=yellow]korrumpieren[/color]."
+msgstr "Du hast dich entschieden sie zu [color=yellow]verderben[/color]."
 
 #: game/scenes/gui/gui_start_asami.tscn
 msgid "Vous avez fait le choix de [color=yellow]rester amis[/color]."
@@ -467,15 +467,17 @@ msgid ""
 "- informations de plateforme (Windows, Android, etc.)\n"
 "- informations de build (animations, censure, mode web, etc.)"
 msgstr ""
-"Die gesammelten Daten umfassen:\n"
+"Die Datensammlung beinhaltet:\n"
 "- aktuelle Versionsnummer\n"
-"- Spielerpräferenzen\n"
-"- Plattforminformationen (Windows, Android usw.)\n"
-"- Build-Informationen (Animationen, Zensur, Webmodus usw.)"
+"- Spielerpräferenzen (\"Kartoffel\" Modus)\n"
+"- Plattform Informationen (Windows, Android, etc.)\n"
+"- Versionsinformationen (Animationen, Zensur, Web-Modus, etc.)"
 
 #: game/scenes/gui/splashscreen.tscn
 msgid "Ces données seront recueillies après acceptation de ces termes, et ne contiennent pas d'identifiant direct ni informations externes au jeu."
-msgstr "Diese Daten werden nach Annahme dieser Bedingungen gesammelt und enthalten keine direkten Identifikatoren oder Informationen außerhalb des Spiels."
+msgstr ""
+"Diese Daten werden nach akzeptieren der Bedingungen gesammelt und beinhalten "
+"keine direkten Identifikationen oder Informationen außerhalb des Spiels."
 
 #: game/scenes/gui/splashscreen.tscn
 msgid "[url=disclaimer]Retour[/url]"
@@ -487,17 +489,17 @@ msgstr "Das krieg’ ich hin!"
 
 #: game/scenes/gui/splashscreen.tscn
 msgid "Sortez-moi d'ici !"
-msgstr "Bring mich hier raus!"
+msgstr "Hol mich hier raus!"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_unavailable_6f3cbfbc"
 msgid "Forcement, c'est fermé à cette heure-ci..."
-msgstr "Natürlich, zu dieser Zeit ist es geschlossen ..."
+msgstr "Natürlich, geschlossen..."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_ec2adc19"
 msgid "On se verra ce soir à la maison."
-msgstr "Wir sehen uns heute Abend zu Hause."
+msgstr "Wir sehen uns heute Abend Zuhause."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_f7a2c8ca"
