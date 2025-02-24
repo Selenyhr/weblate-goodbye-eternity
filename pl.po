@@ -112,8 +112,8 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-01-22 16:14+0100\n"
-"PO-Revision-Date: 2025-02-24 15:06+0000\n"
-"Last-Translator: piotr sosna <kamik.polon@gmail.com>\n"
+"PO-Revision-Date: 2025-02-24 15:07+0000\n"
+"Last-Translator: Paweł Mat <pawel_mati@interia.pl>\n"
 "Language-Team: Polish <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/pl/>\n"
 "Language: pl\n"
@@ -80220,7 +80220,7 @@ msgstr "Pełna opalenizna"
 #: game/scenes/gui/game_menu/galleries/movies.tscn
 msgctxt "galleries.movies.hints"
 msgid "Corrompre {{asami.n}}."
-msgstr "Skorumpowany {{asami.n}}."
+msgstr "Skorumpuj {{asami.n}}."
 
 #: game/scenes/gui/game_menu/galleries/movies.tscn
 msgctxt "galleries.movies.hints"
@@ -80230,17 +80230,18 @@ msgstr ""
 #: game/scenes/gui/game_menu/galleries/movies.tscn
 msgctxt "galleries.movies.hints"
 msgid "Faire chanter {{noriko.n}}."
-msgstr ""
+msgstr "szantażuj {{noriko.n}}."
 
 #: game/scenes/gui/game_menu/galleries/movies.tscn
 msgctxt "galleries.movies.hints"
 msgid "Ne pas rejeter {{noriko.n}}."
-msgstr ""
+msgstr "Nie odrzucaj {{noriko.n}}."
 
 #: game/scenes/gui/game_menu/galleries/movies.tscn
+#, fuzzy
 msgctxt "galleries.movies.hints"
 msgid "Suivre l'histoire de {{yasuka.n}}."
-msgstr ""
+msgstr "Śledź historię {{sakuya.n}}."
 
 #: game/scenes/gui/game_menu/galleries/movies.tscn
 msgctxt "galleries.movies.attribute"
