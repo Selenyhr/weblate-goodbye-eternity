@@ -113,7 +113,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-01-22 16:14+0100\n"
 "PO-Revision-Date: 2025-02-24 14:15+0000\n"
-"Last-Translator: Kacper <kondi0606@gmail.com>\n"
+"Last-Translator: Paweł Mat <pawel_mati@interia.pl>\n"
 "Language-Team: Polish <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/pl/>\n"
 "Language: pl\n"
@@ -126,11 +126,11 @@ msgstr ""
 
 #: game/scenes/cg/noriko/laptop.tscn
 msgid "Demi-Sœur Dépucelle Son Demi-Frère"
-msgstr ""
+msgstr "Przyrodnia siostra rozdziewicza przyrodniego brata"
 
 #: game/scenes/cg/noriko/laptop.tscn
 msgid "Demi-Sœur Se Fait Prendre Dans Son Sommeil Par Son Demi-Frère"
-msgstr ""
+msgstr "Przyrodnia siostra zerżnięta podczas snu przez przyrodniego brata"
 
 #: core/scripts/clock.gd
 msgid "morning"
@@ -183,64 +183,54 @@ msgid "Saito"
 msgstr "Saito"
 
 #: game/scripts/variables/character_names.gd
-#, fuzzy
 msgctxt "character_default_name"
 msgid "Asami"
 msgstr "Asami"
 
 #: game/scripts/variables/character_names.gd
-#, fuzzy
 msgctxt "character_default_name"
 msgid "Noriko"
 msgstr "Noriko"
 
 #: game/scripts/variables/character_names.gd
-#, fuzzy
 msgctxt "character_default_name"
 msgid "Yasuka"
 msgstr "Yasuka"
 
 #: game/scripts/variables/character_names.gd
-#, fuzzy
 msgctxt "character_default_name"
 msgid "Chiaki"
 msgstr "Chiaki"
 
 #: game/scripts/variables/character_names.gd
-#, fuzzy
 msgctxt "character_default_name"
 msgid "Minato"
 msgstr "Minato"
 
 #: game/scripts/variables/character_names.gd
-#, fuzzy
 msgctxt "character_default_name"
 msgid "Macumba"
-msgstr "Macumba"
+msgstr "Makumba"
 
 #: game/scripts/variables/character_names.gd
-#, fuzzy
 msgctxt "character_default_name"
 msgid "Natsume"
 msgstr "Natsume"
 
 #: game/scripts/variables/character_names.gd
-#, fuzzy
 msgctxt "character_default_name"
 msgid "Sakuya"
 msgstr "Sakuya"
 
 #: game/scripts/variables/character_names.gd
-#, fuzzy
 msgctxt "character_default_name"
 msgid "Kimochi"
 msgstr "Kimochi"
 
 #: game/scripts/variables/character_names.gd
-#, fuzzy
 msgctxt "character_default_name"
 msgid "Chef"
-msgstr "Chef"
+msgstr "Szef Kuchni"
 
 #: game/scripts/variables/character_names.gd
 #, fuzzy
@@ -1033,7 +1023,6 @@ msgid "Je comprends mieux pourquoi elle était prête à accepter ce travail d'h
 msgstr "Teraz mam pojęcie, dlaczego była gotowa przyjąć tę pracę jako hostessa."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
-#, fuzzy
 msgctxt "talk_yasuka_09f7daef"
 msgid "Ce mec a l'air d'être un véritable connard."
 msgstr "Mam na myśli, że ten facet wygląda jak prawdziwy dupek."
