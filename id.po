@@ -112,7 +112,7 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-01-22 16:14+0100\n"
-"PO-Revision-Date: 2025-02-25 15:10+0000\n"
+"PO-Revision-Date: 2025-03-04 20:52+0000\n"
 "Last-Translator: hydroox <hydrooxygen31102000@gmail.com>\n"
 "Language-Team: Indonesian <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/id/>\n"
@@ -340,7 +340,7 @@ msgstr ""
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "canal"
-msgstr ""
+msgstr "Sungai"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
@@ -375,7 +375,7 @@ msgstr "Rumah {{takeo.n}}"
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "amusement_park_exterior"
-msgstr ""
+msgstr "Depan Taman Hiburan"
 
 #: game/scenes/gui/gui_location.tscn
 msgid "Lundi"
@@ -394,20 +394,21 @@ msgid "ASAMI"
 msgstr "ASAMI"
 
 #: game/scenes/gui/gui_start_asami.tscn
+#, fuzzy
 msgid "Vous pouvez dès à présent poursuivre l’histoire d’{{asami.n}}."
-msgstr ""
+msgstr "Sekarang kamu bisa melanjutkan cerita"
 
 #: game/scenes/gui/gui_start_asami.tscn
 msgid "Vous avez fait le choix de vous lier [color=yellow]d'amitié[/color]."
-msgstr ""
+msgstr "Kamu memilih untuk [color=yellow]berteman[/color] dengannya."
 
 #: game/scenes/gui/gui_start_asami.tscn
 msgid "Vous avez fait le choix de la [color=yellow]corrompre[/color]."
-msgstr ""
+msgstr "Kamu memilih untuk [color=yellow]merusak[/color] dirinya."
 
 #: game/scenes/gui/gui_start_asami.tscn
 msgid "Vous avez fait le choix de [color=yellow]rester amis[/color]."
-msgstr ""
+msgstr "Kamu memilih untuk [color=yellow]tetap berteman[/color] dengannya."
 
 #: game/scenes/gui/gui_start_asami.tscn game/scenes/gui/gui_start_sakuya.tscn game/scenes/gui/gui_start_yasuka.tscn
 msgid "J'ai compris"
@@ -419,7 +420,7 @@ msgstr "SAKUYA"
 
 #: game/scenes/gui/gui_start_sakuya.tscn
 msgid "Vous pouvez dès à présent poursuivre l’histoire de {{sakuya.n}}."
-msgstr ""
+msgstr "Sekarang kamu dapat meneruskan cerita {{sakuya.n}}'s ."
 
 #: game/scenes/gui/gui_start_sakuya.tscn
 msgid "Vous avez fait des choix tout au long de votre aventure, peu importe qu'ils soient bons ou mauvais. {{sakuya.n}} vous les fera assumer."
