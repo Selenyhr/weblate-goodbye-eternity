@@ -112,8 +112,8 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-01-22 16:14+0100\n"
-"PO-Revision-Date: 2025-03-04 20:52+0000\n"
-"Last-Translator: Xtpn Wllm <stevenwilliam.wu@gmail.com>\n"
+"PO-Revision-Date: 2025-03-06 14:52+0000\n"
+"Last-Translator: hydroox <hydrooxygen31102000@gmail.com>\n"
 "Language-Team: Indonesian <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/id/>\n"
 "Language: id\n"
@@ -428,7 +428,7 @@ msgstr ""
 
 #: game/scenes/gui/gui_start_yasuka.tscn
 msgid "YASUKA"
-msgstr ""
+msgstr "YASUKA"
 
 #: game/scenes/gui/gui_start_yasuka.tscn
 msgid "Vous pouvez dès à présent poursuivre l’histoire de {{yasuka.n}}."
@@ -451,14 +451,19 @@ msgid ""
 "Pendant votre aventure, vos choix impacteront votre entourage, si vous rejetez plusieurs fois un personnage attendez vous a ce qu’il aille voir ailleurs. Tout ceci dans le but de garder une "
 "certaine cohérence avec le monde réel."
 msgstr ""
+"Dalam perjalananmu, pilihanmu akan berpengaruh pada orang disekitarmu. Jika "
+"kamu menolak karakter beberapa kali, mereka mungkin akan berpaling kepada "
+"orang lain. Ini dilakukan demi menjaga Konsistensi dengan dunia sesungguhnya."
 
 #: game/scenes/gui/splashscreen.tscn
 msgid "Vos actions auront des conséquences..."
-msgstr ""
+msgstr "Tindakanmu akan memiliki konsekuensi…"
 
 #: game/scenes/gui/splashscreen.tscn
 msgid "[fill]Certaines [url=data]données anonymes[/url] peuvent être récoltées pour améliorer l'expérience de jeu.[/fill]"
 msgstr ""
+"[fill]Beberapa [url=data]data anonim[/url] mungkin akan di ambil untuk "
+"meningkatkan kualitas bermain anda.[/fill]"
 
 #: game/scenes/gui/splashscreen.tscn
 msgid ""
@@ -468,10 +473,18 @@ msgid ""
 "- informations de plateforme (Windows, Android, etc.)\n"
 "- informations de build (animations, censure, mode web, etc.)"
 msgstr ""
+"Data yang diambil termasuk:\n"
+"- nomor versi sekarang\n"
+"- prefrensi player (mode \"kentang\")\n"
+"- informasi platform (Windows, Android, etc.)\n"
+"- informasi build (animations, censorship, web mode, etc.)"
 
 #: game/scenes/gui/splashscreen.tscn
 msgid "Ces données seront recueillies après acceptation de ces termes, et ne contiennent pas d'identifiant direct ni informations externes au jeu."
 msgstr ""
+"Data ini akan diambil setelah anda menyetujui ketentuan ini, dan pengambilan "
+"ini tidak memiliki data pengenal langsung maupun informasi eksternal "
+"terhadap game."
 
 #: game/scenes/gui/splashscreen.tscn
 msgid "[url=disclaimer]Retour[/url]"
@@ -479,56 +492,56 @@ msgstr ""
 
 #: game/scenes/gui/splashscreen.tscn
 msgid "Je gère !"
-msgstr ""
+msgstr "Aku bisa menanganinya!"
 
 #: game/scenes/gui/splashscreen.tscn
 msgid "Sortez-moi d'ici !"
-msgstr ""
+msgstr "Keluarkan aku!"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_unavailable_6f3cbfbc"
 msgid "Forcement, c'est fermé à cette heure-ci..."
-msgstr ""
+msgstr "Sesuai harapan… Tutup."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_ec2adc19"
 msgid "On se verra ce soir à la maison."
-msgstr ""
+msgstr "Sampai jumpa nanti malam, di rumah."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_f7a2c8ca"
 msgid "Passe une bonne journée mon chéri."
-msgstr ""
+msgstr "Semoga harimu indah sayang"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_7b2c5ef2"
 msgid "Passe une bonne journée mon chéri."
-msgstr ""
+msgstr "Semoga harimu indah, sayangku."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_13f52085"
 msgid "Bonjour mon chéri."
-msgstr ""
+msgstr "Hai, sayang."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_8cc61393"
 msgid "Bonjour mon chéri."
-msgstr ""
+msgstr "Hai sayang."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_bd1a143c"
 msgid "Ça me fait plaisir que tu viennes me voir !"
-msgstr ""
+msgstr "Aku sangat senang kamu datang menemuiku!"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_04c36d55"
 msgid "Tu désires quelque chose ?"
-msgstr ""
+msgstr "Apakah kamu menginginkan sesuatu?"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "t16597b9a4f"
 msgid "Un café."
-msgstr ""
+msgstr "Segelas Kopi."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_221be6bf"
@@ -538,32 +551,32 @@ msgstr ""
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_608419eb"
 msgid "Merci !"
-msgstr ""
+msgstr "Terimakasih!"
 
 #: game/story/home_natsume_exterior.dialogue
 msgctxt "home_natsume_exterior_608419eb"
 msgid "Merci !"
-msgstr ""
+msgstr "Terimakasih!"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "home_kimochi_exterior_8d2b8b61"
 msgid "Merci !"
-msgstr ""
+msgstr "Terimakasih!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_862bc7ab"
 msgid "Merci !"
-msgstr ""
+msgstr "Terimakasih!"
 
 #: game/story/home_asami_exterior.dialogue
 msgctxt "t56126c5a15"
 msgid "Merci !"
-msgstr ""
+msgstr "Terimakasih!"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_070865d3"
 msgid "Merci !"
-msgstr ""
+msgstr "Terimakasih!"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "taeb1bb5d11"
@@ -573,32 +586,33 @@ msgstr ""
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_be3259f1"
 msgid "Tu es un amour !"
-msgstr ""
+msgstr "Kamu baik sekali!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_c70765ba"
 msgid "Tu es un amour !"
-msgstr ""
+msgstr "Kamu baik sekali!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "tb222c41a00"
 msgid "Tu es un amour !"
-msgstr ""
+msgstr "Kamu baik sekali!"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_2a515d02"
 msgid "Je vais fermer la boutique quelques minutes afin qu'on ne soit pas dérangé."
-msgstr ""
+msgstr "Akan ku tutup tokonya untuk beberapa saat, agar kita tidak terganggu."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_c547b09e"
 msgid "{{yasuka.n}} et {{saito.n}} passèrent tous les deux un long moment à discuter."
 msgstr ""
+"{{yasuka.n}} dan {{saito.n}} menghabiskan banyak waktu selagi berbicara."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_f5f8ebfe"
 msgid "Ne plus avoir de patrons sur son dos semble l'avoir libérée."
-msgstr ""
+msgstr "Tidak ada bos yang selalu mengganggunya membuatnya lebih leluasa."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_0b339148"
@@ -613,7 +627,7 @@ msgstr ""
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_28e5bb01"
 msgid "J'aimerais pouvoir rester avec toi, mais je dois aussi faire des choses de mon côté."
-msgstr ""
+msgstr "Aku ingin disini bersamamu, tetapi ada sesuatu yang harus kulakukan."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_6f897340"
@@ -623,87 +637,87 @@ msgstr ""
 #: game/story/park.dialogue
 msgctxt "doggystyle_again_f71b1f42"
 msgid "On se retrouve ce soir ?"
-msgstr ""
+msgstr "Sampai jumpa nanti malam?"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_ff1d94bb"
 msgid "Oui !"
-msgstr ""
+msgstr "Ya!"
 
 #: game/story/love_hotel_room.dialogue
 msgctxt "love_hotel_room_6c4a2977"
 msgid "Oui !"
-msgstr ""
+msgstr "Ya!"
 
 #: game/story/canal.dialogue
 msgctxt "canal_7f6dc742"
 msgid "Oui !"
-msgstr ""
+msgstr "Ya!"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "sleeping_with_yasuka_saito_room_d51ada21"
 msgid "Oui !"
-msgstr ""
+msgstr "Ya!"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_c2875ad2"
 msgid "Oui !"
-msgstr ""
+msgstr "Ya!"
 
 #: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
 msgctxt "yasuka_love_sexe_repeat_a8559f90"
 msgid "Oui !"
-msgstr ""
+msgstr "Ya!"
 
 #: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
 msgctxt "t0bfbfc30cf"
 msgid "Oui !"
-msgstr ""
+msgstr "Ya!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_6c4a2977"
 msgid "Oui !"
-msgstr ""
+msgstr "Ya!"
 
 #: game/story/love_hotel_reception.dialogue
 msgctxt "love_hotel_reception_a8559f90"
 msgid "Oui !"
-msgstr ""
+msgstr "Ya!"
 
 #: game/story/love_hotel_reception.dialogue
 msgctxt "t95cd12ef54"
 msgid "Oui !"
-msgstr ""
+msgstr "Ya!"
 
 #: game/story/bus_stop.dialogue
 msgctxt "noriko_forgive_a02b5dd8"
 msgid "Oui !"
-msgstr ""
+msgstr "Ya!"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "te685980fbd"
 msgid "Oui !"
-msgstr ""
+msgstr "Ya!"
 
 #: game/story/park.dialogue
 msgctxt "doggystyle_again_fa8791f1"
 msgid "Oui !"
-msgstr ""
+msgstr "Ya!"
 
 #: game/story/park.dialogue
 msgctxt "menu_macumba_9c79e0a2"
 msgid "Oui !"
-msgstr ""
+msgstr "Ya!"
 
 #: game/story/home_minato_hallway.dialogue
 msgctxt "t7c25a56e9a"
 msgid "Oui !"
-msgstr ""
+msgstr "Ya!"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "te223796b66"
 msgid "Je voulais juste voir ton sourire."
-msgstr ""
+msgstr "Aku hanya ingin melihat senyummu."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_275e13fb"
