@@ -112,8 +112,8 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-01-22 16:14+0100\n"
-"PO-Revision-Date: 2025-03-06 14:52+0000\n"
-"Last-Translator: theturtle <theturtleprime@gmail.com>\n"
+"PO-Revision-Date: 2025-03-21 14:00+0000\n"
+"Last-Translator: metwel <darkplex6974@gmail.com>\n"
 "Language-Team: Korean <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/ko/>\n"
 "Language: ko\n"
@@ -137,7 +137,7 @@ msgstr "아침"
 
 #: core/scripts/clock.gd
 msgid "afternoon"
-msgstr ""
+msgstr "점심"
 
 #: core/scripts/clock.gd
 msgid "evening"
@@ -145,35 +145,35 @@ msgstr "저녁"
 
 #: core/scripts/clock.gd
 msgid "night"
-msgstr ""
+msgstr "밤"
 
 #: core/scripts/clock.gd
 msgid "Monday"
-msgstr ""
+msgstr "월요일"
 
 #: core/scripts/clock.gd
 msgid "Tuesday"
-msgstr ""
+msgstr "화요일"
 
 #: core/scripts/clock.gd
 msgid "Wednesday"
-msgstr ""
+msgstr "수요일"
 
 #: core/scripts/clock.gd
 msgid "Thursday"
-msgstr ""
+msgstr "목요일"
 
 #: core/scripts/clock.gd
 msgid "Friday"
-msgstr ""
+msgstr "금요일"
 
 #: core/scripts/clock.gd
 msgid "Saturday"
-msgstr ""
+msgstr "토요일"
 
 #: core/scripts/clock.gd
 msgid "Sunday"
-msgstr ""
+msgstr "일요일"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
@@ -228,112 +228,112 @@ msgstr "키모치"
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Chef"
-msgstr ""
+msgstr "셰프"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Akira"
-msgstr ""
+msgstr "아키라"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Kenji"
-msgstr ""
+msgstr "켄지"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Takeo"
-msgstr ""
+msgstr "타케오"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Nobu"
-msgstr ""
+msgstr "노부"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Netoru"
-msgstr ""
+msgstr "네토루"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Sayuri"
-msgstr ""
+msgstr "사유리"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Vieil homme"
-msgstr ""
+msgstr "늙은남성"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "home_player_exterior"
-msgstr ""
+msgstr "집 밖"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "dojo_exterior"
-msgstr ""
+msgstr "도장"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "park"
-msgstr ""
+msgstr "공원"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "restaurant_exterior"
-msgstr ""
+msgstr "식당 앞"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "konbini_exterior"
-msgstr ""
+msgstr "편의점"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "home_minato_exterior"
-msgstr ""
+msgstr "{{minato.n}}의집"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "home_asami_exterior"
-msgstr ""
+msgstr "{{asami.n}}의집"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "home_kimochi_exterior"
-msgstr ""
+msgstr "{{kimochi.n}}의집"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "home_natsume_exterior"
-msgstr ""
+msgstr "{{natsume.n}}의집"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "coffeebar_exterior"
-msgstr ""
+msgstr "[i]커피전문점[/i]"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "hostess_club_exterior"
-msgstr ""
+msgstr "호스트바"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "love_hotel_exterior"
-msgstr ""
+msgstr "러브호텔"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "onsen_exterior"
-msgstr ""
+msgstr "온천"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "warehouse_exterior"
-msgstr ""
+msgstr "창고 앞"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
@@ -343,12 +343,12 @@ msgstr ""
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "bus_stop"
-msgstr ""
+msgstr "버스 정류장"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "arcade_exterior"
-msgstr ""
+msgstr "오락실"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
