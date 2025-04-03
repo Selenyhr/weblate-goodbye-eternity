@@ -1,2 +1,5390 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2025-04-05 02:52+0000\n"
+"Last-Translator: Lukáš Kafka <kafkyns@gmail.com>\n"
+"Language-Team: Czech <https://translations.teot-studio.com/projects/"
+"goodbye-eternity/game-translation/cs/>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Weblate 4.17\n"
+
+#: core/scripts/clock.gd
+msgid "morning"
+msgstr "Ráno"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "dojo_exterior"
+msgstr "Dojo"
+
+#: game/scenes/gui/gui_start_yasuka.tscn
+msgid "YASUKA"
+msgstr "YASUKA"
+
+#: game/story/park.dialogue
+msgctxt "doggystyle_again_fa8791f1"
+msgid "Oui !"
+msgstr "Ano!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_d35cc2e2"
+msgid "Ça me fait vraiment plaisir."
+msgstr "Dělá mi to opravdu radost."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_eb611ae4"
+msgid "Tsss..."
+msgstr "Tsss..."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "te5832f1cb8"
+msgid "Enfin..."
+msgstr "Konečně..."
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "talk_yasuka_2c652546_1"
+msgid "Je comprends..."
+msgstr "Rozumím..."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_3c3fc224"
+msgid "C'est qui cette femme pour toi ?!"
+msgstr "Kdo je pro vás tato žena?!"
+
+#: game/story/park.dialogue
+msgctxt "park_6d04f7e8"
+msgid "Quoi ?!"
+msgstr "Cože?!"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "ta12bed8b17"
+msgid "..."
+msgstr "..."
+
+#: game/story/bus_stop.dialogue
+msgctxt "bus_stop_29cd7803"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "tc86cddc9dc"
+msgid "..."
+msgstr "..."
+
+#: game/story/onsen_bath.dialogue
+msgctxt "onsen_bath_4dcd7cbf"
+msgid "Tu viens ?"
+msgstr "Jste sám?"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_181efd45"
+msgid "Qu'est-ce que tu veux ?"
+msgstr "Na co myslíte?"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_009117d1"
+msgid "De quoi ?"
+msgstr "Co to je?"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_fb0848cd"
+msgid "Et puis ?"
+msgstr "A pak?"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_897eca85"
+msgid "Je dois pouvoir changer ça !"
+msgstr "Musím to umět změnit!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_317a7e66"
+msgid "Enfin !!!"
+msgstr "Konečně!!!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "t48efb92c68"
+msgid "S'en aller"
+msgstr "Jdi pryč"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_21ff3bd5"
+msgid "Mmmm..."
+msgstr "Mmmm..."
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "tc6ed9e19c7"
+msgid "Connard !"
+msgstr "Parchant!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_0cb9eefa"
+msgid "Tch..."
+msgstr "Tch..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_88f7a8e0"
+msgid "Idiot !"
+msgstr "Idiot !"
+
+#: game/scripts/variables/character_names.gd
+msgctxt "character_default_name"
+msgid "Takeo"
+msgstr "Takeo"
+
+#: game/scripts/variables/character_names.gd
+msgctxt "character_default_name"
+msgid "Nobu"
+msgstr "Nobu"
+
+#: game/scenes/cg/noriko/laptop.tscn
+msgid "Demi-Sœur Dépucelle Son Demi-Frère"
+msgstr "Nevlastní sestra podvede nevlastního bratra"
+
+#: game/scenes/cg/noriko/laptop.tscn
+msgid "Demi-Sœur Se Fait Prendre Dans Son Sommeil Par Son Demi-Frère"
+msgstr "Nevlastní sestra je přistižena ve spánku se svým nevlastním bratrem"
+
+#: core/scripts/clock.gd
+msgid "afternoon"
+msgstr "Odpoledne"
+
+#: core/scripts/clock.gd
+msgid "evening"
+msgstr "Večer"
+
+#: core/scripts/clock.gd
+msgid "night"
+msgstr "Noc"
+
+#: core/scripts/clock.gd
+msgid "Monday"
+msgstr "Pondělí"
+
+#: core/scripts/clock.gd
+msgid "Tuesday"
+msgstr "Úterý"
+
+#: core/scripts/clock.gd
+msgid "Wednesday"
+msgstr "Středa"
+
+#: core/scripts/clock.gd
+msgid "Thursday"
+msgstr "Čtvrtek"
+
+#: core/scripts/clock.gd
+msgid "Friday"
+msgstr "Pátek"
+
+#: core/scripts/clock.gd
+msgid "Saturday"
+msgstr "Sobota"
+
+#: core/scripts/clock.gd
+msgid "Sunday"
+msgstr "Neděle"
+
+#: game/scripts/variables/character_names.gd
+msgctxt "character_default_name"
+msgid "Saito"
+msgstr "Saito"
+
+#: game/scripts/variables/character_names.gd
+msgctxt "character_default_name"
+msgid "Asami"
+msgstr "Asami"
+
+#: game/scripts/variables/character_names.gd
+msgctxt "character_default_name"
+msgid "Noriko"
+msgstr "Asami"
+
+#: game/scripts/variables/character_names.gd
+msgctxt "character_default_name"
+msgid "Yasuka"
+msgstr "Yasuka"
+
+#: game/scripts/variables/character_names.gd
+msgctxt "character_default_name"
+msgid "Chiaki"
+msgstr "Chiaki"
+
+#: game/scripts/variables/character_names.gd
+msgctxt "character_default_name"
+msgid "Minato"
+msgstr "Minato"
+
+#: game/scripts/variables/character_names.gd
+msgctxt "character_default_name"
+msgid "Macumba"
+msgstr "Macumba"
+
+#: game/scripts/variables/character_names.gd
+msgctxt "character_default_name"
+msgid "Natsume"
+msgstr "Natsume"
+
+#: game/scripts/variables/character_names.gd
+msgctxt "character_default_name"
+msgid "Sakuya"
+msgstr "Sakuya"
+
+#: game/scripts/variables/character_names.gd
+msgctxt "character_default_name"
+msgid "Kimochi"
+msgstr "Kimochi"
+
+#: game/scripts/variables/character_names.gd
+msgctxt "character_default_name"
+msgid "Chef"
+msgstr "Chef"
+
+#: game/scripts/variables/character_names.gd
+msgctxt "character_default_name"
+msgid "Akira"
+msgstr "Akira"
+
+#: game/scripts/variables/character_names.gd
+msgctxt "character_default_name"
+msgid "Kenji"
+msgstr "Kenji"
+
+#: game/scripts/variables/character_names.gd
+msgctxt "character_default_name"
+msgid "Netoru"
+msgstr "Netoru"
+
+#: game/scripts/variables/character_names.gd
+msgctxt "character_default_name"
+msgid "Sayuri"
+msgstr "Sayuri"
+
+#: game/scripts/variables/character_names.gd
+msgctxt "character_default_name"
+msgid "Vieil homme"
+msgstr "Starý muž"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "home_player_exterior"
+msgstr "Exteriér"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "park"
+msgstr "Park"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "restaurant_exterior"
+msgstr "Restaurace"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "konbini_exterior"
+msgstr "Večerka"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "home_minato_exterior"
+msgstr "Dům {{minato.n}}"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "home_asami_exterior"
+msgstr "Dům {{asami.n}}"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "home_kimochi_exterior"
+msgstr "Dům {{kimochi.n}}"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "home_natsume_exterior"
+msgstr "Dům {{natsume.n}}"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "hostess_club_exterior"
+msgstr "Klub Hostesek"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "love_hotel_exterior"
+msgstr "Hotel Lásky"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "onsen_exterior"
+msgstr "Lázně"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "warehouse_exterior"
+msgstr "Sklad"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "canal"
+msgstr "Kanál"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "bus_stop"
+msgstr "Zastavka Autobusu"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "arcade_exterior"
+msgstr "Arkády"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "lake"
+msgstr "Jezero"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "home_kenji_exterior"
+msgstr "Dům {{kenji.n}}"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "home_nobu_exterior"
+msgstr "Dům {{nobu.n}}"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "home_takeo_exterior"
+msgstr "Dům {{takeo.n}}"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "amusement_park_exterior"
+msgstr "Zábavní park"
+
+#: game/scenes/gui/gui_location.tscn
+msgid "Lundi"
+msgstr "Pondělí"
+
+#: game/scenes/gui/gui_location.tscn
+msgid "¥ "
+msgstr "¥ "
+
+#: game/scenes/gui/gui_location.tscn
+msgid "0123456789"
+msgstr "0123456789"
+
+#: game/scenes/gui/gui_start_asami.tscn
+msgid "ASAMI"
+msgstr "Asami"
+
+#: game/scenes/gui/gui_start_asami.tscn
+msgid "Vous pouvez dès à présent poursuivre l’histoire d’{{asami.n}}."
+msgstr "Nyní můžete pokračovat v příběhu {{asami.n}}"
+
+#: game/scenes/gui/gui_start_asami.tscn
+msgid "Vous avez fait le choix de vous lier [color=yellow]d'amitié[/color]."
+msgstr "Rozhodli jste se stát [color=yellow]přáteli[/color]."
+
+#: game/scenes/gui/gui_start_asami.tscn
+msgid "Vous avez fait le choix de la [color=yellow]corrompre[/color]."
+msgstr "Rozhodli jste se [color=yellow]ji zkazit.[/color]"
+
+#: game/scenes/gui/gui_start_asami.tscn
+msgid "Vous avez fait le choix de [color=yellow]rester amis[/color]."
+msgstr "Rozhodli jste se [color=yellow]zůstat přáteli[/color]."
+
+#: game/scenes/gui/gui_start_asami.tscn game/scenes/gui/gui_start_sakuya.tscn game/scenes/gui/gui_start_yasuka.tscn
+msgid "J'ai compris"
+msgstr "Rozumím"
+
+#: game/scenes/gui/gui_start_sakuya.tscn
+msgid "SAKUYA"
+msgstr "SAKUYA"
+
+#: game/scenes/gui/gui_start_sakuya.tscn
+msgid "Vous pouvez dès à présent poursuivre l’histoire de {{sakuya.n}}."
+msgstr "Nyní můžete pokračovat v příběhu {{sakuya.n}}."
+
+#: game/scenes/gui/gui_start_sakuya.tscn
+msgid "Vous avez fait des choix tout au long de votre aventure, peu importe qu'ils soient bons ou mauvais. {{sakuya.n}} vous les fera assumer."
+msgstr ""
+"Během svého dobrodružství jste se rozhodovali bez ohledu na to, jaká jsouať "
+"už je to dobré nebo špatné.\" {{sakuya.n}} je přimějete předpokládat."
+
+#: game/scenes/gui/gui_start_yasuka.tscn
+msgid "Vous pouvez dès à présent poursuivre l’histoire de {{yasuka.n}}."
+msgstr "Nyní můžete pokračovat v příběhu {{yasuka.n}}."
+
+#: game/scenes/gui/gui_start_yasuka.tscn
+msgid "Vous avez fait le choix de l'[color=yellow]aimer et de la soutenir[/color]."
+msgstr "Rozhodli jste se ji milovat a podporovat."
+
+#: game/scenes/gui/gui_start_yasuka.tscn
+msgid "Vous avez fait le choix de la laisser [color=yellow]travailler au bar à hôtesse[/color]."
+msgstr ""
+"Rozhodli jste se nechat ji [color=yellow] pracovat v baru.Hostitelka[/color]."
+
+#: game/scenes/gui/splashscreen.tscn
+msgid "Certaines scènes de ce jeu peuvent contenir du contenu sexuellement explicite et pourrait choquer un jeune public. Tous les personnages de ce jeu sont majeurs."
+msgstr ""
+"Některé scény v této hře mohou obsahovat sexuálně explicitní obsah, který by "
+"mohl mladé publikum šokovat. Všechny postavy v této hře jsou starší 18 let."
+
+#: game/scenes/gui/splashscreen.tscn
+msgid ""
+"Pendant votre aventure, vos choix impacteront votre entourage, si vous rejetez plusieurs fois un personnage attendez vous a ce qu’il aille voir ailleurs. Tout ceci dans le but de garder une "
+"certaine cohérence avec le monde réel."
+msgstr ""
+"Během vašeho dobrodružství vaše volby ovlivní vaše okolí, pokud postavu "
+"několikrát odmítnete a budete čekat, co uvidí jinde. To vše za účelem "
+"zachování určité soudržnosti s reálným světem."
+
+#: game/scenes/gui/splashscreen.tscn
+msgid "Vos actions auront des conséquences..."
+msgstr "Vaše činy budou mít následky..."
+
+#: game/scenes/gui/splashscreen.tscn
+msgid "[fill]Certaines [url=data]données anonymes[/url] peuvent être récoltées pour améliorer l'expérience de jeu.[/fill]"
+msgstr ""
+"[fill]Za účelem zlepšení herního zážitku mohou být shromažďována určitá "
+"[url=data]anonymní data[/url].[/fill]"
+
+#: game/scenes/gui/splashscreen.tscn
+msgid ""
+"Les données recueillies incluent :\n"
+"- numéro de version actuelle\n"
+"- préférences du joueur (mode \"patate\")\n"
+"- informations de plateforme (Windows, Android, etc.)\n"
+"- informations de build (animations, censure, mode web, etc.)"
+msgstr ""
+"Shromážděná data zahrnují:\n"
+" aktuální číslo verze\n"
+" předvolby přehrávače (režim \"brambory\")\n"
+" informace o platformě (Windows, Android atd.)\n"
+" informace o sestavení (animace, cenzura, webový režim atd.)"
+
+#: game/scenes/gui/splashscreen.tscn
+msgid "Ces données seront recueillies après acceptation de ces termes, et ne contiennent pas d'identifiant direct ni informations externes au jeu."
+msgstr ""
+"Tyto údaje budou shromažďovány po přijetí těchto podmínek a nebudou "
+"obsahovat žádný přímý identifikátor nebo informace mimo hru."
+
+#: game/scenes/gui/splashscreen.tscn
+msgid "[url=disclaimer]Retour[/url]"
+msgstr "[urlvyloučení odpovědnosti]Návrat[/url]"
+
+#: game/scenes/gui/splashscreen.tscn
+msgid "Je gère !"
+msgstr "Zvládnu to!"
+
+#: game/scenes/gui/splashscreen.tscn
+msgid "Sortez-moi d'ici !"
+msgstr "Dostaň mě odtud!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_unavailable_6f3cbfbc"
+msgid "Forcement, c'est fermé à cette heure-ci..."
+msgstr "V tuto chvíli je samozřejmě zavřeno..."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_ec2adc19"
+msgid "On se verra ce soir à la maison."
+msgstr "Uvidíme se večer doma."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_f7a2c8ca"
+msgid "Passe une bonne journée mon chéri."
+msgstr "Hezký den miláčku."
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_7b2c5ef2"
+msgid "Passe une bonne journée mon chéri."
+msgstr "Hezký den miláčku."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_13f52085"
+msgid "Bonjour mon chéri."
+msgstr "Ahoj, miláčku."
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_8cc61393"
+msgid "Bonjour mon chéri."
+msgstr "Ahoj moje drahá."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_bd1a143c"
+msgid "Ça me fait plaisir que tu viennes me voir !"
+msgstr "Jsem rád, že jsi za mnou přišel!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_04c36d55"
+msgid "Tu désires quelque chose ?"
+msgstr "Je něco, co chcete?"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "t16597b9a4f"
+msgid "Un café."
+msgstr "Šálek kávy."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_221be6bf"
+msgid "C'est moi qui te l'offre !"
+msgstr "Já jsem ten, kdo ti to dává!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_608419eb"
+msgid "Merci !"
+msgstr "Děkuji!"
+
+#: game/story/home_natsume_exterior.dialogue
+msgctxt "home_natsume_exterior_608419eb"
+msgid "Merci !"
+msgstr "Děkuji!"
+
+#: game/story/home_kimochi_exterior.dialogue
+msgctxt "home_kimochi_exterior_8d2b8b61"
+msgid "Merci !"
+msgstr "Děkuji!"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_862bc7ab"
+msgid "Merci !"
+msgstr "Děkuji!"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t56126c5a15"
+msgid "Merci !"
+msgstr "Děkuji!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_070865d3"
+msgid "Merci !"
+msgstr "Děkuji!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "taeb1bb5d11"
+msgid "Prendre un moment avec toi."
+msgstr "Udělejte si chvilku s vámi."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_be3259f1"
+msgid "Tu es un amour !"
+msgstr "Ty jsi zlatíčko!"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_c70765ba"
+msgid "Tu es un amour !"
+msgstr "Ty jsi zlatíčko!"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "tb222c41a00"
+msgid "Tu es un amour !"
+msgstr "Ty jsi zlatíčko!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_2a515d02"
+msgid "Je vais fermer la boutique quelques minutes afin qu'on ne soit pas dérangé."
+msgstr "Na pár minut zavřu obchod, abychom nebyli rušeni."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_c547b09e"
+msgid "{{yasuka.n}} et {{saito.n}} passèrent tous les deux un long moment à discuter."
+msgstr "{{yasuka.n}} a {{saito.n}} oba strávili dlouhou dobudiskutovaním."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_f5f8ebfe"
+msgid "Ne plus avoir de patrons sur son dos semble l'avoir libérée."
+msgstr "Zdá se, že to, že neměla na zádech šéfy, ji osvobodilo."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_0b339148"
+msgid "Après avoir discuté un long moment, il était temps de partir."
+msgstr "Po dlouhém povídání byl čas odejít."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_0a9538b0"
+msgid "Tu t'en vas déjà ?"
+msgstr "Už odcházíš?"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_28e5bb01"
+msgid "J'aimerais pouvoir rester avec toi, mais je dois aussi faire des choses de mon côté."
+msgstr ""
+"Přál bych si, abych mohl zůstat s tebou, ale taky musím udělat pár věcí.moje "
+"strana."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_6f897340"
+msgid "On se retrouve ce soir ?"
+msgstr "Sejdeme se dnes večer znovu?"
+
+#: game/story/park.dialogue
+msgctxt "doggystyle_again_f71b1f42"
+msgid "On se retrouve ce soir ?"
+msgstr "Sejdeme se dnes večer znovu?"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_ff1d94bb"
+msgid "Oui !"
+msgstr "Ano!"
+
+#: game/story/love_hotel_room.dialogue
+msgctxt "love_hotel_room_6c4a2977"
+msgid "Oui !"
+msgstr "Ano!"
+
+#: game/story/canal.dialogue
+msgctxt "canal_7f6dc742"
+msgid "Oui !"
+msgstr "Ano!"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "sleeping_with_yasuka_saito_room_d51ada21"
+msgid "Oui !"
+msgstr "Ano!"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_c2875ad2"
+msgid "Oui !"
+msgstr "Ano!"
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "yasuka_love_sexe_repeat_a8559f90"
+msgid "Oui !"
+msgstr "Ano!"
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "t0bfbfc30cf"
+msgid "Oui !"
+msgstr "Ano!"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_6c4a2977"
+msgid "Oui !"
+msgstr "Ano!"
+
+#: game/story/love_hotel_reception.dialogue
+msgctxt "love_hotel_reception_a8559f90"
+msgid "Oui !"
+msgstr "Ano!"
+
+#: game/story/love_hotel_reception.dialogue
+msgctxt "t95cd12ef54"
+msgid "Oui !"
+msgstr "Ano!"
+
+#: game/story/bus_stop.dialogue
+msgctxt "noriko_forgive_a02b5dd8"
+msgid "Oui !"
+msgstr "Ano!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "te685980fbd"
+msgid "Oui !"
+msgstr "Ano!"
+
+#: game/story/park.dialogue
+msgctxt "menu_macumba_9c79e0a2"
+msgid "Oui !"
+msgstr "Ano!"
+
+#: game/story/home_minato_hallway.dialogue
+msgctxt "t7c25a56e9a"
+msgid "Oui !"
+msgstr "Ano!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "te223796b66"
+msgid "Je voulais juste voir ton sourire."
+msgstr "Chtěl jsem jen vidět tvůj úsměv."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_275e13fb"
+msgid "Pfff, quel charmeur tu fais."
+msgstr "Pfff, jaký jsi kouzelník."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_65b93099"
+msgid "Mais... Tu es adorable."
+msgstr "Ale... Jsi rozkošný."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_3ba5809c"
+msgid "Je m'occuperai de toi ce soir comme il se doit."
+msgstr "Dnes večer se o tebe postarám, jak bych měl."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_589f34c9"
+msgid "J'ai déjà hâte d'y être."
+msgstr "Už se na to těším."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_d30d0d48"
+msgid "J'espère bien !"
+msgstr "To doufám!"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_ac754e82"
+msgid "J'espère bien !"
+msgstr "To doufám!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "tc78484a21f"
+msgid "[color=yellow]À propos de {{noriko.n}}.[/color]"
+msgstr "[color=yellow]O{{noriko.n}}.[/color]"
+
+#: game/story/hostess_club_exterior.dialogue
+msgctxt "t18afe678e6"
+msgid "[color=yellow]À propos de {{noriko.n}}.[/color]"
+msgstr "[color=yellow]O{{noriko.n}}.[/color]"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "t77e427bf59"
+msgid "Retour"
+msgstr "Zadní"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "t95936a11b8"
+msgid "Retour"
+msgstr "Zadní"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "t3d059beaf4"
+msgid "Retour"
+msgstr "Zadní"
+
+#: game/story/love_hotel_reception.dialogue
+msgctxt "td6b8a34be2"
+msgid "Retour"
+msgstr "Zadní"
+
+#: game/story/restaurant_interior.dialogue
+msgctxt "t5d1fbcecac"
+msgid "Retour"
+msgstr "Zadní"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t3656c2f02f"
+msgid "Retour"
+msgstr "Zadní"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "tdb2ae3cbd0"
+msgid "Retour"
+msgstr "Zadní"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t58a1744d48"
+msgid "Retour"
+msgstr "Zadní"
+
+#: game/story/home_asami_asami_room.dialogue
+msgctxt "t6c1c64ba4a"
+msgid "Retour"
+msgstr "Zadní"
+
+#: game/story/hostess_club_exterior.dialogue
+msgctxt "tefcefacc7c"
+msgid "Retour"
+msgstr "Zadní"
+
+#: game/scenes/gui/game_menu/main.tscn
+msgid "Retour"
+msgstr "Zadní"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_c4e3f356"
+msgid "Le service de sécurité est plutôt horrible, mais je suis content d'être arrivé jusqu'à toi !"
+msgstr "Zabezpečení je dost hrozné, ale jsem za to rádpřišel k vám!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_1902730f"
+msgid "Oh, tu es venue comme promis !"
+msgstr "Přišel jsi, jak jsi slíbil!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_ea1de3c7"
+msgid "Je n'allais rater ça pour rien au monde."
+msgstr "Tohle jsem si nenechal ujít ani za svět."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_24004b8a"
+msgid "Sinon, c'est qui la personne vraiment désagréable qui m'a sauté dessus à l'extérieur ?"
+msgstr "Jinak kdo byl ten opravdu nepříjemný člověk, který na mě skočilvenku?"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_939e9d88"
+msgid "Oh, shhht pas si fort !"
+msgstr "Oh, shhhh ne tak nahlas!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_35d0832c"
+msgid "Il s'agit de mon responsable..."
+msgstr "Tohle je můj manažer..."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_68507bbe"
+msgid "C'est le propriétaire de cette boutique."
+msgstr "C'est le propriétaire de cette boutique."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_26ec9de7"
+msgid "Mmhh, je vois."
+msgstr "Mmhh, chápu."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_7e9effde"
+msgid "Il se contente de te laisser tout le travail, je suppose ?"
+msgstr "Myslím, že veškerou práci nechává na vás?"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_6ad539b9"
+msgid "Oui..."
+msgstr "Ano!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_3e85771d"
+msgid "Oui..."
+msgstr "Ano!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_3e85771d_1"
+msgid "Oui..."
+msgstr "Ano!"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_df63139d"
+msgid "Oui..."
+msgstr "Ano!"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_3e85771d"
+msgid "Oui..."
+msgstr "Ano!"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "menu_asami_room_waiting_694d9bee"
+msgid "Oui..."
+msgstr "Ano!"
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "event_noriko_doggy_3e85771d"
+msgid "Oui..."
+msgstr "Ano!"
+
+#: game/story/konbini_interior.dialogue
+msgctxt "konbini_interior_3e85771d"
+msgid "Oui..."
+msgstr "Ano!"
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "talk_kimochi_999ccea8"
+msgid "Oui..."
+msgstr "Ano!"
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "home_kimochi_interior_3e85771d"
+msgid "Oui..."
+msgstr "Ano!"
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "home_kimochi_interior_582ae38d"
+msgid "Oui..."
+msgstr "Ano!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_3fbad6b5"
+msgid "Oui..."
+msgstr "Ano!"
+
+#: game/story/restaurant_sakuya_room.dialogue
+msgctxt "t7b034aee5a"
+msgid "Oui..."
+msgstr "Ano!"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "home_player_exterior_da33cb18"
+msgid "Oui..."
+msgstr "Ano!"
+
+#: game/story/park.dialogue
+msgctxt "asami_choice_3e85771d"
+msgid "Oui..."
+msgstr "Ano!"
+
+#: game/story/park.dialogue
+msgctxt "talk_natsume_76d91a52"
+msgid "Oui..."
+msgstr "Ano!"
+
+#: game/story/park.dialogue
+msgctxt "park_c475c5cf"
+msgid "Oui..."
+msgstr "Ano!"
+
+#: game/story/home_minato_hallway.dialogue
+msgctxt "t2709a8f1a3"
+msgid "Oui..."
+msgstr "Ano!"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "t41070439a8"
+msgid "Oui..."
+msgstr "Ano!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_ef1ad18b"
+msgid "C'est donc cette espèce d'ordure qui pourrit la vie de {{yasuka.n}}."
+msgstr "Takže tento druh odpadu ničí život {{yasuka.n}}."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_b87099fe"
+msgid "Je comprends mieux pourquoi elle était prête à accepter ce travail d'hôtesse."
+msgstr "Lépe chápu, proč byla připravena přijmout tuto práci hostesky."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_09f7daef"
+msgid "Ce mec a l'air d'être un véritable connard."
+msgstr "Ten chlap vypadá jako opravdový debil."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_e489ff3e"
+msgid "Même mon instinct me dit de me méfier de lui."
+msgstr "Dokonce i můj instinkt mi říká, abych se před ním měl na pozoru."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_97ed4780"
+msgid "{{yasuka.N}} !"
+msgstr "{{yasuka.N}} !"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_f7d46344"
+msgid "Je ne te paye pas à ne rien faire !"
+msgstr "Neplatím vám za nicnedělání!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_62f021b1"
+msgid "Je déduirai le temps que tu passes à discuter avec les clients de ton salaire !"
+msgstr "Čas, který strávíte mluvením se zákazníky, vám odečtuplat!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_4f91eaac"
+msgid "Quoi !? Non, mais attendez !"
+msgstr "Cože? Ne, počkejte!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_eb19d385"
+msgid "Avez-vous passé commande, monsieur ?"
+msgstr "Zadal jste objednávku, pane?"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_33cb5b12"
+msgid "...Non, pas encore !"
+msgstr "...Ne ještě ne!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_725fc51e"
+msgid "Si tu comptes ne rien acheter ici, dégage !"
+msgstr "Pokud si zde nic nekoupíte, vypadněte!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_a56f9613"
+msgid "Je vais prendre un café !"
+msgstr "Jdu si dát kafe!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_97dfaa4f"
+msgid "Ne discutez pas avec les employés, cher monsieur."
+msgstr "Nehádejte se se zaměstnanci, drahý pane."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_d4a3194e"
+msgid "Je suis désolé mon chéri que tu aies à subir ça..."
+msgstr "Je mi líto, má drahá, že si tím musíš projít..."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_735ceb80"
+msgid "C'est plutôt moi qui suis désolé pour toi."
+msgstr "Jsem to spíš já, kdo tě lituje."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "t79d4b83921"
+msgid "Vous avez donné 300¥ à {{yasuka.n}}."
+msgstr "Dali jste 300¥ {{yasuka.n}}."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_e1dc171a"
+msgid "Voici ton café !"
+msgstr "Tady máš kávu!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_476718be"
+msgid "Je te l'offre, tu en as bien plus besoin que moi visiblement."
+msgstr "Dávám ti to, evidentně to potřebuješ mnohem víc než já."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_efe971a9"
+msgid "Tu es un amour."
+msgstr "Jsi zlatíčko."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_c27b4bc0"
+msgid "Bon courage et à ce soir !"
+msgstr "Hodně štěstí a uvidíme se večer!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_9d7413e7"
+msgid "À ce soir, mon chéri."
+msgstr "Uvidíme se dnes večer, má drahá."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_fc7ebca9"
+msgid "Mais je voulais juste..."
+msgstr "Ale já jen chtěla..."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_9f305ee3"
+msgid "Juste quoi ? Draguer le personnel ?"
+msgstr "Jen co? Flirtování s personálem?"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_5ba836a8"
+msgid "Elle est tellement âgée qu'elle pourrait être ta grand-mère !"
+msgstr "Je tak stará, že by mohla být vaší babičkou!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_971972aa"
+msgid "Hey ! Je vous interdis de l'insulter comme ça !"
+msgstr "Hej! Zakazuji ti ho takhle urážet!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_a9ad3e2c"
+msgid "Sinon quoi ? Tu vas faire quoi microbe ?"
+msgstr "Jinak co? Co budeš dělat, mikrobe?"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_1a0d491c"
+msgid "TIRE-TOI OU J'APPELLE LA POLICE !"
+msgstr "ZTRAŤTE SE, NEBO ZAVOLÁM POLICII!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_ce85d5fe"
+msgid "ET TOI RETOURNE BOSSER AU LIEU DE NE RIEN BRANLER !"
+msgstr "A VY SE MÍSTO NICNEDĚLÁNÍ VRÁTÍTE K PRÁCI!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_9e283ba0"
+msgid "Mon chéri !"
+msgstr "Můj drahý!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_a6a19710"
+msgid "Enfin..."
+msgstr "Konečně..."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_07345f96"
+msgid "Si tu savais tous les stratagèmes qu'il a fallu mettre en place pour juste venir te voir."
+msgstr ""
+"Kdybyste znali všechny ty úskoky, které bylo třeba zavést jen protopřijďte "
+"se podívat."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_f7e890a6"
+msgid "Je suis désolée mon patron est vraiment sévère."
+msgstr "Je mi líto, že můj šéf je opravdu přísný."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_af18c771"
+msgid "Tu n'as pas à t'excuser, c'est lui qui est en tort."
+msgstr "Nemusíte se omlouvat, je to on, kdo je na vině."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_2321f311"
+msgid "Tu as le droit de prendre une pause."
+msgstr "Máte právo na přestávku."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_64486282"
+msgid "Je sais... Tu as raison."
+msgstr "Já vím... Máš pravdu."
+
+#: game/story/home_kimochi_exterior.dialogue
+msgctxt "home_kimochi_exterior_7cd71a94"
+msgid "Je sais... Tu as raison."
+msgstr "Já vím, ale... Myslím, že máš pravdu."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_d2f082b8"
+msgid "Il n'y a pas de client en ce moment hormis toi."
+msgstr "Momentálně tu nejsou žádní zákazníci kromě vás."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_52b6b773"
+msgid "Je pense que ça ne dérangera personne."
+msgstr "Myslím, že to nikomu vadit nebude."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_9dd91079"
+msgid "Tu sais..."
+msgstr "Víš..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "sexe_asami_l_9e2ee756"
+msgid "Tu sais..."
+msgstr "Víš..."
+
+#: game/story/home_player_bathroom.dialogue
+msgctxt "home_player_bathroom_856cf8c5"
+msgid "Tu sais..."
+msgstr "Víš..."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_344ff72e"
+msgid "Je trouve que tu as vraiment changé ces temps-ci."
+msgstr "Myslím, že ses poslední dobou opravdu změnil."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_310e68bc"
+msgid "Je pensais que c'était juste une passade, mais tu as vraiment l'air sérieux dans tes efforts."
+msgstr ""
+"Myslel jsem, že to byl jen úlet, ale vypadáš opravdu vážně.a jsem velmi "
+"zaneprázdněn."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_658f9829"
+msgid "Merci."
+msgstr "Děkuji."
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "menu_sayuri_kitchen_f9bce8f0"
+msgid "Merci."
+msgstr "Děkuji."
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "t071ac4e14f"
+msgid "Merci."
+msgstr "Děkuji."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "home_player_exterior_f9bce8f0"
+msgid "Merci."
+msgstr "Děkuj."
+
+#: game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_1d00a319"
+msgid "Merci."
+msgstr "Děkuji."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_9fabf88c"
+msgid "Je ne pouvais plus te laisser seule, porter sur ton dos tous les problèmes que nous avions à la maison."
+msgstr ""
+"Už jsem tě nemohl nechat samotnou, nést všechny problémy na zádechkteré jsme "
+"měli doma."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_21bf1c4b"
+msgid "Surtout que, je suis en âge de comprendre ce qu'il se passe..."
+msgstr "Zvlášť když jsem dost starý na to, abych pochopil, co se děje..."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_00a019d4"
+msgid "Mon Dieu, les enfants grandissent si vite."
+msgstr "Bože, děti tak rychle rostou."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_ada98003"
+msgid "Un jour, ils sont là à pleurer dans nos jambes."
+msgstr "Jednoho dne tam jsou a pláčou nám do nohou."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_f4b4a2b7"
+msgid "Et aujourd'hui te voilà prêt à m'aider à rembourser une montagne de dette."
+msgstr "A teď jste připraveni mi pomoci splatit horu dluhů."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_d6eee7aa"
+msgid "Je suis désolé d'avoir mis autant de temps à réaliser tout ça..."
+msgstr ""
+"Omlouvám se, že mi trvalo tak dlouho, než jsem si to všechno uvědomil..."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_e6413ebd"
+msgid "J'aurais dû m'en rendre bien plus tôt."
+msgstr "Měl jsem si to uvědomit mnohem dřív."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_7f708522"
+msgid "{{saito.n}} !"
+msgstr "{{saito.n}} !"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_af525fe0"
+msgid "{{saito.n}} !"
+msgstr "{{saito.n}} !"
+
+#: game/story/park.dialogue
+msgctxt "park_c333f4dc"
+msgid "{{saito.n}} !"
+msgstr "{{saito.n}} !"
+
+#: game/story/home_nobu_exterior.dialogue
+msgctxt "home_nobu_exterior_44784a8a"
+msgid "{{saito.n}} !"
+msgstr "{{saito.n}} !"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_120e8a66"
+msgid "Je t'interdis de penser ça !"
+msgstr "Zakazuji vám si to myslet!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_e9e491a3"
+msgid "Je voulais que tu puisses grandir avec {{noriko.n}} normalement."
+msgstr "Chtěla jsem, abys mohl normálně vyrůstat s {{noriko.n}}."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_bcbcc830"
+msgid "À aucun moment, je n'aurais voulu vous imposer ça."
+msgstr "V žádném případě jsem vám to nechtěl vnucovat."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_2c652546"
+msgid "Je comprends..."
+msgstr "Rozumím..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "te5946ba32c"
+msgid "Je comprends..."
+msgstr "Rozumím..."
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_0a07202a"
+msgid "Je comprends..."
+msgstr "Rozumím..."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_15a1bceb"
+msgid "D'ailleurs, à ce sujet..."
+msgstr "Když už jsme u toho..."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_f1b983f3"
+msgid "J'ai enfin réussi à décrocher un tr-"
+msgstr "Konečně se mi podařilo získat tr-"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_0a7e69d0"
+msgid "Je peux savoir ce qui se passe ici ?!"
+msgstr "Můžete mi říct, co se tu děje?!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_4c17d2d2"
+msgid "{{yasuka.n}}, je ne vous paye pas pour faire la causette aux clients ! Vous vous croyez dans un bar à hôtesses ?"
+msgstr ""
+"{{yasuka.n}}, Neplatím tě za to, abys mluvil se zákazníky! TyMyslíš, že jsi "
+"v baru pro hostesky?"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_72c2ae27"
+msgid "Ce n'est pas la première fois que je te vois ici gamin !"
+msgstr "Tohle není poprvé, co tě tu vidím, chlapče!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "tdce6f79343"
+msgid "Ça ne vous regarde absolument pas !"
+msgstr "Do toho vám nic není!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_759f70dc"
+msgid "Vu que tu passes ton temps à revenir sans cesse pour mon employée."
+msgstr "Vzhledem k tomu, že se stále vracíte pro mého zaměstnance."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_b7ec8004"
+msgid "Ça me regarde."
+msgstr "Ça me regarde."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "tde8d9d429e"
+msgid "Ma mère !"
+msgstr "Moje máma!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_424e960b"
+msgid "Ne dis pas n'importe quoi !"
+msgstr "Nemluvte nesmysly!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "tc900499874"
+msgid "La femme de ma vie !"
+msgstr "Žena mého života!"
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_b414ef4b"
+msgid "Quoi?!"
+msgstr "Cože?!"
+
+#: game/story/canal.dialogue
+msgctxt "t60ba0d0c8c"
+msgid "Quoi ?!"
+msgstr "Cože?!"
+
+#: game/story/canal.dialogue
+msgctxt "canal_6d04f7e8_1"
+msgid "Quoi ?!"
+msgstr "Cože?!"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_19382569"
+msgid "Quoi ?!"
+msgstr "Cože?!"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_6d04f7e8"
+msgid "Quoi ?!"
+msgstr "Cože?!"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_0c4c69cb"
+msgid "Quoi ?!"
+msgstr "Cože?!"
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "home_kimochi_interior_69f683d3"
+msgid "Quoi ?!"
+msgstr "Cože?!"
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "home_kimochi_interior_b8b42645"
+msgid "Quoi ?!"
+msgstr "Cože?!"
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "home_kimochi_interior_5b7a41d0"
+msgid "Quoi ?!"
+msgstr "Cože?!"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_b10797b8"
+msgid "Quoi ?!"
+msgstr "Cože?!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_649da96d"
+msgid "Quoi ?!"
+msgstr "Cože?!"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_sakuya_fc523c04"
+msgid "Quoi ?!"
+msgstr "Cože?!"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "home_player_exterior_93d8ae63"
+msgid "Quoi ?!"
+msgstr "Cože?!"
+
+#: game/story/love_hotel_exterior.dialogue
+msgctxt "love_hotel_exterior_93d8ae63"
+msgid "Quoi ?!"
+msgstr "Cože?!"
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_6d04f7e8"
+msgid "Quoi ?!"
+msgstr "Cože?!"
+
+#: game/story/amusement_park_interior.dialogue
+msgctxt "t5563aa424e"
+msgid "Quoi ?!"
+msgstr "Cože?!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_9ccff65b"
+msgid "Arrête de jouer au malin et va-t'en d'ici avant que je n'appelle la police !"
+msgstr "Přestaň dělat chytrého a vypadni, než zavolám policii!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_8005452d"
+msgid "Merde, ce connard me bloque, peu importe ce que je dise."
+msgstr "Sakra, ten parchant mě blokuje, ať řeknu cokoli."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_185adc22"
+msgid "Comment je pourrais m'en débarrasser ?"
+msgstr "Jak se ho mohu zbavit?"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_8368a022"
+msgid "Dites-moi {{yasuka.n}}..."
+msgstr "Řekni mi {{yasuka.n}}..."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_9d2bd2e7"
+msgid "J'ai entendu votre conversation tout à l'heure."
+msgstr "Předtím jsem zaslechl váš rozhovor."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_ceeccbbb"
+msgid "Je ne savais pas que vous étiez endettée."
+msgstr "Nevěděl jsem, že máš dluhy."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_ae713cd0"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_03775ec8"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_29cd7803"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_noriko_room_closed_29cd7803"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_a21e86ee"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_898b1990"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_03775ec8"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_b14bf260"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_a4009c4c"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_29cd7803_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_29cd7803_2"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_898b1990"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_29cd7803_3"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_03775ec8_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_29cd7803_4"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_29cd7803_5"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_29cd7803_6"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_29cd7803_7"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_29cd7803_8"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_a21e86ee_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "tf01faab14a"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "tb58226ef9d"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "tcaa1b16bb4"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_natsume_exterior.dialogue
+msgctxt "home_natsume_exterior_bd4a924e"
+msgid "..."
+msgstr "..."
+
+#: game/story/warehouse_exterior.dialogue
+msgctxt "warehouse_exterior_a91cfbc6"
+msgid "..."
+msgstr "..."
+
+#: game/story/warehouse_exterior.dialogue
+msgctxt "warehouse_exterior_20243432"
+msgid "..."
+msgstr "..."
+
+#: game/story/warehouse_exterior.dialogue
+msgctxt "warehouse_exterior_21706b61"
+msgid "..."
+msgstr "..."
+
+#: game/story/warehouse_exterior.dialogue
+msgctxt "warehouse_exterior_83ffb293"
+msgid "..."
+msgstr "..."
+
+#: game/story/warehouse_exterior.dialogue
+msgctxt "t5f74ae7a1f"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_kimochi_exterior.dialogue
+msgctxt "home_kimochi_exterior_7639bcca"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_kimochi_exterior.dialogue
+msgctxt "home_kimochi_exterior_03775ec8_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_kimochi_exterior.dialogue
+msgctxt "home_kimochi_exterior_1adf14f8"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_kimochi_exterior.dialogue
+msgctxt "home_kimochi_exterior_859dc21e"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_kimochi_exterior.dialogue
+msgctxt "home_kimochi_exterior_03775ec8_2"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_kimochi_exterior.dialogue
+msgctxt "home_kimochi_exterior_ca49ee26"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_kimochi_exterior.dialogue
+msgctxt "home_kimochi_exterior_898b1990"
+msgid "..."
+msgstr "..."
+
+#: game/story/onsen_bath.dialogue
+msgctxt "t39a93ffac4"
+msgid "..."
+msgstr "..."
+
+#: game/story/canal.dialogue
+msgctxt "canal_6a1adb7c"
+msgid "..."
+msgstr "..."
+
+#: game/story/canal.dialogue
+msgctxt "canal_03775ec8_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/canal.dialogue
+msgctxt "ta01b77093f"
+msgid "..."
+msgstr "..."
+
+#: game/story/canal.dialogue
+msgctxt "canal_03775ec8_3"
+msgid "..."
+msgstr "..."
+
+#: game/story/canal.dialogue
+msgctxt "canal_03775ec8_4"
+msgid "..."
+msgstr "..."
+
+#: game/story/canal.dialogue
+msgctxt "canal_03775ec8"
+msgid "..."
+msgstr "..."
+
+#: game/story/canal.dialogue
+msgctxt "canal_ed6623a0"
+msgid "..."
+msgstr "..."
+
+#: game/story/canal.dialogue
+msgctxt "canal_207cda26"
+msgid "..."
+msgstr "..."
+
+#: game/story/canal.dialogue
+msgctxt "canal_b4e69ca9"
+msgid "..."
+msgstr "..."
+
+#: game/story/canal.dialogue
+msgctxt "canal_ed6623a0_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "blackmail_noriko_bj_898b1990"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "blackmail_noriko_bj_9fc616da"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "blackmail_noriko_bj_9fc616da_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "sexe_asami_l_18b6a6fa"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "sexe_asami_l_b14bf260"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "ta2dccf3a0b"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_a21e86ee"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_17d1d49e"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_a21e86ee_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_03775ec8"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "talk_noriko_898b1990_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "talk_noriko_a21e86ee"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "talk_noriko_9fc616da"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "talk_noriko_b14bf260_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "talk_noriko_29cd7803"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_6a1adb7c"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_18b6a6fa"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_18b6a6fa_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_b14bf260"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_b14bf260_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_b14bf260_2"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_b4e69ca9"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_b4e69ca9_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_18b6a6fa_2"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_b14bf260_3"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_03775ec8_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_b4e69ca9_2"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_18b6a6fa_3"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_ed6623a0"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_898b1990"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_29cd7803"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_03775ec8_2"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_ed6623a0_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_29cd7803_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_898b1990_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_03775ec8_3"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_b4e69ca9_3"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_a21e86ee_2"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_ed6623a0_2"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "td7358f7acf"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "talk_yasuka_b14bf260"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "talk_yasuka_b14bf260_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "talk_yasuka_b8d7d070"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "talk_yasuka_b8d7d070_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "talk_yasuka_b8d7d070_2"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "talk_yasuka_b8d7d070_3"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "talk_yasuka_b8d7d070_4"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "home_player_yasuka_room_29cd7803"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "yasuka_love_sexe_repeat_b8d7d070"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "yasuka_love_sexe_repeat_b8d7d070_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "yasuka_love_sexe_repeat_9fc616da"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "t08a42d93e5"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "tff6d1d2c33"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "tbc38954e8f"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_ae713cd0"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_ae713cd0_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_3faca6c4"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_03775ec8"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_ed6623a0"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_859dc21e"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_ae713cd0_2"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_b4e69ca9"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_03775ec8_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_29cd7803"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_b4e69ca9_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_29cd7803_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_ed6623a0_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_b4e69ca9_2"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_03775ec8_2"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_7231df1d"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_3f9b63ba"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_29cd7803_2"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_03775ec8_3"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_ae713cd0_4"
+msgid "..."
+msgstr "..."
+
+#: game/story/konbini_interior.dialogue
+msgctxt "t9cb4ca02bb"
+msgid "..."
+msgstr "..."
+
+#: game/story/konbini_interior.dialogue
+msgctxt "t3cbcb8d970"
+msgid "..."
+msgstr "..."
+
+#: game/story/konbini_interior.dialogue
+msgctxt "menu_sayuri_konbini_898b1990"
+msgid "..."
+msgstr "..."
+
+#: game/story/konbini_interior.dialogue
+msgctxt "t96081ec5f7"
+msgid "..."
+msgstr "..."
+
+#: game/story/warehouse_interior.dialogue
+msgctxt "warehouse_interior_83ffb293"
+msgid "..."
+msgstr "..."
+
+#: game/story/warehouse_interior.dialogue
+msgctxt "warehouse_interior_94ec3338"
+msgid "..."
+msgstr "..."
+
+#: game/story/warehouse_interior.dialogue
+msgctxt "warehouse_interior_a20cefa7"
+msgid "..."
+msgstr "..."
+
+#: game/story/arcade_exterior.dialogue
+msgctxt "tc51296653b"
+msgid "..."
+msgstr "..."
+
+#: game/story/arcade_exterior.dialogue
+msgctxt "ta963a2a822"
+msgid "..."
+msgstr "..."
+
+#: game/story/love_hotel_reception.dialogue
+msgctxt "love_hotel_reception_b14bf260"
+msgid "..."
+msgstr "..."
+
+#: game/story/love_hotel_reception.dialogue
+msgctxt "t5bcfe4757c"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "home_player_hallway_03775ec8"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "home_player_hallway_c2cffe85"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "home_player_hallway_29cd7803"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "home_player_hallway_03775ec8_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "t872e1234e6"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "ta301e36e4e"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "t8bde632322"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "t58169b92dc"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "tc06f62f56a"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "t355be6e5ba"
+msgid "..."
+msgstr "..."
+
+#: game/story/restaurant_interior.dialogue
+msgctxt "talk_sakuya_4ef4028e"
+msgid "..."
+msgstr "..."
+
+#: game/story/restaurant_interior.dialogue
+msgctxt "talk_chef_interior_9c2591ac"
+msgid "..."
+msgstr "..."
+
+#: game/story/restaurant_interior.dialogue
+msgctxt "talk_chef_interior_b7ecfc18"
+msgid "..."
+msgstr "..."
+
+#: game/story/restaurant_interior.dialogue
+msgctxt "t70ad7ccf7d"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "td11dd8b9b3"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "home_asami_livingroom_03775ec8"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "home_asami_livingroom_29cd7803"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "td70e6e67ab"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t0be4a33b3a"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t6f74920340"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "td57711da10"
+msgid "..."
+msgstr "..."
+
+#: game/story/onsen_room.dialogue
+msgctxt "td82d317e93"
+msgid "..."
+msgstr "..."
+
+#: game/story/onsen_interior.dialogue
+msgctxt "onsen_interior_03775ec8"
+msgid "..."
+msgstr "..."
+
+#: game/story/onsen_interior.dialogue
+msgctxt "t94e4e260d0"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "kimochi_password_ed6623a0"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "kimochi_password_c2cffe85"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "home_kimochi_interior_637ce628"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "home_kimochi_interior_b4e69ca9"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "home_kimochi_interior_ed6623a0"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "home_kimochi_interior_03775ec8"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "home_kimochi_interior_859dc21e"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "home_kimochi_interior_859dc21e_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/introduction.dialogue
+msgctxt "intro_a21e86ee"
+msgid "..."
+msgstr "..."
+
+#: game/story/introduction.dialogue
+msgctxt "home_player_room_319ad2f8"
+msgid "..."
+msgstr "..."
+
+#: game/story/introduction.dialogue
+msgctxt "home_player_room_9c2591ac"
+msgid "..."
+msgstr "..."
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_03775ec8"
+msgid "..."
+msgstr "..."
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_03775ec8_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_c2cffe85"
+msgid "..."
+msgstr "..."
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_a21e86ee"
+msgid "..."
+msgstr "..."
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_e8b68a52"
+msgid "..."
+msgstr "..."
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_d63d6b65"
+msgid "..."
+msgstr "..."
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_e8b68a52_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_a21e86ee_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_20243432"
+msgid "..."
+msgstr "..."
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_b8cb9f97"
+msgid "..."
+msgstr "..."
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_c2cffe85_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_ed6623a0"
+msgid "..."
+msgstr "..."
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_c342f2e7"
+msgid "..."
+msgstr "..."
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_d92934d2"
+msgid "..."
+msgstr "..."
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_b8cb9f97_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_b8cb9f97_2"
+msgid "..."
+msgstr "..."
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_d63d6b65_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_aad6404e"
+msgid "..."
+msgstr "..."
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_aad6404e_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/bus_stop.dialogue
+msgctxt "bus_stop_03775ec8"
+msgid "..."
+msgstr "..."
+
+#: game/story/bus_stop.dialogue
+msgctxt "bus_stop_29cd7803_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/bus_stop.dialogue
+msgctxt "bus_stop_03775ec8_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/bus_stop.dialogue
+msgctxt "noriko_forgive_898b1990"
+msgid "..."
+msgstr "..."
+
+#: game/story/lake.dialogue
+msgctxt "lake_03775ec8"
+msgid "..."
+msgstr "..."
+
+#: game/story/lake.dialogue
+msgctxt "lake_03775ec8_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/lake.dialogue
+msgctxt "t8be7dc1f1c"
+msgid "..."
+msgstr "..."
+
+#: game/story/lake.dialogue
+msgctxt "lake_29cd7803"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_03775ec8"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_87c30b61"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_29cd7803"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_b14bf260"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_a21e86ee"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_a21e86ee_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_9fc616da"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_9fc616da_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "home_player_noriko_room_a4009c4c"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "home_player_noriko_room_ed6623a0"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "home_player_noriko_room_29cd7803"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_03775ec8"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_898b1990_2"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_ed6623a0"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_29cd7803"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_11b4c513"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_03775ec8_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_898b1990"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t3f9c49d299"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_6a1adb7c"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_29cd7803_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_637ce628"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "choice_noriko_cunni_7844d295"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "tcab9fc6df0"
+msgid "..."
+msgstr "..."
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "talk_chef_b7ecfc18"
+msgid "..."
+msgstr "..."
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "talk_chef_b7ecfc18_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "talk_chef_03775ec8"
+msgid "..."
+msgstr "..."
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "restaurant_exterior_031ba670"
+msgid "..."
+msgstr "..."
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "restaurant_exterior_a6aa04ea"
+msgid "..."
+msgstr "..."
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "restaurant_exterior_03775ec8"
+msgid "..."
+msgstr "..."
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "restaurant_exterior_03775ec8_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "restaurant_exterior_6bd0b308"
+msgid "..."
+msgstr "..."
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "restaurant_exterior_33b053ce"
+msgid "..."
+msgstr "..."
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "restaurant_exterior_c2cffe85"
+msgid "..."
+msgstr "..."
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "restaurant_exterior_03775ec8_2"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_asami_asami_room.dialogue
+msgctxt "home_asami_asami_room_031ba670"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_asami_asami_room.dialogue
+msgctxt "home_asami_asami_room_2a6fea30"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_asami_asami_room.dialogue
+msgctxt "home_asami_asami_room_898b1990"
+msgid "..."
+msgstr "..."
+
+#: game/story/konbini_exterior.dialogue
+msgctxt "t0915597108"
+msgid "..."
+msgstr "..."
+
+#: game/story/konbini_exterior.dialogue
+msgctxt "konbini_exterior_03775ec8"
+msgid "..."
+msgstr "..."
+
+#: game/story/konbini_exterior.dialogue
+msgctxt "konbini_exterior_29cd7803"
+msgid "..."
+msgstr "..."
+
+#: game/story/konbini_exterior.dialogue
+msgctxt "konbini_exterior_898b1990"
+msgid "..."
+msgstr "..."
+
+#: game/story/restaurant_sakuya_room.dialogue
+msgctxt "restaurant_sakuya_room_sexe_03775ec8"
+msgid "..."
+msgstr "..."
+
+#: game/story/restaurant_sakuya_room.dialogue
+msgctxt "restaurant_sakuya_room_a6aa04ea"
+msgid "..."
+msgstr "..."
+
+#: game/story/restaurant_sakuya_room.dialogue
+msgctxt "restaurant_sakuya_room_a6aa04ea_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/restaurant_sakuya_room.dialogue
+msgctxt "restaurant_sakuya_room_ed6623a0"
+msgid "..."
+msgstr "..."
+
+#: game/story/restaurant_sakuya_room.dialogue
+msgctxt "restaurant_sakuya_room_ed6623a0_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/restaurant_sakuya_room.dialogue
+msgctxt "restaurant_sakuya_room_03775ec8"
+msgid "..."
+msgstr "..."
+
+#: game/story/restaurant_sakuya_room.dialogue
+msgctxt "restaurant_sakuya_room_b14bf260"
+msgid "..."
+msgstr "..."
+
+#: game/story/restaurant_sakuya_room.dialogue
+msgctxt "t66a89116b7"
+msgid "..."
+msgstr "..."
+
+#: game/story/restaurant_sakuya_room.dialogue
+msgctxt "restaurant_sakuya_room_38cc66a7"
+msgid "..."
+msgstr "..."
+
+#: game/story/restaurant_sakuya_room.dialogue
+msgctxt "akira_escape_b14bf260"
+msgid "..."
+msgstr "..."
+
+#: game/story/restaurant_sakuya_room.dialogue
+msgctxt "akira_escape_6a1adb7c"
+msgid "..."
+msgstr "..."
+
+#: game/story/restaurant_sakuya_room.dialogue
+msgctxt "akira_escape_03775ec8"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "asami_truth_03775ec8"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_chiaki_422949ae"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "t8f0b6fb415"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "t232fbd9bf3"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "te77a993896"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "home_player_exterior_422949ae"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_sakuya_ea41ea34"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "home_player_exterior_03775ec8_3"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "home_player_exterior_ed6623a0"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "home_player_exterior_ed6623a0_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "home_player_exterior_319ad2f8"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "home_player_exterior_03775ec8_4"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "home_player_exterior_898b1990"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_sakuya_03775ec8"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "tc10803cd5c"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_sakuya_03775ec8_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_sakuya_03775ec8_2"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "home_player_exterior_a21e86ee"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_sakuya_b4e69ca9"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "asami_truth_c2cffe85"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "t0fdce11ac1"
+msgid "..."
+msgstr "..."
+
+#: game/story/love_hotel_exterior.dialogue
+msgctxt "love_hotel_exterior_ed6623a0"
+msgid "..."
+msgstr "..."
+
+#: game/story/love_hotel_exterior.dialogue
+msgctxt "love_hotel_exterior_29cd7803"
+msgid "..."
+msgstr "..."
+
+#: game/story/coffeebar_exterior.dialogue
+msgctxt "coffeebar_exterior_03775ec8"
+msgid "..."
+msgstr "..."
+
+#: game/story/coffeebar_exterior.dialogue
+msgctxt "talk_ubs_03775ec8"
+msgid "..."
+msgstr "..."
+
+#: game/story/coffeebar_exterior.dialogue
+msgctxt "talk_ubs_c2cffe85"
+msgid "..."
+msgstr "..."
+
+#: game/story/coffeebar_exterior.dialogue
+msgctxt "talk_ubs_c2cffe85_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/coffeebar_exterior.dialogue
+msgctxt "talk_ubs_60c27fa8"
+msgid "..."
+msgstr "..."
+
+#: game/story/coffeebar_exterior.dialogue
+msgctxt "talk_ubs_4ff94e8a"
+msgid "..."
+msgstr "..."
+
+#: game/story/coffeebar_exterior.dialogue
+msgctxt "coffeebar_exterior_03775ec8_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/coffeebar_exterior.dialogue
+msgctxt "coffeebar_exterior_ed6623a0"
+msgid "..."
+msgstr "..."
+
+#: game/story/onsen_exterior.dialogue
+msgctxt "onsen_exterior_b4e69ca9"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "tcb8ce99cee"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "t5f879795c1"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "talk_macumba_b14bf260"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "talk_asami_b14bf260_2"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "talk_asami_b14bf260_3"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "asami_choice_ed6623a0"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "talk_macumba_b4e69ca9"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "te3575e0e4c"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "tddf15eab8d"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "park_03775ec8"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "park_856b2b06"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "park_6a1adb7c"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "asami_choice_03775ec8"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "asami_choice_6a1adb7c"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "asami_choice_856b2b06"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "park_03775ec8_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "park_03775ec8_2"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "park_1de64694"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "park_a60ba924"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "park_43c76683"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "t9a1923ac82"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "park_03775ec8_3"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "menu_macumba_008a3709"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "asami_choice_830ec234"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "talk_natsume_03775ec8"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "talk_natsume_03775ec8_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "talk_natsume_03775ec8_2"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "talk_natsume_ed6623a0"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "park_7a8d963f"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "park_a9f72d56"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "asami_choice_b4e69ca9"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "asami_choice_18b6a6fa"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "menu_macumba_ed6623a0"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "park_859dc21e"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "ta83d00658f"
+msgid "..."
+msgstr "..."
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "ta7bface5ce"
+msgid "..."
+msgstr "..."
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "t8c62ab70f3"
+msgid "..."
+msgstr "..."
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "t6da9922d7f"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_83ffb293"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_6a1adb7c"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_03775ec8"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_b4e69ca9"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_ed6623a0"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "talk_minato_83ffb293"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "talk_minato_03775ec8"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_a6aa04ea"
+msgid "..."
+msgstr "..."
+
+#: game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_3f9b63ba"
+msgid "..."
+msgstr "..."
+
+#: game/story/hostess_club_exterior.dialogue
+msgctxt "talk_thugs_03775ec8"
+msgid "..."
+msgstr "..."
+
+#: game/story/hostess_club_exterior.dialogue
+msgctxt "hostess_club_exterior_a6aa04ea"
+msgid "..."
+msgstr "..."
+
+#: game/story/hostess_club_exterior.dialogue
+msgctxt "hostess_club_exterior_d63d6b65"
+msgid "..."
+msgstr "..."
+
+#: game/story/hostess_club_exterior.dialogue
+msgctxt "hostess_club_exterior_c2cffe85"
+msgid "..."
+msgstr "..."
+
+#: game/story/hostess_club_exterior.dialogue
+msgctxt "hostess_club_exterior_830ec234"
+msgid "..."
+msgstr "..."
+
+#: game/story/hostess_club_exterior.dialogue
+msgctxt "hostess_club_exterior_865339b3"
+msgid "..."
+msgstr "..."
+
+#: game/story/hostess_club_exterior.dialogue
+msgctxt "hostess_club_exterior_d63d6b65_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/hostess_club_exterior.dialogue
+msgctxt "hostess_club_exterior_42d71409"
+msgid "..."
+msgstr "..."
+
+#: game/story/hostess_club_exterior.dialogue
+msgctxt "talk_thugs_c2cffe85"
+msgid "..."
+msgstr "..."
+
+#: game/story/hostess_club_exterior.dialogue
+msgctxt "talk_thugs_ed6623a0"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_29cd7803"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_aad6404e"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_aad6404e_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_nobu_exterior.dialogue
+msgctxt "event_nobu_fight_at_home_0b382599"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_nobu_exterior.dialogue
+msgctxt "home_nobu_exterior_03775ec8"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_minato_hallway.dialogue
+msgctxt "t4ff6dbb309"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_asami_bathroom.dialogue
+msgctxt "t693273e091"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "t77fb0b8a12"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "t05328323b7"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "tfcef30ccb5"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "t82e78a9bd0"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "t9eef5cefc2"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "t6b78a40ccb"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "teba4cbc7c3"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "t5e0b7a179f"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_asami_sayuri_room.dialogue
+msgctxt "t8fda756839"
+msgid "..."
+msgstr "..."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_7e4f83cc"
+msgid "Vous savez bien que vous pouvez tout me dire."
+msgstr "Víš, že mi můžeš říct cokoli."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_f0f21b2a"
+msgid "Je suis désolée, mais ce n'est pas quelque chose dont j'aime me vanter."
+msgstr "Je mi líto, ale není to něco, čím bych se chlubil."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_31f8cf8d"
+msgid "Ne vous en faites pas... Je vais y réfléchir, je suis sûr que je trouverai un moyen de vous aider."
+msgstr "Nebojte se... Budu o tom přemýšlet, určitě najdu způsob, jak ti pomoci."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_df5f3f1d"
+msgid "Merci, mais je ne veux pas de..."
+msgstr "Díky, ale nechci žádné..."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_f317d5ec"
+msgid "J'insiste, je ne voudrais pas que ma meilleure employée finisse sur le trottoir."
+msgstr ""
+"Trvám na tom, nechtěl bych, aby můj nejlepší zaměstnanec skončil na chodníku."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_e7bdf7e2"
+msgid "Je vous laisse avec votre... lui."
+msgstr "Nechám vás s vaším... ním."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "tee9d2a10d2"
+msgid "Je vous laisse avec votre... fils."
+msgstr "Nechám tě tu s tvým... synem."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "td13ff2e22e"
+msgid "Je vous laisse avec votre... partenaire."
+msgstr "Nechám vás tu s vaším... partnerem."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_d0babdf7"
+msgid "Je suis désolé... Je voulais venir te soutenir et je crois que j'ai tout gâché."
+msgstr ""
+"Omlouvám se, já... Chtěl jsem tě přijít podpořit a myslím, že jsem to zkazil."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_bce09a57"
+msgid "Ne t'inquiète pas pour ça. Le fait de savoir que je suis soutenu par un garçon aussi gentil me suffit."
+msgstr ""
+"S tím si nedělejte starosti. Stačí mi vědomí, že mám podporu tak milého "
+"chlapce."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_add43a5d"
+msgid "Rentre à la maison, on en discutera quand j'aurai terminé ma journée."
+msgstr "Běž domů a promluvíme si o tom, až dnes skončím."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_b4be6f6a"
+msgid "Personne à l'intérieur non plus, c'est vraiment étrange."
+msgstr "Uvnitř také nikdo není, což je opravdu zvláštní."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_76e8e484"
+msgid "Il a dû se passer un truc cette nuit."
+msgstr "Včera v noci se muselo něco stát."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_019f200a"
+msgid "Bonjour {{saito.n}} !"
+msgstr "Ahoj {{saito.n}}!"
+
+#: game/story/restaurant_interior.dialogue
+msgctxt "restaurant_interior_aedbd962"
+msgid "Bonjour {{saito.n}} !"
+msgstr "Ahoj {{saito.n}}!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_52e8a705"
+msgid "{{sakuya.n}}... C'était bien toi !"
+msgstr "{{sakuya.n}}... To jsi byl ty!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_454dc301"
+msgid "Tu es surpris ?"
+msgstr "Tu es surpris ?"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_59acee05"
+msgid "Le mot est faible..."
+msgstr "To je slabé slovo..."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_a0f28b52"
+msgid "Tu avais des doutes ?"
+msgstr "Měl jste nějaké pochybnosti?"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_c41469da"
+msgid "Je n'ai raconté tous mes problèmes qu'à une seule personne."
+msgstr "O všech svých problémech jsem se svěřila pouze jednomu člověku."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_ef90dbbb"
+msgid "Et cette personne, c'était moi."
+msgstr "A tou osobou jsem byl já."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_7648545e"
+msgid "Que lui est-il arrivé ?"
+msgstr "Co se mu stalo?"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_6d81239f"
+msgid "Oh, lui ? Il est toujours vivant."
+msgstr "Aha, on? Je stále naživu."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_c2ee4dc9"
+msgid "Il me reste deux ou trois choses à régler et toute cette histoire sera derrière nous."
+msgstr "Ještě musím vyřešit dvě nebo tři věci a pak už to bude za námi."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_0cbce7c2"
+msgid "Mais bordel, comme si j'avais pas assez de problèmes comme ça, je me retrouve à devoir gérer une folle."
+msgstr ""
+"Ale sakra, jako bych už tak neměl dost problémů, tak teď musím řešit šílenou "
+"ženskou."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_536f0964"
+msgid "Je savais que tout ça se passait trop bien."
+msgstr "Věděl jsem, že to jde až příliš dobře."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_ba1262f9"
+msgid "Il y aurait forcément un prix à payer tôt ou tard."
+msgstr "Dříve nebo později se za to muselo zaplatit."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_4dcd7cbf"
+msgid "Tu viens ?"
+msgstr "Jste sám?"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "te0df105c29"
+msgid "Tu viens ?"
+msgstr "Jste sám?"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_68138ac2"
+msgid "Où ça ?"
+msgstr "Où ça?"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_c771531c"
+msgid "Tu es bête ! Ton service va bientôt commencer, tu ne voudrais pas arriver en retard, non ?"
+msgstr "Jsi tak hloupý! Za chvíli ti začíná směna, nechceš přijít pozdě, že ne?"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_169816be"
+msgid "Je... Non en effet."
+msgstr "Já jen... Ne, nemáš."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_73d89f9c"
+msgid "Alors c'est parfait, allons-y ensemble !"
+msgstr "Pak je to perfektní, pojďme společně!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_062ace96"
+msgid "Bonjour mon chéri !"
+msgstr "Ahoj, miláčku!"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_1b5723bb"
+msgid "Bonjour mon chéri !"
+msgstr "Ahoj, miláčku!"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_65cb155f"
+msgid "Bonjour mon chéri !"
+msgstr "Ahoj, miláčku!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_dcfbfbe3"
+msgid "Je constate que tu n'as pas perdu de temps."
+msgstr "Vidím, že jste neztrácel čas."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_cd56f517"
+msgid "Je ne supportais plus de rester là à ne rien faire."
+msgstr "Nemohla jsem stát a nic nedělat."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_4497dc2c"
+msgid "Tu t'es occupé de tous mes problèmes, tu as été formidable."
+msgstr "Postarali jste se o všechny mé problémy, byli jste skvělí.."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_b9c66c77"
+msgid "Je ne pourrais jamais assez te remercier."
+msgstr "Nemohu vám dostatečně poděkovat."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_b9c9f2f8"
+msgid "Tu n'as pas besoins de me remercier, mais..."
+msgstr "Nemusíte mi děkovat, ale..."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_5f7ace04"
+msgid "Si tu insistes, je peux..."
+msgstr "Pokud na tom trváte, mohu..."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_fcf81914"
+msgid "Shhh, n'en dis pas plus ! J'ai compris."
+msgstr "Pšššt, už nic neříkej! Vím, co máš na mysli."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_85085b88"
+msgid "Retrouve-moi à la maison en fin de journée, je m'occuperais de toi."
+msgstr "Na konci dne se sejdeme v domě a já se o tebe postarám."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_780a890f"
+msgid "Avec plaisir alors, à ce soir !"
+msgstr "Rád bych! Uvidíme se večer!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_41499d63"
+msgid "J'ai hâte d'y être, ce soir mon chéri !"
+msgstr "Už se nemůžu dočkat, až tam dnes večer dorazím, drahoušku!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_d3f41477"
+msgid "Gamin, j'espère que tu as de quoi commander, sinon tu peux ressortir tout de suite."
+msgstr "Chlapče, doufám, že si máš co objednat, jinak můžeš jít zase ven."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_f4f2b1e5"
+msgid "{{yasuka.n}} m'a prévenu que son patron était un gros connard."
+msgstr "{{yasuka.n}} mě varoval, že jeho šéf je velký kretén."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_ced09ecf"
+msgid "J'espère juste qu'elle l'a surestimée."
+msgstr "Jen doufám, že to přecenila."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_c5322b67"
+msgid "Je ne sais pas s'il sera sensible à mes problèmes."
+msgstr "Nevím, jestli bude citlivý k mým problémům."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_19c8916a"
+msgid "Mais j'ai comme un gros doute."
+msgstr "Ale mám velké pochybnosti."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_15e7b9f7"
+msgid "Dépêche-toi, je n'ai pas que ça à faire !"
+msgstr "Pospěšte si, nemám na to celý den!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_6dddebf6"
+msgid "Oui, j'aimerais commander s'il vous plait."
+msgstr "Ano, rád bych si objednal, prosím."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_1095df51"
+msgid "Tchh"
+msgstr "Tchh"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_1cd11301"
+msgid "{{saito.n}} s'installa sur une banquette et passa la journée à attendre."
+msgstr "{{saito.n}} usadil se na lavičku a strávil den čekáním."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_31d77837"
+msgid "Bon, je vais fermer, c'est le moment pour toi de partir."
+msgstr "Dobře, zavírám, takže je čas jít."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_cd8861e5"
+msgid "Merde ! Ils sont encore là à m'attendre."
+msgstr "Do prdele! Pořád na mě čekají."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_64067c20"
+msgid "Je sais pas comment je vais me tirer de ce mauvais pas."
+msgstr "Nevím, jak se z téhle šlamastyky dostanu."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_678fa7b8"
+msgid "Ils sont décidés à vouloir ma peau."
+msgstr "Jsou odhodláni mě zabít."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_16eef316"
+msgid "Il me faut une idée brillante."
+msgstr "Potřebuji geniální nápad."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_f17e1fde"
+msgid "Il me semblait qu'avant, il y avait une femme qui travaillait ici."
+msgstr "Zdálo se mi, že tu kdysi pracovala nějaká žena."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_a2a9adcd"
+msgid "Ce n'est plus le cas ?"
+msgstr "Už to tak není?"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_43aac03c"
+msgid "Qu'est-ce que ça peut te faire ? Cette foutue ingrate a démissionné, maintenant, je me tape tout le boulot."
+msgstr ""
+"Co je to pro vás? Ta nevděčná mrcha dala výpověď a já teď dělám všechnu "
+"práci."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_bea2a22f"
+msgid "Oula doucement, je ne cherche pas les problèmes."
+msgstr "Buď v klidu, nevyhledávám problémy."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_c6b40686"
+msgid "Vous cherchez quelqu'un pour la remplacer ?"
+msgstr "Hledáte někoho, kdo ji nahradí?"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_63dccf2a"
+msgid "...Toi ?"
+msgstr "...Toi ?"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_728cbd2a"
+msgid "Me fait pas rire !"
+msgstr "Nerozesmívej mě!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_356148b6"
+msgid "Allez tire toi !"
+msgstr "No tak, jdi na to!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_2f904ecf"
+msgid "[font_size=14]{{saito.n}}, c'est l'heure ! Arrête de faire durer le plaisir ![/font_size]"
+msgstr "[font_size=14]{{saito.n}}, je čas! Přestaňte to protahovat![/font_size]"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_7a9476be"
+msgid "[font_size=14]C'est juste un très mauvais moment à passer.[/font_size]"
+msgstr "[font_size=14]Je to opravdu špatné období[/font_size]."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_56ec7904"
+msgid "[font_size=14]{{akira.n}} a très envie de discuter avec toi, crois-moi, t'as pas envie de le faire attendre.[/font_size]"
+msgstr ""
+"[font_size=14]{{akira.n}} s tebou chce opravdu mluvit, věř mi, nechceš ho "
+"nechat čekat.[/font_size]"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_12e2ae94"
+msgid "Je crois bien que quelqu'un va passer un sale moment."
+msgstr "Myslím, že se někdo bude mít špatně."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_9d8abc0f"
+msgid "...Vous ne comptez pas m'aider ?"
+msgstr "Ty mi nepomůžeš?"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_8fd8e5da"
+msgid "T'aider ? Je vais fermer la boutique, rentrez chez moi et profiter de ma soirée."
+msgstr "Pomůže vám? Zavřu obchod, půjdu domů a užiju si večer."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_749d6f39"
+msgid "Ce qui peut t'arriver, je n'en ai rien à branler."
+msgstr "Je mi jedno, co se ti stane."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_568d4ce8"
+msgid "MAINTENANT DÉGAGE !"
+msgstr "TEĎ VYPADNI!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_a6c7a572"
+msgid "Qu'est-ce que tu veux ?"
+msgstr "Na co myslíte?"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_c5a36d37"
+msgid "Qu'est-ce que tu veux ?"
+msgstr "Co máte na mysli?"
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "home_player_hallway_238b91e5"
+msgid "Qu'est-ce que tu veux ?"
+msgstr "Na co myslíte?"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_c6ad8508"
+msgid "Je voulais vous remercier pour hier soir, sans vous, je ne sais pas si je serais encore là aujourd'hui."
+msgstr ""
+"Chtěl jsem ti poděkovat za včerejší noc, bez tebe nevím, jestli bych tu dnes "
+"ještě byl."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_87111c4f"
+msgid "Je l'ai pas fait pour toi."
+msgstr "Neudělal jsem to pro tebe."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_662878fa"
+msgid "Allez, tire-toi de là, j'ai du travail qui m'attend."
+msgstr "Běž, vypadni odsud, mám práci."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_6537e934"
+msgid "Attendez... J'aimerais avoir une copie de l'enregistrement s'il vous plait."
+msgstr "Moment... Chtěl bych kopii nahrávky, prosím."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_0458b6ed"
+msgid "De quoi ?"
+msgstr "Co to je?"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "talk_noriko_e73a231d"
+msgid "De quoi ?"
+msgstr "Co to je?"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_6b7cd08e"
+msgid "De quoi ?"
+msgstr "Co to je?"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_e73a231d"
+msgid "De quoi ?"
+msgstr "Co to je?"
+
+#: game/story/park.dialogue
+msgctxt "talk_asami_c7f9c84e"
+msgid "De quoi ?"
+msgstr "Co to je?"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_0432d5ff"
+msgid "L'enregistrement que vous avez réalisé hier soir !"
+msgstr "Nahrávka, kterou jste pořídili včera večer!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_20e217e3"
+msgid "Aaaah ça, c'était du bluff ! Je n'avais rien du tout."
+msgstr "Aaaah, to byl blaf! Nic jsem neměl."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_6de8c182"
+msgid "Vous plaisantez ?"
+msgstr "Děláte si legraci?"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_fd83b488"
+msgid "Pourquoi j'ai la sensation qu'il se fout de ma gueule ?"
+msgstr "Proč mám pocit, že si ze mě dělá prdel?"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_330317d5"
+msgid "Ce gars ment comme il respire."
+msgstr "Ten chlap lže skrz zuby."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_98901fe8"
+msgid "Il n'a jamais eu l'envie de m'aider."
+msgstr "Nikdy neměl chuť mi pomáhat."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_75d63c26"
+msgid "Jamais ! Maintenant casse-toi, tu commences à me gonfler !"
+msgstr "Nikdy! Teď už jdi do hajzlu, začínáš mě štvát!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_cda7fafe"
+msgid "Je suis en train de vendre la boutique."
+msgstr "Prodávám obchod."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_d06b2774"
+msgid "Et je ne veux pas de mioches dans les pattes quand les acheteurs vont venir."
+msgstr "A nechci, aby se tu poflakovaly děti, až přijdou kupci."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_0f29888d"
+msgid "Vous vendez ? C'est à cause des menaces de l'autre jour ?"
+msgstr "Prodáváte? Je to kvůli výhružkám z minulého dne?"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_c980052b"
+msgid "Gamin, la personne qui pourra me menacer n'est pas encore née, crois-moi."
+msgstr "Chlapče, člověk, který mě může ohrozit, se ještě nenarodil, věř mi."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_6527c470"
+msgid "Je vends, car je ne veux plus m'encombrer de cette boutique."
+msgstr "Prodávám, protože už se nechci s tímto obchodem obtěžovat."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_85a516d1"
+msgid "Et surtout, j'ai de quoi tenir jusqu'à la fin de ma vie sans travailler."
+msgstr "A hlavně mám dost peněz na to, abych vydržel do konce života bez práce."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_dbe81c42"
+msgid "Et puis j'ai des projets plus intéressants..."
+msgstr "A pak mám další zajímavé projekty..."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_632b7121"
+msgid "Allez dégage d'ici !"
+msgstr "Vypadněte odsud!"
+
+#: game/story/love_hotel_exterior.dialogue
+msgctxt "love_hotel_exterior_e1021b8c"
+msgid "Allez dégage d'ici !"
+msgstr "Vypadněte odsud!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_279b6718"
+msgid "Tu en fais une tête, ça ne va pas ?"
+msgstr "Tváříš se, že?"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_6399b904"
+msgid "Installe-toi sur une banquette et tu me raconteras tout d'accord ?"
+msgstr "Proč se neposadíte a neřeknete mi o tom všechno?"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_4ca6a0ff"
+msgid "Je t'écoute !"
+msgstr "Poslechněme si to!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_6848e675"
+msgid "Il est temps que je m'occupe de ma relation...[w] conflictuelle avec {{noriko.n}}."
+msgstr ""
+"Je načase, abych se vypořádal se svým...[w] rozporuplným vztahem k {{noriko."
+"n}}."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_8070e4ce"
+msgid "Je crois que j'ai laissé les choses se détériorer pendant trop longtemps."
+msgstr "Myslím, že jsem nechal věci příliš dlouho chátrat."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_b61b32b4"
+msgid "Et j'ai peut-être pensé à tort que le problème ne venait absolument pas de moi."
+msgstr "A možná jsem se mylně domníval, že problém vůbec není ve mně."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_466d716a"
+msgid "Mon chéri, tu es toujours si dur avec toi-même."
+msgstr "Miláčku, ty jsi na sebe vždycky tak přísná."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_aa86aad2"
+msgid "Tu n'as pas à porter tout ça seul sur tes épaules."
+msgstr "Nemusíte to všechno nést na svých bedrech."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_d9039577"
+msgid "Toi et moi savons qu'elle n'est pas facile à vivre."
+msgstr "Oba víme, že to není snadný život."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_ac5dac23"
+msgid "Je suis moi-même en partie responsable de cette situation."
+msgstr "Za tuto situaci jsem částečně zodpovědný já sám."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_9cf99a43"
+msgid "Être parent n'est pas vraiment pas simple..."
+msgstr "Být rodičem opravdu není snadné..."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_16085e4a"
+msgid "Il est trop tard pour regretter à présent."
+msgstr "Teď už je pozdě litovat."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_70915082"
+msgid "Autant se concentrer sur ce qui peut être changé."
+msgstr "Mohli bychom se soustředit na to, co lze změnit."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_47e603be"
+msgid "Tu as raison !"
+msgstr "Máš pravdu!"
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "restaurant_exterior_0b05caf3"
+msgid "Tu as raison !"
+msgstr "Máš pravdu!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_ddc1268b"
+msgid "Dis-moi, en quoi je peux t'être utile ?"
+msgstr "Řekněte mi, jak vám mohu pomoci?"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_59126e59"
+msgid "Est-ce que tu te souviens de l'époque ou mon père m'a... laissé avec vous ?"
+msgstr "Vzpomínáš si, jak mě otec nechal u tebe?"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_9025f057"
+msgid "Je m'en souviens comme si c'était hier, impossible d'oublier un tel jour."
+msgstr ""
+"Pamatuji si to, jako by to bylo včera, na takový den se nedá zapomenout."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_3f1f43be"
+msgid "J'étais à la fois heureuse et en même temps tellement en colère contre lui."
+msgstr "Byla jsem šťastná a zároveň jsem se na něj strašně zlobila."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_e0d504a2"
+msgid "Abandonner un petit garçon à un si jeune âge..."
+msgstr "Opustit malého chlapce v tak nízkém věku..."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_35ff5035"
+msgid "{{yasuka.n}} j'ai oublié ce type depuis longtemps, ce que j'aimerais savoir c'est comment était ma relation avec {{noriko.n}} ?"
+msgstr ""
+"{{yasuka.n}} Už jsem na něj dávno zapomněl, zajímalo by mě, jaký byl můj "
+"vztah s {{noriko.n}}?"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_6f439d79"
+msgid "... Vous vous entendiez à merveille, elle n'a pas connu son père, le fait d'avoir un frère a été pour elle une joie incroyable."
+msgstr ""
+"... Skvěle jste si rozuměli, nikdy nepoznala svého otce a mít bratra pro ni "
+"byla neuvěřitelná radost."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_da63593c"
+msgid "Elle parlait sans arrêt de toi..."
+msgstr "Pořád o tobě mluvila..."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_e0f2297c"
+msgid "Et puis..."
+msgstr "A pak..."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_d4375a6b"
+msgid "Quelque chose a dû se passer. Elle s'est progressivement renfermée sur elle-même."
+msgstr "Něco se muselo stát. Postupně se uzavřela do sebe."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_e393469e"
+msgid "De ton côté tu essayais d'insister pour aller vers elle mais elle ne voulait rien savoir."
+msgstr "Vy jste se snažila naléhat, abyste šla k ní, ale ona vás neposlouchala."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_4f557364"
+msgid "Elle ne m'a jamais expliquée la raison."
+msgstr "Nikdy nevysvětlila proč."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_ce2414e1"
+msgid "J'aurais donc fait quelque chose de si terrible que ça ?"
+msgstr "Udělal bych něco tak hrozného?"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_ca65c9a7"
+msgid "... Pourquoi penses-tu une telle chose ?"
+msgstr "... Proč si něco takového myslíte?"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_c49f6493"
+msgid "Je ne sais pas...[w] J'ai dû lui faire peur à un moment ou un autre, ou pire encore..."
+msgstr "Nevím...[w] Asi jsem ho někdy vyděsil, nebo ještě hůř..."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_22f296e3"
+msgid "Mon chéri... tu avais 8 ans à l'époque... Tout ce qui vous intéressait c'était de faire des cabanes, vous baigner dans le lac et vous amuser au..."
+msgstr ""
+"Můj drahý... v té době ti bylo 8 let... Chtěl jsi jen stavět domečky na "
+"stromech, koupat se v jezeře a bavit se na..."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_e8d0313d"
+msgid "Oh... Je crois me souvenir de quelque chose."
+msgstr "Oh... Myslím, že si na něco vzpomínám."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_e1657287"
+msgid "Un soir en rentrant du parc... {{noriko.n}} pleurait et semblait inconsolable."
+msgstr ""
+"Jednou večer cestou z parku domů... {{noriko.n}} plakala a vypadala "
+"neutěšeně."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_fa9cd0e2"
+msgid "Toi tu étais blessé de partout mais tu faisais comme si ce n'était pas grave."
+msgstr "Byl jsi celý zraněný, ale předstíral jsi, že to není vážné."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_83585be5"
+msgid "Tu savais pourquoi ?"
+msgstr "Věděli jste proč?"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_5b9226d2"
+msgid "Hélas non, vous n'avez jamais voulu me le dire..."
+msgstr "Bohužel ne, nikdy jsi mi to nechtěl říct..."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_49c45df8"
+msgid "... Donc si je comprends bien... il s'est passé quelque chose dans ce parc quand nous étions petits."
+msgstr ""
+"... Takže jestli tomu dobře rozumím... něco se v tomhle parku stalo, když "
+"jsme byli děti."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_361d90a1"
+msgid "Et ma relation avec {{noriko.n}} n'a fait qu'empirer depuis ce jour."
+msgstr "A můj vztah s {{noriko.n}} se od té doby jen zhoršil."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_cc8a0337"
+msgid "Merci pour tout."
+msgstr "Děkuji vám za všechno."
+
+#: game/story/park.dialogue
+msgctxt "t08253af01a"
+msgid "Merci pour tout."
+msgstr "Děkuji vám za všechno."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_814d6775"
+msgid "Oh je n'ai pas fait grand chose, j'aurais aimé pouvoir faire plus."
+msgstr "Moc jsem toho neudělal, kéž bych mohl udělat víc."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_c0fed06e"
+msgid "J'en sais déjà bien plus."
+msgstr "Už toho vím mnohem víc."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_8a0b3a25"
+msgid "Je trouverai l'origine du problème et {{noriko.n}} me sourira à nouveau."
+msgstr "Najdu zdroj problému a {{noriko.n}} se na mě opět usměje."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_30d7207e"
+msgid "Bonne chance mon chéri, je suis certaine que tu y parviendras."
+msgstr "Hodně štěstí, miláčku, jsem si jistá, že uspěješ."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_9f8596cc"
+msgid "Je devrais prendre le baladeur MP3. Il est sur mon lit."
+msgstr "Měl bych si vzít MP3 přehrávač. Mám ho na posteli."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_293b2c4f"
+msgid "Pas de temps à perdre ! Je dois trouver ce qui arrive à {{yasuka.n}} !"
+msgstr "Není času nazbyt! Musím zjistit, co se děje s {{yasuka.n}}!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_2fe8ad28"
+msgid "{{yasuka.n}} m'a appelé dans sa chambre. Je devrais la rejoindre."
+msgstr "{{yasuka.n}} mě zavolal do svého pokoje. Měla bych se k ní připojit."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_554c43d4"
+msgid "Je devrais aller voir {{yasuka.n}} dans sa chambre."
+msgstr "Měla bych jít za {{yasuka.n}} do jeho pokoje."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_80de7195"
+msgid "Je ferais mieux d'aller prendre un peu d'air frais dehors."
+msgstr "Raději půjdu ven na čerstvý vzduch."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_noriko_room_closed_3a300f9c"
+msgid "Mieux vaut que je la laisse tranquille pour le moment."
+msgstr "Raději ji zatím nechám na pokoji."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_noriko_room_closed_ab417b7e"
+msgid "Rajouter de l'huile sur le feu n'aidera personne."
+msgstr "Přilévání oleje do ohně nikomu nepomůže."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_noriko_room_closed_9cdc86e1"
+msgid "Non, si je rentre ici, {{noriko.n}} va encore claquer un scandale."
+msgstr "Ne, jestli se sem vrátím, {{noriko.n}} zase rozpoutá peklo."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_noriko_room_closed_127b90d2"
+msgid "Évitons les effusions de sang inutiles..."
+msgstr "Vyhněme se zbytečnému krveprolití..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "t84c006c3b8"
+msgid "Il est tard, je vais éviter de la réveiller."
+msgstr "Je pozdě, nechci ji budit."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_noriko_room_closed_cb8d0dec"
+msgid "Va... Va-t'en ! Laisse-moi tranquille !"
+msgstr "Získejte... Jdi pryč! Nechte mě na pokoji!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_noriko_room_closed_f0922e63"
+msgid "Casse-toi le parasite !"
+msgstr "Vypadni!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_noriko_room_closed_66f14ba0"
+msgid "Maintenant que j'ai la paix, je vais éviter d'en rajouter."
+msgstr "Teď, když už mám klid, se budu vyhýbat tomu, abych k němu přidával."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_noriko_room_closed_97502b55"
+msgid "Mieux vaut que je laisse {{noriko.n}} tranquille pour le moment."
+msgstr "Raději nechám {{noriko.n}} na pokoji."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_f133bbfb"
+msgid "Non, mais ça ne va pas de hurler comme ça dès le matin ?!"
+msgstr "Ne, ale co je špatného na tom, že hned ráno takhle křičíš?!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_11d3ac2a"
+msgid "Y'en a marre, quand est-ce que tu te comporteras comme un mec ?"
+msgstr "Kdy se začneš chovat jako muž?"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_23584010"
+msgid "T'es vraiment qu'un gamin !"
+msgstr "Ty jsi ale dítě!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_35288d53"
+msgid "Oula, doucement... M'agresse pas dès le matin comme ça je..."
+msgstr "Klídek... Neútoč na mě hned ráno, já..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_864c46c2"
+msgid "Ferme ta gueule !"
+msgstr "Drž hubu!"
+
+#: game/story/park.dialogue
+msgctxt "te32d52fca2"
+msgid "Ferme ta gueule !"
+msgstr "Drž hubu!"
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_c2dc5b31"
+msgid "Ferme ta gueule !"
+msgstr "Drž hubu!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_f5d633d9"
+msgid "J'en peux plus de toi et de tes conneries, t'es qu'un foutu parasite, quand est-ce que tu te barres d'ici ?!"
+msgstr ""
+"Už ty tvoje kecy nesnesu, jsi zatracený parazit, kdy už konečně vypadneš?!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_78e798c2"
+msgid "Quoi ?! Mais je..."
+msgstr "Cože?! Ale já..."
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_eb593743"
+msgid "Quoi ?! Mais je..."
+msgstr "Cože?! Ale já..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_71d02d97"
+msgid "J'MEN FOUT CASSE-TOI !"
+msgstr "VYPADNĚTE!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_aa884729"
+msgid "La vache..."
+msgstr "Svatá prostato..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_89778dcc"
+msgid "J'avais totalement oublié son existence."
+msgstr "Úplně jsem zapomněl, že existuje."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_3ab3c167"
+msgid "Comment j'ai pu oublier {{noriko.n}} et son agressivité légendaire..."
+msgstr ""
+"Jak bych mohl zapomenout na {{noriko.n}} a jeho legendární agresivitu..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_8ed9d900"
+msgid "Elle a toujours été ultra-violente avec moi, j'ai essayé de savoir pourquoi elle m'en voulait tellement, mais..."
+msgstr ""
+"Vždycky na mě byla ultrabrutální a já se snažil zjistit, proč se na mě tak "
+"zlobí, ale..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_0b052899"
+msgid "Elle m'a toujours envoyé chier."
+msgstr "Vždycky jsem z ní měl husí kůži."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_e49418ab"
+msgid "Si je me souviens bien, elle va quitter la maison en volant le peu d'argent qu'il restera à {{yasuka.n}} pour s'enfuir avec une bande de racailles."
+msgstr ""
+"Pokud si dobře vzpomínám, tak se chystá opustit dům tak, že ukradne to málo "
+"peněz, co {{yasuka.n}} zbylo, a uteče s bandou šmejdů."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_7199d067"
+msgid "Et on va la retrouver noyée dans le canal peu de temps après sa fugue, son corps totalement souillé."
+msgstr ""
+"Krátce po útěku ji najdou utopenou v kanále, její tělo je zcela znečištěné."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_9cd593bd"
+msgid "Ça va briser {{yasuka.n}}. Elle ne pourra jamais remonter la pente après ça..."
+msgstr ""
+"Zlomí to {{yasuka.n}}. Po tomhle už se nikdy nedokáže vrátit do normálu..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_43ea3f38"
+msgid "Pffff, et en plus, tu te parles à toi-même maintenant... Tellement pathétique !"
+msgstr "Pffff, a navíc teď mluvíš sám se sebou... Tak ubohé!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_dd978a3f"
+msgid "Tu me donnes envie de vomir !"
+msgstr "Chce se mi z tebe zvracet!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_96d9d3a2"
+msgid "Rien que de voir ta... tête, je..."
+msgstr "Jen jsem viděl váš... tvář, já..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_f94ec740"
+msgid "Beuh, je sens que ça vient..."
+msgstr "Cítím, že se to blíží..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_bc4eeee4"
+msgid "...ou pas."
+msgstr "...nebo ne."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_43ea5588"
+msgid "T'as passé une mauvaise journée ?"
+msgstr "Měli jste špatný den?"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_b9ae232a"
+msgid "Eh bien, tu peux pas savoir comme ça me fait plaisir !"
+msgstr "Ani si nedovedete představit, jak mě to těší!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_ffd6a680"
+msgid "J'espère que ça sera pire encore demain !"
+msgstr "Doufám, že zítra to bude ještě horší!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_8958d958"
+msgid "T'es vraiment qu'un putain de..."
+msgstr "Ty jsi takový zasraný..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_e447f6d9"
+msgid "Euh..."
+msgstr "Ehm..."
+
+#: game/story/love_hotel_room.dialogue
+msgctxt "tc604a699c8"
+msgid "Euh..."
+msgstr "Ehm..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_3504f98c"
+msgid "Euh..."
+msgstr "Ehm..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_34d90840"
+msgid "Euh..."
+msgstr "Ehm..."
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "talk_yasuka_d6516fa2"
+msgid "Euh..."
+msgstr "Ehm..."
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_d6516fa2"
+msgid "Euh..."
+msgstr "Ehm..."
+
+#: game/story/park.dialogue
+msgctxt "park_698bebd4"
+msgid "Euh..."
+msgstr "Ehm..."
+
+#: game/story/park.dialogue
+msgctxt "tb38fc5da75"
+msgid "Euh..."
+msgstr "Ehm..."
+
+#: game/story/park.dialogue
+msgctxt "talk_natsume_902c6fdc"
+msgid "Euh..."
+msgstr "Ehm..."
+
+#: game/story/amusement_park_interior.dialogue
+msgctxt "td927c4c8b9"
+msgid "Euh..."
+msgstr "Ehm..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_62854c6d"
+msgid "Bonsoir, ma chérie, tu n'es pas encore couchée ?"
+msgstr "Ahoj, miláčku, ještě nejsi v posteli?"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_847f88b0"
+msgid "Si... si... j'y allais justement..."
+msgstr "Kdybych... kdybych... Chtěl jsem jen..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_3b51dcf3"
+msgid "Bonne nuit alors !"
+msgstr "Tak dobrou noc!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_dd2f5fac"
+msgid "Allons-y mon chéri !"
+msgstr "Pojďme, miláčku!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_a0df62e4"
+msgid "Rien qu'à voir la tête de {{noriko.n}}..."
+msgstr "Stačí se podívat na {{noriko.n}} obličej..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_3b81fd04"
+msgid "Ça en valait la peine !"
+msgstr "Stálo to za to!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_3989c296"
+msgid "Je me ferai surement défoncer demain."
+msgstr "Zítra se nejspíš opiju."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_noriko_room_closed_303ba0ac"
+msgid "Ah merde... J'aurais peut-être pas dû l'envoyer chier ce matin..."
+msgstr "Do prdele... Možná jsem mu dnes ráno neměl říkat, ať jde do prdele..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_noriko_room_closed_84e253d9"
+msgid "Bon..."
+msgstr "Bon..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_8c65630d"
+msgid "Bon..."
+msgstr "Bon..."
+
+#: game/story/hostess_club_exterior.dialogue
+msgctxt "hostess_club_exterior_24c256d8"
+msgid "Bon..."
+msgstr "Bon..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_noriko_room_closed_9650078c"
+msgid "Quand il faut y aller, faut y aller !"
+msgstr "Když musíš jít, tak musíš jít!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_noriko_room_closed_5308c43e"
+msgid "{{noriko.n}}... Ahem... Je peux te parler un instant ?"
+msgstr "{{noriko.n}}... Ehm... Mohu s vámi na chvíli mluvit?"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_noriko_room_closed_18fae4d1"
+msgid "Je suis à la recherche de mon vieux MP3..."
+msgstr "Hledám svůj starý přehrávač MP3..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_noriko_room_closed_278e7c99"
+msgid "Tu ne l'aurais pas vu à tout has...."
+msgstr "Vůbec bys to neviděl, máš....."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_noriko_room_closed_a1d6bd2c"
+msgid "...Évidemment !"
+msgstr "Samozřejmě!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_noriko_room_closed_1ed63590"
+msgid "Bon... Il va falloir trouver une stratégie plus efficace..."
+msgstr "Takže... Budeme muset vymyslet účinnější strategii..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_noriko_room_closed_a2a2c4f6"
+msgid "Elle doit probablement jouer sur son PC, peut-être que..."
+msgstr "Nejspíš hraje na svém počítači, možná..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_noriko_room_closed_3f06fac8"
+msgid "Si je lui coupe le wifi, je suis certain à 200% qu'elle va sortir de sa chambre !"
+msgstr "Kdybych jí odpojil wifi, jsem si na 200 % jistý, že vyjde z pokoje!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_noriko_room_closed_7a9b7c49"
+msgid "Le routeur doit être dans le [color=yellow]salon[/color]."
+msgstr "Router musí být v [color=yellow]obývacím pokoji[/color]."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_noriko_room_closed_d6ed5375"
+msgid "Il va falloir être rapide !"
+msgstr "Musíme si pospíšit!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_0c3ec198"
+msgid "Une minute..."
+msgstr "Počkejte chvíli..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_82150078"
+msgid "Si je rentre ici sans être préparé, elle va encore trouver le moyen de me faire chanter..."
+msgstr "Když se sem vrátím nepřipravená, stejně najde způsob, jak mě vydírat..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_2075f795"
+msgid "Dans mon rêve, elle m'avait accusé de l'avoir violé et avait quitté la maison peu de temps après."
+msgstr "Ve snu mě obvinila, že jsem ji znásilnil, a krátce nato odešla z domu."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_c9edb325"
+msgid "{{yasuka.n}} ne m'avait plus jamais adressée la parole, j'avais dû quitter la maison par la suite."
+msgstr ""
+"{{yasuka.n}} už se mnou nikdy nepromluvil, takže jsem pak musel odejít z "
+"domu."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_a3deec1e"
+msgid "{{noriko.n}} cette fois-ci, je ne me ferais pas avoir !"
+msgstr "{{noriko.n}} Tentokrát se nenechám oklamat!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "t377300f535"
+msgid "Vous avez activé l'enregistreur audio de votre tablette."
+msgstr "Aktivovali jste zvukový záznamník tabletu."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_3d76fd1f"
+msgid "Enfin !!!"
+msgstr "Konečně!!!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_c92622f5"
+msgid "Cette fois-ci, {{noriko.n}} est hors service !"
+msgstr "Tentokrát je {{noriko.n}} mimo provoz!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_d756bd48"
+msgid "Putain, pourquoi je n'ai jamais fait ça plus tôt ?!"
+msgstr "Proč jsem to kurva neudělal dřív?!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_20019500"
+msgid "Ça fait tellement de bien..."
+msgstr "Je to tak příjemné..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_af6010dc"
+msgid "Ah merde, je n'ai pas vu le temps passer !"
+msgstr "Sakra, ztratil jsem pojem o čase!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_f5542d4e"
+msgid "J'espère que {{macumba.n}} ne m'a pas attendu toute la journée..."
+msgstr "Doufám, že na mě {{macumba.n}} nečeká celý den..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_f5542d4e_1"
+msgid "J'espère que {{macumba.n}} ne m'a pas attendu toute la journée..."
+msgstr "Doufám, že na mě {{macumba.n}} nečeká celý den..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_6c6c6c0d"
+msgid "Bordel ! Ce qui vient de se passer..."
+msgstr "Sakra! Co se právě stalo..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_0bbf19c0"
+msgid "Je n'aurais jamais pensé que {{noriko.n}} ferait un truc aussi audacieux."
+msgstr "Nikdy jsem si nemyslel, že {{noriko.n}} udělá něco tak odvážného."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_37774e33"
+msgid "Peut-être devrais-je profiter un petit temps de cette situation, je serais curieux de voir ou tout ça va me mener."
+msgstr ""
+"Možná bych měl této situace na chvíli využít, zajímalo by mě, kam mě to "
+"všechno zavede."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_0f41cc13"
+msgid "...[w] J'aurais peut-être dû les touchers au final."
+msgstr "...[w] Možná jsem se jich měl nakonec dotknout."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_af6010dc_1"
+msgid "Ah merde, j'ai pas vu le temps passer !"
+msgstr "Sakra, ztratil jsem pojem o čase!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_ce44d7ee"
+msgid "C'est quoi ces bruits..."
+msgstr "Co je to za zvuky..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_9cd7ca42"
+msgid "On dirait des... gémissements !"
+msgstr "Zní to jako... sténání!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_70871f4d"
+msgid "Nooon, elle n'est tout de même pas en train de faire ce que je crois ?!"
+msgstr "Ne, nedělá to, co si myslím, že dělá!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "tce29a7c279"
+msgid "Coller son oreille contre la porte"
+msgstr "Přiložte ucho ke dveřím"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_9a20b792"
+msgid "Hummm..."
+msgstr "Hummm..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_b1c03ba5"
+msgid "Oui... Juste là..."
+msgstr "Ano... Právě tam..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_b6398ec1"
+msgid "Oohhh, voilà..."
+msgstr "Oohhhh, tady to je..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_6cdb64c2"
+msgid "Oui oui oui..."
+msgstr "Ano, ano, ano..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_c317db21"
+msgid "Han la vache..."
+msgstr "Ach bože..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_457162a5"
+msgid "C'est... chaud !"
+msgstr "Je to... horké!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_748684b1"
+msgid "Hummm... Oui..."
+msgstr "Hummm... Ano..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_963bae77"
+msgid "Finalement, tout ce qui s'est passé l'a terriblement excitée..."
+msgstr "Nakonec ji všechno, co se stalo, strašně vzrušilo..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "t0ce0489d37"
+msgid "Continuer d'écouter"
+msgstr "Poslouchejte dál"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_b214b8fe"
+msgid "Ça valait le coup de se revivre rien que pour ce moment !"
+msgstr "Už jen kvůli tomu okamžiku to stálo za to prožít znovu!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_79e8986b"
+msgid "Sacrée {{noriko.n}}..."
+msgstr "Svatý {{noriko.n}}..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_a50ef803"
+msgid "J'imagine qu'elle devait être sacrément frustrée."
+msgstr "Dokážu si představit, že musela být dost frustrovaná."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_cd15d2f2"
+msgid "Je pense qu'elle a terminé..."
+msgstr "Myslím, že skončila..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_2fe96b66"
+msgid "Merde, c'est moi qui suis excité maintenant."
+msgstr "Sakra, teď jsem nadržený já."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "ta5020d5d22"
+msgid "S'en aller"
+msgstr "Jdi pryč"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "t2fdaa7cd0e"
+msgid "J'ai pas que ça à faire."
+msgstr "Nemám na to celý den."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_290f8954"
+msgid "Je peux savoir ce que tu cherches à faire ?"
+msgstr "Mohu se zeptat, o co se snažíte?"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_1860160c"
+msgid "Tu n'avais pas le droit de faire ça."
+msgstr "Neměl jsi na to právo."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_b33eb4ad"
+msgid "Je croyais t'avoir demandé de me laisser tranquille."
+msgstr "Myslel jsem, že jsem tě požádal, abys mě nechal na pokoji."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_31c360db"
+msgid "Et tu es encore là, devant moi, à venir chercher les problèmes."
+msgstr "A ty jsi pořád tady, přede mnou, a hledáš problémy."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_cca26670"
+msgid "Je vais finir par penser que c'est ce que tu souhaites vraiment {{noriko.n}}."
+msgstr "Začínám si myslet, že to je to, co opravdu chceš {{noriko.n}}."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_063c8601"
+msgid "Qu.. Quoi ? C'est n'importe quoi ! Qui voudrait se laisser toucher par..."
+msgstr ""
+"Co se děje v... Co? Co? Co? To je nesmysl! Kdo by chtěl, aby se ho dotýkal..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_a4836727"
+msgid "Mais je rêve ou quoi, elle me sous-entend de passer à l'action ?"
+msgstr "Zdá se mi to, nebo co, naznačuje mi, že mám jednat?"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_e6197d4f"
+msgid "{{noriko.n}}, je ne sais pas ce qui te passe par la tête en ce moment."
+msgstr "{{noriko.n}}, nevím, co se ti teď honí hlavou."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_f30e5df6"
+msgid "Mais je suis curieux de voir ou tout ça va nous mener."
+msgstr "Ale jsem zvědavý, kam to všechno povede."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_6a89a728"
+msgid "Allons dans ta chambre tout de suite !"
+msgstr "Pojďme hned teď do tvého pokoje!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_0d341298"
+msgid "...D'accord."
+msgstr "...V pořádku."
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "kimochi_password_85eec27b"
+msgid "...D'accord."
+msgstr "...V pořádku."
+
+#: game/story/bus_stop.dialogue
+msgctxt "noriko_forgive_c7468e7e"
+msgid "...D'accord."
+msgstr "...V pořádku."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_13790da0"
+msgid "Si tu veux que je m'occupe de toi, tu vas devoir être plus obéissante et surtout..."
+msgstr ""
+"Jestli chceš, abych se o tebe staral, budeš muset být poslušnější a "
+"především..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_4f189644"
+msgid "D'être plus honnête avec toi-même..."
+msgstr "Buďte k sobě upřímnější..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_6442ef52"
+msgid "Mais si c'est la manière forte que tu préfères, ça ne me dérange pas..."
+msgstr "Ale jestli to raději děláte po zlém, tak mi to nevadí..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_165eab73"
+msgid "T... t... t'es vraiment un..."
+msgstr "Ty jsi takový..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_1b5241ef"
+msgid "Un quoi ?"
+msgstr "A co?"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_c65804e0"
+msgid "Ahh..."
+msgstr "Ahh..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_7f8444a5"
+msgid "Je... Non... C'est..."
+msgstr "Nevím... Ne... Já jen..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_ef83d746"
+msgid "Aah..."
+msgstr "Aah..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_084275ae"
+msgid "Je vais..."
+msgstr "Chystám se..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_3665f7f6"
+msgid "Han, c'est trop b-"
+msgstr "Hane, tohle je příliš b-"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_415201f3"
+msgid "Ça dépasse toutes mes attentes."
+msgstr "Předčila všechna má očekávání."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_dd67902d"
+msgid "Elle semble littéralement prendre son pied."
+msgstr "Vypadá to, že si to doslova užívá."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_7a4b2c81"
+msgid "Je devrais augmenter son niveau de désir."
+msgstr "Měl bych zvýšit jeho úroveň touhy."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_135789a9"
+msgid "Rien de tel qu'un peu de frustration..."
+msgstr "Není nad trochu frustrace..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_15644477"
+msgid "Ça suffit."
+msgstr "To je dost."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_cf1cd077"
+msgid "QUOI ? Non ! J'y suis pr-"
+msgstr "CO? Ne! Jsem připraven..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_90703d21"
+msgid "La prochaine fois, tu seras plus honnête avec moi."
+msgstr "Příště ke mně budeš upřímnější."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_d3dd621b"
+msgid "Oh, bon sang."
+msgstr "Oh, bon sang."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_09593c00"
+msgid "J'ai le cœur qui bat à 200 à l'heure."
+msgstr "Srdce mi bije rychlostí 321 kilometru za hodinu."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_dcaf134f"
+msgid "Il me tarde déjà d'être à la prochaine fois."
+msgstr "Už se těším na příště."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_e8800765"
+msgid "Pas si vite !"
+msgstr "Ne tak rychle!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_0891c7d4"
+msgid "Ah merde, {{noriko.n}}."
+msgstr "Sakra, {{noriko.n}}."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_85a4f684"
+msgid "Elle me tient par les couilles maintenant."
+msgstr "Teď mě drží za koule."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_b10ca948"
+msgid "S'il te plait {{noriko.n}}, je suis occupé en ce moment et..."
+msgstr "Prosím {{noriko.n}}, mám teď moc práce a..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_e6d49726"
+msgid "Silence, chien."
+msgstr "Ticho, pse."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_8fc87ac5"
+msgid "Tu ouvriras la bouche seulement quand je t'en donnerai la permission."
+msgstr "Ústa otevřeš, jen když ti to dovolím."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_caf9d213"
+msgid "Assis !"
+msgstr "Assis !"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_ace7bd46"
+msgid "Mais..."
+msgstr "Ale..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "t1020b80467"
+msgid "Mais..."
+msgstr "Ale..."
+
+#: game/story/warehouse_exterior.dialogue
+msgctxt "warehouse_exterior_13d8606f"
+msgid "Mais..."
+msgstr "Ale..."
+
+#: game/story/canal.dialogue
+msgctxt "canal_ace7bd46"
+msgid "Mais..."
+msgstr "Ale..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "talk_noriko_a6a070f1"
+msgid "Mais..."
+msgstr "Ale..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_c99971cb"
+msgid "Mais..."
+msgstr "Ale..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_7b53c5c8"
+msgid "Mais..."
+msgstr "Ale..."
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "talk_kimochi_3ea7f0e7"
+msgid "Mais..."
+msgstr "Ale..."
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "t98bef4c467"
+msgid "Mais..."
+msgstr "Ale..."
+
+#: game/story/bus_stop.dialogue
+msgctxt "bus_stop_a6a070f1"
+msgid "Mais..."
+msgstr "Ale..."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_3ea7f0e7"
+msgid "Mais..."
+msgstr "Ale..."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t74fdc3042d"
+msgid "Mais..."
+msgstr "Ale..."
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "talk_chef_3ea7f0e7"
+msgid "Mais..."
+msgstr "Ale..."
+
+#: game/story/restaurant_sakuya_room.dialogue
+msgctxt "akira_escape_ace7bd46"
+msgid "Mais..."
+msgstr "Ale..."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "home_player_exterior_d4b1c845"
+msgid "Mais..."
+msgstr "Ale..."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "home_player_exterior_3ea7f0e7"
+msgid "Mais..."
+msgstr "Ale..."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "asami_truth_4543e5f3"
+msgid "Mais..."
+msgstr "Ale..."
+
+#: game/story/park.dialogue
+msgctxt "asami_choice_c99971cb"
+msgid "Mais..."
+msgstr "Ale..."
+
+#: game/story/park.dialogue
+msgctxt "talk_natsume_3ea7f0e7"
+msgid "Mais..."
+msgstr "Ale..."
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_6c215682"
+msgid "Mais..."
+msgstr "Ale..."
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_13d8606f"
+msgid "Mais..."
+msgstr "Ale..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_13517269"
+msgid "J'ai dit assis !"
+msgstr "Řekl jsem, abyste si sedli!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_3df9a51c"
+msgid "J'ai beaucoup réfléchi depuis la dernière fois."
+msgstr "Od minula jsem hodně přemýšlel."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_84b2077f"
+msgid "Et je trouve que pour un chien, tu es drôlement désobéissant."
+msgstr "A myslím, že na psa jsi strašně neposlušný."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_a525e043"
+msgid "À tel point que je vais devoir reprendre ton éducation en main."
+msgstr "Tak moc, že budu muset převzít tvé vzdělání."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_3619d0e8"
+msgid "Je ne supporte plus de te voir aller et venir à longueur de journée faire je ne sais quoi avec je ne sais qui."
+msgstr ""
+"Nemůžu se dívat, jak celý den přicházíš a odcházíš a děláš nevím co a nevím "
+"koho."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_8ce72db8"
+msgid "Tu n'es qu'un animal comme tous les autres."
+msgstr "Jsi jen další zvíře."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_d6749340"
+msgid "Guidé juste par ton besoin de te reproduire."
+msgstr "Řídíte se pouze svou potřebou se reprodukovat."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_8f9c9cf1"
+msgid "Mais ça n'arrivera plus."
+msgstr "Ale to už se nestane."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_d4bbeb03"
+msgid "Si je te vois encore trainer avec une autre femme que moi, je devrais sévir."
+msgstr "Jestli tě ještě někdy uvidím s jinou ženou, budu to muset zarazit."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_09cd89ea"
+msgid "Est-ce que tu comprends ?"
+msgstr "Rozumíte?"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_16020db7"
+msgid "C'est bien, tu es un gentil chien."
+msgstr "To je dobře, jsi dobrý pes."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_c421c568"
+msgid "Oh, mais que vois-je ?"
+msgstr "Ale co vidím?"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_96fdacd5"
+msgid "On dirait que ça t'excite en plus ?"
+msgstr "Zdá se, že vás to vzrušuje, že?"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_9e6a836d"
+msgid "Tu aimes te faire dominer comme ça ?"
+msgstr "Líbí se vám, když vás někdo takto ovládá?"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_94f76d08"
+msgid "Bien sûr que t'aime ça, t'es juste un foutu pervers !"
+msgstr "Samozřejmě, že ano, jsi prostě zatracený úchyl!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_aabe56fc"
+msgid "Maintenant, la prochaine fois que je siffle, tu rappliques immédiatement, c'est compris ?"
+msgstr "Až příště zapískám, hned se vrátíš, rozumíš?"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_6bb38b08"
+msgid "Parfait, dégage maintenant !"
+msgstr "Perfektní, hned vypadni!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_0fb9f0de"
+msgid "C'est qui cette fille ?"
+msgstr "Kdo je ta dívka?"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_c3b92b2b"
+msgid "...personne."
+msgstr "...nikdo."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_e7182eb9"
+msgid "C'est pas la réponse que j'attendais sale chien."
+msgstr "To není odpověď, kterou jsem hledal, ty pse."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_89804fdd"
+msgid "J'ai dit... C'est qui cette fille ?"
+msgstr "Řekl jsem... Kdo je ta holka?"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_34160b06"
+msgid "Pourquoi elle trainerait avec un parasite comme toi ?"
+msgstr "Proč by se stýkala s parazitem, jako jsi ty?"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_59800ea8"
+msgid "Très bonne question, et si tu me laissais y aller, j'aurais la réponse."
+msgstr "To je velmi dobrá otázka, a kdybyste mě nechal, měl bych na ni odpověď."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_b75a0305"
+msgid "Arrête de faire le malin."
+msgstr "Přestaňte se snažit být chytří."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_3d7b6407"
+msgid "Connard !"
+msgstr "Parchant!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_3d7b6407_1"
+msgid "Connard !"
+msgstr "Parchant!"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "blackmail_noriko_bj_4d486858"
+msgid "Connard !"
+msgstr "Parchant!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_af5cde76"
+msgid "C'est toujours un plaisir de discuter avec toi..."
+msgstr "Vždycky je mi potěšením s vámi mluvit..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_11a7e02a"
+msgid "...C'est qui ?"
+msgstr "Kdo je to?"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_bab9843b"
+msgid "Ça ne te regarde pas. Retourne dans ta chambre !"
+msgstr "Do toho vám nic není. Vrať se do svého pokoje!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_fe51d417"
+msgid "La vache, elle est vraiment devenue obéissante ma parole."
+msgstr "Kráva se opravdu stala poslušnou, moje řeč."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_6748bbf5"
+msgid "Les choses s'améliorent."
+msgstr "Situace se zlepšuje."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_4c7c0e64"
+msgid "Je peux savoir ce que tu vas faire ?"
+msgstr "Mohu se zeptat, co se chystáte udělat?"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_afb39f28"
+msgid "J'espère que tu n'as pas l'intention de montrer l'enregistrement à qui que ce soit ?"
+msgstr "Doufám, že tu nahrávku nehodláte nikomu ukázat?"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_8b2d3068"
+msgid "Ça dépend que de toi."
+msgstr "Je to na vás."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_f16b14b5"
+msgid "C'est fou à quel point elle tient à sa réputation..."
+msgstr "Je úžasné, jak moc si cení své pověsti..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_1905619e"
+msgid "Je me demande bien ce que ça cache."
+msgstr "Zajímalo by mě, o co jde."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_3c76d392"
+msgid "Tu te fiches de moi ?"
+msgstr "Děláte si srandu?"
+
+#: game/story/home_asami_asami_room.dialogue
+msgctxt "home_asami_asami_room_2519e44f"
+msgid "Tu te fiches de moi ?"
+msgstr "Děláte si srandu?"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_b80e0bdb"
+msgid "C'est la seconde fille qui vient pour te voir."
+msgstr "Je to už druhá dívka, která za tebou přišla."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_d7e13433"
+msgid "Qu'est-ce que tu leur as fait ? Du chantage, c'est ça ?"
+msgstr "Co jste jim udělali? Vydírání, že?"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_b45aba88"
+msgid "Je suis sûr qu'un pervers comme toi a fait quelque chose de louche."
+msgstr "Jsem si jistý, že úchyl jako ty udělal něco podezřelého."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_0a301055"
+msgid "C'est trop difficile à croire qu'elles pourraient être là simplement parce qu'elles m'apprécient ?"
+msgstr "Je tak těžké uvěřit, že by tam mohli být jen proto, že mě mají rádi?"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_d76abc04"
+msgid "Pfff, ne me fait pas rire, n'oublie pas qu'aux yeux de toute la fac, tu restes un déchet."
+msgstr ""
+"Pfff, nerozesmívej mě, nezapomeň, že v očích celé koleje jsi pořád odpad."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_1c24a0ed"
+msgid "Les choses ne vont pas changer parce que tu t'es mis à courir, ou je ne sais quelle autre connerie."
+msgstr ""
+"Věci se nezmění jen proto, že jsi začal běhat, nebo kvůli nějaké jiné "
+"blbosti."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_274f4445"
+msgid "Les gens ne changent pas."
+msgstr "Lidé se nemění."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_985db49f"
+msgid "Okay, super conversation."
+msgstr "Dobře, super konverzace."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_e1b99375"
+msgid "Ferme là !"
+msgstr "Drž hubu!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_d795e5c3"
+msgid "Une seconde, je ne peux pas me présenter comme ça pour mon premier jour au restaurant..."
+msgstr "Počkat, takhle se přece nemůžu ukázat hned první den v restauraci..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_15e69ec4"
+msgid "Je devrais faire un petit tour dans la salle de bain."
+msgstr "Měla bych se podívat do koupelny."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_4fb6b272"
+msgid "Donc tout ça est bien vrai..."
+msgstr "Takže je to všechno pravda..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_810b37a0"
+msgid "Je suis le seul à pouvoir le voir."
+msgstr "Jsem jediný, kdo to vidí."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_7b8ae9a7"
+msgid "Je ne crois pas avoir vu de changement notable en moi."
+msgstr "Nemyslím si, že bych na sobě pozoroval nějakou znatelnou změnu."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_c50b522b"
+msgid "Pas de pouvoirs ou autres capacités qui sortiraient de l'ordinaire."
+msgstr "Žádné neobvyklé síly nebo schopnosti."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_92d64b6f"
+msgid "En tout cas pas à première vue..."
+msgstr "Alespoň ne na první pohled..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_977d79b0"
+msgid "On verra ça avec le temps ! Je dois filer au restaurant."
+msgstr "Uvidíme časem! Musím běžet do restaurace."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_e84ea1c4"
+msgid "Je vais me faire virer si j'arrive en retard dès le premier jour."
+msgstr "Když se první den opozdím, dostanu padáka."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_55ee076d"
+msgid "Qu'est-ce que tu me veux encore ?"
+msgstr "Co ode mě chcete teď?"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_e25835cc"
+msgid "Tu ne donnes plus aucun signe de vie depuis plusieurs jours."
+msgstr "Už několik dní nejevíš žádné známky života."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_21b32491"
+msgid "T'es trop occupé avec ta nouvelle copine ?"
+msgstr "Jsi příliš zaneprázdněný svou novou přítelkyní?"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_ac66cee5"
+msgid "Qu'est-ce que ça peut te faire, je croyais que tu me détestais ?"
+msgstr "Proč se staráš? Myslel jsem, že mě nenávidíš."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_fb2c2502"
+msgid "Tu ne comprends jamais rien toi !"
+msgstr "Nikdy ničemu nerozumíš!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_a6e3dbd3"
+msgid "Mais bordel..."
+msgstr "Ale sakra..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_df9791e6"
+msgid "C'est quoi ton problème ?"
+msgstr "Co je s tebou?"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_f1f84502"
+msgid "Mon problème ?"
+msgstr "Můj problém?"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_aab8f7a6"
+msgid "C'est votre faute ! Vous avez passé toute la nuit à baiser comme des lapins !"
+msgstr "Za všechno můžeš ty! Celou noc jste souložili jako králíci!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_288b676e"
+msgid "Ah oui effectivement, désolé pour ça."
+msgstr "Ano, za to se omlouvám."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_d84fee7a"
+msgid "...Je te reconnais plus."
+msgstr "...už tě nepoznávám."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_37651377"
+msgid "Tu sembles vraiment être une personne totalement différente."
+msgstr "Opravdu vypadáš jako úplně jiný člověk."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_257a193b"
+msgid "Peut-être, je n'allais pas éternellement me faire marcher sur les pieds."
+msgstr "Možná jsem se nenechal věčně tlačit."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_3f276645"
+msgid "C'est un problème ?"
+msgstr "Je to problém?"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_4fdacb26"
+msgid "C'est un problème ?"
+msgstr "Je to problém?"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_88a91a13"
+msgid "Non, bien sûr que non... au contr-"
+msgstr "Ne, samozřejmě, že ne... na opačnou stranu..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_209ab0a4"
+msgid "Alors quoi ?"
+msgstr "No a co?"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_209ab0a4_1"
+msgid "Alors quoi ?"
+msgstr "No a co?"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_d4e1c09c"
+msgid "De toute façon, je suis sûr qu'elle simule !"
+msgstr "Každopádně jsem si jistý, že to jen předstírá!"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_36667a21"
+msgid "Idiot !"
+msgstr "Idiot !"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_99fe595b"
+msgid "Idiot !"
+msgstr "Idiot !"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "home_player_exterior_c87af36c"
+msgid "Idiot !"
+msgstr "Idiot !"
+
+#: game/story/hostess_club_exterior.dialogue
+msgctxt "hostess_club_exterior_f1347489"
+msgid "Idiot !"
+msgstr "Idiot !"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_7643d8a5"
+msgid "C'est quoi ce bordel ?"
+msgstr "Co se to sakra děje?"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_b55d28ab"
+msgid "Une conversation presque normale avec elle ?"
+msgstr "Téměř normální rozhovor s ní?"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_6809ad10"
+msgid "Je pense que certaines de mes actions sont responsables du changement de sa façon de se comporter avec moi."
+msgstr "Myslím, že některé mé činy jsou příčinou změny jeho chování ke mně."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_b578db8f"
+msgid "Je dois continuer sur cette lancée."
+msgstr "Musím udržet tempo."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_10876d22"
+msgid "Ta mère est vraiment une femme magnifique..."
+msgstr "Vaše matka je opravdu úžasná žena..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_6f1bef95"
+msgid "Si je pouvais avoir la même classe qu'elle dans dix ans, je pense que j'aurais réussi ma vie."
+msgstr ""
+"Kdybych mohla být za deset let ve stejné třídě jako ona, myslím, že by se mi "
+"život vydařil."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_6ef525f3"
+msgid "Je ne peux pas te contredire là-dessus {{yasuka.n}} est vraiment belle."
+msgstr "Nemohu s vámi nesouhlasit v tom, že {{yasuka.n}} je opravdu krásná."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_040d1d68"
+msgid "Mais ce n'est pas ma mère..."
+msgstr "Ale ona není moje matka..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_5544a5a2"
+msgid "Oh ! Voici donc la chambre de l'orc dont tu m'as parlé !"
+msgstr "Tak tohle je ten orkův pokoj, o kterém jsi mi říkal!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_0c694d35"
+msgid "Shhht ! Pas si fort ! Tu veux ma mort ou quoi ?"
+msgstr "Pšššt! Ne tak nahlas! Chceš mě zabít nebo co?"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_8e4b713f"
+msgid "T'inquiète, j'ai une idée !"
+msgstr "Nebojte se, mám nápad!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_973efdac"
+msgid "Oh putain, je sens déjà les nouveaux problèmes arriver à grande vitesse."
+msgstr "Ach jo, už teď cítím, jak se rychle blíží nové problémy."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_14be133d"
+msgid "Est-ce que je devrais laisser {{asami.n}} interagir avec {{noriko.n}} ?"
+msgstr "Mám nechat {{asami.n}} komunikovat s {{noriko.n}}?"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_fd5b0df6"
+msgid "Je crois qu'il est trop tard..."
+msgstr "Myslím, že už je pozdě..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_8540993c"
+msgid "Putain, je t'ai déjà dit de me l-"
+msgstr "Kurva, už jsem ti říkal, abys..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_9c34fdb7"
+msgid "Euh... T'es qui toi ?"
+msgstr "Ehm... Kdo jste?"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_a8870111"
+msgid "Bonjour ! Je suis la petite amie de {{saito.n}}."
+msgstr "Dobrý den ! Jsem přítelkyně {{saito.n}}."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_aef18ea2"
+msgid "Je... La quoi ?"
+msgstr "Já jen... Cože?"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_0abec66e"
+msgid "J'ai aussi une très forte libido, donc il est possible que tu nous entendes."
+msgstr "Mám také velmi vysoký sexuální apetit, takže nás možná uslyšíte."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_b4e40eb1"
+msgid "Il y aura du sexe, énormément de sexe."
+msgstr "Bude tam sex, spousta sexu."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_d9007c9d"
+msgid "Donc à l'avance, j'aimerais m'excuser pour le dérangement."
+msgstr "Předem se tedy omlouvám za nepříjemnosti."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_b2166ecf"
+msgid "Mais... n-"
+msgstr "Ale... n-"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_4125cfb9"
+msgid "Ravi d'avoir fait ta connaissance, à bientôt, j'espère ?"
+msgstr "Rád jsem vás poznal, doufám, že se brzy uvidíme?"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_968d5254"
+msgid "Tu viens mon étalon ?"
+msgstr "Jdeš, hřebečku?"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_bba66073"
+msgid "Mais, mais, mais..."
+msgstr "Ale, ale, ale..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_ffbcae01"
+msgid "Mais bordel ![w] Elle sort d'où celle-là ?"
+msgstr "Odkud se to sakra vzalo?"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_0f357fe3"
+msgid "Est-ce qu'elle sera là encore aujourd'hui ?"
+msgstr "Bude tam dnes opět?"
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "home_player_hallway_f86a3991"
+msgid "J'ai déjà hâte d'y être."
+msgstr "Už se na něj těším."
