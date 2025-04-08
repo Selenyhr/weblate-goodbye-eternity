@@ -112,7 +112,7 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-01-22 16:14+0100\n"
-"PO-Revision-Date: 2025-04-08 10:03+0000\n"
+"PO-Revision-Date: 2025-04-08 18:51+0000\n"
 "Last-Translator: WangYu <joestblack@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://translations.teot-studio.com/"
 "projects/goodbye-eternity/game-translation/zh_Hans/>\n"
@@ -401,11 +401,11 @@ msgstr "你选择和她成为[color=yellow]朋友[/color]。"
 
 #: game/scenes/gui/gui_start_asami.tscn
 msgid "Vous avez fait le choix de la [color=yellow]corrompre[/color]."
-msgstr "你选择与她堕入[color=yellow]情爱[/color]。"
+msgstr "你选择与她[color=yellow]沉沦[/color]情爱。"
 
 #: game/scenes/gui/gui_start_asami.tscn
 msgid "Vous avez fait le choix de [color=yellow]rester amis[/color]."
-msgstr "你选择和她保持[color=yellow]朋友关系[/color]."
+msgstr "你选择和她保持[color=yellow]朋友[/color]关系。"
 
 #: game/scenes/gui/gui_start_asami.tscn game/scenes/gui/gui_start_sakuya.tscn game/scenes/gui/gui_start_yasuka.tscn
 msgid "J'ai compris"
@@ -429,7 +429,7 @@ msgstr "安香"
 
 #: game/scenes/gui/gui_start_yasuka.tscn
 msgid "Vous pouvez dès à présent poursuivre l’histoire de {{yasuka.n}}."
-msgstr "你现在可以继续推进{{yasuka.n}}的故事了。"
+msgstr "你现在可以继续{{yasuka.n}}的故事了。"
 
 #: game/scenes/gui/gui_start_yasuka.tscn
 msgid "Vous avez fait le choix de l'[color=yellow]aimer et de la soutenir[/color]."
@@ -26661,12 +26661,12 @@ msgstr "我太累了，现在只想去睡觉……"
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_662473f5"
 msgid "{{yasuka.n}}, cette idée n'était peut-être pas aussi bonne que prévu."
-msgstr "{{yasuka.n}}，这可能真的不是一个好主意……"
+msgstr "{{yasuka.n}}，这样真的不是办法……"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "tbc542980bb"
 msgid "[hint=ROUTE CORRUPTION]Tu n'as pas à t'infliger ça, tu sais..."
-msgstr "[hint=堕落路线]你知道你不必这样对自己的……"
+msgstr "[hint=沉沦路线]你知道你不必这样对自己的……"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_06e8b429"
@@ -26726,12 +26726,12 @@ msgstr "好吧。晚安，{{yasuka.n}}。"
 #: game/story/home_player_livingroom.dialogue
 msgctxt "tfc4bf76365"
 msgid "[hint=ROUTE LOVE]Il est encore temps de changer d'avis."
-msgstr "[hint=爱情路线]你现在改变主意还来得及。"
+msgstr "[hint=爱情路线]那就反悔怎么样，没什么的。"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_ae44d7a9"
 msgid "Tu... tu as peut-être raison."
-msgstr "嗯……你说的有道理。"
+msgstr "嗯……你说得有道理。"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_fd8be120"
@@ -55575,7 +55575,7 @@ msgstr "做我男朋友吧，帮我成为一个他后悔忽视的女人。"
 #: game/story/home_player_exterior.dialogue
 msgctxt "t6d25cef1d9"
 msgid "[hint=ROUTE CORRUPTION]...Okay, comment refuser une telle proposition?"
-msgstr "[hint=情爱路线]……好吧，我怎能拒绝这样的提议呢？"
+msgstr "[hint=沉沦路线]……好吧，你都这样要求了我怎么能拒绝呢？"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "home_player_exterior_eea0c563"
@@ -62156,7 +62156,7 @@ msgstr "[hint=拒绝/友情路线]你应该靠自己！"
 #: game/story/park.dialogue
 msgctxt "t728a33ea95"
 msgid "[hint=ROUTE AMOUR/CORRUPTION]Ça marche !"
-msgstr "[hint=爱情/情爱路线]听上去不错！"
+msgstr "[hint=爱情/沉沦路线]听上去不错！"
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_d5adc33d"
@@ -78089,7 +78089,7 @@ msgstr "和{{asami.n}}成为朋友。"
 #: game/scenes/gui/game_menu/galleries/images.tscn
 msgctxt "galleries.images.hints"
 msgid "Corrompre {{asami.n}}."
-msgstr "与{{asami.n}}堕入情爱。"
+msgstr "与{{asami.n}}沉沦情爱。"
 
 #: game/scenes/gui/game_menu/galleries/images.tscn
 msgctxt "galleries.images.hints"
@@ -78424,7 +78424,7 @@ msgstr "美黑"
 #: game/scenes/gui/game_menu/galleries/movies.tscn
 msgctxt "galleries.movies.hints"
 msgid "Corrompre {{asami.n}}."
-msgstr "与{{asami.n}}堕入情爱。"
+msgstr "与{{asami.n}}沉沦情爱。"
 
 #: game/scenes/gui/game_menu/galleries/movies.tscn
 msgctxt "galleries.movies.hints"
@@ -78478,7 +78478,7 @@ msgstr "继续和{{asami.n}}做朋友。"
 
 msgctxt "chapters.choices"
 msgid "yasuka/corruption"
-msgstr "情爱"
+msgstr "沉沦"
 
 msgctxt "chapters.choices"
 msgid "yasuka/love"
@@ -78502,7 +78502,7 @@ msgstr "支配"
 
 msgctxt "chapters.choices"
 msgid "asami/corruption"
-msgstr "情爱"
+msgstr "沉沦"
 
 msgctxt "chapters.choices"
 msgid "asami/friendship"
