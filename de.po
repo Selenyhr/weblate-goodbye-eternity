@@ -112,7 +112,7 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-01-22 16:14+0100\n"
-"PO-Revision-Date: 2025-04-17 16:24+0000\n"
+"PO-Revision-Date: 2025-04-23 17:52+0000\n"
 "Last-Translator: Tim Siekmann <sebastian.laubenstein@gmx.net>\n"
 "Language-Team: German <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/de/>\n"
@@ -848,7 +848,7 @@ msgstr "Das ist mein Boss ..."
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_68507bbe"
 msgid "C'est le propriétaire de cette boutique."
-msgstr "Das ist der Besitzer dieses Ladens."
+msgstr "Der Besitzer dieses Ladens."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_26ec9de7"
@@ -958,7 +958,7 @@ msgstr "Ja ..."
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_ef1ad18b"
 msgid "C'est donc cette espèce d'ordure qui pourrit la vie de {{yasuka.n}}."
-msgstr "Das ist also dieser Drecksack, der {yasuka.n}s Leben ruiniert."
+msgstr "Das ist also dieser Drecksack, der {{yasuka.n}}s Leben ruiniert."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_b87099fe"
@@ -978,7 +978,7 @@ msgstr "Selbst mein Bauchgefühl sagt mir, bei ihm vorsichtig zu sein."
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_97ed4780"
 msgid "{{yasuka.N}} !"
-msgstr "{{yasuka.N}} !"
+msgstr "{{yasuka.N}}!"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_f7d46344"
@@ -1008,7 +1008,7 @@ msgstr "... Noch nicht!"
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_725fc51e"
 msgid "Si tu comptes ne rien acheter ici, dégage !"
-msgstr "Wenn du nichts kaufen willst, verzieh dich!"
+msgstr "Wenn Sie nichts kaufen wollen, verziehen Sie sich!"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_a56f9613"
@@ -1048,7 +1048,8 @@ msgstr "Hier ist dein Kaffee!"
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_476718be"
 msgid "Je te l'offre, tu en as bien plus besoin que moi visiblement."
-msgstr "Kannst du behalten. Du kannst es wohl wesentlich besser gebrauchen als ich."
+msgstr ""
+"Kannst du behalten. Du kannst ihn wohl wesentlich besser gebrauchen als ich."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_efe971a9"
@@ -7940,7 +7941,7 @@ msgstr "Es passiert gerade etwas viel Interessanteres."
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_ce0e7f9f"
 msgid "... et ? Qu'est-ce qui te semble aussi intéressant ?"
-msgstr "..Und? Was ist so interessant?"
+msgstr "... Und? Was ist so interessant?"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_47755bde"
@@ -27601,7 +27602,7 @@ msgstr "Wie gesagt, du bist hier jederzeit willkommen, {{asami.n}}!"
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_a88c6019"
 msgid "Merci beaucoup ! J'essaierais quand même de ne pas vous déranger trop souvent non plus."
-msgstr "Vielen Danke! Ich werde aber versuchen, euch nicht allzu oft zu stören."
+msgstr "Vielen Dank! Ich werde aber versuchen, euch nicht allzu oft zu stören."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_d60a4c81"
@@ -27631,7 +27632,7 @@ msgstr "Ist alles gut, {{yasuka.n}}?"
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_10532c39"
 msgid "Oui oui, je suis juste un peu fatiguée, ne t'inquiète pas."
-msgstr "Ja, ja, ich bin nur ein bisschen Müde. Keine Sorge."
+msgstr "Ja, ja, ich bin nur ein bisschen müde. Keine Sorge."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_3175ca63"
