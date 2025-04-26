@@ -113,7 +113,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-01-22 16:14+0100\n"
 "PO-Revision-Date: 2025-04-26 17:16+0000\n"
-"Last-Translator: Ken Kaneki <superpinkpony88@gmail.com>\n"
+"Last-Translator: veydzh3r <veydzherdgswift008@gmail.com>\n"
 "Language-Team: Ukrainian <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/uk/>\n"
 "Language: uk\n"
@@ -48681,7 +48681,7 @@ msgstr "Але я..."
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_d6d5effb"
 msgid "Mais je..."
-msgstr ""
+msgstr "Але я..."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "choice_noriko_cunni_c76ed81b"
@@ -57768,7 +57768,7 @@ msgstr "Я знала, що ви разом. Але я все одно пово�
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_0c02cc8c"
 msgid "Je savais que vous étiez amis... Alors je me suis dit que ça ne te dérangerait pas."
-msgstr "Я знав, що ви друзі... І подумала, що ти не будеш проти."
+msgstr "Я знала, що двоє були друзями... І подумала, що ти не будеш проти."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_90faf894"
@@ -57884,31 +57884,35 @@ msgstr "Не смій!"
 msgctxt "asami_truth_1ecf14c7"
 msgid "J'ai pu m'entretenir avec elle et il s'avère qu'elle est une jeune femme assez raisonnable."
 msgstr ""
+"Мені вдалося з нею поговорити, і виявилося, що вона досить розсудлива молода "
+"жінка."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_2e8b9276"
 msgid "Donc ça ne me dérange pas de te partager..."
-msgstr ""
+msgstr "Тому я не проти поділитися тобою..."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_073e9b27"
 msgid "Elle est désespérément amoureuse de toi et tout ce qu'elle souhaite c'est passer du temps avec toi."
 msgstr ""
+"Вона безнадійно закохана в тебе, і все, що вона хоче — це проводити з тобою "
+"час."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_c502719b"
 msgid "Ça ne me dérange pas non plus... après tout c'est pas comme si on sortait ensemble."
-msgstr ""
+msgstr "Мене це теж не турбує... Зрештою, ми ж не зустрічаємося."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_d17d8079"
 msgid "Oh tu devrais peut-être tenter ta chance ma chérie !"
-msgstr ""
+msgstr "Може, тобі варто спробувати щастя, любий!"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_41aac39e"
 msgid "Il y a bien trop de concurrence pour moi !"
-msgstr ""
+msgstr "Занадто багато конкурентів для мене!"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_911140aa"
@@ -58083,37 +58087,39 @@ msgstr "Певен, що він зараз в {{asami.n}}, чи в тієї бо
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_e9486062"
 msgid "[font_size=14]Pourquoi elle t'appelle le pervers ?[/font_size]"
-msgstr ""
+msgstr "[font_size=14]Чому вона тебе називає збоченцем?[/font_size]"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_5d80cf45"
 msgid "[font_size=14]Moi j'ai bien une idée...[/font_size]"
-msgstr ""
+msgstr "[font_size=14]У мене є гарна ідея...[/font_size]"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_e95ff49a"
 msgid "[font_size=14]... Bon sang arrêtez et concentrez-vous ![/font_size]"
-msgstr ""
+msgstr "[font_size=14]...Чорт забирай, зупинись і зосередься![/font_size]"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_aa648b36"
 msgid "[font_size=14]Le peuple exige des réponses.[/font_size]"
-msgstr ""
+msgstr "[font_size=14]Люди вимагають відповідей.[/font_size]"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_30906c8d"
 msgid "[font_size=14]Ahhh ça suffit, restez concentrés, elle s'en va ![/font_size]"
-msgstr ""
+msgstr "[font_size=14]Ах-х-х, досить! Зосередьтеся, вона йде![/font_size]"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_d9ee3794"
 msgid "[font_size=14]Elle se dirige vers le konbini...[/font_size]"
-msgstr ""
+msgstr "[font_size=14]Вона прямує до конбіні...[/font_size]"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_18764228"
 msgid "[font_size=14]Attendez un peu, il ne faut pas se faire griller bêtement.[/font_size]"
 msgstr ""
+"[font_size=14]Зачекайте трохи. Ми не повинні попастися на "
+"дурниці.[/font_size]"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_72bf6b74"
@@ -58425,102 +58431,106 @@ msgstr "Якщо це так... То його треба усунути...[w] о
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_a69ff185"
 msgid "Mais est-ce que j'en serais capable...?"
-msgstr "Але чи зможу я...?"
+msgstr "Але чи зможу я?.."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_2afafce4"
 msgid "Je dois leur preparer un repas qu'ils n'oublieront pas de sitôt."
-msgstr ""
+msgstr "Я їм такого наготую, що вони точно не забудуть."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_50e1bcb2"
 msgid "À cette heure-ci je n'ai pas d'autre choix que d'aller au konbini."
 msgstr ""
+"О такій годині у мене немає іншого вибору, окрім як піти до цілодобової "
+"крамниці."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_bc057949"
 msgid "Ohlala, je ne tiens plus en place !"
-msgstr ""
+msgstr "О-ла-ла, я більше не можу всидіти на місці!"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_37ef3729"
 msgid "Je dois me dépêcher !"
-msgstr ""
+msgstr "Я мушу поквапитися!"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_10a3f9db"
 msgid "Au fait, cette histoire de récompense c'était quoi ?"
-msgstr ""
+msgstr "До речі, а що це була за штука з винагородою?"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_00453ba9"
 msgid "Ne sois pas si impatient, ça nécessite un peu de préparation."
-msgstr ""
+msgstr "Не будь таким нетерплячим. Треба трохи підготуватися."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_c9985ca3"
 msgid "Rejoins-moi dans ma chambre demain en fin d'après midi et tu verras bien..."
-msgstr ""
+msgstr "Приходь завтра ввечері до мене в кімнату і побачиш..."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_55099618"
 msgid "Besoins de préparation ?"
-msgstr ""
+msgstr "Тобі треба підготуватися?"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_53520d54"
 msgid "Ne me dites pas qu'elle va tenter de cuisiner quelque chose pour moi ?"
-msgstr ""
+msgstr "Тільки не кажіть мені, що вона спробує щось приготувати мені?"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_0f113e38"
 msgid "Tiens qu'est-ce que tu fais là ?"
-msgstr ""
+msgstr "Привіт, що ти тут робиш?"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_d3ccc383"
 msgid "Je venais pour une petite visite mais je suis tombée sur {{noriko.n}}."
-msgstr ""
+msgstr "Я йшла до тебе, але натрапила на {{noriko.n}}."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_d6ad52d2"
 msgid "Elle semblait nerveuse, j'ai cru qu'il t'était arrivé quelque chose mais elle n'a rien voulu me dire."
 msgstr ""
+"Вона виглядала знервованою. Я подумала, що з тобою щось сталося, але вона не "
+"захотіла мені нічого розповідати."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_0f3fce43"
 msgid "Je crois qu'il y a un problème... Je vais aller la chercher."
-msgstr ""
+msgstr "Здається, у нас проблема... Я піду по неї."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_215d0806"
 msgid "Enfin ! Je commençais à m'ennuyer à mourir ! Tu veux un coup de main ?"
-msgstr ""
+msgstr "Ну, нарешті! Я вже почала нудьгувати до смерті! Хочеш допоможу?"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_3d7fec40"
 msgid "Non, ne t'en fais pas, je sais où elle se trouve..."
-msgstr ""
+msgstr "Ні, не хвилюйся. Я знаю, де вона..."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_d59c6ff7"
 msgid "Demain nous pourrons enfin passer du temps ensemble."
-msgstr ""
+msgstr "Завтра ми нарешті зможемо провести час разом."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_03572045"
 msgid "Mhh... D'accord... J'espère juste que ce n'est pas trop grave."
-msgstr ""
+msgstr "М-м-м... Добре... Сподіваюся, це не дуже серйозно."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_e6c30045"
 msgid "Ça ira, cette fois-ci je peux l'aider !"
-msgstr ""
+msgstr "Нічого, цього разу я їй допоможу!"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_0d7b9a51"
 msgid "Dans ce cas... A demain sans faute !"
-msgstr ""
+msgstr "Ну, тоді... До завтра!"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "tbe393183c7"
