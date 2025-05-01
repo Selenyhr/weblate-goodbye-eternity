@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-01 08:52+0000\n"
-"Last-Translator: Lukáš Kafka <kafkyns@gmail.com>\n"
+"PO-Revision-Date: 2025-05-02 16:26+0000\n"
+"Last-Translator: Gabriel Kocúr <kocurgabriel@protonmail.com>\n"
 "Language-Team: Czech <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/cs/>\n"
 "Language: cs\n"
@@ -141,11 +141,11 @@ msgstr "Nobu"
 
 #: game/scenes/cg/noriko/laptop.tscn
 msgid "Demi-Sœur Dépucelle Son Demi-Frère"
-msgstr "Nevlastní sestra podvede nevlastního bratra"
+msgstr "Nevlastní sestra připraví nevlastního bratra o panictví"
 
 #: game/scenes/cg/noriko/laptop.tscn
 msgid "Demi-Sœur Se Fait Prendre Dans Son Sommeil Par Son Demi-Frère"
-msgstr "Nevlastní sestra je přistižena ve spánku se svým nevlastním bratrem"
+msgstr "Nevlastní sestra je oprcána v posteli, když spí s nevlastním bratrem."
 
 #: core/scripts/clock.gd
 msgid "afternoon"
@@ -200,7 +200,7 @@ msgstr "Asami"
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Noriko"
-msgstr "Asami"
+msgstr "Noriko"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
@@ -240,7 +240,7 @@ msgstr "Kimochi"
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Chef"
-msgstr "Chef"
+msgstr "Šéf kuchař"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
@@ -265,12 +265,12 @@ msgstr "Sayuri"
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Vieil homme"
-msgstr "Starý muž"
+msgstr "Stařec"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "home_player_exterior"
-msgstr "Exteriér"
+msgstr "Venku"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
@@ -335,7 +335,7 @@ msgstr "Kanál"
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "bus_stop"
-msgstr "Zastavka Autobusu"
+msgstr "Autobusová zastávka"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
@@ -5387,7 +5387,7 @@ msgstr "Bude tam dnes opět?"
 #: game/story/home_player_hallway.dialogue
 msgctxt "home_player_hallway_f86a3991"
 msgid "J'ai déjà hâte d'y être."
-msgstr "J'ai déjà hâte d'y être."
+msgstr "Nemůžu se dočkat."
 
 #: game/story/home_asami_livingroom.dialogue
 msgctxt "t6b62569f21"
@@ -11599,10 +11599,9 @@ msgid "J'en aurais pas pour longtemps !"
 msgstr "Nebude to trvat dlouho!"
 
 #: game/story/canal.dialogue
-#, fuzzy
 msgctxt "t6ec60c8085"
 msgid "[i]Ne rien dire.[/i]"
-msgstr "[Nic neříkejte[/i]."
+msgstr "[i]Buď zticha.[/i]"
 
 #: game/story/canal.dialogue
 msgctxt "canal_a0f478d6"
@@ -14802,12 +14801,11 @@ msgid "Tout est prêt, il ne me reste plus qu'à appuyer sur ce bouton."
 msgstr "Vše je připraveno, stačí jen stisknout toto tlačítko."
 
 #: game/story/home_player_saito_room.dialogue
-#, fuzzy
 msgctxt "halteres_3c83d0f7"
 msgid "[i]Salut petit frère et bienvenue dans le dernier entraînement sur-mesure pour les fiottes comme toi.[/i]"
 msgstr ""
-"[Ahoj bratříčku, vítej na nejnovějším tréninku na míru pro kočičky, jako jsi "
-"ty."
+"[i]Ahoj bráško! Vítej u nejnovějšího tréninku přizpůsobeného přímo pro "
+"takový kundičky jako seš ty.[/i]"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "halteres_5a838110"
@@ -14815,28 +14813,26 @@ msgid "Je ne sais pas si je dois être reconnaissant ou..."
 msgstr "Nevím, jestli mám být vděčná, nebo..."
 
 #: game/story/home_player_saito_room.dialogue
-#, fuzzy
 msgctxt "halteres_a53f6970"
 msgid "[i]Je savais que tu aurais besoin de ce type d'entrainement à un moment ou un autre.[/i]"
-msgstr "[Věděl jsem, že takový trénink budeš někdy potřebovat[/i]."
+msgstr ""
+"[i]Věděl jsem, že tenhle tréning budeš potřebovat dříve či později.[i][/i]."
 
 #: game/story/home_player_saito_room.dialogue
-#, fuzzy
 msgctxt "halteres_23b78f7a"
 msgid "[i]J'ai tout préparé rien que pour toi, petit frère.[/i]"
-msgstr "[Všechno jsem připravil jen pro tebe, bratříčku."
+msgstr "[i]Všechno jsem připravil jen pro tebe bráško.[/i]"
 
 #: game/story/home_player_saito_room.dialogue
-#, fuzzy
 msgctxt "halteres_fd1c9a2e"
 msgid "[i]La seule façon de progresser, c'est de se dépasser constamment.[/i]"
-msgstr "[Jediný způsob, jak se posunout vpřed, je neustále si klást výzvy."
+msgstr ""
+"[i]Jedinej způsob jak se posunout dál je neustále překonávat sama sebe.[/i]"
 
 #: game/story/home_player_saito_room.dialogue
-#, fuzzy
 msgctxt "halteres_8b4685b7"
 msgid "[i]Mettre sa vie en jeu.[/i]"
-msgstr "[Vsadit svůj život v sázku[/i]."
+msgstr "[i]Dát do toho celou svojí duši.[/i]"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "halteres_adb086e9"
@@ -30697,3 +30693,18 @@ msgstr "Haha!"
 msgctxt "galleries.movies.hints"
 msgid "Suivre l'histoire de {{sakuya.n}}."
 msgstr "Sledujte příběh {{sakuya.n}}."
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "coffeebar_exterior"
+msgstr "[i]Kavárna[/i]"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_e27cd766"
+msgid "Pour qu'elle soit ta mère, il faudrait qu'elle t'ait eu à genre 16 ans..."
+msgstr "Aby byla tvoje máma, tak by tě musela mít tak... v 16..."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_665e2b8b"
+msgid "Quoi ?!"
+msgstr "Cože?!"
