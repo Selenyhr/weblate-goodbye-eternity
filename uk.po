@@ -112,8 +112,8 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-01-22 16:14+0100\n"
-"PO-Revision-Date: 2025-05-05 18:16+0000\n"
-"Last-Translator: Михайло <aesome826@gmail.com>\n"
+"PO-Revision-Date: 2025-05-05 19:01+0000\n"
+"Last-Translator: veydzh3r <veydzherdgswift008@gmail.com>\n"
 "Language-Team: Ukrainian <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/uk/>\n"
 "Language: uk\n"
@@ -9202,7 +9202,7 @@ msgstr "{{minato.n}} не той, за кого себе видає."
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "teafa83b487"
 msgid "C'est la seconde fois que tu me le dis..."
-msgstr "Ти вже вдруге кажеш мені..."
+msgstr "Ти мені вже вдруге кажеш..."
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "home_kimochi_exterior_260b25df"
@@ -14431,7 +14431,7 @@ msgstr "Не кажи мені цього..."
 #: game/story/home_player_exterior.dialogue
 msgctxt "tb90ee67070"
 msgid "Ne me dis pas que..."
-msgstr ""
+msgstr "Не кажи мені такого..."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "talk_noriko_7f545b1a"
@@ -26464,7 +26464,7 @@ msgstr "Ну ж бо, розкажи мені!"
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_8dc5c85a"
 msgid "[speed=0.2]80 000 000 ¥..."
-msgstr ""
+msgstr "[speed=0.2]80 000 000¥..."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_76ba1dec"
@@ -35608,37 +35608,39 @@ msgstr "А в тебе є стиль, сестро!"
 #: game/story/restaurant_interior.dialogue
 msgctxt "ta5b9f3b380"
 msgid "Oh mon amour ! Tu es venu pour passer du temps avec moi ?"
-msgstr ""
+msgstr "О-о, любий! Ти прийшов провести зі мною час?"
 
 #: game/story/restaurant_interior.dialogue
 msgctxt "tbf68341418"
 msgid "[font_size=14]Soyons discret, mon père nous observe toujours du coin de l'oeil.[/font_size]"
 msgstr ""
+"[font_size=14]Давай будемо обережними. Мій батько завжди спостерігає за нами "
+"краєм ока.[/font_size]"
 
 #: game/story/restaurant_interior.dialogue
 msgctxt "tdac4bafff0"
 msgid "Je suis venu car j'avais quelque chose de particulier à te demander !"
-msgstr ""
+msgstr "Я прийшов, бо хочу попросити тебе про дещо особливе!"
 
 #: game/story/restaurant_interior.dialogue
 msgctxt "tb222c41a00"
 msgid "Oh toi alors quel petit pervers tu fais !"
-msgstr ""
+msgstr "Ах ти, який же ти маленький збоченець!"
 
 #: game/story/restaurant_interior.dialogue
 msgctxt "tf6979bbb7a"
 msgid "Allons dans ma chambre pour ça !"
-msgstr ""
+msgstr "Ходімо до мене в кімнату!"
 
 #: game/story/restaurant_interior.dialogue
 msgctxt "te6aa8d0e87"
 msgid "Euh je crois que tu te méprends sur mes intent-"
-msgstr ""
+msgstr "Е-е, гадаю, ти неправильно зрозуміла мої наміри..."
 
 #: game/story/restaurant_interior.dialogue
 msgctxt "tf7abbcb5fe"
 msgid "Dépêche toi !"
-msgstr ""
+msgstr "Поквапся!"
 
 #: game/story/home_asami_livingroom.dialogue
 msgctxt "menu_sayuri_kitchen_02dff74e"
@@ -49622,7 +49624,7 @@ msgstr "І тепер, я думаю усе потроху стає на сво�
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_eaa3d458"
 msgid "Quel enfoiré cet {{akira.n}} quand même..."
-msgstr ""
+msgstr "Цей {{akira.n}} такий мудак..."
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_dee02dbf"
@@ -49782,17 +49784,20 @@ msgstr "Я краще поспішу."
 #: game/story/restaurant_exterior.dialogue
 msgctxt "tc3e37b1984"
 msgid "Je dois faire mon service auprès du {{chef.n}}."
-msgstr ""
+msgstr "Я маю відпрацювати свою зміну з {{chef.n}}."
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "t200378e520"
 msgid "Le restaurant est encore fermé pour le moment, je ferais mieux d'y travailler cet après-midi."
 msgstr ""
+"Ресторан поки що зачинений, тому мені краще попрацювати там після обіду."
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "tca82b2cdac"
 msgid "Il est tard, je dois aller dormir. Si je commence à travailler au [color=yellow]restaurant[/color] plus tôt, j'aurai un peu de temps libre."
 msgstr ""
+"Уже пізно, піду посплю. Якби я почав працювати в "
+"[color=yellow]ресторані[/color] раніше, у мене було б більше вільного часу."
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_62079a45"
@@ -50527,32 +50532,34 @@ msgstr "Вона без розуму від мене, це точно!"
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_b5ce2f20"
 msgid "Vous êtes libéré de toutes restrictions qui vous étaient imposées par {{sakuya.n}}. Vous pouvez désormais vous déplacer comme vous le souhaitez."
-msgstr "Ти вільний від усіх обмежень, накладених {{sakuya.n}}. Тепер ти можеш пересуватися, як тобі заманеться."
+msgstr ""
+"Відтепер ти вільна від усіх обмежень, які наклала на тебе {{sakuya.n}}. "
+"Тепер ви можете рухатися, як тобі заманеться."
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "tb00168585f"
 msgid "Finalement ce n'était pas si terrible que ça..."
-msgstr ""
+msgstr "Зрештою, все було не так вже й погано..."
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "ta493e53379"
 msgid "Et grâce à elle j'ai enfin pu obtenir la réponse que je j'attendais."
-msgstr ""
+msgstr "І завдяки їй я нарешті маю відповідь, яку шукав."
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "teff6fe3abd"
 msgid "Sans devoir trop sacrifier."
-msgstr ""
+msgstr "Без необхідності жертвувати забагато."
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "t796f5dfbcc"
 msgid "Je suis sur que {{sayuri.n}} sera ravie !"
-msgstr ""
+msgstr "Я певний, що {{sayuri.n}} буде в захваті!"
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "t8c0d51d6f7"
 msgid "Je dois me dépêcher à présent, c'est bientôt l'heure du rendez vous. !"
-msgstr ""
+msgstr "Мені треба поспішати. Вже майже час для мого побачення!"
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "menu_asami_room_waiting_40045615"
@@ -54727,22 +54734,22 @@ msgstr "Добре... Гаразд. Я подбаю про це."
 #: game/story/restaurant_sakuya_room.dialogue
 msgctxt "t3e69ecf9c2"
 msgid "J'attendais ça depuis tellement longtemps !"
-msgstr ""
+msgstr "Я так довго цього чекала!"
 
 #: game/story/restaurant_sakuya_room.dialogue
 msgctxt "t1fbf8c5059"
 msgid "J'ai presque hésitée à venir me glisser dans ton lit pendant que tu dormais."
-msgstr ""
+msgstr "Я ледве не наважувалася залізти до тебе у ліжко, коли ти спав."
 
 #: game/story/restaurant_sakuya_room.dialogue
 msgctxt "t145bb07b76"
 msgid "Oui mais... Non... Attend !"
-msgstr ""
+msgstr "Знаю, але... Ні... Стривай!"
 
 #: game/story/restaurant_sakuya_room.dialogue
 msgctxt "t3c837b9850"
 msgid "Silence mon amour, tu parleras plus tard !"
-msgstr ""
+msgstr "Мовчи, коханий, потім поговоримо!"
 
 #: game/story/restaurant_sakuya_room.dialogue
 msgctxt "t25dd1cb2da"
@@ -58771,7 +58778,7 @@ msgstr "Ну, тоді... До завтра!"
 #: game/story/home_player_exterior.dialogue
 msgctxt "tbe393183c7"
 msgid "C'est ici !"
-msgstr ""
+msgstr "Ось воно!"
 
 #: game/story/coffeebar_exterior.dialogue
 msgctxt "coffeebar_exterior_632ac3e9"
@@ -58781,82 +58788,88 @@ msgstr "Ми на місці!"
 #: game/story/home_player_exterior.dialogue
 msgctxt "td10bfda998"
 msgid "Mais dépêche toi bon sang !"
-msgstr ""
+msgstr "Швидше, чорт забирай!"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "t6dc9d5e38b"
 msgid "Si {{saito.n}}, l'avenir du monde est en jeu et tout ça se joue aujourd'hui !"
-msgstr ""
+msgstr "{{saito.n}}, майбутнє світу на кону, і все це відбувається сьогодні!"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "t0f2d5d4eaa"
 msgid "Mais pourquoi je continue de traîner avec un cas pareil ?"
-msgstr ""
+msgstr "Чому я все ще тусуюся з таким дурнем?"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "te136f0ad57"
 msgid "Je vais continuer de réfléchir a une solution."
-msgstr ""
+msgstr "Я намагатимусь знайти рішення."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "t66fe6d00e1"
 msgid "Une, qui ne nous mettrait pas dans une position inconfortable ne t'inquiète pas."
-msgstr ""
+msgstr "Таке, яке не поставить нас у незручне становище, не хвилюйся."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "t294fdd6c74"
 msgid "Merci... Si effectivement {{minato.n}} a le bras long et qu'il a des contacts haut placé..."
-msgstr ""
+msgstr "Дякую... Якщо {{minato.n}} має великі зв’язки у вищих ешелонах влади..."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "t601fd93f4e"
 msgid "Il sera plus facile pour lui de nous mettre hors-jeu."
-msgstr ""
+msgstr "Йому буде легше підставити нам підніжку."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "t156b5309ac"
 msgid "Tu as raison."
-msgstr ""
+msgstr "Твоя правда."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "t66a53009a6"
 msgid "Toute cette histoire avec {{chiaki.n}} me fait penser qu'elle n'est pas la seule personne qui a besoins d'aide."
 msgstr ""
+"Уся ця історія з {{chiaki.n}} змушує мене думати, що вона не єдина, хто "
+"потребує допомоги."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "t73b3872316"
 msgid "Dans ma vie précédente je n'avais jamais interagi avec {{asami.n}} mais elle avait disparue a peu près à ce moment."
 msgstr ""
+"У попередньому житті я ніколи не спілкувався з {{asami.n}}, але вона також "
+"зникла приблизно в цей час."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "ta571a32723"
 msgid "Sauf que cette fois si elle semble passer quelques jours avec son père... Cela devrait la tenir a distance des problèmes."
 msgstr ""
+"За винятком цього разу, якщо вона проведе кілька днів зі своїм батьком... Це "
+"має вберегти її від неприємностей."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "te19eb44523"
 msgid "Le cours de l'histoire a probablement déjà changé."
-msgstr ""
+msgstr "Хід історії, ймовірно, вже змінився."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "te0d5f62add"
 msgid "Néanmoins... Je ne me sens pas tranquille."
-msgstr ""
+msgstr "І все ж... Я не відчуваю себе спокійно."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "t9e88207b0f"
 msgid "C'est bon ? Tête de bite est rentré chez lui ?"
-msgstr ""
+msgstr "Усе в нормі? Виродок пішов додому?"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "t592d7698c8"
 msgid "Oui il vient de partir."
-msgstr ""
+msgstr "Так, щойно пішов."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "t03f8cd2c9e"
 msgid "Suis moi !"
-msgstr ""
+msgstr "Іди за мною!"
 
 #: game/story/love_hotel_exterior.dialogue
 msgctxt "love_hotel_exterior_70c72a3d"
@@ -74824,7 +74837,7 @@ msgstr "Запитай в {{yasuka.n}} трохи більше подробиц�
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_14_noriko_femdom_maledom"
-msgstr "Запитай в {{noriko.n}} трохи пояснення."
+msgstr "Запитати {{noriko.n}} за пояснення."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -75729,7 +75742,7 @@ msgstr "Нумо підемо працювати в ресторан, щоб з�
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_love_31"
-msgstr "Йди додому, щоб побачити {{yasuka.n}}."
+msgstr "Піти провідати {{yasuka.n}} вдома."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -75759,7 +75772,7 @@ msgstr "Почни свою другу зміну в ресторані."
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_love_36_1"
-msgstr "Йди додому, щоб побачити {{yasuka.n}}."
+msgstr "Піти провідати {{yasuka.n}} вдома."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -75784,7 +75797,7 @@ msgstr "Переходимо до другої служби!"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_love_39_1"
-msgstr "Повертайся додому."
+msgstr "Повернутися додому."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -75839,7 +75852,7 @@ msgstr "Йди працювати в ресторан."
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_love_48_1"
-msgstr "Іди додому. {{yasuka.n}} чекає на тебе."
+msgstr "{{yasuka.n}} чекає на тебе вдома."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -76124,7 +76137,7 @@ msgstr "Вийди з ресторану."
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_corruption_37"
-msgstr "Увечері зайди до хостес-бару."
+msgstr "Зайти до хостес бару ввечері."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -76264,7 +76277,7 @@ msgstr "Йди працювати в ресторан."
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_corruption_65"
-msgstr "Скоріш йди додому і переконайся, що {{yasuka.n}} в порядку."
+msgstr "Скоріше піти додому й переконатися, що {{yasuka.n}} в порядку."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -77429,7 +77442,7 @@ msgstr ""
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "sayuri_15"
-msgstr ""
+msgstr "Слідувати за {{noriko.n}} до її кімнати."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
