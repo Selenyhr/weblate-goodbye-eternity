@@ -112,9 +112,10 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-08 15:23+0200\n"
-"PO-Revision-Date: 2025-02-06 15:39+0000\n"
+"PO-Revision-Date: 2025-05-09 17:46+0000\n"
 "Last-Translator: Roger Miró <puniasterus@gmail.com>\n"
-"Language-Team: Spanish <https://translations.teot-studio.com/projects/goodbye-eternity/game-translation/es/>\n"
+"Language-Team: Spanish <https://translations.teot-studio.com/projects/"
+"goodbye-eternity/game-translation/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -267,22 +268,22 @@ msgstr "Anciano"
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Policier"
-msgstr ""
+msgstr "Policía"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Erika"
-msgstr ""
+msgstr "Erika"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Hanako"
-msgstr ""
+msgstr "Hanako"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Tsubaki"
-msgstr ""
+msgstr "Tsubaki"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
@@ -1455,7 +1456,7 @@ msgstr "¡¿Qué?!"
 #: game/story/home_kenji_exterior.dialogue
 msgctxt "QUOI_DA01E5"
 msgid "Quoi ?!"
-msgstr ""
+msgstr "¡¿Qué?!"
 
 #: game/story/amusement_park_interior.dialogue
 msgctxt "t5563aa424e"
@@ -2125,7 +2126,7 @@ msgstr "..."
 #: game/story/konbini_interior.dialogue
 msgctxt "t204a3e6b27"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "t96081ec5f7"
@@ -3230,7 +3231,7 @@ msgstr "..."
 #: game/story/arcade_interior.dialogue
 msgctxt "_3F9E71"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/home_minato_hallway.dialogue
 msgctxt "t4ff6dbb309"
@@ -3440,7 +3441,7 @@ msgstr "¿Vienes?"
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "TU_VIENS_7F5C2A"
 msgid "Tu viens ?"
-msgstr ""
+msgstr "¿Vienes?"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_68138ac2"
@@ -5710,7 +5711,7 @@ msgstr "¡Oye!"
 #: game/story/home_kenji_exterior.dialogue
 msgctxt "HEY_231F83"
 msgid "Hey !"
-msgstr ""
+msgstr "¡Oye!"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_23ae582e"
@@ -5750,7 +5751,7 @@ msgstr "Yo..."
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "JE_1D1804"
 msgid "Je..."
-msgstr ""
+msgstr "Yo..."
 
 #: game/story/canal.dialogue
 msgctxt "canal_0b7d8a15"
@@ -6040,7 +6041,7 @@ msgstr "¿Entonces?"
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "ALORS_B37108"
 msgid "Alors ?"
-msgstr ""
+msgstr "¿Entonces?"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_206b361c"
@@ -6060,7 +6061,7 @@ msgstr "¿Entonces?"
 #: game/story/konbini_exterior.dialogue
 msgctxt "ALORS_DAC7C8"
 msgid "Alors ?"
-msgstr ""
+msgstr "¿Entonces?"
 
 #: game/story/restaurant_sakuya_room.dialogue
 msgctxt "restaurant_sakuya_room_sexe_dfcf97e4"
@@ -6290,7 +6291,7 @@ msgstr "Ya veo..."
 #: game/story/warehouse_interior.dialogue
 msgctxt "JE_VOIS_3A9571"
 msgid "Je vois..."
-msgstr ""
+msgstr "Ya veo..."
 
 #: game/story/restaurant_interior.dialogue
 msgctxt "restaurant_interior_75a410e9"
@@ -7510,7 +7511,7 @@ msgstr "¿Qué quieres decir?"
 #: game/story/konbini_interior.dialogue
 msgctxt "COMMENT_A_438782"
 msgid "Comment ça ?"
-msgstr ""
+msgstr "¿Qué quieres decir?"
 
 #: game/story/bus_stop.dialogue
 msgctxt "noriko_forgive_cbad80a5"
@@ -7755,17 +7756,17 @@ msgstr "¡Maldita sea! ¡¿Cómo puede ser tan ingenuo?!"
 #: game/story/home_player_corridor.dialogue
 msgctxt "SALUT_BIEN_DORMI_AEBF96"
 msgid "Salut... Bien dormi ?"
-msgstr ""
+msgstr "Hola... ¿Dormiste bien?"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "PAS_VRAIMENT_ET_TOI_720EC2"
 msgid "Pas vraiment... et toi ?"
-msgstr ""
+msgstr "No mucho... ¿y tú?"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "MOI_NON_PLUS_E81698"
 msgid "Moi non plus."
-msgstr ""
+msgstr "Yo tampoco."
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "menu_asami_room_waiting_eb76599e"
@@ -80641,7 +80642,7 @@ msgstr "Almacén (Interior)"
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "sewers"
-msgstr ""
+msgstr "Alcantarillas"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -83676,12 +83677,12 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_54"
-msgstr ""
+msgstr "Ve a ver a {{kimochi.n}}."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_55"
-msgstr ""
+msgstr "Continúa la conversación con {{kimochi.n}} en u casa."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -83691,7 +83692,7 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_57"
-msgstr ""
+msgstr "Observa a la policía intervenir en la casa de {{minato.n}}."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -83706,7 +83707,7 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_60"
-msgstr ""
+msgstr "Ve a ver a {{sayuri.n}} en su casa."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
