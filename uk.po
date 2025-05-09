@@ -112,14 +112,16 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-08 15:23+0200\n"
-"PO-Revision-Date: 2025-05-09 12:52+0000\n"
-"Last-Translator: Михайло <aesome826@gmail.com>\n"
-"Language-Team: Ukrainian <https://translations.teot-studio.com/projects/goodbye-eternity/game-translation/uk/>\n"
+"PO-Revision-Date: 2025-05-09 17:46+0000\n"
+"Last-Translator: veydzh3r <veydzherdgswift008@gmail.com>\n"
+"Language-Team: Ukrainian <https://translations.teot-studio.com/projects/"
+"goodbye-eternity/game-translation/uk/>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8-bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 4.17\n"
 
 #: game/scenes/cg/noriko/laptop.tscn
@@ -267,22 +269,22 @@ msgstr "Старик"
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Policier"
-msgstr ""
+msgstr "Поліціянт"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Erika"
-msgstr ""
+msgstr "Еріка"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Hanako"
-msgstr ""
+msgstr "Ханако"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Tsubaki"
-msgstr ""
+msgstr "Цубакі"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
@@ -1455,7 +1457,7 @@ msgstr "Що?!"
 #: game/story/home_kenji_exterior.dialogue
 msgctxt "QUOI_DA01E5"
 msgid "Quoi ?!"
-msgstr ""
+msgstr "Що?!"
 
 #: game/story/amusement_park_interior.dialogue
 msgctxt "t5563aa424e"
@@ -2125,7 +2127,7 @@ msgstr "..."
 #: game/story/konbini_interior.dialogue
 msgctxt "t204a3e6b27"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "t96081ec5f7"
@@ -3230,7 +3232,7 @@ msgstr "..."
 #: game/story/arcade_interior.dialogue
 msgctxt "_3F9E71"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/home_minato_hallway.dialogue
 msgctxt "t4ff6dbb309"
@@ -5750,7 +5752,7 @@ msgstr "Я..."
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "JE_1D1804"
 msgid "Je..."
-msgstr ""
+msgstr "Я..."
 
 #: game/story/canal.dialogue
 msgctxt "canal_0b7d8a15"
@@ -6290,7 +6292,7 @@ msgstr "Зрозуміло..."
 #: game/story/warehouse_interior.dialogue
 msgctxt "JE_VOIS_3A9571"
 msgid "Je vois..."
-msgstr ""
+msgstr "Зрозуміло..."
 
 #: game/story/restaurant_interior.dialogue
 msgctxt "restaurant_interior_75a410e9"
@@ -75871,34 +75873,34 @@ msgstr "кадри(-ів)"
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgid "À jour"
-msgstr ""
+msgstr "Актуально"
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgid "En cours"
-msgstr ""
+msgstr "Синхронізація"
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgid "Synchroniser"
-msgstr ""
+msgstr "Синхронізувати"
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgid "Télécharger"
-msgstr ""
+msgstr "Завантажити"
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgctxt "preferences.translations.errors"
 msgid "Une erreur s'est produite durant la synchronisation. Veuillez rééssayer."
-msgstr ""
+msgstr "Під час синхронізації сталася помилка. Спробуйте ще раз."
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgctxt "preferences.translations.errors"
 msgid "Le serveur a répondu avec code {response_code}."
-msgstr ""
+msgstr "Сервер відповів кодом {response_code}."
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgctxt "preferences.translations.errors"
 msgid "Impossible de joindre le serveur. Vérifiez votre connexion."
-msgstr ""
+msgstr "Не вдається приєднатися до сервера. Перевірте ваше з’єднання."
 
 #: game/scenes/gui/game_menu/preferences.tscn game/scenes/gui/game_menu/galleries/images.tscn game/scenes/gui/game_menu/galleries/movies.tscn game/scenes/gui/game_menu/galleries/sprites.tscn
 msgid "GROUP"
@@ -75906,7 +75908,7 @@ msgstr "ГРУПА"
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgid "Changer\n"
-msgstr ""
+msgstr "Змінити"
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgid "SUBGROUP"
@@ -75938,6 +75940,9 @@ msgid ""
 "La synchronisation consomme environ 2ko de données.\n"
 "Chaque traduction consomme environ 3Mo de données."
 msgstr ""
+"Для завантаження перекладів потрібне підключення до Інтернету\n"
+"Для синхронізації потрібно близько 2 кб даних.\n"
+"Кожен переклад займає близько 3 Мб даних."
 
 #: game/scenes/gui/game_menu/saves.tscn
 msgid "<<"
@@ -78376,12 +78381,14 @@ msgstr "Боже мій, який день!"
 #: game/story/amusement_park_interior.dialogue
 msgctxt "tf56f78b5c2"
 msgid "Je remercie mes entraînements de m'avoir aidé, de m'avoir donné la capacité de te suivre aujourd'hui !"
-msgstr "Я хочу подякувати мої тренування за те, що вони допомогли мені не відставати від тебе сьогодні!"
+msgstr ""
+"Я дякую моїм тренуванням за те, що вони допомогли мені не відставати від "
+"тебе сьогодні!"
 
 #: game/story/amusement_park_interior.dialogue
 msgctxt "t0b44c2da79"
 msgid "A ton âge j'espère bien que tu es très endurant..."
-msgstr "У твоєму віці, я сподіваюся ти маєш багато витривалості..."
+msgstr "Я сподіваюся ти маєш багато витривалості у своєму віці..."
 
 #: game/story/amusement_park_interior.dialogue
 msgctxt "tdf662c2f5b"
@@ -78401,7 +78408,7 @@ msgstr "Ха-ха! Бачив би ти своє обличчя!"
 #: game/story/amusement_park_interior.dialogue
 msgctxt "tdfcd051664"
 msgid "Tu me fais marcher hein ?"
-msgstr "Ти жартуєш, правда?"
+msgstr "Ти ж жартуєш, правда?"
 
 #: game/story/amusement_park_interior.dialogue
 msgctxt "t688f4beae0"
@@ -78411,82 +78418,88 @@ msgstr "Я не знаю... [w]Ти хочеш, щоб я сказала «та�
 #: game/story/amusement_park_interior.dialogue
 msgctxt "t6130078b86"
 msgid "Il fait très chaud tout d'un coup..."
-msgstr "Щось так раптом стало жарко..."
+msgstr "Щось так раптом стало спекотно..."
 
 #: game/story/amusement_park_interior.dialogue
 msgctxt "t11cac206c3"
 msgid "En effet tu es tout rouge."
-msgstr ""
+msgstr "Дійсно, ти весь червоний."
 
 #: game/story/amusement_park_interior.dialogue
 msgctxt "t6578ff8755"
 msgid "{{saito.n}}... Allons sur la grande roue ! Le soleil se couche, je suis certaine que la vue sera magnifique !"
 msgstr ""
+"{{saito.n}}... Ходімо на оглядове колесо! Сонце сідає, тож я впевнена, що "
+"краєвид буде чудовим!"
 
 #: game/story/amusement_park_interior.dialogue
 msgctxt "t03c098c633"
 msgid "Oui... Faisons ça !"
-msgstr ""
+msgstr "Добре... Ходімо!"
 
 #: game/story/amusement_park_interior.dialogue
 msgctxt "t422625851c"
 msgid "Il faut que je fasse le tri dans ma tête."
-msgstr ""
+msgstr "Я маю розібратися з усім у своїй голові."
 
 #: game/story/amusement_park_interior.dialogue
 msgctxt "t9634e58efd"
 msgid "J'ai vraiment l'impression que {{sayuri.n}} me fait du rentre-dedans ou alors je décrypte mal les signaux."
 msgstr ""
+"Я справді відчуваю, що {{sayuri.n}} на мене наїжджає, якщо тільки я не "
+"помиляюся у сприйнятті сигналів."
 
 #: game/story/amusement_park_interior.dialogue
 msgctxt "teadbd669ed"
 msgid "Bon sang !"
-msgstr ""
+msgstr "Прокляття!"
 
 #: game/story/amusement_park_interior.dialogue
 msgctxt "tf755386b4f"
 msgid "Reste calme mon vieux, pense à {{asami.n}} ! C'est la mère de ma meilleure amie !"
 msgstr ""
+"Спокійно, стариганю! Подумай про {{asami.n}}! Це ж мати моєї найкращої "
+"подруги!"
 
 #: game/story/amusement_park_interior.dialogue
 msgctxt "tb8ebdf3ed3"
 msgid "Reste calme mon vieux, pense à {{asami.n}} ! C'est la mère de ma petite amie !"
-msgstr ""
+msgstr "Спокійно, стариганю! Подумай про {{asami.n}}! Це ж мати моєї дівчини!"
 
 #: game/story/amusement_park_interior.dialogue
 msgctxt "t2bec9101e5"
 msgid "Je ne dois pas céder à mes pulsions !"
-msgstr ""
+msgstr "Я не повинен піддаватися імпульсам!"
 
 #: game/story/amusement_park_interior.dialogue
 msgctxt "t76d95acd04"
 msgid "Allez ne reste pas la tête dans les nuages, tu réfléchis bien trop !"
-msgstr ""
+msgstr "Давай же, не витай у хмарах! Ти занадто багато думаєш!"
 
 #: game/story/amusement_park_interior.dialogue
 msgctxt "tf5f2fb641c"
 msgid "Laisse-toi guider !"
-msgstr ""
+msgstr "Відпусти себе!"
 
 #: game/story/amusement_park_interior.dialogue
 msgctxt "tcdc8cb9c5f"
 msgid "J'ai l'impression que tu as du mal à lâcher le contrôle."
-msgstr ""
+msgstr "У мене таке відчуття, що ти не можеш відпустити контроль."
 
 #: game/story/amusement_park_interior.dialogue
 msgctxt "t58cd47a70a"
 msgid "Mais parfois c'est bon de se laisser porter."
-msgstr ""
+msgstr "Але іноді корисно плисти за течією."
 
 #: game/story/amusement_park_interior.dialogue
 msgctxt "t5edd3a0aa3"
 msgid "...[w] C'est difficile."
-msgstr ""
+msgstr "...[w] Це важко."
 
 #: game/story/amusement_park_interior.dialogue
 msgctxt "tc1e4e127d7"
 msgid "Shhhht tu vas voir, tout va bien se passer !"
-msgstr ""
+msgstr "Цить, ось побачиш! Усе буде добре!"
 
 #: game/story/amusement_park_interior.dialogue
 msgctxt "tc6584bfbd5"
@@ -78676,7 +78689,7 @@ msgstr ""
 #: game/story/amusement_park_interior.dialogue
 msgctxt "tc5da28c141"
 msgid "Oh je crois que si on ne se dépêche pas de rentrer on va se prendre une vrai douche !"
-msgstr ""
+msgstr "Ох, якщо ми не поспішатимемо назад, то приймемо справжній душ!"
 
 #: game/story/amusement_park_interior.dialogue
 msgctxt "tc87c4a7bbe"
@@ -80635,7 +80648,7 @@ msgstr "Склад (у приміщенні)"
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "sewers"
-msgstr ""
+msgstr "Каналізація"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -83325,7 +83338,7 @@ msgstr "Поговорити з {{kimochi.n}} у своїй кімнаті."
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "sayuri_14"
-msgstr ""
+msgstr "Провести {kimochi.n}} на вулицю."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -83670,12 +83683,12 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_54"
-msgstr ""
+msgstr "Провідати {{kimochi.n}}."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_55"
-msgstr ""
+msgstr "Продовжити обговорення з {{kimochi.n}} у нього вдома."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -83685,7 +83698,7 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_57"
-msgstr ""
+msgstr "Подивитися, як поліція обшукує будинок {{minato.n}}."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -83700,7 +83713,7 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_60"
-msgstr ""
+msgstr "Завітати до дому {{sayuri.n}}."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -83715,7 +83728,7 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_63"
-msgstr ""
+msgstr "Віддати фотографії {{kimochi.n}}."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -83730,27 +83743,27 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_66"
-msgstr ""
+msgstr "Зустрітися з {{noriko.n}} в коридорі."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_67"
-msgstr ""
+msgstr "Знайти {{macumba.n}} у парку."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_68"
-msgstr ""
+msgstr "Узяти плакати вдома {{kimochi.n}}."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_69"
-msgstr ""
+msgstr "Розвісити плакати у найбільш відвідуваних місцях."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_69_1"
-msgstr ""
+msgstr "Повісити кілька плакатів у конбіні."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -83765,7 +83778,7 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_72"
-msgstr ""
+msgstr "Провести {{sayuri.n}} до її кімнати."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -83780,27 +83793,27 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_75"
-msgstr ""
+msgstr "Вийти з будинку."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_76"
-msgstr ""
+msgstr "Перевірити, чи {{akira.n}} у каналі."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_77"
-msgstr ""
+msgstr "Запитати {{nobu.n}} в ігровому центрі."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_78"
-msgstr ""
+msgstr "Наздогнати {{nobu.n}} на вулиці."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_79"
-msgstr ""
+msgstr "Слідувати за {{nobu.n}} до його будинку."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -83845,7 +83858,7 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_88"
-msgstr ""
+msgstr "Повернутися додому."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -83870,12 +83883,12 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_93"
-msgstr ""
+msgstr "Провідати {{macumba.n}} в парку."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_94"
-msgstr ""
+msgstr "Поспішно відвідати {{macumba.n}} в парку."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -83895,7 +83908,7 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_98"
-msgstr ""
+msgstr "Перевірити, як там {{sayuri.n}}."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -83930,7 +83943,7 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_105"
-msgstr ""
+msgstr "Піти до покинутого складу з {{sakuya.n}}."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -83955,7 +83968,7 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_110"
-msgstr ""
+msgstr "Повернутися на покинутий склад за відповідями."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -83970,7 +83983,7 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_113"
-msgstr ""
+msgstr "Піти до {{kimochi.n}}, щоб поділитися новою інформацією."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -84000,7 +84013,7 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_119"
-msgstr ""
+msgstr "Слідувати за {{netoru.n}} до конбіні."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -84015,12 +84028,12 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_122"
-msgstr ""
+msgstr "Повернутися до дому {{kimochi.n}}."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_123"
-msgstr ""
+msgstr "Побитися з {{minato.n}} віч-на-віч."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -84405,17 +84418,17 @@ msgstr "Шапочка"
 #: game/scenes/characters/sprites/cop.tscn
 msgctxt "character.sprite.attribute"
 msgid "cap"
-msgstr ""
+msgstr "Кепка"
 
 #: game/scenes/characters/sprites/cop.tscn
 msgctxt "character.sprite.attribute"
 msgid "none"
-msgstr ""
+msgstr "Нічого"
 
 #: game/scenes/characters/sprites/hanako.tscn
 msgctxt "character.sprite.attribute"
 msgid "clean"
-msgstr ""
+msgstr "Чисто"
 
 msgctxt "preferences.group"
 msgid "Language"
@@ -84519,11 +84532,11 @@ msgstr "Чіакі"
 
 msgctxt "preferences.variable"
 msgid "erika_pubes"
-msgstr ""
+msgstr "Еріка"
 
 msgctxt "preferences.variable"
 msgid "hanako_pubes"
-msgstr ""
+msgstr "Ханако"
 
 msgctxt "preferences.variable"
 msgid "natsume_pubes"
@@ -84543,7 +84556,7 @@ msgstr "Саюрі"
 
 msgctxt "preferences.variable"
 msgid "tsubaki_pubes"
-msgstr ""
+msgstr "Цубакі"
 
 msgctxt "preferences.variable"
 msgid "yasuka_pubes"
@@ -84733,7 +84746,7 @@ msgstr "Тримати {{asami.n}} у френдзоні."
 #: game/scenes/locations/konbini_exterior.tscn game/scenes/locations/love_hotel_exterior.tscn game/scenes/locations/park.tscn game/scenes/locations/restaurant_exterior.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "posters"
-msgstr ""
+msgstr "Плакати"
 
 #: game/scenes/locations/arcade_exterior.tscn
 msgctxt "galleries.backgrounds.sprite"
