@@ -112,7 +112,7 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-08 15:23+0200\n"
-"PO-Revision-Date: 2025-05-11 18:17+0000\n"
+"PO-Revision-Date: 2025-05-11 21:28+0000\n"
 "Last-Translator: Aleksandr <aleksandr-tugai@mail.ru>\n"
 "Language-Team: Russian <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/ru/>\n"
@@ -15281,7 +15281,7 @@ msgstr "Ну, берегись!"
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_83a33027"
 msgid "Je sens plus mon bras..."
-msgstr "Я не чвувствую руку..."
+msgstr "Я не чувствую руку..."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_45e10f61"
@@ -58661,7 +58661,7 @@ msgstr "[hint=ПУТЬ МУЖСКОГО ДОМИНИРОВАНИЯ]Угрожа�
 #: game/story/home_player_exterior.dialogue
 msgctxt "td3087dcd11"
 msgid "[hint=ROUTE REJET/CHANTAGE]Menacer"
-msgstr "[hint=ПУТЬ ОТКАЗА/ШАНТАЖА]Напугать"
+msgstr "[hint=ПУТЬ ИГНОРИРОВАНИЯ/ШАНТАЖА]Запугать"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "tab2bdfce28"
@@ -75953,9 +75953,9 @@ msgid ""
 "La synchronisation consomme environ 2ko de données.\n"
 "Chaque traduction consomme environ 3Mo de données."
 msgstr ""
-"Для скачивания файла перевода требуется интернет-соединение\n"
-"Синхронизация требует примерно 2 КБ данных\n"
-"Каждый файл перевод требует примерно 3 МБ данных"
+"Для скачивания файла перевода необходимо интернет-соединение\n"
+"Синхронизация занимает примерно 2 КБ данных\n"
+"Каждый файл перевода занимает примерно 3 МБ данных"
 
 #: game/scenes/gui/game_menu/saves.tscn
 msgid "<<"
