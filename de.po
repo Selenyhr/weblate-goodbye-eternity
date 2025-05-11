@@ -112,7 +112,7 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-08 15:23+0200\n"
-"PO-Revision-Date: 2025-05-10 12:05+0000\n"
+"PO-Revision-Date: 2025-05-11 11:57+0000\n"
 "Last-Translator: Tim Siekmann <sebastian.laubenstein@gmx.net>\n"
 "Language-Team: German <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/de/>\n"
@@ -75906,34 +75906,37 @@ msgstr "Frame(s)"
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgid "À jour"
-msgstr ""
+msgstr "Aktuell"
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgid "En cours"
-msgstr ""
+msgstr "Synchronisiert"
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgid "Synchroniser"
-msgstr ""
+msgstr "Synchronisieren"
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgid "Télécharger"
-msgstr ""
+msgstr "Herunterladen"
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgctxt "preferences.translations.errors"
 msgid "Une erreur s'est produite durant la synchronisation. Veuillez rééssayer."
 msgstr ""
+"Beim Synchronisieren ist ein Fehler aufgretreten. Bitte versuche es erneut."
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgctxt "preferences.translations.errors"
 msgid "Le serveur a répondu avec code {response_code}."
-msgstr ""
+msgstr "Server antwortet mit {response_code}."
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgctxt "preferences.translations.errors"
 msgid "Impossible de joindre le serveur. Vérifiez votre connexion."
 msgstr ""
+"Kann keine Verbindung zum Server herstellen. Bitte überprüfe deine "
+"Internetverbindung."
 
 #: game/scenes/gui/game_menu/preferences.tscn game/scenes/gui/game_menu/galleries/images.tscn game/scenes/gui/game_menu/galleries/movies.tscn game/scenes/gui/game_menu/galleries/sprites.tscn
 msgid "GROUP"
@@ -75941,7 +75944,7 @@ msgstr "GRUPPE"
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgid "Changer\n"
-msgstr ""
+msgstr "Ändern"
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgid "SUBGROUP"
