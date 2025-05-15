@@ -112,7 +112,7 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-08 15:23+0200\n"
-"PO-Revision-Date: 2025-05-15 09:53+0000\n"
+"PO-Revision-Date: 2025-05-15 16:34+0000\n"
 "Last-Translator: Roger Miró <puniasterus@gmail.com>\n"
 "Language-Team: Spanish <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/es/>\n"
@@ -31835,7 +31835,7 @@ msgstr "Bueno, voy a devanarme los sesos para encontrar algo antes de mañana."
 #: game/story/home_player_livingroom.dialogue
 msgctxt "IL_N_EST_TOUJOURS_PAS_RENTR_17BD7C"
 msgid "Il n'est toujours pas rentré ?"
-msgstr ""
+msgstr "¿Aún no ha vuelto?"
 
 #: game/story/home_player_hallway.dialogue
 msgctxt "tf3c2e16ca6"
@@ -31845,22 +31845,24 @@ msgstr "¿Aún no ha vuelto?"
 #: game/story/home_player_livingroom.dialogue
 msgctxt "JE_COMMENCE_VRAIMENT_M_INQUI_T_C8112E"
 msgid "Je commence vraiment à m'inquiéter pour lui..."
-msgstr ""
+msgstr "Empiezo a preocuparme por él..."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "J_AI_PEUR_QU_IL_NE_FASSE_QUELQ_DEBD0D"
 msgid "J'ai peur qu'il ne fasse quelque chose qu'il puisse regretter."
-msgstr ""
+msgstr "Temo que haga algo de lo que se arrepienta."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "JE_JE_NE_SAIS_PAS_E2AD23"
 msgid "Je... je ne sais pas."
-msgstr ""
+msgstr "No... no lo sé."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "MA_CH_RIE_SI_TOI_AUSSI_TU_AS_B_9EB841"
 msgid "Ma chérie... Si toi aussi tu as besoin d'en discuter, n'oublie pas que je serai toujours là pour toi, d'accord ?"
 msgstr ""
+"Cariño... Si tú también necesitas hablar de ello, no olvides que siempre "
+"estaré a tu lado, ¿vale?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "OUI_MERCI_MAMAN_A663E7"
@@ -72631,21 +72633,25 @@ msgstr "{{akira.n}} no perdona a los chivatos... Y sería capaz de lo peor."
 msgctxt "JE_NE_SAIS_RIEN_MAINTENANT_LAI_B5E44D"
 msgid "Je ne sais rien... Maintenant laisse-moi, c'est une soirée que j'attends depuis longtemps."
 msgstr ""
+"No sé nada de eso... Ahora déjame en paz, este es un anochecer que he estado "
+"esperando durante mucho tiempo."
 
 #: game/story/hostess_club_alley.dialogue
 msgctxt "NON_TU_PEUX_TE_FOUTRE_DE_MOI_S_A2EF00"
 msgid "Non... Tu peux te foutre de moi si tu veux... Mais pour avoir insinué qu'{{asami.n}} faisait le trottoir... Tu vas prendre cher !"
 msgstr ""
+"No... Puedes burlarte de mí si quieres... Pero insinuar que {{asami.n}} era "
+"una prostituta... ¡Lo pagarás caro!"
 
 #: game/story/hostess_club_alley.dialogue
 msgctxt "NON_C_EST_BON_PARDON_JE_LE_PEN_08ED38"
 msgid "Non c'est bon, pardon... Je le pensais pas, je..."
-msgstr ""
+msgstr "No, está bien, lo siento... No era mi intención, yo..."
 
 #: game/story/hostess_club_alley.dialogue
 msgctxt "A_E_NON_PUT_9EFF48"
 msgid "Aïe ! Non ! Put-"
-msgstr ""
+msgstr "¡Ay! ¡No! Jod-"
 
 #: game/story/home_minato_exterior.dialogue
 msgctxt "home_minato_exterior_a0a69bba"
@@ -75900,32 +75906,32 @@ msgstr "¡Sígueme, está justo aquí!"
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "PUTAIN_JE_N_AI_RIEN_APPRIS_DE_85864C"
 msgid "Putain... Je n'ai rien appris de plus..."
-msgstr ""
+msgstr "Joder... No aprendí nada nuevo..."
 
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "AUCUN_D_EUX_NE_SOUHAITE_PARLER_1285DF"
 msgid "Aucun d'eux ne souhaite parler."
-msgstr ""
+msgstr "Ninguno de ellos quiere hablar."
 
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "ET_SI_A_SE_TROUVE_ILS_N_EN_SAV_295F8C"
 msgid "Et si ça se trouve, ils n'en savent vraiment rien."
-msgstr ""
+msgstr "Y quizá, en realidad no saben nada."
 
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "EST_CE_QUE_JE_N_AURAIS_PAS_COG_33AB39"
 msgid "Est-ce que je n'aurais pas cogné assez fort ?"
-msgstr ""
+msgstr "¿No les golpeé lo suficientemente fuerte?"
 
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "MERDE_JE_PENSAIS_VRAIMENT_QUE_BD7FF4"
 msgid "Merde... Je pensais vraiment que je ferais des progrès !"
-msgstr ""
+msgstr "Mierda... ¡Creía que estaba progresando!"
 
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "J_AI_VRAIMENT_PLUS_DE_TEMPS_PE_B7ABF8"
 msgid "J'ai vraiment plus de temps à perdre !"
-msgstr ""
+msgstr "¡No tengo tiempo que perder!"
 
 #: game/scenes/gui/game_menu/galleries.tscn game/scenes/gui/game_menu/galleries/images.tscn game/scenes/gui/game_menu/galleries/backgrounds.tscn game/scenes/gui/game_menu/galleries/music.tscn
 #: game/scenes/gui/game_menu/galleries/sprites.tscn
@@ -76070,7 +76076,7 @@ msgstr ""
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgid "Télécharger"
-msgstr ""
+msgstr "Descargar"
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgctxt "preferences.translations.errors"
@@ -76093,7 +76099,7 @@ msgstr "GRUPO"
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgid "Changer\n"
-msgstr ""
+msgstr "Cambiar"
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgid "SUBGROUP"
