@@ -112,8 +112,8 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-08 15:23+0200\n"
-"PO-Revision-Date: 2025-05-15 05:22+0000\n"
-"Last-Translator: Gigila <reksi548228@gmail.com>\n"
+"PO-Revision-Date: 2025-05-15 17:43+0000\n"
+"Last-Translator: Natsu <Ivanovst4nist4v@yandex.ru>\n"
 "Language-Team: Russian <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/ru/>\n"
 "Language: ru\n"
@@ -277,13 +277,11 @@ msgid "Erika"
 msgstr "Эрика"
 
 #: game/scripts/variables/character_names.gd
-#, fuzzy
 msgctxt "character_default_name"
 msgid "Hanako"
 msgstr "Ханако"
 
 #: game/scripts/variables/character_names.gd
-#, fuzzy
 msgctxt "character_default_name"
 msgid "Tsubaki"
 msgstr "Цубаки"
@@ -59799,7 +59797,9 @@ msgstr "Ты ещё даже не зашла..."
 #: game/story/home_player_exterior.dialogue
 msgctxt "home_player_exterior_a2bdd56d"
 msgid "Non, mais ça me suffit, je ne voudrais pas être déçu donc je vais m'arrêter sur une bonne impression."
-msgstr "Нет, мне этого достаточно, я не хочу разочаровываться, поэтому уйду с хорошим впечатлением."
+msgstr ""
+"Нет, мне этого достаточно, я не хочу разочаровываться, поэтому уйду с "
+"хорошим впечатлением."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "home_player_exterior_52fa06df"
@@ -75919,9 +75919,8 @@ msgid "GROUP"
 msgstr "ГРУППА"
 
 #: game/scenes/gui/game_menu/preferences.tscn
-#, fuzzy
 msgid "Changer\n"
-msgstr "Выбор языка"
+msgstr "Язык"
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgid "SUBGROUP"
