@@ -113,7 +113,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-08 15:23+0200\n"
 "PO-Revision-Date: 2025-05-16 06:55+0000\n"
-"Last-Translator: 김종환 <zlawhdghks@naver.com>\n"
+"Last-Translator: ㅇㅇ <dissembler02@gmail.com>\n"
 "Language-Team: Korean <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/ko/>\n"
 "Language: ko\n"
@@ -125,11 +125,11 @@ msgstr ""
 
 #: game/scenes/cg/noriko/laptop.tscn
 msgid "Demi-Sœur Dépucelle Son Demi-Frère"
-msgstr ""
+msgstr "의붓여동생이 의붓오빠의 동정을 떼줬다"
 
 #: game/scenes/cg/noriko/laptop.tscn
 msgid "Demi-Sœur Se Fait Prendre Dans Son Sommeil Par Son Demi-Frère"
-msgstr ""
+msgstr "여동생은 의붓오빠에게 자는 사이에 따먹혔다"
 
 #: core/scripts/clock.gd
 msgid "morning"
@@ -268,22 +268,22 @@ msgstr "늙은남성"
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Policier"
-msgstr ""
+msgstr "경찰관"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Erika"
-msgstr ""
+msgstr "에리카"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Hanako"
-msgstr ""
+msgstr "하나코"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Tsubaki"
-msgstr ""
+msgstr "츠바키"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
@@ -409,7 +409,7 @@ msgstr "0123456789"
 
 #: game/scenes/gui/gui_start_asami.tscn
 msgid "ASAMI"
-msgstr ""
+msgstr "아사미"
 
 #: game/scenes/gui/gui_start_asami.tscn
 msgid "Vous pouvez dès à présent poursuivre l’histoire d’{{asami.n}}."
@@ -433,7 +433,7 @@ msgstr "알겠다"
 
 #: game/scenes/gui/gui_start_sakuya.tscn
 msgid "SAKUYA"
-msgstr ""
+msgstr "사쿠야"
 
 #: game/scenes/gui/gui_start_sakuya.tscn
 msgid "Vous pouvez dès à présent poursuivre l’histoire de {{sakuya.n}}."
@@ -441,7 +441,8 @@ msgstr "이제부터는 {{sakuya.n}}의 스토리로 이어집니다."
 
 #: game/scenes/gui/gui_start_sakuya.tscn
 msgid "Vous avez fait des choix tout au long de votre aventure, peu importe qu'ils soient bons ou mauvais. {{sakuya.n}} vous les fera assumer."
-msgstr ""
+msgstr "당신은 모험 내내 좋든 나쁘든 선택을 해왔습니다. {{sakuya.n}}는 당신의 선택을 "
+"책임지게 할 것입니다."
 
 #: game/scenes/gui/gui_start_yasuka.tscn
 msgid "YASUKA"
@@ -470,6 +471,9 @@ msgid ""
 "Pendant votre aventure, vos choix impacteront votre entourage, si vous rejetez plusieurs fois un personnage attendez vous a ce qu’il aille voir ailleurs. Tout ceci dans le but de garder une "
 "certaine cohérence avec le monde réel."
 msgstr ""
+"모험을 하는 동안, 당신의 선택은 주변에 영향을 줍니다. 한 캐릭터를 여러 번 "
+"거부하면 다른사람을 만나기 시작합니다. 이는 현실세계와 일관성을 유지하기 "
+"위한 것입니다."
 
 #: game/scenes/gui/splashscreen.tscn
 msgid "Vos actions auront des conséquences..."
@@ -534,7 +538,7 @@ msgstr ""
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_13f52085"
 msgid "Bonjour mon chéri."
-msgstr ""
+msgstr "안녕,여보"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_8cc61393"
@@ -544,172 +548,172 @@ msgstr ""
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_bd1a143c"
 msgid "Ça me fait plaisir que tu viennes me voir !"
-msgstr ""
+msgstr "날 보러 와줘서 기뻐!"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_04c36d55"
 msgid "Tu désires quelque chose ?"
-msgstr ""
+msgstr "뭐 원하는 거 있어?"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_221be6bf"
 msgid "C'est moi qui te l'offre !"
-msgstr ""
+msgstr "이건 내가 살게!"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_608419eb"
 msgid "Merci !"
-msgstr ""
+msgstr "고마워!"
 
 #: game/story/home_natsume_exterior.dialogue
 msgctxt "home_natsume_exterior_608419eb"
 msgid "Merci !"
-msgstr ""
+msgstr "고마워!"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "home_kimochi_exterior_8d2b8b61"
 msgid "Merci !"
-msgstr ""
+msgstr "고마워!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_862bc7ab"
 msgid "Merci !"
-msgstr ""
+msgstr "고마워!"
 
 #: game/story/home_asami_exterior.dialogue
 msgctxt "t56126c5a15"
 msgid "Merci !"
-msgstr ""
+msgstr "고마워!"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_070865d3"
 msgid "Merci !"
-msgstr ""
+msgstr "고마워!"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "t16597b9a4f"
 msgid "Un café."
-msgstr ""
+msgstr "커피 한 잔."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_be3259f1"
 msgid "Tu es un amour !"
-msgstr ""
+msgstr "정말 다정하네!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_c70765ba"
 msgid "Tu es un amour !"
-msgstr ""
+msgstr "정말 다정하네!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "tb222c41a00"
 msgid "Tu es un amour !"
-msgstr ""
+msgstr "정말 다정하네!"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_2a515d02"
 msgid "Je vais fermer la boutique quelques minutes afin qu'on ne soit pas dérangé."
-msgstr ""
+msgstr "방해 받지 않도록 몇 분 동안 가게를 닫겠습니다."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_c547b09e"
 msgid "{{yasuka.n}} et {{saito.n}} passèrent tous les deux un long moment à discuter."
-msgstr ""
+msgstr "{{yasuka.n}} 와 {{saito.n}} 는 오랜 시간 대화를 나누었다."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_f5f8ebfe"
 msgid "Ne plus avoir de patrons sur son dos semble l'avoir libérée."
-msgstr ""
+msgstr "그녀를 괴롭히는 상사가 없어지니, 한결 자유로워진 듯하다."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_0b339148"
 msgid "Après avoir discuté un long moment, il était temps de partir."
-msgstr ""
+msgstr "오랜 시간 대화를 나누자, 어느덧 떠날 시간이 되었다."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_0a9538b0"
 msgid "Tu t'en vas déjà ?"
-msgstr ""
+msgstr "벌써 가니?"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_28e5bb01"
 msgid "J'aimerais pouvoir rester avec toi, mais je dois aussi faire des choses de mon côté."
-msgstr ""
+msgstr "마음 같아서는 더 있고 싶지만, 해결해야 될 일이 있어"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_6f897340"
 msgid "On se retrouve ce soir ?"
-msgstr ""
+msgstr "오늘 밤에 볼까?"
 
 #: game/story/park.dialogue
 msgctxt "doggystyle_again_f71b1f42"
 msgid "On se retrouve ce soir ?"
-msgstr ""
+msgstr "오늘 밤에 볼까?"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_ff1d94bb"
 msgid "Oui !"
-msgstr ""
+msgstr "그래!"
 
 #: game/story/love_hotel_room.dialogue
 msgctxt "love_hotel_room_6c4a2977"
 msgid "Oui !"
-msgstr ""
+msgstr "응!"
 
 #: game/story/canal.dialogue
 msgctxt "canal_7f6dc742"
 msgid "Oui !"
-msgstr ""
+msgstr "응!"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "sleeping_with_yasuka_saito_room_d51ada21"
 msgid "Oui !"
-msgstr ""
+msgstr "응!"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_c2875ad2"
 msgid "Oui !"
-msgstr ""
+msgstr "그래!"
 
 #: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
 msgctxt "yasuka_love_sexe_repeat_a8559f90"
 msgid "Oui !"
-msgstr ""
+msgstr "응!"
 
 #: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
 msgctxt "t0bfbfc30cf"
 msgid "Oui !"
-msgstr ""
+msgstr "응!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_6c4a2977"
 msgid "Oui !"
-msgstr ""
+msgstr "응!"
 
 #: game/story/love_hotel_reception.dialogue
 msgctxt "love_hotel_reception_a8559f90"
 msgid "Oui !"
-msgstr ""
+msgstr "응!"
 
 #: game/story/love_hotel_reception.dialogue
 msgctxt "t95cd12ef54"
 msgid "Oui !"
-msgstr ""
+msgstr "응!"
 
 #: game/story/bus_stop.dialogue
 msgctxt "noriko_forgive_a02b5dd8"
 msgid "Oui !"
-msgstr ""
+msgstr "응!"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "te685980fbd"
 msgid "Oui !"
-msgstr ""
+msgstr "응!"
 
 #: game/story/park.dialogue
 msgctxt "doggystyle_again_fa8791f1"
 msgid "Oui !"
-msgstr ""
+msgstr "그래!"
 
 #: game/story/park.dialogue
 msgctxt "menu_macumba_9c79e0a2"
