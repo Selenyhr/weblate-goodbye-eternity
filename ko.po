@@ -112,9 +112,10 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-08 15:23+0200\n"
-"PO-Revision-Date: 2025-03-21 14:00+0000\n"
-"Last-Translator: metwel <darkplex6974@gmail.com>\n"
-"Language-Team: Korean <https://translations.teot-studio.com/projects/goodbye-eternity/game-translation/ko/>\n"
+"PO-Revision-Date: 2025-05-16 06:55+0000\n"
+"Last-Translator: 김종환 <zlawhdghks@naver.com>\n"
+"Language-Team: Korean <https://translations.teot-studio.com/projects/"
+"goodbye-eternity/game-translation/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -357,7 +358,7 @@ msgstr "창고 앞"
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "canal"
-msgstr ""
+msgstr "수로"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
@@ -372,39 +373,39 @@ msgstr "오락실"
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "lake"
-msgstr ""
+msgstr "호수"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "home_kenji_exterior"
-msgstr ""
+msgstr "{{kenji.n}}의 집"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "home_nobu_exterior"
-msgstr ""
+msgstr "{{nobu.n}}의 집"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "home_takeo_exterior"
-msgstr ""
+msgstr "{{takeo.n}}의 집"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "amusement_park_exterior"
-msgstr ""
+msgstr "놀이공원 외부"
 
 #: game/scenes/gui/gui_location.tscn
 msgid "Lundi"
-msgstr ""
+msgstr "월요일"
 
 #: game/scenes/gui/gui_location.tscn
 msgid "¥ "
-msgstr ""
+msgstr "¥ "
 
 #: game/scenes/gui/gui_location.tscn
 msgid "0123456789"
-msgstr ""
+msgstr "0123456789"
 
 #: game/scenes/gui/gui_start_asami.tscn
 msgid "ASAMI"
@@ -412,15 +413,15 @@ msgstr ""
 
 #: game/scenes/gui/gui_start_asami.tscn
 msgid "Vous pouvez dès à présent poursuivre l’histoire d’{{asami.n}}."
-msgstr ""
+msgstr "이제 {{asami.n}}의 이야기를 계속할 수 있습니다."
 
 #: game/scenes/gui/gui_start_asami.tscn
 msgid "Vous avez fait le choix de vous lier [color=yellow]d'amitié[/color]."
-msgstr ""
+msgstr "당신은 그녀와 [color=yellow] 친구[/color]가 되는 길을 선택했다."
 
 #: game/scenes/gui/gui_start_asami.tscn
 msgid "Vous avez fait le choix de la [color=yellow]corrompre[/color]."
-msgstr ""
+msgstr "당신은 그녀를[color=yellow]타락[/color]시키는 길을 선택했다."
 
 #: game/scenes/gui/gui_start_asami.tscn
 msgid "Vous avez fait le choix de [color=yellow]rester amis[/color]."
@@ -428,7 +429,7 @@ msgstr ""
 
 #: game/scenes/gui/gui_start_asami.tscn game/scenes/gui/gui_start_sakuya.tscn game/scenes/gui/gui_start_yasuka.tscn
 msgid "J'ai compris"
-msgstr ""
+msgstr "알겠다"
 
 #: game/scenes/gui/gui_start_sakuya.tscn
 msgid "SAKUYA"
@@ -436,7 +437,7 @@ msgstr ""
 
 #: game/scenes/gui/gui_start_sakuya.tscn
 msgid "Vous pouvez dès à présent poursuivre l’histoire de {{sakuya.n}}."
-msgstr ""
+msgstr "이제부터는 {{sakuya.n}}의 스토리로 이어집니다."
 
 #: game/scenes/gui/gui_start_sakuya.tscn
 msgid "Vous avez fait des choix tout au long de votre aventure, peu importe qu'ils soient bons ou mauvais. {{sakuya.n}} vous les fera assumer."
@@ -444,15 +445,15 @@ msgstr ""
 
 #: game/scenes/gui/gui_start_yasuka.tscn
 msgid "YASUKA"
-msgstr ""
+msgstr "야스카"
 
 #: game/scenes/gui/gui_start_yasuka.tscn
 msgid "Vous pouvez dès à présent poursuivre l’histoire de {{yasuka.n}}."
-msgstr ""
+msgstr "이제 {{yasuka.n}}의 이야기를 계속할 수 있습니다."
 
 #: game/scenes/gui/gui_start_yasuka.tscn
 msgid "Vous avez fait le choix de l'[color=yellow]aimer et de la soutenir[/color]."
-msgstr ""
+msgstr "당신은 [color=yellow] 그녀를 사랑하고 지지하는 [/color] 길을 선택했다."
 
 #: game/scenes/gui/gui_start_yasuka.tscn
 msgid "Vous avez fait le choix de la laisser [color=yellow]travailler au bar à hôtesse[/color]."
@@ -461,6 +462,8 @@ msgstr ""
 #: game/scenes/gui/splashscreen.tscn
 msgid "Certaines scènes de ce jeu peuvent contenir du contenu sexuellement explicite et pourrait choquer un jeune public. Tous les personnages de ce jeu sont majeurs."
 msgstr ""
+"이 게임에는 성적으로 노골적인 콘텐츠가 포함되어 있어 청소년에게 부적절할 수 "
+"있습니다. 이 게임의 등장인물은 모두 18세 이상입니다."
 
 #: game/scenes/gui/splashscreen.tscn
 msgid ""
@@ -470,11 +473,12 @@ msgstr ""
 
 #: game/scenes/gui/splashscreen.tscn
 msgid "Vos actions auront des conséquences..."
-msgstr ""
+msgstr "행동에는 결과가 따른다……"
 
 #: game/scenes/gui/splashscreen.tscn
 msgid "[fill]Certaines [url=data]données anonymes[/url] peuvent être récoltées pour améliorer l'expérience de jeu.[/fill]"
-msgstr ""
+msgstr "[fill] 게임 체험 향상을 위해 [url=data] 익명 데이터 [/url]가 수집될 수 "
+"있습니다 [/fill]"
 
 #: game/scenes/gui/splashscreen.tscn
 msgid ""
@@ -484,37 +488,43 @@ msgid ""
 "- informations de plateforme (Windows, Android, etc.)\n"
 "- informations de build (animations, censure, mode web, etc.)"
 msgstr ""
+"수집 데이터는 다음의 내용을 포함합니다\n"
+"- 현재 버전 번호\n"
+"- 환경설정(저스페모드)\n"
+"- 플랫폼 정보 (Windows, Android 등)\n"
+"- 빌드정보 (애니메이션, 검열, 웹모드 등)"
 
 #: game/scenes/gui/splashscreen.tscn
 msgid "Ces données seront recueillies après acceptation de ces termes, et ne contiennent pas d'identifiant direct ni informations externes au jeu."
-msgstr ""
+msgstr "이 데이터는 본 약관의 동의 후 수집되며, 직접 식별자나 게임 외의 정보를 일절 "
+"포함하지 않습니다."
 
 #: game/scenes/gui/splashscreen.tscn
 msgid "[url=disclaimer]Retour[/url]"
-msgstr ""
+msgstr "[url=disclaimer]뒤로[/url]"
 
 #: game/scenes/gui/splashscreen.tscn
 msgid "Je gère !"
-msgstr ""
+msgstr "해줄게!"
 
 #: game/scenes/gui/splashscreen.tscn
 msgid "Sortez-moi d'ici !"
-msgstr ""
+msgstr "여기서 꺼내줘!"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_unavailable_6f3cbfbc"
 msgid "Forcement, c'est fermé à cette heure-ci..."
-msgstr ""
+msgstr "이런 시간에는 당연히 닫혀있겠지..."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_ec2adc19"
 msgid "On se verra ce soir à la maison."
-msgstr ""
+msgstr "밤에 집에서 만나요."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_f7a2c8ca"
 msgid "Passe une bonne journée mon chéri."
-msgstr ""
+msgstr "좋은 하루 보내길 바래."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_7b2c5ef2"
