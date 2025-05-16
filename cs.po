@@ -2,9 +2,10 @@ msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-08 15:23+0200\n"
-"PO-Revision-Date: 2025-05-02 16:26+0000\n"
-"Last-Translator: Gabriel Kocúr <kocurgabriel@protonmail.com>\n"
-"Language-Team: Czech <https://translations.teot-studio.com/projects/goodbye-eternity/game-translation/cs/>\n"
+"PO-Revision-Date: 2025-05-16 09:02+0000\n"
+"Last-Translator: Lukáš Kafka <kafkyns@gmail.com>\n"
+"Language-Team: Czech <https://translations.teot-studio.com/projects/"
+"goodbye-eternity/game-translation/cs/>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -14,11 +15,11 @@ msgstr ""
 
 #: game/scenes/cg/noriko/laptop.tscn
 msgid "Demi-Sœur Dépucelle Son Demi-Frère"
-msgstr "Nevlastní sestra připraví nevlastního bratra o panictví"
+msgstr "Nevlastní sestra podvede nevlastního bratra"
 
 #: game/scenes/cg/noriko/laptop.tscn
 msgid "Demi-Sœur Se Fait Prendre Dans Son Sommeil Par Son Demi-Frère"
-msgstr "Nevlastní sestra je oprcána v posteli, když spí s nevlastním bratrem."
+msgstr "Nevlastní sestra je přistižena ve spánku se svým nevlastním bratrem"
 
 #: core/scripts/clock.gd
 msgid "morning"
@@ -77,7 +78,7 @@ msgstr "Asami"
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Noriko"
-msgstr "Noriko"
+msgstr "Asami"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
@@ -117,7 +118,7 @@ msgstr "Kimochi"
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Chef"
-msgstr "Šéf kuchař"
+msgstr "Chef"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
@@ -152,7 +153,7 @@ msgstr "Sayuri"
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Vieil homme"
-msgstr "Stařec"
+msgstr "Starý muž"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
@@ -177,7 +178,7 @@ msgstr ""
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "home_player_exterior"
-msgstr "Venku"
+msgstr "Exteriér"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
@@ -252,7 +253,7 @@ msgstr "Kanál"
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "bus_stop"
-msgstr "Autobusová zastávka"
+msgstr "Zastavka Autobusu"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
@@ -634,7 +635,7 @@ msgstr "Už se na to těším."
 #: game/story/home_player_hallway.dialogue
 msgctxt "home_player_hallway_f86a3991"
 msgid "J'ai déjà hâte d'y être."
-msgstr "Nemůžu se dočkat."
+msgstr "J'ai déjà hâte d'y être."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_d30d0d48"
@@ -12531,9 +12532,10 @@ msgid "Ne t'en fais pas, je ne serai pas loin, ce type n'est vraiment pas ce qu'
 msgstr "Nebojte se, nebudu daleko, ten chlap opravdu není tím, za koho se vydává."
 
 #: game/story/canal.dialogue
+#, fuzzy
 msgctxt "t6ec60c8085"
 msgid "[i]Ne rien dire.[/i]"
-msgstr "[i]Buď zticha.[/i]"
+msgstr "[Nic neříkejte[/i]."
 
 #: game/story/canal.dialogue
 msgctxt "canal_88a4b4bf"
@@ -15706,9 +15708,12 @@ msgid "Tout est prêt, il ne me reste plus qu'à appuyer sur ce bouton."
 msgstr "Vše je připraveno, stačí jen stisknout toto tlačítko."
 
 #: game/story/home_player_saito_room.dialogue
+#, fuzzy
 msgctxt "halteres_3c83d0f7"
 msgid "[i]Salut petit frère et bienvenue dans le dernier entraînement sur-mesure pour les fiottes comme toi.[/i]"
-msgstr "[i]Ahoj bráško! Vítej u nejnovějšího tréninku přizpůsobeného přímo pro takový kundičky jako seš ty.[/i]"
+msgstr ""
+"[Ahoj bratříčku, vítej na nejnovějším tréninku na míru pro kočičky, jako jsi "
+"ty."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "halteres_5a838110"
@@ -15716,24 +15721,28 @@ msgid "Je ne sais pas si je dois être reconnaissant ou..."
 msgstr "Nevím, jestli mám být vděčná, nebo..."
 
 #: game/story/home_player_saito_room.dialogue
+#, fuzzy
 msgctxt "halteres_a53f6970"
 msgid "[i]Je savais que tu aurais besoin de ce type d'entrainement à un moment ou un autre.[/i]"
-msgstr "[i]Věděl jsem, že tenhle tréning budeš potřebovat dříve či později.[i][/i]."
+msgstr "[Věděl jsem, že takový trénink budeš někdy potřebovat[/i]."
 
 #: game/story/home_player_saito_room.dialogue
+#, fuzzy
 msgctxt "halteres_23b78f7a"
 msgid "[i]J'ai tout préparé rien que pour toi, petit frère.[/i]"
-msgstr "[i]Všechno jsem připravil jen pro tebe bráško.[/i]"
+msgstr "[Všechno jsem připravil jen pro tebe, bratříčku."
 
 #: game/story/home_player_saito_room.dialogue
+#, fuzzy
 msgctxt "halteres_fd1c9a2e"
 msgid "[i]La seule façon de progresser, c'est de se dépasser constamment.[/i]"
-msgstr "[i]Jedinej způsob jak se posunout dál je neustále překonávat sama sebe.[/i]"
+msgstr "[Jediný způsob, jak se posunout vpřed, je neustále si klást výzvy."
 
 #: game/story/home_player_saito_room.dialogue
+#, fuzzy
 msgctxt "halteres_8b4685b7"
 msgid "[i]Mettre sa vie en jeu.[/i]"
-msgstr "[i]Dát do toho celou svojí duši.[/i]"
+msgstr "[Vsadit svůj život v sázku[/i]."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "halteres_adb086e9"
@@ -15846,7 +15855,9 @@ msgstr "[Tady máš, bratříčku. Trénink pro dnešek skončil[/i]."
 #, fuzzy
 msgctxt "halteres_e62355ab"
 msgid "[i]Si tu ressens de la douleur dans les bras et les pecs, c'est que tu as bien travaillé.[/i]"
-msgstr "[Pokud cítíte bolest v pažích a prsních svalech, odvedli jste dobrou práci[/i]."
+msgstr ""
+"[Pokud cítíte bolest v pažích a prsních svalech, odvedli jste dobrou "
+"práci[/i]."
 
 #: game/story/home_player_saito_room.dialogue
 #, fuzzy
@@ -23617,7 +23628,7 @@ msgstr ""
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_2af0ec69"
 msgid "Mon chéri..."
-msgstr ""
+msgstr "Můj drahý..."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "YASUKA_N_MAIS_QU_EST_CE_QUE_T_C5A0CF"
@@ -30081,37 +30092,39 @@ msgstr "Miláčku, nedělej si o mě tolik starostí, mělo by to být naopak, v
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_6f677c50"
 msgid "Tu es un homme à présent."
-msgstr ""
+msgstr "Teď jsi muž."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_6d8c7cc8"
 msgid "Je suis certain que ta future femme sera heureuse avec quelqu'un d'aussi intentionné que toi."
 msgstr ""
+"Jsem si jistá, že vaše budoucí žena bude šťastná s někým, kdo to myslí tak "
+"dobře jako vy."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_801ee4d0"
 msgid "Je vais aller me reposer à présent, je tombe littéralement de sommeil et je reprends le travail ce soir."
-msgstr ""
+msgstr "Jdu si teď odpočinout, doslova usínám a večer se vracím do práce."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_d6369a9f"
 msgid "Oui, je comprends, repose-toi bien."
-msgstr ""
+msgstr "Ano, rozumím, odpočiňte si."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_17bcaacf"
 msgid "Ne faites pas trop de bruits tous les deux."
-msgstr ""
+msgstr "Nedělejte společně příliš velký hluk."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_e4a767b5"
 msgid "{{yasuka.n}} n'est pas là ?"
-msgstr ""
+msgstr "{{yasuka.n}} zde není?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_e1615d6a"
 msgid "Non, elle est déjà partie."
-msgstr ""
+msgstr "Ne, už je pryč."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_2f3172d9"
@@ -30141,612 +30154,644 @@ msgstr "Je to problém?"
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_13f23864"
 msgid "Oui, je vais essayer de la rattraper !"
-msgstr ""
+msgstr "Ano, pokusím se ji chytit!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_ee52bdf2"
 msgid "Et toi ?"
-msgstr ""
+msgstr "Ty?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_79d3b417"
 msgid "Est-ce que tu as eu des problèmes avec..."
-msgstr ""
+msgstr "Měli jste nějaké problémy s..."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_2361752a"
 msgid "Le garçon que tu avais mentionné est effectivement venu me parler, mais honnêtement, tu n'avais pas à t'inquiéter."
 msgstr ""
+"Ten chlapec, o kterém jsi mluvil, si se mnou přišel promluvit, ale upřímně "
+"řečeno, nemáš se čeho bát."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_8d6f4fee"
 msgid "Son attitude était déplorable et la façon de traiter les femmes était absolument méprisable."
 msgstr ""
+"Jeho chování bylo odsouzeníhodné a způsob, jakým se choval k ženám, byl "
+"naprosto zavrženíhodný."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_e980fa5c"
 msgid "Il a passé le reste de la soirée assis dans un coin."
-msgstr ""
+msgstr "Zbytek večera strávil v koutě."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_e1ec221b"
 msgid "J'ai bien vu qu'il semblait furieux, mais la sécurité est vraiment efficace là-bas."
-msgstr ""
+msgstr "Viděl jsem, že vypadá rozzuřeně, ale ochranka je tam opravdu účinná."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_ae2141db"
 msgid "C'est une excellente nouvelle !"
-msgstr ""
+msgstr "To je skvělá zpráva!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_47e22585"
 msgid "Par contre... Mr. {{netoru.n}} s'est peut-être un peu trop amusé à le provoquer."
 msgstr ""
+"Na druhou stranu... Pan {{netoru.n}} se možná příliš bavil tím, že ho "
+"provokoval."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_91e54d91"
 msgid "Il n'a rien tenté quoi que ce soit avec toi ?"
-msgstr ""
+msgstr "Nezkoušel na tebe nic?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_e9625e33"
 msgid "Non, non, bien au contraire... Il a été courtois, parfois amusant, sans jamais un geste déplacé."
 msgstr ""
+"Ne, ne, naopak... Byl zdvořilý, někdy zábavný, aniž by udělal nějaké "
+"nevhodné gesto."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_007769b1"
 msgid "Ah bon ?"
-msgstr ""
+msgstr "Ah, dobrý?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_c753102b"
 msgid "Je suis sûr que cette ordure à le même objectif qu'{{akira.n}}."
-msgstr ""
+msgstr "Jsem si jistý, že tento šmejd má stejný cíl jako {{akira.n}}."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_f77fb6b5"
 msgid "De plus, il semble bien plus calculateur."
-msgstr ""
+msgstr "Navíc se zdá být mnohem vypočítavější."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_4eca95dc"
 msgid "Putain, ça me rend fou de savoir qu'il va passer tout son temps avec des intentions aussi sales à côté d'elle."
 msgstr ""
+"Kurevsky mě vytáčí, že vedle ní bude trávit veškerý čas s takovými špinavými "
+"úmysly."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_ec4c5ba3"
 msgid "Tu vois que tu t'inquiètes trop !"
-msgstr ""
+msgstr "Děláte si příliš velké starosti!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_2297e48f"
 msgid "La soirée d'hier soir a d'ailleurs été une très bonne soirée !"
-msgstr ""
+msgstr "Včerejší večer byl skvělý!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_826f8451"
 msgid "Je suis enfin capable de vous donner un peu d'argent de poche."
-msgstr ""
+msgstr "Konečně ti můžu dát trochu kapesného."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_505108b8"
 msgid "Je suis si heureuse, je vais enfin pouvoir payer mes dettes et vous faire plaisir."
 msgstr ""
+"Jsem tak šťastný, že konečně budu moci splatit své dluhy a udělat ti radost."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_75c56896"
 msgid "Mon chéri ne t'en fait pas, ce n'est pas 10000¥ qui changeront quoi que ce soit."
-msgstr ""
+msgstr "Miláčku, neboj se, 10 000¥  nic nezmění."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_46c64f6d"
 msgid "S'il te plait, garde les et profite en un peu aussi, les choses semblent s'arranger pour le mieux donc autant en profiter."
 msgstr ""
+"Prosím, nechte si je a také si je trochu užijte, zdá se, že se věci vyvíjejí "
+"k lepšímu, takže byste toho mohli využít."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_5774b098"
 msgid "Je gagne assez avec mon travail au restaurant. Je tiens vraiment à ce que nous puissions rembourser nos dettes le plus vite possible."
 msgstr ""
+"Dost si vydělám prací v restauraci. Opravdu chci, abychom byli schopni co "
+"nejrychleji splatit naše dluhy."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_1bde17bc"
 msgid "Tu es si sérieux... Mais tu as raison. Je vais les mettre de côté."
-msgstr ""
+msgstr "To myslíš vážně... Ale máš pravdu. Dám je pryč."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "t43aa4a80b9"
 msgid "Merci, mais... Je préférerais que tu gardes l'argent pour rembourser les dettes."
 msgstr ""
+"Díky, ale... Byl bych radši, kdyby sis ty peníze nechal na splacení dluhů."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_c6612f1f"
 msgid "J'ai envie de vous faire plaisir."
-msgstr ""
+msgstr "Chci tě potěšit."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_87081007"
 msgid "Alors, amusez-vous toi et à {{noriko.n}}."
-msgstr ""
+msgstr "Tak si to užijte a {{noriko.n}}."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_159d3215"
 msgid "Merci beaucoup."
-msgstr ""
+msgstr "Děkuji vám za váš čas."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "t1291ee4082"
 msgid "Vous obtenez 10000¥"
-msgstr ""
+msgstr "Dostanete 10 000¥."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "t4c0b35a2e2"
 msgid "Oh, c'est gentil, mais c'était pas nécessaire, tu sais."
-msgstr ""
+msgstr "To je sice hezké, ale nebylo to nutné."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_07e7f332"
 msgid "Je tombe de sommeil, je crois bien que je vais aller dormir à présent."
-msgstr ""
+msgstr "Usínám a myslím, že teď půjdu spát."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_2e5d5488"
 msgid "D'accord, repose-toi bien !"
-msgstr ""
+msgstr "Dobře, odpočiňte si!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_19feb979"
 msgid "Tu as passé une bonne nuit ?"
-msgstr ""
+msgstr "Měli jste dobrou noc?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_0f5035bd"
 msgid "J'ai... J'ai fait un rêve beaucoup trop étrange cette nuit."
-msgstr ""
+msgstr "Já jsem... Včera v noci se mi zdál zvláštní sen."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_4f2af91f"
 msgid "Mhh, c'est curieux, moi aussi... C'était à propos de quoi ?"
-msgstr ""
+msgstr "To je legrační, já taky... Co to bylo?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_d925a004"
 msgid "Euh je... Tu venais dans ma chambre et..."
-msgstr ""
+msgstr "I... Chodil jsi ke mně do pokoje a..."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_be57f3f8"
 msgid "C'est... Moi aussi, je venais dans ta chambre pour..."
-msgstr ""
+msgstr "Je to... Chodila jsem k tobě do pokoje, abych..."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_d822172f"
 msgid "Qu'est-ce que j'ai fait ?"
-msgstr ""
+msgstr "Co jsem udělal?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_5f58c730"
 msgid "Oh putain, c'était donc pas un rêve ?!"
-msgstr ""
+msgstr "Panebože, to nebyl sen!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_91b6ce49"
 msgid "Bon sang, à quel point avait-elle bu pour me sauter dessus comme ça ?"
-msgstr ""
+msgstr "Sakra, jak moc byla opilá, že se na mě takhle vrhla?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_51e8dc27"
 msgid "Il faut plus que de l'alcool pour provoquer ce genre de dérapage."
-msgstr ""
+msgstr "K takovému výbuchu je zapotřebí víc než jen alkohol."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_2e908f82"
 msgid "À bien y réfléchir, il y a forcément autre chose."
-msgstr ""
+msgstr "Když se nad tím zamyslíte, musí v tom být něco víc."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_890d1dd7"
 msgid "{{macumba.n}} a peut être vu quelque chose de louche avant que {{yasuka.n}} s'en aille du club hier soir."
 msgstr ""
+"{{macumba.n}} možná viděl něco podezřelého, než {{yasuka.n}} včera večer "
+"opustil klub."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_bb0b3a57"
 msgid "Oh mon chéri, je suis tellement désolée, je ne sais pas du tout ce qui m'a pris."
-msgstr ""
+msgstr "Miláčku, moc se omlouvám, nevím, co mě to popadlo."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_e3cc0e39"
 msgid "J'ai vraiment fait quelque chose d'horrible."
-msgstr ""
+msgstr "Opravdu jsem udělal něco strašného."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_b74b8f38"
 msgid "Je te demande pardon..."
-msgstr ""
+msgstr "Promiňte..."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_c9b93f69"
 msgid "Je ne veux pas que tu me haïsses."
-msgstr ""
+msgstr "Nechci, abys mě nenáviděl."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_011a6359"
 msgid "Mon chéri, je suis tellement désolée, je ne sais plus où me mettre."
-msgstr ""
+msgstr "Miláčku, moc se omlouvám, nevím, kam se mám zařadit."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_f0835c28"
 msgid "J'ai tellement honte de moi."
-msgstr ""
+msgstr "Strašně se za sebe stydím."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_50928fae"
 msgid "Cette situation est vraiment en train de la tuer..."
-msgstr ""
+msgstr "Tahle situace ji opravdu ničí..."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_17680b8c"
 msgid "Il faut que je fasse quelque chose, ou elle s'en voudra toute sa vie."
-msgstr ""
+msgstr "Musím něco udělat, jinak si to bude vyčítat do konce života."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_78235b70"
 msgid "Je suis sûr d'avoir rêvé en fait... J'ai du mal à me souvenir ce qui s'est exactement passé."
 msgstr ""
+"Jsem si jistý, že se mi to jen zdálo... Mám problém si vzpomenout, co přesně "
+"se stalo."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_fe4f044e"
 msgid "Je t'ai vu venir dans ma chambre en lingerie et... je me vois te raccompagner après ça..."
 msgstr ""
+"Viděl jsem tě, jak jsi přišla do mého pokoje ve spodním prádle a... už se "
+"vidím, jak tě po tomhle doprovázím domů..."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_6c848cff"
 msgid "Le trou noir total."
-msgstr ""
+msgstr "Úplná černá díra."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_5fdf9c5f"
 msgid "Oh ! Je... Tu ne te souviens pas de la suite ?"
-msgstr ""
+msgstr "Oh, já... Zbytek si nepamatuješ?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_b13e159a"
 msgid "Non... Après, je crois que le toit de ta chambre s'est ouvert et tu t'es envolé comme si tu pilotais ton lit comme un avion."
 msgstr ""
+"Ne... Myslím, že se potom střecha tvého pokoje otevřela a ty jsi odletěl, "
+"jako bys letěl s postelí jako s letadlem."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_1bf78d55"
 msgid "Effectivement, c'est... Un drôle de rêve..."
-msgstr ""
+msgstr "Vskutku, je to... Podivný sen..."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_34b15c01"
 msgid "Tu m'as fait une peur bleue, j'ai cru que j'avais...."
-msgstr ""
+msgstr "Vyděsil jsi mě k smrti, myslela jsem, že mám....."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_cd173feb"
 msgid "Que tu avais... quoi ?"
-msgstr ""
+msgstr "Že jsi měl... co?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_946c509c"
 msgid "Je dois te laisser, j'ai... à faire !"
-msgstr ""
+msgstr "Musím jít, mám... práci!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_392bf5ff"
 msgid "Bon, elle semble avoir cru à mon mensonge..."
-msgstr ""
+msgstr "Zdá se, že uvěřila mé lži..."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_d0c3468a"
 msgid "Désolé {{yasuka.n}}, mais je me souviens de tout."
-msgstr ""
+msgstr "Omlouvám se {{yasuka.n}}, ale pamatuji si všechno."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_d64fd862"
 msgid "Cette situation me rappelle quelque chose, mais je ne parviens pas à en souvenir."
-msgstr ""
+msgstr "Tahle situace mi něco připomíná, ale nemůžu si vzpomenout co."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_7d03dbb5"
 msgid "Je deviens parano à force."
-msgstr ""
+msgstr "Pořád jsem paranoidní."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_f0f4a033"
 msgid "S'il s'agit d'une drogue, peut-être que {{kimochi.n}} en aurait entendue parler."
-msgstr ""
+msgstr "Kdyby to byla droga, možná by o ní {{kimochi.n}} slyšel."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_ff524161"
 msgid "Il aura peut-être des choses à m'apprendre."
-msgstr ""
+msgstr "Možná by mě mohl něco naučit."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_ede251e5"
 msgid "Elle serait déjà en train de dormir ?"
-msgstr ""
+msgstr "Už spí?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_8df197e8"
 msgid "Merde, je devrais peut-être aller voir dans sa chambre si tout va bien..."
-msgstr ""
+msgstr "Sakra, možná bych se měl jít podívat, jestli je v pořádku..."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_f8466675"
 msgid "{{yasuka.n}}, tu vas bien ?"
-msgstr ""
+msgstr "{{yasuka.n}}, tady jsi bien ?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_43dc78c9"
 msgid "...Non, je voulais passer ma soirée et ma nuit avec toi, mais je dois aller travailler."
-msgstr ""
+msgstr "...Ne, chtěl jsem s tebou strávit večer a noc, ale musím do práce."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_e1634ccc"
 msgid "Oh je... Oui, moi aussi, j'aurais préféré ça."
-msgstr ""
+msgstr "Oh, já... Ano, já taky, to bych si přál."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_d0f40cdf"
 msgid "Mais tu sais quoi, j'ai une petite pause d'une heure dans ma soirée."
-msgstr ""
+msgstr "Oh, já... Ano, já taky, to bych si přál."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_e62dcc9e"
 msgid "Je t'attendrai au Love Hotel !"
-msgstr ""
+msgstr "Budu na tebe čekat v hotelu Love!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_d3af3e61"
 msgid "Tu es certaine que..."
-msgstr ""
+msgstr "Jste si jistý, že..."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_b8d9cd1f"
 msgid "Tututu, je ne veux rien entendre d'autre !"
-msgstr ""
+msgstr "Tututu, nechci slyšet nic jiného!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_14be3314"
 msgid "Rejoins-moi ce soir, nous n'aurons pas à nous inquiéter d'être vu ou entendu !"
 msgstr ""
+"Připojte se ke mně dnes večer, abychom se nemuseli bát, že nás někdo uvidí "
+"nebo uslyší!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_9c6b4cac"
 msgid "Elle a raison, si je ne fais rien à la maison pendant un certain temps."
-msgstr ""
+msgstr "Má pravdu, když chvíli nic nedělám doma."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_a47145a1"
 msgid "Peut-être que {{sakuya.n}} se dira que tout va bien ?"
-msgstr ""
+msgstr "Možná si {{sakuya.n}} bude myslet, že je vše v pořádku?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_ad545b5d"
 msgid "J'aurais juste à faire attention à ne pas être suivis."
-msgstr ""
+msgstr "Jen bych si musel dávat pozor, aby mě někdo nesledoval."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_84ab5327"
 msgid "Je te rejoindrai, c'est promis !"
-msgstr ""
+msgstr "Přidám se k vám, slibuji!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_e42d8709"
 msgid "J'ai hâte d'y être, à tout à l'heure mon chéri."
-msgstr ""
+msgstr "Nemůžu se dočkat, až tam budu, uvidíme se později, drahoušku."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_fc469246"
 msgid "Il va me falloir redoubler de vigilance."
-msgstr ""
+msgstr "Budu muset být obzvlášť ostražitý."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_7be848d3"
 msgid "Mais si je fais attention, il n'y a pas de raison que les choses dégénèrent."
-msgstr ""
+msgstr "Ale když si dám pozor, není důvod, aby se mi věci vymkly z rukou."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_f88e0dcf"
 msgid "Je pense pas que partir maintenant soit une bonne idée."
-msgstr ""
+msgstr "Nemyslím si, že by byl odchod dobrý nápad."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_eea59b22"
 msgid "Je suis certain que {{sakuya.n}} est là à dehors à me surveiller."
-msgstr ""
+msgstr "Jsem si jistý, že mě {{sakuya.n}} sleduje."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_c1f4e9be"
 msgid "Je devrais attendre dans la chambre et aller me coucher."
-msgstr ""
+msgstr "Měla bych počkat v ložnici a jít spát."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_7bf9ec23"
 msgid "Je sortirai en douce par la fenêtre pendant la nuit."
-msgstr ""
+msgstr "V noci se vyplížím oknem."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_85fe00c0"
 msgid "Elle doit probablement être dans sa chambre..."
-msgstr ""
+msgstr "Nejspíš je ve svém pokoji..."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_2e0008bd"
 msgid "Je te sers un thé ou autre chose ?"
-msgstr ""
+msgstr "Mohu vám nabídnout čaj nebo něco jiného?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_3d344136"
 msgid "Non merci, ça ira..."
-msgstr ""
+msgstr "Ne, díky, bude to v pořádku..."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_4efc3390"
 msgid "Donc... Tu es donc la dernière personne à avoir parlé à {{saito.n}} hier soir..."
 msgstr ""
+"Takže... Takže jsi byl poslední, kdo včera večer mluvil s {{saito.n}}..."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_de909dee"
 msgid "Il y a quelque chose qui sortait de l'ordinaire ?"
-msgstr ""
+msgstr "Bylo něco neobvyklého?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_6c24c501"
 msgid "Était-il comme d'habitude ?"
-msgstr ""
+msgstr "Byl jako obvykle?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_49ed57e4"
 msgid "... À vrai dire...[w] Je crois qu'il avait l'intention de mettre fin à notre relation."
-msgstr ""
+msgstr "... Popravdě řečeno...[w] myslím, že chtěl náš vztah ukončit."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_39503e19"
 msgid "... À vrai dire...[w] Je crois qu'il avait l'intention de mettre fin à notre amitié."
-msgstr ""
+msgstr "... Popravdě řečeno...[w] myslím, že chtěl ukončit naše přátelství."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_59bd2637"
 msgid "Mais... Je me suis fâchée et je l'ai chassé de la maison avant qu'il ne puisse s'expliquer."
 msgstr ""
+"Ale... Naštvala jsem se a vyhnala ho z domu dřív, než mi to stačil vysvětlit."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_365c29ac"
 msgid "[font_size=14]Donc toi aussi...[/font_size]"
-msgstr ""
+msgstr "[font_size=14]Takže vy také...[/font_size]"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_18318dad"
 msgid "Vous avez dit quelque chose ?"
-msgstr ""
+msgstr "Řekl jsi něco?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_83ce23e6"
 msgid "Non non, je marmonnais, n'y fais pas attention."
-msgstr ""
+msgstr "Ne, ne,\" zamumlal jsem, \"tomu nevěnuj pozornost."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_faafc679"
 msgid "Avant de partir de la maison hier soir... Il semblait préoccupé."
-msgstr ""
+msgstr "Než jsem včera večer odešel z domu... Zdálo se, že je zaneprázdněný."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_fb0b492c"
 msgid "D'où ma suggestion qu'il avait probablement des ennuis."
-msgstr ""
+msgstr "Proto jsem naznačil, že má pravděpodobně potíže."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_906c03bb"
 msgid "Je... Je ne sais pas trop quoi en penser."
-msgstr ""
+msgstr "Já jen... Opravdu nevím, co si mám myslet."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_22f0d850"
 msgid "Ça ne fait qu'une journée."
-msgstr ""
+msgstr "Je to teprve den."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_c45226e2"
 msgid "Peut-être est-il avec quelqu'un d'autre ?"
-msgstr ""
+msgstr "Možná je s někým jiným?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_3d5f8dae"
 msgid "Et la fille en kimono ?"
-msgstr ""
+msgstr "A ta dívka v kimonu?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_de3d0ba3"
 msgid "Comment ça la fille en kimono ? Elle est venue chez vous aussi ?"
-msgstr ""
+msgstr "A co ta dívka v kimonu? Přišla k vám také?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_707592dd"
 msgid "Oh, mais oui, je l'avais oubliée, elle traînait souvent autour de la maison."
-msgstr ""
+msgstr "Ano, zapomněl jsem na ni, často se potloukala kolem domu."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_7b95dc3b"
 msgid "Vous pensez qu'elle a un lien dans la disparition de {{saito.n}} ?"
-msgstr ""
+msgstr "Myslíte si, že má něco společného se zmizením {{saito.n}}?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_9ccb3876"
 msgid "Il serait parti pour une autre femme ?"
-msgstr ""
+msgstr "Odešel kvůli jiné ženě?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_aeb5c3a9"
 msgid "... Je ne sais pas, je pense que le mieux serait de discuter avec cette fille."
-msgstr ""
+msgstr "... Nevím, myslím, že nejlepší by bylo si s tou dívkou promluvit."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_a43a6be3"
 msgid "{{asami.n}}, je suis certaine que {{saito.n}} t'aime de tout son cœur, et jamais il n'aurait agi ainsi sans avoir de raison valable."
 msgstr ""
+"{{asami.n}}, jsem si jistá, že tě {{saito.n}} miluje celým svým srdcem a "
+"nikdy by se takhle nezachoval, kdyby k tomu neměl pádný důvod."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_dac1642b"
 msgid "{{asami.n}}, je suis certaine que {{saito.n}} ne pensait pas du tout ce qu'il t'a dit... Il l'a sûrement fait pour une bonne raison."
 msgstr ""
+"{{asami.n}}, jsem si jistý, že {{saito.n}} to vůbec nemyslel vážně... "
+"Nejspíš to udělal z dobrého důvodu."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_45c268fd"
 msgid "Vous croyez ?"
-msgstr ""
+msgstr "Myslíte si to?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_b7c124b3"
 msgid "J'en suis certaine !"
-msgstr ""
+msgstr "Jsem si tím jistý!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_5819f641"
 msgid "Très bien, il ne reste qu'à trouver cette fille, peut-être qu'elle en saura davantage..."
-msgstr ""
+msgstr "Dobře, teď už jen musíme najít tu dívku a možná bude vědět víc..."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_5e84599c"
 msgid "Je l'accompagnerai !"
-msgstr ""
+msgstr "Půjdu s ním!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_d4a1cdae"
 msgid "Tu es sûre ma chérie ?"
-msgstr ""
+msgstr "Jsi si jistá, miláčku?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_c41c3e98"
 msgid "Certaine !"
-msgstr ""
+msgstr "Jistě!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_0a9b12e1"
 msgid "Ne perdons pas de temps."
-msgstr ""
+msgstr "Neztrácejme čas."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_921f8009"
 msgid "Quoi, maintenant ? Là tout de suite ?"
-msgstr ""
+msgstr "Co teď? Právě teď?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_675c152d"
 msgid "Tu préfères attendre ?"
-msgstr ""
+msgstr "Chcete raději počkat?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_b8938434"
 msgid "Non, tu as raison."
-msgstr ""
+msgstr "Non, tu as raison."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_b482dfc3"
 msgid "Tenez-moi au courant... Je suis vraiment inquiète..."
-msgstr ""
+msgstr "Informujte mě... Mám opravdu strach..."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_6b74626c"
@@ -30771,517 +30816,528 @@ msgstr "To je slib!"
 #: game/story/home_player_livingroom.dialogue
 msgctxt "t3e699fa5c9"
 msgid "Je ne ferais pas ça à ta place !"
-msgstr ""
+msgstr "Na tvém místě bych to nedělal!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_c320b570"
 msgid "... et toi, ta journée s'est bien passée ?"
-msgstr ""
+msgstr "... a jaký byl váš den?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_088567f7"
 msgid "Oui c'était génial, j'ai passé la journée avec {{asami.n}}."
-msgstr ""
+msgstr "Ano, bylo to skvělé, strávila jsem den s {{asami.n}}."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_bf463289"
 msgid "Je suis contente pour toi ma chérie, cette fille est adorable."
-msgstr ""
+msgstr "Mám z tebe takovou radost, miláčku, ta holčička je rozkošná."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_759bad8b"
 msgid "Je suis sûre qu'elle aura une bonne influence sur toi."
-msgstr ""
+msgstr "Určitě na tebe bude mít dobrý vliv."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_89040705"
 msgid "Tu dis ça comme si j'étais une délinquante..."
-msgstr ""
+msgstr "Říkáte to, jako bych byl delikvent..."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_4cce02f4"
 msgid "Avoue que tu n'as pas toujours été facile, je me trompe ?"
-msgstr ""
+msgstr "Musíš přiznat, že jsi nebyl vždycky jednoduchý, že?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_eedf9fba"
 msgid "... Je vais dans ma chambre !"
-msgstr ""
+msgstr "... Jdu do svého pokoje!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_02628536"
 msgid "Ahlala..."
-msgstr ""
+msgstr "Ahlala..."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_7176a644"
 msgid "Bonjour mon chéri, bien dormi ?"
-msgstr ""
+msgstr "Dobré ráno, miláčku, vyspala ses dobře?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_649ac2b9"
 msgid "Ça va merci... Est-ce que {{noriko.n}} est levée ?"
-msgstr ""
+msgstr "Jsem v pohodě, díky... Je {{noriko.n}} vzhůru?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_b8099094"
 msgid "Pour une fois elle était levée avant toi."
-msgstr ""
+msgstr "Pro jednou byla vzhůru dřív než ty."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_6e116a1d"
 msgid "Elle a pris son argent de poche et est partie tôt ce matin."
-msgstr ""
+msgstr "Vzala si kapesné a dnes brzy ráno odešla."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_5856191c"
 msgid "Elle est déjà partie ?"
-msgstr ""
+msgstr "Už odešla?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_6f2f17e4"
 msgid "Oui pourquoi, est-ce qu'il y a un problème ?"
-msgstr ""
+msgstr "Ano, proč, je to problém?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_27601264"
 msgid "Non non, j'essaierai de la rattraper. Tu sais où elle allait ?"
-msgstr ""
+msgstr "Ne, ne, pokusím se ji dohnat. Víte, kam šla?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_8837d170"
 msgid "Elle a dit qu'elle rejoignait {{asami.n}} en ville pour une journée shopping avec elle."
 msgstr ""
+"Řekla, že se s {{asami.n}} sejde ve městě, aby s ní strávila den nakupováním."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_50213d89"
 msgid "Bordel, la voilà qui recommence ses magouilles."
-msgstr ""
+msgstr "A je to tady, zase se pouští do svých starých triků."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_59fbc03a"
 msgid "Qu'est-ce qu'elle est en train de préparer ?"
-msgstr ""
+msgstr "Co má za lubem?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_7345d539"
 msgid "Tout se passe bien avec {{noriko.n}} ?"
-msgstr ""
+msgstr "Je vše v pořádku s {{noriko.n}}?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_f99847aa"
 msgid "J'y travaille et je pense que nous verrons bientôt {{noriko.n}} sourire de nouveau."
-msgstr ""
+msgstr "Pracuji na tom a myslím, že brzy uvidíme {{noriko.n}} opět usměvavé."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_e2f6123a"
 msgid "Je savais bien que je pouvais compter sur toi."
-msgstr ""
+msgstr "Věděl jsem, že se na tebe můžu spolehnout."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_dba3bf28"
 msgid "Mais fais attention à toi, ne crois pas pas que je ne vois pas tous ces bleus sur ton corps."
 msgstr ""
+"Ale buď opatrný, nemysli si, že nevidím všechny ty modřiny na tvém těle."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_7a23d7d2"
 msgid "Juste... sois prudent !"
-msgstr ""
+msgstr "Jen... buďte opatrní!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_35f30c10"
 msgid "Je le serai !"
-msgstr ""
+msgstr "Budu tam!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_2bb6599a"
 msgid "Mon chéri... {{noriko.n}} a quitté la maison."
-msgstr ""
+msgstr "Můj drahý... {{noriko.n}} odešel z domu."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_0ecaa08f"
 msgid "On s'est disputées et elle est partie en claquant la porte."
-msgstr ""
+msgstr "Pohádali jsme se a ona odešla."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_2cdfeb91"
 msgid "Partie ?! Depuis combien de temps ?"
-msgstr ""
+msgstr "Pryč?! Jak dlouho jsi byl pryč?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_7ccc98fa"
 msgid "Il y a plusieurs dizaines de minutes, je n'ai pas pu la retenir."
-msgstr ""
+msgstr "Před několika desítkami minut jsem ji nedokázal zadržet."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_18169932"
 msgid "Elle était dans ta chambre avec... ce garçon, il avait les cheveux longs."
-msgstr ""
+msgstr "Byla ve vašem pokoji s... tím chlapcem, měl dlouhé vlasy."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_f985c24e"
 msgid "Je m'en veux tellement si tu savais... mais il avait l'air si..."
-msgstr ""
+msgstr "Je mi moc líto, jestli jsi to věděla, ale vypadal tak..."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_63a00d52"
 msgid "{{akira.n}} ! Non tu as bien réagi, ce type est un psychopathe."
-msgstr ""
+msgstr "{{akira.n}} ! Ne, udělal jsi dobře, ten chlap je psychopat."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_bc15dea5"
 msgid "Je vais la retrouver, il ne lui arrivera rien."
-msgstr ""
+msgstr "Najdu ji a nic se jí nestane."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_69d82c4d"
 msgid "Tu as une idée de l'endroit où elle pourrait être allée ?"
-msgstr ""
+msgstr "Nevíte, kam by mohla jít?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_74b78344"
 msgid "Je crois qu'il a parlé d'un hôtel en centre-ville..."
-msgstr ""
+msgstr "Myslím, že mluvil o hotelu v centru města..."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_5185bb71"
 msgid "C'est probablement le love hotel !"
-msgstr ""
+msgstr "Pravděpodobně je to hotel lásky!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_5f0d4639"
 msgid "Je t'en prie, empêche {{noriko.n}} de faire quelque chose qu'elle pourrait regretter !"
-msgstr ""
+msgstr "Prosím, nedovolte, aby {{noriko.n}} udělala něco, čeho bude litovat!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_106ea3e2"
 msgid "Et fais attention à toi surtout, je ne supporterais pas s'il t'arrivait quelque chose à toi aussi."
 msgstr ""
+"A dávej na sebe především pozor, nesnesl bych, kdyby se ti také něco stalo."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_5b475c98"
 msgid "Tout ira bien, je ne suis plus le même qu'avant."
-msgstr ""
+msgstr "Budu v pořádku, nejsem stejný jako dřív."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_15500ec7"
 msgid "{{noriko.n}} ma chérie, je suis tellement désolée..."
-msgstr ""
+msgstr "{{noriko.n}} miláčku, je mi to moc líto..."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_4cafc087"
 msgid "Je suis si heureuse que tu ailles bien."
-msgstr ""
+msgstr "Jsem moc ráda, že jsi v pořádku."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_dc66d931"
 msgid "Mais... vous rentrez ensemble ?!"
-msgstr ""
+msgstr "Ale... jedete domů spolu?!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_ba7acfca"
 msgid "Oui maman ne t'inquiète plus, {{saito.n}} et moi avons enfin fait la paix."
-msgstr ""
+msgstr "Ano, mami, neboj se, konečně jsme se s {{saito.n}} usmířili."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_b4839780"
 msgid "Je suis désolée d'avoir été aussi odieuse pendant toutes ces années."
-msgstr ""
+msgstr "Omlouvám se, že jsem byl celé ty roky tak protivný."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_60eab4e4"
 msgid "Mais... à partir d'aujourd'hui c'est terminé, tu vas retrouver la {{noriko.n}} qui souriait comme avant."
 msgstr ""
+"Ale... odteď už je po všem, najdeš {{noriko.n}}, který se usmíval jako "
+"předtím."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_ac77c436"
 msgid "Mon dieu mes chéris... Je suis tellement heureuse !"
-msgstr ""
+msgstr "Můj Bože, moji miláčci... Jsem tak šťastná!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_5187485a"
 msgid "Je me moque de savoir comment tout ça s'est produit... Ce qui m'intéresse maintenant c'est de savoir qu'on va pouvoir se serrer les coudes comme une vraie famille !"
 msgstr ""
+"Je mi jedno, jak se to stalo... Teď mi záleží na tom, abych věděl, že budeme "
+"moci držet pohromadě jako opravdová rodina!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_ea13cfe7"
 msgid "Il faut fêter ça !"
-msgstr ""
+msgstr "Je čas slavit!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_bb6dbf5d"
 msgid "Quoi ?! Là ? Maintenant ? Tout de suite ?"
-msgstr ""
+msgstr "Cože?! Teď? Teď? Právě teď?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_f987f274"
 msgid "Ne sois pas rabat-joie, chaque bonne nouvelle devrait pouvoir être fêtée !"
-msgstr ""
+msgstr "Nebuďte naštvaní, každá dobrá zpráva by měla být důvodem k oslavě!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_47c426f7"
 msgid "Exactement {{saito.n}} ne sois pas rabat-joie !"
-msgstr ""
+msgstr "Přesně tak {{saito.n}} Nebuďte naštvaní!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_98b97b5c"
 msgid "C'est bon j'ai compris..."
-msgstr ""
+msgstr "Mám to..."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_cd1e30cc"
 msgid "Je vais chercher quelque chose au konbini ?"
-msgstr ""
+msgstr "Mám si vzít něco z konbini?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_25eec42f"
 msgid "Non surtout pas, j'y vais ! Vous avez probablement plein de choses à vous dire et à rattraper."
-msgstr ""
+msgstr "Ne, vůbec ne, já jdu! Nejspíš si máte o čem povídat a co dohánět."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_d12e7a0b"
 msgid "Attendez-moi à la maison, je ne devrais pas en avoir pour plus d'une heure !"
-msgstr ""
+msgstr "Počkejte na mě doma, neměl bych se zdržet déle než hodinu!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_1121ed67"
 msgid "C'est étrange de se retrouver ainsi devant la télé, comme si rien ne s'était jamais produit."
-msgstr ""
+msgstr "Je zvláštní sedět takhle před televizí, jako by se nikdy nic nestalo."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_41628bc6"
 msgid "C'est probablement la première fois depuis des années que {{yasuka.n}} a été aussi heureuse."
 msgstr ""
+"Je to pravděpodobně poprvé za poslední roky, co je {{yasuka.n}} takhle "
+"šťastný."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_20d79a6b"
 msgid "À ce propos...[w] Tu as vraiment couché avec elle ?"
-msgstr ""
+msgstr "Když už jsme u toho... [w] Opravdu jsi s ní spal?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "t7f573ad0d6"
 msgid "Ca fait combien de temps que tu couchais avec elle ?"
-msgstr ""
+msgstr "Jak dlouho s ní spíš?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_de0fb819"
 msgid "Je ne suis pas idiote...[w] Tu crois que je ne vous ai pas entendus la nuit dans ta chambre ?"
-msgstr ""
+msgstr "Nejsem hloupý...[w] Myslíš, že jsem tě v noci neslyšel v tvém pokoji?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_1382305a"
 msgid "Si tu le savais, pourquoi me le demander ?"
-msgstr ""
+msgstr "Kdybys to věděl, proč by ses mě ptal?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_88e97b98"
 msgid "... Je voulais l'entendre de ta bouche."
-msgstr ""
+msgstr "... Chtěl jsem to slyšet od vás."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_6f2a9f74"
 msgid "... Oui, c'est arrivé plusieurs fois."
-msgstr ""
+msgstr "... Ano, stalo se to několikrát."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "t6dfe63f33a"
 msgid "Pauvre {{asami.n}}..."
-msgstr ""
+msgstr "Chudák {{asami.n}}..."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "t79344e5734"
 msgid "Pourquoi tu dis ça ?"
-msgstr ""
+msgstr "Proč to říkáte?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "t9111b5deb3"
 msgid "...[w]Pour rien, t'es un cas désespéré."
-msgstr ""
+msgstr "...[v]bec jsi beznadějný případ."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_1fe8d940"
 msgid "Et {{asami.n}} est au courant ?"
-msgstr ""
+msgstr "Ví o tom {{asami.n}}?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_766c09de"
 msgid "... Oui, aussi."
-msgstr ""
+msgstr "... Ano, také."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_83ddc671"
 msgid "Sérieux ?! Et elle laisse faire ?"
-msgstr ""
+msgstr "Vážně?! A ona to dovolí?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_d04df73b"
 msgid "Aussi incroyable que ça puisse paraître, oui."
-msgstr ""
+msgstr "Ač se to může zdát neuvěřitelné, ano."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_e44de8d1"
 msgid "Et je pense qu'en écoutant {{yasuka.n}} lui expliquer la raison pour laquelle on en est arrivés là..."
 msgstr ""
+"A myslím, že když poslouchám, jak mu {{yasuka.n}} vysvětluje, proč jsme "
+"došli až sem..."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_d6dcdb2c"
 msgid "Elle s'est probablement mise à sa place."
-msgstr ""
+msgstr "Pravděpodobně se postavila na své místo."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_4141febb"
 msgid "Et l'autre folle ?"
-msgstr ""
+msgstr "A ten druhý bláznivý?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_9ed39083"
 msgid "{{sakuya.n}} ? Elle n'est pas folle..."
-msgstr ""
+msgstr "{{sakuya.n}} ? Ona není blázen..."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_81db9706"
 msgid "Elle est juste... très passionnée."
-msgstr ""
+msgstr "Je prostě... velmi vášnivá."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_d4119381"
 msgid "Et moi ?"
-msgstr ""
+msgstr "A co já?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_8cace5a2"
 msgid "Comment ça, toi ?"
-msgstr ""
+msgstr "Co tím myslíš, ty?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_562b59b4"
 msgid "C'était comment de... coucher avec moi ?"
-msgstr ""
+msgstr "Jaké to bylo... mít se mnou sex?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_f1868cc7"
 msgid "Est-ce vraiment une conversation que tu veux avoir ?"
-msgstr ""
+msgstr "Je to opravdu konverzace, kterou chcete vést?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_3a9562a6"
 msgid "Je veux savoir. Tu couches avec toutes les femmes autour de toi !"
-msgstr ""
+msgstr "Chci to vědět. Spíš se všemi ženami ve svém okolí!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_027edc6f"
 msgid "Ne me dis pas que tu couches aussi avec la mère d'{{asami.n}} ?"
-msgstr ""
+msgstr "Neříkej mi, že spíš i s matkou {{asami.n}}?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_2e0b7461"
 msgid "Quoi ?! Non, bien sûr que non !"
-msgstr ""
+msgstr "Cože?! Ne, samozřejmě, že ne!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_0fb7578a"
 msgid "C'est elle la prochaine, c'est ça ?"
-msgstr ""
+msgstr "Je na řadě, že?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_a30a6352"
 msgid "T'es folle..."
-msgstr ""
+msgstr "T'es folle..."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_ead573fb"
 msgid "Laisse tomber. De toute façon, c'était une erreur."
-msgstr ""
+msgstr "Neobtěžujte se. Stejně to byla chyba."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_6a35066c"
 msgid "Oh, que oui !"
-msgstr ""
+msgstr "Oh, oui!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_65d0f4dd"
 msgid "Toi et moi, ça ne se reproduira plus."
-msgstr ""
+msgstr "Ty a já, už se to nestane."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_336e9fd5"
 msgid "Entièrement d'accord."
-msgstr ""
+msgstr "Nemohu než souhlasit."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_89529c4b"
 msgid "En plus, ce n'était pas si agréable que ça."
-msgstr ""
+msgstr "Navíc to nebylo až tak příjemné."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_c63d9825"
 msgid "Pff, tu crois que tu t'es mieux débrouillé ?"
-msgstr ""
+msgstr "Pff, myslíte si, že jste si vedli lépe?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_525a2e1e"
 msgid "...[w] Oui."
-msgstr ""
+msgstr "...[w] Ano..."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_9cbd998e"
 msgid "Ah, tu veux jouer à ça !"
-msgstr ""
+msgstr "Aha, tak to chceš hrát!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_34664b90"
 msgid "À poil et plus vite que ça !"
-msgstr ""
+msgstr "Nahá a rychlejší než to!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_a6dc6e8a"
 msgid "Hein !?"
-msgstr ""
+msgstr "Hein !??"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_14b8c502"
 msgid "Wow doucement..."
-msgstr ""
+msgstr "Páni, pomalu..."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_b6558012"
 msgid "Mmhhh laisse-moi faire... mhhhhh mhhh"
-msgstr ""
+msgstr "Nech mě to udělat... mhhhhhhhhhhhhh"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_616c661b"
 msgid "{{yasuka.n}} pourrait rentrer à tout moment !"
-msgstr ""
+msgstr "{{yasuka.n}} se může kdykoli vrátit!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_a6d5d579"
 msgid "... m'en fiche !"
-msgstr ""
+msgstr "Je mi to jedno!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_11b72ba3"
 msgid "Je... ça fait longtemps... peut-être qu'il faudrait que..."
-msgstr ""
+msgstr "Já... už je to dlouho... možná bych měl..."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_3e50ca57"
 msgid "Qu'on arrête ?"
-msgstr ""
+msgstr "Že přestaneme?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_1ca04ffe"
 msgid "Mais j'ai pas envie !"
-msgstr ""
+msgstr "Ale já nechci!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_b883ebf2"
 msgid "Ça tombe bien moi non plus."
-msgstr ""
+msgstr "To je dobrá zpráva i pro mě."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_f2773e9a"
 msgid "Aaaah... aaaah"
-msgstr ""
+msgstr "Aaaah... aaaah"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_b3b34de5"
@@ -31301,92 +31357,94 @@ msgstr "Nepřestávejte!"
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_5609c0c6"
 msgid "Mmmmmh ouiiii !"
-msgstr ""
+msgstr "Mmmmmh ano!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_f946afbe"
 msgid "Oh mon dieu c'est trop bon !"
-msgstr ""
+msgstr "Panebože, to je tak dobré!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_51d1b869"
 msgid "Dis... Tu crois qu'on pourrait... essayer... ça ?"
-msgstr ""
+msgstr "Řekněme... Myslíš, že bychom mohli... zkusit... tohle?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_c9a4bcd3"
 msgid "Tu veux dire..."
-msgstr ""
+msgstr "Chceš říct..."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_5ead300c"
 msgid "{{asami.n}} m'a dit que c'était pas si mal au final..."
-msgstr ""
+msgstr "{{asami.n}} mi řekl, že to nakonec nebylo tak špatné..."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "t9b2146bda9"
 msgid "Ne m'oblige pas à le dire... Tu sais très bien de quoi je veux parler."
-msgstr ""
+msgstr "Nenuťte mě to říkat... Dobře víš, co tím myslím."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_2b66c7c0"
 msgid "Oh la vache c'est..."
-msgstr ""
+msgstr "Ach bože, to je..."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_ffa56726"
 msgid "Surprenant..."
-msgstr ""
+msgstr "Překvapující..."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_c05cd9f7"
 msgid "Tu as l'air vraiment inquiète."
-msgstr ""
+msgstr "Vypadáš opravdu ustaraně."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_f7e4d9b1"
 msgid "[font_size=14]NON MAIS CA VA PAS LA TÊTE ?![/font_size]"
-msgstr ""
+msgstr "[font_size=14]JAK SE TO JE ZBLÁZNĚNÍ?![/font_size]"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_ef2765d9"
 msgid "[font_size=14]COMMENT TU PEUX METTRE QUELQU'UN EN DANGER COMME CA ?[/font_size]"
 msgstr ""
+"[font_size=14]JAK MŮŽETE NĚKOHO VYSTAVIT TAKOVÉMU NEBEZPEČÍ?[/font_size]"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_dfd1856d"
 msgid "...Me dis pas qu'elles..."
-msgstr ""
+msgstr "...Neříkejte mi, že..."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_e9da8b43"
 msgid "Si... Elle se disputent depuis qu'elles sont arrivées."
-msgstr ""
+msgstr "Pokud... Hádají se od chvíle, kdy přijeli."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_d1de9ee2"
 msgid "[font_size=14]JE SAIS CE QUE JE FAIS ![/font_size]"
-msgstr ""
+msgstr "[font_size=14]VÍM, CO DĚLÁM![/font_size]"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_90deb909"
 msgid "[font_size=14]IL A BESOIN DE CA ![/font_size]"
-msgstr ""
+msgstr "[font_size=14]IL A BESOIN DE CA ![/font_size]"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_fde9fbab"
 msgid "Je n'ose pas y aller, ça me fait mal de les voir comme ça alors qu'elles s'appréciaient tellement."
 msgstr ""
+"Neodvážím se tam jít, bolí mě, když je takhle vidím, když se měli tak rádi."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_07f37322"
 msgid "De plus je crois que tu es le sujet de leur dispute..."
-msgstr ""
+msgstr "Navíc si myslím, že předmětem jejich sporu jste vy..."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_2fd7763f"
 msgid "Ne t'en fais pas je vais m'en occuper."
-msgstr ""
+msgstr "Nebojte se, postarám se o to."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_cc8b750d"
@@ -80538,7 +80596,7 @@ msgstr ""
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "love_hotel_room"
-msgstr ""
+msgstr "Hotel Love (Pokoj)"
 
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
@@ -82508,7 +82566,7 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "noriko_femdom_15"
-msgstr ""
+msgstr "Jdi za {{noriko.n}} do jejího pokoje."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -82733,7 +82791,7 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "noriko_femdom_60"
-msgstr ""
+msgstr "Jdi za {{noriko.n}} do jejího pokoje."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -82753,7 +82811,7 @@ msgstr ""
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "noriko_femdom_64"
-msgstr ""
+msgstr "Sejděte se s {{noriko.n}} na autobusové zastávce."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -84563,7 +84621,7 @@ msgstr ""
 #: game/scenes/gui/game_menu/galleries/images.tscn
 msgctxt "galleries.images.hints"
 msgid "Faire chanter {{noriko.n}}."
-msgstr ""
+msgstr "Nechte je zazpívat {{noriko.n}}."
 
 #: game/scenes/gui/game_menu/galleries/images.tscn
 msgctxt "galleries.images.hints"
@@ -84598,7 +84656,7 @@ msgstr ""
 #: game/scenes/gui/game_menu/galleries/images.tscn
 msgctxt "galleries.images.hints"
 msgid "Corrompre {{asami.n}}."
-msgstr ""
+msgstr "Zkorumpovaný {{asami.n}}."
 
 #: game/scenes/gui/game_menu/galleries/images.tscn
 msgctxt "galleries.images.hints"
@@ -84613,7 +84671,7 @@ msgstr "Ať {{yasuka.n}} pracuje jako hosteska."
 #: game/scenes/gui/game_menu/galleries/images.tscn
 msgctxt "galleries.images.hints"
 msgid "Suivre l'histoire de {{sakuya.n}}."
-msgstr ""
+msgstr "Sledujte příběh {{sakuya.n}}."
 
 #: game/scenes/gui/game_menu/galleries/images.tscn
 msgctxt "galleries.images.hints"
@@ -84623,7 +84681,7 @@ msgstr "Zvolte si dominanci {{noriko.n}}."
 #: game/scenes/gui/game_menu/galleries/images.tscn
 msgctxt "galleries.images.hints"
 msgid "Ne pas rejeter {{noriko.n}}."
-msgstr ""
+msgstr "Neodmítejte {{noriko.n}}."
 
 #: game/scenes/gui/game_menu/galleries/images.tscn
 msgctxt "galleries.images.hints"
