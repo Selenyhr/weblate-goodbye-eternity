@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-08 15:23+0200\n"
-"PO-Revision-Date: 2025-05-16 15:06+0000\n"
+"PO-Revision-Date: 2025-05-18 09:12+0000\n"
 "Last-Translator: Lukáš Kafka <kafkyns@gmail.com>\n"
 "Language-Team: Czech <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/cs/>\n"
@@ -158,22 +158,22 @@ msgstr "Starý muž"
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Policier"
-msgstr ""
+msgstr "Policista"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Erika"
-msgstr ""
+msgstr "Heather"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Hanako"
-msgstr ""
+msgstr "Hanako"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Tsubaki"
-msgstr ""
+msgstr "Tsubaki"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
@@ -1344,7 +1344,7 @@ msgstr "Cože?!"
 #: game/story/home_kenji_exterior.dialogue
 msgctxt "QUOI_DA01E5"
 msgid "Quoi ?!"
-msgstr ""
+msgstr "Cože?!"
 
 #: game/story/amusement_park_interior.dialogue
 msgctxt "t5563aa424e"
@@ -2014,7 +2014,7 @@ msgstr "..."
 #: game/story/konbini_interior.dialogue
 msgctxt "t204a3e6b27"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "t96081ec5f7"
@@ -3119,7 +3119,7 @@ msgstr "..."
 #: game/story/arcade_interior.dialogue
 msgctxt "_3F9E71"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/home_minato_hallway.dialogue
 msgctxt "t4ff6dbb309"
@@ -3329,7 +3329,7 @@ msgstr "Jste sám?"
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "TU_VIENS_7F5C2A"
 msgid "Tu viens ?"
-msgstr ""
+msgstr "Jste sám?"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_68138ac2"
@@ -5599,7 +5599,7 @@ msgstr "Hej!"
 #: game/story/home_kenji_exterior.dialogue
 msgctxt "HEY_231F83"
 msgid "Hey !"
-msgstr ""
+msgstr "Hej!"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_23ae582e"
@@ -5639,7 +5639,7 @@ msgstr "Já jen..."
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "JE_1D1804"
 msgid "Je..."
-msgstr ""
+msgstr "Já jen..."
 
 #: game/story/canal.dialogue
 msgctxt "canal_0b7d8a15"
@@ -5929,7 +5929,7 @@ msgstr "Co se děje?"
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "ALORS_B37108"
 msgid "Alors ?"
-msgstr ""
+msgstr "Co se děje?"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_206b361c"
@@ -5949,7 +5949,7 @@ msgstr "Co se děje?"
 #: game/story/konbini_exterior.dialogue
 msgctxt "ALORS_DAC7C8"
 msgid "Alors ?"
-msgstr ""
+msgstr "Co se děje?"
 
 #: game/story/restaurant_sakuya_room.dialogue
 msgctxt "restaurant_sakuya_room_sexe_dfcf97e4"
@@ -6179,7 +6179,7 @@ msgstr "Aha..."
 #: game/story/warehouse_interior.dialogue
 msgctxt "JE_VOIS_3A9571"
 msgid "Je vois..."
-msgstr ""
+msgstr "Aha..."
 
 #: game/story/restaurant_interior.dialogue
 msgctxt "restaurant_interior_75a410e9"
@@ -7399,7 +7399,7 @@ msgstr "Co tím myslíte?"
 #: game/story/konbini_interior.dialogue
 msgctxt "COMMENT_A_438782"
 msgid "Comment ça ?"
-msgstr ""
+msgstr "Co tím myslíte?"
 
 #: game/story/bus_stop.dialogue
 msgctxt "noriko_forgive_cbad80a5"
@@ -7644,92 +7644,96 @@ msgstr "Zatraceně! Jak může být tak naivní?!"
 #: game/story/home_player_corridor.dialogue
 msgctxt "SALUT_BIEN_DORMI_AEBF96"
 msgid "Salut... Bien dormi ?"
-msgstr ""
+msgstr "Ahoj... Vyspala ses dobře?"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "PAS_VRAIMENT_ET_TOI_720EC2"
 msgid "Pas vraiment... et toi ?"
-msgstr ""
+msgstr "Ani ne... a ty?"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "MOI_NON_PLUS_E81698"
 msgid "Moi non plus."
-msgstr ""
+msgstr "Ani já ne."
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "menu_asami_room_waiting_eb76599e"
 msgid "Moi non plus."
-msgstr ""
+msgstr "Ani já ne."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "T_TE_DE_BITE_A_D_TERMINER_LES_E9DC77"
 msgid "Tête de bite a dû terminer les affiches."
-msgstr ""
+msgstr "Tête de bite musel dokončit plakáty."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "S_REMENT_A4EB14"
 msgid "Sûrement..."
-msgstr ""
+msgstr "Jistě..."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "ON_Y_VA_ALORS_24F103"
 msgid "On y va alors ?"
-msgstr ""
+msgstr "Můžeme tedy jít?"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "AVANT_J_AIMERAIS_PASSER_VOIR_M_599669"
 msgid "Avant, j'aimerais passer voir {{macumba.n}} au parc. J'aimerais m'assurer que tout va bien."
 msgstr ""
+"Ještě předtím bych se rád přišel podívat do parku na {{macumba.n}}. Rád bych "
+"se ujistil, že je všechno v pořádku."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "SI_TU_VEUX_MAIS_JE_VIENS_AVEC_A07EFE"
 msgid "Si tu veux, mais je viens avec toi !"
-msgstr ""
+msgstr "Jestli chceš, ale já jdu s tebou!"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "TU_COMPTES_ME_DIRE_LA_V_RIT_MO_204954"
 msgid "Tu comptes me dire la vérité à moi ?"
-msgstr ""
+msgstr "Řekneš mi pravdu?"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "W_J_AI_T_VOIR_LES_3_IDIOTS_EN_E2D30A"
 msgid "...[w] J'ai été voir les 3 idiots... en espérant qu'ils pourraient m'aider à trouver {{akira.n}}, mais... ils n'ont pas été très coopératifs."
 msgstr ""
+"...[w] Šel jsem za těmi třemi idioty... doufal jsem, že mi pomohou najít "
+"{{akira.n}}, ale... nebyli moc ochotní."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "CE_QUI_EXPLIQUE_LE_SANG_SUR_T_DD6AE9"
 msgid "... Ce qui explique le sang sur tes poings."
-msgstr ""
+msgstr "... Což vysvětluje krev na tvých pěstích."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "W_COMMENT_TU_FAISAIS_POUR_CON_DD446C"
 msgid "...[w] Comment tu faisais pour contacter {{akira.n}} ?"
-msgstr ""
+msgstr "...[w] Jak jste se spojil s {{akira.n}}?"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "JE_NE_LE_FAISAIS_PAS_C_EST_TOU_578C8F"
 msgid "Je ne le faisais pas... C'est toujours lui qui me contactait..."
-msgstr ""
+msgstr "Nebyl jsem... Vždycky to byl on, kdo mě kontaktoval..."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "DONC_IL_EST_NOTRE_SEULE_PISTE_8CF711"
 msgid "Donc il est notre seule piste, et lui aussi a disparu ?"
-msgstr ""
+msgstr "Takže on je naše jediná stopa a taky zmizel?"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "J_AI_BESOIN_DE_DORMIR_BONNE_NU_E1069B"
 msgid "J'ai besoin de dormir, bonne nuit."
-msgstr ""
+msgstr "Musím spát, dobrou noc."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "BONNE_NUIT_473BEE"
 msgid "... Bonne nuit..."
-msgstr ""
+msgstr "... Dobrou noc..."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "FONT_SIZE_14_MERDE_FONT_SIZE_112EAF"
 msgid "[font_size=14]MERDE ![/font_size]"
-msgstr ""
+msgstr "[font_size=14]SAKRA![/font_size]"
 
 #: game/story/home_natsume_exterior.dialogue
 msgctxt "home_natsume_exterior_7eab8102"
@@ -8304,7 +8308,7 @@ msgstr "Ne..."
 #: game/story/home_player_livingroom.dialogue
 msgctxt "NON_A91477"
 msgid "Non..."
-msgstr ""
+msgstr "Ne..."
 
 #: game/story/love_hotel_reception.dialogue
 msgctxt "love_hotel_reception_d9310299"
@@ -9044,27 +9048,27 @@ msgstr "Pozor na {{natsume.n}}, pokud ten odporný bastard bude mít lepší vý
 #: game/story/warehouse_exterior.dialogue
 msgctxt "C_EST_ICI_E78BAC"
 msgid "C'est ici ?"
-msgstr ""
+msgstr "Je to to pravé místo?"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "OUI_TOUTEFOIS_JE_DOIS_T_AVERTI_CD4883"
 msgid "Oui... Toutefois, je dois t'avertir qu'il n'a pas été très coopératif."
-msgstr ""
+msgstr "Ano... Musím vás však upozornit, že nebyl příliš ochotný spolupracovat."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "OUI_JE_ME_DOUTE_TU_N_AS_RIEN_I_37C56E"
 msgid "Oui, je me doute... Tu n'as rien ? Il ne t'a pas fait de mal ?"
-msgstr ""
+msgstr "Ano, umím si to představit... Jste v pořádku? Neublížil ti?"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "OH_TU_T_INQUI_TES_POUR_MOI_MON_AE01DC"
 msgid "Oh, tu t'inquiètes pour moi, mon amour ?"
-msgstr ""
+msgstr "Máš o mě strach, lásko?"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "BIEN_S_R_86E137"
 msgid "Bien sûr !"
-msgstr ""
+msgstr "Samozřejmě!"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_3405ca2d"
@@ -9109,77 +9113,81 @@ msgstr "Samozřejmě!"
 #: game/story/home_asami_sayuri_room.dialogue
 msgctxt "BIEN_S_R_A4B8A7"
 msgid "Bien sûr !"
-msgstr ""
+msgstr "Samozřejmě!"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "QUELQU_UN_COMME_LUI_N_EST_PAS_4DFDE5"
 msgid "Quelqu'un comme lui n'est pas en mesure de me faire quoi que ce soit..."
-msgstr ""
+msgstr "Někdo jako on mi nemůže nic udělat..."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "NE_SOIS_JUSTE_PAS_TONN_QUAND_T_4CB1D4"
 msgid "Ne sois juste pas étonné quand tu le verras."
-msgstr ""
+msgstr "Jen nebuďte překvapeni, až to uvidíte."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "J_AI_D_L_ATTACHER_FERMEMENT_PO_4554D7"
 msgid "J'ai dû l'attacher fermement pour ne pas qu'il s'échappe."
-msgstr ""
+msgstr "Musel jsem ho pevně svázat, aby mi neutekl."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "HONN_TEMENT_JE_ME_MOQUE_BIEN_D_113C1F"
 msgid "Honnêtement, je me moque bien de ce qu'il peut lui arriver, ce type ne mérite aucune pitié."
 msgstr ""
+"Upřímně řečeno, je mi úplně jedno, co se mu stane, ten chlap si nezaslouží "
+"slitování."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "C_EST_BON_SAVOIR_63DF1E"
 msgid "C'est bon à savoir..."
-msgstr ""
+msgstr "To je dobré vědět..."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "LAISSE_MOI_FAIRE_MON_AMOUR_DA1991"
 msgid "Laisse-moi faire, mon amour."
-msgstr ""
+msgstr "Nech to na mně, lásko."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "FONT_SIZE_14_LOIGNE_CETTE_FOL_1635C2"
 msgid "[font_size=14]Éloigne cette folle de moi, je ne dirai rien de toute façon.[/font_size]"
 msgstr ""
+"[font_size=14]Odveď tu šílenou mrchu ode mě, stejně ti nic "
+"neřeknu.[/font_size]"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "JE_TE_GARANTIS_QUE_DEMAIN_MATI_6AD134"
 msgid "Je te garantis que demain matin il sera prêt à discuter."
-msgstr ""
+msgstr "Zaručuji vám, že zítra ráno bude připraven mluvit."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "J_AI_JUSTE_BESOIN_DE_SAVOIR_JU_6BDE80"
 msgid "J'ai juste besoin de savoir jusqu'où je peux aller avec lui ?"
-msgstr ""
+msgstr "Jen potřebuji vědět, jak daleko s ním můžu zajít?"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "FAIS_TOUT_CE_QUI_TE_SEMBLE_N_C_9C3494"
 msgid "Fais tout ce qui te semble nécessaire."
-msgstr ""
+msgstr "Udělejte vše, co považujete za nutné."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "JE_ME_MOQUE_COMPL_TEMENT_DE_CE_90A96A"
 msgid "Je me moque complètement de ce qu'il peut lui arriver."
-msgstr ""
+msgstr "Je mi úplně jedno, co se s ním stane."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "A_VA_ME_FACILITER_LES_CHOSES_66662B"
 msgid "Ça va me faciliter les choses."
-msgstr ""
+msgstr "Usnadní mi to práci."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "VA_DORMIR_MON_AMOUR_JE_M_OCCUP_A67107"
 msgid "Va dormir, mon amour, je m'occupe de tout."
-msgstr ""
+msgstr "Jdi spát, lásko, já se o všechno postarám."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "ET_MAINTENANT_3C7C19"
 msgid "Et maintenant ?"
-msgstr ""
+msgstr "Co bude dál?"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "sexe_asami_l_a129f5eb"
@@ -9189,7 +9197,7 @@ msgstr "Co bude dál?"
 #: game/story/home_asami_exterior.dialogue
 msgctxt "ET_MAINTENANT_259E58"
 msgid "Et maintenant ?"
-msgstr ""
+msgstr "Co bude dál?"
 
 #: game/story/coffeebar_exterior.dialogue
 msgctxt "coffeebar_exterior_bc7494f4"
@@ -9199,7 +9207,7 @@ msgstr "Co bude dál?"
 #: game/story/home_minato_hallway.dialogue
 msgctxt "ET_MAINTENANT_00054D"
 msgid "Et maintenant ?"
-msgstr ""
+msgstr "Co bude dál?"
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "t2c81f2c61d"
@@ -9215,36 +9223,40 @@ msgstr "Co bude dál?"
 msgctxt "A_FAIT_BEAUCOUP_D_INFOS_JE_DO_5F4612"
 msgid "Ça fait beaucoup d'infos, je dois faire le point avec {{kimochi.n}} et {{noriko.n}}."
 msgstr ""
+"To je hodně informací, budu se muset poradit s {{kimochi.n}} a {{noriko.n}}."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "VIENS_AVEC_NOUS_A59CB6"
 msgid "Viens avec nous !"
-msgstr ""
+msgstr "Přidejte se k nám!"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "AVEC_PLAISIR_MON_AMOUR_MAIS_QU_6C0E43"
 msgid "Avec plaisir, mon amour, mais que dois-je faire de lui ?"
-msgstr ""
+msgstr "S potěšením, má lásko, ale co s ním mám dělat?"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "FONT_SIZE_14_LAISSEZ_MOI_PART_11EE17"
 msgid "[font_size=14]LAISSEZ-MOI PARTIR ! PUTAIN !!![/font_size]"
-msgstr ""
+msgstr "[font_size=14]NECHTE MĚ JÍT! SAKRA!!![/font_size]"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "DOIS_JE_M_EN_D_BARRASSER_D_FIN_135ABE"
 msgid "Dois-je m'en débarrasser définitivement ?"
-msgstr ""
+msgstr "Mám se ho nadobro zbavit?"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "JE_LE_REGRETTERAI_S_REMENT_UN_8078D3"
 msgid "... Je le regretterai sûrement un jour, mais il a déjà été puni en consommant sa propre drogue. Et puis maintenant qu'il a parlé, il ne peut plus rester ici, il est obligé de vivre caché."
 msgstr ""
+"... Jednou toho asi budu litovat, ale on už byl potrestán tím, že užívá své "
+"vlastní drogy. A teď, když promluvil, už tu nemůže zůstat, musí žít v "
+"ústraní."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "TR_S_BIEN_JE_FERAI_COMME_TU_VO_AF75A0"
 msgid "Très bien, je ferai comme tu voudras."
-msgstr ""
+msgstr "Dobrá, udělám, co si přejete."
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "home_kimochi_exterior_2d6a3cc2"
@@ -9334,7 +9346,7 @@ msgstr "Co to je?"
 #: game/story/home_minato_basement.dialogue
 msgctxt "QUOI_DONC_BD9CF9"
 msgid "Quoi donc ?"
-msgstr ""
+msgstr "Co to je?"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "home_kimochi_exterior_bbc669bd"
@@ -10154,117 +10166,119 @@ msgstr "Musíme si pospíšit, čas běží!"
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "HEY_VOUS_EN_FAITES_UNE_DE_CES_0677D4"
 msgid "Hey, vous en faites une de ces têtes, que se passe-t-il ?"
-msgstr ""
+msgstr "Hej, děláš jeden z těch výrazů, co se děje?"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "QU_EST_CE_QUE_TU_FAIS_DEVANT_C_B67CF7"
 msgid "Qu'est-ce que tu fais devant chez toi à attendre ?"
-msgstr ""
+msgstr "Co děláš, když čekáš před domem?"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "OH_JE_RACCOMPAGNAIS_JUSTE_UN_C_6158F0"
 msgid "Oh ! Je raccompagnais juste un client."
-msgstr ""
+msgstr "Právě jsem vyprovázela zákazníka."
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "JE_NE_SAVAIS_PAS_QUE_TU_DEVAIS_0712DB"
 msgid "Je ne savais pas que tu devais te prostituer pour payer ton loyer !"
-msgstr ""
+msgstr "Nevěděl jsem, že se musíš prostituovat, abys zaplatil nájem!"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "QU_QUOI_NON_06430A"
 msgid "Qu... Quoi ?! Non !!"
-msgstr ""
+msgstr "Cože?! Ne!!"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "BON_SANG_BAISSE_D_UN_TON_MES_V_B329C2"
 msgid "Bon sang, baisse d'un ton, mes voisins vont t'entendre !"
-msgstr ""
+msgstr "Proboha, ztiš se, sousedé tě uslyší!"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "DISCUTONS_DE_A_L_INT_RIEUR_S_I_7AF8A2"
 msgid "Discutons de ça à l'intérieur, s'il vous plaît..."
-msgstr ""
+msgstr "Probereme to uvnitř, prosím..."
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "NORIKO_N_TU_VAS_TROP_LOIN_DAN_F0816D"
 msgid "{{noriko.n}}, tu vas trop loin dans tes plaisanteries."
-msgstr ""
+msgstr "{{noriko.n}}, se svými vtipy zacházíš příliš daleko."
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "D_SOL_E_2CFC71"
 msgid "... Désolée."
-msgstr ""
+msgstr "... Promiňte."
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "C_EST_BON_ILS_ONT_T_AVERTIS_70EA7F"
 msgid "C'est bon, ils ont été avertis !"
-msgstr ""
+msgstr "To je v pořádku, byli varováni!"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "ILS_T_ONT_CRU_D067C5"
 msgid "Ils t'ont cru ?"
-msgstr ""
+msgstr "Věřili vám?"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "NON_MAIS_QUAND_JE_LEUR_AI_DIT_EC338B"
 msgid "Non, mais quand je leur ai dit que je balancerais tout à la presse s'ils ne se bougeaient pas et qu'ils risquaient un scandale, ils ont été plus coopératifs."
 msgstr ""
+"Ne, ale když jsem jim řekl, že pokud s tím něco neudělají a nebudou riskovat "
+"skandál, předhodím všechno tisku, byli ochotnější."
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "D_P_CHONS_NOUS_JE_NE_VEUX_PAS_E1ECF7"
 msgid "Dépêchons-nous, je ne veux pas rater ça."
-msgstr ""
+msgstr "Pospěšme si, nechci to zmeškat."
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "TU_ES_S_R_QUE_A_VA_821E17"
 msgid "Tu es sûr que ça va ?"
-msgstr ""
+msgstr "Jsi si jistý, že jsi v pořádku?"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "OUI_ENFIN_NON_3E52BC"
 msgid "Oui... enfin... non."
-msgstr ""
+msgstr "Ano... no... ne."
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "COMMENT_A_PEUT_ALLER_DANS_UNE_C17DF2"
 msgid "Comment ça peut aller dans une telle situation ?"
-msgstr ""
+msgstr "Jak se v takové situaci může něco pokazit?"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "QUAND_ENFIN_JE_PENSAIS_POUVOIR_A79FD9"
 msgid "Quand enfin je pensais pouvoir souffler et reprendre doucement ma vie en main..."
-msgstr ""
+msgstr "Zrovna když jsem si myslel, že si můžu oddechnout a pomalu žít dál..."
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "N_EN_DIS_PAS_PLUS_JE_COMPRENDS_03ECEA"
 msgid "N'en dis pas plus, je comprends."
-msgstr ""
+msgstr "Už nic neříkejte, rozumím."
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "RENTRONS_LA_MAISON_8F66B4"
 msgid "Rentrons à la maison !"
-msgstr ""
+msgstr "Pojďme domů!"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "ON_DOIT_GARDER_ESPOIR_ET_NE_PA_FCD4A6"
 msgid "On doit garder espoir et ne pas penser au pire."
-msgstr ""
+msgstr "Musíme si zachovat naději a nemyslet na nejhorší."
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "TU_SAIS_QUAND_TU_AS_DISPARU_QU_29A887"
 msgid "Tu sais... quand tu as disparu quelques jours à cause de l'autre... folle."
-msgstr ""
+msgstr "Víš... když jsi na pár dní zmizel kvůli té druhé... šílené ženě."
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "ELLE_S_APPELLE_SAKUYA_N_9FCABF"
 msgid "Elle s'appelle {{sakuya.n}}..."
-msgstr ""
+msgstr "Jmenuje se {{sakuya.n}}..."
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "SI_TU_VEUX_09464C"
 msgid "Si tu veux..."
-msgstr ""
+msgstr "Pokud máte rádi..."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "t96ac538ecc"
@@ -10274,302 +10288,311 @@ msgstr "Pokud máte rádi..."
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "IL_N_EMP_CHE_QU_ON_N_A_RIEN_L_BDEEFA"
 msgid "Il n'empêche qu'on n'a rien lâché !"
-msgstr ""
+msgstr "Ale nevzdali jsme to!"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "JE_SUIS_UN_PEU_UNE_HABITU_E_DE_71A384"
 msgid "Je suis un peu une habituée de ce genre de situations..."
-msgstr ""
+msgstr "Na takové situace jsem si už trochu zvykl..."
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "IL_N_Y_A_PAS_DE_QUOI_EN_TRE_FI_FA3385"
 msgid "Il n'y a pas de quoi en être fière, tu sais !"
-msgstr ""
+msgstr "Není to nic, na co bychom měli být pyšní!"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "TOUT_CE_QUE_JE_VEUX_DIRE_C_EST_DD317E"
 msgid "Tout ce que je veux dire... C'est... même si la situation semble... horrible."
-msgstr ""
+msgstr "Chci jen říct, že... Je to... i když se situace zdá... hrozná."
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "TU_DOIS_CONTINUER_D_Y_CROIRE_D_AD8375"
 msgid "Tu dois continuer d'y croire de toutes tes forces."
-msgstr ""
+msgstr "Musíte věřit ze všech sil."
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "C_EST_CE_QUI_TE_FERA_TENIR_78AD2B"
 msgid "C'est ce qui te fera tenir !"
-msgstr ""
+msgstr "To je to, co vás udrží na nohou!"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "MERCI_W_MERCI_POUR_TON_AIDE_NO_908409"
 msgid "Merci...[w] merci pour ton aide, {{noriko.n}}."
-msgstr ""
+msgstr "Děkuji...[w] děkuji za pomoc, {{noriko.n}}."
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "TU_AS_RAISON_RENTRONS_DEMAIN_N_F0AE72"
 msgid "Tu as raison, rentrons ! Demain, nous aurons une journée bien chargée, tiens bon {{asami.n}}."
 msgstr ""
+"Máš pravdu, pojďme domů! Zítra nás čeká náročný den, tak se držte {{asami."
+"n}}."
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "INSTALLONS_QUELQUES_AFFICHES_I_6E3187"
 msgid "Installons quelques affiches ici."
-msgstr ""
+msgstr "Vyvěsíme zde několik plakátů."
 
 #: game/story/arcade_exterior.dialogue
 msgctxt "INSTALLONS_QUELQUES_AFFICHES_I_7CD32E"
 msgid "Installons quelques affiches ici."
-msgstr ""
+msgstr "Vyvěsíme zde několik plakátů."
 
 #: game/story/dojo_exterior.dialogue
 msgctxt "INSTALLONS_QUELQUES_AFFICHES_I_BEF171"
 msgid "Installons quelques affiches ici."
-msgstr ""
+msgstr "Vyvěsíme zde několik plakátů."
 
 #: game/story/bus_stop.dialogue
 msgctxt "INSTALLONS_QUELQUES_AFFICHES_I_ABE44C"
 msgid "Installons quelques affiches ici."
-msgstr ""
+msgstr "Vyvěsíme zde několik plakátů."
 
 #: game/story/home_asami_exterior.dialogue
 msgctxt "INSTALLONS_QUELQUES_AFFICHES_I_12D4E7"
 msgid "Installons quelques affiches ici."
-msgstr ""
+msgstr "Vyvěsíme zde několik plakátů."
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "INSTALLONS_QUELQUES_AFFICHES_I_19B322"
 msgid "Installons quelques affiches ici."
-msgstr ""
+msgstr "Vyvěsíme zde několik plakátů."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "INSTALLONS_QUELQUES_AFFICHES_I_A31B13"
 msgid "Installons quelques affiches ici."
-msgstr ""
+msgstr "Vyvěsíme zde několik plakátů."
 
 #: game/story/love_hotel_exterior.dialogue
 msgctxt "INSTALLONS_QUELQUES_AFFICHES_I_BB2A16"
 msgid "Installons quelques affiches ici."
-msgstr ""
+msgstr "Vyvěsíme zde několik plakátů."
 
 #: game/story/coffeebar_exterior.dialogue
 msgctxt "INSTALLONS_QUELQUES_AFFICHES_I_2C6F6D"
 msgid "Installons quelques affiches ici."
-msgstr ""
+msgstr "Vyvěsíme zde několik plakátů."
 
 #: game/story/park.dialogue
 msgctxt "INSTALLONS_QUELQUES_AFFICHES_I_D5319D"
 msgid "Installons quelques affiches ici."
-msgstr ""
+msgstr "Vyvěsíme zde několik plakátů."
 
 #: game/story/home_minato_exterior.dialogue
 msgctxt "INSTALLONS_QUELQUES_AFFICHES_I_0431AC"
 msgid "Installons quelques affiches ici."
-msgstr ""
+msgstr "Vyvěsíme zde několik plakátů."
 
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "INSTALLONS_QUELQUES_AFFICHES_I_C8D903"
 msgid "Installons quelques affiches ici."
-msgstr ""
+msgstr "Vyvěsíme zde několik plakátů."
 
 #: game/story/home_kenji_exterior.dialogue
 msgctxt "INSTALLONS_QUELQUES_AFFICHES_I_C7E9F8"
 msgid "Installons quelques affiches ici."
-msgstr ""
+msgstr "Vyvěsíme zde několik plakátů."
 
 #: game/story/home_nobu_exterior.dialogue
 msgctxt "INSTALLONS_QUELQUES_AFFICHES_I_950C8D"
 msgid "Installons quelques affiches ici."
-msgstr ""
+msgstr "Vyvěsíme zde několik plakátů."
 
 #: game/story/home_takeo_exterior.dialogue
 msgctxt "INSTALLONS_QUELQUES_AFFICHES_I_290709"
 msgid "Installons quelques affiches ici."
-msgstr ""
+msgstr "Vyvěsíme zde několik plakátů."
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "BON_A_DEVRAIT_SUFFIRE_POUR_ICI_716BE3"
 msgid "Bon, ça devrait suffire pour ici, allons voir du côté du konbini."
-msgstr ""
+msgstr "To by mělo prozatím stačit, pojďme se podívat na konbini."
 
 #: game/story/arcade_exterior.dialogue
 msgctxt "BON_A_DEVRAIT_SUFFIRE_POUR_ICI_D9D85E"
 msgid "Bon, ça devrait suffire pour ici, allons voir du côté du konbini."
-msgstr ""
+msgstr "To by mělo prozatím stačit, pojďme se podívat na konbini."
 
 #: game/story/dojo_exterior.dialogue
 msgctxt "BON_A_DEVRAIT_SUFFIRE_POUR_ICI_CA6123"
 msgid "Bon, ça devrait suffire pour ici, allons voir du côté du konbini."
-msgstr ""
+msgstr "To by mělo prozatím stačit, pojďme se podívat na konbini."
 
 #: game/story/bus_stop.dialogue
 msgctxt "BON_A_DEVRAIT_SUFFIRE_POUR_ICI_8460A9"
 msgid "Bon, ça devrait suffire pour ici, allons voir du côté du konbini."
-msgstr ""
+msgstr "To by mělo prozatím stačit, pojďme se podívat na konbini."
 
 #: game/story/home_asami_exterior.dialogue
 msgctxt "BON_A_DEVRAIT_SUFFIRE_POUR_ICI_06E339"
 msgid "Bon, ça devrait suffire pour ici, allons voir du côté du konbini."
-msgstr ""
+msgstr "To by mělo prozatím stačit, pojďme se podívat na konbini."
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "BON_A_DEVRAIT_SUFFIRE_POUR_ICI_9D8B08"
 msgid "Bon, ça devrait suffire pour ici, allons voir du côté du konbini."
-msgstr ""
+msgstr "To by mělo prozatím stačit, pojďme se podívat na konbini."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "BON_A_DEVRAIT_SUFFIRE_POUR_ICI_793924"
 msgid "Bon, ça devrait suffire pour ici, allons voir du côté du konbini."
-msgstr ""
+msgstr "To by mělo prozatím stačit, pojďme se podívat na konbini."
 
 #: game/story/love_hotel_exterior.dialogue
 msgctxt "BON_A_DEVRAIT_SUFFIRE_POUR_ICI_4899DD"
 msgid "Bon, ça devrait suffire pour ici, allons voir du côté du konbini."
-msgstr ""
+msgstr "To by mělo prozatím stačit, pojďme se podívat na konbini."
 
 #: game/story/coffeebar_exterior.dialogue
 msgctxt "BON_A_DEVRAIT_SUFFIRE_POUR_ICI_DEBD5B"
 msgid "Bon, ça devrait suffire pour ici, allons voir du côté du konbini."
-msgstr ""
+msgstr "To by mělo prozatím stačit, pojďme se podívat na konbini."
 
 #: game/story/park.dialogue
 msgctxt "BON_A_DEVRAIT_SUFFIRE_POUR_ICI_779900"
 msgid "Bon, ça devrait suffire pour ici, allons voir du côté du konbini."
-msgstr ""
+msgstr "To by mělo prozatím stačit, pojďme se podívat na konbini."
 
 #: game/story/home_minato_exterior.dialogue
 msgctxt "BON_A_DEVRAIT_SUFFIRE_POUR_ICI_68D5CC"
 msgid "Bon, ça devrait suffire pour ici, allons voir du côté du konbini."
-msgstr ""
+msgstr "To by mělo prozatím stačit, pojďme se podívat na konbini."
 
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "BON_A_DEVRAIT_SUFFIRE_POUR_ICI_A23D77"
 msgid "Bon, ça devrait suffire pour ici, allons voir du côté du konbini."
-msgstr ""
+msgstr "To by mělo prozatím stačit, pojďme se podívat na konbini."
 
 #: game/story/home_kenji_exterior.dialogue
 msgctxt "BON_A_DEVRAIT_SUFFIRE_POUR_ICI_FAB082"
 msgid "Bon, ça devrait suffire pour ici, allons voir du côté du konbini."
-msgstr ""
+msgstr "To by mělo prozatím stačit, pojďme se podívat na konbini."
 
 #: game/story/home_nobu_exterior.dialogue
 msgctxt "BON_A_DEVRAIT_SUFFIRE_POUR_ICI_30534A"
 msgid "Bon, ça devrait suffire pour ici, allons voir du côté du konbini."
-msgstr ""
+msgstr "To by mělo prozatím stačit, pojďme se podívat na konbini."
 
 #: game/story/home_takeo_exterior.dialogue
 msgctxt "BON_A_DEVRAIT_SUFFIRE_POUR_ICI_B3F4A0"
 msgid "Bon, ça devrait suffire pour ici, allons voir du côté du konbini."
-msgstr ""
+msgstr "To by mělo prozatím stačit, pojďme se podívat na konbini."
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "QUE_QU_EST_CE_QU_ELLE_FAIT_L_A6EC88"
 msgid "Que... qu'est-ce qu'elle fait là ?!"
-msgstr ""
+msgstr "Co... co tady dělá?!"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "A_ALORS_QUELLE_SURPRISE_B07056"
 msgid "Ça alors, quelle surprise !"
-msgstr ""
+msgstr "Jaké překvapení!"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "VOUS_VOUS_TES_D_J_RENCONTR_ES_E3F3E3"
 msgid "Vous vous êtes déjà rencontrées ?"
-msgstr ""
+msgstr "Setkali jste se již dříve?"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "OUI_NOUS_AVONS_EU_LA_CHANCE_DE_CEBF55"
 msgid "Oui... Nous avons eu la chance de faire connaissance il n'y a pas si longtemps."
-msgstr ""
+msgstr "Ano... Nedávno jsme měli možnost se setkat."
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "ELLE_TAIT_ENTR_E_DANS_MA_CHAMB_969994"
 msgid "Elle était entrée dans ma chambre p-"
-msgstr ""
+msgstr "Vešla do mého pokoje p-"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "C_EST_BON_C_EST_BON_VOUS_TES_L_8D739C"
 msgid "C'est bon, c'est bon, vous êtes là, c'est parfait !"
-msgstr ""
+msgstr "Je to dobré, je to dobré, jsi tady, je to perfektní!"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "VENEZ_VITE_ON_PENSE_SAVOIR_QUI_BA4DE7"
 msgid "Venez vite, on pense savoir qui s'en est pris à {{asami.n}} !"
-msgstr ""
+msgstr "Pojďte rychle, myslíme, že víme, kdo šel po {{asami.n}}!"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "QUOI_S_RIEUSEMENT_482A9F"
 msgid "Quoi ?! Sérieusement ?"
-msgstr ""
+msgstr "Cože?! Vážně?"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "DEVIENS_MON_APPRENTI_1A4F4B"
 msgid "Deviens mon apprenti !"
-msgstr ""
+msgstr "Staňte se mým učedníkem!"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "WOAH_W_IL_NE_FAUT_PAS_SURPREND_CEE5A2"
 msgid "WOAH ![w] Il ne faut pas surprendre les gens comme ça !"
-msgstr ""
+msgstr "WOAH![w] Neměl by ses takhle plížit k lidem!"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "CE_TYPE_ME_DONNE_ENVIE_DE_GERB_D6F964"
 msgid "Ce type me donne envie de gerber !"
-msgstr ""
+msgstr "Z toho chlapa se mi chce zvracet!"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "ALORS_QUOI_QUE_VOULEZ_VOUS_EXA_7CFDD4"
 msgid "Alors quoi ? Que voulez-vous exactement ?"
-msgstr ""
+msgstr "No a co? Co přesně chcete?"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "COUTEZ_MONSIEUR_IL_Y_A_ACTUEL_42FB7A"
 msgid "Écoutez monsieur... Il y a actuellement une urgence vitale et je n'ai pas vraiment de temps pour ce genre de choses !"
 msgstr ""
+"Poslouchejte, pane... Momentálně je tu naléhavá situace, která ohrožuje "
+"život, a já na takové věci nemám čas!"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "JE_T_AI_OBSERV_DERNI_REMENT_W_D75AF1"
 msgid "Je t'ai observé dernièrement...[w] Tu sembles avoir beaucoup de rage en toi."
-msgstr ""
+msgstr "Poslední dobou tě sleduji...[w] Zdá se, že v sobě máš hodně vzteku."
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "MONSIEUR_S_IL_VOUS_PLA_T_JE_NE_E33420"
 msgid "Monsieur... s'il vous plaît, je ne sais pas pourquoi vous me suivez mais je n'ai pas le temps de discuter de ça maintenant !"
 msgstr ""
+"Pane... prosím, nevím, proč mě sledujete, ale nemám čas o tom teď diskutovat!"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "TU_NE_PEUX_PAS_CONTINUER_EXT_R_474853"
 msgid "Tu ne peux pas continuer à extérioriser ta colère de façon aussi chaotique."
-msgstr ""
+msgstr "Nemůžeš si dál vybíjet zlost takovým chaotickým způsobem."
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "J_AI_VU_UN_GROS_POTENTIEL_EN_T_A6EC7B"
 msgid "J'ai vu un gros potentiel en toi, laisse-moi t'apprendre à le maîtriser."
 msgstr ""
+"Viděl jsem v tobě velký potenciál, tak mi dovol, abych tě naučil, jak ho "
+"využít."
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "MON_AMOUR_NOUS_ALLONS_NOUS_FAI_C3E738"
 msgid "Mon amour... nous allons nous faire repérer si nous restons là !"
-msgstr ""
+msgstr "Má lásko... jestli tu zůstaneme, tak si nás všimnou!"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "JE_SAIS_JE_SAIS_15F411"
 msgid "Je sais, je sais..."
-msgstr ""
+msgstr "Já vím, já vím..."
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "LAISSE_MOI_NOUS_D_BARRASSER_DE_4CF656"
 msgid "Laisse-moi nous débarrasser de lui !"
-msgstr ""
+msgstr "Dovolte mi, abych se ho zbavil!"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "OH_DU_CALME_JEUNE_FEMME_CE_GAR_3C852C"
 msgid "Oh, du calme jeune femme... Ce garçon est à présent mon disciple ! Et si mon disciple a des problèmes, je me dois de lui venir en aide !"
 msgstr ""
+"Uklidněte se, mladá dámo... Tento chlapec je nyní mým žákem! A pokud má můj "
+"žák nějaké problémy, jsem povinen mu přijít na pomoc!"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "OH_BORDEL_99F85A"
 msgid "Oh bordel..."
-msgstr ""
+msgstr "Sakra..."
 
 #: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
 msgctxt "td1eb83fca6"
@@ -10589,37 +10612,38 @@ msgstr "Sakra..."
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "DANS_CE_CAS_VOUS_POUVEZ_VOUS_C_D4B31F"
 msgid "Dans ce cas... vous pouvez vous cacher et ne pas faire de bruit ?"
-msgstr ""
+msgstr "V tom případě... můžete se schovat a nedělat hluk?"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "JE_SERAI_AUSSI_DISCRET_QU_UNE_7FA454"
 msgid "Je serai aussi discret qu'une ombre !"
-msgstr ""
+msgstr "Budu nenápadný jako stín!"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "BON_C_EST_BON_D_ACCORD_MAIS_VI_BD22EA"
 msgid "Bon, c'est bon, d'accord mais vite ! On ne doit absolument pas nous voir !"
-msgstr ""
+msgstr "Dobře, dobře, ale pospěšte si! Rozhodně nás nesmí nikdo vidět!"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "JE_LE_VOIS_AU_LOIN_IL_ARRIVE_14303F"
 msgid "Je le vois au loin, il arrive !"
-msgstr ""
+msgstr "Vidím ho v dálce, už se blíží!"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "FONT_SIZE_14_OH_BON_SANG_JE_N_51F1C0"
 msgid "[font_size=14]Oh bon sang, je n'ai jamais vu un type aussi moche ![/font_size]"
 msgstr ""
+"[font_size=14]Páni, tak ošklivého chlapa jsem ještě neviděl![/font_size]"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "FONT_SIZE_14_TAISEZ_VOUS_VOUS_78F0DF"
 msgid "[font_size=14]Taisez-vous ! Vous allez nous faire repérer ![/font_size]"
-msgstr ""
+msgstr "[font_size=14]Drž hubu! Chystáš se nás spatřit![/font_size]"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "FONT_SIZE_14_FONT_SIZE_B79885"
 msgid "[font_size=14]...[/font_size]"
-msgstr ""
+msgstr "[font_size=14]...[/font_size]"
 
 #: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
 msgctxt "yasuka_love_sexe_repeat_fa9e5d57"
@@ -10634,342 +10658,360 @@ msgstr "[font_size=14]...[/font_size]"
 #: game/story/park.dialogue
 msgctxt "FONT_SIZE_14_FONT_SIZE_0C47D6"
 msgid "[font_size=14]...[/font_size]"
-msgstr ""
+msgstr "[font_size=14]...[/font_size]"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "OH_JE_PEUX_VOIR_TON_VISAGE_QUE_EBEA8A"
 msgid "Oh, je peux voir à ton visage que tu sembles de bonne humeur !"
-msgstr ""
+msgstr "Podle tvé tváře vidím, že máš dobrou náladu!"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "A_SE_VOIT_TANT_QUE_A_0A032A"
 msgid "Ça se voit tant que ça ?"
-msgstr ""
+msgstr "Je to tak zřejmé?"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "PLUT_T_OUI_DES_CHOSES_INT_RESS_4B24D2"
 msgid "Plutôt oui ! Des choses intéressantes dans ta vie dernièrement ?"
 msgstr ""
+"Řekl bych, že ano! Stalo se v poslední době ve vašem životě něco zajímavého?"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "TU_NE_CROIS_PAS_SI_BIEN_DIRE_587224"
 msgid "Tu ne crois pas si bien dire."
-msgstr ""
+msgstr "Nevíte, o čem mluvíte."
 
 #: game/story/home_minato_hallway.dialogue
 msgctxt "TU_NE_CROIS_PAS_SI_BIEN_DIRE_FFFF31"
 msgid "Tu ne crois pas si bien dire."
-msgstr ""
+msgstr "Nevíte, o čem mluvíte."
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "L_AVENIR_S_ANNONCE_RADIEUX_BDF5E1"
 msgid "L'avenir s'annonce radieux !"
-msgstr ""
+msgstr "Budoucnost vypadá zářivě!"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "EH_BIEN_JE_VAIS_TRE_JALOUX_FAU_E3E882"
 msgid "Eh bien je vais être jaloux... Faudra que tu partages ton truc, car ça m'intéresse aussi !"
 msgstr ""
+"No, budu žárlit... Budeš se muset podělit o své věci, protože mě to taky "
+"zajímá!"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "HAHA_NON_A_C_EST_IMPOSSIBLE_5FE5D2"
 msgid "Haha ! Non, ça c'est impossible !"
-msgstr ""
+msgstr "Haha! Ne, to je nemožné!"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "DE_TOUTE_FA_ON_C_EST_LA_DERNI_9FF5A5"
 msgid "De toute façon, c'est la dernière fois que je viens t'emprunter quelque chose, je vais être très occupé dans les jours qui vont suivre."
 msgstr ""
+"Každopádně je to naposledy, co jsem si od vás něco půjčil, v příštích dnech "
+"budu mít hodně práce."
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "QUOI_MAIS_JE_PERDS_UN_GROS_CLI_353EAF"
 msgid "Quoi ?! Mais je perds un gros client moi, du coup !"
-msgstr ""
+msgstr "Cože?! Ale já kvůli tomu přijdu o významného klienta!"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "C_EST_LA_VIE_A41DAD"
 msgid "C'est la vie."
-msgstr ""
+msgstr "Takový je život."
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "ET_TU_COMPTES_FAIRE_QUOI_EXACT_9E1D48"
 msgid "Et... tu comptes faire quoi exactement ?"
-msgstr ""
+msgstr "A... co přesně plánujete dělat?"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "TU_ES_BIEN_CURIEUX_C74EC5"
 msgid "Tu es bien curieux..."
-msgstr ""
+msgstr "Jste velmi zvědavý..."
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "W_JE_JE_NE_DISCUTE_PAS_SOUVEN_6A229A"
 msgid "...[w] Je... je ne discute pas souvent avec les gens, donc tu es un peu la seule personne avec qui je..."
 msgstr ""
+"...[w] Já... já s lidmi často nemluvím, takže jsi tak trochu jediný člověk, "
+"se kterým..."
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "C_EST_BON_J_AI_COMPRIS_JE_SUI_15639D"
 msgid "... C'est bon, j'ai compris, je suis passé par là aussi."
-msgstr ""
+msgstr "... To je v pořádku, chápu to, taky jsem to zažil."
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "POUR_R_SUMER_JE_PENSE_AVOIR_TR_1F81A3"
 msgid "Pour résumer, je pense avoir trouvé une femme."
-msgstr ""
+msgstr "Abych to shrnul, myslím, že jsem našel ženu."
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "OH_VRAIMENT_ELLE_EST_AU_COURAN_D74FE9"
 msgid "Oh ?! Vraiment ? Elle est au courant au moins ?"
-msgstr ""
+msgstr "Oh?! Opravdu? Ví to vůbec?"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "PAS_ENCORE_MAIS_ELLE_NE_POURRA_325125"
 msgid "Pas encore, mais elle ne pourra pas résister à mon charme !"
-msgstr ""
+msgstr "Zatím ne, ale mému šarmu neodolá!"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "J_AIMERAIS_TRE_AUSSI_OPTIMISTE_8EBF1D"
 msgid "J'aimerais être aussi optimiste que toi."
-msgstr ""
+msgstr "Kéž bych byl takový optimista jako vy."
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "TU_VERRAS_BIEN_11AF45"
 msgid "Tu verras bien !"
-msgstr ""
+msgstr "Uvidíte!"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "WOAH_MAIS_C_EST_QUI_LUI_B7D615"
 msgid "Woah ! Mais c'est qui lui ?!"
-msgstr ""
+msgstr "Woah! Kdo to sakra je?!"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "C_EST_UNE_LONGUE_HISTOIRE_IGNO_73578D"
 msgid "C'est une longue histoire... ignore-le s'il te plaît."
-msgstr ""
+msgstr "Je to dlouhý příběh... prosím, ignorujte ho."
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "J_AI_CRU_QUE_J_ALLAIS_MOURIR_E_923DD0"
 msgid "J'ai cru que j'allais mourir etouffée..."
-msgstr ""
+msgstr "Myslel jsem, že se udusím..."
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "TU_N_TAIS_PAS_OBLIG_E_DE_RETEN_C2C177"
 msgid "Tu n'étais pas obligée de retenir ta respiration non plus !"
-msgstr ""
+msgstr "Ani vy jste nemuseli zadržovat dech!"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "JE_NE_SAVAIS_PAS_QU_ON_ALLAIT_A5B00A"
 msgid "Je ne savais pas qu'on allait intégrer un vieux fou qui sent le rat crevé à notre groupe..."
 msgstr ""
+"Nevěděl jsem, že se k nám přidá šílený stařík, který smrdí jako mrtvá "
+"krysa..."
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "VOIL_UNE_JEUNE_FILLE_BIEN_RUDE_6E26A4"
 msgid "Voilà une jeune fille bien rude, où est le respect des anciens ?"
-msgstr ""
+msgstr "Je to velmi drsná mladá dáma - kde je vaše úcta ke starším?"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "O_EST_LE_RESPECT_DE_LA_DOUCHE_74875C"
 msgid "Où est le respect de la douche ?"
-msgstr ""
+msgstr "Kde je úcta ke sprše?"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "AHEM_BREF_VOUS_AVEZ_ENTENDU_LA_9BEEDD"
 msgid "Ahem... Bref, vous avez entendu la conversation ?"
-msgstr ""
+msgstr "Ehm... Každopádně, slyšeli jste ten rozhovor?"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "OUI_ON_A_TOUT_ENTENDU_GAMIN_D11C1F"
 msgid "Oui, on a tout entendu gamin !"
-msgstr ""
+msgstr "Ano, slyšeli jsme to všechno, chlapče!"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "J_AI_UN_MAUVAIS_PRESSENTIMENT_C69008"
 msgid "J'ai un mauvais pressentiment... Surtout la fin de la conversation."
-msgstr ""
+msgstr "Mám z toho špatný pocit... Zejména z konce rozhovoru."
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "OUI_IL_PARLAIT_S_REMENT_D_ASAM_82B0A0"
 msgid "Oui... il parlait sûrement d'{{asami.n}}."
-msgstr ""
+msgstr "Ano... pravděpodobně mluvil o {{asami.n}}."
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "CE_TYPE_DOIT_MOURIR_7FB020"
 msgid "Ce type doit mourir !"
-msgstr ""
+msgstr "Ten chlap musí zemřít!"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "VOUS_VOULEZ_TUER_CET_HOMME_VOU_D27B93"
 msgid "Vous voulez tuer cet homme ? Vous avez déjà tué quelqu'un auparavant ? Ce n'est pas si simple, croyez-moi."
 msgstr ""
+"Chcete tohoto muže zabít? Už jste někdy někoho zabil? Není to tak "
+"jednoduché, věřte mi."
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "JE_PEUX_COMMENCER_M_ENTRA_NER_376615"
 msgid "Je peux commencer à m'entraîner sur vous..."
-msgstr ""
+msgstr "Můžu na tobě začít cvičit..."
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "HAHA_TU_NE_MANQUES_PAS_D_AUDAC_591590"
 msgid "Haha, tu ne manques pas d'audace, gamine ! Ta femme a la bonne attitude, mon disciple !"
 msgstr ""
+"Haha, ty máš ale nervy, chlapče! Tvoje žena má správný přístup, můj žáku!"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "SA_SA_FEMME_1F78C5"
 msgid "Sa... sa femme ?"
-msgstr ""
+msgstr "Sa... sa femme ?"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "COMMENT_A_SA_FEMME_467183"
 msgid "Comment ça, sa femme ?!"
-msgstr ""
+msgstr "Jak to myslíš, jeho žena?!"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "EST_CE_QU_ON_PEUT_SE_CONCENTRE_955481"
 msgid "Est-ce qu'on peut se concentrer et suivre ce type discrètement ? On doit savoir où il se rend !"
-msgstr ""
+msgstr "Můžeme se soustředit a nenápadně ho sledovat? Musíme vědět, kam jde!"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "SOYEZ_PRUDENTS_D5C83A"
 msgid "Soyez prudents !"
-msgstr ""
+msgstr "Buďte opatrní!"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "NE_T_INQUI_TE_PAS_JE_VEILLE_SU_04458F"
 msgid "Ne t'inquiète pas, je veille sur eux !"
-msgstr ""
+msgstr "Nebojte se, postarám se o ně!"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "MEC_JE_NE_SAIS_M_ME_PAS_QUI_TU_FCD0DD"
 msgid "Mec, je ne sais même pas qui tu es !"
-msgstr ""
+msgstr "Kámo, já ani nevím, kdo jsi!"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "IL_SE_DIRIGE_VERS_LE_KONBINI_E2BE0F"
 msgid "Il se dirige vers le konbini !"
-msgstr ""
+msgstr "Míří na konbini!"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "VOUS_AVEZ_EU_DES_PROBL_MES_632C24"
 msgid "Vous avez eu des problèmes ?!"
-msgstr ""
+msgstr "Měli jste nějaké problémy?!"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "UN_PUTAIN_DE_FLIC_NOUS_A_EMP_C_020BBF"
 msgid "Un putain de flic nous a empêchés de le suivre."
-msgstr ""
+msgstr "Jeden zasranej polda nám zabránil, abychom ho sledovali."
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "C_EST_COMME_IL_L_A_DIT_NETORU_BD2EA7"
 msgid "C'est comme il l'a dit... {{netoru.n}} semblait en avoir après la mère d'{{asami.n}}."
-msgstr ""
+msgstr "Jak řekl... {{netoru.n}} se zdálo, že má na matku {{asami.n}} pifku."
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "J_AVAIS_PR_VU_LE_COUP_J_AI_CAC_69A3EE"
 msgid "J'avais prévu le coup, j'ai caché un traceur GPS dans l'une des cartouches d'un des jeux..."
 msgstr ""
+"Naplánoval jsem si to dopředu a do jedné z kazet pro jednu z her jsem "
+"schoval GPS tracker..."
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "POURQUOI_TU_NE_L_AS_PAS_DIT_AV_FFE790"
 msgid "Pourquoi tu ne l'as pas dit avant ?!"
-msgstr ""
+msgstr "Proč jsi to neřekl dřív?!"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "NON_PEU_IMPORTE_C_TAIT_UNE_TR_51918C"
 msgid "Non, peu importe, c'était une très bonne chose ! Merci."
-msgstr ""
+msgstr "Ne, na tom nezáleží, byla to velmi dobrá věc! Moc vám děkuji."
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "O_EST_DONC_CE_GROS_PORC_CDEA94"
 msgid "Où est donc ce gros porc ?"
-msgstr ""
+msgstr "Kde je to tlusté prase?"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "EUH_CE_TYPE_VA_CONTINUER_DE_T_ADE293"
 msgid "... Euh, ce type va continuer de traîner avec nous encore longtemps ?"
-msgstr ""
+msgstr "... Bude se s námi tenhle chlapík potloukat ještě dlouho?"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "JE_NE_LAISSERAI_PAS_TOMBER_MON_DD4EE5"
 msgid "Je ne laisserai pas tomber mon disciple !"
-msgstr ""
+msgstr "Svého učedníka nezklamu!"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "J_AI_PAS_LE_TEMPS_DE_G_RER_A_R_5BE0FF"
 msgid "J'ai pas le temps de gérer ça, réponds juste à la question."
-msgstr ""
+msgstr "Nemám čas se tím zabývat, jen odpovězte na otázku."
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "IL_N_A_PLUS_BOUG_DEPUIS_PLUSIE_F1CE3A"
 msgid "Il n'a plus bougé depuis plusieurs minutes... Il est bien chez {{minato.n}} !"
-msgstr ""
+msgstr "Už několik minut se nepohnul... Je na {{minato.n}}!"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "CE_FILS_DE_PUTE_JE_VAIS_TELLEM_BA9C9D"
 msgid "Ce fils de pute ! Je vais tellement lui refaire le portrait que..."
-msgstr ""
+msgstr "Ten hajzl! Namaluju ho tak, že..."
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "DOUCEMENT_GAR_ON_SI_CE_TYPE_A_37B4B1"
 msgid "Doucement, garçon... Si ce type a le bras long comme vous semblez le penser, il ne sera pas sans défense."
 msgstr ""
+"Klid, chlapče... Jestli má ten chlap tak dlouhou ruku, jak si myslíš, nebude "
+"bezbranný."
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "VOUS_ALLEZ_FAIRE_QUOI_S_IL_EST_EC6C19"
 msgid "Vous allez faire quoi s'il est armé ?"
-msgstr ""
+msgstr "Co budete dělat, když bude ozbrojený?"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "JE_N_EN_N_AI_PLUS_RIEN_FAIRE_C64D9B"
 msgid "Je n'en n'ai plus rien à faire !"
-msgstr ""
+msgstr "Už je mi to jedno!"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "J_EN_AI_ASSEZ_DE_ME_LAISSEZ_PO_34FD89"
 msgid "J'en ai assez de me laissez porter par les évènements."
-msgstr ""
+msgstr "Už mě nebaví nechat se unášet událostmi."
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "ASAMI_N_A_BESOIN_D_AIDE_ET_JE_336CD7"
 msgid "{{asami.n}} a besoin d'aide et je vais agir tout de suite !"
-msgstr ""
+msgstr "{{asami.n}} potřebuje pomoc a já se chystám okamžitě jednat!"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "MON_AMOUR_ATTENDS_MOI_ED8394"
 msgid "Mon amour... Attends moi !"
-msgstr ""
+msgstr "Moje láska... Počkej na mě!"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "IL_EST_TOUJOURS_AUSSI_T_TE_BRU_840D3A"
 msgid "Il est toujours aussi tête brulée ?"
-msgstr ""
+msgstr "Je vždycky tak vznětlivý?"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "NON_IL_A_CHANG_IL_N_TAIT_PAS_C_2E192D"
 msgid "Non... Il a changé, il n'était pas comme ça avant."
-msgstr ""
+msgstr "Ne... Změnil se, dřív takový nebyl."
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "CHANG_DANS_QUEL_SENS_9AA38B"
 msgid "Changé dans quel sens ?"
-msgstr ""
+msgstr "V čem se změnil?"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "POURQUOI_JE_PARLERAIS_DE_A_AVE_3221B4"
 msgid "Pourquoi je parlerais de ça avec un vieux comme toi ?!"
-msgstr ""
+msgstr "Proč bych o tom měl mluvit s takovým starcem, jako jsi ty?!"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "EN_VRAI_A_M_INT_RESSE_AUSSI_IL_6C319B"
 msgid "En vrai ça m'intéresse aussi, il y a plein de choses que je ne sais pas sur lui."
-msgstr ""
+msgstr "Taky mě to zajímá, je toho hodně, co o něm nevím."
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "W_C_EST_AU_DEBUT_DES_VACANCES_9B5D8D"
 msgid "...[w] C'est au debut des vacances que ça s'est produit. Sa personnalité a changé radicalement du jour au lendemain."
 msgstr ""
+"...[w] Stalo se to na začátku prázdnin. Jeho osobnost se přes noc radikálně "
+"změnila."
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "COMME_SI_1CB763"
 msgid "Comme si..."
-msgstr ""
+msgstr "Jako by..."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_aa6cacbb"
@@ -10984,12 +11026,12 @@ msgstr "Jako by..."
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "COMME_SI_CE_N_TAIT_PLUS_LA_M_M_3FA579"
 msgid "Comme si ce n'était plus la même personne."
-msgstr ""
+msgstr "Jako by to nebyla jedna a tatáž osoba."
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "EXACTEMENT_234AF7"
 msgid "Exactement !"
-msgstr ""
+msgstr "Přesně tak!"
 
 #: game/story/canal.dialogue
 msgctxt "canal_ef2f8954"
@@ -11049,7 +11091,7 @@ msgstr "Přesně tak!"
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "EN_VOILA_UNE_CHOSE_INT_RESSANT_4DA6C5"
 msgid "En voila une chose intéressante !"
-msgstr ""
+msgstr "Tak to je něco zajímavého!"
 
 #: game/story/onsen_bath.dialogue
 msgctxt "talk_sakuya_2a9c4b33"
@@ -11474,7 +11516,7 @@ msgstr "[další]"
 #: game/story/dojo_exterior.dialogue
 msgctxt "NEXT_9C80DE"
 msgid "[next]"
-msgstr ""
+msgstr "[další]"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "t45b45539cf"
@@ -12159,7 +12201,7 @@ msgstr "Ano."
 #: game/story/konbini_interior.dialogue
 msgctxt "OUI_96DBEF"
 msgid "Oui."
-msgstr ""
+msgstr "Ano."
 
 #: game/story/home_asami_exterior.dialogue
 msgctxt "home_asami_exterior_0307bdf9"
@@ -12535,7 +12577,9 @@ msgstr "Nebojte se, nebudu daleko, ten chlap opravdu není tím, za koho se vyd�
 #, fuzzy
 msgctxt "t6ec60c8085"
 msgid "[i]Ne rien dire.[/i]"
-msgstr "[Nic neříkejte[/i]."
+msgstr ""
+"[i]Nic neříkejte.\n"
+"[/i]"
 
 #: game/story/canal.dialogue
 msgctxt "canal_88a4b4bf"
@@ -13020,7 +13064,7 @@ msgstr "Co?"
 #: game/story/warehouse_interior.dialogue
 msgctxt "QUOI_43DB5B"
 msgid "Quoi ?"
-msgstr ""
+msgstr "Co?"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "kimochi_password_ddfc0396"
@@ -13995,32 +14039,32 @@ msgstr "Okamžitě odejděte!"
 #: game/story/canal.dialogue
 msgctxt "PERSONNE_VIDEMMENT_B1D0C5"
 msgid "Personne, évidemment..."
-msgstr ""
+msgstr "Nikdo, samozřejmě..."
 
 #: game/story/canal.dialogue
 msgctxt "A_AURAIT_T_BIEN_TROP_FACILE_S_7D7FD7"
 msgid "Ça aurait été bien trop facile, sinon."
-msgstr ""
+msgstr "Jinak by to bylo příliš snadné."
 
 #: game/story/canal.dialogue
 msgctxt "VOYONS_QUI_POURRAIT_ME_RENSEIG_5D33AE"
 msgid "Voyons... qui pourrait me renseigner ?"
-msgstr ""
+msgstr "Tak se podívejme... kdo mi to řekne?"
 
 #: game/story/canal.dialogue
 msgctxt "LES_TROIS_IDIOTS_5F6581"
 msgid "Les trois idiots !"
-msgstr ""
+msgstr "Tři idioti!"
 
 #: game/story/canal.dialogue
 msgctxt "J_AURAIS_D_COMMENCER_PAR_EUX_6AF4F0"
 msgid "J'aurais dû commencer par eux !"
-msgstr ""
+msgstr "Měl jsem s nimi začít!"
 
 #: game/story/canal.dialogue
 msgctxt "L_ARCADE_CENTER_N_EST_PAS_LOIN_05AD36"
 msgid "L'arcade center n'est pas loin, je suis certain que {{nobu.n}} y sera !"
-msgstr ""
+msgstr "Centrum heren je hned za rohem a jsem si jistý, že {{nobu.n}} tam bude!"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_1d26945b"
@@ -15708,12 +15752,11 @@ msgid "Tout est prêt, il ne me reste plus qu'à appuyer sur ce bouton."
 msgstr "Vše je připraveno, stačí jen stisknout toto tlačítko."
 
 #: game/story/home_player_saito_room.dialogue
-#, fuzzy
 msgctxt "halteres_3c83d0f7"
 msgid "[i]Salut petit frère et bienvenue dans le dernier entraînement sur-mesure pour les fiottes comme toi.[/i]"
 msgstr ""
-"[Ahoj bratříčku, vítej na nejnovějším tréninku na míru pro kočičky, jako jsi "
-"ty."
+"[i]Ahoj bratříčku, vítej na nejnovějším tréninku na míru pro kočičky, jako "
+"jsi ty..[/i]"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "halteres_5a838110"
@@ -15721,28 +15764,26 @@ msgid "Je ne sais pas si je dois être reconnaissant ou..."
 msgstr "Nevím, jestli mám být vděčná, nebo..."
 
 #: game/story/home_player_saito_room.dialogue
-#, fuzzy
 msgctxt "halteres_a53f6970"
 msgid "[i]Je savais que tu aurais besoin de ce type d'entrainement à un moment ou un autre.[/i]"
-msgstr "[Věděl jsem, že takový trénink budeš někdy potřebovat[/i]."
+msgstr "[i]Věděl jsem, že takový trénink budeš někdy potřebovat[/i]."
 
 #: game/story/home_player_saito_room.dialogue
 #, fuzzy
 msgctxt "halteres_23b78f7a"
 msgid "[i]J'ai tout préparé rien que pour toi, petit frère.[/i]"
-msgstr "[Všechno jsem připravil jen pro tebe, bratříčku."
+msgstr "[i]Všechno jsem připravil jen pro tebe, bratříčku."
 
 #: game/story/home_player_saito_room.dialogue
 #, fuzzy
 msgctxt "halteres_fd1c9a2e"
 msgid "[i]La seule façon de progresser, c'est de se dépasser constamment.[/i]"
-msgstr "[Jediný způsob, jak se posunout vpřed, je neustále si klást výzvy."
+msgstr "[i]Jediný způsob, jak se posunout vpřed, je neustále si klást výzvy."
 
 #: game/story/home_player_saito_room.dialogue
-#, fuzzy
 msgctxt "halteres_8b4685b7"
 msgid "[i]Mettre sa vie en jeu.[/i]"
-msgstr "[Vsadit svůj život v sázku[/i]."
+msgstr "[i]Vsadit svůj život v sázku[/i]."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "halteres_adb086e9"
@@ -15750,10 +15791,9 @@ msgid "Allez... c'est inspiré de quel animé cette fois-ci ?"
 msgstr "No tak... jakým anime je inspirován tentokrát?"
 
 #: game/story/home_player_saito_room.dialogue
-#, fuzzy
 msgctxt "halteres_55de9ed1"
 msgid "[i]La première chose à expérimenter, c'est la douleur.[/i]"
-msgstr "[První, co zažijete, je bolest[/i]."
+msgstr "[i]První, co zažijete, je bolest[/i]."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "halteres_575353fe"
@@ -15769,13 +15809,12 @@ msgstr "Aaaaahhhh ! Putainnnn !"
 #, fuzzy
 msgctxt "halteres_2aba6c9c"
 msgid "[i]Petit frère, ce que tu viens de sentir c'est une décharge électrique.[/i]"
-msgstr "[Bratříčku, to, co jsi právě pocítil, byl elektrický šok."
+msgstr "[i]Bratříčku, to, co jsi právě pocítil, byl elektrický šok."
 
 #: game/story/home_player_saito_room.dialogue
-#, fuzzy
 msgctxt "halteres_5037100d"
 msgid "[i]De la plus faible intensité.[/i]"
-msgstr "[Nejnižší intenzity[/i]."
+msgstr "[i]Nejnižší intenzity[/i]."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "halteres_6e05b588"
@@ -15801,7 +15840,7 @@ msgstr "[i]Nebo pokud zařízení odstraníte před dokončením...[/i]"
 #, fuzzy
 msgctxt "halteres_c4d1b0c1"
 msgid "[i]Tu te prendras à nouveau la décharge.[/i]"
-msgstr "[Znovu zažijete šok."
+msgstr "[i]Znovu zažijete šok."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "halteres_4f05de0c"
@@ -15822,7 +15861,7 @@ msgstr "Kurva..."
 #, fuzzy
 msgctxt "halteres_cf2b5177"
 msgid "[i]Et je viendrais personnellement te sodomiser avec les haltères.[/i]"
-msgstr "[A já osobně přijdu a udělám ti sodomii s činkami."
+msgstr "[i]A já osobně přijdu a udělám ti sodomii s činkami."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "halteres_edce6269"
@@ -15840,30 +15879,27 @@ msgid "[i]Go ![/i]"
 msgstr "[i]Jdi![/i]"
 
 #: game/story/home_player_saito_room.dialogue
-#, fuzzy
 msgctxt "halteres_fe385e16"
 msgid "[i]On commence doucement par 50 séries.[/i]"
-msgstr "[Začínáme pomalu s 50 sériemi[/i]."
+msgstr "[i]Začínáme pomalu s 50 sériemi[/i]."
 
 #: game/story/home_player_saito_room.dialogue
-#, fuzzy
 msgctxt "halteres_90f9dace"
 msgid "[i]Et voilà petit frère. L'entrainement est terminé pour aujourd'hui.[/i]"
-msgstr "[Tady máš, bratříčku. Trénink pro dnešek skončil[/i]."
+msgstr "[i]Tady máš, bratříčku. Trénink pro dnešek skončil[/i]."
 
 #: game/story/home_player_saito_room.dialogue
-#, fuzzy
 msgctxt "halteres_e62355ab"
 msgid "[i]Si tu ressens de la douleur dans les bras et les pecs, c'est que tu as bien travaillé.[/i]"
 msgstr ""
-"[Pokud cítíte bolest v pažích a prsních svalech, odvedli jste dobrou "
+"[i]Pokud cítíte bolest v pažích a prsních svalech, odvedli jste dobrou "
 "práci[/i]."
 
 #: game/story/home_player_saito_room.dialogue
 #, fuzzy
 msgctxt "halteres_64609877"
 msgid "[i]On recommence demain ![/i]"
-msgstr "[Zopakujeme si to zítra!"
+msgstr "[i]Zopakujeme si to zítra!"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "t36a9506a5f"
@@ -16356,16 +16392,14 @@ msgid "Assez parlez, si on passait à l'action ?"
 msgstr "Dost řečí, pojďme k věci?"
 
 #: game/story/home_player_saito_room.dialogue
-#, fuzzy
 msgctxt "home_player_room_f8179796"
 msgid "[i]Environ 2 heures plus tard...[/i]"
-msgstr "[O 2 hodiny později...[/i]..."
+msgstr "[i]O 2 hodiny později...[/i]..."
 
 #: game/story/home_player_saito_room.dialogue
-#, fuzzy
 msgctxt "home_player_room_f8179796_1"
 msgid "[i]Environ 2 heures plus tard...[/i]"
-msgstr "[Přibližně o 2 hodiny později...[/i]"
+msgstr "[i]Přibližně o 2 hodiny později...[/i]"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_5ff94d3a"
@@ -16483,10 +16517,9 @@ msgid "Hann, c'est pas juste, je sens encore l'orgasme venir..."
 msgstr "Hann, to není fér, pořád cítím, jak se blíží orgasmus..."
 
 #: game/story/home_player_saito_room.dialogue
-#, fuzzy
 msgctxt "home_player_room_0278b082"
 msgid "[i]Encore 1 heure plus tard...[/i]"
-msgstr "[O další hodinu později...[/i]."
+msgstr "[i]O další hodinu později...[/i]."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_7232deea"
@@ -16519,10 +16552,9 @@ msgid "...C'est étrange, mais j'ai pas la sensation d'avoir perdu quoi que ce s
 msgstr "...Je to zvláštní, ale nemám pocit, že bych něco ztratil."
 
 #: game/story/home_player_saito_room.dialogue
-#, fuzzy
 msgctxt "home_player_room_f854f4b7"
 msgid "[i]Quelques minutes après s'être rhabillés...[/i]"
-msgstr "[Několik minut po obléknutí...[/i]"
+msgstr "[i]Několik minut po obléknutí...[/i]"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_3d89d54f"
@@ -16603,7 +16635,7 @@ msgstr "Možná..."
 #, fuzzy
 msgctxt "home_player_room_9bd4eb96"
 msgid "[i]Après une nuit de folie, {{asami.n}} et {{saito.n}} se sont endormis complètement épuisés.[/i]"
-msgstr "[Po bláznivé noci {{asami.n}} a {{saito.n}} usnuli zcela vyčerpaní."
+msgstr "[i]Po bláznivé noci {{asami.n}} a {{saito.n}} usnuli zcela vyčerpaní."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_b5568f37"
@@ -17588,12 +17620,12 @@ msgstr "To se ještě uvidí!"
 #: game/story/home_asami_exterior.dialogue
 msgctxt "C_EST_CE_QU_ON_VERRA_DA9016"
 msgid "C'est ce qu'on verra !"
-msgstr ""
+msgstr "To se ještě uvidí!"
 
 #: game/story/home_minato_exterior.dialogue
 msgctxt "C_EST_CE_QU_ON_VERRA_18C64D"
 msgid "C'est ce qu'on verra !"
-msgstr ""
+msgstr "To se ještě uvidí!"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_f8756e44"
@@ -18548,7 +18580,7 @@ msgstr "{{minato.n}} !"
 #: game/story/home_minato_exterior.dialogue
 msgctxt "MINATO_N_DCDD04"
 msgid "{{minato.n}} !"
-msgstr ""
+msgstr "{{minato.n}} !"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_bd5aebf3"
@@ -19933,7 +19965,7 @@ msgstr "Et {{asami.n}} ?"
 #: game/story/warehouse_interior.dialogue
 msgctxt "ET_ASAMI_N_131268"
 msgid "Et {{asami.n}} ?"
-msgstr ""
+msgstr "Et {{asami.n}} ?"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_92143c6c"
@@ -20619,49 +20651,48 @@ msgstr "Sni dál, miláčku."
 #, fuzzy
 msgctxt "yasuka_wake_up_saito_91f28a95"
 msgid "[i]**Mhh, j'ai l'impression que ma mâchoire va se décrocher.**[/i]"
-msgstr "[Mám pocit, že mi upadne čelist."
+msgstr "[i]*Mám pocit, že mi upadne čelist."
 
 #: game/story/home_player_saito_room.dialogue
 #, fuzzy
 msgctxt "yasuka_wake_up_saito_9cd48d5c"
 msgid "[i]**Qui aurait pu imaginer qu'il serait si bien membré.**[/i]"
-msgstr "[Kdo by si byl pomyslel, že bude tak dobře stavěný?"
+msgstr "[i]Kdo by si byl pomyslel, že bude tak dobře stavěný?"
 
 #: game/story/home_player_saito_room.dialogue
 #, fuzzy
 msgctxt "yasuka_wake_up_saito_8bc14683"
 msgid "[i]**Je pourrais faire ça pendant des heures !**[/i]"
-msgstr "[Mohl bych to dělat celé hodiny!"
+msgstr "[i]Mohl bych to dělat celé hodiny!"
 
 #: game/story/home_player_saito_room.dialogue
-#, fuzzy
 msgctxt "yasuka_wake_up_saito_530eed26"
 msgid "[i]**Je suis certaine que je pourrais l'avaler encore plus...**[/i]"
-msgstr "[Jsem si jistý, že bych toho dokázal spolknout víc...**[/i]."
+msgstr "[i]Jsem si jistý, že bych toho dokázal spolknout víc...**[/i]."
 
 #: game/story/home_player_saito_room.dialogue
 #, fuzzy
 msgctxt "yasuka_wake_up_saito_1da99494"
 msgid "[i]**Il faut que j'essaye !**[/i]"
-msgstr "[Budu to muset zkusit!"
+msgstr "[i]Budu to muset zkusit!"
 
 #: game/story/home_player_saito_room.dialogue
 #, fuzzy
 msgctxt "yasuka_wake_up_saito_4c4b7967"
 msgid "[i]**Mhh, oui, un vrai régal !**[/i]"
-msgstr "[Je to opravdová lahůdka!"
+msgstr "[i]Je to opravdová lahůdka!"
 
 #: game/story/home_player_saito_room.dialogue
 #, fuzzy
 msgctxt "yasuka_wake_up_saito_26793075"
 msgid "[i]**Continue mon chéri, ta langue me donne beaucoup de plaisir.**[/i]"
-msgstr "[Pokračuj, miláčku, tvůj jazyk mi působí velké potěšení."
+msgstr "[i]Pokračuj, miláčku, tvůj jazyk mi působí velké potěšení."
 
 #: game/story/home_player_saito_room.dialogue
 #, fuzzy
 msgctxt "yasuka_wake_up_saito_a4968597"
 msgid "[i]**Oh mon Dieu, tout ça me rend tellement excitée.**[/i]"
-msgstr "[Panebože, to mě tak vzrušuje."
+msgstr "[i]Panebože, to mě tak vzrušuje."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "yasuka_wake_up_saito_ea456f3f"
@@ -20672,13 +20703,13 @@ msgstr "[i]**Chci víc!!**[/i]"
 #, fuzzy
 msgctxt "yasuka_wake_up_saito_54596397"
 msgid "[i]**Donne-moi ton jus.**[/i]"
-msgstr "[Dej mi svůj džus."
+msgstr "[i]Dej mi svůj džus."
 
 #: game/story/home_player_saito_room.dialogue
 #, fuzzy
 msgctxt "yasuka_wake_up_saito_abc89dbd"
 msgid "[i]**Je veux y gouter !**[/i]"
-msgstr "[Chci to ochutnat!"
+msgstr "[i]Chci to ochutnat!"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "yasuka_wake_up_saito_87c78aed"
@@ -21903,7 +21934,7 @@ msgstr "Jsem jedno ucho."
 #: game/story/warehouse_interior.dialogue
 msgctxt "JE_T_COUTE_3E4537"
 msgid "Je t'écoute."
-msgstr ""
+msgstr "Jsem jedno ucho."
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "kimochi_password_bd6835d6"
@@ -23513,117 +23544,117 @@ msgstr "Mohli bychom využít příležitosti a jít si zaběhat!"
 #: game/story/home_player_saito_room.dialogue
 msgctxt "BON_FAISONS_LE_POINT_BF26CA"
 msgid "... Bon, faisons le point."
-msgstr ""
+msgstr "... Pojďme si tedy udělat bilanci."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "LA_POLICE_LA_DESCENTE_CHEZ_MIN_E4465D"
 msgid "La police, la descente chez {{minato.n}}, les thugs, les affiches..."
-msgstr ""
+msgstr "Policie, razie na {{minato.n}}, zločinci, plakáty..."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "TOUT_A_N_A_RIEN_DONN_C3DF7F"
 msgid "Tout ça n'a rien donné."
-msgstr ""
+msgstr "Všechno vyšlo naprázdno."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "JE_REFUSE_DE_RESTER_L_ATTENDRE_20B6D0"
 msgid "Je refuse de rester là à attendre !"
-msgstr ""
+msgstr "Odmítám čekat a nečinně přihlížet!"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "IL_Y_A_BIEN_QUELQUE_CHOSE_QUE_9634B7"
 msgid "Il y a bien quelque chose que je dois pouvoir faire ?"
-msgstr ""
+msgstr "Musí být něco, co můžu udělat?"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "MERDE_D2F294"
 msgid "MERDE !"
-msgstr ""
+msgstr "Sakra!"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "IL_EST_TEMPS_D_ALLER_VOIR_MACU_DCA98B"
 msgid "Il est temps d'aller voir {{macumba.n}}."
-msgstr ""
+msgstr "Je čas podívat se na {{macumba.n}}."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "J_ESP_RE_QU_IL_AURA_EU_PLUS_DE_F8DAF6"
 msgid "J'espère qu'il aura eu plus de chance que moi."
-msgstr ""
+msgstr "Doufám, že měl větší štěstí než já."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "TU_ES_D_J_DE_RETOUR_24646A"
 msgid "Tu es déjà de retour ?"
-msgstr ""
+msgstr "Doufám, že měl větší štěstí než já?"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "POUR_RIEN_AU_MONDE_JE_NE_FERAI_49940B"
 msgid "Pour rien au monde je ne ferais attendre mon amour..."
-msgstr ""
+msgstr "Za nic na světě bych nenechal svou lásku čekat..."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "TU_L_AS_TROUV_31888C"
 msgid "Tu l'as trouvé ?"
-msgstr ""
+msgstr "Našli jste ji?"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "C_EST_TOI_LA_MEILLEURE_515B33"
 msgid "C'est toi la meilleure !"
-msgstr ""
+msgstr "Jste nejlepší!"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "ALLONS_Y_IL_EST_TEMPS_D_AVOIR_245CB5"
 msgid "Allons-y, il est temps d'avoir une petite discussion."
-msgstr ""
+msgstr "Pojďme, je čas si trochu popovídat."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "TU_SAIS_QUE_JE_POURRAIS_TE_REG_D05FEA"
 msgid "Tu sais que je pourrais te regarder dormir pendant des heures ?"
-msgstr ""
+msgstr "Víš, že bych se na tebe mohl dívat celé hodiny, jak spíš?"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "OH_TE_VOIL_D56BFA"
 msgid "Oh... te voilà !"
-msgstr ""
+msgstr "Aha... tady jsi!"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "COMMENT_A_S_EST_PASS_A539F3"
 msgid "Comment ça s'est passé ?"
-msgstr ""
+msgstr "Jak to šlo?"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "LA_NUIT_A_T_UN_PEU_LONGUE_MAIS_549570"
 msgid "La nuit a été un peu longue, mais c'est bon, il est prêt à parler."
-msgstr ""
+msgstr "Byla to dlouhá noc, ale teď už je připraven mluvit."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "W_TU_ES_INCROYABLE_B5F823"
 msgid "...[w] Tu es incroyable !"
-msgstr ""
+msgstr "...[w] Jsi úžasný!"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "NE_ME_DIS_PAS_A_MAINTENANT_JE_31DA21"
 msgid "... Ne me dis pas ça maintenant... je risquerais de ne plus me contenir."
-msgstr ""
+msgstr "... Teď to neříkej... asi bych se neudržel."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "ALLONS_Y_TOUT_DE_SUITE_04B98F"
 msgid "Allons-y tout de suite !"
-msgstr ""
+msgstr "Pusťme se do toho!"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "A_E_POURQUOI_J_AI_AUSSI_MAL_AU_762140"
 msgid "Aïe... Pourquoi j'ai aussi mal au crâne ?!"
-msgstr ""
+msgstr "Au... Proč mě tak bolí hlava?!"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "NETORU_N_L_ENFOIR_JE_DOIS_Y_R_FB775A"
 msgid "{{netoru.n}} ! L'enfoiré, je dois y retour–"
-msgstr ""
+msgstr "{{netoru.n}} ! Bastarde, musím se vrátit"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "MON_CH_RI_DAC9DA"
 msgid "Mon chéri..."
-msgstr ""
+msgstr "Můj drahý."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_2af0ec69"
@@ -23633,142 +23664,142 @@ msgstr "Můj drahý..."
 #: game/story/home_player_saito_room.dialogue
 msgctxt "YASUKA_N_MAIS_QU_EST_CE_QUE_T_C5A0CF"
 msgid "{{yasuka.n}} ? Mais qu'est-ce que tu fais là ?!"
-msgstr ""
+msgstr "{{yasuka.n}}? Co tady sakra děláš?!"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "J_AI_VEILL_SUR_TOI_AVEC_SAKUYA_E919B9"
 msgid "J'ai veillé sur toi avec {{sakuya.n}}, nous nous sommes relayées toute la nuit."
-msgstr ""
+msgstr "Celou noc jsme se o tebe s {{sakuya.n}} střídali."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "ELLE_M_A_TOUT_RACONT_E_36130C"
 msgid "Elle m'a tout racontée."
-msgstr ""
+msgstr "Všechno mi řekla."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "JE_SUIS_D_UE_POURQUOI_N_ES_TU_3B96EA"
 msgid "Je suis déçue, pourquoi n'es-tu pas venu discuter avec moi de tout ça ?!"
-msgstr ""
+msgstr "Jsem zklamaný, proč jsi se mnou nepřišel a neprobral to se mnou?!"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "JE_JE_NE_VOULAIS_PAS_DONNER_DE_243EBB"
 msgid "Je... je ne voulais pas donner de faux espoirs avant d'avoir la certitude que..."
-msgstr ""
+msgstr "Nechtěl jsem vzbuzovat falešné naděje, dokud si nebudu jistý, že..."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "SHHHT_C_EST_BON_NE_T_EN_FAIS_P_D1A6E8"
 msgid "Shhht, c'est bon, ne t'en fais pas. Je suis là maintenant."
-msgstr ""
+msgstr "Pšššt, to je v pořádku, nebojte se. Už jsem tady."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "ON_VA_R_GLER_CE_PROBL_ME_ENSEM_96C9B4"
 msgid "On va régler ce problème ensemble !"
-msgstr ""
+msgstr "Vyřešíme to společně!"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "MAMAN_F91C9E"
 msgid "MAMAN !!"
-msgstr ""
+msgstr "MAMINKA!!!"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "QUE_SE_PASSE_T_IL_MA_CH_RIE_3A9689"
 msgid "Que se passe-t-il, ma chérie ?"
-msgstr ""
+msgstr "Co se děje, miláčku?"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "LA_POLICE_EST_L_ILS_SONT_VENUS_882BFF"
 msgid "La police est là, ils sont venus chercher {{saito.n}} !"
-msgstr ""
+msgstr "Je tu policie, přišla si pro {{saito.n}}!"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "W_NE_BOUGEZ_PAS_DE_L_JE_VAIS_6A5176"
 msgid "...[w] Ne bougez pas de là ! Je vais régler ça !"
-msgstr ""
+msgstr "...[w] Nehýbej se! Já to vyřeším!"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "JE_SAIS_CE_QUE_TU_VAS_DIRE_JE_4F7C36"
 msgid "Je sais ce que tu vas dire... je n'aurais pas dû..."
-msgstr ""
+msgstr "Vím, co řekneš... Neměl jsem to dělat..."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "C_EST_PAS_LE_MOMENT_DE_DISCUTE_19F7E9"
 msgid "C'est pas le moment de discuter de ça !"
-msgstr ""
+msgstr "Teď není čas o tom diskutovat!"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "FONT_SIZE_14_VOUS_NE_POUVEZ_P_AF2E4D"
 msgid "[font_size=14]Vous ne pouvez pas entrer comme ça ![/font_size]"
-msgstr ""
+msgstr "[font_size=14]Nemůžeš jen tak vejít![/font_size]"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "FONT_SIZE_14_JE_REGRETTE_MAIS_BE3B95"
 msgid "[font_size=14]Je regrette, mais nous avons un mandat.[/font_size]"
-msgstr ""
+msgstr "[font_size=14]Je mi líto, ale máme mandát[/font_size]."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "FONT_SIZE_14_CARTEZ_VOUS_OU_J_D62075"
 msgid "[font_size=14]Écartez-vous ou je vous embarque pour obstruction ![/font_size]"
-msgstr ""
+msgstr "[font_size=14]Uhni z cesty, nebo tě seberu za překážku![/font_size]"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "GAMIN_C_EST_LE_MOMENT_DE_SE_TI_1414C5"
 msgid "Gamin ! C'est le moment de se tirer d'ici !"
-msgstr ""
+msgstr "Dítě! Je čas odsud vypadnout!"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "MAIS_QU_0022CC"
 msgid "Mais qu–"
-msgstr ""
+msgstr "Ale co"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "NE_POSE_PAS_DE_QUESTIONS_SI_TU_7B703F"
 msgid "Ne pose pas de questions ! Si tu restes ici, tu finiras ta vie en prison !"
-msgstr ""
+msgstr "Na nic se neptejte! Jestli tu zůstaneš, skončíš ve vězení!"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "ON_TROUVERA_UNE_SOLUTION_POUR_D11423"
 msgid "On trouvera une solution pour {{asami.n}}, mais pense aussi à toi..."
-msgstr ""
+msgstr "Najdeme řešení pro {{asami.n}}, ale myslete i na sebe..."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "ALLEZ_29E6F1"
 msgid "Allez !!"
-msgstr ""
+msgstr "Jdeme na to!"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "C_EST_BON_J_ARRIVE_FF9299"
 msgid "C'est bon, j'arrive !"
-msgstr ""
+msgstr "Dobře, už jdu!"
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_95971beb"
 msgid "C'est bon, j'arrive !"
-msgstr ""
+msgstr "Dobře, už jdu!"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "CETTE_FOIS_CI_JE_TE_T_530FC4"
 msgid "Cette fois-ci, je te t–"
-msgstr ""
+msgstr "Tentokrát budu"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "BON_SANG_O_EST_IL_BB2B46"
 msgid "Bon sang, où est-il ?"
-msgstr ""
+msgstr "Kde sakra je?"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "JE_NE_SAIS_PAS_ET_M_ME_SI_JE_L_5CE45A"
 msgid "Je ne sais pas... et même si je le savais, je ne vous dirais rien !"
-msgstr ""
+msgstr "Nevím... a i kdybych věděl, neřekl bych vám to!"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "FOUILLEZ_LES_ALENTOURS_IL_NE_D_BC0861"
 msgid "FOUILLEZ LES ALENTOURS, IL NE DOIT PAS ÊTRE LOIN !"
-msgstr ""
+msgstr "ROZHLÉDNĚTE SE KOLEM, NEMŮŽE BÝT DALEKO!"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "FONT_SIZE_14_ABRUTIS_FONT_SIZ_94FFB6"
 msgid "[font_size=14]Abrutis ![/font_size]"
-msgstr ""
+msgstr "[font_size=14]Blbost![/font_size]"
 
 #: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
 msgctxt "home_player_yasuka_room_b881d841"
@@ -23958,7 +23989,7 @@ msgstr "Děkuji..."
 #: game/story/konbini_interior.dialogue
 msgctxt "MERCI_138A8F"
 msgid "Merci..."
-msgstr ""
+msgstr "Děkuji..."
 
 #: game/story/love_hotel_reception.dialogue
 msgctxt "t0452dc68ff"
@@ -23993,7 +24024,7 @@ msgstr "Děkuji..."
 #: game/story/home_asami_sayuri_room.dialogue
 msgctxt "MERCI_6B3B58"
 msgid "Merci..."
-msgstr ""
+msgstr "Děkuji..."
 
 #: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
 msgctxt "talk_yasuka_7301a7a0"
@@ -28296,7 +28327,7 @@ msgstr "A tady to máte!"
 #: game/story/restaurant_exterior.dialogue
 msgctxt "ET_VOIL_BFEAEB"
 msgid "Et voilà !"
-msgstr ""
+msgstr "A tady to máte!"
 
 #: game/story/home_player_bathroom.dialogue
 msgctxt "home_player_bathroom_626857b3"
@@ -29239,10 +29270,9 @@ msgid "Elle ne devrait plus trop tarder..."
 msgstr "Nemělo by to trvat příliš dlouho..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_6ef3faa5"
 msgid "[i]Environ 3 heures plus tard...[/i]"
-msgstr "[O 3 hodiny později...[/i]..."
+msgstr "[i]O 3 hodiny později...[/i]..."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_fff74431"
@@ -31559,272 +31589,286 @@ msgstr "Ahoj {{saito.n}}!"
 #: game/story/home_player_livingroom.dialogue
 msgctxt "te2186388a4"
 msgid "Désolé mon chéri, on t'a réveillé ?"
-msgstr ""
+msgstr "Promiň, miláčku, vzbudili jsme tě?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "t102709a3a7"
 msgid "Non non, j'allais juste courir au parc."
-msgstr ""
+msgstr "Ne, ne, jen jsem si šel zaběhat do parku."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "t16525fde98"
 msgid "Toutefois je suis surpris que vous vous connaissiez ?"
-msgstr ""
+msgstr "Ale překvapuje mě, že se znáte?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "t4595aa5678"
 msgid "{{yasuka.n}} est une amie de longue date, on s'est un peu perdues de vue avec le temps, mais le fait que tu sois proche de ma fille a permis de nous rapprocher de nouveau."
 msgstr ""
+"{{yasuka.n}} je můj dlouholetý přítel, v průběhu let jsme trochu ztratili "
+"kontakt, ale skutečnost, že jsi blízký mé dceři, nás opět sblížila."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "t0f71f4bd02"
 msgid "Je suis content pour vous deux dans ce cas."
-msgstr ""
+msgstr "Mám z vás obou radost."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "t69685c5056"
 msgid "Je vous laisse continuer votre discussion, vous avez sûrement un millier de choses à vous raconter, ne faites pas attention à moi."
 msgstr ""
+"Nechám tě, ať si povídáš, máš asi tisíc věcí, o kterých bys chtěl mluvit, "
+"tak si mě nevšímej."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "td7fe5968d7"
 msgid "A plus tard."
-msgstr ""
+msgstr "Uvidíme se později."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "t72b23f76d7"
 msgid "Bon vous avez fini vos secrets tous les deux ?"
-msgstr ""
+msgstr "Tak co, už jste vy dva dokončili svá tajemství?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "t4c05b7754b"
 msgid "Je vois bien votre complicité."
-msgstr ""
+msgstr "Vidím vaši spoluvinu."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "t9a98a25721"
 msgid "[font_size=14]Invite la à sortir ![/font_size]"
-msgstr ""
+msgstr "[font_size=14]Pozvi ji na rande![/font_size]"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "tb073f11752"
 msgid "Je me disais... Vu que tu as du temps libre en ce moment..."
-msgstr ""
+msgstr "Přemýšlel jsem... Když máš teď trochu volného času..."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "t7f77fda481"
 msgid "Est-ce que ça te dirait que je t'emmène te changer les idées ?"
-msgstr ""
+msgstr "Chceš, abych tě pro změnu vzal ven?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "tb2566d66e2"
 msgid "Tu es adorable {{saito.n}} mais ne te force pas, qu'est-ce que tu irais faire avec une vieille bique comme moi ?"
 msgstr ""
+"Jsi rozkošná {{saito.n}}, ale nenuť se, co chceš dělat se starou babiznou, "
+"jako jsem já?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "ta3e3832288"
 msgid "On risquerait de me prendre pour ta mère."
-msgstr ""
+msgstr "Lidé by si mohli myslet, že jsem tvoje matka."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "t23009f53cf"
 msgid "Je n'y crois pas une seconde, au pire, on pourrait te prendre pour ma grande sœur !"
 msgstr ""
+"Ani na vteřinu tomu nevěřím, přinejhorším by si tě mohli splést s mou starší "
+"sestrou!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "t18f2d777f6"
 msgid "{{yasuka.n}} c'est toi qui as élevé ce séducteur dangereux ?!"
-msgstr ""
+msgstr "{{yasuka.n}} Vychoval jsi tohoto nebezpečného svůdníka?!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "t54c731a429"
 msgid "Il faut toujours que tu en fasses des tonnes."
-msgstr ""
+msgstr "Vždycky musíš dělat rozruch."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "tb8367f0ae9"
 msgid "Accepte donc la proposition !"
-msgstr ""
+msgstr "Přijměte tedy nabídku!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "tf9ace33443"
 msgid "Tu crois que je ne vois pas ce que tu es en train de faire ?"
-msgstr ""
+msgstr "Myslíš, že nechápu, co děláš?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "t7d69c77a24"
 msgid "Mais j'accepte !"
-msgstr ""
+msgstr "Ale já to přijímám!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "ta8cce4653c"
 msgid "Il y a certes un peu de {{yasuka.n}} dans cette idée mais j'aimerais aussi beaucoup apprendre à connaître la mère de ma meilleure amie."
 msgstr ""
+"Určitě je v tom trochu {{yasuka.n}}, ale také bych ráda poznala matku své "
+"nejlepší kamarádky."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "te72542ea60"
 msgid "Il y a certes un peu de {{yasuka.n}} dans cette idée mais j'aimerais aussi beaucoup apprendre à connaître ma future belle-mère qui sait..."
 msgstr ""
+"Určitě je v tom trochu {{yasuka.n}}, ale taky bych ráda poznala svou budoucí "
+"tchyni, kdo ví..."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "td0e143b5c8"
 msgid "Mon dieu mais quel gendre idéal tu fais !"
-msgstr ""
+msgstr "Bože, ty jsi ale ideální zeť!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "teb12b3f350"
 msgid "Tu m'as convaincue, passe me chercher demain en début d'après midi."
-msgstr ""
+msgstr "Přesvědčil jsi mě, vyzvedni mě zítra brzy odpoledne."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "t3de0ec8306"
 msgid "Ca marche !"
-msgstr ""
+msgstr "Ca marche!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "t36d9e66e3e"
 msgid "{{yasuka.n}} merci pour le thé et la discussion, je dois me... préparer."
-msgstr ""
+msgstr "{{yasuka.n}} Díky za čaj a povídání, musím se... připravit."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "t268f9d5113"
 msgid "Oui je vois ce que tu veux dire, à bientôt !"
-msgstr ""
+msgstr "Ano, vím, co myslíš, brzy se uvidíme!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "te128fc9855"
 msgid "Merci pour tout !"
-msgstr ""
+msgstr "Děkujeme za všechno!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "t8d09dad7fd"
 msgid "Merci mon chéri, je suis désolé de t'imposer cette situation."
-msgstr ""
+msgstr "Děkuji ti, miláčku, je mi líto, že jsem tě dostala do této situace."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "tfd42b6cec5"
 msgid "Tu ne m'imposes rien."
-msgstr ""
+msgstr "Nic mi nevnucuješ."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "tc5fdcabf4d"
 msgid "Ce n'est pas comme si j'avais mieux à faire en ce moment."
-msgstr ""
+msgstr "Nemám teď nic lepšího na práci."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "t5febb6b6fb"
 msgid "Et puis, comme je l'ai dit, c'est l'occasion de mieux connaitre {{sayuri.n}}."
-msgstr ""
+msgstr "A jak jsem řekl, je to příležitost lépe poznat {{sayuri.n}}."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "t2d57151eea"
 msgid "Tu as une idée de l'endroit où tu pourrais l'emmener ?"
-msgstr ""
+msgstr "Nevíte, kam byste ji mohl vzít?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "t38f342a204"
 msgid "Je ne sais pas encore... Je vais y réfléchir."
-msgstr ""
+msgstr "Ještě nevím... Budu o tom přemýšlet."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "tfd9481d405"
 msgid "Des suggestions ?"
-msgstr ""
+msgstr "Des návrhy ?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "t39103a58a1"
 msgid "Aucune j'en ai bien peur, ça fait bien trop longtemps."
-msgstr ""
+msgstr "Obávám se, že už příliš dlouho ne."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "t4212b86433"
 msgid "Les seuls souvenirs que j'ai d'elle remontent à loin."
-msgstr ""
+msgstr "Jediné vzpomínky, které na ni mám, sahají daleko do minulosti."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "tc3220dc13e"
 msgid "Et à cette époque {{sayuri.n}} était assez folle."
-msgstr ""
+msgstr "A v té době byl {{sayuri.n}} dost šílený."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "tb0cd9384a7"
 msgid "Bon et bien je vais me creuser les méninges pour trouver quelque chose avant demain."
-msgstr ""
+msgstr "No, budu si lámat hlavu, abych do zítřka něco vymyslel."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "IL_N_EST_TOUJOURS_PAS_RENTR_17BD7C"
 msgid "Il n'est toujours pas rentré ?"
-msgstr ""
+msgstr "Ještě se nevrátil?"
 
 #: game/story/home_player_hallway.dialogue
 msgctxt "tf3c2e16ca6"
 msgid "Il n'est toujours pas rentré ?"
-msgstr ""
+msgstr "Ještě se nevrátil?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "JE_COMMENCE_VRAIMENT_M_INQUI_T_C8112E"
 msgid "Je commence vraiment à m'inquiéter pour lui..."
-msgstr ""
+msgstr "Začínám se o něj bát..."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "J_AI_PEUR_QU_IL_NE_FASSE_QUELQ_DEBD0D"
 msgid "J'ai peur qu'il ne fasse quelque chose qu'il puisse regretter."
-msgstr ""
+msgstr "Bojím se, že udělá něco, čeho bude litovat."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "JE_JE_NE_SAIS_PAS_E2AD23"
 msgid "Je... je ne sais pas."
-msgstr ""
+msgstr "Já... já nevím."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "MA_CH_RIE_SI_TOI_AUSSI_TU_AS_B_9EB841"
 msgid "Ma chérie... Si toi aussi tu as besoin d'en discuter, n'oublie pas que je serai toujours là pour toi, d'accord ?"
 msgstr ""
+"Můj drahý... Pokud si o tom budeš chtít promluvit, nezapomeň, že tu pro tebe "
+"vždycky budu, ano?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "OUI_MERCI_MAMAN_A663E7"
 msgid "Oui, merci maman."
-msgstr ""
+msgstr "Oui, merci maman."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "OH_J_ENTENDS_DU_BRUIT_5E04A3"
 msgid "Oh, j'entends du bruit !"
-msgstr ""
+msgstr "Slyším zvuky!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "OH_VOUS_TES_TOUTES_L_726528"
 msgid "Oh, vous êtes toutes là ?!"
-msgstr ""
+msgstr "Jste tu všichni?!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "MON_CH_RI_TOUT_VA_BIEN_C31FF5"
 msgid "Mon chéri, tout va bien ?"
-msgstr ""
+msgstr "Miláčku, jsi v pořádku?"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "home_player_exterior_fdb4f0c6"
 msgid "Mon chéri, tout va bien ?"
-msgstr ""
+msgstr "Miláčku, jsi v pořádku?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "LA_JOURN_E_A_T_FATIGANTE_64BF6D"
 msgid "La journée a été... fatigante..."
-msgstr ""
+msgstr "Byl to... únavný den..."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "J_AI_JUSTE_BESOIN_DE_REPOS_1192FB"
 msgid "J'ai juste besoin de repos."
-msgstr ""
+msgstr "Potřebuji si jen odpočinout."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "JE_SUIS_L_SI_TU_V_C8AF83"
 msgid "Je suis là si tu v-"
-msgstr ""
+msgstr "Jsem tu, kdybyste"
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_c22fe00a"
 msgid "Bonjour {{saito}}, tu as besoin de quelque chose ?"
-msgstr ""
+msgstr "Ahoj {{saito}}, potřebuješ něco?"
 
 #: game/story/konbini_interior.dialogue
 msgctxt "t0f72f1767e"
@@ -31839,97 +31883,100 @@ msgstr "Diskutujte."
 #: game/story/konbini_interior.dialogue
 msgctxt "t82299edec1"
 msgid "À propos de {{noriko.n}}."
-msgstr ""
+msgstr "Ohledně {{noriko.n}}."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "tcfcca545f9"
 msgid "Avez-vous vu {{noriko.n}} ?"
-msgstr ""
+msgstr "Viděli jste {{noriko.n}}?"
 
 #: game/story/konbini_interior.dialogue
 msgctxt "t5c2e5269ef"
 msgid "Mauvaises fréquentations."
-msgstr ""
+msgstr "Špatná společnost."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "t6b428057ee"
 msgid "[color=yellow]Argent volé.[/color]"
-msgstr ""
+msgstr "[Ukradené peníze[/color]."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_02574cc8"
 msgid "Bonjour {{saito.n}}, comment vas-tu ?"
-msgstr ""
+msgstr "Ahoj {{saito.n}}, jak se máš?"
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_bc3b3424"
 msgid "Tu t'es déjà décidé de venir me voir ?"
-msgstr ""
+msgstr "Už jste se rozhodl, že mě navštívíte?"
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_63833cf3"
 msgid "Oui, je n'avais pas fait attention que vous étiez la propriétaire de ce konbini auparavant."
-msgstr ""
+msgstr "Ano, předtím jsem si neuvědomil, že jste majitelem tohoto konbini."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_ef8cb63e"
 msgid "C'est normal, avant je ne m'occupais pas des rayons ou de la caisse. Mais dernièrement la personne qui s'en occupait a démissionné donc je me retrouve seule."
 msgstr ""
+"Je to normální, předtím jsem neměl na starosti regály ani pokladnu. Ale "
+"nedávno člověk, který to dělal, odstoupil, takže jsem na to sám."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_2fe60759"
 msgid "Ce n'est pas trop dur de devoir tout gérer par vous-même ?"
-msgstr ""
+msgstr "Není to příliš těžké, když musíte všechno zvládat sami?"
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_52c8fa8b"
 msgid "Tu t'inquiètes pour ta future belle-mère c'est ça ?"
-msgstr ""
+msgstr "Bojíš se o svou budoucí tchyni, že?"
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_e9c2a660"
 msgid "Euh... C'est... c'est un peu précipiter les choses vous ne croyez pas ?"
-msgstr ""
+msgstr "Ehm... To je... to je trochu ukvapené, nemyslíte?"
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_18c7a570"
 msgid "Haha... Je plaisantais, mais je voulais voir ta réaction."
-msgstr ""
+msgstr "Haha... Jen jsem si dělal legraci, ale chtěl jsem vidět vaši reakci."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_0569eec8"
 msgid "Ahh je me disais aussi."
-msgstr ""
+msgstr "Ahh, to jsem si myslel taky."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_99374d88"
 msgid "Je peux faire quelque chose pour toi ?"
-msgstr ""
+msgstr "Mohu pro vás něco udělat?"
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_7a7195af"
 msgid "À vrai dire, vous le pouvez oui..."
-msgstr ""
+msgstr "Ve skutečnosti můžete..."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_64b40920"
 msgid "Dis-moi tout."
-msgstr ""
+msgstr "Řekni mi všechno."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_32ab0bcf"
 msgid "Après quelques minutes d'explications..."
-msgstr ""
+msgstr "Po několika minutách vysvětlování..."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_663fcd80"
 msgid "Malheureusement, je ne peux pas t'en dire davantage mais tu sais quoi ? Je demanderai à mon ancien collaborateur."
 msgstr ""
+"Bohužel vám nemohu říct víc, ale víte co? Zeptám se svého bývalého kolegy."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_90514ef1"
 msgid "Si j'apprends quelque chose d'intéressant je te le dirais."
-msgstr ""
+msgstr "Pokud se dozvím něco zajímavého, dám vám vědět."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_afa36740"
@@ -31944,72 +31991,76 @@ msgstr "Moc vám děkuji."
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_6908d2b6"
 msgid "Aucun problème et dis-moi juste une chose..."
-msgstr ""
+msgstr "Žádný problém a řekni mi jednu věc..."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "t9dca5fcee6"
 msgid "J'ai appris que toi et {{asami.n}} étiez seulement amis..."
-msgstr ""
+msgstr "Slyšela jsem, že ty a {{asami.n}} jste jen přátelé..."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "tc7f0a37830"
 msgid "Je suis surprise que tu aies réussi à résister à ses charmes."
-msgstr ""
+msgstr "Překvapuje mě, že jsi dokázala odolat jeho kouzlu."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "t8c2b2c547f"
 msgid "Du coup... Je me demandais... Y a-t-il une autre fille ?"
-msgstr ""
+msgstr "Takže... Zajímalo by mě... Je tu ještě jedna dívka?"
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_2805e8a7"
 msgid "Je sais que vous sortez déjà ensemble."
-msgstr ""
+msgstr "Vím, že už spolu chodíte."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_3f62267a"
 msgid "Mais qu'est-ce qui t'a fait définitivement craquer chez elle ?"
-msgstr ""
+msgstr "Ale proč jste se do ní tak silně zamiloval?"
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_2329d961"
 msgid "C'est tout moi quand j'étais jeune."
-msgstr ""
+msgstr "To jsem byl já, když jsem byl mladý."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_2d6975f1"
 msgid "Heureusement ça passe avec le temps."
-msgstr ""
+msgstr "Naštěstí to časem přejde."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_604ab035"
 msgid "Ça me dérange pas."
-msgstr ""
+msgstr "Nevadí mi to."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_1c9d2b50"
 msgid "C'est ça qui fait son charme."
-msgstr ""
+msgstr "Právě to mu dodává kouzlo."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_c8ab143a"
 msgid "Elle est vraiment bien tombée avec toi alors..."
-msgstr ""
+msgstr "Opravdu se do tebe zamilovala, takže..."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_2e8b5543"
 msgid "Maman arrête avec ça, j'ai pas envie de changer."
-msgstr ""
+msgstr "Mami, přestaň, nechci se měnit."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_641dd2f6"
 msgid "De plus {{saito.n}} m'aime pour ce que je suis donc tu devrais plutôt être contente."
 msgstr ""
+"Kromě toho mě má {{saito.n}} rád takového, jaký jsem, takže bys měl být "
+"docela spokojený."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_d7d63da9"
 msgid "Ma puce, je suis contente pour toi c'est juste... que ton manteau ressemble plus à un gros sac poubelle."
 msgstr ""
+"Zlatíčko, mám z tebe radost, jen... tvůj kabát vypadá spíš jako velký pytel "
+"na odpadky."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_a85290bb"
@@ -32019,417 +32070,430 @@ msgstr "MÁMA!!!"
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_dd6c2daa"
 msgid "On va vous laisser je crois..."
-msgstr ""
+msgstr "Myslím, že to necháme na vás..."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "te25262aa89"
 msgid "Son côté garçon manqué."
-msgstr ""
+msgstr "Jeho chlapecká stránka."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_1250478e"
 msgid "J'avoue que je suis aussi surprise que toi."
-msgstr ""
+msgstr "Musím přiznat, že mě to překvapilo stejně jako vás."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_64302154"
 msgid "Je ne pensais pas qu'elle changerait aussi vite."
-msgstr ""
+msgstr "Nemyslel jsem si, že se to změní tak rychle."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_4b6f0ff3"
 msgid "Rien de tel qu'un chagrin d'amour pour se remettre en question."
-msgstr ""
+msgstr "Nic vás nepřinutí pochybovat o sobě samých tak jako zlomené srdce."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_ee520f13"
 msgid "MAMAN !!! Qu'est-ce que tu racontes à {{saito.n}} dans mon dos ?!"
-msgstr ""
+msgstr "MATKO!!! Co to říká{{saito.n}} za mými zády?!"
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_34417166"
 msgid "Rien ma puce, on discutait juste un peu de toi."
-msgstr ""
+msgstr "Nic, miláčku, jen jsme si o tobě trochu povídali."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_a57f63eb"
 msgid "Oui, eh bien ne le faites pas ! Je ne suis pas une attraction !"
-msgstr ""
+msgstr "Ano, ale ne! Nejsem žádná vedlejší show!"
 
 #: game/story/konbini_interior.dialogue
 msgctxt "tea2543a909"
 msgid "Sa détermination."
-msgstr ""
+msgstr "Jeho odhodlání."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "ta80ea91415"
 msgid "Il y a bien une personne à qui je tiens beaucoup."
-msgstr ""
+msgstr "Na jedné osobě mi opravdu záleží."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "td4ee42c9b5"
 msgid "Vraiment ? J'en connais une qui a de la chance."
-msgstr ""
+msgstr "Je to tak? Znám jednu šťastnou dívku."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "tc6032fcbc0"
 msgid "Tu l'as déjà rencontrée ma puce ?"
-msgstr ""
+msgstr "Už ses s ní setkal, zlato?"
 
 #: game/story/konbini_interior.dialogue
 msgctxt "t7ad8e7a741"
 msgid "[font_size=10]Oui... et puis y'en a pas qu'une...[/font_size]"
-msgstr ""
+msgstr "[font_size=10]Ano... a není jen jeden...[/font_size]"
 
 #: game/story/konbini_interior.dialogue
 msgctxt "t94679766e1"
 msgid "Oh ma petite chérie est jalouse !"
-msgstr ""
+msgstr "Můj miláček žárlí!"
 
 #: game/story/konbini_interior.dialogue
 msgctxt "t9fb87cd5ce"
 msgid "MAMAN !! ARRÊTE !"
-msgstr "MÁMA!! ZASTÁVKA!"
+msgstr "MÁMI!! ZASTÁVKA!"
 
 #: game/story/konbini_interior.dialogue
 msgctxt "t8117094e13"
 msgid "Tu es trop mignonne !"
-msgstr ""
+msgstr "Jsi tak roztomilý!"
 
 #: game/story/konbini_interior.dialogue
 msgctxt "ta3a8d45b15"
 msgid "Tu ne trouves pas {{saito.n}} ?"
-msgstr ""
+msgstr "Nemůžete najít {{saito.n}}?"
 
 #: game/story/konbini_interior.dialogue
 msgctxt "teac8ff8e31"
 msgid "Je crois que je vais vous laisser discuter de ça entre vous deux."
-msgstr ""
+msgstr "Myslím, že to nechám na vás dvou."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "t4b18a33577"
 msgid "Oui... Il y a bien quelqu'un."
-msgstr ""
+msgstr "Ano... Někdo tu je."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_df99a1f8"
 msgid "Oh-ho voyez-vous ça ?!"
-msgstr ""
+msgstr "Vidíte to?!"
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_8d89a396"
 msgid "Tu sembles avoir confiance en toi."
-msgstr ""
+msgstr "Zdá se, že si věříte."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_58f48c02"
 msgid "Mais que pourrait bien m'apporter un jeune homme comme toi ?"
-msgstr ""
+msgstr "Ale co by mi mohl přinést mladý muž jako ty?"
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_0365d33f"
 msgid "Je suppose que nous ne le saurons jamais..."
-msgstr ""
+msgstr "To se asi nikdy nedozvíme..."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_d62ae330"
 msgid "Tu sais que si j'avais eu probablement 10 ans de moins je t'aurais dévoré ?"
-msgstr ""
+msgstr "Víš, že kdybych byl o deset let mladší, asi bych tě snědl?"
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_2e1d93cb"
 msgid "Quoi ! Sérieusement ?"
-msgstr ""
+msgstr "Co se děje? To myslíš vážně?"
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_669a16f5"
 msgid "Je suppose que nous ne le saurons jamais !"
-msgstr ""
+msgstr "To se asi nikdy nedozvíme!"
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_d6fd98ff"
 msgid "Dites... Vous voulez un coup de main tous les deux ?"
-msgstr ""
+msgstr "Řekněme... Chtěli byste pomoct?"
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_b641c373"
 msgid "Oh ma chérie ! Je taquinais juste {{saito.n}}."
-msgstr ""
+msgstr "Můj drahý! Jen jsem si dělal legraci z {{saito.n}}."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_71cedfb5"
 msgid "Je sais... mais ça me fait bizarre d'entendre ma propre mère dire ce genre de choses à mon petit ami."
 msgstr ""
+"Já vím... ale je divné slyšet vlastní mámu říkat takové věci mému příteli."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_2db8a73e"
 msgid "Haha c'est pour ça que tu dois faire de ton mieux sinon peut-être que je garderais pour moi ?"
-msgstr ""
+msgstr "Haha, proto se musíš snažit, jinak bych si to možná nechala pro sebe?"
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_b25989d3"
 msgid "Maman !!! Arrête avec ça !"
-msgstr ""
+msgstr "Mami!!! Přestaň!"
 
 #: game/story/konbini_interior.dialogue
 msgctxt "t93661763a1"
 msgid "Elle n'était qu'un prétexte pour me rapprocher de vous."
-msgstr ""
+msgstr "Byla to jen záminka, jak se k tobě dostat blíž."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_9e5b7299"
 msgid "À bientôt {{sayuri.n}}."
-msgstr ""
+msgstr "Uvidíme se brzy {{sayuri.n}}."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_a9226adb"
 msgid "Non, c'est madame pour elle !"
-msgstr ""
+msgstr "Ne, pro ni je to Madame!"
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_5d548632"
 msgid "Oh toi, tu ne perds rien pour attendre !"
-msgstr ""
+msgstr "Ty, ty nemáš co ztratit!"
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_b5073a39"
 msgid "Bonjour {{saito.n}}, tu es bien matinal."
-msgstr ""
+msgstr "Dobré ráno {{saito.n}}, vstáváš brzy ráno."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_e300b9a4"
 msgid "Ça ferait une bonne surprise à ma fille si c'était toi qui allais la réveiller."
-msgstr ""
+msgstr "Pro mou dceru by bylo milým překvapením, kdybys ji vzbudil ty."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_1a4ac489"
 msgid "Sûrement mais... je ne suis pas venu pour ça, auriez-vous vue {{noriko.n}} passer ce matin ?"
 msgstr ""
+"Pravděpodobně, ale... kvůli tomu tu nejsem. Neviděl jsi dnes ráno procházet "
+"{{noriko.n}}?"
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_3ed7c8a3"
 msgid "Oh oui ! Ce matin elle se dirigeait vers l'ancienne gare désaffectée."
-msgstr ""
+msgstr "Ach ano! Dnes ráno mířila ke starému nepoužívanému nádraží."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_3ba6c0a7"
 msgid "D'ailleurs à ce sujet, j'ai eu des nouvelles de mon ancien collaborateur."
-msgstr ""
+msgstr "Mimochodem, ozval se mi můj bývalý kolega."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_3664dd15"
 msgid "Quand je lui ai posé la question, il a tout de suite reconnu de qui je parlais."
-msgstr ""
+msgstr "Když jsem se ho zeptal, okamžitě poznal, o kom mluvím."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_3c87d730"
 msgid "Vraiment ? A-t-il vu quelque chose qui sort de l'ordinaire ?"
-msgstr ""
+msgstr "Je to tak? Viděl něco neobvyklého?"
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_d77694a2"
 msgid "... À vrai dire, il y a bien quelque chose."
-msgstr ""
+msgstr "... Po pravdě řečeno, něco na tom je."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_d5702a65"
 msgid "Elle semble traîner assez régulièrement avec 3 hommes un peu grossiers qui traînent souvent dans le coin."
 msgstr ""
+"Zdá se, že se pravidelně stýká se třemi poměrně hrubými muži, kteří se často "
+"potloukají kolem."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_32742a34"
 msgid "Trois hommes vous dites..."
-msgstr ""
+msgstr "Říkáte tři muži..."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_f255feac"
 msgid "Malheureusement, il n'a pas pu m'en dire davantage."
-msgstr ""
+msgstr "Bohužel mi nemohl říct víc."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_30026855"
 msgid "Je comprends... Merci pour votre... ton aide."
-msgstr ""
+msgstr "Rozumím... Děkuji vám za vaši... pomoc."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_bc298068"
 msgid "Fais attention à elle {{saito.n}}. Ils ne m'inspirent pas confiance."
-msgstr ""
+msgstr "Postarejte se o ni {{saito.n}}. Nevěřím jim."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_9ad1c2bf"
 msgid "Moi non plus, je vais m'en occuper."
-msgstr ""
+msgstr "Ani já to neudělám."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_4b1649a0"
 msgid "Bonsoir {{saito.n}}, tu as besoin de quelque chose ?"
-msgstr ""
+msgstr "Dobrý večer {{saito.n}}, potřebujete něco?"
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_96d2cfce"
 msgid "Bonsoir {{sayuri.n}}, j'étais simplement venu prendre de quoi manger avant de rentrer chez moi."
 msgstr ""
+"Dobrý večer {{sayuri.n}}, přišel jsem si jen pro něco k jídlu, než půjdu "
+"domů."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_14c850b2"
 msgid "Laisse-moi te l'offrir dans ce cas..."
-msgstr ""
+msgstr "Dovolte mi tedy, abych vám to řekl..."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_f60c5a3b"
 msgid "Ce n'est pas nécessaire vous savez, j'ai de quoi p-"
-msgstr ""
+msgstr "Není to nutné, víš, mám dost p-"
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_2bdd416f"
 msgid "Arrête un peu... Laisse-moi te remercier à ma façon de prendre soin de ma fille."
 msgstr ""
+"Dejte mi pokoj... Dovolte mi, abych vám svým způsobem poděkoval za péči o "
+"mou dceru."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_b43c820e"
 msgid "Très bien j'accepte alors."
-msgstr ""
+msgstr "Dobrá tedy, přijímám."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_a4c6c66f"
 msgid "Ce serait dommage de refuser un cadeau de ma future belle-mère c'est ça ?"
-msgstr ""
+msgstr "Byla by škoda odmítnout dárek od mé budoucí tchyně, že?"
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_2846bc20"
 msgid "Oh mais c'est que tu comprends vite !"
-msgstr ""
+msgstr "Jak rychle se chytáš!"
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_b9ab7872"
 msgid "Bonsoir madame..."
-msgstr ""
+msgstr "Dobrý večer, paní..."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_de757a92"
 msgid "{{sayuri.SPELLOUT}} !"
-msgstr ""
+msgstr "{{sayuri.SPELLOUT}} !"
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_89467128"
 msgid "Désolée, je n'ai pas vraiment l'habitude..."
-msgstr ""
+msgstr "Omlouvám se, ale nejsem na to zvyklý..."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_624bd72c"
 msgid "[font_size=34]{{saito.n}} le déchet ! Je sais que t'es là, sors d'ici ou c'est moi qui viens te chercher.[/font_size]"
 msgstr ""
+"[font_size=34]{{saito.n}} odpad! Vím, že tam jsi, vypadni, nebo si pro tebe "
+"přijdu[/font_size]."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_3960521c"
 msgid "Bon sang encore un de ces foutus idiots."
-msgstr ""
+msgstr "Sakra, další z těch zatracených idiotů."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_22e372c0"
 msgid "Reste là {{saito.n}}, je vais passer un coup de téléphone à la police de quartier et ils interviendront rapidement."
-msgstr ""
+msgstr "Zůstaň tady {{saito.n}}, zavolám místní policii a ta se rychle zapojí."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_efd1ea6e"
 msgid "Non...[w] Je m'en charge."
-msgstr ""
+msgstr "Ne... [w] Postarám se o to."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_f58b1eb6"
 msgid "Tu vas te faire refaire le portrait..."
-msgstr ""
+msgstr "Chystáte se nechat si udělat portrét..."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_0b281b81"
 msgid "Ça te plairait de voir ça hein..."
-msgstr ""
+msgstr "To byste chtěli vidět, že."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_a1e2b777"
 msgid "Quoi ?! Non ! Je..."
-msgstr ""
+msgstr "Quoi?! Ne! Je..."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_0327ff32"
 msgid "S'il te plaît {{saito.n}}, sois prudent et ne fais rien d'inconsidéré."
-msgstr ""
+msgstr "Prosím, {{saito.n}}, buďte opatrní a nedělejte nic zbrklého."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_3149c73a"
 msgid "Il faudra qu'on discute toi et moi {{noriko.n}} après tout ça."
-msgstr ""
+msgstr "My dva {{noriko.n}} si po tom všem budeme muset promluvit."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_aeaa5445"
 msgid "Et qu'est ce que tu comptes faire exactement ? Tu vas te mettre en colère ?"
-msgstr ""
+msgstr "A co přesně plánujete dělat? Budete se zlobit?"
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_a994ce0f"
 msgid "C'est ça le truc {{noriko.n}}, je suis toujours en colère."
-msgstr ""
+msgstr "To je to {{noriko.n}}, pořád jsem naštvaná."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_7b58153d"
 msgid "J'espère que tout ira bien pour lui..."
-msgstr ""
+msgstr "Doufám, že pro něj vše dopadne dobře..."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "konbini_interior_61aa192b"
 msgid "... eh bien il semble que tu as de la chance."
-msgstr ""
+msgstr "... zdá se, že máte štěstí."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "konbini_interior_3c5f45b1"
 msgid "Oui ![w] Ça me fait énormément plaisir, ça faisait longtemps qu'on n'avait pas discuté toutes les deux comme ça."
-msgstr ""
+msgstr "Ano! [w] Jsem opravdu rád, už dlouho jsme si takhle nepopovídali."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "konbini_interior_451d468e"
 msgid "Je ne savais même pas qu'{{asami.n}} était ta fille !"
-msgstr ""
+msgstr "Ani jsem nevěděl, že {{asami.n}} je tvoje dcera!"
 
 #: game/story/konbini_interior.dialogue
 msgctxt "konbini_interior_47801297"
 msgid "Mais maintenant je me rends compte à quel point j'ai été aveugle."
-msgstr ""
+msgstr "Teď si ale uvědomuji, jak slepý jsem byl."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "konbini_interior_469b1be1"
 msgid "C'est ton portrait craché."
-msgstr ""
+msgstr "Je to tvůj dokonalý obraz."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "konbini_interior_c61c9f1b"
 msgid "Les chiens ne font pas des chats comme on dit."
-msgstr ""
+msgstr "Psi nedělají kočky, jak se říká."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "konbini_interior_b7613b0a"
 msgid "{{saito.n}} a vraiment eu une bonne influence sur elle aussi."
-msgstr ""
+msgstr "{{saito.n}} měl na ni také velmi dobrý vliv."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "konbini_interior_94fa3189"
 msgid "Il n'y a pas si longtemps elle me rendait folle."
-msgstr ""
+msgstr "Ještě nedávno mě přiváděla k šílenství."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "konbini_interior_e7c09753"
 msgid "Ne m'en parle pas, j'avais le même problème avec {{noriko.n}}."
-msgstr ""
+msgstr "Nepřipomínejte mi to, stejný problém jsem měl s {{noriko.n}}."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "konbini_interior_70e002d0"
 msgid "D'ailleurs il ne faut pas que je tarde, ils doivent m'attendre, on va fêter ça ensemble !"
 msgstr ""
+"Kromě toho nechci přijít pozdě, nejspíš na mě čekají, takže to oslavíme "
+"společně!"
 
 #: game/story/konbini_interior.dialogue
 msgctxt "konbini_interior_0c84bddc"
 msgid "Il faudra que vous veniez tous à l'occasion, qu'on puisse tous passer une soirée ensemble."
-msgstr ""
+msgstr "Musíte se někdy přidat, abychom mohli všichni strávit večer společně."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "konbini_interior_e64da86f"
@@ -32449,37 +32513,39 @@ msgstr "Rádi bychom!"
 #: game/story/home_minato_exterior.dialogue
 msgctxt "AVEC_PLAISIR_BA1360"
 msgid "Avec plaisir !"
-msgstr ""
+msgstr "Rádi bychom!"
 
 #: game/story/konbini_interior.dialogue
 msgctxt "konbini_interior_b348bebc"
 msgid "Allez bon courage et à bientôt !"
-msgstr ""
+msgstr "Hodně štěstí a brzy na viděnou!"
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_2fbe45d8"
 msgid "C'est bon ! J'ai récupéré ce qu'il vous devait !"
-msgstr ""
+msgstr "Je to tak dobré! Vybral jsem, co ti dlužil!"
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_15805226"
 msgid "Oh {{saito.n}}, merci mais il ne fallait pas te mettre en danger pour une somme pareille tu sais..."
 msgstr ""
+"Oh {{saito.n}}, děkuji, ale neměl by ses vystavovat nebezpečí za takovou "
+"částku, víš..."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_7725fc23"
 msgid "Qu'est-ce que j'aurais dit à ma fille si à cause de moi il t'était arrivé quelque chose ?"
-msgstr ""
+msgstr "Co bych řekl své dceři, kdyby se ti kvůli mně něco stalo?"
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_7dbeb66f"
 msgid "Tout s'est bien passé je vous assure !"
-msgstr ""
+msgstr "Mohu vás ujistit, že vše proběhlo v pořádku!"
 
 #: game/story/konbini_interior.dialogue
 msgctxt "te23e1b8d53"
 msgid "Vous avez donné l'argent à {{sayuri.n}}"
-msgstr ""
+msgstr "Dal jsi peníze {{sayuri.n}}"
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_b8094ed7"
@@ -32494,222 +32560,227 @@ msgstr "Jednu vteřinu..."
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_9fc376dc"
 msgid "Il y a bien plus que prévu."
-msgstr ""
+msgstr "Je jich mnohem více, než se očekávalo."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_9ca535b5"
 msgid "Gardez-le, ce n'est sûrement pas la première fois qu'il vous fait ce coup-là."
-msgstr ""
+msgstr "Nechte si to, určitě to není poprvé, co vám to udělala."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_db36a0ac"
 msgid "Non, en effet."
-msgstr ""
+msgstr "Ne, není."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_012d38c6"
 msgid "...[w] Tu es un amour !"
-msgstr ""
+msgstr "...[w] Jsi láska!"
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_b4e27a3c"
 msgid "Je vous en prie, c'était normal."
-msgstr ""
+msgstr "Prosím, bylo to normální."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_44ce225c"
 msgid "Au fait ! Tu devrais passer voir {{asami.n}}, je crois qu'elle était inquiète."
 msgstr ""
+"Mimochodem! Měla bys přijít za {{asami.n}}, myslím, že si dělala starosti."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_1746ad5a"
 msgid "Inquiète à propos de quoi ?"
-msgstr ""
+msgstr "Čeho se obáváte?"
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_0729f33c"
 msgid "Il se pourrait que je lui ai raconté ce qu'il s'était passé hier soir."
-msgstr ""
+msgstr "Možná jsem mu řekla, co se včera večer stalo."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_086c3bcd"
 msgid "...C'est pas grave, je verrais ça avec elle."
-msgstr ""
+msgstr "...Na tom nezáleží, vyřídím to s ní."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_1f160de3"
 msgid "J'y vais à bientôt {{sayuri.n}} !"
-msgstr ""
+msgstr "Uvidíme se brzy {{sayuri.n}}!"
 
 #: game/story/konbini_interior.dialogue
 msgctxt "konbini_interior_4d1f1162"
 msgid "Qu'est-ce que tu fais là ma chérie ça ne te ressemble pas ?"
-msgstr ""
+msgstr "Co tady děláš, miláčku? Nejsi to ty?"
 
 #: game/story/konbini_interior.dialogue
 msgctxt "konbini_interior_74698715"
 msgid "Tu n'es pas avec {{saito.n}} ?"
-msgstr ""
+msgstr "Nejste s {{saito.n}}?"
 
 #: game/story/konbini_interior.dialogue
 msgctxt "konbini_interior_19a610e5"
 msgid "Non en ce moment il passe tout son temps avec {{noriko.n}}..."
-msgstr ""
+msgstr "Ne, momentálně tráví veškerý čas s {{noriko.n}}..."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "konbini_interior_bf52f3d4"
 msgid "Et ils n'ont pas besoin de moi."
-msgstr ""
+msgstr "A oni mě nepotřebují."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "konbini_interior_f3d01191"
 msgid "Ohh ma petite puce est jalouse..."
-msgstr ""
+msgstr "Můj miláček žárlí..."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "konbini_interior_d7bb846a"
 msgid "...Moi aussi j-"
-msgstr ""
+msgstr "...Já také j-"
 
 #: game/story/konbini_interior.dialogue
 msgctxt "konbini_interior_9d71aca3"
 msgid "Et bien tu vois, quand on parle du loup !"
-msgstr ""
+msgstr "No vidíte, když jde o vlka!"
 
 #: game/story/konbini_interior.dialogue
 msgctxt "konbini_interior_92a3063d"
 msgid "Maman !!!"
-msgstr "MÁMA!!!"
+msgstr "MÁMI!!!"
 
 #: game/story/konbini_interior.dialogue
 msgctxt "konbini_interior_b73e4318"
 msgid "Et bien en fait figure toi que..."
-msgstr ""
+msgstr "No, víte..."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "konbini_interior_014c009b"
 msgid "MAMAN STOP !"
-msgstr "MAMINKO, STOP!"
+msgstr "MAMI, STOP!"
 
 #: game/story/konbini_interior.dialogue
 msgctxt "konbini_interior_abc4c7f4"
 msgid "C'est bon j'ai compris je vous laisse entre vous."
-msgstr ""
+msgstr "Mám to, nechám vás o samotě."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "konbini_interior_6bc5849a"
 msgid "...{{noriko.n}} n'est pas avec toi ?"
-msgstr ""
+msgstr "...{{noriko.n}} není s vámi?"
 
 #: game/story/konbini_interior.dialogue
 msgctxt "konbini_interior_77f23413"
 msgid "Si si, elle attend dehors."
-msgstr ""
+msgstr "Ano, čeká venku."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "konbini_interior_a2df6564"
 msgid "Vous êtes toujours dans votre projet de vengeance contre..."
-msgstr ""
+msgstr "Stále plánuješ pomstu proti..."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "konbini_interior_9c9606c1"
 msgid "C'est bientôt terminé, il en manque un, les autres sauront qu'à l'avenir je ne serai plus une cible facile."
 msgstr ""
+"Už je skoro konec, jeden chybí, ostatní budou vědět, že v budoucnu nebudu "
+"snadný cíl."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "konbini_interior_7e7b2940"
 msgid "Ils y réfléchiront à deux fois avant de s'en prendre à moi."
-msgstr ""
+msgstr "Dvakrát si rozmyslí, než po mně půjdou."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "konbini_interior_c758ffb8"
 msgid "Je ne sais pas pourquoi mais j'ai peur que tout ça se termine mal..."
-msgstr ""
+msgstr "Nevím proč, ale obávám se, že to všechno skončí špatně..."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "konbini_interior_754e585a"
 msgid "...Ne t'inquiète pas, je fais attention à moi et je ne fais rien dans l'excès."
-msgstr ""
+msgstr "...Nebojte se, dávám na sebe pozor a nepřeháním to."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "konbini_interior_1927ceb6"
 msgid "Je préférerais qu'on passe plutôt notre journée ensemble quand même."
-msgstr ""
+msgstr "Stejně bych byl radši, kdybychom ten den strávili spolu."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "konbini_interior_a2a3ce27"
 msgid "Promis dès que j'en ai terminé avec ça, on sera rien que toi et moi !"
-msgstr ""
+msgstr "Slibuji, že jakmile s tímhle skončím, budeme tu jen my dva!"
 
 #: game/story/konbini_interior.dialogue
 msgctxt "konbini_interior_a5353bca"
 msgid "Promis ?"
-msgstr ""
+msgstr "Promis ?"
 
 #: game/story/konbini_interior.dialogue
 msgctxt "konbini_interior_4efd7efa"
 msgid "Alors dépêche-toi et fais attention à toi !"
-msgstr ""
+msgstr "Tak si pospěšte a postarejte se o sebe!"
 
 #: game/story/konbini_interior.dialogue
 msgctxt "t6c7d969cf9"
 msgid "Mon dieu c'est d'un ennui..."
-msgstr ""
+msgstr "Bože, to je taková nuda..."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "t6c331918d3"
 msgid "Tout le monde a décidé de partir en vacance sauf moi je crois..."
-msgstr ""
+msgstr "Všichni se rozhodli jet na dovolenou, kromě mě, myslím..."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "ta6d9455a9d"
 msgid "Allez ma vielle, prend ton mal en patience, les choses vont s'arranger !"
-msgstr ""
+msgstr "No tak, stařenko, vydrž, bude líp!"
 
 #: game/story/konbini_interior.dialogue
 msgctxt "ta7bfc76e36"
 msgid "......"
-msgstr ""
+msgstr "......"
 
 #: game/story/konbini_interior.dialogue
 msgctxt "t3bbd1a1d60"
 msgid "........."
-msgstr ""
+msgstr "........."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "tccb4bfa32a"
 msgid "Ca ne va pas ?"
-msgstr ""
+msgstr "Co je špatně?"
 
 #: game/story/konbini_interior.dialogue
 msgctxt "t0d9feb1588"
 msgid "La reprise du travail est difficile ?"
-msgstr ""
+msgstr "Je obtížné vrátit se do práce?"
 
 #: game/story/konbini_interior.dialogue
 msgctxt "tff5ad7b1c3"
 msgid "Si ce n'était que ça..."
-msgstr ""
+msgstr "Pokud to bylo všechno..."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "tc17f859a71"
 msgid "J'ai bien eu la confirmation que l'assistante de mon m... de ce connard avait une relation depuis des années."
 msgstr ""
+"Potvrdilo se mi, že asistentka mého manžela má... Asistentka toho kreténa "
+"měla léta poměr."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "ted8e6d7c93"
 msgid "Avoir des doutes est une chose mais... en avoir la confirmation..."
-msgstr ""
+msgstr "Jedna věc je mít pochybnosti, ale když se potvrdí..."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "t3512d7f59c"
 msgid "J'ai l'impression d'avoir été stupide pendant si longtemps !"
-msgstr ""
+msgstr "Mám pocit, že už jsem tak dlouho hloupá!"
 
 #: game/story/konbini_interior.dialogue
 msgctxt "t1b44c5832b"
 msgid "Ne soit pas si dure avec toi même..."
-msgstr ""
+msgstr "Nebuď na sebe tak přísný..."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "t2dccfdcd96"
@@ -32979,7 +33050,7 @@ msgstr ""
 #: game/story/konbini_interior.dialogue
 msgctxt "TOI_3FEEC3"
 msgid "Toi..."
-msgstr ""
+msgstr "Toi..."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "SAITO_N_QUE_SE_PASSE_T_IL_JE_B855B0"
@@ -33189,7 +33260,7 @@ msgstr ""
 #: game/story/warehouse_interior.dialogue
 msgctxt "warehouse_interior_e2560602"
 msgid ".... AAAAAAAAAAAAAH !"
-msgstr ""
+msgstr ".... AAAAAAAAAAAAAH !"
 
 #: game/story/warehouse_interior.dialogue
 msgctxt "warehouse_interior_cdf51a0f"
@@ -33379,7 +33450,7 @@ msgstr "Dát-"
 #: game/story/warehouse_interior.dialogue
 msgctxt "warehouse_interior_fe376a02"
 msgid "Mam-"
-msgstr ""
+msgstr "Mam-"
 
 #: game/story/warehouse_interior.dialogue
 msgctxt "warehouse_interior_55df699f"
@@ -84495,11 +84566,11 @@ msgstr "Chiaki"
 
 msgctxt "preferences.variable"
 msgid "erika_pubes"
-msgstr ""
+msgstr "Erika"
 
 msgctxt "preferences.variable"
 msgid "hanako_pubes"
-msgstr ""
+msgstr "Hanako"
 
 msgctxt "preferences.variable"
 msgid "natsume_pubes"
@@ -84519,7 +84590,7 @@ msgstr "Sayuri"
 
 msgctxt "preferences.variable"
 msgid "tsubaki_pubes"
-msgstr ""
+msgstr "Tsubaki"
 
 msgctxt "preferences.variable"
 msgid "yasuka_pubes"
@@ -84531,31 +84602,31 @@ msgstr "Zvuk"
 
 msgctxt "preferences.variable"
 msgid "master_volume"
-msgstr ""
+msgstr "Hlavní svazek"
 
 msgctxt "preferences.variable"
 msgid "master_mute"
-msgstr ""
+msgstr "Ztlumení hlavní hlasitosti"
 
 msgctxt "preferences.variable"
 msgid "music_volume"
-msgstr ""
+msgstr "Hlasitost hudby"
 
 msgctxt "preferences.variable"
 msgid "music_mute"
-msgstr ""
+msgstr "Ztlumení hlasitosti hudby"
 
 msgctxt "preferences.variable"
 msgid "sound_volume"
-msgstr ""
+msgstr "Hlasitost zvuků"
 
 msgctxt "preferences.variable"
 msgid "sound_mute"
-msgstr ""
+msgstr "Ztlumení hlasitosti"
 
 msgctxt "preferences.group"
 msgid "Gameplay"
-msgstr ""
+msgstr "Hra"
 
 msgctxt "preferences.subgroup"
 msgid "Auto-save"
