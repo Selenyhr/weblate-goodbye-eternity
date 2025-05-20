@@ -112,8 +112,8 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-08 15:23+0200\n"
-"PO-Revision-Date: 2025-05-20 11:20+0000\n"
-"Last-Translator: Gigila <reksi548228@gmail.com>\n"
+"PO-Revision-Date: 2025-05-21 05:30+0000\n"
+"Last-Translator: Veydzher <veydzherdgswift008@gmail.com>\n"
 "Language-Team: Ukrainian <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/uk/>\n"
 "Language: uk\n"
@@ -5912,7 +5912,7 @@ msgstr "От лайно!"
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_4a1a069b"
 msgid "Oh putain !"
-msgstr "Ох, лайно!"
+msgstr "От лайно!"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_116e3ce3"
@@ -30017,7 +30017,7 @@ msgstr "Ого, мамо! Я ніколи не бачила тебе такою 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_f847d1de"
 msgid "Merci ma chérie... Et toi {{saito.n}}, tu en penses quoi ?"
-msgstr "Дякую, люба... А як щодо тебе, {{saito.n}}? Що скажеш?"
+msgstr "Дякую, люба... А ти, {{saito.n}}? Що скажеш?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_7b21e575"
@@ -63918,7 +63918,7 @@ msgstr "Говори тихіше! Ти..."
 #: game/story/coffeebar_exterior.dialogue
 msgctxt "coffeebar_exterior_73bde567"
 msgid "Je t'ai reconnu, tu es le petit merdeux d'hier !"
-msgstr "Я тебе знаю! Ти маленьке лайно з учора!"
+msgstr "Я тебе знаю! Ти засранець з учора!"
 
 #: game/story/coffeebar_exterior.dialogue
 msgctxt "coffeebar_exterior_4ce04571"
@@ -74477,7 +74477,7 @@ msgstr "Що найгірше може статися?"
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "hostess_club_exterior_1bd2b5c4"
 msgid "Tiens, tiens, tiens... Mais qui voilà ?"
-msgstr "Ну-ну-ну... Хто там?"
+msgstr "Ну-ну-ну... Хто це там?"
 
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "hostess_club_exterior_3e9a80a9"
@@ -74557,12 +74557,12 @@ msgstr "Вона лишень прийшла."
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "hostess_club_exterior_68679586"
 msgid "N'essayez même pas de tenter quoi que ce soit !"
-msgstr "Навіть не думай щось пробувати!"
+msgstr "Навіть не думайте щось пробувати!"
 
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "hostess_club_exterior_7251c1a6"
 msgid "Qu'est-ce que tu comptes faire exactement bouffon ?"
-msgstr "Що ти збираєшся з цим робити, невдаха?"
+msgstr "Що ти зробиш, невдахо?"
 
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "hostess_club_exterior_53beb2ef"
@@ -80992,22 +80992,22 @@ msgstr "Каналізація"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_0"
-msgstr "Вийди з кімнати й піди до {{yasuka.n}} у вітальню."
+msgstr "Вийти з кімнати й піти до {{yasuka.n}} у вітальню."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_1"
-msgstr "Вийди з кімнати й піди до {{yasuka.n}} у вітальню."
+msgstr "Вийти з кімнати й піти до {{yasuka.n}} у вітальню."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_2"
-msgstr "Іди у [color=yellow]парк[/color] і вирушай на пробіжку."
+msgstr "Піти у [color=yellow]парк[/color] і зробити пробіжку."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_3"
-msgstr "Іди у [color=yellow]парк[/color] і вирушай на пробіжку."
+msgstr "Піти у [color=yellow]парк[/color] і зробити пробіжку."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -81017,12 +81017,16 @@ msgstr "Бігати вже пізно. Треба піти до місцево�
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_4_1"
-msgstr "Поговори із {{chef.n}} у [color=yellow]ресторані[/color], щоб спробувати отримати роботу."
+msgstr ""
+"Поговорити з {{chef.n}} у [color=yellow]ресторані[/color], щоб спробувати "
+"отримати роботу."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_5"
-msgstr "Усе, що мені зараз потрібно зробити, це піти до [color=yellow]додзьо[/color]. Я ненавиджу цей день..."
+msgstr ""
+"Усе, що мені зараз потрібно зробити, це піти до [color=yellow]доджьо[/color]"
+". Я ненавиджу цей день..."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -81032,7 +81036,7 @@ msgstr "Піти до [color=yellow]конбіні[/color]."
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_6"
-msgstr "Мені б просто піти [color=yellow]додому[/color]..."
+msgstr "Мені просто треба піти [color=yellow]додому[/color]..."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -81052,27 +81056,29 @@ msgstr "Завтра буде краще, сподіваюся..."
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_10"
-msgstr "Пішли ви всі! Я йду до [color=yellow]парку[/color]!"
+msgstr "Пішли ви всі! Я йду у [color=yellow]парк[/color]!"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_11"
-msgstr "Пішли ви всі! Я йду до [color=yellow]парку[/color]!"
+msgstr "Пішли ви всі! Я йду у [color=yellow]парк[/color]!"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_12"
-msgstr "Я маю повернути це власнику..."
+msgstr "Я маю повернути його власнику..."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_13"
-msgstr "Що, якби я віддав {{macumba.n}} свій старий програвач в обмін на тренування?"
+msgstr ""
+"Що, якщо {{macumba.n}} матиме мій старий плеєр компакт-дисків в обмін на "
+"тренування?"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_14_noriko_blackmail_reject"
-msgstr "Запитай в {{yasuka.n}} трохи більше подробиць."
+msgstr "Попросити в {{yasuka.n}} трохи більше подробиць."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -81082,42 +81088,42 @@ msgstr "Запитати {{noriko.n}} за пояснення."
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_15_noriko_blackmail_reject"
-msgstr "Забери свій плеєр з кімнати {{noriko.n}}!"
+msgstr "Забрати свій плеєр з кімнати {{noriko.n}}."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_15_noriko_femdom_maledom"
-msgstr "Wi-Fi у [color=yellow]вітальні[/color]."
+msgstr "Wi-Fi знаходиться у [color=yellow]вітальні[/color]."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_17_noriko_blackmail_reject"
-msgstr "Забери свій плеєр з кімнати {{noriko.n}}!"
+msgstr "Забрати свій плеєр з кімнати {{noriko.n}}."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_17_noriko_femdom_maledom"
-msgstr "Пошукай плеєр у кімнаті {{noriko.n}}."
+msgstr "Пошукати плеєр у кімнаті {{noriko.n}}."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_18_noriko_blackmail_reject"
-msgstr "Забери свій плеєр з кімнати {{noriko.n}}!"
+msgstr "Забрати свій плеєр з кімнати {{noriko.n}}."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_18_noriko_femdom_maledom"
-msgstr "{{yasuka.n}} має мати плеєр, який треба повернути."
+msgstr "{{yasuka.n}} має мати мій плеєр."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_19_noriko_femdom_maledom"
-msgstr "Візьми CD-плеєр і відвідай {{macumba.n}}."
+msgstr "Узяти CD-плеєр і віддати {{macumba.n}}."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_19_1_noriko_femdom_maledom"
-msgstr "Візьми CD-плеєр і відвідай {{macumba.n}}."
+msgstr "Узяти CD-плеєр і віддати {{macumba.n}}."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
