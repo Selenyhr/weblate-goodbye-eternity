@@ -112,7 +112,7 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-08 15:23+0200\n"
-"PO-Revision-Date: 2025-05-19 22:03+0000\n"
+"PO-Revision-Date: 2025-05-21 18:57+0000\n"
 "Last-Translator: Aleksandr <aleksandr-tugai@mail.ru>\n"
 "Language-Team: Russian <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/ru/>\n"
@@ -12844,9 +12844,10 @@ msgid "J'y penserais..."
 msgstr "Я подумаю..."
 
 #: game/story/canal.dialogue
+#, fuzzy
 msgctxt "t1c0082db29"
 msgid "Je me demande comment ça se passe avec Asami."
-msgstr "Интересно, как идут дела у Асами."
+msgstr "Интересно, как идут дела у {{asami.n}}?"
 
 #: game/story/canal.dialogue
 msgctxt "canal_6f6d4133"
@@ -16285,9 +16286,10 @@ msgid "Si je me dépêche je devrais pouvoir arriver a temps."
 msgstr "Если я потороплюсь, то смогу успеть вовремя."
 
 #: game/story/home_player_saito_room.dialogue
+#, fuzzy
 msgctxt "t9758fa4840"
 msgid "J'espère qu'Asami ne m'en voudra pas trop."
-msgstr "Надеюсь, что Асами будет не слишком зла."
+msgstr "Надеюсь, что {{asami.n}} будет не слишком зла."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_c31ba091"
@@ -55563,9 +55565,12 @@ msgid "Allez, tu verras, ça va bien se passer !"
 msgstr "Ну же, давай, тебе понравится!"
 
 #: game/story/konbini_exterior.dialogue
+#, fuzzy
 msgctxt "tf04737fa4e"
 msgid "Merde... Takeo, Kenji et Nobu, les trois brutes qui m'ont tabassé durant toute une partie de mon adolescence."
-msgstr "Чёрт... Такео, Кенджи и Нобу – трое хулиганов, которые избивали меня большую часть моего подросткового возраста."
+msgstr ""
+"Чёрт... {{takeo.n}}, {{kenji.n}} и {{nobu.n}} – трое хулиганов, которые "
+"избивали меня большую часть моего подросткового возраста."
 
 #: game/story/konbini_exterior.dialogue
 msgctxt "t2627415f88"
@@ -65648,9 +65653,10 @@ msgid "...merde t'as raison."
 msgstr "...Чёрт, ты прав."
 
 #: game/story/park.dialogue
+#, fuzzy
 msgctxt "t283a99e8e0"
 msgid "Je crois que le plan de Kimochi a un peu trop bien fonctionné."
-msgstr "Кажется план Кимочи сработал слишком хорошо."
+msgstr "Кажется план {{kimochi.n}} сработал слишком хорошо."
 
 #: game/story/park.dialogue
 msgctxt "t9b79666808"
@@ -65668,9 +65674,12 @@ msgid "Du coup je ne sais pas qui le plus fou dans l'histoire."
 msgstr "Так что я не знаю, кто здесь более ёбнутый."
 
 #: game/story/park.dialogue
+#, fuzzy
 msgctxt "t13964821b6"
 msgid "Kimochi qui vide un flacon de laxatif et ou les trois idiots qui ont tout mangé sans se rendre compte de rien ?"
-msgstr "Кимочи, опустошающий бутылочку слабительного, или три идиота, которые съели всё это, сами того не осознавая...?"
+msgstr ""
+"{{kimochi.n}}, опустошающий бутылочку слабительного, или три идиота, которые "
+"съели всё это, сами того не осознавая?.."
 
 #: game/story/park.dialogue
 msgctxt "t18ddf7fb6e"
@@ -65693,9 +65702,10 @@ msgid "Fous nous la paix, on vient de passer la nuit a se vider a cause d'un con
 msgstr "Отъебись. Мы дристали всю ночь, потому что этот уёбок подсыпал нам слабительное."
 
 #: game/story/park.dialogue
+#, fuzzy
 msgctxt "t86284f7bce"
 msgid "Mais putain ta gueule Nobu pourquoi tu racontes ça au premier venu ?!"
-msgstr "Завали ебало, Нобу! Почему ты рассказываешь это ему?!"
+msgstr "Завали ебало, {{nobu.n}}! Зачем ты рассказываешь это ему?!"
 
 #: game/story/park.dialogue
 msgctxt "t17bcbbb8a1"
