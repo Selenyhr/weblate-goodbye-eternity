@@ -2,9 +2,10 @@ msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-08 15:23+0200\n"
-"PO-Revision-Date: 2025-04-05 02:52+0000\n"
-"Last-Translator: KEN <nomel17gk@gmail.com>\n"
-"Language-Team: Japanese <https://translations.teot-studio.com/projects/goodbye-eternity/game-translation/ja/>\n"
+"PO-Revision-Date: 2025-06-03 01:21+0000\n"
+"Last-Translator: Jpman <bus21684@gmail.com>\n"
+"Language-Team: Japanese <https://translations.teot-studio.com/projects/"
+"goodbye-eternity/game-translation/ja/>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -277,12 +278,12 @@ msgstr ""
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "home_takeo_exterior"
-msgstr ""
+msgstr "{takeo.n}の家"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "amusement_park_exterior"
-msgstr ""
+msgstr "遊園地の外"
 
 #: game/scenes/gui/gui_location.tscn
 msgid "Lundi"
@@ -302,7 +303,7 @@ msgstr "麻美"
 
 #: game/scenes/gui/gui_start_asami.tscn
 msgid "Vous pouvez dès à présent poursuivre l’histoire d’{{asami.n}}."
-msgstr ""
+msgstr "これで{asami.n}のストーリーを続けることができます。"
 
 #: game/scenes/gui/gui_start_asami.tscn
 msgid "Vous avez fait le choix de vous lier [color=yellow]d'amitié[/color]."
@@ -314,7 +315,7 @@ msgstr "あなたは彼女を[color=yellow]堕落/color]させる道を選んだ
 
 #: game/scenes/gui/gui_start_asami.tscn
 msgid "Vous avez fait le choix de [color=yellow]rester amis[/color]."
-msgstr ""
+msgstr "あなたは[color=yellow]友達でいることを選びました[/color]."
 
 #: game/scenes/gui/gui_start_asami.tscn game/scenes/gui/gui_start_sakuya.tscn game/scenes/gui/gui_start_yasuka.tscn
 msgid "J'ai compris"
@@ -338,7 +339,7 @@ msgstr "安香"
 
 #: game/scenes/gui/gui_start_yasuka.tscn
 msgid "Vous pouvez dès à présent poursuivre l’histoire de {{yasuka.n}}."
-msgstr ""
+msgstr "これで{yasuka.n}のストーリーを続けることが出来ます。"
 
 #: game/scenes/gui/gui_start_yasuka.tscn
 #, fuzzy
