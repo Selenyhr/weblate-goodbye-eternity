@@ -112,8 +112,8 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-08 15:23+0200\n"
-"PO-Revision-Date: 2025-06-02 20:49+0000\n"
-"Last-Translator: Gigila <reksi548228@gmail.com>\n"
+"PO-Revision-Date: 2025-06-04 05:00+0000\n"
+"Last-Translator: Veydzher <veydzherdgswift008@gmail.com>\n"
 "Language-Team: Ukrainian <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/uk/>\n"
 "Language: uk\n"
@@ -294,7 +294,7 @@ msgstr "Надворі"
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "dojo_exterior"
-msgstr "Додзьо"
+msgstr "Доджьо"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
@@ -414,7 +414,7 @@ msgstr "АСАМІ"
 
 #: game/scenes/gui/gui_start_asami.tscn
 msgid "Vous pouvez dès à présent poursuivre l’histoire d’{{asami.n}}."
-msgstr "Тепер ви можете продовжити сюжет із {{asami.n}}."
+msgstr "Тепер ти можеш продовжити сюжетну лінію з {{asami.n}}."
 
 #: game/scenes/gui/gui_start_asami.tscn
 msgid "Vous avez fait le choix de vous lier [color=yellow]d'amitié[/color]."
@@ -426,11 +426,11 @@ msgstr "Ти вирішив [color=yellow]розбещувати[/color] її."
 
 #: game/scenes/gui/gui_start_asami.tscn
 msgid "Vous avez fait le choix de [color=yellow]rester amis[/color]."
-msgstr "Ти обрав [color=yellow]залишитися друзями[/color]."
+msgstr "Ти вирішив [color=yellow]залишитися друзями[/color]."
 
 #: game/scenes/gui/gui_start_asami.tscn game/scenes/gui/gui_start_sakuya.tscn game/scenes/gui/gui_start_yasuka.tscn
 msgid "J'ai compris"
-msgstr "Я зрозумів"
+msgstr "Зрозуміло"
 
 #: game/scenes/gui/gui_start_sakuya.tscn
 msgid "SAKUYA"
@@ -442,7 +442,10 @@ msgstr "Тепер ти можеш продовжити сюжетну ліні�
 
 #: game/scenes/gui/gui_start_sakuya.tscn
 msgid "Vous avez fait des choix tout au long de votre aventure, peu importe qu'ils soient bons ou mauvais. {{sakuya.n}} vous les fera assumer."
-msgstr "Протягом усієї пригоди ти робив вибір, незалежно від того, чи був він добрим, чи поганим. {{sakuya.n}} змусить тебе взяти на себе відповідальність за них."
+msgstr ""
+"Протягом усієї пригоди ти робив вибір, незалежно від того, чи був він "
+"хорошим, чи поганим. {{sakuya.n}} змусить тебе взяти на себе "
+"відповідальність за них."
 
 #: game/scenes/gui/gui_start_yasuka.tscn
 msgid "YASUKA"
@@ -450,11 +453,11 @@ msgstr "ЯСУКА"
 
 #: game/scenes/gui/gui_start_yasuka.tscn
 msgid "Vous pouvez dès à présent poursuivre l’histoire de {{yasuka.n}}."
-msgstr "Тепер ти можеш продовжити сюжет з {{yasuka.n}}."
+msgstr "Тепер ти можеш продовжити сюжетну лінію з {{yasuka.n}}."
 
 #: game/scenes/gui/gui_start_yasuka.tscn
 msgid "Vous avez fait le choix de l'[color=yellow]aimer et de la soutenir[/color]."
-msgstr "Ти зробив вибір [color=yellow]любити й підтримувати її[/color]."
+msgstr "Ти вирішив [color=yellow]любити й підтримувати її[/color]."
 
 #: game/scenes/gui/gui_start_yasuka.tscn
 msgid "Vous avez fait le choix de la laisser [color=yellow]travailler au bar à hôtesse[/color]."
@@ -623,7 +626,7 @@ msgstr "Відсутність боса, який дихає їй у потил�
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_0b339148"
 msgid "Après avoir discuté un long moment, il était temps de partir."
-msgstr "Вони ще довго розмовляли, і нарешті настав час йти."
+msgstr "Вони ще довго розмовляли, і нарешті настав час іти."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_0a9538b0"
@@ -638,7 +641,7 @@ msgstr "Я б із задоволенням залишився з тобою, а
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_6f897340"
 msgid "On se retrouve ce soir ?"
-msgstr "Побачимося ввечері?"
+msgstr "Побачимось увечері?"
 
 #: game/story/park.dialogue
 msgctxt "doggystyle_again_f71b1f42"
@@ -733,12 +736,12 @@ msgstr "Пфф, який же ти чарівний."
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_65b93099"
 msgid "Mais... Tu es adorable."
-msgstr "Але... Ти чарівний."
+msgstr "Але... Ти справді чарівний."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_3ba5809c"
 msgid "Je m'occuperai de toi ce soir comme il se doit."
-msgstr "Сьогодні я подбаю про тебе як слід."
+msgstr "Сьогодні ввечері я подбаю про тебе як слід."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_589f34c9"
@@ -977,7 +980,7 @@ msgstr "Так..."
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_ef1ad18b"
 msgid "C'est donc cette espèce d'ordure qui pourrit la vie de {{yasuka.n}}."
-msgstr "Тож той, хто руйнує життя {{yasuka.n}} — цей покидьок."
+msgstr "Той, хто руйнує життя {{yasuka.n}} — цей покидьок."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_b87099fe"
@@ -1107,7 +1110,7 @@ msgstr "Гей! Не смійте так про неї говорити!"
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_a9ad3e2c"
 msgid "Sinon quoi ? Tu vas faire quoi microbe ?"
-msgstr "Або що? Що ти зробиш, шматок лайна?"
+msgstr "Або що? Що ти зробиш, гівнюку?"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_1a0d491c"
@@ -1137,7 +1140,8 @@ msgstr "Нарешті..."
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_07345f96"
 msgid "Si tu savais tous les stratagèmes qu'il a fallu mettre en place pour juste venir te voir."
-msgstr "Якби ти знав, на які хитрощі мені доводилося йти, щоб побачити тебе."
+msgstr ""
+"Якби ти знав, на які хитрощі мені доводилося йти, щоб зустрітися з тобою."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_f7e890a6"
@@ -6652,7 +6656,7 @@ msgstr "Куди ти йдеш?"
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_f1b7c69f"
 msgid "Au dojo."
-msgstr "У додзьо."
+msgstr "У доджьо."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_48a09a2d"
@@ -7017,12 +7021,12 @@ msgstr "Це моя справа, оскільки ти постійно пот�
 #: game/story/home_player_corridor.dialogue
 msgctxt "t5392c14ef6"
 msgid "Je vais au dojo..."
-msgstr "Я йду в додзьо..."
+msgstr "Я йду у доджьо..."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "t123c0249c6"
 msgid "Non non, \"nous\" allons au dojo !"
-msgstr "Ні, ні. «Ми» йдемо у додзьо."
+msgstr "Ні, ні. «Ми» йдемо у доджьо."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "tc6ccb69884"
@@ -9879,7 +9883,7 @@ msgstr "Це навіть гірше, ніж я собі уявляв..."
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "home_kimochi_exterior_4b698217"
 msgid "C'est {{minato.n}} qui les a pistonnés pour entrer au dojo."
-msgstr "Це {{minato.n}} смикав за ниточки, щоб вони потрапили в додзьо."
+msgstr "Це {{minato.n}} смикав за ниточки, щоб вони потрапили у доджьо."
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "home_kimochi_exterior_8bc54340"
@@ -12837,7 +12841,7 @@ msgstr "Я подумаю..."
 #: game/story/canal.dialogue
 msgctxt "t1c0082db29"
 msgid "Je me demande comment ça se passe avec Asami."
-msgstr "Цікаво, як там справи у Асамі."
+msgstr "Цікаво, як там справи в Асамі."
 
 #: game/story/canal.dialogue
 msgctxt "canal_6f6d4133"
@@ -16255,7 +16259,7 @@ msgstr "Я дуже сподіваюся, що все буде продовжу�
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_92b37223"
 msgid "La prochaine étape... C'est le dojo, je dois trouver un moyen d'y entrer."
-msgstr "Далі... мені потрібно буде знайти спосіб записатися у додзьо."
+msgstr "Далі… мені потрібно буде знайти спосіб записатися у доджьо."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_e0b7465a"
@@ -20550,7 +20554,7 @@ msgstr "Я не можу витрачати весь свій час на вте
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_eafb4276"
 msgid "Et {{akira.n}} ne pourra pas éternellement m'empêcher de m'inscrire au dojo non plus."
-msgstr "{{akira.n}} не зможе завжди не давати мені записатися у додзьо."
+msgstr "{{akira.n}} не може завжди не давати мені записатися у доджьо."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_fe08084b"
@@ -22190,7 +22194,7 @@ msgstr "А {{yasuka.n}}... все ще така ж бездоганна, як і
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_30dff5fb"
 msgid "Il est temps de se prendre en main et d'aller au dojo !"
-msgstr "Настав час узяти себе в руки та піти до додзьо!"
+msgstr "Настав час узяти себе в руки та піти до доджьо!"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_9ceb7aa8"
@@ -34382,7 +34386,7 @@ msgctxt "JE_T_CLATE_QUAND_TU_VEUX_SURTO_97FDA8"
 msgid "Je t'éclate quand tu veux ! Surtout depuis que j'ai commencé les cours au dojo !"
 msgstr ""
 "Я можу відгамселити тебе будь-коли! Особливо після того, як я почав заняття "
-"в додзьо!"
+"в доджьо!"
 
 #: game/story/arcade_exterior.dialogue
 msgctxt "MEC_T_AS_PAS_ID_E_DE_CE_QU_ON_E8C03E"
@@ -41171,7 +41175,8 @@ msgstr "Ні... Він має перевагу над ними лише тому
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "kimochi_password_3888c97b"
 msgid "Je sais... C'est enfoiré me bloque l'accès au dojo, impossible de m'y inscrire."
-msgstr "Я знаю... Той мудак не пускає мене в додзьо, не дає можливості приєднатися."
+msgstr ""
+"Я знаю... Той мудак не пускає мене в доджьо, не дає можливості приєднатися."
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "kimochi_password_05c5336d"
@@ -42108,13 +42113,13 @@ msgstr "Хай там як... Навіщо ти прийшов до мене?"
 msgctxt "home_kimochi_interior_d5e2bd56"
 msgid "L'entrée du dojo était bloquée ce matin. Je pensais simplement passer le temps avant d'y retourner."
 msgstr ""
-"Вхід у додзьо був заблокований сьогодні вранці. Я просто хотів згаяти час, "
+"Вхід у доджьо був заблокований сьогодні вранці. Я просто хотів згаяти час, "
 "перш ніж повернутися."
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_065458c7"
 msgid "Je ne veux pas te démoraliser mais... Tu peux faire une croix sur le dojo."
-msgstr "Не хочу тебе відлякувати, але... Можеш забути про те додзьо."
+msgstr "Не хочу тебе відлякувати, але... Можеш забути про те доджьо."
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_ad2e0581"
@@ -42124,7 +42129,9 @@ msgstr "Мені потрібно більше пояснень."
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_5e108ea7"
 msgid "Depuis que le nouveau propriétaire a repris le dojo, ils ne prennent que des gros bras."
-msgstr "Відтоді, як додзьо перейшло до нового власника, вони беруть тільки великих шишок."
+msgstr ""
+"Відтоді, як доджьо перейшло до нового власника, вони беруть тільки великих "
+"шишок."
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_9432d85a"
@@ -42734,7 +42741,7 @@ msgstr "Хе-хе... Загалом, скажи мені, навіщо ти пр
 msgctxt "home_kimochi_interior_47d97882"
 msgid "Bon... À la base je suis venu pour avoir des infos sur le dojo. Si tu connaissais une autre façon d'y entrer ?"
 msgstr ""
-"Ну... В основному, я прийшов, щоб отримати інформацію про додзьо. Ти знаєш "
+"Ну... В основному, я прийшов, щоб отримати інформацію про доджьо. Ти знаєш "
 "інший спосіб потрапити всередину?"
 
 #: game/story/home_kimochi_interior.dialogue
@@ -42756,7 +42763,7 @@ msgstr "Ла-ла... Добре, я скажу, що знаю."
 msgctxt "home_kimochi_interior_9cb6af48"
 msgid "Depuis quelques mois le propriétaire du dojo a changé, il n'embauche que des brutes."
 msgstr ""
-"За останні місяці власник додзьо змінився, і тепер він наймає лише всіляких "
+"За останні місяці власник доджьо змінився, і тепер він наймає лише всіляких "
 "покидьків."
 
 #: game/story/home_kimochi_interior.dialogue
@@ -42768,7 +42775,7 @@ msgstr "Він ніби намагається створити якийсь к�
 msgctxt "home_kimochi_interior_cf44c3b1"
 msgid "Pourquoi ? Ca n'a pas de sens, le but d'un dojo n'est il pas d'enseigner a des élèves en échange d'un peu d'argent ?"
 msgstr ""
-"Навіщо? Це просто безглуздо. Хіба мета додзьо не в тому, щоб навчати учнів в "
+"Навіщо? Це просто безглуздо. Хіба мета доджьо не в тому, щоб навчати учнів в "
 "обмін на певні гроші?"
 
 #: game/story/home_kimochi_interior.dialogue
@@ -42946,7 +42953,7 @@ msgstr "Ну ж бо! Я мотивована як ніколи! Ходімо п
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_001d4697"
 msgid "Je suis certaine qu'ils sont en train de glander au dojo."
-msgstr "Гадаю, вони досі байдикують у додзьо."
+msgstr "Гадаю, вони досі байдикують у доджьо."
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_c2649385"
@@ -44112,7 +44119,7 @@ msgstr "Подивимось... У коледжі буде важко. Я муш
 #: game/story/introduction.dialogue
 msgctxt "home_player_room_c59d19d3"
 msgid "Je devrais faire un tour au dojo du quartier, je crois savoir qu'il était assez réputé."
-msgstr "Поблизу було відоме додзьо, еге ж? Треба буде завітати туди."
+msgstr "Поблизу було відоме доджьо, еге ж? Треба буде завітати туди."
 
 #: game/story/introduction.dialogue
 msgctxt "home_player_room_8b69be5f"
@@ -44124,7 +44131,7 @@ msgctxt "home_player_room_8253a51d"
 msgid "Autant commencer par un petit boulot déjà, en plus ça couvrira les frais du dojo."
 msgstr ""
 "Підробіток не завадив би. З нього можна було б покрити й плату за заняття у "
-"додзьо."
+"доджьо."
 
 #: game/story/introduction.dialogue
 msgctxt "home_player_room_a27ae41b"
@@ -44161,7 +44168,7 @@ msgctxt "home_player_room_86db6b79"
 msgid "D'abord le [color=yellow]parc[/color], ensuite le [color=yellow]restaurant[/color] et enfin le [color=yellow]dojo[/color] !"
 msgstr ""
 "Спершу треба сходити до [color=yellow]парку[/color], потім до "
-"[color=yellow]ресторану[/color], і нарешті до [color=yellow]додзьо[/color]!"
+"[color=yellow]ресторану[/color], і нарешті до [color=yellow]доджьо[/color]!"
 
 #: game/story/dojo_exterior.dialogue
 msgctxt "dojo_exterior_292117b8"
@@ -44386,7 +44393,7 @@ msgstr "Не зміг влаштуватися на роботу."
 #: game/story/dojo_exterior.dialogue
 msgctxt "dojo_exterior_2709905a"
 msgid "Aucune chance d'accéder au dojo..."
-msgstr "Не міг навіть потрапити в додзьо."
+msgstr "Не міг навіть потрапити в доджьо."
 
 #: game/story/dojo_exterior.dialogue
 msgctxt "dojo_exterior_da661e84"
@@ -44413,7 +44420,7 @@ msgstr "{{chiaki.n}} тут немає."
 #: game/story/dojo_exterior.dialogue
 msgctxt "dojo_exterior_aee6a768"
 msgid "En même temps, qu'est-ce qu'elle viendrait faire au dojo ?"
-msgstr "Але в той же час, що б вона робила в додзьо?"
+msgstr "Але в той же час, що б вона робила в доджьо?"
 
 #: game/story/dojo_exterior.dialogue
 msgctxt "dojo_exterior_69a49149"
@@ -45029,7 +45036,7 @@ msgstr "У нас немає таких грошей, тим більше для
 msgctxt "dojo_exterior_fa187ea1"
 msgid "De toute façon le maître du dojo nous a déjà acceptés comme disciples, donc pourquoi on irait voir ailleurs surtout avec un type aussi louche que toi ?"
 msgstr ""
-"У будь-якому разі, майстер додзьо вже прийняв нас у свої учні, тому нащо нам "
+"У будь-якому разі, майстер доджьо вже прийняв нас у свої учні, тому нащо нам "
 "йти кудись ще, особливо до такого сумнівного типу, як ти?"
 
 #: game/story/dojo_exterior.dialogue
@@ -45365,7 +45372,7 @@ msgstr "За невелику плату я можу перетворити те
 #: game/story/dojo_exterior.dialogue
 msgctxt "dojo_exterior_bc7b016e"
 msgid "... Mais vous possédez un dojo ?"
-msgstr "...Але у вас є додзьо?"
+msgstr "...Але у вас є доджьо?"
 
 #: game/story/dojo_exterior.dialogue
 msgctxt "dojo_exterior_3f438634"
@@ -45375,7 +45382,7 @@ msgstr "Ні, у мене було одне, але його вкрали."
 #: game/story/dojo_exterior.dialogue
 msgctxt "dojo_exterior_630a2a2f"
 msgid "On vous a volé votre dojo ?"
-msgstr "Хтось вкрав ваше додзьо?"
+msgstr "Хтось вкрав ваше доджьо?"
 
 #: game/story/dojo_exterior.dialogue
 msgctxt "dojo_exterior_f0497d25"
@@ -45410,7 +45417,7 @@ msgstr "Насолоджуйся цією хвилиною спокою."
 #: game/story/dojo_exterior.dialogue
 msgctxt "dojo_exterior_cf9c3de9"
 msgid "Pendant que les trois idiots apprendront à se battre dans le dojo toi tu feras quoi ?"
-msgstr "Поки троє ідіотів навчаться битися в додзьо, що ти будеш робити?"
+msgstr "Поки троє ідіотів навчаться битися в доджьо, що ти будеш робити?"
 
 #: game/story/dojo_exterior.dialogue
 msgctxt "dojo_exterior_8e307d1d"
@@ -45865,7 +45872,7 @@ msgstr ""
 #: game/story/dojo_exterior.dialogue
 msgctxt "dojo_exterior_9c448c12"
 msgid "Mais... y'a personne, même le dojo est vide..."
-msgstr "Але... Тут нікого немає. Навіть додзьо порожнє..."
+msgstr "Але... Тут нікого немає. Навіть доджьо порожнє..."
 
 #: game/story/dojo_exterior.dialogue
 msgctxt "dojo_exterior_8de5b6b6"
@@ -56215,7 +56222,7 @@ msgstr "Чорт! Він такий швидкий."
 #: game/story/konbini_exterior.dialogue
 msgctxt "konbini_exterior_733c4a7b"
 msgid "Je crois qu'il se dirigeait vers le [color=yellow]dojo[/color]."
-msgstr "Думаю, він прямував до [color=yellow]додзьо[/color]."
+msgstr "Думаю, він прямував до [color=yellow]доджьо[/color]."
 
 #: game/story/konbini_exterior.dialogue
 msgctxt "konbini_exterior_bde0f877"
@@ -57947,7 +57954,7 @@ msgstr "Я говорю лише про нас з тобою."
 #: game/story/restaurant_sakuya_room.dialogue
 msgctxt "restaurant_sakuya_room_7993b461"
 msgid "Tu me laisseras m'inscrire au dojo ?"
-msgstr "Ти дозволиш мені вступити в додзьо?"
+msgstr "Ти дозволиш мені вступити в доджьо?"
 
 #: game/story/restaurant_sakuya_room.dialogue
 msgctxt "restaurant_sakuya_room_b7119ee0"
@@ -62577,7 +62584,7 @@ msgstr "Залишилося тільки знайти останнього з �
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_556dd5b6"
 msgid "Inutile je sais où ils sont, devant le dojo."
-msgstr "Не треба. Я знаю, де вони, перед додзьо."
+msgstr "Не треба. Я знаю, де вони, перед доджьо."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_876a3018"
@@ -65445,7 +65452,7 @@ msgstr "Чорт забирай!"
 #: game/story/coffeebar_exterior.dialogue
 msgctxt "coffeebar_exterior_e8a8eed1"
 msgid "Dépêchons-nous de le rejoindre au dojo."
-msgstr "Гайда поспішимо наздогнати його в додзьо."
+msgstr "Гайда поспішимо наздогнати його в доджьо."
 
 #: game/story/coffeebar_exterior.dialogue
 msgctxt "coffeebar_exterior_bdec40fa"
@@ -73094,7 +73101,10 @@ msgstr "Отже, з чого ж почати?"
 #: game/story/home_minato_exterior.dialogue
 msgctxt "home_minato_exterior_1dfa93aa"
 msgid "Je peux voir le [color=yellow]dojo[/color], le [color=yellow]restaurant[/color], peut-être [color=yellow]devant chez moi[/color] ou encore le [color=yellow]parc[/color]."
-msgstr "Я можу перевірити в [color=yellow]додзьо[/color], [color=yellow]ресторані[/color], мабуть, [color=yellow]перед моїм будинком.[/color] або навіть у [color=yellow]парку[/color]."
+msgstr ""
+"Я можу перевірити в [color=yellow]доджьо[/color], "
+"[color=yellow]ресторані[/color], мабуть, [color=yellow]перед моїм "
+"будинком.[/color] або навіть у [color=yellow]парку[/color]."
 
 #: game/story/home_minato_exterior.dialogue
 msgctxt "home_minato_exterior_202613fb"
@@ -76691,7 +76701,7 @@ msgstr "Але я не думаю, що нам варто про неї хвил
 #: game/story/home_kenji_exterior.dialogue
 msgctxt "bar_exterior_a82feac5"
 msgid "Je suppose qu'ils vont de nouveau passer leur journée devant le dojo."
-msgstr "Гадаю, вони знову збираються провести день перед додзьо."
+msgstr "Гадаю, вони знову збираються провести день перед доджьо."
 
 #: game/story/home_kenji_exterior.dialogue
 msgctxt "bar_exterior_79c93907"
@@ -77659,7 +77669,7 @@ msgstr "І що тепер?"
 #: game/story/home_nobu_exterior.dialogue
 msgctxt "TU_T_TAIS_PAS_INSCRIT_AU_DOJO_EE2830"
 msgid "Tu t'étais pas inscrit au dojo pour pouvoir défoncer tous ceux qui te manquaient de respect ?"
-msgstr "Хіба ти не записувався у додзьо, щоб бити кожного, хто тебе не поважає?"
+msgstr "Хіба ти не записувався у доджьо, щоб бити кожного, хто тебе не поважає?"
 
 #: game/story/home_nobu_exterior.dialogue
 msgctxt "MAIS_MERDE_ARR_TE_POURQUOI_TU_0BCC63"
@@ -81359,7 +81369,7 @@ msgstr ""
 msgctxt "quests.hints"
 msgid "main_5"
 msgstr ""
-"Усе, що мені зараз потрібно зробити, це піти до [color=yellow]додзьо[/color]"
+"Усе, що мені зараз потрібно зробити, це піти до [color=yellow]доджьо[/color]"
 ". Я ненавиджу цей день..."
 
 #: game/scripts/variables/quests.gd
@@ -83237,12 +83247,12 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "noriko_femdom_5"
-msgstr "Іди запишися на [color=yellow]додзьо[/color]."
+msgstr "Іди запишися на [color=yellow]доджьо[/color]."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "noriko_femdom_6"
-msgstr "Іди до додзьо з {{noriko.n}}."
+msgstr "Іди до доджьо з {{noriko.n}}."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -83257,7 +83267,7 @@ msgstr "Піти провідати {{kimochi.n}}."
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "noriko_femdom_9"
-msgstr "Заглянь за додзьо, якщо головорізи пішли."
+msgstr "Заглянь за доджьо, якщо головорізи пішли."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -83317,7 +83327,7 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "noriko_femdom_21"
-msgstr "Слідкуй за головорізами в додзьо."
+msgstr "Слідкуй за головорізами в доджьо."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -83582,12 +83592,12 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "noriko_maledom_5_1"
-msgstr "Іди запишися на [color=yellow]додзьо[/color]."
+msgstr "Іди запишися на [color=yellow]доджьо[/color]."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "noriko_maledom_5_2"
-msgstr "Іди запишися на [color=yellow]додзьо[/color]."
+msgstr "Іди запишися на [color=yellow]доджьо[/color]."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -83602,7 +83612,7 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "noriko_maledom_8"
-msgstr "Ще раз іди запишися на [color=yellow]додзьо[/color]."
+msgstr "Ще раз іди запишися на [color=yellow]доджьо[/color]."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
