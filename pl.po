@@ -112,7 +112,7 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-08 15:23+0200\n"
-"PO-Revision-Date: 2025-06-23 13:48+0000\n"
+"PO-Revision-Date: 2025-06-26 03:54+0000\n"
 "Last-Translator: Paweł Mat <pawel_mati@interia.pl>\n"
 "Language-Team: Polish <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/pl/>\n"
@@ -1152,25 +1152,21 @@ msgid "Si tu savais tous les stratagèmes qu'il a fallu mettre en place pour jus
 msgstr "Gdybyś tylko wiedziała, ile musiałem przejść, żeby Cię zobaczyć."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
-#, fuzzy
 msgctxt "talk_yasuka_f7e890a6"
 msgid "Je suis désolée mon patron est vraiment sévère."
 msgstr "Tak mi przykro. Mój szef jest naprawdę surowy."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
-#, fuzzy
 msgctxt "talk_yasuka_af18c771"
 msgid "Tu n'as pas à t'excuser, c'est lui qui est en tort."
 msgstr "Nie musisz przepraszać. To on jest winny."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
-#, fuzzy
 msgctxt "talk_yasuka_2321f311"
 msgid "Tu as le droit de prendre une pause."
-msgstr "Masz prawo do zrobienia sobie przerwy."
+msgstr "Masz prawo zrobienić sobie przerwę."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
-#, fuzzy
 msgctxt "talk_yasuka_64486282"
 msgid "Je sais... Tu as raison."
 msgstr "Wiem... Masz racje."
@@ -1241,7 +1237,6 @@ msgid "Merci."
 msgstr "Dziękuję."
 
 #: game/story/hostess_club_exterior.dialogue
-#, fuzzy
 msgctxt "talk_yasuka_1d00a319"
 msgid "Merci."
 msgstr "Dziękuję."
@@ -4201,7 +4196,8 @@ msgstr "Wiele się od ciebie dowiedziałem."
 msgctxt "yasuka_talk_noriko_maledom_8a0b3a25"
 msgid "Je trouverai l'origine du problème et {{noriko.n}} me sourira à nouveau."
 msgstr ""
-"Znajdę źródło problemu i sprawie że noriko {{noriko.n}} znowu się uśmiechnie."
+"Znajdę źródło problemu i sprawie że noriko {{noriko.n}} znowu się do mnie "
+"uśmiechnie."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "yasuka_talk_noriko_maledom_30d7207e"
@@ -4329,7 +4325,7 @@ msgstr ""
 #: game/story/home_minato_exterior.dialogue
 msgctxt "home_minato_exterior_c2dc5b31"
 msgid "Ferme ta gueule !"
-msgstr ""
+msgstr "Zamknij się!"
 
 #: game/story/home_player_corridor.dialogue
 #, fuzzy
@@ -4682,7 +4678,7 @@ msgstr "W końcu!"
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_3d76fd1f"
 msgid "Enfin !!!"
-msgstr ""
+msgstr "Nareszcie!"
 
 #: game/story/home_player_corridor.dialogue
 #, fuzzy
@@ -4873,82 +4869,85 @@ msgstr "Podsłuchuj pod drzwiami"
 #: game/story/home_player_corridor.dialogue
 msgctxt "t2fdaa7cd0e"
 msgid "J'ai pas que ça à faire."
-msgstr ""
+msgstr "Mam lepsze rzeczy do roboty."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "talk_noriko_290f8954"
 msgid "Je peux savoir ce que tu cherches à faire ?"
-msgstr ""
+msgstr "Możesz mi powiedzieć, co próbujesz zrobić?"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "talk_noriko_1860160c"
 msgid "Tu n'avais pas le droit de faire ça."
-msgstr ""
+msgstr "Nie miałeś prawa tego zrobić."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "talk_noriko_b33eb4ad"
 msgid "Je croyais t'avoir demandé de me laisser tranquille."
-msgstr ""
+msgstr "Mówiłem ci, żebyś mnie zostawił w spokoju."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "talk_noriko_31c360db"
 msgid "Et tu es encore là, devant moi, à venir chercher les problèmes."
-msgstr ""
+msgstr "Ale ty wciąż tu jesteś, tuż przede mną, prosząc się o kłopoty"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "talk_noriko_cca26670"
 msgid "Je vais finir par penser que c'est ce que tu souhaites vraiment {{noriko.n}}."
-msgstr ""
+msgstr "Jeszcze trochę, i pomyślę że właśnie tego chcesz {{noriko.n}}."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "talk_noriko_063c8601"
 msgid "Qu.. Quoi ? C'est n'importe quoi ! Qui voudrait se laisser toucher par..."
 msgstr ""
+"Co.. Co? To kompletna bzdura! Kto by chciał być dotykany przez takiego..."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "talk_noriko_a4836727"
 msgid "Mais je rêve ou quoi, elle me sous-entend de passer à l'action ?"
-msgstr ""
+msgstr "Ja śnię, czy ona sugeruje żebym przejął inicjatywę?"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "talk_noriko_e6197d4f"
 msgid "{{noriko.n}}, je ne sais pas ce qui te passe par la tête en ce moment."
-msgstr ""
+msgstr "{{noriko.n}}, nie wiem, co teraz chodzi ci po głowie."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "talk_noriko_f30e5df6"
 msgid "Mais je suis curieux de voir ou tout ça va nous mener."
-msgstr ""
+msgstr "Ale jestem ciekaw, dokąd to wszystko doprowadzi."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "talk_noriko_6a89a728"
 msgid "Allons dans ta chambre tout de suite !"
-msgstr ""
+msgstr "Chodźmy szybko do twojego pokoju!"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "talk_noriko_0d341298"
 msgid "...D'accord."
-msgstr ""
+msgstr "...w porządku."
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "kimochi_password_85eec27b"
 msgid "...D'accord."
-msgstr ""
+msgstr "...w porządku."
 
 #: game/story/bus_stop.dialogue
 msgctxt "noriko_forgive_c7468e7e"
 msgid "...D'accord."
-msgstr ""
+msgstr "...w porządku."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "talk_noriko_13790da0"
 msgid "Si tu veux que je m'occupe de toi, tu vas devoir être plus obéissante et surtout..."
 msgstr ""
+"Jeśli chcesz, abym się tobą zaopiekował, musisz być bardziej posłuszny, a "
+"zwłaszcza..."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "talk_noriko_4f189644"
 msgid "D'être plus honnête avec toi-même..."
-msgstr ""
+msgstr "Bądź szczery wobec siebie..."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "talk_noriko_6442ef52"
@@ -4958,187 +4957,187 @@ msgstr ""
 #: game/story/home_player_corridor.dialogue
 msgctxt "talk_noriko_165eab73"
 msgid "T... t... t'es vraiment un..."
-msgstr ""
+msgstr "T... ty naprawdę..."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "talk_noriko_1b5241ef"
 msgid "Un quoi ?"
-msgstr ""
+msgstr "Co?"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "talk_noriko_c65804e0"
 msgid "Ahh..."
-msgstr ""
+msgstr "Ahh..."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "talk_noriko_7f8444a5"
 msgid "Je... Non... C'est..."
-msgstr ""
+msgstr "Ja... nie... to..."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "talk_noriko_ef83d746"
 msgid "Aah..."
-msgstr ""
+msgstr "Aah..."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "talk_noriko_21ff3bd5"
 msgid "Mmmm..."
-msgstr ""
+msgstr "Mmmm..."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "talk_noriko_084275ae"
 msgid "Je vais..."
-msgstr ""
+msgstr "Ja zaraz..."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "talk_noriko_3665f7f6"
 msgid "Han, c'est trop b-"
-msgstr ""
+msgstr "Mmm, jak dobrz-"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "talk_noriko_415201f3"
 msgid "Ça dépasse toutes mes attentes."
-msgstr ""
+msgstr "To przerosło moje wszelkie oczekiwania."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "talk_noriko_dd67902d"
 msgid "Elle semble littéralement prendre son pied."
-msgstr ""
+msgstr "Wygląda na to, że naprawdę jej się to podoba."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "talk_noriko_7a4b2c81"
 msgid "Je devrais augmenter son niveau de désir."
-msgstr ""
+msgstr "Muszę podnieść poziom jej pożądania."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "talk_noriko_135789a9"
 msgid "Rien de tel qu'un peu de frustration..."
-msgstr ""
+msgstr "Nie ma nic lepszego niż odrobina frustracji..."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "talk_noriko_15644477"
 msgid "Ça suffit."
-msgstr ""
+msgstr "Wystarczy."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "talk_noriko_cf1cd077"
 msgid "QUOI ? Non ! J'y suis pr-"
-msgstr ""
+msgstr "CO? Nie! Ja prawie do-"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "talk_noriko_90703d21"
 msgid "La prochaine fois, tu seras plus honnête avec moi."
-msgstr ""
+msgstr "Następnym razem będziesz wobec mnie bardziej szczera."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "talk_noriko_d3dd621b"
 msgid "Oh, bon sang."
-msgstr ""
+msgstr "O Boże."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "talk_noriko_09593c00"
 msgid "J'ai le cœur qui bat à 200 à l'heure."
-msgstr ""
+msgstr "Moje serce bije jak szalone."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "talk_noriko_dcaf134f"
 msgid "Il me tarde déjà d'être à la prochaine fois."
-msgstr ""
+msgstr "Już nie mogę się doczekać następnego razu."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "talk_noriko_e8800765"
 msgid "Pas si vite !"
-msgstr ""
+msgstr "Nie tak szybko!"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "talk_noriko_0891c7d4"
 msgid "Ah merde, {{noriko.n}}."
-msgstr ""
+msgstr "Kurwa, {{noriko.n}}."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "talk_noriko_85a4f684"
 msgid "Elle me tient par les couilles maintenant."
-msgstr ""
+msgstr "Teraz trzyma mnie za jaja."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "talk_noriko_b10ca948"
 msgid "S'il te plait {{noriko.n}}, je suis occupé en ce moment et..."
-msgstr ""
+msgstr "Proszę {{noriko.n}}, Jestem teraz zajęty i..."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "talk_noriko_e6d49726"
 msgid "Silence, chien."
-msgstr ""
+msgstr "Cisza, psie."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "talk_noriko_8fc87ac5"
 msgid "Tu ouvriras la bouche seulement quand je t'en donnerai la permission."
-msgstr ""
+msgstr "Będziesz mówić tylko wtedy, gdy ci na to pozwolę."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "talk_noriko_caf9d213"
 msgid "Assis !"
-msgstr ""
+msgstr "Siad!"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "talk_noriko_ace7bd46"
 msgid "Mais..."
-msgstr ""
+msgstr "Ale..."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "t1020b80467"
 msgid "Mais..."
-msgstr ""
+msgstr "Ale..."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_13d8606f"
 msgid "Mais..."
-msgstr ""
+msgstr "Ale..."
 
 #: game/story/canal.dialogue
 msgctxt "canal_ace7bd46"
 msgid "Mais..."
-msgstr ""
+msgstr "Ale..."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "talk_noriko_a6a070f1"
 msgid "Mais..."
-msgstr ""
+msgstr "Ale..."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_c99971cb"
 msgid "Mais..."
-msgstr ""
+msgstr "Ale..."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_7b53c5c8"
 msgid "Mais..."
-msgstr ""
+msgstr "Ale..."
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "talk_kimochi_3ea7f0e7"
 msgid "Mais..."
-msgstr ""
+msgstr "Ale..."
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "t98bef4c467"
 msgid "Mais..."
-msgstr ""
+msgstr "Ale..."
 
 #: game/story/bus_stop.dialogue
 msgctxt "bus_stop_a6a070f1"
 msgid "Mais..."
-msgstr ""
+msgstr "Ale..."
 
 #: game/story/home_asami_exterior.dialogue
 msgctxt "home_asami_exterior_3ea7f0e7"
 msgid "Mais..."
-msgstr ""
+msgstr "Ale..."
 
 #: game/story/home_asami_exterior.dialogue
 msgctxt "t74fdc3042d"
 msgid "Mais..."
-msgstr ""
+msgstr "Ale..."
 
 #: game/story/restaurant_exterior.dialogue
 #, fuzzy
@@ -5149,7 +5148,7 @@ msgstr "Ale..."
 #: game/story/restaurant_sakuya_room.dialogue
 msgctxt "akira_escape_ace7bd46"
 msgid "Mais..."
-msgstr ""
+msgstr "Ale..."
 
 #: game/story/home_player_exterior.dialogue
 #, fuzzy
@@ -5166,112 +5165,120 @@ msgstr "Ale..."
 #: game/story/home_player_exterior.dialogue
 msgctxt "asami_truth_4543e5f3"
 msgid "Mais..."
-msgstr ""
+msgstr "Ale..."
 
 #: game/story/park.dialogue
 msgctxt "asami_choice_c99971cb"
 msgid "Mais..."
-msgstr ""
+msgstr "Ale..."
 
 #: game/story/park.dialogue
 msgctxt "talk_natsume_3ea7f0e7"
 msgid "Mais..."
-msgstr ""
+msgstr "Ale..."
 
 #: game/story/home_kenji_exterior.dialogue
 msgctxt "bar_exterior_6c215682"
 msgid "Mais..."
-msgstr ""
+msgstr "Ale..."
 
 #: game/story/home_kenji_exterior.dialogue
 msgctxt "bar_exterior_13d8606f"
 msgid "Mais..."
-msgstr ""
+msgstr "Ale..."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "talk_noriko_13517269"
 msgid "J'ai dit assis !"
-msgstr ""
+msgstr "Powiedziałam siad!"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "talk_noriko_3df9a51c"
 msgid "J'ai beaucoup réfléchi depuis la dernière fois."
-msgstr ""
+msgstr "Dużo myślałem od ostatniego razu..."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "talk_noriko_84b2077f"
 msgid "Et je trouve que pour un chien, tu es drôlement désobéissant."
-msgstr ""
+msgstr "A ja myślę, że jak na psa jesteś strasznie nieposłuszny."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "talk_noriko_a525e043"
 msgid "À tel point que je vais devoir reprendre ton éducation en main."
 msgstr ""
+"Do tego stopnia, że będę musiała wziąć się za twoją tresurę na nowo w swoje "
+"ręce."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "talk_noriko_3619d0e8"
 msgid "Je ne supporte plus de te voir aller et venir à longueur de journée faire je ne sais quoi avec je ne sais qui."
 msgstr ""
+"Nie mogę znieść, jak ciągle się kręcisz – wychodzisz, wracasz, robisz Bóg "
+"wie co i z kim."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "talk_noriko_8ce72db8"
 msgid "Tu n'es qu'un animal comme tous les autres."
-msgstr ""
+msgstr "Jesteś tylko zwierzęciem, jak wszyscy inni."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "talk_noriko_d6749340"
 msgid "Guidé juste par ton besoin de te reproduire."
-msgstr ""
+msgstr "Kierując się wyłącznie potrzebą reprodukcji."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "talk_noriko_8f9c9cf1"
 msgid "Mais ça n'arrivera plus."
-msgstr ""
+msgstr "Ale to się już nie powtórzy."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "talk_noriko_d4bbeb03"
 msgid "Si je te vois encore trainer avec une autre femme que moi, je devrais sévir."
 msgstr ""
+"Jeśli jeszcze raz zobaczę, że spotykasz się z inną kobietą niż ja, będę "
+"musiał podjąć działania."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "talk_noriko_09cd89ea"
 msgid "Est-ce que tu comprends ?"
-msgstr ""
+msgstr "Rozumiesz?"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "talk_noriko_16020db7"
 msgid "C'est bien, tu es un gentil chien."
-msgstr ""
+msgstr "To dobrze, dobry pies."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "talk_noriko_c421c568"
 msgid "Oh, mais que vois-je ?"
-msgstr ""
+msgstr "A co ja widzę?"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "talk_noriko_96fdacd5"
 msgid "On dirait que ça t'excite en plus ?"
-msgstr ""
+msgstr "Wygląda na to, że to podnieca cię jeszcze bardziej?"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "talk_noriko_9e6a836d"
 msgid "Tu aimes te faire dominer comme ça ?"
-msgstr ""
+msgstr "Podoba ci się jak nad tobą dominuję?"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "talk_noriko_94f76d08"
 msgid "Bien sûr que t'aime ça, t'es juste un foutu pervers !"
-msgstr ""
+msgstr "Oczywiście, że ci się podoba, jesteś po prostu zboczeńcem!"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "talk_noriko_aabe56fc"
 msgid "Maintenant, la prochaine fois que je siffle, tu rappliques immédiatement, c'est compris ?"
 msgstr ""
+"Następnym razem, gdy zagwiżdżę, natychmiast przychodzisz. Czy wyrażam się "
+"jasno?"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "talk_noriko_6bb38b08"
 msgid "Parfait, dégage maintenant !"
-msgstr ""
+msgstr "Świetnie, teraz spadaj!"
 
 #: game/story/home_player_corridor.dialogue
 #, fuzzy
@@ -5342,7 +5349,7 @@ msgstr "Dupek!"
 #: game/story/home_asami_livingroom.dialogue
 msgctxt "tc6ed9e19c7"
 msgid "Connard !"
-msgstr ""
+msgstr "Idiota!"
 
 #: game/story/home_player_corridor.dialogue
 #, fuzzy
@@ -5419,7 +5426,7 @@ msgstr "Żartujesz sobie?"
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "home_asami_asami_room_2519e44f"
 msgid "Tu te fiches de moi ?"
-msgstr ""
+msgstr "Żartujesz?"
 
 #: game/story/home_player_corridor.dialogue
 #, fuzzy
@@ -5616,7 +5623,7 @@ msgstr "czy to problem?"
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_4fdacb26"
 msgid "C'est un problème ?"
-msgstr ""
+msgstr "Czy to jest problem?"
 
 #: game/story/home_player_corridor.dialogue
 #, fuzzy
@@ -85724,7 +85731,7 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_110"
-msgstr ""
+msgstr "Wróć do opuszczonego magazynu, aby uzyskać odpowiedzi."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -85784,7 +85791,7 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_122"
-msgstr ""
+msgstr "Wróć do domu {{kimochi.n}}."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -85819,7 +85826,7 @@ msgstr "[null]"
 #: game/scenes/characters/sprites/hanako.tscn game/scenes/characters/sprites/tsubaki.tscn
 msgctxt "character.sprite.group"
 msgid "face"
-msgstr ""
+msgstr "Wyrażenie"
 
 #: game/scenes/characters/sprites/saito.tscn game/scenes/characters/sprites/noriko.tscn game/scenes/characters/sprites/yasuka.tscn game/scenes/characters/sprites/chiaki.tscn
 #: game/scenes/characters/sprites/minato.tscn game/scenes/characters/sprites/macumba.tscn game/scenes/characters/sprites/natsume.tscn game/scenes/characters/sprites/sakuya.tscn
@@ -85827,7 +85834,7 @@ msgstr ""
 #: game/scenes/characters/sprites/hanako.tscn game/scenes/characters/sprites/tsubaki.tscn
 msgctxt "character.sprite.group"
 msgid "cloth"
-msgstr ""
+msgstr "Odzież"
 
 #: game/scenes/characters/sprites/saito.tscn game/scenes/characters/sprites/asami.tscn game/scenes/characters/sprites/noriko.tscn game/scenes/characters/sprites/yasuka.tscn
 #: game/scenes/characters/sprites/chiaki.tscn game/scenes/characters/sprites/minato.tscn game/scenes/characters/sprites/macumba.tscn game/scenes/characters/sprites/natsume.tscn
@@ -85837,14 +85844,14 @@ msgstr ""
 #: game/scenes/characters/sprites/hanako.tscn game/scenes/characters/sprites/tsubaki.tscn
 msgctxt "character.sprite.attribute"
 msgid "neutral"
-msgstr ""
+msgstr "Neutralny"
 
 #: game/scenes/characters/sprites/saito.tscn game/scenes/characters/sprites/asami.tscn game/scenes/characters/sprites/yasuka.tscn game/scenes/characters/sprites/minato.tscn
 #: game/scenes/characters/sprites/macumba.tscn game/scenes/characters/sprites/chef.tscn game/scenes/characters/sprites/akira.tscn game/scenes/characters/sprites/sayuri.tscn
 #: game/scenes/characters/sprites/master.tscn game/scenes/characters/sprites/erika.tscn game/scenes/characters/sprites/tsubaki.tscn
 msgctxt "character.sprite.attribute"
 msgid "upset"
-msgstr ""
+msgstr "Zdenerwowany"
 
 #: game/scenes/characters/sprites/saito.tscn game/scenes/characters/sprites/asami.tscn game/scenes/characters/sprites/noriko.tscn game/scenes/characters/sprites/yasuka.tscn
 #: game/scenes/characters/sprites/minato.tscn game/scenes/characters/sprites/macumba.tscn game/scenes/characters/sprites/natsume.tscn game/scenes/characters/sprites/sakuya.tscn
@@ -85853,7 +85860,7 @@ msgstr ""
 #: game/scenes/characters/sprites/tsubaki.tscn
 msgctxt "character.sprite.attribute"
 msgid "happy"
-msgstr ""
+msgstr "Szczęśliwy"
 
 #: game/scenes/characters/sprites/saito.tscn game/scenes/characters/sprites/asami.tscn game/scenes/characters/sprites/yasuka.tscn game/scenes/characters/sprites/chiaki.tscn
 #: game/scenes/characters/sprites/macumba.tscn game/scenes/characters/sprites/natsume.tscn game/scenes/characters/sprites/sakuya.tscn game/scenes/characters/sprites/kimochi.tscn
@@ -85861,13 +85868,13 @@ msgstr ""
 #: game/scenes/characters/sprites/tsubaki.tscn
 msgctxt "character.sprite.attribute"
 msgid "sad"
-msgstr ""
+msgstr "Smutek"
 
 #: game/scenes/characters/sprites/saito.tscn game/scenes/characters/sprites/asami.tscn game/scenes/characters/sprites/yasuka.tscn game/scenes/characters/sprites/natsume.tscn
 #: game/scenes/characters/sprites/sayuri.tscn game/scenes/characters/sprites/erika.tscn game/scenes/characters/sprites/hanako.tscn
 msgctxt "character.sprite.attribute"
 msgid "surprised"
-msgstr ""
+msgstr "Zaskoczony"
 
 #: game/scenes/characters/sprites/saito.tscn game/scenes/characters/sprites/asami.tscn game/scenes/characters/sprites/noriko.tscn game/scenes/characters/sprites/minato.tscn
 #: game/scenes/characters/sprites/natsume.tscn game/scenes/characters/sprites/sakuya.tscn game/scenes/characters/sprites/kimochi.tscn game/scenes/characters/sprites/chef.tscn
@@ -85875,17 +85882,17 @@ msgstr ""
 #: game/scenes/characters/sprites/netoru.tscn game/scenes/characters/sprites/master.tscn game/scenes/characters/sprites/cop.tscn game/scenes/characters/sprites/hanako.tscn
 msgctxt "character.sprite.attribute"
 msgid "angry"
-msgstr ""
+msgstr "Zirytowany"
 
 #: game/scenes/characters/sprites/saito.tscn
 msgctxt "character.sprite.attribute"
 msgid "guilty"
-msgstr ""
+msgstr "winny"
 
 #: game/scenes/characters/sprites/saito.tscn
 msgctxt "character.sprite.attribute"
 msgid "underwear"
-msgstr ""
+msgstr "Bielizna"
 
 #: game/scenes/characters/sprites/saito.tscn game/scenes/characters/sprites/asami.tscn game/scenes/characters/sprites/noriko.tscn game/scenes/characters/sprites/yasuka.tscn
 #: game/scenes/characters/sprites/chiaki.tscn game/scenes/characters/sprites/minato.tscn game/scenes/characters/sprites/natsume.tscn game/scenes/characters/sprites/takeo.tscn
@@ -85893,7 +85900,7 @@ msgstr ""
 #: game/scenes/characters/sprites/tsubaki.tscn
 msgctxt "character.sprite.attribute"
 msgid "everyday"
-msgstr ""
+msgstr "Codzienny"
 
 #: game/scenes/characters/sprites/saito.tscn game/scenes/characters/sprites/macumba.tscn game/scenes/characters/sprites/takeo.tscn game/scenes/characters/sprites/netoru.tscn
 msgctxt "character.sprite.attribute"
@@ -85903,7 +85910,7 @@ msgstr ""
 #: game/scenes/characters/sprites/saito.tscn game/scenes/characters/sprites/sakuya.tscn
 msgctxt "character.sprite.attribute"
 msgid "towel"
-msgstr ""
+msgstr "Ręcznik"
 
 #: game/scenes/characters/sprites/asami.tscn game/scenes/characters/sprites/tsubaki.tscn
 msgctxt "character.sprite.group"
@@ -85942,7 +85949,7 @@ msgstr ""
 #: game/scenes/characters/sprites/asami.tscn game/scenes/characters/sprites/sakuya.tscn game/scenes/characters/sprites/tsubaki.tscn
 msgctxt "character.sprite.attribute"
 msgid "bored"
-msgstr ""
+msgstr "Znudzona"
 
 #: game/scenes/characters/sprites/asami.tscn game/scenes/characters/sprites/yasuka.tscn game/scenes/characters/sprites/natsume.tscn game/scenes/characters/sprites/sakuya.tscn
 #: game/scenes/characters/sprites/sayuri.tscn game/scenes/characters/sprites/erika.tscn game/scenes/characters/sprites/hanako.tscn game/scenes/characters/sprites/tsubaki.tscn
@@ -85953,45 +85960,45 @@ msgstr ""
 #: game/scenes/characters/sprites/asami.tscn
 msgctxt "character.sprite.attribute"
 msgid "jacket"
-msgstr ""
+msgstr "Kurtka"
 
 #: game/scenes/characters/sprites/asami.tscn game/scenes/characters/sprites/yasuka.tscn game/scenes/characters/sprites/chiaki.tscn game/scenes/characters/sprites/sayuri.tscn
 msgctxt "character.sprite.attribute"
 msgid "dress"
-msgstr ""
+msgstr "Sukienka"
 
 #: game/scenes/characters/sprites/asami.tscn game/scenes/characters/sprites/noriko.tscn game/scenes/characters/sprites/yasuka.tscn game/scenes/characters/sprites/chiaki.tscn
 #: game/scenes/characters/sprites/natsume.tscn game/scenes/characters/sprites/sakuya.tscn game/scenes/characters/sprites/sayuri.tscn game/scenes/characters/sprites/erika.tscn
 #: game/scenes/characters/sprites/hanako.tscn game/scenes/characters/sprites/tsubaki.tscn
 msgctxt "character.sprite.attribute"
 msgid "nude"
-msgstr ""
+msgstr "Rozebrana"
 
 #: game/scenes/characters/sprites/asami.tscn
 msgctxt "character.sprite.attribute"
 msgid "sexy"
-msgstr ""
+msgstr "Sexy"
 
 #: game/scenes/characters/sprites/asami.tscn game/scenes/characters/sprites/noriko.tscn game/scenes/characters/sprites/yasuka.tscn game/scenes/characters/sprites/sayuri.tscn
 msgctxt "character.sprite.attribute"
 msgid "babydoll"
-msgstr ""
+msgstr "Babydoll"
 
 #: game/scenes/characters/sprites/noriko.tscn game/scenes/characters/sprites/natsume.tscn
 msgctxt "character.sprite.attribute"
 msgid "cute"
-msgstr ""
+msgstr "Uroczy"
 
 #: game/scenes/characters/sprites/noriko.tscn game/scenes/characters/sprites/kimochi.tscn game/scenes/characters/sprites/kenji.tscn game/scenes/characters/sprites/takeo.tscn
 #: game/scenes/characters/sprites/nobu.tscn game/scenes/characters/sprites/cop.tscn
 msgctxt "character.sprite.attribute"
 msgid "disgusted"
-msgstr ""
+msgstr "Zniesmaczony"
 
 #: game/scenes/characters/sprites/noriko.tscn game/scenes/characters/sprites/natsume.tscn
 msgctxt "character.sprite.attribute"
 msgid "shame"
-msgstr ""
+msgstr "Zawstydzony"
 
 #: game/scenes/characters/sprites/noriko.tscn game/scenes/characters/sprites/chiaki.tscn game/scenes/characters/sprites/natsume.tscn
 msgctxt "character.sprite.attribute"
@@ -86208,151 +86215,151 @@ msgstr ""
 
 msgctxt "preferences.variable.display_mode"
 msgid "Borderless Window:1"
-msgstr ""
+msgstr "W oknie bez ramy"
 
 msgctxt "preferences.variable.display_mode"
 msgid "Borderless Fullscreen:2"
-msgstr ""
+msgstr "Bez obramowania Pełny ekran"
 
 msgctxt "preferences.variable.display_mode"
 msgid "Fullscreen:3"
-msgstr ""
+msgstr "Fullscreen"
 
 msgctxt "preferences.variable"
 msgid "display_mode"
-msgstr ""
+msgstr "Tryb wyświetlania"
 
 msgctxt "preferences.subgroup"
 msgid "Performance"
-msgstr ""
+msgstr "Wydajność"
 
 msgctxt "preferences.variable.anisotropic_filter"
 msgid "Off:0"
-msgstr ""
+msgstr "Wyłączony"
 
 msgctxt "preferences.variable.anisotropic_filter"
 msgid "X 2:1"
-msgstr ""
+msgstr "x2"
 
 msgctxt "preferences.variable.anisotropic_filter"
 msgid "X 4:2"
-msgstr ""
+msgstr "x4"
 
 msgctxt "preferences.variable.anisotropic_filter"
 msgid "X 8:3"
-msgstr ""
+msgstr "x8"
 
 msgctxt "preferences.variable.anisotropic_filter"
 msgid "X 16:4"
-msgstr ""
+msgstr "x16"
 
 msgctxt "preferences.variable"
 msgid "anisotropic_filter"
-msgstr ""
+msgstr "Filtr anizotropowy"
 
 msgctxt "preferences.variable"
 msgid "particles"
-msgstr ""
+msgstr "Cząstki"
 
 msgctxt "preferences.variable"
 msgid "character_pulse"
-msgstr ""
+msgstr "Sprites pulse"
 
 msgctxt "preferences.subgroup"
 msgid "User Interface"
-msgstr ""
+msgstr "User Interface"
 
 msgctxt "preferences.variable"
 msgid "mobile_mode"
-msgstr ""
+msgstr "Tryb mobilny"
 
 msgctxt "preferences.variable"
 msgid "textbox_opacity"
-msgstr ""
+msgstr "Nieprzezroczystość pola tekstowego"
 
 msgctxt "preferences.variable"
 msgid "typing_speed"
-msgstr ""
+msgstr "Typing speed"
 
 msgctxt "preferences.subgroup"
 msgid "Character pubes"
-msgstr ""
+msgstr "Włosy łonowe"
 
 msgctxt "preferences.variable"
 msgid "asami_pubes"
-msgstr ""
+msgstr "Asami"
 
 msgctxt "preferences.variable"
 msgid "chiaki_pubes"
-msgstr ""
+msgstr "Chiaki"
 
 msgctxt "preferences.variable"
 msgid "erika_pubes"
-msgstr ""
+msgstr "Erika"
 
 msgctxt "preferences.variable"
 msgid "hanako_pubes"
-msgstr ""
+msgstr "Hanako"
 
 msgctxt "preferences.variable"
 msgid "natsume_pubes"
-msgstr ""
+msgstr "Natsume"
 
 msgctxt "preferences.variable"
 msgid "noriko_pubes"
-msgstr ""
+msgstr "Noriko"
 
 msgctxt "preferences.variable"
 msgid "sakuya_pubes"
-msgstr ""
+msgstr "Sakuya"
 
 msgctxt "preferences.variable"
 msgid "sayuri_pubes"
-msgstr ""
+msgstr "Sayuri"
 
 msgctxt "preferences.variable"
 msgid "tsubaki_pubes"
-msgstr ""
+msgstr "Tsubaki"
 
 msgctxt "preferences.variable"
 msgid "yasuka_pubes"
-msgstr ""
+msgstr "Yasuka"
 
 msgctxt "preferences.group"
 msgid "Audio"
-msgstr ""
+msgstr "Audio"
 
 msgctxt "preferences.variable"
 msgid "master_volume"
-msgstr ""
+msgstr "Ogólna głośność"
 
 msgctxt "preferences.variable"
 msgid "master_mute"
-msgstr ""
+msgstr "Wycisz wszystko"
 
 msgctxt "preferences.variable"
 msgid "music_volume"
-msgstr ""
+msgstr "Wyciszenie muzyki"
 
 msgctxt "preferences.variable"
 msgid "music_mute"
-msgstr ""
+msgstr "Wyciszenie muzyki"
 
 msgctxt "preferences.variable"
 msgid "sound_volume"
-msgstr ""
+msgstr "Głośność dźwięku"
 
 msgctxt "preferences.variable"
 msgid "sound_mute"
-msgstr ""
+msgstr "Wyciszenie dźwięku"
 
 msgctxt "preferences.group"
 msgid "Gameplay"
-msgstr ""
+msgstr "Gameplay"
 
 msgctxt "preferences.subgroup"
 msgid "Auto-save"
-msgstr ""
+msgstr "Auto-save"
 
 msgctxt "preferences.variable"
 msgid "auto_on_choice"
@@ -86360,19 +86367,19 @@ msgstr ""
 
 msgctxt "preferences.variable"
 msgid "auto_before_quit"
-msgstr ""
+msgstr "Automatyczne zapisywanie przed wyjściem"
 
 msgctxt "preferences.subgroup"
 msgid "Hints"
-msgstr ""
+msgstr "Porady"
 
 msgctxt "preferences.variable"
 msgid "path_hints"
-msgstr ""
+msgstr "Wskazówki dotyczące wyboru"
 
 msgctxt "preferences.subgroup"
 msgid "Skip"
-msgstr ""
+msgstr "Szybkie przewijanie"
 
 msgctxt "preferences.variable"
 msgid "skip_unseen"
@@ -86662,7 +86669,7 @@ msgstr "{{noriko.n}} (śpi)"
 #: game/scenes/locations/home_player_saito_room.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "Walkman"
-msgstr ""
+msgstr "Walkman"
 
 #: game/scenes/locations/home_player_saito_room.tscn
 msgctxt "galleries.backgrounds.sprite"
@@ -86867,15 +86874,15 @@ msgstr "odrzucić"
 
 msgctxt "chapters.choices"
 msgid "noriko/femdom"
-msgstr "Kobieca dominacja"
+msgstr "Femdom"
 
 msgctxt "chapters.choices"
 msgid "noriko/maledom"
-msgstr ""
+msgstr "Maledom"
 
 msgctxt "chapters.choices"
 msgid "asami/corruption"
-msgstr "Korupcja"
+msgstr "Corruption"
 
 msgctxt "chapters.choices"
 msgid "asami/friendship"
@@ -86887,11 +86894,11 @@ msgstr "Miłość"
 
 msgctxt "chapters.choices"
 msgid "sakuya/nosex"
-msgstr ""
+msgstr "Bez seksu"
 
 msgctxt "chapters.choices"
 msgid "sakuya/sex"
-msgstr ""
+msgstr "Seks"
 
 #, fuzzy
 #~ msgctxt "intro_cb62efe6"
