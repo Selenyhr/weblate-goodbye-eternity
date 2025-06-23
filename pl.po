@@ -112,14 +112,16 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-08 15:23+0200\n"
-"PO-Revision-Date: 2025-04-23 17:52+0000\n"
-"Last-Translator: Jeras Kiśnia <eymenhamza51@gmail.com>\n"
-"Language-Team: Polish <https://translations.teot-studio.com/projects/goodbye-eternity/game-translation/pl/>\n"
+"PO-Revision-Date: 2025-06-23 12:51+0000\n"
+"Last-Translator: Paweł Mat <pawel_mati@interia.pl>\n"
+"Language-Team: Polish <https://translations.teot-studio.com/projects/"
+"goodbye-eternity/game-translation/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8-bit\n"
-"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 4.17\n"
 
 #: game/scenes/cg/noriko/laptop.tscn
@@ -267,22 +269,22 @@ msgstr "Starzec"
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Policier"
-msgstr ""
+msgstr "Policjant"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Erika"
-msgstr ""
+msgstr "Erika"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Hanako"
-msgstr ""
+msgstr "Hanako"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Tsubaki"
-msgstr ""
+msgstr "Tsubaki"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
@@ -461,16 +463,23 @@ msgstr ""
 #: game/scenes/gui/splashscreen.tscn
 msgid "Certaines scènes de ce jeu peuvent contenir du contenu sexuellement explicite et pourrait choquer un jeune public. Tous les personnages de ce jeu sont majeurs."
 msgstr ""
+"Niektóre sceny w tej grze mogą zawierać treści o charakterze seksualnym i "
+"mogą być nieodpowiednie dla młodych odbiorców. Wszystkie postacie w tej grze "
+"są dorosłe."
 
 #: game/scenes/gui/splashscreen.tscn
 msgid ""
 "Pendant votre aventure, vos choix impacteront votre entourage, si vous rejetez plusieurs fois un personnage attendez vous a ce qu’il aille voir ailleurs. Tout ceci dans le but de garder une "
 "certaine cohérence avec le monde réel."
 msgstr ""
+"Podczas twojej przygody, twoje wybory będą miały wpływ na osoby wokół "
+"ciebie. Jeśli odrzucisz postać kilka razy, może ona zacząć spotykać się z "
+"innymi ludźmi. Ma to na celu zachowanie pewnej spójności ze światem "
+"rzeczywistym"
 
 #: game/scenes/gui/splashscreen.tscn
 msgid "Vos actions auront des conséquences..."
-msgstr ""
+msgstr "Twoje działania będą miały konsekwencje..."
 
 #: game/scenes/gui/splashscreen.tscn
 msgid "[fill]Certaines [url=data]données anonymes[/url] peuvent être récoltées pour améliorer l'expérience de jeu.[/fill]"
@@ -488,6 +497,8 @@ msgstr ""
 #: game/scenes/gui/splashscreen.tscn
 msgid "Ces données seront recueillies après acceptation de ces termes, et ne contiennent pas d'identifiant direct ni informations externes au jeu."
 msgstr ""
+"Dane te zostaną zebrane po zaakceptowaniu niniejszych warunków i nie "
+"zawierają żadnych bezpośrednich identyfikatorów ani informacji spoza gry."
 
 #: game/scenes/gui/splashscreen.tscn
 msgid "[url=disclaimer]Retour[/url]"
@@ -495,7 +506,7 @@ msgstr ""
 
 #: game/scenes/gui/splashscreen.tscn
 msgid "Je gère !"
-msgstr ""
+msgstr "Dam sobie radę!"
 
 #: game/scenes/gui/splashscreen.tscn
 msgid "Sortez-moi d'ici !"
@@ -1208,12 +1219,12 @@ msgstr "Dziękuję."
 #: game/story/home_asami_livingroom.dialogue
 msgctxt "menu_sayuri_kitchen_f9bce8f0"
 msgid "Merci."
-msgstr ""
+msgstr "Dzięki"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "t071ac4e14f"
 msgid "Merci."
-msgstr ""
+msgstr "Dzięki"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "home_player_exterior_f9bce8f0"
@@ -1276,17 +1287,17 @@ msgstr "{{saito.n}}!"
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_af525fe0"
 msgid "{{saito.n}} !"
-msgstr ""
+msgstr "{{saito.n}}!"
 
 #: game/story/park.dialogue
 msgctxt "park_c333f4dc"
 msgid "{{saito.n}} !"
-msgstr ""
+msgstr "{{saito.n}} !"
 
 #: game/story/home_nobu_exterior.dialogue
 msgctxt "home_nobu_exterior_44784a8a"
 msgid "{{saito.n}} !"
-msgstr ""
+msgstr "{{saito.n}} !"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 #, fuzzy
@@ -1326,7 +1337,7 @@ msgstr "Rozumiem..."
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_0a07202a"
 msgid "Je comprends..."
-msgstr ""
+msgstr "Rozumiem..."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 #, fuzzy
@@ -1379,7 +1390,7 @@ msgstr "To moja sprawa."
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "tdce6f79343"
 msgid "Ça ne vous regarde absolument pas !"
-msgstr ""
+msgstr "Nie twoja sprawa!"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 #, fuzzy
@@ -1396,7 +1407,7 @@ msgstr "Żeby była twoją matką, musiałaby cię urodzić w wieku, jakoś, 16 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "tde8d9d429e"
 msgid "Ma mère !"
-msgstr ""
+msgstr "Moja matka!"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 #, fuzzy
@@ -1407,42 +1418,42 @@ msgstr "Co?!"
 #: game/story/canal.dialogue
 msgctxt "t60ba0d0c8c"
 msgid "Quoi ?!"
-msgstr ""
+msgstr "Co?!"
 
 #: game/story/canal.dialogue
 msgctxt "canal_6d04f7e8_1"
 msgid "Quoi ?!"
-msgstr ""
+msgstr "Co?!"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_19382569"
 msgid "Quoi ?!"
-msgstr ""
+msgstr "Co?!"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_6d04f7e8"
 msgid "Quoi ?!"
-msgstr ""
+msgstr "Co?!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_0c4c69cb"
 msgid "Quoi ?!"
-msgstr ""
+msgstr "Co?!"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_69f683d3"
 msgid "Quoi ?!"
-msgstr ""
+msgstr "Co?!"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_b8b42645"
 msgid "Quoi ?!"
-msgstr ""
+msgstr "Co?!"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_5b7a41d0"
 msgid "Quoi ?!"
-msgstr ""
+msgstr "Co?!"
 
 #: game/story/dojo_exterior.dialogue
 #, fuzzy
@@ -1453,12 +1464,12 @@ msgstr "Co?!"
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "talk_noriko_649da96d"
 msgid "Quoi ?!"
-msgstr ""
+msgstr "Co?!"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "talk_sakuya_fc523c04"
 msgid "Quoi ?!"
-msgstr ""
+msgstr "Co?!"
 
 #: game/story/home_player_exterior.dialogue
 #, fuzzy
@@ -1469,27 +1480,27 @@ msgstr "Co?!"
 #: game/story/love_hotel_exterior.dialogue
 msgctxt "love_hotel_exterior_93d8ae63"
 msgid "Quoi ?!"
-msgstr ""
+msgstr "Co?!"
 
 #: game/story/park.dialogue
 msgctxt "park_6d04f7e8"
 msgid "Quoi ?!"
-msgstr ""
+msgstr "Co?!"
 
 #: game/story/home_minato_exterior.dialogue
 msgctxt "home_minato_exterior_6d04f7e8"
 msgid "Quoi ?!"
-msgstr ""
+msgstr "Co?!"
 
 #: game/story/home_kenji_exterior.dialogue
 msgctxt "QUOI_DA01E5"
 msgid "Quoi ?!"
-msgstr ""
+msgstr "Co?!"
 
 #: game/story/amusement_park_interior.dialogue
 msgctxt "t5563aa424e"
 msgid "Quoi ?!"
-msgstr ""
+msgstr "Co?!"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 #, fuzzy
@@ -1500,7 +1511,7 @@ msgstr "Przestań być mądralą i wynoś się stąd, zanim wezwę policję!"
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "tc900499874"
 msgid "La femme de ma vie !"
-msgstr ""
+msgstr "Miłość mojego życia!"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 #, fuzzy
@@ -1644,22 +1655,22 @@ msgstr "..."
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_a21e86ee_1"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "tf01faab14a"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "tb58226ef9d"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "tcaa1b16bb4"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/home_natsume_exterior.dialogue
 msgctxt "home_natsume_exterior_bd4a924e"
@@ -1689,7 +1700,7 @@ msgstr "..."
 #: game/story/warehouse_exterior.dialogue
 msgctxt "t5f74ae7a1f"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "home_kimochi_exterior_7639bcca"
@@ -1709,52 +1720,52 @@ msgstr "..."
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "home_kimochi_exterior_859dc21e"
 msgid "..."
-msgstr ""
+msgstr "…"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "home_kimochi_exterior_03775ec8_2"
 msgid "..."
-msgstr ""
+msgstr "…"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "home_kimochi_exterior_ca49ee26"
 msgid "..."
-msgstr ""
+msgstr "…"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "home_kimochi_exterior_898b1990"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/onsen_bath.dialogue
 msgctxt "t39a93ffac4"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/canal.dialogue
 msgctxt "canal_6a1adb7c"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/canal.dialogue
 msgctxt "canal_03775ec8_1"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/canal.dialogue
 msgctxt "ta01b77093f"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/canal.dialogue
 msgctxt "canal_03775ec8_3"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/canal.dialogue
 msgctxt "canal_03775ec8_4"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/canal.dialogue
 msgctxt "canal_03775ec8"
@@ -1814,7 +1825,7 @@ msgstr "..."
 #: game/story/home_player_saito_room.dialogue
 msgctxt "ta2dccf3a0b"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_a21e86ee"
@@ -1974,22 +1985,22 @@ msgstr "..."
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_a21e86ee_2"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_ed6623a0_2"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "ta12bed8b17"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "td7358f7acf"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
 #, fuzzy
@@ -2095,12 +2106,12 @@ msgstr "..."
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_859dc21e"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_ae713cd0_2"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_b4e69ca9"
@@ -2165,17 +2176,17 @@ msgstr "..."
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_ae713cd0_4"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "t9cb4ca02bb"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "t3cbcb8d970"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "menu_sayuri_konbini_898b1990"
@@ -2185,12 +2196,12 @@ msgstr "..."
 #: game/story/konbini_interior.dialogue
 msgctxt "t204a3e6b27"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "t96081ec5f7"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/warehouse_interior.dialogue
 msgctxt "warehouse_interior_83ffb293"
@@ -2210,12 +2221,12 @@ msgstr "..."
 #: game/story/arcade_exterior.dialogue
 msgctxt "tc51296653b"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/arcade_exterior.dialogue
 msgctxt "ta963a2a822"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/love_hotel_reception.dialogue
 msgctxt "love_hotel_reception_b14bf260"
@@ -2225,7 +2236,7 @@ msgstr "..."
 #: game/story/love_hotel_reception.dialogue
 msgctxt "t5bcfe4757c"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/home_player_hallway.dialogue
 #, fuzzy
@@ -2254,32 +2265,33 @@ msgstr "..."
 #: game/story/home_player_hallway.dialogue
 msgctxt "t872e1234e6"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/home_player_hallway.dialogue
 msgctxt "ta301e36e4e"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/home_player_hallway.dialogue
 msgctxt "t8bde632322"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/home_player_hallway.dialogue
 msgctxt "t58169b92dc"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/home_player_hallway.dialogue
+#, fuzzy
 msgctxt "tc06f62f56a"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/home_player_hallway.dialogue
 msgctxt "t355be6e5ba"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/restaurant_interior.dialogue
 msgctxt "talk_sakuya_4ef4028e"
@@ -2299,12 +2311,12 @@ msgstr "..."
 #: game/story/restaurant_interior.dialogue
 msgctxt "t70ad7ccf7d"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/home_asami_livingroom.dialogue
 msgctxt "td11dd8b9b3"
 msgid "..."
-msgstr ""
+msgstr "…"
 
 #: game/story/home_asami_livingroom.dialogue
 msgctxt "home_asami_livingroom_03775ec8"
@@ -2319,27 +2331,27 @@ msgstr "..."
 #: game/story/home_asami_livingroom.dialogue
 msgctxt "td70e6e67ab"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/home_asami_livingroom.dialogue
 msgctxt "t0be4a33b3a"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/home_asami_livingroom.dialogue
 msgctxt "t6f74920340"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/home_asami_livingroom.dialogue
 msgctxt "td57711da10"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/onsen_room.dialogue
 msgctxt "td82d317e93"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/onsen_interior.dialogue
 msgctxt "onsen_interior_03775ec8"
@@ -2349,7 +2361,7 @@ msgstr "..."
 #: game/story/onsen_interior.dialogue
 msgctxt "t94e4e260d0"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "kimochi_password_ed6623a0"
@@ -2384,12 +2396,12 @@ msgstr "..."
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_859dc21e"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "home_kimochi_interior_859dc21e_1"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/introduction.dialogue
 #, fuzzy
@@ -2477,37 +2489,37 @@ msgstr "..."
 #: game/story/dojo_exterior.dialogue
 msgctxt "dojo_exterior_c342f2e7"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/dojo_exterior.dialogue
 msgctxt "dojo_exterior_d92934d2"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/dojo_exterior.dialogue
 msgctxt "dojo_exterior_b8cb9f97_1"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/dojo_exterior.dialogue
 msgctxt "dojo_exterior_b8cb9f97_2"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/dojo_exterior.dialogue
 msgctxt "dojo_exterior_d63d6b65_1"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/dojo_exterior.dialogue
 msgctxt "dojo_exterior_aad6404e"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/dojo_exterior.dialogue
 msgctxt "dojo_exterior_aad6404e_1"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/bus_stop.dialogue
 msgctxt "bus_stop_29cd7803"
@@ -2532,32 +2544,32 @@ msgstr "..."
 #: game/story/bus_stop.dialogue
 msgctxt "noriko_forgive_898b1990"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/lake.dialogue
 msgctxt "lake_03775ec8"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/lake.dialogue
 msgctxt "lake_03775ec8_1"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/lake.dialogue
 msgctxt "t8be7dc1f1c"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/lake.dialogue
 msgctxt "lake_29cd7803"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/home_asami_exterior.dialogue
 msgctxt "home_asami_exterior_03775ec8"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/home_asami_exterior.dialogue
 msgctxt "home_asami_exterior_87c30b61"
@@ -2652,37 +2664,37 @@ msgstr "..."
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "t3f9c49d299"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_6a1adb7c"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_29cd7803_1"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_637ce628"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "choice_noriko_cunni_7844d295"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "tc86cddc9dc"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "tcab9fc6df0"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/restaurant_exterior.dialogue
 #, fuzzy
@@ -2760,7 +2772,7 @@ msgstr "..."
 #: game/story/konbini_exterior.dialogue
 msgctxt "t0915597108"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/konbini_exterior.dialogue
 msgctxt "konbini_exterior_03775ec8"
@@ -2851,17 +2863,17 @@ msgstr "..."
 #: game/story/home_player_exterior.dialogue
 msgctxt "t8f0b6fb415"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "t232fbd9bf3"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "te77a993896"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/home_player_exterior.dialogue
 #, fuzzy
@@ -2949,7 +2961,7 @@ msgstr "..."
 #: game/story/home_player_exterior.dialogue
 msgctxt "t0fdce11ac1"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/love_hotel_exterior.dialogue
 msgctxt "love_hotel_exterior_ed6623a0"
@@ -3044,12 +3056,12 @@ msgstr "..."
 #: game/story/park.dialogue
 msgctxt "te3575e0e4c"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/park.dialogue
 msgctxt "tddf15eab8d"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/park.dialogue
 msgctxt "park_03775ec8"
@@ -3169,47 +3181,47 @@ msgstr "..."
 #: game/story/park.dialogue
 msgctxt "menu_macumba_ed6623a0"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/park.dialogue
 msgctxt "park_859dc21e"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/park.dialogue
 msgctxt "ta83d00658f"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/hostess_club_alley.dialogue
 msgctxt "ta7bface5ce"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/hostess_club_alley.dialogue
 msgctxt "t8c62ab70f3"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/hostess_club_alley.dialogue
 msgctxt "t6da9922d7f"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/home_minato_exterior.dialogue
 msgctxt "home_minato_exterior_83ffb293"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/home_minato_exterior.dialogue
 msgctxt "home_minato_exterior_6a1adb7c"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/home_minato_exterior.dialogue
 msgctxt "home_minato_exterior_03775ec8"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/home_minato_exterior.dialogue
 msgctxt "home_minato_exterior_b4e69ca9"
@@ -3295,87 +3307,87 @@ msgstr "..."
 #: game/story/home_kenji_exterior.dialogue
 msgctxt "bar_exterior_29cd7803"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/home_kenji_exterior.dialogue
 msgctxt "bar_exterior_aad6404e"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/home_kenji_exterior.dialogue
 msgctxt "bar_exterior_aad6404e_1"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/home_nobu_exterior.dialogue
 msgctxt "event_nobu_fight_at_home_0b382599"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/home_nobu_exterior.dialogue
 msgctxt "home_nobu_exterior_03775ec8"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/arcade_interior.dialogue
 msgctxt "_3F9E71"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/home_minato_hallway.dialogue
 msgctxt "t4ff6dbb309"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/home_asami_bathroom.dialogue
 msgctxt "t693273e091"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "t77fb0b8a12"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "t05328323b7"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "tfcef30ccb5"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "t82e78a9bd0"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "t9eef5cefc2"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "t6b78a40ccb"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "teba4cbc7c3"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "t5e0b7a179f"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/home_asami_sayuri_room.dialogue
 msgctxt "t8fda756839"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 #, fuzzy
@@ -3416,12 +3428,12 @@ msgstr "Zostawię cię z twoim... {{yasuka_coffeebar_answer!t}}."
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "tee9d2a10d2"
 msgid "Je vous laisse avec votre... fils."
-msgstr ""
+msgstr "Zostawię cię z twoim... synem."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "td13ff2e22e"
 msgid "Je vous laisse avec votre... partenaire."
-msgstr ""
+msgstr "Zostawię Cię z Twoim... partnerem."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 #, fuzzy
@@ -3444,12 +3456,12 @@ msgstr "Wróć do domu. Możemy o tym porozmawiać, kiedy tu skończę."
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_b4be6f6a"
 msgid "Personne à l'intérieur non plus, c'est vraiment étrange."
-msgstr ""
+msgstr "W środku też nikogo nie ma. To naprawdę dziwne."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_76e8e484"
 msgid "Il a dû se passer un truc cette nuit."
-msgstr ""
+msgstr "Coś się musiało wydarzyć poprzedniej nocy."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_019f200a"
@@ -3469,42 +3481,44 @@ msgstr ""
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_454dc301"
 msgid "Tu es surpris ?"
-msgstr ""
+msgstr "Jesteś zaskoczony?"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_59acee05"
 msgid "Le mot est faible..."
-msgstr ""
+msgstr "Delikatnie mówiąc..."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_a0f28b52"
 msgid "Tu avais des doutes ?"
-msgstr ""
+msgstr "Masz jakieś wątpliwości?"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_c41469da"
 msgid "Je n'ai raconté tous mes problèmes qu'à une seule personne."
-msgstr ""
+msgstr "powiedziałam o swoich problemach tylko jednej osobie"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_ef90dbbb"
 msgid "Et cette personne, c'était moi."
-msgstr ""
+msgstr "I to byłem ja."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_7648545e"
 msgid "Que lui est-il arrivé ?"
-msgstr ""
+msgstr "Co się z nim stało?"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_6d81239f"
 msgid "Oh, lui ? Il est toujours vivant."
-msgstr ""
+msgstr "O, on? On nadal żyje."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_c2ee4dc9"
 msgid "Il me reste deux ou trois choses à régler et toute cette histoire sera derrière nous."
 msgstr ""
+"Mam jeszcze kilka spraw do załatwienia, a potem będę mógł o tym wszystkim "
+"zapomnieć."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_0cbce7c2"
@@ -3539,7 +3553,7 @@ msgstr ""
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "TU_VIENS_7F5C2A"
 msgid "Tu viens ?"
-msgstr ""
+msgstr "Idziesz?"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_68138ac2"
@@ -3579,57 +3593,59 @@ msgstr ""
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_dcfbfbe3"
 msgid "Je constate que tu n'as pas perdu de temps."
-msgstr ""
+msgstr "Widzę, że nie marnowałeś czasu."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_cd56f517"
 msgid "Je ne supportais plus de rester là à ne rien faire."
-msgstr ""
+msgstr "Nie mogłem po prostu siedzieć i nic nie robić."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_4497dc2c"
 msgid "Tu t'es occupé de tous mes problèmes, tu as été formidable."
-msgstr ""
+msgstr "Zająłeś się wszystkimi moimi problemami! Jesteś niesamowity."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_b9c66c77"
 msgid "Je ne pourrais jamais assez te remercier."
-msgstr ""
+msgstr "Nigdy nie będę w stanie ci się odwdzięczyć."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_b9c9f2f8"
 msgid "Tu n'as pas besoins de me remercier, mais..."
-msgstr ""
+msgstr "Nie musisz mi dziękować, ale..."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_5f7ace04"
 msgid "Si tu insistes, je peux..."
-msgstr ""
+msgstr "Jeśli nalegasz, to mogę..."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_fcf81914"
 msgid "Shhh, n'en dis pas plus ! J'ai compris."
-msgstr ""
+msgstr "Ciii! Ani słowa więcej! Rozumiem."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_85085b88"
 msgid "Retrouve-moi à la maison en fin de journée, je m'occuperais de toi."
-msgstr ""
+msgstr "Przyjdź do mnie dziś wieczorem, a ja się tobą zajmę."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_780a890f"
 msgid "Avec plaisir alors, à ce soir !"
-msgstr ""
+msgstr "Z przyjemnością. Do zobaczenia wieczorem!"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_41499d63"
 msgid "J'ai hâte d'y être, ce soir mon chéri !"
-msgstr ""
+msgstr "Nie mogę się doczekać. Do zobaczenia wieczorem, kochanie!"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_d3f41477"
 msgid "Gamin, j'espère que tu as de quoi commander, sinon tu peux ressortir tout de suite."
 msgstr ""
+"Dzieciaku, mam nadzieję, że masz coś zamówisz. W przeciwnym razie możesz "
+"wyjść już teraz."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_f4f2b1e5"
@@ -3639,32 +3655,32 @@ msgstr ""
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_ced09ecf"
 msgid "J'espère juste qu'elle l'a surestimée."
-msgstr ""
+msgstr "Mam nadzieję, że przesadza."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_c5322b67"
 msgid "Je ne sais pas s'il sera sensible à mes problèmes."
-msgstr ""
+msgstr "Nie wiem, czy zrozumie moje problemy."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_19c8916a"
 msgid "Mais j'ai comme un gros doute."
-msgstr ""
+msgstr "Ale mam wiele wątpliwości."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_15e7b9f7"
 msgid "Dépêche-toi, je n'ai pas que ça à faire !"
-msgstr ""
+msgstr "Pospiesz się. Mam lepsze rzeczy do roboty!"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_6dddebf6"
 msgid "Oui, j'aimerais commander s'il vous plait."
-msgstr ""
+msgstr "Tak, chcę złożyć zamówienie."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_1095df51"
 msgid "Tchh"
-msgstr ""
+msgstr "Tchh"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_1cd11301"
@@ -3674,67 +3690,69 @@ msgstr ""
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_31d77837"
 msgid "Bon, je vais fermer, c'est le moment pour toi de partir."
-msgstr ""
+msgstr "Okej, zamykam sklep. Czas, żebyś sobie poszedł."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_cd8861e5"
 msgid "Merde ! Ils sont encore là à m'attendre."
-msgstr ""
+msgstr "Kurwa! Oni wciąż tu na mnie czekają."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_64067c20"
 msgid "Je sais pas comment je vais me tirer de ce mauvais pas."
-msgstr ""
+msgstr "Nie wiem, jak wybrnę z tej sytuacji."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_678fa7b8"
 msgid "Ils sont décidés à vouloir ma peau."
-msgstr ""
+msgstr "Są zdeterminowani, żeby mieć moją skórę"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_16eef316"
 msgid "Il me faut une idée brillante."
-msgstr ""
+msgstr "Potrzebuję jakiegoś genialnego pomysłu."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_f17e1fde"
 msgid "Il me semblait qu'avant, il y avait une femme qui travaillait ici."
-msgstr ""
+msgstr "Wydaje mi się, że kiedyś pracowała tu pewna kobieta."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_a2a9adcd"
 msgid "Ce n'est plus le cas ?"
-msgstr ""
+msgstr "Czy już tak nie jest?"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_43aac03c"
 msgid "Qu'est-ce que ça peut te faire ? Cette foutue ingrate a démissionné, maintenant, je me tape tout le boulot."
 msgstr ""
+"Co cię to obchodzi? Ten cholerny niewdzięcznik zrezygnował, więc teraz ja "
+"muszę robić całą robotę."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_bea2a22f"
 msgid "Oula doucement, je ne cherche pas les problèmes."
-msgstr ""
+msgstr "Wow, spokojnie. Nie szukam kłopotów."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_c6b40686"
 msgid "Vous cherchez quelqu'un pour la remplacer ?"
-msgstr ""
+msgstr "Szukasz kogoś na jej miejsce?"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_63dccf2a"
 msgid "...Toi ?"
-msgstr ""
+msgstr "...Ty?"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_728cbd2a"
 msgid "Me fait pas rire !"
-msgstr ""
+msgstr "Nie rozśmieszaj mnie!"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_356148b6"
 msgid "Allez tire toi !"
-msgstr ""
+msgstr "No dalej, spadaj!"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_2f904ecf"
@@ -3754,12 +3772,12 @@ msgstr ""
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_12e2ae94"
 msgid "Je crois bien que quelqu'un va passer un sale moment."
-msgstr ""
+msgstr "Myślę, że ktoś będzie miał kłopoty."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_9d8abc0f"
 msgid "...Vous ne comptez pas m'aider ?"
-msgstr ""
+msgstr "...Nie pomożesz mi?"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_8fd8e5da"
@@ -3816,7 +3834,7 @@ msgstr ""
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_6537e934"
 msgid "Attendez... J'aimerais avoir une copie de l'enregistrement s'il vous plait."
-msgstr ""
+msgstr "Poczekaj... Czy możesz mi dać kopię nagrania?"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_009117d1"
