@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-08 15:23+0200\n"
-"PO-Revision-Date: 2025-07-13 09:52+0000\n"
-"Last-Translator: min <minotch@gmail.com>\n"
+"PO-Revision-Date: 2025-07-29 12:51+0000\n"
+"Last-Translator: Jpman <bus21684@gmail.com>\n"
 "Language-Team: Japanese <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/ja/>\n"
 "Language: ja\n"
@@ -342,13 +342,12 @@ msgid "Vous pouvez dès à présent poursuivre l’histoire de {{yasuka.n}}."
 msgstr "これで{yasuka.n}のストーリーを続けることが出来ます。"
 
 #: game/scenes/gui/gui_start_yasuka.tscn
-#, fuzzy
 msgid "Vous avez fait le choix de l'[color=yellow]aimer et de la soutenir[/color]."
 msgstr "あなたは[color=yellow]彼女を愛して支える[/color]道を選んだ."
 
 #: game/scenes/gui/gui_start_yasuka.tscn
 msgid "Vous avez fait le choix de la laisser [color=yellow]travailler au bar à hôtesse[/color]."
-msgstr ""
+msgstr "あなたは彼女を[color=yellow]ホステスバーで働かせる[/color]ことにしました。"
 
 #: game/scenes/gui/splashscreen.tscn
 msgid "Certaines scènes de ce jeu peuvent contenir du contenu sexuellement explicite et pourrait choquer un jeune public. Tous les personnages de ce jeu sont majeurs."
@@ -416,12 +415,12 @@ msgstr "良い一日を過ごしてね。"
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_7b2c5ef2"
 msgid "Passe une bonne journée mon chéri."
-msgstr ""
+msgstr "おはよう。"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_13f52085"
 msgid "Bonjour mon chéri."
-msgstr ""
+msgstr "おはよう。"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_8cc61393"
