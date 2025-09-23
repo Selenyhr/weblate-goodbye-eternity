@@ -112,8 +112,8 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-08 15:23+0200\n"
-"PO-Revision-Date: 2025-05-29 23:52+0000\n"
-"Last-Translator: Lucas <lucas25amaral@gmail.com>\n"
+"PO-Revision-Date: 2025-09-23 02:14+0000\n"
+"Last-Translator: Guilherme Cruz <guilhermevader@hotmail.com>\n"
 "Language-Team: Portuguese <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/pt/>\n"
 "Language: pt\n"
@@ -278,12 +278,12 @@ msgstr "Érika"
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Hanako"
-msgstr "hanako"
+msgstr "Hanako"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Tsubaki"
-msgstr "tsubaki"
+msgstr "Tsubaki"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
@@ -313,22 +313,22 @@ msgstr "Konbini"
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "home_minato_exterior"
-msgstr "Casa do {minato.n}"
+msgstr "Casa do {{minato.n}}"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "home_asami_exterior"
-msgstr "Casa de {{asami.n}}"
+msgstr "Casa da {{asami.n}}"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "home_kimochi_exterior"
-msgstr "Casa de {{kimochi.n}}"
+msgstr "Casa do {{kimochi.n}}"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "home_natsume_exterior"
-msgstr "Casa de {{natsume.n}"
+msgstr "Casa da {{natsume.n}}"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
@@ -348,12 +348,12 @@ msgstr "Love Hotel (Exterior)"
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "onsen_exterior"
-msgstr "Onsen"
+msgstr "Casa de Banho"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "warehouse_exterior"
-msgstr "Exterior do armazém"
+msgstr "Exterior do Armazém"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
@@ -363,12 +363,12 @@ msgstr "Canal"
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "bus_stop"
-msgstr "Ponto de ônibus"
+msgstr "Ponto de Ônibus"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "arcade_exterior"
-msgstr "Arcade (Exterior)"
+msgstr "Fliperama (Exterior)"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
@@ -383,17 +383,17 @@ msgstr "Casa de {{kenji.n}}"
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "home_nobu_exterior"
-msgstr "Casa de {{nobu.n}}"
+msgstr "Casa do {{nobu.n}}"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "home_takeo_exterior"
-msgstr "Casa de {{takeo.n}}"
+msgstr "Casa do {{takeo.n}}"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "amusement_park_exterior"
-msgstr "Parque de diversões (ao ar livre)"
+msgstr "Parque de Diversões (Exterior)"
 
 #: game/scenes/gui/gui_location.tscn
 msgid "Lundi"
@@ -453,11 +453,11 @@ msgstr "Agora você pode continuar a história de {{yasuka.n}}."
 
 #: game/scenes/gui/gui_start_yasuka.tscn
 msgid "Vous avez fait le choix de l'[color=yellow]aimer et de la soutenir[/color]."
-msgstr "Você fez a escolha de amar e apoiar [color=yellow][/color]."
+msgstr "Você fez a escolha de [color=yellow]amar e apoiar[/color]."
 
 #: game/scenes/gui/gui_start_yasuka.tscn
 msgid "Vous avez fait le choix de la laisser [color=yellow]travailler au bar à hôtesse[/color]."
-msgstr "Você optou por deixá-la [color=yellow]trabalhar no bar da recepcionista[/color]."
+msgstr "Você optou por deixá-la [color=yellow]trabalhar no Hostess Bar[/color]."
 
 #: game/scenes/gui/splashscreen.tscn
 msgid "Certaines scènes de ce jeu peuvent contenir du contenu sexuellement explicite et pourrait choquer un jeune public. Tous les personnages de ce jeu sont majeurs."
@@ -468,8 +468,9 @@ msgid ""
 "Pendant votre aventure, vos choix impacteront votre entourage, si vous rejetez plusieurs fois un personnage attendez vous a ce qu’il aille voir ailleurs. Tout ceci dans le but de garder une "
 "certaine cohérence avec le monde réel."
 msgstr ""
-"Durante sua aventura, suas escolhas impactarão aqueles ao seu redor; se você rejeitar um personagem várias vezes, espere que eles procurem outro lugar. Tudo isso para manter uma certa consistência "
-"com o mundo real."
+"Durante sua aventura, suas escolhas impactarão aqueles ao seu redor. Se você "
+"rejeitar um personagem várias vezes, ele poderá começar a se relacionar com "
+"outras pessoas. Isso é para manter alguma consistência com o mundo real."
 
 #: game/scenes/gui/splashscreen.tscn
 msgid "Vos actions auront des conséquences..."
@@ -612,7 +613,7 @@ msgstr "Vou fechar a loja por alguns minutos para não sermos incomodados."
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_c547b09e"
 msgid "{{yasuka.n}} et {{saito.n}} passèrent tous les deux un long moment à discuter."
-msgstr "{{yasuka.n}} e {{saito.n}} passaram muito tempo conversando."
+msgstr "{{yasuka.n}} e {{saito.n}} passaram um longo tempo conversando."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_f5f8ebfe"
@@ -622,12 +623,13 @@ msgstr "O fato de não ter mais um chefe respirando em seu pescoço parece tê-l
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_0b339148"
 msgid "Après avoir discuté un long moment, il était temps de partir."
-msgstr "Depois de conversarem por um longo tempo, finalmente chegou a hora de ir embora."
+msgstr ""
+"Após conversarem por um longo tempo, finalmente chegou a hora de ir embora."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_0a9538b0"
 msgid "Tu t'en vas déjà ?"
-msgstr "Tu t'en vas déjà ?"
+msgstr "Você já está indo embora?"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_28e5bb01"
@@ -85517,15 +85519,15 @@ msgstr "Chantagem"
 
 msgctxt "chapters.choices"
 msgid "noriko/reject"
-msgstr "Rejeitado"
+msgstr "Rejeitar"
 
 msgctxt "chapters.choices"
 msgid "noriko/femdom"
-msgstr "Dom. Fem"
+msgstr "Dominação Feminina"
 
 msgctxt "chapters.choices"
 msgid "noriko/maledom"
-msgstr "Dom. Masc."
+msgstr "Dominação Masculina"
 
 msgctxt "chapters.choices"
 msgid "asami/corruption"
