@@ -1,2 +1,378 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2025-09-30 17:53+0000\n"
+"Last-Translator: Nichathip <seiryuukung@gmail.com>\n"
+"Language-Team: Thai <https://translations.teot-studio.com/projects/"
+"goodbye-eternity/game-translation/th/>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.17\n"
+
+#: core/scripts/clock.gd
+msgid "morning"
+msgstr "ตอนเช้า"
+
+#: core/scripts/clock.gd
+msgid "afternoon"
+msgstr "ตอนบ่าย"
+
+#: core/scripts/clock.gd
+msgid "evening"
+msgstr "ตอนเย็น"
+
+#: core/scripts/clock.gd
+msgid "night"
+msgstr "ตอนกลางคืน"
+
+#: core/scripts/clock.gd
+msgid "Monday"
+msgstr "วันจันทร์"
+
+#: core/scripts/clock.gd
+msgid "Wednesday"
+msgstr "วันพุธ"
+
+#: core/scripts/clock.gd
+msgid "Thursday"
+msgstr "วันพฤหัสบดี"
+
+#: core/scripts/clock.gd
+msgid "Friday"
+msgstr "วันศุกร์"
+
+#: core/scripts/clock.gd
+msgid "Saturday"
+msgstr "วันเสาร์"
+
+#: core/scripts/clock.gd
+msgid "Sunday"
+msgstr "วันอาทิตย์"
+
+#: game/scripts/variables/character_names.gd
+msgctxt "character_default_name"
+msgid "Asami"
+msgstr "อาซามิ"
+
+#: game/scripts/variables/character_names.gd
+msgctxt "character_default_name"
+msgid "Noriko"
+msgstr "โนริโกะ"
+
+#: game/scripts/variables/character_names.gd
+msgctxt "character_default_name"
+msgid "Yasuka"
+msgstr "ยาซุกะ"
+
+#: game/scripts/variables/character_names.gd
+msgctxt "character_default_name"
+msgid "Chiaki"
+msgstr "ชิอากิ"
+
+#: game/scripts/variables/character_names.gd
+msgctxt "character_default_name"
+msgid "Minato"
+msgstr "มินาโตะ"
+
+#: game/scripts/variables/character_names.gd
+msgctxt "character_default_name"
+msgid "Macumba"
+msgstr "มาคุมบา"
+
+#: game/scripts/variables/character_names.gd
+msgctxt "character_default_name"
+msgid "Sakuya"
+msgstr "ซาคุยะ"
+
+#: game/scripts/variables/character_names.gd
+msgctxt "character_default_name"
+msgid "Kimochi"
+msgstr "คิโมจิ"
+
+#: game/scripts/variables/character_names.gd
+msgctxt "character_default_name"
+msgid "Chef"
+msgstr "เชฟ"
+
+#: game/scripts/variables/character_names.gd
+msgctxt "character_default_name"
+msgid "Akira"
+msgstr "อากิระ"
+
+#: game/scripts/variables/character_names.gd
+msgctxt "character_default_name"
+msgid "Kenji"
+msgstr "เคนจิ"
+
+#: game/scripts/variables/character_names.gd
+msgctxt "character_default_name"
+msgid "Takeo"
+msgstr "ทาเคโอะ"
+
+#: game/scripts/variables/character_names.gd
+msgctxt "character_default_name"
+msgid "Nobu"
+msgstr "โนบุ"
+
+#: game/scripts/variables/character_names.gd
+msgctxt "character_default_name"
+msgid "Netoru"
+msgstr "เนโทรุ"
+
+#: game/scripts/variables/character_names.gd
+msgctxt "character_default_name"
+msgid "Sayuri"
+msgstr "ซายูริ"
+
+#: game/scripts/variables/character_names.gd
+msgctxt "character_default_name"
+msgid "Vieil homme"
+msgstr "ผู้เฒ่า"
+
+#: game/scripts/variables/character_names.gd
+msgctxt "character_default_name"
+msgid "Erika"
+msgstr "เอริกะ"
+
+#: game/scripts/variables/character_names.gd
+msgctxt "character_default_name"
+msgid "Hanako"
+msgstr "ฮานาโกะ"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "home_player_exterior"
+msgstr "ข้างนอก"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "dojo_exterior"
+msgstr "โดโจ"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "park"
+msgstr "สวนสาธารณะ"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "konbini_exterior"
+msgstr "ร้านสะดวกซื้อ"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "home_asami_exterior"
+msgstr "บ้านของ {{asami.n}}"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "home_kimochi_exterior"
+msgstr "บ้านของ {{kimochi.n}}"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "home_natsume_exterior"
+msgstr "บ้านของ {{natsume.n}}"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "hostess_club_exterior"
+msgstr "โฮสต์คลับ"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "coffeebar_exterior"
+msgstr "[i]คาเฟ่[/i]"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "love_hotel_exterior"
+msgstr "ด้านหน้า Love Hotel"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "onsen_exterior"
+msgstr "ด้านหน้าออนเซ็น"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "warehouse_exterior"
+msgstr "ด้านหน้าโกดัง"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "canal"
+msgstr "ลำคลอง"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "bus_stop"
+msgstr "ป้ายรถเมล์"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "arcade_exterior"
+msgstr "ด้านหน้าเกมเซ็นเตอร์"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "lake"
+msgstr "แม่น้ำ"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "home_nobu_exterior"
+msgstr "บ้านของ {{nobu.n}}"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "home_takeo_exterior"
+msgstr "บ้านของ {{takeo.n}}"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "amusement_park_exterior"
+msgstr "ด้านหน้าสวนสนุก"
+
+#: game/scenes/gui/gui_location.tscn
+msgid "Lundi"
+msgstr "วันจันทร์"
+
+#: game/scenes/gui/gui_location.tscn
+msgid "¥ "
+msgstr "฿ "
+
+#: game/scenes/gui/gui_location.tscn
+msgid "0123456789"
+msgstr "0123456789"
+
+#: game/scenes/gui/gui_start_asami.tscn
+msgid "ASAMI"
+msgstr "อาซามิ"
+
+#: game/scenes/gui/gui_start_asami.tscn
+msgid "Vous avez fait le choix de vous lier [color=yellow]d'amitié[/color]."
+msgstr "คุณเลือกที่จะ[color=yellow]ตีสนิท[/color]กับเธอ"
+
+#: game/scenes/gui/gui_start_asami.tscn
+msgid "Vous avez fait le choix de la [color=yellow]corrompre[/color]."
+msgstr "คุณเลือกที่จะ[color=yellow]หักหลัง[/color]เธอ"
+
+#: game/scenes/gui/gui_start_asami.tscn game/scenes/gui/gui_start_sakuya.tscn game/scenes/gui/gui_start_yasuka.tscn
+msgid "J'ai compris"
+msgstr "ฉันเข้าใจแล้ว"
+
+#: game/scenes/gui/gui_start_sakuya.tscn
+msgid "SAKUYA"
+msgstr "ซาคุยะ"
+
+#: game/scenes/gui/gui_start_yasuka.tscn
+msgid "YASUKA"
+msgstr "ยาซุกะ"
+
+#: game/scenes/gui/gui_start_yasuka.tscn
+msgid "Vous pouvez dès à présent poursuivre l’histoire de {{yasuka.n}}."
+msgstr "ตอนนี้คุณสามารถเล่นเนื้อเรื่องของ{{yasuka.n}}ต่อได้แล้ว"
+
+#: game/scenes/gui/gui_start_sakuya.tscn
+msgid "Vous avez fait des choix tout au long de votre aventure, peu importe qu'ils soient bons ou mauvais. {{sakuya.n}} vous les fera assumer."
+msgstr ""
+"ตัวเลือกที่คุณเลือกขณะที่เล่นนั้น ไม่ว่าจะทางที่ดีหรือร้าย{{sakuya.n}} "
+"ก็จะให้ผลลัพธ์ตามที่คุณนั้นเลือกไป"
+
+#: game/scenes/gui/gui_start_yasuka.tscn
+msgid "Vous avez fait le choix de l'[color=yellow]aimer et de la soutenir[/color]."
+msgstr "คุณเลือกที่จะ[color=yellow]รักและสนับสนุนเธอ[/color]"
+
+#: game/scenes/gui/gui_start_yasuka.tscn
+msgid "Vous avez fait le choix de la laisser [color=yellow]travailler au bar à hôtesse[/color]."
+msgstr "คุณเลือกที่จะให้เธอ [color=yellow]ทำงานที่โฮสต์บาร์[/color]ต่อไป"
+
+#: game/scenes/gui/splashscreen.tscn
+msgid "Certaines scènes de ce jeu peuvent contenir du contenu sexuellement explicite et pourrait choquer un jeune public. Tous les personnages de ce jeu sont majeurs."
+msgstr ""
+"เนื้อหาบางฉากภายในเกมนี้มีเนื้อหาที่เกี่ยวกับเพศซึ่งไม่เหมาะกับเยาวชนที่ยังไม"
+"่ถึงวัยอันควร และตัวละครภายในเกมนี้ทุกคนอายุได้บรรลุนิติภาวะทั้งหมดแล้ว "
+"โปรดใช้วิจารณญาณในการเล่นเกม"
+
+#: game/scenes/gui/splashscreen.tscn
+msgid "Vos actions auront des conséquences..."
+msgstr "ทุกการกระทำของคุณจะมีผลลัพธ์รอคอยอยู่นะ...."
+
+#: game/scenes/cg/noriko/laptop.tscn
+msgid "Demi-Sœur Dépucelle Son Demi-Frère"
+msgstr "น้องสาวต่างสายเลือดเปิดซิงพี่ชายตัวเอง"
+
+#: core/scripts/clock.gd
+msgid "Tuesday"
+msgstr "วันอังคาร"
+
+#: game/scripts/variables/character_names.gd
+msgctxt "character_default_name"
+msgid "Saito"
+msgstr "ไซโตะ"
+
+#: game/scripts/variables/character_names.gd
+msgctxt "character_default_name"
+msgid "Natsume"
+msgstr "นัทสึเมะ"
+
+#: game/scripts/variables/character_names.gd
+msgctxt "character_default_name"
+msgid "Policier"
+msgstr "คุณตำรวจ"
+
+#: game/scripts/variables/character_names.gd
+msgctxt "character_default_name"
+msgid "Tsubaki"
+msgstr "สึบากิ"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "restaurant_exterior"
+msgstr "ร้านอาหาร"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "home_kenji_exterior"
+msgstr "บ้านของ {{kenji.n}"
+
+#: game/scenes/gui/gui_start_asami.tscn
+msgid "Vous avez fait le choix de [color=yellow]rester amis[/color]."
+msgstr "คุณเลือกที่จะเป็น[color=yellow]เพื่อน[/color]กับเธอต่อไป"
+
+#: game/scenes/gui/gui_start_asami.tscn
+msgid "Vous pouvez dès à présent poursuivre l’histoire d’{{asami.n}}."
+msgstr "ตอนนี้คุณสามารถเล่นเนื้อเรื่องของ{{asami.n}}ต่อได้แล้ว"
+
+#: game/scenes/gui/gui_start_sakuya.tscn
+msgid "Vous pouvez dès à présent poursuivre l’histoire de {{sakuya.n}}."
+msgstr "ตอนนี้คุณสามารถเล่นเนื้อเรื่องของ{{sakuya.n}}ต่อได้แล้ว"
+
+#: game/scenes/cg/noriko/laptop.tscn
+msgid "Demi-Sœur Se Fait Prendre Dans Son Sommeil Par Son Demi-Frère"
+msgstr "พี่ชายไม่แท้แอบมาลักหลับน้องสาวตัวเองตอนนอน"
+
+#: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
+msgctxt "location"
+msgid "home_minato_exterior"
+msgstr "บ้านของ {{minato.n}}"
+
+#: game/scenes/gui/splashscreen.tscn
+msgid ""
+"Pendant votre aventure, vos choix impacteront votre entourage, si vous rejetez plusieurs fois un personnage attendez vous a ce qu’il aille voir ailleurs. Tout ceci dans le but de garder une "
+"certaine cohérence avec le monde réel."
+msgstr ""
+"ระหว่างเล่นเนื้อเรื่องต่างๆ การเลือกของคุณจะมีผลต่อตัวละครรอบตัวคุณ "
+"หากคุณปฎิเสธตัวละครเดิมหลายๆครั้ง ตัวละครนั้นอาจจะเริ่มหาคนอื่นเข้ามาแทน "
+"โดยระบบนี้อ้างอิงมาจากโลกเสมือนจริง (การที่เราเป็นคนไม่ใช่ "
+"เขาไม่เลือกเราอยู่แล้วจะรออยู่ใย? ก็ต้องไปหาคนอื่นเด้!)"
+
+#: game/scenes/gui/splashscreen.tscn
+#, fuzzy
+msgid "[fill]Certaines [url=data]données anonymes[/url] peuvent être récoltées pour améliorer l'expérience de jeu.[/fill]"
+msgstr ""
+"[fill] อาจมีการเก็บ[url=data]ข้อมูลบางอย่างแบบไม่ระบุตัวตน[/url]เพื่อพัฒนาประ"
+"สบการณ์ที่ดีของผู้เล่นให้ดียิ่งขึ้น [fill]"
