@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-30 17:53+0000\n"
+"PO-Revision-Date: 2025-10-02 12:24+0000\n"
 "Last-Translator: Nichathip <seiryuukung@gmail.com>\n"
 "Language-Team: Thai <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/th/>\n"
@@ -376,3 +376,3521 @@ msgid "[fill]Certaines [url=data]données anonymes[/url] peuvent être récolté
 msgstr ""
 "[fill] อาจมีการเก็บ[url=data]ข้อมูลบางอย่างแบบไม่ระบุตัวตน[/url]เพื่อพัฒนาประ"
 "สบการณ์ที่ดีของผู้เล่นให้ดียิ่งขึ้น [fill]"
+
+#: game/scenes/gui/splashscreen.tscn
+msgid "Ces données seront recueillies après acceptation de ces termes, et ne contiennent pas d'identifiant direct ni informations externes au jeu."
+msgstr ""
+"ข้อมูลเหล่านี้จะถูกเก็บก็ต่อเมื่อมีการยอมรับเงื่อนไขเท่านั้น "
+"และจะไม่มีการเก็บข้อมูลที่สามารถระบุตัวตนได้โดยตรง "
+"หรือข้อมูลที่อยู่นอกเหนือจากภายในเกม"
+
+#: game/scenes/gui/splashscreen.tscn
+msgid "[url=disclaimer]Retour[/url]"
+msgstr "[url=disclaimer]กลับ[/url]"
+
+#: game/scenes/gui/splashscreen.tscn
+msgid "Je gère !"
+msgstr "ฉันรับมือได้อยู่แล้ว!"
+
+#: game/scenes/gui/splashscreen.tscn
+msgid "Sortez-moi d'ici !"
+msgstr "เอาฉันออกไปจากที่นี่!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_ec2adc19"
+msgid "On se verra ce soir à la maison."
+msgstr "คืนนี้เจอกันที่บ้านนะจ๊ะ"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_f7a2c8ca"
+msgid "Passe une bonne journée mon chéri."
+msgstr "ขอให้วันนี้เป็นวันที่ดีนะจ๊ะ"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_7b2c5ef2"
+msgid "Passe une bonne journée mon chéri."
+msgstr "หวังว่าวันนี้จะมีแต่เรื่องดีๆนะจ๊ะ"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_13f52085"
+msgid "Bonjour mon chéri."
+msgstr "หวัดดีจ้าที่รัก"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_8cc61393"
+msgid "Bonjour mon chéri."
+msgstr "สวัสดีจ้า"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_bd1a143c"
+msgid "Ça me fait plaisir que tu viennes me voir !"
+msgstr "ฉันดีใจมากๆเลยล่ะที่เธอมาหาน่ะ!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_221be6bf"
+msgid "C'est moi qui te l'offre !"
+msgstr "เดี๋ยวผมจ่ายเอง!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_608419eb"
+msgid "Merci !"
+msgstr "ขอบคุณจ้า"
+
+#: game/story/home_natsume_exterior.dialogue
+msgctxt "home_natsume_exterior_608419eb"
+msgid "Merci !"
+msgstr "ขอบคุณนะ"
+
+#: game/story/home_kimochi_exterior.dialogue
+msgctxt "home_kimochi_exterior_8d2b8b61"
+msgid "Merci !"
+msgstr "ขอบใจมาก!"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "t56126c5a15"
+msgid "Merci !"
+msgstr "ขอบคุณนะ!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_070865d3"
+msgid "Merci !"
+msgstr "ขอบใจมากนะ!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "t16597b9a4f"
+msgid "Un café."
+msgstr "กาแฟแก้วนึง"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_c70765ba"
+msgid "Tu es un amour !"
+msgstr "น่ารักซะจริง!"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "tb222c41a00"
+msgid "Tu es un amour !"
+msgstr "เธอนี่น่ารักซะจริง!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_c547b09e"
+msgid "{{yasuka.n}} et {{saito.n}} passèrent tous les deux un long moment à discuter."
+msgstr "{{yasuka.n}} และ {{saito.n}}ใช้เวลาคุยกันพักใหญ๋"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_f5f8ebfe"
+msgid "Ne plus avoir de patrons sur son dos semble l'avoir libérée."
+msgstr ""
+"ดูเหมือนว่าการที่ไม่มีหัวหน้ามาคอยจับผิดการะกระทำแบบที่ผ่านๆมา "
+"จะทำให้เธอรู้สึกเป็นอิสระมากกว่าเดิมนะ"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_0a9538b0"
+msgid "Tu t'en vas déjà ?"
+msgstr "กำลังจะไปแล้วหรอ?"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_28e5bb01"
+msgid "J'aimerais pouvoir rester avec toi, mais je dois aussi faire des choses de mon côté."
+msgstr ""
+"ฉันชอบมากนะที่ได้ใช้เวลาอยู่ร่วมกันกับเธอ "
+"แต่ฉันก็มีงานที่ต้องไปทำต่อเหมือนกัน"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_6f897340"
+msgid "On se retrouve ce soir ?"
+msgstr "คืนนี้เจอกันมั้ย?"
+
+#: game/story/park.dialogue
+msgctxt "doggystyle_again_f71b1f42"
+msgid "On se retrouve ce soir ?"
+msgstr "คืนนี้เจอกันได้มั้ย?"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_ff1d94bb"
+msgid "Oui !"
+msgstr "ได้สิ!"
+
+#: game/story/love_hotel_room.dialogue
+msgctxt "love_hotel_room_6c4a2977"
+msgid "Oui !"
+msgstr "ได้สิ!"
+
+#: game/story/canal.dialogue
+msgctxt "canal_7f6dc742"
+msgid "Oui !"
+msgstr "ได้สิ"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "sleeping_with_yasuka_saito_room_d51ada21"
+msgid "Oui !"
+msgstr "ใช่แล้วล่ะ!"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_c2875ad2"
+msgid "Oui !"
+msgstr "อื้อ!"
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "t0bfbfc30cf"
+msgid "Oui !"
+msgstr "ใช่แล้วล่ะ!"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_6c4a2977"
+msgid "Oui !"
+msgstr "ใช่แล้ว!"
+
+#: game/story/love_hotel_reception.dialogue
+msgctxt "love_hotel_reception_a8559f90"
+msgid "Oui !"
+msgstr "แน่นอน!"
+
+#: game/story/love_hotel_reception.dialogue
+msgctxt "t95cd12ef54"
+msgid "Oui !"
+msgstr "ใช่!"
+
+#: game/story/bus_stop.dialogue
+msgctxt "noriko_forgive_a02b5dd8"
+msgid "Oui !"
+msgstr "ใช่แล้วล่ะ!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "te685980fbd"
+msgid "Oui !"
+msgstr "ใช่แล้ว!"
+
+#: game/story/park.dialogue
+msgctxt "doggystyle_again_fa8791f1"
+msgid "Oui !"
+msgstr "อ่าหะ!"
+
+#: game/story/home_minato_hallway.dialogue
+msgctxt "t7c25a56e9a"
+msgid "Oui !"
+msgstr "โอเค!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_275e13fb"
+msgid "Pfff, quel charmeur tu fais."
+msgstr "ฮึ่ยยย เสน่ห์แรงจริงนะเราน่ะ"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_65b93099"
+msgid "Mais... Tu es adorable."
+msgstr "แต่...เธอก็น่ารักสำหรับฉันอยู่ดี"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_589f34c9"
+msgid "J'ai déjà hâte d'y être."
+msgstr "ชักอดใจรอไม่ไหวแล้วสิ"
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "home_player_hallway_f86a3991"
+msgid "J'ai déjà hâte d'y être."
+msgstr "ฉันชักจะรอไม่ไหวแล้วสิ"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_d30d0d48"
+msgid "J'espère bien !"
+msgstr "ฉันก็หวังให้เป็นแบบนั้นนะ!"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_ac754e82"
+msgid "J'espère bien !"
+msgstr "ฉันก็ขอให้เป็นแบบนั้นนะ!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "te223796b66"
+msgid "Je voulais juste voir ton sourire."
+msgstr "ผมแค่อยากคุณยิ้มน่ะ"
+
+#: game/story/hostess_club_exterior.dialogue
+msgctxt "t18afe678e6"
+msgid "[color=yellow]À propos de {{noriko.n}}.[/color]"
+msgstr "[color=yellow]เกี่ยวกับ {{noriko.n}}.[/color]"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "t77e427bf59"
+msgid "Retour"
+msgstr "กลับ"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "t95936a11b8"
+msgid "Retour"
+msgstr "กลับ"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "t3d059beaf4"
+msgid "Retour"
+msgstr "กลับ"
+
+#: game/story/love_hotel_reception.dialogue
+msgctxt "td6b8a34be2"
+msgid "Retour"
+msgstr "กลับ"
+
+#: game/story/restaurant_interior.dialogue
+msgctxt "t5d1fbcecac"
+msgid "Retour"
+msgstr "กลับ"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t3656c2f02f"
+msgid "Retour"
+msgstr "กลับ"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "tdb2ae3cbd0"
+msgid "Retour"
+msgstr "กลับ"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t58a1744d48"
+msgid "Retour"
+msgstr "กลับ"
+
+#: game/story/home_asami_asami_room.dialogue
+msgctxt "t6c1c64ba4a"
+msgid "Retour"
+msgstr "กลับ"
+
+#: game/story/hostess_club_exterior.dialogue
+msgctxt "tefcefacc7c"
+msgid "Retour"
+msgstr "กลับ"
+
+#: game/scenes/gui/game_menu/main.tscn
+msgid "Retour"
+msgstr "กลับ"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_ea1de3c7"
+msgid "Je n'allais rater ça pour rien au monde."
+msgstr "ฉันจะมาแน่นอน"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_939e9d88"
+msgid "Oh, shhht pas si fort !"
+msgstr "ชู่ววว อย่าเสียงดังไปสิเห้ย!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_1902730f"
+msgid "Oh, tu es venue comme promis !"
+msgstr "โอ๊ะ! มาตามสัญญาจริงๆด้วยสินะจ๊ะ"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_d35cc2e2"
+msgid "Ça me fait vraiment plaisir."
+msgstr "ดีใจจังเลย"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_26ec9de7"
+msgid "Mmhh, je vois."
+msgstr "หืมม...อย่างงั้นหรอ"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_7e9effde"
+msgid "Il se contente de te laisser tout le travail, je suppose ?"
+msgstr "ก็ถ้าให้เดา ไอ้หมอนั่นคงทิ้งงานทุกอย่างให้คุณทำคนเดียวหมดเลยสิท่า?"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_6ad539b9"
+msgid "Oui..."
+msgstr "ก็..ใช่แหละจ่ะ"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_3e85771d"
+msgid "Oui..."
+msgstr "ใช่..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_3e85771d_1"
+msgid "Oui..."
+msgstr "ก็ใช่..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_df63139d"
+msgid "Oui..."
+msgstr "ใช่..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_3e85771d"
+msgid "Oui..."
+msgstr "ก็อย่างว่าแหละ..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "menu_asami_room_waiting_694d9bee"
+msgid "Oui..."
+msgstr "ใช่..."
+
+#: game/story/konbini_interior.dialogue
+msgctxt "konbini_interior_3e85771d"
+msgid "Oui..."
+msgstr "ใช่..."
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "talk_kimochi_999ccea8"
+msgid "Oui..."
+msgstr "ก็ใช่แหละ..."
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "home_kimochi_interior_3e85771d"
+msgid "Oui..."
+msgstr "ใช่..."
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "home_kimochi_interior_582ae38d"
+msgid "Oui..."
+msgstr "ก็ใช่..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_3fbad6b5"
+msgid "Oui..."
+msgstr "ใช่..."
+
+#: game/story/restaurant_sakuya_room.dialogue
+msgctxt "t7b034aee5a"
+msgid "Oui..."
+msgstr "ใช่..."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "home_player_exterior_da33cb18"
+msgid "Oui..."
+msgstr "ใช่..."
+
+#: game/story/park.dialogue
+msgctxt "asami_choice_3e85771d"
+msgid "Oui..."
+msgstr "ก็ใช่..."
+
+#: game/story/park.dialogue
+msgctxt "talk_natsume_76d91a52"
+msgid "Oui..."
+msgstr "ใช่..."
+
+#: game/story/park.dialogue
+msgctxt "park_c475c5cf"
+msgid "Oui..."
+msgstr "ใช่..."
+
+#: game/story/home_minato_hallway.dialogue
+msgctxt "t2709a8f1a3"
+msgid "Oui..."
+msgstr "ใช่..."
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "t41070439a8"
+msgid "Oui..."
+msgstr "ใช่..."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_b87099fe"
+msgid "Je comprends mieux pourquoi elle était prête à accepter ce travail d'hôtesse."
+msgstr ""
+"ทีนี้ฉันก็พอจะเข้าใจแล้วล่ะว่าทำไมเธอถึงตัดสินใจที่จะไปทำงานเป็นเด็กดริ๊งค์"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_e489ff3e"
+msgid "Même mon instinct me dit de me méfier de lui."
+msgstr ""
+"อย่าว่าแต่เซ็นส์บอกเลย "
+"แค่มองจากดาวอังคารยังรู้เลยว่าอย่าไปยุ่งกับไอ้เวรนั่นน่ะ"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_97ed4780"
+msgid "{{yasuka.N}} !"
+msgstr "{{yasuka.N}}!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_4f91eaac"
+msgid "Quoi !? Non, mais attendez !"
+msgstr "อะไรนะคะ!? ช่วยรอเดี๋ยวก่อนค่ะ!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_eb19d385"
+msgid "Avez-vous passé commande, monsieur ?"
+msgstr "ไม่ทราบว่า...คุณลูกค้าได้สั่งอะไรรึยังครับ?"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_33cb5b12"
+msgid "...Non, pas encore !"
+msgstr "ยังไม่ได้สั่งน่ะ"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_a56f9613"
+msgid "Je vais prendre un café !"
+msgstr "ง..งั้นขอสั่งเป็นกาแฟแล้วกัน!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_eb611ae4"
+msgid "Tsss..."
+msgstr "ชิ..."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_97dfaa4f"
+msgid "Ne discutez pas avec les employés, cher monsieur."
+msgstr "กรุณาอย่าชวนพนักงานคุยครับ...คุณลูกค้า"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_735ceb80"
+msgid "C'est plutôt moi qui suis désolé pour toi."
+msgstr "ผมต่างหากที่เป็นฝ่ายต้องขอโทษน่ะ"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "t79d4b83921"
+msgid "Vous avez donné 300¥ à {{yasuka.n}}."
+msgstr "คุณจ่ายเงิน 300¥ ให้{{yasuka.n}}"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_e1dc171a"
+msgid "Voici ton café !"
+msgstr "นี่กาแฟของเธอจ่ะ!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_476718be"
+msgid "Je te l'offre, tu en as bien plus besoin que moi visiblement."
+msgstr "เอาไปเถอะครับ ดูเหมือนคุณจะต้องการมันมากกว่าผมอีกนะ"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_efe971a9"
+msgid "Tu es un amour."
+msgstr "น่ารักซะจริง"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_c27b4bc0"
+msgid "Bon courage et à ce soir !"
+msgstr "โชคดีนะครับ ไว้เจอกัน!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_9d7413e7"
+msgid "À ce soir, mon chéri."
+msgstr "ไว้เจอกันนะจ๊ะ"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_fc7ebca9"
+msgid "Mais je voulais juste..."
+msgstr "แต่ว่า ฉันก็แค่อยากที่จะ..."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_971972aa"
+msgid "Hey ! Je vous interdis de l'insulter comme ça !"
+msgstr "เฮ้ยไอ้เวรนี่! กล้าดียังไงมาพูดถึงเธอแบบนั้นกันน่ะห๊ะ!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_1a0d491c"
+msgid "TIRE-TOI OU J'APPELLE LA POLICE !"
+msgstr "ทีนี้ไสหัวไปได้แล้วไอ้เด็กเวร หรือแกจะรอให้ฉันโทรเรียกตำรวจมาจับแก!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_9e283ba0"
+msgid "Mon chéri !"
+msgstr "ลูกรัก!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_a6a19710"
+msgid "Enfin..."
+msgstr "ในที่สุด..."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "te5832f1cb8"
+msgid "Enfin..."
+msgstr "ในที่สุด..."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_f7e890a6"
+msgid "Je suis désolée mon patron est vraiment sévère."
+msgstr "ต้องขอโทษด้วยนะจ๊ะที่หัวหน้าเขาเป็นคนเข้มงวดเอามากๆน่ะ"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_af18c771"
+msgid "Tu n'as pas à t'excuser, c'est lui qui est en tort."
+msgstr "ไม่เห็นต้องขอโทษผมเลย เพราะยังไงคนที่ผิดก็คือหมอนั่นอยู่แล้ว"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_2321f311"
+msgid "Tu as le droit de prendre une pause."
+msgstr "ผมว่าคุณควรจะพักผ่อนบ้างนะ"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_64486282"
+msgid "Je sais... Tu as raison."
+msgstr "ก็ใช่แหละ...ว่าฉันควรจะพักบ้าง"
+
+#: game/story/home_kimochi_exterior.dialogue
+msgctxt "home_kimochi_exterior_7cd71a94"
+msgid "Je sais... Tu as raison."
+msgstr "ก็ใช่แหละ...ว่าฉันควรพักบ้าง"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_52b6b773"
+msgid "Je pense que ça ne dérangera personne."
+msgstr "ผมไม่คิดว่าคนอื่นจะมาสนใจอะไรเรานะ"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_9dd91079"
+msgid "Tu sais..."
+msgstr "เธอรู้อะไรมั้ย..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "sexe_asami_l_9e2ee756"
+msgid "Tu sais..."
+msgstr "รู้อะไรมั้ย..."
+
+#: game/story/home_player_bathroom.dialogue
+msgctxt "home_player_bathroom_856cf8c5"
+msgid "Tu sais..."
+msgstr "รู้อะไรมั้ย..."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_658f9829"
+msgid "Merci."
+msgstr "ขอบคุณครับ"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "menu_sayuri_kitchen_f9bce8f0"
+msgid "Merci."
+msgstr "ขอบคุณนะครับ"
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "t071ac4e14f"
+msgid "Merci."
+msgstr "ขอบคุณ"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "home_player_exterior_f9bce8f0"
+msgid "Merci."
+msgstr "ขอบคุณนะ"
+
+#: game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_1d00a319"
+msgid "Merci."
+msgstr "ขอบคุณครับ"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_9fabf88c"
+msgid "Je ne pouvais plus te laisser seule, porter sur ton dos tous les problèmes que nous avions à la maison."
+msgstr "ผมจะไม่ทิ้งให้คุณแบกรับภาระภายในบ้านไว้ตัวคนเดียวอีกต่อไปแล้วล่ะนะ"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_21bf1c4b"
+msgid "Surtout que, je suis en âge de comprendre ce qu'il se passe..."
+msgstr "ตอนนี้ผมคิดว่าตัวเองโตพอที่จะเข้าใจสถานการณ์ที่เกิดขึ้นได้แล้วล่ะ"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_f4b4a2b7"
+msgid "Et aujourd'hui te voilà prêt à m'aider à rembourser une montagne de dette."
+msgstr ""
+"แต่สิ่งที่ฉันรับได้รู้ตอนนี้คือ เธอเข้ามาช่วยฉันเพื่อหาเงินจ่ายหนี้ก้อนโต"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_d6eee7aa"
+msgid "Je suis désolé d'avoir mis autant de temps à réaliser tout ça..."
+msgstr "ผมขอโทษนะครับที่กว่าจะมาเข้าใจเรื่องนี้เอาป่านนี้"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_e6413ebd"
+msgid "J'aurais dû m'en rendre bien plus tôt."
+msgstr "ผมควรจะรู้ตัวให้เร็วกว่านี้"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_7f708522"
+msgid "{{saito.n}} !"
+msgstr "{{saito.n}} !"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_af525fe0"
+msgid "{{saito.n}} !"
+msgstr "{{saito.n}} !"
+
+#: game/story/park.dialogue
+msgctxt "park_c333f4dc"
+msgid "{{saito.n}} !"
+msgstr "{{saito.n}} !"
+
+#: game/story/home_nobu_exterior.dialogue
+msgctxt "home_nobu_exterior_44784a8a"
+msgid "{{saito.n}} !"
+msgstr "{{saito.n}}!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_120e8a66"
+msgid "Je t'interdis de penser ça !"
+msgstr "อย่าคิดแบบนั้นสิ!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_bcbcc830"
+msgid "À aucun moment, je n'aurais voulu vous imposer ça."
+msgstr "ฉันไม่เคยอยากจะให้เธอมาแบกรับอะไรแบบนี้เลย"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_2c652546"
+msgid "Je comprends..."
+msgstr "ผมเข้าใจดี..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "te5946ba32c"
+msgid "Je comprends..."
+msgstr "ฉันเข้าใจ..."
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "talk_yasuka_2c652546_1"
+msgid "Je comprends..."
+msgstr "ผมเข้าใจดี..."
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_0a07202a"
+msgid "Je comprends..."
+msgstr "ฉันเข้าใจ..."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_15a1bceb"
+msgid "D'ailleurs, à ce sujet..."
+msgstr "ยังไงก็ตาม เกี่ยวกับเรื่องนั้น..."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_f1b983f3"
+msgid "J'ai enfin réussi à décrocher un tr-"
+msgstr "ในที่สุดฉันก็ได้ง..."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_3c3fc224"
+msgid "C'est qui cette femme pour toi ?!"
+msgstr "ผู้หญิงคนนั้นเกี่ยวข้องอะไรกับแกห๊ะ?"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "tdce6f79343"
+msgid "Ça ne vous regarde absolument pas !"
+msgstr "นั่นไม่ใช่เรื่องของแกโว้ย!"
+
+#: game/story/canal.dialogue
+msgctxt "t60ba0d0c8c"
+msgid "Quoi ?!"
+msgstr "อะไรนะ?!"
+
+#: game/story/canal.dialogue
+msgctxt "canal_6d04f7e8_1"
+msgid "Quoi ?!"
+msgstr "อะไรนะ?!"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_19382569"
+msgid "Quoi ?!"
+msgstr "อิหยังวะ?!"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_0c4c69cb"
+msgid "Quoi ?!"
+msgstr "ว่าไงนะ?!"
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "home_kimochi_interior_b8b42645"
+msgid "Quoi ?!"
+msgstr "ว่าไงนะ?!"
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "home_kimochi_interior_5b7a41d0"
+msgid "Quoi ?!"
+msgstr "อะไรนะ?!"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_b10797b8"
+msgid "Quoi ?!"
+msgstr "อิหยังวะ?!"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_649da96d"
+msgid "Quoi ?!"
+msgstr "ว่าไงนะ?!"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_sakuya_fc523c04"
+msgid "Quoi ?!"
+msgstr "อะไรนะ?!"
+
+#: game/story/park.dialogue
+msgctxt "park_6d04f7e8"
+msgid "Quoi ?!"
+msgstr "ยังไงนะ?!"
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_6d04f7e8"
+msgid "Quoi ?!"
+msgstr "ว่ายังไงนะ?!"
+
+#: game/story/amusement_park_interior.dialogue
+msgctxt "t5563aa424e"
+msgid "Quoi ?!"
+msgstr "อะไรนะ?!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "tc900499874"
+msgid "La femme de ma vie !"
+msgstr "คนที่ฉันรักที่สุดในชีวิตของฉัน!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_9d2bd2e7"
+msgid "J'ai entendu votre conversation tout à l'heure."
+msgstr "ผมได้ยินพวกคุณมีปากเสียงกันเมื่อกี้"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_8368a022"
+msgid "Dites-moi {{yasuka.n}}..."
+msgstr "บอกผมมาตรงๆเถอะ {{yasuka.n}}..."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_ceeccbbb"
+msgid "Je ne savais pas que vous étiez endettée."
+msgstr "ผมไม่รู้มาก่อนว่าคุณเป็นหนี้"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_ae713cd0"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_03775ec8"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_29cd7803"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_noriko_room_closed_29cd7803"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_a21e86ee"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_898b1990"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_03775ec8"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_b14bf260"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_a4009c4c"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_29cd7803_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_29cd7803_2"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_898b1990"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_29cd7803_3"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_03775ec8_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_29cd7803_4"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_29cd7803_5"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_29cd7803_6"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_29cd7803_7"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_29cd7803_8"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_a21e86ee_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "tf01faab14a"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "tb58226ef9d"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "tcaa1b16bb4"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_natsume_exterior.dialogue
+msgctxt "home_natsume_exterior_bd4a924e"
+msgid "..."
+msgstr "..."
+
+#: game/story/warehouse_exterior.dialogue
+msgctxt "warehouse_exterior_20243432"
+msgid "..."
+msgstr "..."
+
+#: game/story/warehouse_exterior.dialogue
+msgctxt "warehouse_exterior_21706b61"
+msgid "..."
+msgstr "..."
+
+#: game/story/warehouse_exterior.dialogue
+msgctxt "t5f74ae7a1f"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_kimochi_exterior.dialogue
+msgctxt "home_kimochi_exterior_7639bcca"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_kimochi_exterior.dialogue
+msgctxt "home_kimochi_exterior_03775ec8_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_kimochi_exterior.dialogue
+msgctxt "home_kimochi_exterior_1adf14f8"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_kimochi_exterior.dialogue
+msgctxt "home_kimochi_exterior_859dc21e"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_kimochi_exterior.dialogue
+msgctxt "home_kimochi_exterior_03775ec8_2"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_kimochi_exterior.dialogue
+msgctxt "home_kimochi_exterior_ca49ee26"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_kimochi_exterior.dialogue
+msgctxt "home_kimochi_exterior_898b1990"
+msgid "..."
+msgstr "..."
+
+#: game/story/onsen_bath.dialogue
+msgctxt "t39a93ffac4"
+msgid "..."
+msgstr "..."
+
+#: game/story/canal.dialogue
+msgctxt "canal_6a1adb7c"
+msgid "..."
+msgstr "..."
+
+#: game/story/canal.dialogue
+msgctxt "canal_03775ec8_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/canal.dialogue
+msgctxt "ta01b77093f"
+msgid "..."
+msgstr "..."
+
+#: game/story/canal.dialogue
+msgctxt "canal_03775ec8_3"
+msgid "..."
+msgstr "..."
+
+#: game/story/canal.dialogue
+msgctxt "canal_03775ec8_4"
+msgid "..."
+msgstr "..."
+
+#: game/story/canal.dialogue
+msgctxt "canal_03775ec8"
+msgid "..."
+msgstr "..."
+
+#: game/story/canal.dialogue
+msgctxt "canal_ed6623a0"
+msgid "..."
+msgstr "..."
+
+#: game/story/canal.dialogue
+msgctxt "canal_207cda26"
+msgid "..."
+msgstr "..."
+
+#: game/story/canal.dialogue
+msgctxt "canal_b4e69ca9"
+msgid "..."
+msgstr "..."
+
+#: game/story/canal.dialogue
+msgctxt "canal_ed6623a0_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "blackmail_noriko_bj_898b1990"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "blackmail_noriko_bj_9fc616da"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "blackmail_noriko_bj_9fc616da_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "sexe_asami_l_18b6a6fa"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "sexe_asami_l_b14bf260"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "ta2dccf3a0b"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_17d1d49e"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_a21e86ee_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_03775ec8"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "talk_noriko_898b1990_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "talk_noriko_a21e86ee"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "talk_noriko_9fc616da"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "talk_noriko_29cd7803"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_6a1adb7c"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_18b6a6fa"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_18b6a6fa_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_b14bf260"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_b14bf260_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_b14bf260_2"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_b4e69ca9"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_b4e69ca9_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_b14bf260_3"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_03775ec8_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_b4e69ca9_2"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_18b6a6fa_3"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_ed6623a0"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_898b1990"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_29cd7803"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_03775ec8_2"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_ed6623a0_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_29cd7803_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_898b1990_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_03775ec8_3"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_b4e69ca9_3"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_a21e86ee_2"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_ed6623a0_2"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "ta12bed8b17"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "td7358f7acf"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "talk_yasuka_b14bf260"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "talk_yasuka_b8d7d070"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "talk_yasuka_b8d7d070_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "talk_yasuka_b8d7d070_2"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "talk_yasuka_b8d7d070_3"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "talk_yasuka_b8d7d070_4"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "home_player_yasuka_room_29cd7803"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "yasuka_love_sexe_repeat_b8d7d070"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "yasuka_love_sexe_repeat_b8d7d070_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "yasuka_love_sexe_repeat_9fc616da"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "t08a42d93e5"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "tff6d1d2c33"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "tbc38954e8f"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_ae713cd0"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_ae713cd0_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_3faca6c4"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_03775ec8"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_ed6623a0"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_859dc21e"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_ae713cd0_2"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_b4e69ca9"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_03775ec8_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_29cd7803"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_b4e69ca9_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_29cd7803_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_ed6623a0_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_b4e69ca9_2"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_7231df1d"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_29cd7803_2"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_03775ec8_3"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_ae713cd0_4"
+msgid "..."
+msgstr "..."
+
+#: game/story/konbini_interior.dialogue
+msgctxt "t9cb4ca02bb"
+msgid "..."
+msgstr "..."
+
+#: game/story/konbini_interior.dialogue
+msgctxt "t3cbcb8d970"
+msgid "..."
+msgstr "..."
+
+#: game/story/konbini_interior.dialogue
+msgctxt "menu_sayuri_konbini_898b1990"
+msgid "..."
+msgstr "..."
+
+#: game/story/konbini_interior.dialogue
+msgctxt "t204a3e6b27"
+msgid "..."
+msgstr "..."
+
+#: game/story/konbini_interior.dialogue
+msgctxt "t96081ec5f7"
+msgid "..."
+msgstr "..."
+
+#: game/story/warehouse_interior.dialogue
+msgctxt "warehouse_interior_94ec3338"
+msgid "..."
+msgstr "..."
+
+#: game/story/warehouse_interior.dialogue
+msgctxt "warehouse_interior_83ffb293"
+msgid "..."
+msgstr "..."
+
+#: game/story/warehouse_interior.dialogue
+msgctxt "warehouse_interior_a20cefa7"
+msgid "..."
+msgstr "..."
+
+#: game/story/arcade_exterior.dialogue
+msgctxt "tc51296653b"
+msgid "..."
+msgstr "..."
+
+#: game/story/arcade_exterior.dialogue
+msgctxt "ta963a2a822"
+msgid "..."
+msgstr "..."
+
+#: game/story/love_hotel_reception.dialogue
+msgctxt "love_hotel_reception_b14bf260"
+msgid "..."
+msgstr "..."
+
+#: game/story/love_hotel_reception.dialogue
+msgctxt "t5bcfe4757c"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "home_player_hallway_03775ec8"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "home_player_hallway_c2cffe85"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "home_player_hallway_29cd7803"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "t872e1234e6"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "ta301e36e4e"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "t8bde632322"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "t58169b92dc"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "tc06f62f56a"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "t355be6e5ba"
+msgid "..."
+msgstr "..."
+
+#: game/story/restaurant_interior.dialogue
+msgctxt "talk_sakuya_4ef4028e"
+msgid "..."
+msgstr "..."
+
+#: game/story/restaurant_interior.dialogue
+msgctxt "talk_chef_interior_9c2591ac"
+msgid "..."
+msgstr "..."
+
+#: game/story/restaurant_interior.dialogue
+msgctxt "talk_chef_interior_b7ecfc18"
+msgid "..."
+msgstr "..."
+
+#: game/story/restaurant_interior.dialogue
+msgctxt "t70ad7ccf7d"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "td11dd8b9b3"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "home_asami_livingroom_03775ec8"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "home_asami_livingroom_29cd7803"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "td70e6e67ab"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t0be4a33b3a"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "t6f74920340"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "td57711da10"
+msgid "..."
+msgstr "..."
+
+#: game/story/onsen_room.dialogue
+msgctxt "td82d317e93"
+msgid "..."
+msgstr "..."
+
+#: game/story/onsen_interior.dialogue
+msgctxt "onsen_interior_03775ec8"
+msgid "..."
+msgstr "..."
+
+#: game/story/onsen_interior.dialogue
+msgctxt "t94e4e260d0"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "kimochi_password_ed6623a0"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "home_kimochi_interior_637ce628"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "home_kimochi_interior_b4e69ca9"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "home_kimochi_interior_ed6623a0"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "home_kimochi_interior_03775ec8"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "home_kimochi_interior_859dc21e"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "home_kimochi_interior_859dc21e_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/introduction.dialogue
+msgctxt "intro_a21e86ee"
+msgid "..."
+msgstr "..."
+
+#: game/story/introduction.dialogue
+msgctxt "home_player_room_319ad2f8"
+msgid "..."
+msgstr "..."
+
+#: game/story/introduction.dialogue
+msgctxt "home_player_room_9c2591ac"
+msgid "..."
+msgstr "..."
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_03775ec8"
+msgid "..."
+msgstr "..."
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_c2cffe85"
+msgid "..."
+msgstr "..."
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_a21e86ee"
+msgid "..."
+msgstr "..."
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_d63d6b65"
+msgid "..."
+msgstr "..."
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_e8b68a52_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_a21e86ee_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_20243432"
+msgid "..."
+msgstr "..."
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_b8cb9f97"
+msgid "..."
+msgstr "..."
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_c2cffe85_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_ed6623a0"
+msgid "..."
+msgstr "..."
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_c342f2e7"
+msgid "..."
+msgstr "..."
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_d92934d2"
+msgid "..."
+msgstr "..."
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_b8cb9f97_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_b8cb9f97_2"
+msgid "..."
+msgstr "..."
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_d63d6b65_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_aad6404e"
+msgid "..."
+msgstr "..."
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_aad6404e_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/bus_stop.dialogue
+msgctxt "bus_stop_29cd7803"
+msgid "..."
+msgstr "..."
+
+#: game/story/bus_stop.dialogue
+msgctxt "bus_stop_03775ec8"
+msgid "..."
+msgstr "..."
+
+#: game/story/bus_stop.dialogue
+msgctxt "bus_stop_29cd7803_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/bus_stop.dialogue
+msgctxt "bus_stop_03775ec8_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/bus_stop.dialogue
+msgctxt "noriko_forgive_898b1990"
+msgid "..."
+msgstr "..."
+
+#: game/story/lake.dialogue
+msgctxt "lake_03775ec8"
+msgid "..."
+msgstr "..."
+
+#: game/story/lake.dialogue
+msgctxt "lake_03775ec8_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/lake.dialogue
+msgctxt "t8be7dc1f1c"
+msgid "..."
+msgstr "..."
+
+#: game/story/lake.dialogue
+msgctxt "lake_29cd7803"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_87c30b61"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_29cd7803"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_b14bf260"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_a21e86ee"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_a21e86ee_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_9fc616da"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "pc_noriko_9fc616da_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "home_player_noriko_room_a4009c4c"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "home_player_noriko_room_29cd7803"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_03775ec8"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_898b1990_2"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_ed6623a0"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_29cd7803"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_11b4c513"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_03775ec8_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_898b1990"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "t3f9c49d299"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_6a1adb7c"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_29cd7803_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "menu_rejet_noriko_final_637ce628"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "choice_noriko_cunni_7844d295"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "tc86cddc9dc"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "tcab9fc6df0"
+msgid "..."
+msgstr "..."
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "talk_chef_b7ecfc18"
+msgid "..."
+msgstr "..."
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "talk_chef_b7ecfc18_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "talk_chef_03775ec8"
+msgid "..."
+msgstr "..."
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "restaurant_exterior_031ba670"
+msgid "..."
+msgstr "..."
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "restaurant_exterior_a6aa04ea"
+msgid "..."
+msgstr "..."
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "restaurant_exterior_03775ec8"
+msgid "..."
+msgstr "..."
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "restaurant_exterior_03775ec8_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "restaurant_exterior_6bd0b308"
+msgid "..."
+msgstr "..."
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "restaurant_exterior_33b053ce"
+msgid "..."
+msgstr "..."
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "restaurant_exterior_c2cffe85"
+msgid "..."
+msgstr "..."
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "restaurant_exterior_03775ec8_2"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_asami_asami_room.dialogue
+msgctxt "home_asami_asami_room_031ba670"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_asami_asami_room.dialogue
+msgctxt "home_asami_asami_room_898b1990"
+msgid "..."
+msgstr "..."
+
+#: game/story/konbini_exterior.dialogue
+msgctxt "t0915597108"
+msgid "..."
+msgstr "..."
+
+#: game/story/konbini_exterior.dialogue
+msgctxt "konbini_exterior_29cd7803"
+msgid "..."
+msgstr "..."
+
+#: game/story/konbini_exterior.dialogue
+msgctxt "konbini_exterior_898b1990"
+msgid "..."
+msgstr "..."
+
+#: game/story/restaurant_sakuya_room.dialogue
+msgctxt "restaurant_sakuya_room_sexe_03775ec8"
+msgid "..."
+msgstr "..."
+
+#: game/story/restaurant_sakuya_room.dialogue
+msgctxt "restaurant_sakuya_room_a6aa04ea"
+msgid "..."
+msgstr "..."
+
+#: game/story/restaurant_sakuya_room.dialogue
+msgctxt "restaurant_sakuya_room_a6aa04ea_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/restaurant_sakuya_room.dialogue
+msgctxt "restaurant_sakuya_room_ed6623a0"
+msgid "..."
+msgstr "..."
+
+#: game/story/restaurant_sakuya_room.dialogue
+msgctxt "restaurant_sakuya_room_ed6623a0_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/restaurant_sakuya_room.dialogue
+msgctxt "restaurant_sakuya_room_b14bf260"
+msgid "..."
+msgstr "..."
+
+#: game/story/restaurant_sakuya_room.dialogue
+msgctxt "t66a89116b7"
+msgid "..."
+msgstr "..."
+
+#: game/story/restaurant_sakuya_room.dialogue
+msgctxt "restaurant_sakuya_room_38cc66a7"
+msgid "..."
+msgstr "..."
+
+#: game/story/restaurant_sakuya_room.dialogue
+msgctxt "akira_escape_b14bf260"
+msgid "..."
+msgstr "..."
+
+#: game/story/restaurant_sakuya_room.dialogue
+msgctxt "akira_escape_6a1adb7c"
+msgid "..."
+msgstr "..."
+
+#: game/story/restaurant_sakuya_room.dialogue
+msgctxt "akira_escape_03775ec8"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "asami_truth_03775ec8"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_chiaki_422949ae"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "t8f0b6fb415"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "t232fbd9bf3"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "te77a993896"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "home_player_exterior_422949ae"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_sakuya_ea41ea34"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "home_player_exterior_03775ec8_3"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "home_player_exterior_ed6623a0"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "home_player_exterior_ed6623a0_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "home_player_exterior_319ad2f8"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "home_player_exterior_03775ec8_4"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "home_player_exterior_898b1990"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_sakuya_03775ec8"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "tc10803cd5c"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_sakuya_03775ec8_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_sakuya_03775ec8_2"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "home_player_exterior_a21e86ee"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "talk_sakuya_b4e69ca9"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "asami_truth_c2cffe85"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "t0fdce11ac1"
+msgid "..."
+msgstr "..."
+
+#: game/story/love_hotel_exterior.dialogue
+msgctxt "love_hotel_exterior_29cd7803"
+msgid "..."
+msgstr "..."
+
+#: game/story/coffeebar_exterior.dialogue
+msgctxt "coffeebar_exterior_03775ec8"
+msgid "..."
+msgstr "..."
+
+#: game/story/coffeebar_exterior.dialogue
+msgctxt "talk_ubs_03775ec8"
+msgid "..."
+msgstr "..."
+
+#: game/story/coffeebar_exterior.dialogue
+msgctxt "talk_ubs_c2cffe85"
+msgid "..."
+msgstr "..."
+
+#: game/story/coffeebar_exterior.dialogue
+msgctxt "talk_ubs_c2cffe85_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/coffeebar_exterior.dialogue
+msgctxt "talk_ubs_60c27fa8"
+msgid "..."
+msgstr "..."
+
+#: game/story/coffeebar_exterior.dialogue
+msgctxt "talk_ubs_4ff94e8a"
+msgid "..."
+msgstr "..."
+
+#: game/story/coffeebar_exterior.dialogue
+msgctxt "coffeebar_exterior_ed6623a0"
+msgid "..."
+msgstr "..."
+
+#: game/story/onsen_exterior.dialogue
+msgctxt "onsen_exterior_b4e69ca9"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "tcb8ce99cee"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "t5f879795c1"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "talk_macumba_b14bf260"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "talk_asami_b14bf260_2"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "talk_asami_b14bf260_3"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "asami_choice_ed6623a0"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "talk_macumba_b4e69ca9"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "te3575e0e4c"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "tddf15eab8d"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "park_03775ec8"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "park_856b2b06"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "park_6a1adb7c"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "asami_choice_03775ec8"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "asami_choice_6a1adb7c"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "asami_choice_856b2b06"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "park_03775ec8_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "park_03775ec8_2"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "park_1de64694"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "park_a60ba924"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "park_43c76683"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "t9a1923ac82"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "menu_macumba_008a3709"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "asami_choice_830ec234"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "talk_natsume_03775ec8"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "talk_natsume_03775ec8_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "talk_natsume_03775ec8_2"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "talk_natsume_ed6623a0"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "park_7a8d963f"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "park_a9f72d56"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "asami_choice_b4e69ca9"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "asami_choice_18b6a6fa"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "menu_macumba_ed6623a0"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "park_859dc21e"
+msgid "..."
+msgstr "..."
+
+#: game/story/park.dialogue
+msgctxt "ta83d00658f"
+msgid "..."
+msgstr "..."
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "ta7bface5ce"
+msgid "..."
+msgstr "..."
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "t8c62ab70f3"
+msgid "..."
+msgstr "..."
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "t6da9922d7f"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_6a1adb7c"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_03775ec8"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_b4e69ca9"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_ed6623a0"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "talk_minato_83ffb293"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "talk_minato_03775ec8"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_a6aa04ea"
+msgid "..."
+msgstr "......"
+
+#: game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_3f9b63ba"
+msgid "..."
+msgstr "..."
+
+#: game/story/hostess_club_exterior.dialogue
+msgctxt "talk_thugs_03775ec8"
+msgid "..."
+msgstr "..."
+
+#: game/story/hostess_club_exterior.dialogue
+msgctxt "hostess_club_exterior_a6aa04ea"
+msgid "..."
+msgstr "..."
+
+#: game/story/hostess_club_exterior.dialogue
+msgctxt "hostess_club_exterior_d63d6b65"
+msgid "..."
+msgstr "..."
+
+#: game/story/hostess_club_exterior.dialogue
+msgctxt "hostess_club_exterior_c2cffe85"
+msgid "..."
+msgstr "..."
+
+#: game/story/hostess_club_exterior.dialogue
+msgctxt "hostess_club_exterior_865339b3"
+msgid "..."
+msgstr "..."
+
+#: game/story/hostess_club_exterior.dialogue
+msgctxt "hostess_club_exterior_d63d6b65_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/hostess_club_exterior.dialogue
+msgctxt "hostess_club_exterior_42d71409"
+msgid "..."
+msgstr "..."
+
+#: game/story/hostess_club_exterior.dialogue
+msgctxt "talk_thugs_c2cffe85"
+msgid "..."
+msgstr "..."
+
+#: game/story/hostess_club_exterior.dialogue
+msgctxt "talk_thugs_ed6623a0"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_29cd7803"
+msgid "..."
+msgstr "......"
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_aad6404e"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "bar_exterior_aad6404e_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_nobu_exterior.dialogue
+msgctxt "home_nobu_exterior_03775ec8"
+msgid "..."
+msgstr "..."
+
+#: game/story/arcade_interior.dialogue
+msgctxt "_3F9E71"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_minato_hallway.dialogue
+msgctxt "t4ff6dbb309"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_asami_bathroom.dialogue
+msgctxt "t693273e091"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "t77fb0b8a12"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "t05328323b7"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "tfcef30ccb5"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "t82e78a9bd0"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "t9eef5cefc2"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "t6b78a40ccb"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "teba4cbc7c3"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "t5e0b7a179f"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_asami_sayuri_room.dialogue
+msgctxt "t8fda756839"
+msgid "..."
+msgstr "..."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_f0f21b2a"
+msgid "Je suis désolée, mais ce n'est pas quelque chose dont j'aime me vanter."
+msgstr "ขอโทษนะครับ ผมคิดว่ามันไม่ใช่เรื่องที่น่าจะเอามาพูดเท่าไหร่น่ะ"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_df5f3f1d"
+msgid "Merci, mais je ne veux pas de..."
+msgstr "ขอบคุณนะ แต่ว่าไม่เป็นไรหรอก..."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_f317d5ec"
+msgid "J'insiste, je ne voudrais pas que ma meilleure employée finisse sur le trottoir."
+msgstr ""
+"ยังไงก็ไม่ได้ "
+"ฉันไม่ปล่อยให้พนักงานที่ดีที่สุดของฉันต้องไปลงเอยที่ข้างถนนหรอกนะ"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_e7bdf7e2"
+msgid "Je vous laisse avec votre... lui."
+msgstr "งั้นก็ ฉันจะไม่รบกวนการพูดคุยของเธอแล้วก็ลู...หมายถึงเขาน่ะ"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "td13ff2e22e"
+msgid "Je vous laisse avec votre... partenaire."
+msgstr "งั้นฉันขอตัวก่อนแล้วกัน เชิญคุณคุยกับ..แฟน...ของเธอตามสบาย"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_bce09a57"
+msgid "Ne t'inquiète pas pour ça. Le fait de savoir que je suis soutenu par un garçon aussi gentil me suffit."
+msgstr ""
+"ไม่ต้องคิดมากไปหรอกจ่ะ แค่การที่ฉันได้รับการช่วยเหลือจากเด็กดีคนนึงนั่นก็นับว"
+"่าเพียงพอสำหรับฉันแล้วล่ะ"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_b4be6f6a"
+msgid "Personne à l'intérieur non plus, c'est vraiment étrange."
+msgstr "ไม่มีใครอยู่ในร้านเลย แปลกชะมัด"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_76e8e484"
+msgid "Il a dû se passer un truc cette nuit."
+msgstr "สงสัยคงมีเรื่องอะไรเกิดขึ้นเมื่อคืนล่ะมั้ง"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_019f200a"
+msgid "Bonjour {{saito.n}} !"
+msgstr "หวัดดี {{saito.n}} !"
+
+#: game/story/restaurant_interior.dialogue
+msgctxt "restaurant_interior_aedbd962"
+msgid "Bonjour {{saito.n}} !"
+msgstr "สวัสดี {{saito.n}} !"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_52e8a705"
+msgid "{{sakuya.n}}... C'était bien toi !"
+msgstr "เธอเองหรอกหรอ... {{sakuya.n}}!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_454dc301"
+msgid "Tu es surpris ?"
+msgstr "ตกใจหรอ?"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_59acee05"
+msgid "Le mot est faible..."
+msgstr "ก็คงงั้นแหละ..."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_a0f28b52"
+msgid "Tu avais des doutes ?"
+msgstr "มีอะไรมาทำให้เธอกังวลใจรึเปล่า?"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_7648545e"
+msgid "Que lui est-il arrivé ?"
+msgstr "เกิดอะไรขึ้นกับหมอนั่นน่ะ?"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_6d81239f"
+msgid "Oh, lui ? Il est toujours vivant."
+msgstr "อ๋อ หมายถึงหมอนั่นหรอ? ไม่ต้องเป็นห่วงไป เขายังมีชีวิตอยู่"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_0cbce7c2"
+msgid "Mais bordel, comme si j'avais pas assez de problèmes comme ça, je me retrouve à devoir gérer une folle."
+msgstr ""
+"ชิบหายละไงตู นี่ฉันยังมีปัญหาไม่มากพออีกรึไงเนี่ย "
+"ยังจะมีเรื่องยัยนี่มาเพิ่มอีกคนอีกหรอเนี่ย"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_ef90dbbb"
+msgid "Et cette personne, c'était moi."
+msgstr "และคนๆนั้นก็คือฉันไง"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_536f0964"
+msgid "Je savais que tout ça se passait trop bien."
+msgstr "ฉันรู้ว่าทุกอย่างกำลังไปได้สวย"
+
+#: game/story/onsen_bath.dialogue
+msgctxt "onsen_bath_4dcd7cbf"
+msgid "Tu viens ?"
+msgstr "ทำไมถึงยังไม่รีบลงมาแช่น้ำล่ะ?"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "te0df105c29"
+msgid "Tu viens ?"
+msgstr "คุณจะมามั้ย?"
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "TU_VIENS_7F5C2A"
+msgid "Tu viens ?"
+msgstr "ไปกันเลยมั้ย?"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_68138ac2"
+msgid "Où ça ?"
+msgstr "ไปไหนล่ะ?"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_169816be"
+msgid "Je... Non en effet."
+msgstr "ฉันไม่ได้...เอ่อ ก็ถูกของเธอนั่นแหละ"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_73d89f9c"
+msgid "Alors c'est parfait, allons-y ensemble !"
+msgstr "เอาล่ะ งั้นไปด้วยกันเถอะ!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_4dcd7cbf"
+msgid "Tu viens ?"
+msgstr "จะไปมั้ย?"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_062ace96"
+msgid "Bonjour mon chéri !"
+msgstr "ว่าไงจ๊ะที่รัก!"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_1b5723bb"
+msgid "Bonjour mon chéri !"
+msgstr "สวัสดีตอนเช้าจ่ะ!"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_65cb155f"
+msgid "Bonjour mon chéri !"
+msgstr "สวัสดีจ้าที่รัก!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_dcfbfbe3"
+msgid "Je constate que tu n'as pas perdu de temps."
+msgstr "ดูเหมือนว่าเธอจัดการได้เร็วมากนะเนี่ย"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_cd56f517"
+msgid "Je ne supportais plus de rester là à ne rien faire."
+msgstr "ฉันนั่งอยู่เฉยๆ ทั้งที่ตัวเองไม่ทำอะไรไม่ได้หรอกนะ"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_b9c66c77"
+msgid "Je ne pourrais jamais assez te remercier."
+msgstr "ฉันไม่รู้ว่าจะตอบแทนยังไงดี ขอบคุณยังน้อยไปด้วยซ้ำ"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_b9c9f2f8"
+msgid "Tu n'as pas besoins de me remercier, mais..."
+msgstr "ไม่ต้องขอบคุณฉันหรอกนะ แต่ว่า..."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_5f7ace04"
+msgid "Si tu insistes, je peux..."
+msgstr "แต่ถ้าเธอยืนกรานที่จะตอบแทนล่ะก็.."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_85085b88"
+msgid "Retrouve-moi à la maison en fin de journée, je m'occuperais de toi."
+msgstr "ไปเจอฉันที่บ้านตอนเย็นสิ ฉันจะดูแลเธอเอง"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_780a890f"
+msgid "Avec plaisir alors, à ce soir !"
+msgstr "ด้วยความยินดีเลย ไว้เจอกันคืนนี้นะ!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_d3f41477"
+msgid "Gamin, j'espère que tu as de quoi commander, sinon tu peux ressortir tout de suite."
+msgstr "เจ้าหนูฉันคิดว่าเธอน่าจะสั่งอะไรสักหน่อยนะ ถ้าไม่ก็เชิญออกจากร้านไปซะ"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_ced09ecf"
+msgid "J'espère juste qu'elle l'a surestimée."
+msgstr "ฉันหวังว่าที่เธอพูดมันจะเกินจริงนะ"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_c5322b67"
+msgid "Je ne sais pas s'il sera sensible à mes problèmes."
+msgstr "ฉันไม่รู้ว่าเขาจะเข้าใจและเห็นใจกับปัญหาที่ฉันกำลังเจออยู่รึเปล่า"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_19c8916a"
+msgid "Mais j'ai comme un gros doute."
+msgstr "แต่ตอนนี้ฉันรู้สึกเริ่มไม่แน่ใจเท่าไหร่แล้วสิ"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_6dddebf6"
+msgid "Oui, j'aimerais commander s'il vous plait."
+msgstr "โอเค งั้นขอสั่งเลยละกันนะ"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_1095df51"
+msgid "Tchh"
+msgstr "ชิ"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_1cd11301"
+msgid "{{saito.n}} s'installa sur une banquette et passa la journée à attendre."
+msgstr "{{saito.n}} นั่งลงที่ม้านั่นและนั่งรออยู่ภายในร้านทั้งวัน"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_cd8861e5"
+msgid "Merde ! Ils sont encore là à m'attendre."
+msgstr "ซวยแล้วไง! ไอ้พวกนั้นยังดักรอฉันอยู่เลย"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_64067c20"
+msgid "Je sais pas comment je vais me tirer de ce mauvais pas."
+msgstr "ฉันจะทำยังไงดีถึงจะออกจากเรื่องวุ่นวายนี้ได้สักทีเนี่ย"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_678fa7b8"
+msgid "Ils sont décidés à vouloir ma peau."
+msgstr "ไอ้พวกนั้นมันจ้องจะเล่นฉันให้ได้เลยรึไงกัน"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_16eef316"
+msgid "Il me faut une idée brillante."
+msgstr "ฉันต้องคิดหาทางรับมือซะแล้วสิ"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_a2a9adcd"
+msgid "Ce n'est plus le cas ?"
+msgstr "ดูเหมือนว่าตอนนี้เธอจะไม่ได้ทำงานอยู่ที่นี่แล้วสินะ"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_43aac03c"
+msgid "Qu'est-ce que ça peut te faire ? Cette foutue ingrate a démissionné, maintenant, je me tape tout le boulot."
+msgstr ""
+"แล้วมันเกี่ยวอะไรกับแกล่ะห๊ะ? นังนั่นมันลาออกไปแล้ว "
+"ฉันถึงต้องมาทำอะไรแบบนี้คนเดียวทั้งหมดนี่ไง"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_bea2a22f"
+msgid "Oula doucement, je ne cherche pas les problèmes."
+msgstr "เฮ้ยๆ ใจเย็นก่อนสิเห้ย ฉันไม่ได้มาที่นี่เพื่อหาเรื่องสักหน่อย"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_c6b40686"
+msgid "Vous cherchez quelqu'un pour la remplacer ?"
+msgstr "นายกำลังหาใครสักคนมาทำงานแทนที่เธออยู่มั้ยล่ะ?"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_63dccf2a"
+msgid "...Toi ?"
+msgstr "ถามทำไม...แกจะมาทำแทนรึไง?"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_728cbd2a"
+msgid "Me fait pas rire !"
+msgstr "อย่ามาพูดชวนขำไปหน่อยเลย!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_356148b6"
+msgid "Allez tire toi !"
+msgstr "เพราะงั้นแล้ว เชิญไสหัวไป!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_56ec7904"
+msgid "[font_size=14]{{akira.n}} a très envie de discuter avec toi, crois-moi, t'as pas envie de le faire attendre.[/font_size]"
+msgstr ""
+"[font_size=14]{{akira.n}} อยากคุยกับนาย แล้วก็เชื่อฉันเถอะ "
+"ว่านายไม่อยากให้หมอนั่นรอนายสักเท่าไหร่[/font_size]"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_12e2ae94"
+msgid "Je crois bien que quelqu'un va passer un sale moment."
+msgstr "ดูเหมือนว่า จะมีคนแถวๆนี้กำลังเจอกับเรื่องที่ไม่ค่อยจะดีเท่าไหร่นะเนี่ย"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_749d6f39"
+msgid "Ce qui peut t'arriver, je n'en ai rien à branler."
+msgstr "ฉันไม่สนใจหรอกนะว่าจะมีเรื่องเฮงซวยอะไรเกิดขึ้นกับแก"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_568d4ce8"
+msgid "MAINTENANT DÉGAGE !"
+msgstr "เพราะงั้น ช่าง หัว คุณ มึง สิ ครับ!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_a6c7a572"
+msgid "Qu'est-ce que tu veux ?"
+msgstr "ต้องการอะไร?"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_c5a36d37"
+msgid "Qu'est-ce que tu veux ?"
+msgstr "ต้องการอะไรจากฉัน?"
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "home_player_hallway_238b91e5"
+msgid "Qu'est-ce que tu veux ?"
+msgstr "ต้องการอะไรอีก?"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "talk_noriko_181efd45"
+msgid "Qu'est-ce que tu veux ?"
+msgstr "ต้องการอะไร?"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_87111c4f"
+msgid "Je l'ai pas fait pour toi."
+msgstr "ฉันไม่ได้ทำเพื่อแกหรอกนะ"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_662878fa"
+msgid "Allez, tire-toi de là, j'ai du travail qui m'attend."
+msgstr "เพราะงั้นไปไหนก็ไป ฉันมีงานที่ต้องทำ"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_009117d1"
+msgid "De quoi ?"
+msgstr "ไฟล์อะไรอีกล่ะ?"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_0458b6ed"
+msgid "De quoi ?"
+msgstr "แล้วถ้าไม่ล่ะ?"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "talk_noriko_e73a231d"
+msgid "De quoi ?"
+msgstr "เชี่ยไรวะครับ?"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_6b7cd08e"
+msgid "De quoi ?"
+msgstr "เรื่องอะไรงั้นหรอ?"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_e73a231d"
+msgid "De quoi ?"
+msgstr "อะไร?"
+
+#: game/story/park.dialogue
+msgctxt "talk_asami_c7f9c84e"
+msgid "De quoi ?"
+msgstr "อะไรนะ?"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_20e217e3"
+msgid "Aaaah ça, c'était du bluff ! Je n'avais rien du tout."
+msgstr ""
+"อ๋ออออ นั่นน่ะหรอ? นั่นก็แค่แกล้งทำเป็นว่าอัดไว้ไง! "
+"ฉันไม่ได้มีอะไรแบบนั้นสักนิดเลยแหละ"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_6de8c182"
+msgid "Vous plaisantez ?"
+msgstr "นี่พูดจริงหรือกวนตีนกันแน่เนี่ย?"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_330317d5"
+msgid "Ce gars ment comme il respire."
+msgstr "ฉันมั่นใจเลยว่าไอ้หมอนั่นมันโกหกเพื่อปั่นประสาทชัดๆ"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_98901fe8"
+msgid "Il n'a jamais eu l'envie de m'aider."
+msgstr "ไอ้หมอนี่มันไม่ได้คิดจะช่วยฉันตั้งแต่แรกอยู่แล้วสินะ"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_cda7fafe"
+msgid "Je suis en train de vendre la boutique."
+msgstr "ฉันจะขายร้านนี้"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_d06b2774"
+msgid "Et je ne veux pas de mioches dans les pattes quand les acheteurs vont venir."
+msgstr "และฉันก็ไม่อยากให้เด็กเวรมาอยู่แถวๆนี้จนกว่าลูกค้าที่จะซื้อร้านจะมา"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_c980052b"
+msgid "Gamin, la personne qui pourra me menacer n'est pas encore née, crois-moi."
+msgstr ""
+"ไอ้หนู เชื่อฉันสิ ตั้งแต่เกิดมาจนตอนนี้ยังไม่มีใครหน้าไหนมันขู่ฉันได้เลยนะ"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_6527c470"
+msgid "Je vends, car je ne veux plus m'encombrer de cette boutique."
+msgstr ""
+"ฉันตัดสินใจขายร้านนี้เพราะว่าไม่อยากจะไปยุ่งเกี่ยวอะไรกับร้านนี้อีกแล้วเฉยๆน่"
+"า"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_dbe81c42"
+msgid "Et puis j'ai des projets plus intéressants..."
+msgstr "แล้วก็อีกอย่างนึง...ฉันมีโปรเจคที่ฉันสนใจ ม๊าก มาก ที่อยากจำทำมันด้วย"
+
+#: game/story/love_hotel_exterior.dialogue
+msgctxt "love_hotel_exterior_e1021b8c"
+msgid "Allez dégage d'ici !"
+msgstr "ตอนนี้ก็ไสหัวไปให้พ้นได้แล้ว!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_4ca6a0ff"
+msgid "Je t'écoute !"
+msgstr "ฉันก็ฟังอยู่นี่ไง!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_6848e675"
+msgid "Il est temps que je m'occupe de ma relation...[w] conflictuelle avec {{noriko.n}}."
+msgstr ""
+"มันถึงเวลาที่ฉันต้องพูดเรื่อง...[w] ความสัมพันธ์ที่มันขัดแย้งกันมานานของฉันกั"
+"บ {{noriko.n}} แล้วล่ะ"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_8070e4ce"
+msgid "Je crois que j'ai laissé les choses se détériorer pendant trop longtemps."
+msgstr "ผมคิดว่าผมปล่อยให้เรื่องแบบนี้มันเลยเถิดมานานจนเกินไป"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_466d716a"
+msgid "Mon chéri, tu es toujours si dur avec toi-même."
+msgstr "ที่รัก...เธอกดดันตัวเองมากเกินไปนะ"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_aa86aad2"
+msgid "Tu n'as pas à porter tout ça seul sur tes épaules."
+msgstr "เธอไม่ต้องแบกทุกอย่างไว้คนเดียวขนาดนี้ก็ได้นะ"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_d9039577"
+msgid "Toi et moi savons qu'elle n'est pas facile à vivre."
+msgstr ""
+"ทั้งเธอแล้วก็ฉันต่างก็รู้ดีไม่ใช่หรอ "
+"ว่าเด็กคนนั้นมีนิสัยดื้อรั้นมาแต่ไหนแต่ไรแล้ว"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_9cf99a43"
+msgid "Être parent n'est pas vraiment pas simple..."
+msgstr "การที่จะเป็นแม่คนได้มันไม่ง่ายเลย..."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_16085e4a"
+msgid "Il est trop tard pour regretter à présent."
+msgstr "ถึงมันจะสายเกินไปที่จะมานั่งนึกถึงเรื่องที่ผ่านมาแล้วก็เถอะนะ"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_47e603be"
+msgid "Tu as raison !"
+msgstr "คุณพูดถูกแล้วล่ะ!"
+
+#: game/story/restaurant_exterior.dialogue
+msgctxt "restaurant_exterior_0b05caf3"
+msgid "Tu as raison !"
+msgstr "ช..ใช่แล้วล่ะ !"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_ddc1268b"
+msgid "Dis-moi, en quoi je peux t'être utile ?"
+msgstr "เอาล่ะ ตอนนี้พอจะบอกหน่อยได้มั้ยว่าฉันพอจะช่วยเธอได้ยังไงบ้าง?"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_e0d504a2"
+msgid "Abandonner un petit garçon à un si jeune âge..."
+msgstr "การที่ทิ้งเด็กตัวเล็กๆไว้ตัวคนเดียวแบบนี้..."
+
+#: game/scenes/gui/splashscreen.tscn
+msgid ""
+"Les données recueillies incluent :\n"
+"- numéro de version actuelle\n"
+"- préférences du joueur (mode \"patate\")\n"
+"- informations de plateforme (Windows, Android, etc.)\n"
+"- informations de build (animations, censure, mode web, etc.)"
+msgstr ""
+"ข้อมูลที่มีการเก็บ:\n"
+"- เวอร์ชันปัจจุบัน\n"
+"- การตั้งค่าของผู้เล่น (เช่น “โหมดคุณภาพต่ำ”)\n"
+"- ข้อมูลแพลตฟอร์ม (Windows, Android ฯลฯ)\n"
+"- ข้อมูลการบิลด์ (แอนิเมชัน, การเซ็นเซอร์, โหมดเว็บ ฯลฯ)”"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_unavailable_6f3cbfbc"
+msgid "Forcement, c'est fermé à cette heure-ci..."
+msgstr "แน่นอนว่า...ร้านมันปิดแล้ว"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_04c36d55"
+msgid "Tu désires quelque chose ?"
+msgstr "อยากจะรับอะไรดีคะ?"
+
+#: game/story/park.dialogue
+msgctxt "menu_macumba_9c79e0a2"
+msgid "Oui !"
+msgstr "ใช่แล้วล่ะ!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "taeb1bb5d11"
+msgid "Prendre un moment avec toi."
+msgstr "พักผ่อนกับคุณสักแปบนึง"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_3ba5809c"
+msgid "Je m'occuperai de toi ce soir comme il se doit."
+msgstr "คืนนี้ฉันจะดูแลเธออย่างดีเลยล่ะ"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "tc78484a21f"
+msgid "[color=yellow]À propos de {{noriko.n}}.[/color]"
+msgstr "[color=yellow]เกี่ยวกับ {{noriko.n}}.[/color]"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_862bc7ab"
+msgid "Merci !"
+msgstr "ขอบคุณนะ!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_c4e3f356"
+msgid "Le service de sécurité est plutôt horrible, mais je suis content d'être arrivé jusqu'à toi !"
+msgstr "การ์ดหน้าประตูอย่างแย่เลย แต่ก็ดีใจที่เจอคุณนะ"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_be3259f1"
+msgid "Tu es un amour !"
+msgstr "ให้ตายสิ เธอนี่เป็นคนที่น่ารักมากเลย!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_24004b8a"
+msgid "Sinon, c'est qui la personne vraiment désagréable qui m'a sauté dessus à l'extérieur ?"
+msgstr ""
+"จะยังไงก็ช่างเถอะ แล้วไอ้เวรที่อยู่ข้างนอกนั่นมันเป็นใคร "
+"ไหงมาทำตัวหาเรื่องฉันได้ไงเนี่ย?"
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "event_noriko_doggy_3e85771d"
+msgid "Oui..."
+msgstr "ก็ใช่แหละ..."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_ef1ad18b"
+msgid "C'est donc cette espèce d'ordure qui pourrit la vie de {{yasuka.n}}."
+msgstr "เป็นเพราะไอ้สาระยำนั่น ชีวิตของ{{yasuka.n}}ถึงได้กลายเป็นแบบนี้"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_09f7daef"
+msgid "Ce mec a l'air d'être un véritable connard."
+msgstr "ฉันหมายถึงว่า ไอ้เวรนั่นแม่งโครตไอ้เหี้ยตัวพ่อเลยล่ะ"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_62f021b1"
+msgid "Je déduirai le temps que tu passes à discuter avec les clients de ton salaire !"
+msgstr "ฉันจะหักเงินเดือนของเธอตามเวลาที่เธอใช้คุยกับลูกค้า!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_725fc51e"
+msgid "Si tu comptes ne rien acheter ici, dégage !"
+msgstr "ถ้ามาแล้วไม่คิดที่จะสั่งอะไรล่ะก็ เชิญไสหัวออกจากร้านไปครับ!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_d4a3194e"
+msgid "Je suis désolé mon chéri que tu aies à subir ça..."
+msgstr "ฉันขอโทษจริงๆที่ทำให้ต้องมาเจออะไรแบบนี้ด้วยนะจ๊ะ ที่รัก..."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_ce85d5fe"
+msgid "ET TOI RETOURNE BOSSER AU LIEU DE NE RIEN BRANLER !"
+msgstr ""
+"แล้วก็เธอ! กลับไปหน้าที่ของตัวเองซะ ฉันไม่ได้จ้างเธอมาเพื่อไม่ทำอะไรเลย!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_9f305ee3"
+msgid "Juste quoi ? Draguer le personnel ?"
+msgstr "อยากที่จะอะไร? อยากที่จะจีบพนักงานร้านฉันรึไง?"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_5ba836a8"
+msgid "Elle est tellement âgée qu'elle pourrait être ta grand-mère !"
+msgstr "สมองกลับไปแล้วรึไง? เธออายุมากพอที่จะเป็นรุ่นยายแกแล้วนะนั่น!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_a9ad3e2c"
+msgid "Sinon quoi ? Tu vas faire quoi microbe ?"
+msgstr "แล้วไงห๊ะ? แล้วพูดไปแกจะทำอะไรฉันได้รึไงไอ้เด็กเวร?"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_2a515d02"
+msgid "Je vais fermer la boutique quelques minutes afin qu'on ne soit pas dérangé."
+msgstr "เดี๋ยวฉันจะปิดร้านสักแปบนึงก็แล้วกัน จะได้ไม่มีใครมากวนเรา"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_35d0832c"
+msgid "Il s'agit de mon responsable..."
+msgstr "เขาเป็น...หัวหน้าฉันเอง"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_f7d46344"
+msgid "Je ne te paye pas à ne rien faire !"
+msgstr "ฉันไม่ได้จ้างเธอเพื่อมานั่งบื้อนะอยู่เฉยๆนะ!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_07345f96"
+msgid "Si tu savais tous les stratagèmes qu'il a fallu mettre en place pour juste venir te voir."
+msgstr "คุณต้องไม่เชื่อผมแน่ว่าผมต้องเล่นแง่ขนาดไหนเพื่อที่จะมาเจอคุณได้น่ะ"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_0b339148"
+msgid "Après avoir discuté un long moment, il était temps de partir."
+msgstr "หลังจากพวกเขาใช้เวลาคุยกันพักใหญ่ๆ ก็ถึงเวลาที่ต้องแยกกันแล้ว"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_68507bbe"
+msgid "C'est le propriétaire de cette boutique."
+msgstr "เขาเป็นเจ้าของร้านนี้น่ะ"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_d2f082b8"
+msgid "Il n'y a pas de client en ce moment hormis toi."
+msgstr "ตอนนี้ยังไม่มีลูกค้าคนอื่นเข้าร้าน ตอนนี้ก็มีแค่เธอแล้วล่ะ"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_344ff72e"
+msgid "Je trouve que tu as vraiment changé ces temps-ci."
+msgstr "ฉันคิดว่าช่วงเธอเปลี่ยนไปมากเลยล่ะ"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_00a019d4"
+msgid "Mon Dieu, les enfants grandissent si vite."
+msgstr "ตายจริง...เด็กๆนี่โตเร็วกันซะจริง"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_e9e491a3"
+msgid "Je voulais que tu puisses grandir avec {{noriko.n}} normalement."
+msgstr "ฉันน่ะ อยากให้เธอเติบโตเหมือนเด็กทั่วไปพร้อมๆกับ {{noriko.n}}"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_0a7e69d0"
+msgid "Je peux savoir ce qui se passe ici ?!"
+msgstr "พอจะมีใครอธิบายอะไรหน่อยได้มั้ย ว่ามันเกิดอะไรขึ้นที่นี่เนี่ย?!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_665e2b8b"
+msgid "Quoi ?!"
+msgstr "อะไรนะ?!"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_6d04f7e8"
+msgid "Quoi ?!"
+msgstr "อะไรนะ?!"
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "home_kimochi_interior_69f683d3"
+msgid "Quoi ?!"
+msgstr "อะไรนะ?"
+
+#: game/story/home_player_exterior.dialogue
+msgctxt "home_player_exterior_93d8ae63"
+msgid "Quoi ?!"
+msgstr "ว่ายังไงนะ?!"
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "yasuka_love_sexe_repeat_a8559f90"
+msgid "Oui !"
+msgstr "แบบนั้นแหละ!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_310e68bc"
+msgid "Je pensais que c'était juste une passade, mais tu as vraiment l'air sérieux dans tes efforts."
+msgstr ""
+"ฉันคิดว่ามันอาจจะเป็นแค่ช่วงนึงเท่านั้นแหละ "
+"แต่ว่าดูเหมือนว่าเธอจริงจังกับสิ่งที่พูดไว้ก่อนหน้านั้นมากเลยล่ะ"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_ada98003"
+msgid "Un jour, ils sont là à pleurer dans nos jambes."
+msgstr "แล้วสักวันนึง ไอ้เจ้าพวกนั้นจะต้องมาร้องไห้กราบแทบเท้าผม"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_4c17d2d2"
+msgid "{{yasuka.n}}, je ne vous paye pas pour faire la causette aux clients ! Vous vous croyez dans un bar à hôtesses ?"
+msgstr ""
+"{{yasuka.n}}! ฉันไม่เคยอนุญาตให้เธอคุยกับลูกค้านะ! "
+"เธอคิดว่าตอนนี้ตัวเองอยู่ในบาร์โฮสรึไงกันห๊ะ?"
+
+#: game/story/love_hotel_exterior.dialogue
+msgctxt "love_hotel_exterior_93d8ae63"
+msgid "Quoi ?!"
+msgstr "ว่ายังไงนะ?!"
+
+#: game/story/home_kenji_exterior.dialogue
+msgctxt "QUOI_DA01E5"
+msgid "Quoi ?!"
+msgstr "อะไร?!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_9ccff65b"
+msgid "Arrête de jouer au malin et va-t'en d'ici avant que je n'appelle la police !"
+msgstr ""
+"อย่ามาเล่นแง่กับฉัน แล้วไสหัวออกจากที่นี่ไปซะ "
+"ก่อนฉันจะโทรแจ้งตำรวจให้มาลากตัวแกไป!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_72c2ae27"
+msgid "Ce n'est pas la première fois que je te vois ici gamin !"
+msgstr "แล้วก็ นี่ไม่ใช่ครั้งแรกที่ฉันเห็นแกมาวอแวอยู่กับเธอนะไอ้เด็กเหลือขอ!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_8005452d"
+msgid "Merde, ce connard me bloque, peu importe ce que je dise."
+msgstr "แม่มเอ้ย ไอ้เวรนั่นมันขวางทางไม่ให้ฉันเข้าไปไม่ว่าฉันจะพูดยังไงก็ตาม"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_759f70dc"
+msgid "Vu que tu passes ton temps à revenir sans cesse pour mon employée."
+msgstr "ถ้าเกิดฉันยังเห็นแกกลับมาที่นี่แล้วมาวอแวกับพนักงานฉันอีกล่ะก็..."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_185adc22"
+msgid "Comment je pourrais m'en débarrasser ?"
+msgstr "ฉันควรจะทำยังไงกับไอ้เวรนั่นดีนะ?"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_b7ec8004"
+msgid "Ça me regarde."
+msgstr "นั่นมันก็เรื่องของฉันไม่ใช่รึไง"
+
+#: game/story/warehouse_exterior.dialogue
+msgctxt "warehouse_exterior_a91cfbc6"
+msgid "..."
+msgstr "..."
+
+#: game/story/warehouse_exterior.dialogue
+msgctxt "warehouse_exterior_83ffb293"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_a21e86ee"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "talk_noriko_b14bf260_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_18b6a6fa_2"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "talk_yasuka_b14bf260_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_c41469da"
+msgid "Je n'ai raconté tous mes problèmes qu'à une seule personne."
+msgstr "มีแค่คนเดียวที่ฉันเล่าเกี่ยวกับปัญหาที่ฉันเจอให้ฟัง"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_424e960b"
+msgid "Ne dis pas n'importe quoi !"
+msgstr "นั่นมันโครตไร้สาระเลย!"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_03775ec8_2"
+msgid "..."
+msgstr "..."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_c2ee4dc9"
+msgid "Il me reste deux ou trois choses à régler et toute cette histoire sera derrière nous."
+msgstr "ฉันยังมีเรื่องที่ต้องจัดการต่อหนึ่งถึงสองอย่าง ก่อนที่จะจบเรื่องนี้ได้"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_3f9b63ba"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_player_hallway.dialogue
+msgctxt "home_player_hallway_03775ec8_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "tde8d9d429e"
+msgid "Ma mère !"
+msgstr "เธอเป็นแม่ฉันโว้ย!"
+
+#: game/story/home_kimochi_interior.dialogue
+msgctxt "kimochi_password_c2cffe85"
+msgid "..."
+msgstr "..."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_ba1262f9"
+msgid "Il y aurait forcément un prix à payer tôt ou tard."
+msgstr "แต่ว่าทุกการกระทำย่อมมีราคาที่ต้องจ่ายคืนเสมอ"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_e27cd766"
+msgid "Pour qu'elle soit ta mère, il faudrait qu'elle t'ait eu à genre 16 ans..."
+msgstr "แล้วถ้าเธอเป็นแม่ของแกจริง เธอก็ต้องมีแกตั้งแต่อายุ16 แล้วสิเห้ย..."
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_03775ec8_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_c771531c"
+msgid "Tu es bête ! Ton service va bientôt commencer, tu ne voudrais pas arriver en retard, non ?"
+msgstr ""
+"นี่แกล้งโง่หรือโง่จริงๆเนี่ย! ใกล้ถึงเวลาทำงานกะของเธอแล้วนะ "
+"เธอคงไม่ได้อยากไปทำงานสายใช่มั้ยล่ะ?"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_4497dc2c"
+msgid "Tu t'es occupé de tous mes problèmes, tu as été formidable."
+msgstr "เธอแก้ปัญหาของฉันหมดเลยหรอเนี่ย! สุดยอดไปเลย"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_fcf81914"
+msgid "Shhh, n'en dis pas plus ! J'ai compris."
+msgstr "ชู่ววว ไม่ต้องพูดอะไรมากกว่านี้หรอกนะ! ฉันเข้าใจแล้ว"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_41499d63"
+msgid "J'ai hâte d'y être, ce soir mon chéri !"
+msgstr "ฉันชักจะอดใจรอไม่ไหวแล้วสิ ไว้เจอกันตอนเย็นนะจ๊ะ!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_f4f2b1e5"
+msgid "{{yasuka.n}} m'a prévenu que son patron était un gros connard."
+msgstr "{{yasuka.n}} บอกว่าหัวหน้าของเธอมีนิสัยค่อนข้างแย่"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_15e7b9f7"
+msgid "Dépêche-toi, je n'ai pas que ça à faire !"
+msgstr "ต้องรีบแล้วล่ะ ฉันมีเรื่องที่ต้องทำต่ออีก!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_31d77837"
+msgid "Bon, je vais fermer, c'est le moment pour toi de partir."
+msgstr "เอาล่ะ ถึงเวลาที่ฉันจะต้องปิดร้านแล้ว ถึงเวลาที่เธอต้องกลับแล้ว"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_f17e1fde"
+msgid "Il me semblait qu'avant, il y avait une femme qui travaillait ici."
+msgstr "ถ้าฉันจำไม่ผิด ก่อนหน้านี้มีผู้หญิงคนนึงทำงานอยู่ที่นี่มาก่อนนะ"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_2f904ecf"
+msgid "[font_size=14]{{saito.n}}, c'est l'heure ! Arrête de faire durer le plaisir ![/font_size]"
+msgstr ""
+"[font_size=14]ถึงเวลาทำงานแล้ว {{saito.n}}! "
+"หยุดอืดอาดยืดยาดสักที![/font_size]"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_9d8abc0f"
+msgid "...Vous ne comptez pas m'aider ?"
+msgstr "แกไม่คิด...ที่จะช่วยฉันหน่อยรึไง?"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_c6ad8508"
+msgid "Je voulais vous remercier pour hier soir, sans vous, je ne sais pas si je serais encore là aujourd'hui."
+msgstr ""
+"ฉันอยากจะขอบคุณสำหรับเรื่องเมื่อวานน่ะ ถ้าไม่มีเธอล่ะก็ "
+"ฉันคงไม่ได้อยู่ตรงนี้อีกครั้ง"
+
+#: game/story/dojo_exterior.dialogue
+msgctxt "dojo_exterior_e8b68a52"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "home_asami_exterior_03775ec8"
+msgid "..."
+msgstr "..."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_7a9476be"
+msgid "[font_size=14]C'est juste un très mauvais moment à passer.[/font_size]"
+msgstr "[font_size=14]นี่มัน...โครตจะเป็นเวลาที่แย่ที่สุดของวันเลย[/font_size]"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_8fd8e5da"
+msgid "T'aider ? Je vais fermer la boutique, rentrez chez moi et profiter de ma soirée."
+msgstr ""
+"ช่วยเนี่ยนะ? อืม..."
+"พอดีว่าตอนนี้กระผมนั้นกำลังยุ่งอยู่กับการที่ต้องปิดร้านน่ะคร้าบ "
+"หลังจากนั้นก็กลับบ้าน ไปเสพสุขกับช่วงเย็นของโผมมม"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_6537e934"
+msgid "Attendez... J'aimerais avoir une copie de l'enregistrement s'il vous plait."
+msgstr "รอเดี๋ยว...ฉันขอไฟล์บันทึกหน่อยได้มั้ย ขอร้องล่ะ"
+
+#: game/story/home_player_noriko_room.dialogue
+msgctxt "home_player_noriko_room_ed6623a0"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_asami_asami_room.dialogue
+msgctxt "home_asami_asami_room_2a6fea30"
+msgid "..."
+msgstr "..."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_0432d5ff"
+msgid "L'enregistrement que vous avez réalisé hier soir !"
+msgstr "หมายถึงไฟล์ที่แกบันทึกไว้เมื่อวานไง!"
+
+#: game/story/konbini_exterior.dialogue
+msgctxt "konbini_exterior_03775ec8"
+msgid "..."
+msgstr "..."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_fd83b488"
+msgid "Pourquoi j'ai la sensation qu'il se fout de ma gueule ?"
+msgstr "ทำไมฉันรู้สึกว่าเหมือนหมอนี่มันปั่นประสาทฉันอยู่ยังไงก็ไม่รู้?"
+
+#: game/story/restaurant_sakuya_room.dialogue
+msgctxt "restaurant_sakuya_room_03775ec8"
+msgid "..."
+msgstr "..."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_75d63c26"
+msgid "Jamais ! Maintenant casse-toi, tu commences à me gonfler !"
+msgstr ""
+"ฝันไปเหอะ! ทีนี้ก็ไสหัวไปให้พ้นไป๊! แกกำลังทำให้ฉันหงุดหงิดกว่าเดิมนะเว้ย!"
+
+#: game/story/love_hotel_exterior.dialogue
+msgctxt "love_hotel_exterior_ed6623a0"
+msgid "..."
+msgstr "..."
+
+#: game/story/coffeebar_exterior.dialogue
+msgctxt "coffeebar_exterior_03775ec8_1"
+msgid "..."
+msgstr "..."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_0f29888d"
+msgid "Vous vendez ? C'est à cause des menaces de l'autre jour ?"
+msgstr ""
+"นายขายร้านงั้นหรอ? เพราะว่าโดนจับไปขู่เมื่อวันก่อนจนถึงขั้นขายร้านเลยอ่ะนะ?"
+
+#: game/story/park.dialogue
+msgctxt "park_03775ec8_3"
+msgid "..."
+msgstr "..."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_85a516d1"
+msgid "Et surtout, j'ai de quoi tenir jusqu'à la fin de ma vie sans travailler."
+msgstr ""
+"และที่ไปกว่านั้นก็คือ "
+"การที่ฉันจะได้พักผ่อนจากชีวิตการทำงานที่แสนเหน็ดเหนื่อยนี่ซะที"
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_83ffb293"
+msgid "..."
+msgstr "..."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "coffeebar_interior_632b7121"
+msgid "Allez dégage d'ici !"
+msgstr "เพราะงั้นแล้วนะ...ไสหัวออกไปให้พ้นๆหน้าฉันได้แล้วโว้ย!"
+
+#: game/story/hostess_club_exterior.dialogue
+msgctxt "hostess_club_exterior_830ec234"
+msgid "..."
+msgstr "..."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_279b6718"
+msgid "Tu en fais une tête, ça ne va pas ?"
+msgstr "ทุกอย่างโอเคมั้ย? เธอดูเหมือนเครียดๆนะ"
+
+#: game/story/home_nobu_exterior.dialogue
+msgctxt "event_nobu_fight_at_home_0b382599"
+msgid "..."
+msgstr "..."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_6399b904"
+msgid "Installe-toi sur une banquette et tu me raconteras tout d'accord ?"
+msgstr "นั่งก่อนสิ แล้วลองเล่าให้ฉันฟังสักหน่อยสิว่ามันเกิดอะไรขึ้น ได้มั้ย?"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_7e4f83cc"
+msgid "Vous savez bien que vous pouvez tout me dire."
+msgstr "รู้อะไรมั้ย เธอสามารถบอกฉันได้ทุกเรื่องเลยนะ"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_b61b32b4"
+msgid "Et j'ai peut-être pensé à tort que le problème ne venait absolument pas de moi."
+msgstr ""
+"แล้วบางครั้งผมก็รู้สึกว่าผมคิดผิดเอง "
+"ที่คิดว่าปัญหาที่เกิดขึ้นพวกนี้ผมไม่ได้ก่อมันขึ้นมาแล้วทำไมผมต้องสนใจด้วยล่ะ"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_31f8cf8d"
+msgid "Ne vous en faites pas... Je vais y réfléchir, je suis sûr que je trouverai un moyen de vous aider."
+msgstr ""
+"ไม่ต้องกังวลไปหรอกนะ...ฉันจะลองเก็บไปคิดดู "
+"ฉันมั่นใจว่าอาจจะช่วยเธอหาทางออกได้"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_ac5dac23"
+msgid "Je suis moi-même en partie responsable de cette situation."
+msgstr "ความจริงแล้ว เรื่องนี้ฉันเองก็มีส่วนผิดด้วยแหละจ่ะ"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "tee9d2a10d2"
+msgid "Je vous laisse avec votre... fils."
+msgstr "งั้นฉันขอตัวก่อนแล้วกัน เชิญคุยกับคุณลูก...ชาย...ของเธอตามสบาย"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_70915082"
+msgid "Autant se concentrer sur ce qui peut être changé."
+msgstr "สิ่งที่เราทำได้ตอนนี้คือการสนใจว่าจะรับมือยังไงกับเรื่องนี้จะดีกว่านะ"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_d0babdf7"
+msgid "Je suis désolé... Je voulais venir te soutenir et je crois que j'ai tout gâché."
+msgstr ""
+"ผมขอโทษนะครับ...ผมอยากที่จะเป็นฝ่ายที่ช่วยเหลือคุณบ้าง "
+"แต่ผมกลับทำทุกอย่างมันพังไปหมด"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_59126e59"
+msgid "Est-ce que tu te souviens de l'époque ou mon père m'a... laissé avec vous ?"
+msgstr "เธอยังจำตอนนั้นได้อยู่มั้ย ตอนที่พ่อของเธอ...ทิ้งเธอไว้กับฉันน่ะ?"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "talk_yasuka_add43a5d"
+msgid "Rentre à la maison, on en discutera quand j'aurai terminé ma journée."
+msgstr ""
+"เพราะงั้นกลับไปที่บ้านก่อนเถอะ "
+"เดี๋ยวพวกเราค่อยคุยเรื่องนี้กันหลังจากที่ฉันจัดการกับที่นี่ให้เรียบร้อยซะก่อน"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_9025f057"
+msgid "Je m'en souviens comme si c'était hier, impossible d'oublier un tel jour."
+msgstr ""
+"ผมจำได้...มันเหมือนกับว่าเรื่องนั้นพึ่งผ่านมาเมื่อวานนี้เอง "
+"มันยากมากเลยล่ะกับการผมที่จะลืมวันนั้นไปได้"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_3f1f43be"
+msgid "J'étais à la fois heureuse et en même temps tellement en colère contre lui."
+msgstr ""
+"การที่เธอยังอยู่ตรงนี้มันทำให้ฉันดีใจมากๆเลยล่ะ "
+"แต่ก็โกรธเคืองเขามากในเวลาเดียวกัน"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_noriko_room_closed_66f14ba0"
+msgid "Maintenant que j'ai la paix, je vais éviter d'en rajouter."
+msgstr "การที่ทิ้งเด็กตัวเล็กๆไว้ตัวคนเดียวแบบนี้..."
