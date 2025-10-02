@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-10-02 12:24+0000\n"
+"PO-Revision-Date: 2025-10-02 19:41+0000\n"
 "Last-Translator: Nichathip <seiryuukung@gmail.com>\n"
 "Language-Team: Thai <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/th/>\n"
@@ -64,7 +64,7 @@ msgstr "โนริโกะ"
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Yasuka"
-msgstr "ยาซุกะ"
+msgstr "ยาสุกะ"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
@@ -84,7 +84,7 @@ msgstr "มาคุมบา"
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Sakuya"
-msgstr "ซาคุยะ"
+msgstr "ซากุยะ"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
@@ -242,7 +242,7 @@ msgstr "วันจันทร์"
 
 #: game/scenes/gui/gui_location.tscn
 msgid "¥ "
-msgstr "฿ "
+msgstr "¥ "
 
 #: game/scenes/gui/gui_location.tscn
 msgid "0123456789"
@@ -371,11 +371,10 @@ msgstr ""
 "เขาไม่เลือกเราอยู่แล้วจะรออยู่ใย? ก็ต้องไปหาคนอื่นเด้!)"
 
 #: game/scenes/gui/splashscreen.tscn
-#, fuzzy
 msgid "[fill]Certaines [url=data]données anonymes[/url] peuvent être récoltées pour améliorer l'expérience de jeu.[/fill]"
 msgstr ""
-"[fill] อาจมีการเก็บ[url=data]ข้อมูลบางอย่างแบบไม่ระบุตัวตน[/url]เพื่อพัฒนาประ"
-"สบการณ์ที่ดีของผู้เล่นให้ดียิ่งขึ้น [fill]"
+"[fill]อาจมีการ [url=data]เก็บข้อมูลโดยที่ไม่ต้องขออนุญาต[/url] "
+"เพื่อนำไปพัฒนาประสบการณ์การเล่นเกมที่ดียิ่งขึ้น[/fill]"
 
 #: game/scenes/gui/splashscreen.tscn
 msgid "Ces données seront recueillies après acceptation de ces termes, et ne contiennent pas d'identifiant direct ni informations externes au jeu."
@@ -429,7 +428,7 @@ msgstr "ฉันดีใจมากๆเลยล่ะที่เธอม
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_221be6bf"
 msgid "C'est moi qui te l'offre !"
-msgstr "เดี๋ยวผมจ่ายเอง!"
+msgstr "เดี๋ยวผมจ่ายเองครับ!"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_608419eb"
@@ -459,7 +458,7 @@ msgstr "ขอบใจมากนะ!"
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "t16597b9a4f"
 msgid "Un café."
-msgstr "กาแฟแก้วนึง"
+msgstr "กาแฟสักแก้ว"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_c70765ba"
@@ -3236,7 +3235,7 @@ msgstr "ตอนนี้ก็ไสหัวไปให้พ้นได้
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "yasuka_talk_noriko_maledom_4ca6a0ff"
 msgid "Je t'écoute !"
-msgstr "ฉันก็ฟังอยู่นี่ไง!"
+msgstr "ฉันจะเป็นคนรับฟังให้เธอเองจ่ะ"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "yasuka_talk_noriko_maledom_6848e675"
@@ -3275,12 +3274,12 @@ msgstr "การที่จะเป็นแม่คนได้มันไ
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "yasuka_talk_noriko_maledom_16085e4a"
 msgid "Il est trop tard pour regretter à présent."
-msgstr "ถึงมันจะสายเกินไปที่จะมานั่งนึกถึงเรื่องที่ผ่านมาแล้วก็เถอะนะ"
+msgstr "ถึงแม้มันจะสายเกินไปที่ผมจะต้องมานั่งนึกถึงเรื่องที่ผ่านมาแล้วก็เถอะนะ"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "yasuka_talk_noriko_maledom_47e603be"
 msgid "Tu as raison !"
-msgstr "คุณพูดถูกแล้วล่ะ!"
+msgstr "ใช่แล้วจ่ะ!"
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_0b05caf3"
@@ -3867,7 +3866,7 @@ msgstr ""
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "yasuka_talk_noriko_maledom_59126e59"
 msgid "Est-ce que tu te souviens de l'époque ou mon père m'a... laissé avec vous ?"
-msgstr "เธอยังจำตอนนั้นได้อยู่มั้ย ตอนที่พ่อของเธอ...ทิ้งเธอไว้กับฉันน่ะ?"
+msgstr "คุณยังจำตอนที่ผมถูกพ่อทิ้งไว้ให้อยู่กับคุณ...ได้มั้ยครับ?"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_add43a5d"
@@ -3880,17 +3879,791 @@ msgstr ""
 msgctxt "yasuka_talk_noriko_maledom_9025f057"
 msgid "Je m'en souviens comme si c'était hier, impossible d'oublier un tel jour."
 msgstr ""
-"ผมจำได้...มันเหมือนกับว่าเรื่องนั้นพึ่งผ่านมาเมื่อวานนี้เอง "
-"มันยากมากเลยล่ะกับการผมที่จะลืมวันนั้นไปได้"
+"ฉันต้องจำได้อยู่แล้วสิจ๊ะ...มันเหมือนกับว่าเรื่องนั้นพึ่งผ่านมาเมื่อวานนี้เอง"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "yasuka_talk_noriko_maledom_3f1f43be"
 msgid "J'étais à la fois heureuse et en même temps tellement en colère contre lui."
 msgstr ""
 "การที่เธอยังอยู่ตรงนี้มันทำให้ฉันดีใจมากๆเลยล่ะ "
-"แต่ก็โกรธเคืองเขามากในเวลาเดียวกัน"
+"แต่ในทางกลับกันฉันเองก็โกรธเคืองเขามากในเวลาเดียวกัน"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_noriko_room_closed_66f14ba0"
 msgid "Maintenant que j'ai la paix, je vais éviter d'en rajouter."
 msgstr "การที่ทิ้งเด็กตัวเล็กๆไว้ตัวคนเดียวแบบนี้..."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_da63593c"
+msgid "Elle parlait sans arrêt de toi..."
+msgstr "เด็กคนนั้นเอาแต่พูดจ้อเรื่องของเธอไม่หยุดเลยล่ะ..."
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_e0f2297c"
+msgid "Et puis..."
+msgstr "แต่ว่า...หลังจากนั้นมัน"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_e393469e"
+msgid "De ton côté tu essayais d'insister pour aller vers elle mais elle ne voulait rien savoir."
+msgstr ""
+"ฉันเห็นความตั้งใจของเธอที่พยายามเข้าหาเด็กคนนั้น "
+"แต่ว่าเด็กคนนั้นกลับปฏิเสธความตั้งใจของเธอมาโดยตลอด"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_fb0848cd"
+msgid "Et puis ?"
+msgstr "หลังจากนั้น?"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_ca65c9a7"
+msgid "... Pourquoi penses-tu une telle chose ?"
+msgstr "...ทำไมถึงคิดแบบนั้นล่ะ?"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_22f296e3"
+msgid "Mon chéri... tu avais 8 ans à l'époque... Tout ce qui vous intéressait c'était de faire des cabanes, vous baigner dans le lac et vous amuser au..."
+msgstr ""
+"ที่รัก...ตอนนั้นเธอเองก็พึ่งจะอายุได้แค่ 8 ขวบเองนะ..."
+"ตอนนั้นเธอเอาแต่สนใจที่อยากจะเล่นสนุกสร้างกระท่อมเล็กๆกลางป่า "
+"แล้วก็ไปอาบน้ำที่ทะเลสาบอยู่เลยตอนนั้น"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_e8d0313d"
+msgid "Oh... Je crois me souvenir de quelque chose."
+msgstr "โอ๊ะ...เหมือนฉันจะจำบางอย่างได้ลางๆนะ"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_fa9cd0e2"
+msgid "Toi tu étais blessé de partout mais tu faisais comme si ce n'était pas grave."
+msgstr "ตอนนั้นเธอมีแผลเต็มตัวเลย แต่เธอก็ทำเป็นว่ามันไม่ได้เจ็บหรือร้ายแรงอะไร"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_83585be5"
+msgid "Tu savais pourquoi ?"
+msgstr "พอจะบอกผมได้มั้ยว่าตอนนั้นเกิดอะไรขึ้น?"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_5b9226d2"
+msgid "Hélas non, vous n'avez jamais voulu me le dire..."
+msgstr ""
+"ถ้าว่ากันตามจริงฉันก็ไม่รู้เหมือนกันจ่ะ "
+"เพราะว่าตอนนั้นเธอก็ไม่ยอมบอกเหมือนกันว่าเกิดอะไรขึ้นกับเธอ"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_361d90a1"
+msgid "Et ma relation avec {{noriko.n}} n'a fait qu'empirer depuis ce jour."
+msgstr ""
+"แล้วหลังจากนั้นความสัมพันธ์ระหว่างผมกับ {{noriko.n}} ก็แย่ลงนับตั้งแต่วันนั้น"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_cc8a0337"
+msgid "Merci pour tout."
+msgstr "ขอบคุณที่เล่าให้ฟังนะครับ"
+
+#: game/story/park.dialogue
+msgctxt "t08253af01a"
+msgid "Merci pour tout."
+msgstr "ขอบคุณสำหรับทุกๆอย่าง"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_c0fed06e"
+msgid "J'en sais déjà bien plus."
+msgstr "ผมได้เรียนรู้จากเรื่องนี้เยอะขึ้นมากเลยล่ะ"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_8a0b3a25"
+msgid "Je trouverai l'origine du problème et {{noriko.n}} me sourira à nouveau."
+msgstr ""
+"ผมจะไปตามหาต้นตอของปัญหานี้ให้เจอ แล้วผมก็จะทำให้ {{noriko.n}} "
+"กลับมายิ้มให้ได้อีกครั้งให้ได้เลยล่ะ"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_293b2c4f"
+msgid "Pas de temps à perdre ! Je dois trouver ce qui arrive à {{yasuka.n}} !"
+msgstr "ไม่มีเวลาแล้ว! ฉันต้องรู้ให้ว่าเกิดอะไรขึ้นกับ {{yasuka.n}}!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_2fe8ad28"
+msgid "{{yasuka.n}} m'a appelé dans sa chambre. Je devrais la rejoindre."
+msgstr "{{yasuka.n}}บอกให้ฉันไปหาเธอที่ห้อง ฉันควรจะไปหาเธอนะ"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_554c43d4"
+msgid "Je devrais aller voir {{yasuka.n}} dans sa chambre."
+msgstr "ฉันควรจะไปเจอ{{yasuka.n}}ที่ห้องของเธอนะ"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_noriko_room_closed_3a300f9c"
+msgid "Mieux vaut que je la laisse tranquille pour le moment."
+msgstr "ฉันควรปล่อยให้เธออยู่กับตัวเองสักพักนึงนะ"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_noriko_room_closed_ab417b7e"
+msgid "Rajouter de l'huile sur le feu n'aidera personne."
+msgstr "การสาดน้ำมันเข้ากองไฟมันไม่ได้ช่วยอะไรให้มันดีขึ้นหรอก"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_noriko_room_closed_127b90d2"
+msgid "Évitons les effusions de sang inutiles..."
+msgstr "บางทีการเลี่ยงไม่ให้มีปากเสียงกันน่าจะเป็นตัวเลือกที่ดีกว่านะ..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "t84c006c3b8"
+msgid "Il est tard, je vais éviter de la réveiller."
+msgstr "ตอนนี้มันก็ดึกแล้ว จะดีกว่าถ้าฉันไม่ไปรบกวนเธอตอนนอน"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_noriko_room_closed_f0922e63"
+msgid "Casse-toi le parasite !"
+msgstr "ไปให้พ้นหน้าฉันซะ ไอ้ปรสิต!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_noriko_room_closed_97502b55"
+msgid "Mieux vaut que je laisse {{noriko.n}} tranquille pour le moment."
+msgstr "มันคงจะดีกว่าถ้าปล่อยให้ {{noriko.n}} อยู่คนเดียวไปก่อนตอนนี้"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_11d3ac2a"
+msgid "Y'en a marre, quand est-ce que tu te comporteras comme un mec ?"
+msgstr "ฉันล่ะเอือมระอากับนายซะจริงๆ...เมื่อไหร่จะทำตัวเป็นผู้ใหญ่สักทีห๊ะ?"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_23584010"
+msgid "T'es vraiment qu'un gamin !"
+msgstr "นี่มันน่าอายชะมัด!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_35288d53"
+msgid "Oula, doucement... M'agresse pas dès le matin comme ça je..."
+msgstr "โว้ววๆ ใจเย็นๆก่อนสิ! ไหงเธอถึงมาตะคอกใส่ฉันแต่เช้..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_864c46c2"
+msgid "Ferme ta gueule !"
+msgstr "อ๋อหรอ...เงียบๆปากไปดี๊!"
+
+#: game/story/park.dialogue
+msgctxt "te32d52fca2"
+msgid "Ferme ta gueule !"
+msgstr "อิแค่การหุบปากมันจะตายรึไง!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_78e798c2"
+msgid "Quoi ?! Mais je..."
+msgstr "อะไรนะ?! แต่ว่าฉันยัง..."
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_eb593743"
+msgid "Quoi ?! Mais je..."
+msgstr "ว่าไงนะ?! แต่ฉันยังไม่ได้..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_71d02d97"
+msgid "J'MEN FOUT CASSE-TOI !"
+msgstr "ไม่สนโว้ย ไสหัวไปซะ!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_aa884729"
+msgid "La vache..."
+msgstr "หน๋อย..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_89778dcc"
+msgid "J'avais totalement oublié son existence."
+msgstr "ฉันลืมเรื่องยัยนี่ไปซะสนิทเลย"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_3ab3c167"
+msgid "Comment j'ai pu oublier {{noriko.n}} et son agressivité légendaire..."
+msgstr "นี่ฉันลืมคิดเรื่อง {{noriko.n}}ไปได้ยังไงเนี่ย?"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_0b052899"
+msgid "Elle m'a toujours envoyé chier."
+msgstr "เธอเอาแต่ทำให้ฉันปวดหัวอยู่เรื่อย"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_7199d067"
+msgid "Et on va la retrouver noyée dans le canal peu de temps après sa fugue, son corps totalement souillé."
+msgstr ""
+"หลังจากนั้นไม่นาน เธอก็ถูกพบด้วยสภาพที่เป็นศพจมน้ำในแม่น้ำ "
+"ร่างกายของเธอแทบจะไม่เหลือเค้าโครงเดิมเลยด้วยซ้ำ..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_9cd593bd"
+msgid "Ça va briser {{yasuka.n}}. Elle ne pourra jamais remonter la pente après ça..."
+msgstr "{{yasuka.n}}เองก็แตกสลาย...จนไม่สามารถทำใจได้"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_897eca85"
+msgid "Je dois pouvoir changer ça !"
+msgstr "ครั้งนี้มันจะไม่เหมือนเดิมอีกต่อไป เพราะฉันจะเป็นคนที่เปลี่ยนมันเอง!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_43ea3f38"
+msgid "Pffff, et en plus, tu te parles à toi-même maintenant... Tellement pathétique !"
+msgstr "พรืดดด นายเป็นบ้าจนถึงขั้นคุยกับตัวเองแล้วหรอเนี่ย...น่าสมเพชชะมัด!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_dd978a3f"
+msgid "Tu me donnes envie de vomir !"
+msgstr "นายทำให้ฉันรู้สึกขยะแขยงเป็นบ้า!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_f94ec740"
+msgid "Beuh, je sens que ça vient..."
+msgstr "ให้ตายสิ...ยัยนั่นโผล่มาแล้ว"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_bc4eeee4"
+msgid "...ou pas."
+msgstr "หรือไม่ก็...ช่างมันเถอะ"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_43ea5588"
+msgid "T'as passé une mauvaise journée ?"
+msgstr "โอ้ววว เป็นอะไรไปหรอจ๊าา? วันนี้ไม่ค่อยดีงั้นหรออ?"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_ffd6a680"
+msgid "J'espère que ça sera pire encore demain !"
+msgstr "หวังว่าพรุ่งนี้จะแย่กว่าเดิมน้าา!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_e447f6d9"
+msgid "Euh..."
+msgstr "เอ่ออ..."
+
+#: game/story/love_hotel_room.dialogue
+msgctxt "tc604a699c8"
+msgid "Euh..."
+msgstr "เอ่อ..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_3504f98c"
+msgid "Euh..."
+msgstr "เอ่อ..."
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_34d90840"
+msgid "Euh..."
+msgstr "เอ่อ..."
+
+#: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+msgctxt "talk_yasuka_d6516fa2"
+msgid "Euh..."
+msgstr "เอ่อ..."
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "home_player_livingroom_d6516fa2"
+msgid "Euh..."
+msgstr "เอ่อ..."
+
+#: game/story/park.dialogue
+msgctxt "park_698bebd4"
+msgid "Euh..."
+msgstr "เอ่อ..."
+
+#: game/story/park.dialogue
+msgctxt "tb38fc5da75"
+msgid "Euh..."
+msgstr "เอ่อ..."
+
+#: game/story/park.dialogue
+msgctxt "talk_natsume_902c6fdc"
+msgid "Euh..."
+msgstr "เอ่อ..."
+
+#: game/story/amusement_park_interior.dialogue
+msgctxt "td927c4c8b9"
+msgid "Euh..."
+msgstr "เอ่อ..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_847f88b0"
+msgid "Si... si... j'y allais justement..."
+msgstr "ช..ใช่ครับ ผ..ผมว่า ผมกำลังจะไปนอนแล้วน่ะ..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_3b51dcf3"
+msgid "Bonne nuit alors !"
+msgstr "งั้นก็ฝันดีนะจ๊ะ!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_dd2f5fac"
+msgid "Allons-y mon chéri !"
+msgstr "ไม่เอาน่า ที่รัก!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_3b81fd04"
+msgid "Ça en valait la peine !"
+msgstr "ซะใจชะมัดเลยโว้ยยย!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_3989c296"
+msgid "Je me ferai surement défoncer demain."
+msgstr "ฮ่า ฮ่า พรุ่งนี้มีหวังฉันได้ตายแน่นอน"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_8c65630d"
+msgid "Bon..."
+msgstr "เอาเถอะ..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_noriko_room_closed_84e253d9"
+msgid "Bon..."
+msgstr "เอาเถอะ...อะไรจะเกิดก็เกิด"
+
+#: game/story/hostess_club_exterior.dialogue
+msgctxt "hostess_club_exterior_24c256d8"
+msgid "Bon..."
+msgstr "ก็..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_noriko_room_closed_9650078c"
+msgid "Quand il faut y aller, faut y aller !"
+msgstr "เอาล่ะ เป็นไงเป็นกันแหละวะ!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_noriko_room_closed_5308c43e"
+msgid "{{noriko.n}}... Ahem... Je peux te parler un instant ?"
+msgstr "นี่ {{noriko.n}} ฉันขอคุยอะไรด้วยแปบนึงได้มั้ย?"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_noriko_room_closed_18fae4d1"
+msgid "Je suis à la recherche de mon vieux MP3..."
+msgstr "พอดีว่าฉันกำลังหาเครื่องฟังเพลงของฉันอยู่น่ะ..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_noriko_room_closed_278e7c99"
+msgid "Tu ne l'aurais pas vu à tout has...."
+msgstr "เธอพอจะเห็นมันบ้างมั้ย..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_noriko_room_closed_a1d6bd2c"
+msgid "...Évidemment !"
+msgstr "ว่าแล้วเชียว!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_noriko_room_closed_a2a2c4f6"
+msgid "Elle doit probablement jouer sur son PC, peut-être que..."
+msgstr "วันๆนึงเธอก็เอาแต่เล่นเกมในโน๊ตบุ๊คตัวเอง..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_noriko_room_closed_7a9b7c49"
+msgid "Le routeur doit être dans le [color=yellow]salon[/color]."
+msgstr "กล่องสัญญาณอยู่ที่ [color=yellow]ห้องนั่งเล่น[/color]."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_noriko_room_closed_d6ed5375"
+msgid "Il va falloir être rapide !"
+msgstr "ต้องเร่งมือหน่อยแล้วสิ"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_0c3ec198"
+msgid "Une minute..."
+msgstr "เดี๋ยวก่อนนะ..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_82150078"
+msgid "Si je rentre ici sans être préparé, elle va encore trouver le moyen de me faire chanter..."
+msgstr ""
+"ดีนะที่เตรียมแผนรับมือมาแล้ว ถ้าไม่มีล่ะก็เธอคงหาเรื่องมาแบล็คเมลฉันอีกแน่ๆ"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_c9edb325"
+msgid "{{yasuka.n}} ne m'avait plus jamais adressée la parole, j'avais dû quitter la maison par la suite."
+msgstr ""
+"หลังเรื่องจากนั้น{{yasuka.n}}ก็ไม่เคยคุยกับฉันอีกเลย "
+"หลังจากนั้นไม่นานฉันก็ออกจากบ้านไปอีกคน"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_a3deec1e"
+msgid "{{noriko.n}} cette fois-ci, je ne me ferais pas avoir !"
+msgstr ""
+"ฝันไปเถอะนะ {{noriko.n}} "
+"รอบนี้เธอจะทำให้ฉันโดนไล่ออกจากบ้านอีกครั้งไม่ได้หรอกนะ"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_317a7e66"
+msgid "Enfin !!!"
+msgstr "ในที่สุด!"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "home_player_room_3d76fd1f"
+msgid "Enfin !!!"
+msgstr "ในที่สุด!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_c92622f5"
+msgid "Cette fois-ci, {{noriko.n}} est hors service !"
+msgstr "คราวนี้แหละ จัดการ {{noriko.n}ได้อยู่หมัดแน่นอน!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_20019500"
+msgid "Ça fait tellement de bien..."
+msgstr "รู้สึกดีเป็นบ้า..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_af6010dc"
+msgid "Ah merde, je n'ai pas vu le temps passer !"
+msgstr "ซวยละไง ลืมดูเวลาไปซะสนิทเลย!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_6c6c6c0d"
+msgid "Bordel ! Ce qui vient de se passer..."
+msgstr "เชี่ยย! เมื่อกี้มัน..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_0bbf19c0"
+msgid "Je n'aurais jamais pensé que {{noriko.n}} ferait un truc aussi audacieux."
+msgstr "ฉันไม่เคยคิดมาก่อนเลยว่า{{noriko.n}} จะยอมทำอะไรแบบนั้น..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_0f41cc13"
+msgid "...[w] J'aurais peut-être dû les touchers au final."
+msgstr "...[w] บางทีแตะสักหน่อยคงไม่เป็นอะไรหรอกมั้ง...."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_af6010dc_1"
+msgid "Ah merde, j'ai pas vu le temps passer !"
+msgstr "ซวยแล้วไง นี่มันสายแล้วนี่หว่า!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_ce44d7ee"
+msgid "C'est quoi ces bruits..."
+msgstr "นั่นมันเสียงอะไรน่ะ...?"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_9a20b792"
+msgid "Hummm..."
+msgstr "อื้อออ~"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_b1c03ba5"
+msgid "Oui... Juste là..."
+msgstr "อื้ออ...นั่นแหละ...ตรงนั้นแหละ..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_b6398ec1"
+msgid "Oohhh, voilà..."
+msgstr "อ๊าาา...อื้มม..แบบนั้นเลย..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_6cdb64c2"
+msgid "Oui oui oui..."
+msgstr "อ...อื้อ ให้มันได้แบบนั้นสิ...อือ...ใช่เลย..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_c317db21"
+msgid "Han la vache..."
+msgstr "เชี่ยยยย....."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_457162a5"
+msgid "C'est... chaud !"
+msgstr "นี่มันก็สุดเกิน!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_748684b1"
+msgid "Hummm... Oui..."
+msgstr "อ่าา...อ อื้มม...แบบนั้นแหละ"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_b214b8fe"
+msgid "Ça valait le coup de se revivre rien que pour ce moment !"
+msgstr "ได้รู้มุมนี้ก็นับว่ากลับมามีชีวิตอีกครั้งนี่มันโครตคุ้มสุดๆไปเลย!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_79e8986b"
+msgid "Sacrée {{noriko.n}}..."
+msgstr "อะไรวะเนี่ย นี่{{noriko.n}}กำลัง..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "t0ce0489d37"
+msgid "Continuer d'écouter"
+msgstr "ฟังต่อไป"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_cd15d2f2"
+msgid "Je pense qu'elle a terminé..."
+msgstr "หือ..ดูเหมือนว่าเธอจะเสร็จแล้วนะ"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "t48efb92c68"
+msgid "S'en aller"
+msgstr "ออกจากตรงนี้"
+
+#: game/story/home_player_saito_room.dialogue
+msgctxt "ta5020d5d22"
+msgid "S'en aller"
+msgstr "ออกจากตรงนี้"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "tce29a7c279"
+msgid "Coller son oreille contre la porte"
+msgstr "ฟังเสียงตรงประตู"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_290f8954"
+msgid "Je peux savoir ce que tu cherches à faire ?"
+msgstr "พอจะบอกได้มั้ยว่าคิดจะทำอะไร?"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_1860160c"
+msgid "Tu n'avais pas le droit de faire ça."
+msgstr "ทำไมฉันต้องบอกด้วย"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_cca26670"
+msgid "Je vais finir par penser que c'est ce que tu souhaites vraiment {{noriko.n}}."
+msgstr "แบบนี้ฉันคงจะเข้าใจว่า เธอคงอยากให้ฉันทำแบบนี้จริงๆสินะ{{noriko.n}}"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_063c8601"
+msgid "Qu.. Quoi ? C'est n'importe quoi ! Qui voudrait se laisser toucher par..."
+msgstr ""
+"อะ...อะไรนะ? ไม่จริงเลยสักนิด! ใครหน้าไหนมันจะไปชอบให้คนแบบนาย...มาโดนตัวกัน?"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_2fe96b66"
+msgid "Merde, c'est moi qui suis excité maintenant."
+msgstr "เวรแล้วไง...ตอนนี้ฉันดันเงี่ยนไปอีกคนหรอเนี่ย"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_35ff5035"
+msgid "{{yasuka.n}} j'ai oublié ce type depuis longtemps, ce que j'aimerais savoir c'est comment était ma relation avec {{noriko.n}} ?"
+msgstr ""
+"ไม่เป็นไรหรอกครับ...ผมลืมเรื่องผู้ชายคนนั้นไปนานแล้วล่ะ {{yasuka.n}} "
+"ตอนนี้สิ่งที่ผมอยากจะรู้คือความสัมพันธ์ของผมกับ {{noriko.n}} มันเป็นยังไง?"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_d4375a6b"
+msgid "Quelque chose a dû se passer. Elle s'est progressivement renfermée sur elle-même."
+msgstr ""
+"เหมือนจะมีบางอย่างเกิดขึ้นกับเด็กคนนั้น "
+"จนจู่ๆเธอก็เริ่มที่จะเก็บตัวและพูดน้อยลง"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_a50ef803"
+msgid "J'imagine qu'elle devait être sacrément frustrée."
+msgstr "ดูทรงเธอน่าจะหงุดหงิดพอตัวเลยนะ"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_4f557364"
+msgid "Elle ne m'a jamais expliquée la raison."
+msgstr ""
+"เด็กคนนั้นไม่เคยแม้แต่จะปริปากเอ่ยขึ้นมาให้ฟังเลย "
+"ไม่แม้จะอธิบายด้วยซ้ำว่าเพราะอะไรถึงเป็นแบบนั้น"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "t2fdaa7cd0e"
+msgid "J'ai pas que ça à faire."
+msgstr "ฉันยังมีเรื่องที่ต้องทำอีก"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_6f439d79"
+msgid "... Vous vous entendiez à merveille, elle n'a pas connu son père, le fait d'avoir un frère a été pour elle une joie incroyable."
+msgstr ""
+"เธอเป็นเด็กดีคนนึงเลยล่ะ..."
+"แต่ด้วยความที่เด็กคนนั้นเองไม่รู้ด้วยซ้ำว่าพ่อของตัวเองนั้นเป็นใคร เพราะงั้นก"
+"ารที่มีพี่ชายเข้ามาในชีวิตมันเหมือนเป็นการเติมเต็มความรู้สึกที่ขาดหายไปให้มีค"
+"วามสุขน่ะ"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_ce2414e1"
+msgid "J'aurais donc fait quelque chose de si terrible que ça ?"
+msgstr "หรือมันอาจจะเป็นเพราะว่า...ผมไปทำเรื่องแย่ๆให้เธอรึเปล่า?"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_b33eb4ad"
+msgid "Je croyais t'avoir demandé de me laisser tranquille."
+msgstr "ฉันก็บอกไปแล้วไง ว่าฉันอยากอยู่คนเดียว"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_c49f6493"
+msgid "Je ne sais pas...[w] J'ai dû lui faire peur à un moment ou un autre, ou pire encore..."
+msgstr ""
+"ผมเองก็ไม่รู้เหมือนกัน...[w] "
+"บางทีผมอาจจะพลาดไปตะหวาดหรือทำอะไรให้เธอกลัวสักครั้งนึง "
+"ถ้าคิดในแง่ร้ายมันอาจจะไม่ใช่แค่ครั้งเดียวก็ได้"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_31c360db"
+msgid "Et tu es encore là, devant moi, à venir chercher les problèmes."
+msgstr "แต่นายก็ยังอยู่ตรงนี้ ตรงหน้าฉันเนี่ยแหละ...หาเรื่องใส่ตัวชัด ๆ!"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_e1657287"
+msgid "Un soir en rentrant du parc... {{noriko.n}} pleurait et semblait inconsolable."
+msgstr ""
+"จู่ๆเย็นวันนึงหลังจากที่กลับมาจากสวนสาธารณะ...{{noriko.n}} "
+"ร้องไห้หนักมากไม่ว่าฉันปลอบยังไงก็ไม่หยุดร้องสักที "
+"และเหมือนจะไม่มีท่าทีจะหยุดด้วยสิ"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "talk_noriko_a4836727"
+msgid "Mais je rêve ou quoi, elle me sous-entend de passer à l'action ?"
+msgstr ""
+"นี่ฉันกำลังฝันไปใช่มั้ยเนี่ย? เธอพูดแบบนั้นเพื่อให้ฉันทำแบบนี้ต่องั้นหรอ?"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_49c45df8"
+msgid "... Donc si je comprends bien... il s'est passé quelque chose dans ce parc quand nous étions petits."
+msgstr ""
+"ถ้าตามที่ผมเข้าใจล่ะก็..."
+"คงมีเรื่องอะไรสักอย่างเกิดขึ้นตอนที่พวกเราไปสวนสาธารณะตอนเด็กงั้นสินะ"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_814d6775"
+msgid "Oh je n'ai pas fait grand chose, j'aurais aimé pouvoir faire plus."
+msgstr ""
+"ไม่หรอกจ่ะ ฉันไม่ได้ช่วยอะไรมากมากหรอก "
+"แต่ก็หวังว่าที่เล่าไปจะช่วยเธอได้บ้างนะ"
+
+#: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+msgctxt "yasuka_talk_noriko_maledom_30d7207e"
+msgid "Bonne chance mon chéri, je suis certaine que tu y parviendras."
+msgstr "โชคดีนะจ๊ะที่รัก ฉันมั่นใจเลยล่ะว่าเธอต้องทำได้แน่นอน"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_9f8596cc"
+msgid "Je devrais prendre le baladeur MP3. Il est sur mon lit."
+msgstr "ฉันต้องไปเอาเครื่องเล่นเพลง มันน่าจะอยู่บนที่นอนฉันนะ"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_80de7195"
+msgid "Je ferais mieux d'aller prendre un peu d'air frais dehors."
+msgstr "ได้รับอากาศที่สดชื่นแบบนี้สิถึงจะดีขึ้นหน่อย"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_noriko_room_closed_9cdc86e1"
+msgid "Non, si je rentre ici, {{noriko.n}} va encore claquer un scandale."
+msgstr ""
+"ฉันจะไม่กลับไปอีกรอบหรอก ถ้ากลับไปอีกมีหวัง {{noriko.n}} "
+"ทำให้เรื่องมันวุ่นวายหนักกว่าเดิมแน่"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_noriko_room_closed_cb8d0dec"
+msgid "Va... Va-t'en ! Laisse-moi tranquille !"
+msgstr "ไป...ไปให้พ้นเลยนะ! ฉันอยากอยู่คนเดียว!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_f133bbfb"
+msgid "Non, mais ça ne va pas de hurler comme ça dès le matin ?!"
+msgstr "โว้ยยย จู่ๆก็เป็นบ้าอะไรขึ้นมาเนี่ย?! อยู่ดีๆก็แหกปากแต่เช้าเนี่ยห๊ะ?!"
+
+#: game/story/home_minato_exterior.dialogue
+msgctxt "home_minato_exterior_c2dc5b31"
+msgid "Ferme ta gueule !"
+msgstr "หุบปากไปซะ!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_f5d633d9"
+msgid "J'en peux plus de toi et de tes conneries, t'es qu'un foutu parasite, quand est-ce que tu te barres d'ici ?!"
+msgstr "นายนี่มันโครตจะปรสิตเกาะแดกเลย... รู้งี้น่าจะเอาทิ้งไว้ที่อื่นซะก็ดี"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_8ed9d900"
+msgid "Elle a toujours été ultra-violente avec moi, j'ai essayé de savoir pourquoi elle m'en voulait tellement, mais..."
+msgstr ""
+"เธอแสดงท่าทีก้าวร้าวใส่แต่กับฉันอยู่ทุกวี่ทุกวัน "
+"ฉันก็พยายามที่จะหาสาเหตุนะว่าทำไมเป็นแบบนั้น แต่ว่า..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_e49418ab"
+msgid "Si je me souviens bien, elle va quitter la maison en volant le peu d'argent qu'il restera à {{yasuka.n}} pour s'enfuir avec une bande de racailles."
+msgstr ""
+"ถ้าจำไม่ผิดล่ะก็...ในความทรงจำของฉัน "
+"เธอหนีออกจากบ้านไปแล้วก็ขโมยเงินที่เหลืออันน้อยนิดของ {{yasuka.n}} "
+"ไปให้ไอ้พวกกุ๊ยข้างถนนนั่น"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_96d9d3a2"
+msgid "Rien que de voir ta... tête, je..."
+msgstr "แค่มองหน้านาย ฉันก็รู้สึกเหมือนจะ..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_b9ae232a"
+msgid "Eh bien, tu peux pas savoir comme ça me fait plaisir !"
+msgstr "นายคงคิดไม่ถึงล่ะสิท่า วันมันทำให้ฉันมีความสุข ขนาดดดด ไหน!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_8958d958"
+msgid "T'es vraiment qu'un putain de..."
+msgstr "เธอนี่มัน กวนประสาทสมเป็นเธอซะจริ―"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_62854c6d"
+msgid "Bonsoir, ma chérie, tu n'es pas encore couchée ?"
+msgstr "สวัสดีตอนเย็นนะจ๊ะที่รัก เธอยังไม่นอนอีกงั้นหรอ?"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_a0df62e4"
+msgid "Rien qu'à voir la tête de {{noriko.n}}..."
+msgstr "ดูหน้าของ {{noriko.n}} ที่มองมาสิ"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_noriko_room_closed_303ba0ac"
+msgid "Ah merde... J'aurais peut-être pas dû l'envoyer chier ce matin..."
+msgstr "บ้าเอ้ย...ทำไมพึ่งจะมารู้สึกผิดกับเรื่องที่ทำไปตอนเช้ากันตอนนี้เนี่ย..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_noriko_room_closed_1ed63590"
+msgid "Bon... Il va falloir trouver une stratégie plus efficace..."
+msgstr "เฮ้อ...ดูเหมือนจะต้องหาวิธีอื่นแทนซะแล้วสิ"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_noriko_room_closed_3f06fac8"
+msgid "Si je lui coupe le wifi, je suis certain à 200% qu'elle va sortir de sa chambre !"
+msgstr "บางทีถ้าฉันไปปิด wifi อาจจะล่อเสื้อออกจากถ้ำได้ก็นะ"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_2075f795"
+msgid "Dans mon rêve, elle m'avait accusé de l'avoir violé et avait quitté la maison peu de temps après."
+msgstr ""
+"ในความทรงจำที่ฉันจำได้ เธอใส่ร้ายฉันว่าไปข่มขืนเธอ "
+"แล้วก็ใช้ข้ออ้างนั้นหนีออกจากบ้านไป"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "t377300f535"
+msgid "Vous avez activé l'enregistreur audio de votre tablette."
+msgstr "คุณเปิดเสียงที่บันทึกไว้ในแท็บเล็ตของคุณ"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_d756bd48"
+msgid "Putain, pourquoi je n'ai jamais fait ça plus tôt ?!"
+msgstr "เชี่ยย...ถ้ารู้ว่าทำแบบนี้ได้ผล ทำไมฉันไม่ทำแบบนี้ตั้งแต่แรกกันนะ?!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_f5542d4e"
+msgid "J'espère que {{macumba.n}} ne m'a pas attendu toute la journée..."
+msgstr "หวังว่า {{macumba.n}} คงไม่ได้นั่งรอฉันทั้งทั้งวันทั้งคืนหรอกนะ....."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_f5542d4e_1"
+msgid "J'espère que {{macumba.n}} ne m'a pas attendu toute la journée..."
+msgstr "หวังว่า {{macumba.n}} คงไม่ได้นั่งรอฉันทั้งทั้งวันทั้งคืนหรอกนะ....."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_37774e33"
+msgid "Peut-être devrais-je profiter un petit temps de cette situation, je serais curieux de voir ou tout ça va me mener."
+msgstr ""
+"บางทีฉันควรจะใช้โอกาสนี้ให้เป็นประโยชน์นะ "
+"ทำเอาอยากรู้ซะจริงว่าเธอจะเผยอะไรให้ฉันเห็นอีก..."
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_9cd7ca42"
+msgid "On dirait des... gémissements !"
+msgstr "ส..เสียงครางงั้นหรอ?!"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_70871f4d"
+msgid "Nooon, elle n'est tout de même pas en train de faire ce que je crois ?!"
+msgstr "ย..อย่าบอกนะว่า เธอกำลัง..ช..ช่วยตัวเองอยู่น่ะ?"
+
+#: game/story/home_player_corridor.dialogue
+msgctxt "home_player_corridor_963bae77"
+msgid "Finalement, tout ce qui s'est passé l'a terriblement excitée..."
+msgstr "เรื่องที่เกิดขึ้นวันนี้คงจะทำให้เธอเกิดอารมณ์มากเลยสินะ..."
