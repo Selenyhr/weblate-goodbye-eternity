@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-10-07 17:53+0000\n"
+"PO-Revision-Date: 2025-10-09 01:44+0000\n"
 "Last-Translator: Nichathip <seiryuukung@gmail.com>\n"
 "Language-Team: Thai <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/th/>\n"
@@ -6867,3 +6867,18 @@ msgstr "ปล่อยให้ {{yasuka.n}} ทำงานเป็นเด�
 msgctxt "galleries.backgrounds.sprite"
 msgid "NorikoClawMachine"
 msgstr "{{noriko.n}} ตู้คีบตุ๊กตา"
+
+#: game/scenes/locations/onsen_bath.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "SakuyaBath"
+msgstr "{{sakuya.n}} (อาบน้ำ)"
+
+#: game/scenes/locations/onsen_interior.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "SakuyaReception"
+msgstr "{{sakuya.n}}(พนักงานต้อนรับ)"
+
+#: game/scenes/gui/game_menu/galleries/movies.tscn
+msgctxt "galleries.movies.attribute"
+msgid "behind"
+msgstr "มองไปข้างหลัง"
