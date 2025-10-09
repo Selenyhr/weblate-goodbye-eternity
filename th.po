@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-10-09 01:44+0000\n"
+"PO-Revision-Date: 2025-10-11 05:34+0000\n"
 "Last-Translator: Nichathip <seiryuukung@gmail.com>\n"
 "Language-Team: Thai <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/th/>\n"
@@ -293,9 +293,9 @@ msgstr "คุณเลือกที่จะให้เธอ [color=yellow]
 #: game/scenes/gui/splashscreen.tscn
 msgid "Certaines scènes de ce jeu peuvent contenir du contenu sexuellement explicite et pourrait choquer un jeune public. Tous les personnages de ce jeu sont majeurs."
 msgstr ""
-"เนื้อหาบางฉากภายในเกมนี้มีเนื้อหาที่เกี่ยวกับเพศซึ่งไม่เหมาะกับเยาวชนที่ยังไม"
-"่ถึงวัยอันควร และตัวละครภายในเกมนี้ทุกคนอายุได้บรรลุนิติภาวะทั้งหมดแล้ว "
-"โปรดใช้วิจารณญาณในการเล่นเกม"
+"เนื้อหาบางฉากภายในเกมนี้มีเนื้อหาที่เกี่ยวกับเพศอย่างโจ่งแจ้ง "
+"ซึ่งไม่เหมาะกับผู้ที่ยังไม่บรรลุนิติภาวะ โปรดใช้วิจารณญาณในการเล่นเกม "
+"และตัวละครรวมถึงตัวประกอบภายในเกมนี้ทุกคนได้บรรลุนิติภาวะทั้งหมดแล้ว"
 
 #: game/scenes/gui/splashscreen.tscn
 msgid "Vos actions auront des conséquences..."
@@ -367,8 +367,8 @@ msgid ""
 msgstr ""
 "ระหว่างเล่นเนื้อเรื่องต่างๆ การเลือกของคุณจะมีผลต่อตัวละครรอบตัวคุณ "
 "หากคุณปฎิเสธตัวละครเดิมหลายๆครั้ง ตัวละครนั้นอาจจะเริ่มหาคนอื่นเข้ามาแทน "
-"โดยระบบนี้อ้างอิงมาจากโลกเสมือนจริง (การที่เราเป็นคนไม่ใช่ "
-"เขาไม่เลือกเราอยู่แล้วจะรออยู่ใย? ก็ต้องไปหาคนอื่นเด้!)"
+"โดยระบบนี้อ้างอิงมาจากโลกจริง (ในเมื่อเป็นคนที่ไม่ใช่ "
+"เขาก็ไม่เลือกเราอยู่แล้วมั้ย? จะรออยู่ใย ก็ต้องไปหาคนอื่นเด้!)"
 
 #: game/scenes/gui/splashscreen.tscn
 msgid "[fill]Certaines [url=data]données anonymes[/url] peuvent être récoltées pour améliorer l'expérience de jeu.[/fill]"
@@ -6642,7 +6642,7 @@ msgstr "{{sakuya.n}} (กำลังรอ)"
 
 msgctxt "chapters.choices"
 msgid "yasuka/corruption"
-msgstr "แปดเปื้อน"
+msgstr "ใจแตก"
 
 msgctxt "chapters.choices"
 msgid "yasuka/love"
@@ -6666,7 +6666,7 @@ msgstr "ผู้ชายเป็นใหญ่"
 
 msgctxt "chapters.choices"
 msgid "asami/corruption"
-msgstr "แปดเปื้อน"
+msgstr "ใจแตก"
 
 msgctxt "chapters.choices"
 msgid "asami/friendship"
@@ -6856,7 +6856,7 @@ msgstr "มีเซ็กส์"
 #: game/scenes/gui/game_menu/galleries/movies.tscn
 msgctxt "galleries.movies.hints"
 msgid "Suivre l'histoire de {{sakuya.n}}."
-msgstr "ตอนนี้คุณสามารถเล่นเนื้อเรื่องของ {{sakuya.n}} ต่อได้แล้ว"
+msgstr "เล่นเนื้อเรื่องของ {{sakuya.n}} ต่อไป"
 
 #: game/scenes/gui/game_menu/galleries/movies.tscn
 msgctxt "galleries.movies.hints"
@@ -6882,3 +6882,48 @@ msgstr "{{sakuya.n}}(พนักงานต้อนรับ)"
 msgctxt "galleries.movies.attribute"
 msgid "behind"
 msgstr "มองไปข้างหลัง"
+
+#: game/scenes/locations/restaurant_exterior.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "ChefSmoke"
+msgstr "{{chef.n}} (สูบบุหรี่)"
+
+#: game/scenes/gui/game_menu/galleries/movies.tscn
+msgctxt "galleries.movies.hints"
+msgid "Corrompre {{asami.n}}."
+msgstr "ทำให้ {{asami.n}} เป็นคนใจแตก"
+
+#: game/scenes/gui/game_menu/galleries/movies.tscn
+msgctxt "galleries.movies.attribute"
+msgid "tan"
+msgstr "ผิวแทน"
+
+#: game/scenes/gui/game_menu/galleries/movies.tscn
+msgctxt "galleries.movies.attribute"
+msgid "notan"
+msgstr "ธรรมดา"
+
+#: game/scenes/gui/game_menu/galleries/movies.tscn
+msgctxt "galleries.movies.hints"
+msgid "Suivre l'histoire d'{{asami.n}}."
+msgstr "เล่นเนื้อเรื่องของ {{asami.n}} ต่อไป"
+
+#: game/scenes/locations/restaurant_sakuya_room.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "AkiraWindow"
+msgstr "{{akira.n}} (หน้าต่าง)"
+
+#: game/scenes/locations/restaurant_interior.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "SakuyaClean"
+msgstr "{{sakuya.n}} (ทำความสะอาด)"
+
+#: game/scenes/locations/restaurant_interior.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "ChefCook"
+msgstr "{{chef.n}} (ทำอาหาร)"
+
+#: game/scenes/locations/park.tscn
+msgctxt "galleries.backgrounds.sprite"
+msgid "AsamiWalkSexy"
+msgstr "{{asami.n}} (เดินเล่น, เซ็กซี่)"
