@@ -112,7 +112,7 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-08 15:23+0200\n"
-"PO-Revision-Date: 2025-08-22 13:21+0000\n"
+"PO-Revision-Date: 2025-11-19 19:45+0000\n"
 "Last-Translator: Vil Ordx <koyagames2022@gmail.com>\n"
 "Language-Team: Indonesian <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/id/>\n"
@@ -137,11 +137,11 @@ msgstr "Pagi"
 
 #: core/scripts/clock.gd
 msgid "afternoon"
-msgstr "Siang"
+msgstr "Sore"
 
 #: core/scripts/clock.gd
 msgid "evening"
-msgstr "Sore"
+msgstr "Malam"
 
 #: core/scripts/clock.gd
 msgid "night"
@@ -263,7 +263,7 @@ msgstr "Sayuri"
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Vieil homme"
-msgstr "Pak Tua"
+msgstr "Kakek"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
@@ -308,7 +308,7 @@ msgstr "Restoran"
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "konbini_exterior"
-msgstr "Konbini"
+msgstr "Swalayan"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
@@ -338,12 +338,12 @@ msgstr "[i]Butik Kopi[/i]"
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "hostess_club_exterior"
-msgstr "Klub LC"
+msgstr "Klub Hostess"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "love_hotel_exterior"
-msgstr "Love Hotel (Exterior)"
+msgstr "Hotel Cinta (Exsterior)"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
@@ -368,7 +368,7 @@ msgstr "Halte bus"
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "arcade_exterior"
-msgstr "Depan Arkade"
+msgstr "Arkade (Eksterior)"
 
 #: game/scenes/locations/city.tscn game/scripts/locations/location_pathing.tscn
 msgctxt "location"
@@ -413,11 +413,11 @@ msgstr "ASAMI"
 
 #: game/scenes/gui/gui_start_asami.tscn
 msgid "Vous pouvez dès à présent poursuivre l’histoire d’{{asami.n}}."
-msgstr "Sekarang kamu bisa melanjutkan cerita {asami.n}}"
+msgstr "Sekarang kamu bisa melanjutkan cerita {{asami.n}}"
 
 #: game/scenes/gui/gui_start_asami.tscn
 msgid "Vous avez fait le choix de vous lier [color=yellow]d'amitié[/color]."
-msgstr "Kamu memilih untuk [color=yellow]berteman[/color] dengannya."
+msgstr "Kamu memilih untuk [color=yellow]berteman[/color]."
 
 #: game/scenes/gui/gui_start_asami.tscn
 msgid "Vous avez fait le choix de la [color=yellow]corrompre[/color]."
@@ -429,7 +429,7 @@ msgstr "Kamu memilih untuk [color=yellow]tetap berteman[/color] dengannya."
 
 #: game/scenes/gui/gui_start_asami.tscn game/scenes/gui/gui_start_sakuya.tscn game/scenes/gui/gui_start_yasuka.tscn
 msgid "J'ai compris"
-msgstr "Mengerti"
+msgstr "Aku mengerti"
 
 #: game/scenes/gui/gui_start_sakuya.tscn
 msgid "SAKUYA"
@@ -441,7 +441,9 @@ msgstr "Sekarang kamu dapat meneruskan cerita {{sakuya.n}}'s ."
 
 #: game/scenes/gui/gui_start_sakuya.tscn
 msgid "Vous avez fait des choix tout au long de votre aventure, peu importe qu'ils soient bons ou mauvais. {{sakuya.n}} vous les fera assumer."
-msgstr "Kamu telah membuat keputusan selama kamu bertualang, meskipun itu baik atau buruk. {{sakuya.n}} akan membuatmu mengemban tanggung jawab untuk mereka."
+msgstr ""
+"Kamu telah membuat keputusan selama perjalananmu, baik maupun buruk. {{sakuya"
+".n}} akan membuatmu bertanggung jawab atas semua keputusanmu."
 
 #: game/scenes/gui/gui_start_yasuka.tscn
 msgid "YASUKA"
@@ -453,21 +455,19 @@ msgstr "Sekarang kamu bisa melanjutkan cerita {{yasuka.n}}."
 
 #: game/scenes/gui/gui_start_yasuka.tscn
 msgid "Vous avez fait le choix de l'[color=yellow]aimer et de la soutenir[/color]."
-msgstr ""
-"Anda telah memilih untuk [color=yellow]mencintainya dan mendukungnya[/color]."
+msgstr "Kamu memilih untuk [color=yellow]mencintai dan mendukungnya.[/color]"
 
 #: game/scenes/gui/gui_start_yasuka.tscn
 msgid "Vous avez fait le choix de la laisser [color=yellow]travailler au bar à hôtesse[/color]."
 msgstr ""
-"Anda telah memilih untuk membiarkannya [color=yellow]bekerja di bar "
-"hostes[/color]."
+"Kamu memilih untuk membiarkan dia untuk [color=yellow]bekerja di bar "
+"hostess.[/color]"
 
 #: game/scenes/gui/splashscreen.tscn
 msgid "Certaines scènes de ce jeu peuvent contenir du contenu sexuellement explicite et pourrait choquer un jeune public. Tous les personnages de ce jeu sont majeurs."
 msgstr ""
-"Beberapa adegan dalam permainan ini mengandung konten seksual eksplisit dan "
-"dapat mengejutkan penonton muda. Semua karakter dalam permainan ini berusia "
-"dewasa."
+"Beberapa adegan di game ini berisi konten seksual eksplisit, dan mungkin "
+"menyinggung untuk dibawah umur. Semua karakter di game ini adalah dewasa."
 
 #: game/scenes/gui/splashscreen.tscn
 msgid ""
@@ -558,7 +558,7 @@ msgstr "Apakah kamu menginginkan sesuatu?"
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_221be6bf"
 msgid "C'est moi qui te l'offre !"
-msgstr "Ini aku yang menawarkannya untukmu!"
+msgstr "Ini aku yang memberikannya padamu!"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_608419eb"
@@ -628,7 +628,7 @@ msgstr "Tidak ada bos yang selalu mengganggunya membuatnya lebih leluasa."
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_0b339148"
 msgid "Après avoir discuté un long moment, il était temps de partir."
-msgstr "Setelah berbincang cukup lama, sudah waktunya untuk pergi."
+msgstr "Setelah berbicara cukup lama, tiba waktunya untuk kembali."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_0a9538b0"
