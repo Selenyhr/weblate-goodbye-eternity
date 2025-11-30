@@ -112,7 +112,7 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-11-28 10:37+0100\n"
-"PO-Revision-Date: 2025-11-30 12:18+0000\n"
+"PO-Revision-Date: 2025-11-30 18:58+0000\n"
 "Last-Translator: Tim Siekmann <sebastian.laubenstein@gmx.net>\n"
 "Language-Team: German <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/de/>\n"
@@ -8277,9 +8277,12 @@ msgid "Je ne peux rien faire pour l’instant."
 msgstr ""
 
 #: game/story/home_natsume_exterior.dialogue
+#, fuzzy
 msgctxt "ET_SI_JE_M_EN_PRENDS_MINATO_N_28D92B"
 msgid "Et si je m’en prends à {{minato.n}}, je compromettrais aussi son plan pour protéger sa mère."
 msgstr ""
+"Und wenn ich {{minato.n}} nachjagen würde, würde ich seine Pläne für ihre "
+"Mutter zerstören."
 
 #: game/story/home_natsume_exterior.dialogue
 msgctxt "MIEUX_VAUT_LAISSER_A_DE_C_T_P_A8CA3E"
