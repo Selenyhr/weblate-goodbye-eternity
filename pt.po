@@ -112,9 +112,10 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-11-28 10:37+0100\n"
-"PO-Revision-Date: 2025-09-24 12:14+0000\n"
-"Last-Translator: Lucas <lucas25amaral@gmail.com>\n"
-"Language-Team: Portuguese <https://translations.teot-studio.com/projects/goodbye-eternity/game-translation/pt/>\n"
+"PO-Revision-Date: 2025-11-30 18:58+0000\n"
+"Last-Translator: Daniel <ryukaixs@gmail.com>\n"
+"Language-Team: Portuguese <https://translations.teot-studio.com/projects/"
+"goodbye-eternity/game-translation/pt/>\n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -45793,7 +45794,7 @@ msgstr "Em que ano estamos?"
 #: game/story/introduction.dialogue
 msgctxt "home_player_room_7a7db3e9"
 msgid "PUTAIN, {{year}} !"
-msgstr "DROGA, é {year}!"
+msgstr "CARALHO, é {{year}}!"
 
 #: game/story/introduction.dialogue
 msgctxt "home_player_room_0bde6d77"
@@ -45813,7 +45814,7 @@ msgstr "Eu ainda me lembro do que vai acontecer depois."
 #: game/story/introduction.dialogue
 msgctxt "home_player_room_a32414fc"
 msgid "Mais... Ça veut dire que rien ne s'est encore produit ?!"
-msgstr "Mas se eu voltar no tempo... Isso significa que essas coisas ainda não aconteceram?!"
+msgstr "Então... Isso significa que nada daquilo aconteceu ainda?!"
 
 #: game/story/introduction.dialogue
 msgctxt "home_player_room_8b60f437"
@@ -45828,7 +45829,8 @@ msgstr "SIMAAAAAH!"
 #: game/story/introduction.dialogue
 msgctxt "home_player_room_284a0088"
 msgid "[font_size=20]Mon chéri, tout va bien ? Tu as fait un cauchemar ?[/font_size]"
-msgstr "[font_size=20]Querida, você está bem? Você teve um pesadelo?[/font_size]"
+msgstr ""
+"[font_size=20]Querido, você está bem? Você teve um pesadelo?[/font_size]"
 
 #: game/story/introduction.dialogue
 msgctxt "home_player_room_0e6fe023"
@@ -45838,7 +45840,7 @@ msgstr "{{yasuka.n}}?![w] Ela ainda está viva?!"
 #: game/story/introduction.dialogue
 msgctxt "home_player_room_1676875a"
 msgid "Euh... Oui, désolé {{yasuka.n}}, j'arrive dans quelques minutes !"
-msgstr "Uh... S-sim, desculpe, {{yasuka.n}}! Desço em breve!"
+msgstr "Ah... S-sim, desculpa, {{yasuka.n}}! Daqui a pouco estou saindo!"
 
 #: game/story/introduction.dialogue
 msgctxt "home_player_room_582e02dd"
