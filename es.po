@@ -112,7 +112,7 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-11-28 10:37+0100\n"
-"PO-Revision-Date: 2025-12-01 13:32+0000\n"
+"PO-Revision-Date: 2025-12-01 13:57+0000\n"
 "Last-Translator: Roger Miró <puniasterus@gmail.com>\n"
 "Language-Team: Spanish <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/es/>\n"
@@ -14678,57 +14678,59 @@ msgstr "...[w] Quizás..."
 #: game/story/canal.dialogue
 msgctxt "JE_CROIS_QUE_J_AI_PAS_T_ASSEZ_6D8009"
 msgid "Je crois que j'ai pas été assez clair, visiblement..."
-msgstr ""
+msgstr "Creo que no fui lo suficientemente claro, obviamente..."
 
 #: game/story/canal.dialogue
 msgctxt "MHHH_C_EST_TOI_QUI_PUES_COMME_FB50B4"
 msgid "Mhhh... C'est toi qui pues comme ça ?"
-msgstr ""
+msgstr "Mhhh... ¿Eres tú quien huele así?"
 
 #: game/story/canal.dialogue
 msgctxt "NE_ME_DIS_PAS_QUE_TU_TE_CACHES_1CF483"
 msgid "Ne me dis pas que tu te caches dans les égouts ?!"
-msgstr ""
+msgstr "¡¿No me digas que te escondes en las alcantarillas?!"
 
 #: game/story/canal.dialogue
 msgctxt "TU_AS_VRAIMENT_UN_DON_POUR_NER_9EEC76"
 msgid "Tu as vraiment un don pour énerver les gens."
-msgstr ""
+msgstr "Realmente tienes un don para molestar a la gente."
 
 #: game/story/canal.dialogue
 msgctxt "D_STRESSE_UN_PEU_JE_NE_DIRAI_R_161ED8"
 msgid "Dé-stresse un peu, je ne dirai rien à \"qui tu sais\" de toute façon."
-msgstr ""
+msgstr "Relájate un poco, de todas formas no le diré nada a \"ya sabes quién\"."
 
 #: game/story/canal.dialogue
 msgctxt "C_EST_ENCORE_UN_PI_GE_C_EST_PO_98084E"
 msgid "C'est encore un piège ? C'est pour me faire baisser ma garde ?"
-msgstr ""
+msgstr "¿Es otra trampa? ¿Es para que baje la guardia?"
 
 #: game/story/canal.dialogue
 msgctxt "TU_SAIS_BIEN_QUE_JE_D_TESTE_LE_D4EF29"
 msgid "Tu sais bien que je déteste les mensonges. J'ai toujours été franche avec toi depuis qu'on se connaît."
 msgstr ""
+"Sabes muy bien que detesto las mentiras. Siempre he sido sincera contigo "
+"desde que nos conocimos."
 
 #: game/story/canal.dialogue
 msgctxt "JE_FAIS_JUSTE_ATTENTION_CE_QUE_F51955"
 msgid "Je fais juste attention à ce que je dis et à qui je le dis."
-msgstr ""
+msgstr "Solo tengo cuidado con lo que digo y a quién se lo digo."
 
 #: game/story/canal.dialogue
 msgctxt "TU_NE_M_AURAS_PAS_COMME_A_JE_N_ACCA99"
 msgid "Tu ne m'auras pas comme ça. Je ne sais pas quelle image tu veux te donner mais..."
-msgstr ""
+msgstr "No me atraparás tan fácilmente. No sé qué imagen quieres dar, pero..."
 
 #: game/story/canal.dialogue
 msgctxt "TOUT_CE_QUE_TU_DIS_N_EST_RIEN_1E6F51"
 msgid "Tout ce que tu dis n'est rien d'autre que du mensonge par omission."
-msgstr ""
+msgstr "Todo lo que dices no es más que una mentira por omisión."
 
 #: game/story/canal.dialogue
 msgctxt "BON_A_SUFFIT_SUIS_MOI_C0896B"
 msgid "Bon, ça suffit ! Suis-moi !"
-msgstr ""
+msgstr "¡Está bien, ya basta! ¡Sígueme!"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_1d26945b"
@@ -37522,7 +37524,7 @@ msgstr "Debería recuperar el diario de {{sakuya.n}}."
 #: game/story/city.dialogue
 msgctxt "NATSUME_N_EST_L_MIEUX_VAUT_NE_EFDDC9"
 msgid "{{natsume.n}} est là, mieux vaut ne pas l'ignorer."
-msgstr ""
+msgstr "{{natsume.n}} está ahí, mejor no ignorarla."
 
 #: game/story/restaurant_interior.dialogue
 msgctxt "t1a8ffed855"
@@ -80755,142 +80757,154 @@ msgstr "Sí, mamá..."
 #: game/story/home_kenji_exterior.dialogue
 msgctxt "TIENS_C_EST_CURIEUX_TU_RENTRES_30A512"
 msgid "Tiens, c'est curieux, tu rentres tôt pour une fois ?!"
-msgstr ""
+msgstr "Vaya, qué sorpresa, ¡¿hoy llegas temprano por una vez?!"
 
 #: game/story/home_kenji_exterior.dialogue
 msgctxt "TU_T_ES_D_CID_VENIR_M_AIDER_EN_247A35"
 msgid "Tu t'es décidé à venir m'aider en boutique ?"
-msgstr ""
+msgstr "¿Así que has decidido venir a ayudarme en la tienda?"
 
 #: game/story/home_kenji_exterior.dialogue
 msgctxt "NON_LA_FLEMME_248BCA"
 msgid "Non, la flemme."
-msgstr ""
+msgstr "No, la pereza."
 
 #: game/story/home_kenji_exterior.dialogue
 msgctxt "LES_AUTRES_TAIENT_OCCUP_S_C_ES_F60C1E"
 msgid "Les autres étaient occupés, c'est tout."
-msgstr ""
+msgstr "Los demás estaban ocupados, eso es todo."
 
 #: game/story/home_kenji_exterior.dialogue
 msgctxt "DANS_CE_CAS_SI_TU_N_AS_RIEN_FA_3448C0"
 msgid "Dans ce cas, si tu n'as rien à faire de plus, tu ferais mieux d'aider ce garçon, {{saito.n}}, c'est ça ?"
 msgstr ""
+"En ese caso, si no tienes nada más que hacer, será mejor que ayudes a ese "
+"chico, {{saito.n}}, ¿no?"
 
 #: game/story/home_kenji_exterior.dialogue
 msgctxt "AIDE_LE_DONC_CHERCHER_CETTE_FI_6FCF06"
 msgid "Aide-le donc à chercher cette fille qui a disparu."
-msgstr ""
+msgstr "Ayúdale a buscar a esa chica que ha desaparecido."
 
 #: game/story/home_kenji_exterior.dialogue
 msgctxt "D_J_Y_A_PAS_MOYEN_QUE_JE_L_AID_CC0931"
 msgid "Déjà, y'a pas moyen que je l'aide, on n'est pas potes, et de deux, ils ont retrouvé son meurtrier."
 msgstr ""
+"En primer lugar, no hay forma de que yo le ayude, no somos amigos, y en "
+"segundo lugar, han encontrado a su asesino."
 
 #: game/story/home_kenji_exterior.dialogue
 msgctxt "SON_MEURTRIER_MAIS_ELLE_N_AVAI_80DD7D"
 msgid "Son meurtrier ? Mais elle n'avait pas juste été enlevée ?"
-msgstr ""
+msgstr "¿Su asesino? ¿Pero no solo la habían secuestrado?"
 
 #: game/story/home_kenji_exterior.dialogue
 msgctxt "SI_MAIS_IL_L_AURAIT_TU_E_C3E005"
 msgid "Si, mais il l'aurait tuée."
-msgstr ""
+msgstr "Sí, pero la habría matado."
 
 #: game/story/home_kenji_exterior.dialogue
 msgctxt "ILS_ONT_T_EFFICACES_POUR_UNE_F_051F85"
 msgid "Ils ont été efficaces pour une fois."
-msgstr ""
+msgstr "Fueron eficaces por una vez."
 
 #: game/story/home_kenji_exterior.dialogue
 msgctxt "MON_DIEU_LA_PAUVRE_ENFANT_F218FA"
 msgid "Mon dieu, la pauvre enfant !"
-msgstr ""
+msgstr "¡Dios mío, pobre chica!"
 
 #: game/story/home_kenji_exterior.dialogue
 msgctxt "ET_TU_DEVINERAS_JAMAIS_QUI_EST_448282"
 msgid "Et tu devineras jamais qui est le coupable : {{saito.n}} lui-même !"
-msgstr ""
+msgstr "Y nunca adivinarás quién es el culpable: ¡el mismísimo {{saito.n}}!"
 
 #: game/story/home_kenji_exterior.dialogue
 msgctxt "QUOI_A_N_A_AUCUN_PUTAIN_DE_SEN_1A1DB1"
 msgid "Quoi ?! Ça n'a aucun putain de sens !"
-msgstr ""
+msgstr "¡¿Qué?! ¡Eso no tiene ningún sentido, joder!"
 
 #: game/story/home_kenji_exterior.dialogue
 msgctxt "TU_L_AS_VU_COMME_MOI_SE_D_MENE_755DB8"
 msgid "Tu l'as vu comme moi se démener partout en ville à coller des affiches pour la retrouver."
 msgstr ""
+"Lo viste, igual que yo, buscando frenéticamente por toda la ciudad, poniendo "
+"carteles para encontrarla."
 
 #: game/story/home_kenji_exterior.dialogue
 msgctxt "UN_COUPABLE_A_FAIT_A_SELON_TOI_54D381"
 msgid "Un coupable, ça fait ça selon toi ? Tchh, réfléchis un peu !"
-msgstr ""
+msgstr "¿Crees que un culpable haría eso? ¡Tch, piénsalo un poco!"
 
 #: game/story/home_kenji_exterior.dialogue
 msgctxt "J_EN_SAIS_RIEN_JE_SUIS_PAS_DAN_2AF498"
 msgid "J'en sais rien... Je suis pas dans sa tête !"
-msgstr ""
+msgstr "No lo sé... ¡No estoy dentro de su cabeza!"
 
 #: game/story/home_kenji_exterior.dialogue
 msgctxt "TOUT_A_M_A_L_AIR_D_TRE_UN_GROS_021A71"
 msgid "Tout ça m'a l'air d'être un gros coup monté. Le garçon a dû énerver quelqu'un qu’il ne fallait pas."
 msgstr ""
+"Todo esto me parece una gran trampa. El chico debió de molestar a alguien a "
+"quien no debía."
 
 #: game/story/home_kenji_exterior.dialogue
 msgctxt "LA_POLICE_A_DIT_QU_ELLE_ARR_TA_CDF8E7"
 msgid "La police a dit qu'elle arrêtait les recherches de la fille pour se concentrer sur la capture de {{saito.n}}."
 msgstr ""
+"La policía dijo que suspendía la búsqueda de la chica para centrarse en la "
+"captura de {{saito.n}}."
 
 #: game/story/home_kenji_exterior.dialogue
 msgctxt "IL_EST_DONC_EN_CAVALE_8D1D3C"
 msgid "Il est donc en cavale ?"
-msgstr ""
+msgstr "¿Entonces está fugado?"
 
 #: game/story/home_kenji_exterior.dialogue
 msgctxt "TOUTE_CETTE_HISTOIRE_PUE_DU_CU_0F211B"
 msgid "Toute cette histoire pue du cul si tu veux mon avis."
-msgstr ""
+msgstr "Toda esta historia apesta, si quieres mi opinión."
 
 #: game/story/home_kenji_exterior.dialogue
 msgctxt "SI_JAMAIS_TU_LE_CROISES_DIS_LU_43BC3A"
 msgid "Si jamais tu le croises, dis-lui qu'il est le bienvenu à la maison."
-msgstr ""
+msgstr "Si alguna vez te lo encuentras, dile que es bienvenido en casa."
 
 #: game/story/home_kenji_exterior.dialogue
 msgctxt "SURTOUT_PAS_B40F79"
 msgid "Surtout pas !"
-msgstr ""
+msgstr "¡Ni hablar!"
 
 #: game/story/home_kenji_exterior.dialogue
 msgctxt "QU_EST_CE_QUI_T_ARRIVE_EF4109"
 msgid "Qu'est-ce qui t'arrive ?"
-msgstr ""
+msgstr "¿Qué te pasa?"
 
 #: game/story/home_kenji_exterior.dialogue
 msgctxt "QUOI_QU_IL_SE_PASSE_ON_DOIT_RE_729625"
 msgid "Quoi qu'il se passe, on doit rester loin de tout ça ! S'il te plaît !"
 msgstr ""
+"Pase lo que pase, ¡tenemos que mantenernos al margen de todo esto! ¡Por "
+"favor!"
 
 #: game/story/home_kenji_exterior.dialogue
 msgctxt "TOI_TU_SAIS_QUELQUE_CHOSE_HEIN_4455C1"
 msgid "Toi... Tu sais quelque chose, hein..."
-msgstr ""
+msgstr "Tú... Tú sabes algo, ¿verdad?..."
 
 #: game/story/home_kenji_exterior.dialogue
 msgctxt "QUEL_POINT_C_EST_RISQU_A48C9D"
 msgid "À quel point c'est risqué ?"
-msgstr ""
+msgstr "¿Qué tan arriesgado es?"
 
 #: game/story/home_kenji_exterior.dialogue
 msgctxt "AU_POINT_QUE_PAPA_SERAIT_JUSTE_8AB5E9"
 msgid "Au point que papa serait juste le cadet de nos soucis..."
-msgstr ""
+msgstr "Hasta tal punto que papá sería la menor de nuestras preocupaciones..."
 
 #: game/story/home_kenji_exterior.dialogue
 msgctxt "PUTAIN_KENJI_N_DANS_QUOI_TU_T_08590D"
 msgid "Putain, {{kenji.n}}... Dans quoi tu t'es encore fourré ?!"
-msgstr ""
+msgstr "Joder, {{kenji.n}}... ¡¿En qué te has metido ahora?!"
 
 #: game/story/home_nobu_exterior.dialogue
 msgctxt "home_nobu_exterior_2cc40ea1"
@@ -87625,7 +87639,7 @@ msgstr ""
 #: game/scenes/gui/game_menu/galleries/cgs.gd
 msgctxt "game_menu.crumbs.galleries"
 msgid "CG"
-msgstr ""
+msgstr "CG"
 
 #: game/scenes/gui/game_menu/galleries/cgs_characters_list.tscn
 msgid "TOUT"
@@ -87634,7 +87648,7 @@ msgstr "TODO"
 #: game/scenes/gui/game_menu/galleries/cgs_visualization.gd
 msgctxt "galleries.movies.attribute"
 msgid "Poils pubiens"
-msgstr ""
+msgstr "Vello púbico"
 
 #: game/scenes/gui/game_menu/galleries/cgs_visualization.tscn
 msgid "Fellation"
