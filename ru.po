@@ -112,8 +112,8 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-11-28 10:37+0100\n"
-"PO-Revision-Date: 2025-12-01 09:03+0000\n"
-"Last-Translator: Armi torosh <maratahinkov@gmail.com>\n"
+"PO-Revision-Date: 2025-12-01 10:37+0000\n"
+"Last-Translator: Fleksik <steam2287775679@mail.ru>\n"
 "Language-Team: Russian <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/ru/>\n"
 "Language: ru\n"
@@ -14674,7 +14674,7 @@ msgstr "...[w]Возможно..."
 #: game/story/canal.dialogue
 msgctxt "JE_CROIS_QUE_J_AI_PAS_T_ASSEZ_6D8009"
 msgid "Je crois que j'ai pas été assez clair, visiblement..."
-msgstr ""
+msgstr "Видимо, я недостаточно ясно выразился..."
 
 #: game/story/canal.dialogue
 msgctxt "MHHH_C_EST_TOI_QUI_PUES_COMME_FB50B4"
@@ -14695,6 +14695,7 @@ msgstr "У тебя реально дар бесить людей."
 msgctxt "D_STRESSE_UN_PEU_JE_NE_DIRAI_R_161ED8"
 msgid "Dé-stresse un peu, je ne dirai rien à \"qui tu sais\" de toute façon."
 msgstr ""
+"Расслабься. Я всё равно не собиралась нихуя рассказывать «сам-знаешь-кому»."
 
 #: game/story/canal.dialogue
 msgctxt "C_EST_ENCORE_UN_PI_GE_C_EST_PO_98084E"
@@ -24544,36 +24545,41 @@ msgstr ""
 msgctxt "JE_SAVAIS_BIEN_QUE_J_AURAIS_D_43B819"
 msgid "Je savais bien que j'aurais dû me douter de quelque chose quand il est venu déposer ce sac avec sa tête de faux-cul."
 msgstr ""
+"Мне и вправду следовало что-то заподозрить, когда он подошел, чтобы оставить "
+"сумку, с таким двуличным выражением лица."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "QUEL_SAC_D4C3C2"
 msgid "Quel sac ?"
-msgstr ""
+msgstr "Какую сумку?"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "IL_EST_VENU_HIER_POUR_SOI_DISA_9CDF23"
 msgid "Il est venu hier pour soi-disant déposer des affaires que {{saito.n}} aurait oubliées."
 msgstr ""
+"Он приходил вчера, якобы оставить какие-то вещи, которые {{saito.n}} забыл."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "C_EST_PEINE_SI_CES_ENFOIR_S_FO_7EC7D6"
 msgid "C'est à peine si ces enfoirés font l'effort de cacher leurs magouilles."
-msgstr ""
+msgstr "Эти ублюдки даже не пытаются скрывать свои схемы."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "TOUT_A_NE_ME_RASSURE_PAS_DU_TO_E4FC0C"
 msgid "Tout ça ne me rassure pas du tout. J'ai bien peur que {{saito.n}} ne se soit attiré de gros problèmes."
 msgstr ""
+"Меня это совсем не успокаивает. Боюсь, {{saito.n}} вляпался в серьёзные "
+"неприятности."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "SI_SEULEMENT_IL_N_Y_AVAIT_QUE_C400D5"
 msgid "Si seulement il n'y avait que ça..."
-msgstr ""
+msgstr "Если бы это было самое худшее..."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "COMMENT_A_IL_Y_A_AUTRE_CHOSE_A1B22B"
 msgid "Comment ça ? Il y a autre chose ?"
-msgstr ""
+msgstr "Что ты имеешь в виду? Есть что-то ещё?"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "TU_TE_SOUVIENS_DE_TON_ANCIEN_P_FDA183"
@@ -24598,17 +24604,17 @@ msgstr ""
 #: game/story/home_player_saito_room.dialogue
 msgctxt "MAIS_JE_PENSE_FORT_TOI_20E53C"
 msgid "Mais je pense fort à toi."
-msgstr ""
+msgstr "Но я много думаю о тебе."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "REVIENS_MOI_VITE_2C8BF1"
 msgid "Reviens-moi vite."
-msgstr ""
+msgstr "Возвращайся ко мне поскорее."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "JE_SUIS_TELLEMENT_INQUI_TE_40A261"
 msgid "Je suis tellement inquiète..."
-msgstr ""
+msgstr "Я так волнуюсь…"
 
 #: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
 msgctxt "home_player_yasuka_room_b881d841"
@@ -24809,7 +24815,7 @@ msgstr "Спасибо..."
 #: game/story/restaurant_interior.dialogue
 msgctxt "MERCI_CD593B"
 msgid "Merci..."
-msgstr ""
+msgstr "Спасибо тебе…"
 
 #: game/story/konbini_exterior.dialogue
 msgctxt "ta1bc91e18e"
@@ -24844,7 +24850,7 @@ msgstr "Спасибо..."
 #: game/story/home_natsume_natsume_room.dialogue
 msgctxt "MERCI_A79AD5"
 msgid "Merci..."
-msgstr ""
+msgstr "Спасибо…"
 
 #: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
 msgctxt "talk_yasuka_7301a7a0"
@@ -26564,7 +26570,7 @@ msgstr "Сильнее!"
 #: game/story/home_natsume_natsume_room.dialogue
 msgctxt "PLUS_FORT_D65BBB"
 msgid "Plus fort !"
-msgstr ""
+msgstr "Сильнее!"
 
 #: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
 msgctxt "yasuka_love_sexe_repeat_1c91e4ec"
@@ -27547,7 +27553,7 @@ msgstr "Это..."
 #: game/story/home_natsume_natsume_room.dialogue
 msgctxt "C_EST_04191A"
 msgid "C'est..."
-msgstr ""
+msgstr "Это…"
 
 #: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
 msgctxt "tc08e0912d2"
@@ -28242,12 +28248,12 @@ msgstr "НЕТ!"
 #: game/story/home_kenji_exterior.dialogue
 msgctxt "NON_5D2D1C"
 msgid "NON !"
-msgstr ""
+msgstr "НЕТ!"
 
 #: game/story/home_natsume_natsume_room.dialogue
 msgctxt "NON_30D060"
 msgid "NON !"
-msgstr ""
+msgstr "НЕТ!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "t636dac2e62"
@@ -32643,6 +32649,8 @@ msgstr ""
 msgctxt "ARR_TEZ_DE_DIRE_DES_B_TISES_PA_E0F173"
 msgid "Arrêtez de dire des bêtises pareilles ! Ces accusations sont ridicules, et si vous faisiez votre travail correctement, vous le sauriez aussi."
 msgstr ""
+"Перестаньте нести чушь! Эти обвинения нелепы, и если бы вы выполняли свою "
+"работу как следует, вы бы это тоже знали."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "MADAME_MESUREZ_VOS_PAROLES_VOU_9FC4D3"
@@ -32831,6 +32839,8 @@ msgstr ""
 msgctxt "RESTE_ASSISE_JE_NE_T_AI_PAS_RA_55CAA7"
 msgid "Reste assise, je ne t'ai pas raconté ça pour que tu te mettes en danger inutilement."
 msgstr ""
+"Сиди спокойно. Я сказала тебе это не для того, чтобы ты подвергала себя "
+"ненужной опасности."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "ON_NE_PEUT_PAS_S_EXPOSER_OUVER_54628C"
