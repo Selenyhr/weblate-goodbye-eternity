@@ -112,7 +112,7 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-11-28 10:37+0100\n"
-"PO-Revision-Date: 2025-12-01 10:37+0000\n"
+"PO-Revision-Date: 2025-12-01 13:32+0000\n"
 "Last-Translator: Roger Miró <puniasterus@gmail.com>\n"
 "Language-Team: Spanish <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/es/>\n"
@@ -37403,7 +37403,7 @@ msgstr "Es muy amable de tu parte."
 #: game/story/home_player_hallway.dialogue
 msgctxt "JE_VAIS_LUI_POSER_TOUT_A_DANS_409605"
 msgid "Je vais lui poser tout ça dans sa chambre, je suis certain qu'il appréciera."
-msgstr ""
+msgstr "Se lo dejaré todo en su habitación, estoy seguro de que le gustará."
 
 #: game/story/home_player_hallway.dialogue
 msgctxt "S_IL_VOUS_PLA_T_SAITO_N_A_BESO_AC1357"
@@ -37428,72 +37428,76 @@ msgstr "... Está bien, vamos a ponerlo en su cama, y mientras haces eso, ¡cué
 #: game/story/home_player_hallway.dialogue
 msgctxt "EST_CE_QUE_VOUS_ALLEZ_BIEN_VOU_CB889E"
 msgid "Est-ce que vous allez bien ? Vous en faites une drôle de tête !"
-msgstr ""
+msgstr "¿Estás bien? ¡Qué cara más rara pones!"
 
 #: game/story/home_player_hallway.dialogue
 msgctxt "BONJOUR_MADAME_VOUS_TES_TOUJOU_4859BE"
 msgid "Bonjour madame, vous êtes toujours aussi radieuse !"
-msgstr ""
+msgstr "Buenos días, señora, ¡sigue estando tan radiante como siempre!"
 
 #: game/story/home_player_hallway.dialogue
 msgctxt "BONJOUR_KIMOCHI_N_TOUJOURS_AUS_A48F12"
 msgid "Bonjour {{kimochi.n}}, toujours aussi énergique."
-msgstr ""
+msgstr "Hola, {{kimochi.n}}, tan enérgico como siempre."
 
 #: game/story/home_player_hallway.dialogue
 msgctxt "NOUS_TIONS_POURSUIVIS_ON_A_DU_8DDD8B"
 msgid "Nous étions poursuivis... On a dû courir depuis le parc."
-msgstr ""
+msgstr "Nos perseguían... Tuvimos que correr desde el parque."
 
 #: game/story/home_player_hallway.dialogue
 msgctxt "DEPUIS_QUE_SAITO_N_N_EST_PLUS_BBBE1F"
 msgid "Depuis que {{saito.n}} n'est plus là... Certaines brutes sont revenues."
-msgstr ""
+msgstr "Desde que {{saito.n}} ya no está... Los matones han vuelto."
 
 #: game/story/home_player_hallway.dialogue
 msgctxt "ATTEND_UN_PEU_QUE_MACUMBA_N_RE_37BF3E"
 msgid "Attends un peu que {{macumba.n}} revienne et tu verras.."
-msgstr ""
+msgstr "Espera un poco a que vuelva {{macumba.n}} y ya verás..."
 
 #: game/story/home_player_hallway.dialogue
 msgctxt "DE_PLUS_LE_P_RE_DE_L_UNE_DE_CE_019B30"
 msgid "De plus, le père de l'un de ces trois idiots n'est autre que l'inspecteur de police qui était venu chez nous..."
 msgstr ""
+"Además, el padre de uno de estos tres idiotas no es otro que el inspector de "
+"policía que vino a nuestra casa..."
 
 #: game/story/home_player_hallway.dialogue
 msgctxt "BON_SANG_NE_ME_DIS_PAS_QUE_9254D9"
 msgid "Bon sang ne me dis pas que..."
-msgstr ""
+msgstr "Por Dios, no me digas que..."
 
 #: game/story/home_player_hallway.dialogue
 msgctxt "IL_NE_L_A_PAS_LAISS_FAIRE_NE_T_5E209D"
 msgid "Il ne l'a pas laissé faire, ne t'inquiète pas..."
-msgstr ""
+msgstr "No le dejó hacerlo, no te preocupes..."
 
 #: game/story/home_player_hallway.dialogue
 msgctxt "MA_CH_RIE_CHAQUE_JOUR_QUI_PASS_1CAB8F"
 msgid "Ma chérie, chaque jour qui passe et je suis de plus en plus inquiète, cette situation semble être de plus en plus hors de contrôle."
 msgstr ""
+"Cariño, cada día que pasa estoy más preocupada, esta situación parece estar "
+"cada vez más fuera de control."
 
 #: game/story/home_player_hallway.dialogue
 msgctxt "CA_CA_VA_ALLER_B99D81"
 msgid "Ça... ça va aller ?"
-msgstr ""
+msgstr "¿Estarás... estarás bien?"
 
 #: game/story/home_player_hallway.dialogue
 msgctxt "OUI_JE_NE_ME_LAISSERAIS_PAS_AB_04C32D"
 msgid "Oui ! Je ne me laisserai pas abattre pour autant."
-msgstr ""
+msgstr "¡Sí! No dejaré que eso me desanime."
 
 #: game/story/home_player_hallway.dialogue
 msgctxt "J_AI_ENCORE_DE_LA_RESSOURCE_ET_887E51"
 msgid "J'ai encore de la ressource et certains contacts qui pourraient peut-être être utile."
-msgstr ""
+msgstr "Todavía tengo recursos y algunos contactos que podrían ser útiles."
 
 #: game/story/home_player_hallway.dialogue
 msgctxt "M_ME_SI_J_AURAIS_PR_F_R_LAISSE_4F57FD"
 msgid "Même si j'aurais préféré laisser tout ça derrière moi..."
-msgstr ""
+msgstr "Aunque hubiera preferido dejar todo eso atrás..."
 
 #: game/story/city.dialogue
 msgctxt "city_dbd25961"
@@ -66245,96 +66249,114 @@ msgstr ""
 msgctxt "FONT_SIZE_14_LE_FAIT_QU_ILS_N_2828BD"
 msgid "[font_size=14]Le fait qu'ils n'aient jamais été inquiétés, peu importe ce qu'ils font.[/font_size]"
 msgstr ""
+"[font_size=14]El hecho de que nunca han sido molestados, sin importar lo que "
+"hagan.[/font_size]"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "FONT_SIZE_14_IL_A_D_PENSER_QU_720A35"
 msgid "[font_size=14]Il a dû penser que son père le couvrirait, peu importe ce qu'il fait.[/font_size]"
 msgstr ""
+"[font_size=14]Debió pensar que su padre lo cubriría, hiciera lo que "
+"hiciera.[/font_size]"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "FONT_SIZE_14_RIEN_QUE_D_IMAGI_9D8486"
 msgid "[font_size=14]Rien que d'imaginer {{takeo.n}} se faire punir par ses parents suffit à refaire ma journée... non, attends... ma semaine ![/font_size]"
 msgstr ""
+"[font_size=14]Solo imaginarme a {{takeo.n}} siendo castigado por sus padres "
+"me alegra el día... no, espera... ¡la semana![/font_size]"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "ON_ON_VA_TE_LAISSER_ON_SE_RETR_A61ACE"
 msgid "On... On va te laisser, on se retrouve plus tard..."
-msgstr ""
+msgstr "Os... Os dejamos ir, nos vemos más tarde..."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "OH_QUE_NON_IL_N_Y_A_AUCUN_MOYE_3322A2"
 msgid "Oh que non ! Il n'y a aucun moyen que je laisse mon fils traîner avec des délinquants comme vous."
 msgstr ""
+"¡Ni hablar! De ninguna manera voy a dejar que mi hijo se junte con "
+"delincuentes como ustedes."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "MAIS_PAPA_JE_2DCA85"
 msgid "Mais papa... Je..."
-msgstr ""
+msgstr "Pero papá... Yo..."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "SILENCE_TU_VAS_RENTRER_LA_MAIS_9240C5"
 msgid "Silence ! Tu vas rentrer à la maison, te changer et étudier !"
-msgstr ""
+msgstr "¡Silencio! ¡Vas a volver a casa, a cambiarte y a estudiar!"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "JE_NE_SUIS_PLUS_UN_GAMIN_J_AI_332907"
 msgid "Je ne suis plus un gamin, j'ai passé 18 ans tu le sais !"
-msgstr ""
+msgstr "Ya no soy un niño, ¡tengo más de 18 años, ya lo sabes!"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "CA_N_A_AUCUN_RAPPORT_2CF17C"
 msgid "Ça n'a aucun rapport..."
-msgstr ""
+msgstr "Eso no tiene nada que ver..."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "C_EST_TOUJOURS_PAREIL_AVEC_TOI_4F9D7A"
 msgid "C'est toujours pareil avec toi, je ne peux jamais m'expliquer !"
-msgstr ""
+msgstr "Siempre es lo mismo contigo, ¡nunca puedo explicarme!"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "TU_VEUX_VIVRE_TA_VIE_COMME_TU_79BBE7"
 msgid "Tu veux vivre ta vie comme tu l'entends ? Alors trouve-toi un travail et un appartement."
 msgstr ""
+"¿Quieres vivir tu vida como tú quieras? Entonces búscate un trabajo y un "
+"apartamento."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "TANT_QUE_TU_VIVRAS_SOUS_MON_TO_952C8D"
 msgid "Tant que tu vivras sous mon toit, tu obéiras à mes règles !"
-msgstr ""
+msgstr "Mientras vivas bajo mi techo, ¡obedecerás mis reglas!"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "FONT_SIZE_14_HAHA_LE_MALAISE_8FB68F"
 msgid "[font_size=14]Haha, le malaise... J'ai presque de la peine pour lui.[/font_size]"
 msgstr ""
+"[font_size=14]Jaja, qué incómodo... Casi siento pena por él.[/font_size]"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "FONT_SIZE_14_JE_N_AIME_PAS_A_98AF7C"
 msgid "[font_size=14]Je n'aime pas ça, ça me donne l'impression qu'il s'adresse aussi à moi.[/font_size]"
 msgstr ""
+"[font_size=14]No me gusta, me da la sensación de que también me está "
+"hablando a mí.[/font_size]"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "VOUS_DEUX_JE_VOUS_AI_L_IL_SI_J_760410"
 msgid "Vous deux ! Je vous ai à l'œil, si je vous recroise, vous êtes morts !"
-msgstr ""
+msgstr "¡Vosotros dos! Os tengo vigilados, si os vuelvo a ver, estáis muertos."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "MONSIEUR_L_AGENT_VOUS_AVEZ_ENT_EAE482"
 msgid "Monsieur l'agent, vous avez entendu comme moi ? Cet individu a proféré des menaces de mort à mon encontre !"
 msgstr ""
+"Agente, ¿ha oído lo mismo que yo? ¡Este individuo me ha amenazado de muerte!"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "JE_ME_FICHE_PERDUMENT_DE_CE_QU_792147"
 msgid "Je me fiche éperdument de ce qui peut t'arriver, et si ça ne tenait qu'à moi, je t'aurais déjà refroidi il y a longtemps."
 msgstr ""
+"Me da igual lo que te pueda pasar, y si fuera por mí, esto habría terminado "
+"hace mucho tiempo."
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "VOTRE_EXISTENCE_NE_TIENT_PLUS_3696B5"
 msgid "Votre existence ne tient plus qu'au bon vouloir d'une seule personne. Médite là-dessus et agis en conséquence !"
 msgstr ""
+"Tu existencia depende ahora únicamente de la voluntad de una sola persona. ¡"
+"Reflexiona sobre ello y actúa en consecuencia!"
 
 #: game/story/home_player_exterior.dialogue
 msgctxt "LAISSE_TOMBER_VIENS_LA_MAISON_61C231"
 msgid "Laisse tomber, viens à la maison..."
-msgstr ""
+msgstr "Déjalo estar, ven a casa..."
 
 #: game/story/love_hotel_exterior.dialogue
 msgctxt "love_hotel_exterior_70c72a3d"
