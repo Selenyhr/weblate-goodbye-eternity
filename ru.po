@@ -112,7 +112,7 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-11-28 10:37+0100\n"
-"PO-Revision-Date: 2025-12-02 15:23+0000\n"
+"PO-Revision-Date: 2025-12-02 22:54+0000\n"
 "Last-Translator: Armi torosh <maratahinkov@gmail.com>\n"
 "Language-Team: Russian <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/ru/>\n"
@@ -39189,23 +39189,23 @@ msgstr "Я не поддерживаю подобные манипуляции."
 msgctxt "SOYEZ_PLUS_HONN_TE_AVEC_MOI_ET_DB4EDA"
 msgid "Soyez plus honnête avec moi et j’y réfléchirai, car après tout je serai la personne qui prendra les risques."
 msgstr ""
-"Будьте честны со мной, и я подумаю, потому что, в конце концов, я беру на "
-"себя все риски."
+"Будь честнее со мной, и я подумаю над этим, потому что в конце концов "
+"рисковать буду я."
 
 #: game/story/restaurant_interior.dialogue
 msgctxt "OUI_VOUS_AVEZ_RAISON_JE_VOUS_D51042"
 msgid "... Oui vous avez raison, je vous demande de faire le sale boulot à ma place."
-msgstr "…Да, ты права. Я прошу тебя сделать всю грязную работу за меня."
+msgstr "…Да, ты права. Я прошу тебя сделать грязную работу для меня."
 
 #: game/story/restaurant_interior.dialogue
 msgctxt "MON_AMOUR_SERA_RECONNAISSANT_J_933558"
 msgid "Mon amour sera reconnaissant, je le sais. Mais vous ?"
-msgstr "Моя любовь будет благодарна, я знаю это. Но вы?"
+msgstr "Мой возлюбленный будет благодарен, я в курсе. А что насчёт тебя?"
 
 #: game/story/restaurant_interior.dialogue
 msgctxt "QUE_ME_PROPOSEZ_VOUS_EN_CHANGE_847A04"
 msgid "Que me proposez-vous en échange de sauver votre amie ?"
-msgstr "Что ты предлагаешь мне в обмен на спасение своего друга?"
+msgstr "Что ты мне предлагаешь в обмен на спасение своей подруги?"
 
 #: game/story/restaurant_interior.dialogue
 msgctxt "SERIEZ_VOUS_PR_TE_RENONCER_SAI_F52D24"
@@ -39215,7 +39215,7 @@ msgstr "Ты готова расстаться с {{saito.n}}?"
 #: game/story/restaurant_interior.dialogue
 msgctxt "NE_POUSSE_PAS_LE_BOUCHON_TROP_B96C6D"
 msgid "Ne pousse pas le bouchon trop loin !"
-msgstr "Не испытывай свою удачу!"
+msgstr "Не перегибай палку!"
 
 #: game/story/restaurant_interior.dialogue
 msgctxt "OH_VOIL_DONC_VOTRE_VRAI_VISAGE_B7FEA2"
@@ -39226,7 +39226,7 @@ msgstr "Оу! Хотя бы, ты показала своё истинное л�
 msgctxt "J_IRAI_SAUVER_VOTRE_AMIE_CAR_I_D563F4"
 msgid "J’irai sauver votre amie, car imaginer que vous m’en devrez une me comble de joie."
 msgstr ""
-"Я спасу твоего друга, потому что одна мысль о том, что ты мне должна, "
+"Я спасу твою подругу, потому что одна мысль о том, что ты мне должна, "
 "наполняет меня радостью."
 
 #: game/story/restaurant_interior.dialogue
@@ -52621,17 +52621,17 @@ msgstr "Добрый вечер, офицер..."
 #: game/story/home_asami_exterior.dialogue
 msgctxt "RIEN_SIGNALER_DES_VISITES_PEUT_EB745B"
 msgid "Rien à signaler ? Des visites peut-être ?"
-msgstr ""
+msgstr "Есть о чем сообщить? Может быть, какие-нибудь гости?"
 
 #: game/story/home_asami_exterior.dialogue
 msgctxt "IL_Y_A_EFFECTIVEMENT_EU_LA_VIS_99F5F7"
 msgid "Il y a effectivement eu la visite d'une femme aux cheveux roux, se disant être son amie."
-msgstr ""
+msgstr "К ней приходила рыжеволосая женщина, утверждавшая, что она ее подруга."
 
 #: game/story/home_asami_exterior.dialogue
 msgctxt "ELLE_A_T_TR_S_INSISTANTE_MAIS_EA39F2"
 msgid "Elle a été très insistante mais je l'ai renvoyée chez elle."
-msgstr ""
+msgstr "Она была очень настойчива, но я прогнал ее."
 
 #: game/story/home_asami_exterior.dialogue
 msgctxt "AAAH_C_EST_S_REMENT_YASUKA_N_B8A4C3"
@@ -52641,37 +52641,41 @@ msgstr "Аааа! Это точно {{yasuka.n}}!"
 #: game/story/home_asami_exterior.dialogue
 msgctxt "JE_NE_SAVAIS_PAS_QUE_CES_DEUX_B9276B"
 msgid "Je ne savais pas que ces deux-là se connaissaient."
-msgstr ""
+msgstr "Я не знал, что они знакомы друг с другом."
 
 #: game/story/home_asami_exterior.dialogue
 msgctxt "LE_HASARD_FAIT_DR_LEMENT_BIEN_844C4B"
 msgid "Le hasard fait drôlement bien les choses."
-msgstr ""
+msgstr "Забавно, как всё иногда складывается."
 
 #: game/story/home_asami_exterior.dialogue
 msgctxt "J_AI_TROUV_QUELQUE_CHOSE_POUR_04468D"
 msgid "J'ai trouvé quelque chose pour l'éloigner mais ça ne durera pas éternellement."
-msgstr ""
+msgstr "Я нашел способ удержать ее, но это не сможет длиться вечно."
 
 #: game/story/home_asami_exterior.dialogue
 msgctxt "LE_VOISINAGE_VA_SE_POSER_DE_PL_5DE87A"
 msgid "Le voisinage va se poser de plus en plus de questions, et au bout d'un moment, même moi ne pourrai plus y faire grand-chose."
 msgstr ""
+"Соседи начнут задавать все больше и больше вопросов, и через время даже я не "
+"смогу ничего с этим поделать."
 
 #: game/story/home_asami_exterior.dialogue
 msgctxt "VOUS_AVEZ_RAISON_C_EST_POUR_CE_E02821"
 msgid "Vous avez raison, c'est pour cela que demain soir sera le dernier jour, ce sera sa troisième dose."
 msgstr ""
+"Ты прав. Вот почему завтрашний вечер будет последним днем; это будет ее "
+"третья доза."
 
 #: game/story/home_asami_exterior.dialogue
 msgctxt "JE_RETOURNERAI_BIEN_VOIR_CETTE_329DC1"
 msgid "Je retournerai bien voir cette fameuse amie après ça..."
-msgstr ""
+msgstr "После этого я вернусь к ее знаменитой подруге..."
 
 #: game/story/home_asami_exterior.dialogue
 msgctxt "VOUS_DEVRIEZ_EN_LAISSER_UN_PEU_4DABC0"
 msgid "Vous devriez en laisser un peu pour les autres."
-msgstr ""
+msgstr "Не забудьте оставить немного для других."
 
 #: game/story/home_asami_exterior.dialogue
 msgctxt "BONSOIR_MONSIEUR_L_AGENT_TOUT_D9DBAA"
@@ -52682,11 +52686,12 @@ msgstr "Добрый вечер, офицер. Всё прошло гладко,
 msgctxt "OUI_ELLE_A_T_TR_S_CALME_J_AI_L_AC3392"
 msgid "Oui, elle a été très calme. J’ai l’impression qu’elle commence à se faire une raison."
 msgstr ""
+"Да, она была очень спокойной. Я чувствую, она приняла это как неизбежное."
 
 #: game/story/home_asami_exterior.dialogue
 msgctxt "PARFAIT_DF1B38"
 msgid "Parfait."
-msgstr ""
+msgstr "Отлично."
 
 #: game/story/home_asami_exterior.dialogue
 msgctxt "ALORS_C_EST_POUR_CE_SOIR_6FB0EB"
@@ -52696,37 +52701,41 @@ msgstr "То есть, это произойдёт сегодня вечером
 #: game/story/home_asami_exterior.dialogue
 msgctxt "OH_QUE_OUI_A_FAIT_DES_SEMAINES_1BE281"
 msgid "Oh que oui. Ça fait des semaines que j’attends ce moment."
-msgstr ""
+msgstr "О да. Я ждал этого момента несколько недель."
 
 #: game/story/home_asami_exterior.dialogue
 msgctxt "VOUS_ALLEZ_VOIR_LA_TROISI_ME_D_E8C859"
 msgid "Vous allez voir... La troisième dose, c’est quelque chose."
-msgstr ""
+msgstr "Вы увидишь... Третья доза - это нечто другое."
 
 #: game/story/home_asami_exterior.dialogue
 msgctxt "LA_FA_ON_DONT_ELLES_VOUS_REGAR_715147"
 msgid "La façon dont elles vous regardent après... comme si vous étiez tout ce qui compte pour elles."
 msgstr ""
+"То, как она смотрит на тебя после этого... как будто ты - единственное, что "
+"имеет для нее значение."
 
 #: game/story/home_asami_exterior.dialogue
 msgctxt "C_EST_A_QUE_JE_TROUVE_LE_PLUS_A9E6DC"
 msgid "C’est... ça que je trouve le plus excitant."
-msgstr ""
+msgstr "Это... то, что я нахожу самым захватывающим."
 
 #: game/story/home_asami_exterior.dialogue
 msgctxt "ET_ENSUITE_3EE1E8"
 msgid "Et ensuite ?"
-msgstr ""
+msgstr "А потом?"
 
 #: game/story/home_asami_exterior.dialogue
 msgctxt "ENSUITE_J_ESP_RE_QUE_VOUS_AVEZ_AD11BF"
 msgid "Ensuite, j’espère que vous avez prévu de quoi tenir le coup. Vous allez en avoir besoin."
 msgstr ""
+"Что ж, надеюсь, у тебя есть всё, что нужно, чтобы продержаться. Тебе это "
+"определённо понадобится."
 
 #: game/story/home_asami_exterior.dialogue
 msgctxt "HAHAHA_7D7EEC"
 msgid "Hahaha..."
-msgstr ""
+msgstr "Хахаха..."
 
 #: game/story/home_asami_exterior.dialogue
 msgctxt "BON_EH_BIEN_JE_CONSTATE_QU_IL_B5A6F3"
@@ -52736,27 +52745,27 @@ msgstr ""
 #: game/story/home_asami_exterior.dialogue
 msgctxt "QUEL_SACR_VEINARD_QUAND_M_ME_J_1C7C82"
 msgid "Quel sacré veinard quand même, j'aurais bien voulu être à sa place."
-msgstr ""
+msgstr "Какой сука везучий ублюдок. Хотел бы я быть на его месте."
 
 #: game/story/home_asami_exterior.dialogue
 msgctxt "DES_FEMMES_AUSSI_SEXY_QU_ELLE_673172"
 msgid "Des femmes aussi sexy qu'elle, c'est pas monnaie courante..."
-msgstr ""
+msgstr "Такие сексуальные женщины, как она, встречаются довольно редко..."
 
 #: game/story/home_asami_exterior.dialogue
 msgctxt "QUEL_G_CHIS_DE_LA_DONNER_UN_GR_B334D1"
 msgid "Quel gâchis de la donner à un gros porc pareil."
-msgstr ""
+msgstr "Какая же потеря - отдавать ее какой-то жирной свинье."
 
 #: game/story/home_asami_exterior.dialogue
 msgctxt "ET_SI_JE_JETAIS_UN_PETIT_COUP_D97295"
 msgid "Et si je jetais un petit coup d'œil ?"
-msgstr ""
+msgstr "А что, если я немного взгляну?"
 
 #: game/story/home_asami_exterior.dialogue
 msgctxt "W_NON_EN_FAIT_J_AI_PAS_ENVIE_02B2F6"
 msgid "...[w] Non, en fait... j’ai pas envie de faire des cauchemars ce soir."
-msgstr ""
+msgstr "...[w] Хотя нет... Мне что-то не хочется видеть кошмары этой ночью."
 
 #: game/story/home_asami_exterior.dialogue
 msgctxt "ALLEZ_C_EST_PLI_JE_RENTRE_CHEZ_3AF28C"
@@ -55347,122 +55356,125 @@ msgstr "Тогда, чего ты ждешь?"
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "BORDEL_CE_N_EST_PLUS_POSSIBLE_ED2BE1"
 msgid "Bordel... Ce n'est plus possible !"
-msgstr ""
+msgstr "Блять... Это уже невозможно!"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "JE_D_TESTE_CETTE_SITUATION_00B4A0"
 msgid "Je déteste cette situation !"
-msgstr ""
+msgstr "Я ненавижу эту ситуацию!"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "JE_D_TESTE_RESTER_COINC_E_ICI_6687E5"
 msgid "Je déteste rester coincée ici !"
-msgstr ""
+msgstr "Я ненавижу торчать здесь!"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "JE_D_TESTE_CES_FOUTUS_THUGS_582AE7"
 msgid "Je déteste ces foutus thugs !"
-msgstr ""
+msgstr "Я блять ненавижу этих ебаных гопников!"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "JE_D_TESTE_CE_PUTAIN_DE_FLIC_A7B174"
 msgid "Je déteste ce putain de flic !"
-msgstr ""
+msgstr "Я блять ненавижу этого копа!"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "JE_LES_D_TESTE_TOUS_68AC10"
 msgid "Je les déteste tous !!!"
-msgstr ""
+msgstr "Я их всех блять ненавижу!"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "RHAAAAA_786D8E"
 msgid "Rhaaaaa !"
-msgstr ""
+msgstr "Аааррргх!"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "JE_VAIS_DEVENIR_FOLLE_ABCA98"
 msgid "Je vais devenir folle..."
-msgstr ""
+msgstr "Я схожу с ума..."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "MAMAN_B7A376"
 msgid "Maman...!"
-msgstr ""
+msgstr "Мам...!"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "JE_DEVIENS_FOLLE_JE_NE_PARVIEN_B9E7A7"
 msgid "Je deviens folle, je ne parviens plus à rester calme !"
-msgstr ""
+msgstr "Я схожу с ума! Я просто больше не могу оставаться спокойной!"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "COMMENT_FAIS_TU_POUR_NE_PAS_EX_5E58CC"
 msgid "Comment fais-tu pour ne pas exploser ?"
-msgstr ""
+msgstr "Как тебе удается не нервничать?"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "J_AI_JUSTE_ENVIE_D_HURLER_849585"
 msgid "J'ai juste envie d'hurler..."
-msgstr ""
+msgstr "Я просто хочу закричать..."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "MAMAN_W_TOUT_VA_BIEN_9E14F0"
 msgid "Maman ?[w] Tout va bien ?"
-msgstr ""
+msgstr "Мам? Ты в порядке?"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "JE_SUIS_D_SOL_E_MA_CH_RIE_JE_S_08CE73"
 msgid "Je suis désolée ma chérie, je suis un peu préoccupée en ce moment."
-msgstr ""
+msgstr "Прости, милая. У меня сейчас столько всего на уме."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "TU_PARLES_DE_SAITO_N_ED978A"
 msgid "Tu parles de {{saito.n}} ?"
-msgstr ""
+msgstr "Ты имеешь в виду {{saito.n}}?"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "PAS_SEULEMENT_SAYURI_N_LA_M_RE_35E8EA"
 msgid "Pas seulement... {{sayuri.n}}, la mère d'{{asami.n}}, est coincée chez elle depuis deux jours. Ils ont également un agent de police qui la surveille."
 msgstr ""
+"Не только это... {{sayuri.n}}, мать {{asami.n}}, уже два дня заперта в своем "
+"доме. За ней наблюдает полицейский."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "COMME_NOUS_E65F81"
 msgid "Comme nous..."
-msgstr ""
+msgstr "Как и мы..."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "NON_C_EST_DIFF_RENT_ILS_M_EMP_D95AC9"
 msgid "Non, c'est différent, ils m'empêchent d'aller la voir."
-msgstr ""
+msgstr "Нет, я про другое. Они не дают мне навещать ее."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "JE_L_AI_ENTENDUE_CRIER_ET_JE_N_D37873"
 msgid "Je l'ai entendue crier et je ne crois pas à leurs explications."
-msgstr ""
+msgstr "Я слышала, как она кричала, и я не верю их объяснениям."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "ILS_SONT_S_REMENT_EN_TRAIN_DE_E0B82F"
 msgid "Ils sont sûrement en train de lui faire quelque chose et il m'est impossible de lui venir en aide."
 msgstr ""
+"Они наверняка прямо сейчас что-то с ней делают, а я никак не могу ей помочь."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "ILS_CACHENT_D_FINITIVEMENT_QUE_E4962B"
 msgid "Ils cachent définitivement quelque chose..."
-msgstr ""
+msgstr "Они точно что-то скрывают..."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "TOUT_A_EST_COMPL_TEMENT_FOU_D06408"
 msgid "Tout ça est complètement fou !"
-msgstr ""
+msgstr "Всё это полное сумасшествие!"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "TU_VEUX_DIRE_QU_ILS_SONT_TOUS_8BCDD4"
 msgid "Tu veux dire qu'ils sont tous corrompus ?"
-msgstr ""
+msgstr "Ты хочешь сказать, что они все коррумпированы?"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "JE_NE_SAIS_PAS_0E0A05"
 msgid "Je ne sais pas..."
-msgstr ""
+msgstr "Я не знаю..."
 
 #: game/story/restaurant_sakuya_room.dialogue
 msgctxt "JE_NE_SAIS_PAS_43CAAA"
@@ -55472,32 +55484,32 @@ msgstr "Я не знаю..."
 #: game/story/home_natsume_natsume_room.dialogue
 msgctxt "JE_NE_SAIS_PAS_4EEBE9"
 msgid "Je ne sais pas..."
-msgstr ""
+msgstr "Я не знаю..."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "J_AI_BEAU_ME_CREUSER_LA_T_TE_J_C53737"
 msgid "J'ai beau me creuser la tête, je ne trouve pas de solution."
-msgstr ""
+msgstr "Я как ни стараюсь, не могу найти решение."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "TROUVER_DE_L_AIDE_EST_COMPLIQU_B89A50"
 msgid "Trouver de l'aide est compliqué quand tu ne sais plus à qui tu peux faire confiance."
-msgstr ""
+msgstr "Найти помощь сложно, когда не знаешь, кому можно доверять."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "C_EST_DONC_UNE_SITUATION_D_SES_ED0891"
 msgid "C'est donc une situation désespérée... hmmm..."
-msgstr ""
+msgstr "Так что это безнадёжная ситуация... Хах..."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "DANS_CE_CAS_J_AI_PEUT_TRE_QUEL_37553A"
 msgid "Dans ce cas, j'ai peut-être quelqu'un de parfait pour ça !"
-msgstr ""
+msgstr "В таком случае, у меня есть идеальный кандидат для этого!"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "SUIS_MOI_0A0AA7"
 msgid "Suis-moi !"
-msgstr ""
+msgstr "Иди за мной!"
 
 #: game/story/park.dialogue
 msgctxt "menu_macumba_d0ba0d92"
@@ -55507,12 +55519,12 @@ msgstr "Иди за мной!"
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "O_ALLONS_NOUS_472BDB"
 msgid "Où allons-nous ?"
-msgstr ""
+msgstr "Куда мы идем?"
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "FAIS_MOI_CONFIANCE_18E321"
 msgid "Fais-moi confiance !"
-msgstr ""
+msgstr "Доверься мне!"
 
 #: game/story/sewers.dialogue
 msgctxt "FAIS_MOI_CONFIANCE_19DEBA"
@@ -56077,7 +56089,7 @@ msgstr "Ну вот и всё."
 #: game/story/home_asami_sayuri_room.dialogue
 msgctxt "ET_VOIL_BF3FC2"
 msgid "Et voilà."
-msgstr ""
+msgstr "Вот так-то."
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "restaurant_exterior_f559356f"
@@ -57122,17 +57134,17 @@ msgstr "Так... Если я залезу вот сюда.. То смогу..."
 #: game/story/restaurant_exterior.dialogue
 msgctxt "A_SUFFIT_ALLEZ_VOUS_EN_VOUS_F_47EB34"
 msgid "Ça suffit allez-vous-en, vous faites fuir les clients !"
-msgstr ""
+msgstr "Хватит, убирайтесь, вы отпугиваете клиентов!"
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "JE_REGRETTE_MAIS_IL_FAUDRA_VOU_363268"
 msgid "Je regrette mais il faudra vous y faire, ce n'est que temporaire !"
-msgstr ""
+msgstr "Мне жаль, но вам придется с этим смириться, это временно!"
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "TEMPORAIRE_MON_CUL_OUI_90E559"
 msgid "Temporaire mon cul oui !"
-msgstr ""
+msgstr "Временно, блять!"
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "A_FAIT_D_J_TROIS_JOURS_ET_VOU_51C084"
@@ -57143,21 +57155,27 @@ msgstr ""
 msgctxt "MONSIEUR_VOUS_ALLEZ_BAISSER_D_4CA299"
 msgid "Monsieur, vous allez baisser d'un ton ! Je vous ai déjà expliqué que nous devons placer sous surveillance les lieux où notre fugitif pourrait se réfugier."
 msgstr ""
+"Сэр, вам следует говорить тише! Я уже объяснял, что нам необходимо вести "
+"наблюдение за местами, где может укрыться наш беглец."
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "J_AI_D_J_DIT_QUE_CE_GAR_ON_N_A_0A5D15"
 msgid "J'ai déjà dit que ce garçon n'a pas pu faire ce dont vous l'accusez ! C'est impossible !"
 msgstr ""
+"Я уже говорил, что мальчик не мог совершить то, в чём вы его обвиняете! Это "
+"невозможно!"
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "VOUS_POUVIEZ_TOUJOURS_FAIRE_A_AC4CF2"
 msgid "Vous pouviez toujours faire ça discrètement et mettre quelqu'un en planque."
 msgstr ""
+"В конце концов, вы можете сделать это незаметно, установив скрытое "
+"наблюдение."
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "TOUT_A_RESSEMBLE_BIEN_TROP_DE_8F180A"
 msgid "Tout ça ressemble bien trop à de l'intimidation !"
-msgstr ""
+msgstr "Все это похоже на запугивание!"
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "CE_SONT_DES_M_THODES_DE_MAFIEU_9EC586"
@@ -57168,31 +57186,37 @@ msgstr ""
 msgctxt "CONTINUEZ_COMME_A_ET_JE_VAIS_D_F23B09"
 msgid "Continuez comme ça et je vais demander au service de l'hygiène de faire une petite inspection..."
 msgstr ""
+"Продолжайте в том же духе, и я попрошу департамент здравоохранения провести "
+"небольшую проверку..."
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "DONC_JE_NE_R_VAIS_PAS_CE_SONT_20F8B4"
 msgid "Donc je ne rêvais pas, ce sont bien des menaces ! Eh bien allez-y ! Mon restaurant est impeccable !"
 msgstr ""
+"Так, мне не снится... Это действительно угрозы! Что ж, дерзайте! Мой "
+"ресторан безупречен!"
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "LES_TOILETTES_SONT_TELLEMENT_P_05641D"
 msgid "Les toilettes sont tellement propres qu'on–"
-msgstr ""
+msgstr "Туалеты настолько чистые, что мы–"
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "LAISSEZ_TOMBER_W_QU_EST_CE_QUE_A2E087"
 msgid "Laissez tomber...[w] Qu'est-ce que je peux faire pour vous ?"
-msgstr ""
+msgstr "Забудьте...[w] Чем я могу вам помочь?"
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "ON_EST_VENUES_VOIR_SAKUYA_N_85A37B"
 msgid "On est venues voir {{sakuya.n}} !"
-msgstr ""
+msgstr "Мы пришли увидеться с {{sakuya.n}}!"
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "JE_VEUX_SAVOIR_CE_QUE_VOUS_LU_76766E"
 msgid "... Je veux savoir ce que vous lui voulez ! La maintenir ici est déjà une épreuve en soi."
 msgstr ""
+"Я хочу знать, чего вы от нее хотите! Держать ее здесь - уже само по себе "
+"испытание."
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "CETTE_SITUATION_TANT_D_J_BIEN_43AA36"
@@ -57202,7 +57226,7 @@ msgstr ""
 #: game/story/restaurant_exterior.dialogue
 msgctxt "C_EST_IMPORTANT_S_IL_VOUS_PLA_52B16C"
 msgid "C'est important, s'il vous plaît..."
-msgstr ""
+msgstr "Пожалуйста, это важно..."
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "PAPA_C_EST_BON_LAISSE_LES_ENTR_CF6A63"
@@ -57213,6 +57237,8 @@ msgstr ""
 msgctxt "J_AI_UN_PETIT_CREUX_PEUT_TRE_P_CFD0A2"
 msgid "J'ai un petit creux, peut-être pouvez-vous nous servir votre spécialité le temps que nous discutions avec votre fille ?"
 msgstr ""
+"Я немного голодна. Не могли бы вы подать нам своё особое блюдо, пока мы "
+"общаемся с вашей дочерью?"
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "TU_PEUX_T_OCCUPER_DE_A_CEAC76"
@@ -57243,6 +57269,8 @@ msgstr ""
 msgctxt "ELLE_AVAIT_RAISON_JE_LUI_DEMAN_006B76"
 msgid "Elle avait raison, je lui demande de prendre des risques pour moi car je ne peux pas le faire."
 msgstr ""
+"Она была права, я прошу ее рискнуть ради меня, потому что сама не могу этого "
+"сделать."
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "C_EST_ELLE_QUI_SE_RETROUVERA_L_15DD2D"
@@ -57258,21 +57286,26 @@ msgstr ""
 msgctxt "CE_N_EST_PAS_COMME_SI_NOUS_AVI_F801D3"
 msgid "Ce n'est pas comme si nous avions le choix non plus, je devais faire mon possible pour {{sayuri.n}}."
 msgstr ""
+"Как будто бы у нас есть выбор. Я должна сделать для {{sayuri.n}} всё, что в "
+"моих силах."
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "JE_SAIS_BIEN_W_MAIS_W_C_EST_CO_2FBFDE"
 msgid "Je sais bien...[w] mais...[w] c'est comme ça aussi que {{saito.n}} gérait ses problèmes."
 msgstr ""
+"Я понимаю...[w] Но...[w] Точно так же {{saito.n}} и решал свои проблемы."
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "CHAQUE_FOIS_QU_IL_PENSAIT_EN_A_0E93E2"
 msgid "Chaque fois qu'il pensait en avoir fini, il y en avait un nouveau qui apparaissait."
-msgstr ""
+msgstr "Каждый раз, когда он думал, что справился, появлялась новая."
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "W_QUOI_QU_IL_EN_SOIT_ME_VOIL_E0F5BD"
 msgid "...[w] Quoi qu'il en soit, me voilà avec une rivale bien plus problématique que prévu..."
 msgstr ""
+"...[w]В любом случае, на этот раз я столкнулась с соперницей, которая "
+"оказалась гораздо более проблемной, чем я ожидала..."
 
 #: game/story/restaurant_exterior.dialogue
 msgctxt "PEUT_TRE_QU_L_AVENIR_CERTAINES_BC5C11"
@@ -57342,7 +57375,7 @@ msgstr "Хехе..."
 #: game/story/home_natsume_natsume_room.dialogue
 msgctxt "H_H_05296B"
 msgid "Héhé..."
-msgstr "Хе-хе..."
+msgstr "Хехе..."
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "menu_asami_room_waiting_e61642e6"
@@ -84965,122 +84998,135 @@ msgstr "У меня нет слов, чтобы описать, как силь�
 #: game/story/home_minato_basement.dialogue
 msgctxt "IL_PARA_T_QUE_TU_FAIS_BEAUCOUP_410243"
 msgid "Il paraît que tu fais beaucoup de bruit, que se passe-t-il ?"
-msgstr ""
+msgstr "Ты очень шумно себя ведешь, что происходит?"
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "JE_NE_SAIS_PAS_MOI_PEUT_TRE_PA_59B30A"
 msgid "Je ne sais pas, moi... Peut-être parce que j’ai été kidnappée ?"
-msgstr ""
+msgstr "Я не знаю... Может быть, потому, что меня, блядь, похитили?!"
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "ARR_TE_A_TU_NE_TE_RENDS_PAS_SE_43E824"
 msgid "Arrête ça, tu ne te rends pas service."
-msgstr ""
+msgstr "Перестань, ты себе не помогаешь."
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "POURQUOI_JE_T_COUTERAIS_EE65EC"
 msgid "Pourquoi je t’écouterais ?"
-msgstr ""
+msgstr "С чего бы мне тебя слушать?"
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "TU_AS_D_CID_DE_R_AGIR_COMME_UN_1C3322"
 msgid "Tu as décidé de réagir comme une gamine, soit."
-msgstr ""
+msgstr "Так, ты решила вести себя как ебучий ребенок. Отлично."
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "IMAGINONS_UN_INSTANT_QUE_TU_CO_A8D9F4"
 msgid "Imaginons un instant que tu continues, que va-t-il se passer selon toi ?"
-msgstr ""
+msgstr "Давай представим, вот ты продолжаешь, что, по-твоему, произойдет?"
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "QUELQU_UN_FINIRA_BIEN_PAR_M_EN_EE1BEF"
 msgid "Quelqu’un finira bien par m’entendre !"
-msgstr ""
+msgstr "Кто-нибудь же меня услышит!"
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "NON_TOUT_EST_INSONORIS_CDA38E"
 msgid "Non, tout est insonorisé."
-msgstr ""
+msgstr "Нет, все звукоизолировано."
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "W_AU_MOINS_A_EMMERDE_MINATO_N_7F1F14"
 msgid "...[w] Au moins ça emmerde {{minato.n}} ! C’est toujours ça de gagné !"
 msgstr ""
+"...[w]По крайней мере, это бесит {{minato.n}}! Это уже победа сама по себе!"
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "TU_PENSES_TROP_COURT_TERME_404EF8"
 msgid "Tu penses trop à court terme..."
-msgstr ""
+msgstr "Ты мыслишь слишком краткосрочно..."
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "SI_TU_FAIS_A_TROP_LONGTEMPS_OU_6C9D56"
 msgid "Si tu fais ça trop longtemps ou trop souvent, il prendra des mesures pour que tu ne puisses plus le faire."
 msgstr ""
+"Если ты будешь делать это слишком долго или слишком часто, он примет меры, "
+"чтобы ты больше не смогла этого делать."
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "TU_AS_ENVIE_DE_PASSER_JOUR_ET_4F8713"
 msgid "Tu as envie de passer jour et nuit avec un bâillon dans la bouche ? Il te le fera garder en permanence et tu ne finiras par t’alimenter qu’avec une paille."
 msgstr ""
+"Ты хочешь провести день и ночь с кляпом во рту? Он заставит тебя носить его "
+"постоянно, в конце концов ты будешь питаться только через соломинку."
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "PFFF_DE_TOUTE_FA_ON_J_ALLAIS_A_2F9987"
 msgid "Pfff... De toute façon j’allais arrêter, ça me fait mal à la gorge."
-msgstr ""
+msgstr "Пффф... Я все равно собиралась перестать. У меня болит горло."
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "NATSUME_N_COMMENT_VA_SAITO_N_6ED5A2"
 msgid "{{natsume.n}}... Comment va {{saito.n}} ? Est-ce qu’il va bien ?"
-msgstr ""
+msgstr "{{natsume.n}}... Как дела у {{saito.n}} Он в порядке?"
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "R_PONDS_D_ABORD_MA_QUESTION_QU_59C8A2"
 msgid "... Réponds d’abord à ma question, quel genre de lien vous avez pour qu’il essaie aussi fort de te sauver ?"
 msgstr ""
+"Сначала ответь на мой вопрос: что за связь между вами, которая заставляет "
+"его так стараться спасти тебя?"
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "CO_COMMENT_A_ME_SAUVER_851DF3"
 msgid "Co-comment ça, me sauver ?"
-msgstr ""
+msgstr "Что значит «спасти меня»?"
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "SA_VIE_EST_LITT_RALEMENT_FOUTU_E3C5E2"
 msgid "Sa vie est littéralement foutue, on lui a collé une réputation de meurtrier, il est recherché par la police, et au lieu de penser à lui et de se faire oublier..."
 msgstr ""
+"Его жизнь разъёбана, за ним закрепилась репутация убийцы, его разыскивает "
+"полиция. Вместо того, чтобы подумать о себе и исчезнуть..."
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "IL_N_A_TOUJOURS_QU_UNE_SEULE_I_73C88B"
 msgid "Il n’a toujours qu’une seule idée en tête, c’est de venir te tirer de là !"
-msgstr ""
+msgstr "У него по-прежнему на уме только одно: вытащить тебя отсюда!"
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "VOUS_VOUS_CONNAISSEZ_QUE_DEPUI_3BA755"
 msgid "Vous vous connaissez que depuis peu, donc pourquoi ce lien est-il si fort ?"
-msgstr ""
+msgstr "Вы едва знакомы, так почему же ваша связь так крепка?"
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "LE_PIRE_DANS_TOUT_A_C_EST_QUE_7FC428"
 msgid "Le pire dans tout ça, c’est que je partage ton avis... Je ne sais pas pourquoi il est prêt à faire tout ça."
 msgstr ""
+"Хуже всего то, что я в таком же непонимании, как и ты... Не знаю, почему он "
+"готов на всё это."
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "MAIS_JE_N_AI_JAMAIS_T_AUSSI_HE_EA67DF"
 msgid "Mais je n’ai jamais été aussi heureuse !"
-msgstr ""
+msgstr "Но я никогда не была так счастлива!"
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "IL_M_A_FAIT_PASSER_UN_MESSAGE_2676E4"
 msgid "Il m’a fait passer un message pour toi !"
-msgstr ""
+msgstr "Он попросил меня передать тебе сообщение!"
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "QUOI_UN_MESSAGE_DE_SAITO_N_QUA_1A875D"
 msgid "Quoi, un message de {{saito.n}} ? Quand ? Il sait ce que je suis—"
-msgstr ""
+msgstr "Что, сообщение от {{saito.n}}? Когда? Он знает, что я—"
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "DIS_LUI_DE_GARDER_ESPOIR_JE_V_C7EFB6"
 msgid "\"Dis-lui de garder espoir. Je vais définitivement trouver une solution pour la sortir de là.\""
 msgstr ""
+"\"Скажи ей, чтобы она продолжала надеяться. Я обязательно найду способ, как "
+"вытащить ее оттуда.\""
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "CET_IDIOT_EC6303"
@@ -85090,32 +85136,34 @@ msgstr "Этот придурок..."
 #: game/story/home_minato_basement.dialogue
 msgctxt "C_EST_CE_QUE_JE_PENSAIS_AUSSI_EB5EC2"
 msgid "C’est ce que je pensais aussi."
-msgstr ""
+msgstr "Я тоже так думаю."
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "PARLE_MOI_UN_PEU_PLUS_DE_LUI_4039C2"
 msgid "Parle-moi un peu plus de lui !"
-msgstr ""
+msgstr "Расскажи мне о нем побольше!"
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "JE_VEUX_DIRE_QU_EST_CE_QU_IL_F_D3747E"
 msgid "Je veux dire... Qu'est-ce qu'il fait en ce moment ?"
-msgstr ""
+msgstr "Я имею в виду... Что он сейчас делает?"
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "JE_SUIS_TR_S_HEUREUSE_DE_SAVOI_E97FDA"
 msgid "Je suis très heureuse de savoir qu'il va venir me sortir de là mais comment compte-t-il s'y prendre ?"
 msgstr ""
+"Я очень рада знать, что он придет и вытащит меня отсюда, но как он "
+"собирается это сделать?"
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "JE_JE_CROIS_QU_IL_S_ENTRAINE_EEF7B5"
 msgid "... Je... je crois qu'il s'entraîne."
-msgstr ""
+msgstr "... Я... Я думаю, он тренируется."
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "IL_S_ENTRAINE_A_QUOI_0D8A55"
 msgid "Il s'entraîne à quoi ?"
-msgstr ""
+msgstr "Для чего он тренируется?"
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "A_SE_BATTRE_JE_SUPPOSE_8BF6AE"
@@ -85126,6 +85174,8 @@ msgstr ""
 msgctxt "IL_VEUT_TRE_DEVENIR_ASSEZ_FORT_822766"
 msgid "Il veut peut-être devenir assez fort pour venir casser la gueule de {{minato.n}} ?"
 msgstr ""
+"Может, он хочет стать достаточно сильным, чтобы прийти и отхуярить задницу "
+"{{minato.n}}?"
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "AVOUE_QUE_A_SERAIT_TROP_BIEN_49D946"
@@ -85135,67 +85185,69 @@ msgstr ""
 #: game/story/home_minato_basement.dialogue
 msgctxt "JE_SUIS_D_ACCORD_J_AURAIS_BIEN_5AC339"
 msgid "Je suis d'accord, j'aurais bien envie de voir ça moi aussi."
-msgstr ""
+msgstr "Согласна. Я бы тоже хотела это увидеть."
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "HAHAHA_31860B"
 msgid "Hahaha."
-msgstr ""
+msgstr "Хахаха."
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "TU_CROIS_QU_IL_Y_ARRIVERA_DF4670"
 msgid "Tu crois qu'il y arrivera ?"
-msgstr ""
+msgstr "Как думаешь, у него получится?"
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "JE_NE_SAIS_PAS_IL_A_L_AIR_VRAI_06187E"
 msgid "Je ne sais pas... Il a l'air vraiment déterminé."
-msgstr ""
+msgstr "Я не знаю... Он выглядит очень решительным."
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "COMME_S_IL_AVAIT_UN_PLAN_EN_T_340115"
 msgid "Comme s'il avait un plan en tête."
-msgstr ""
+msgstr "Как будто у него в голове есть какой-то план."
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "S_ENTRAINER_HEIN_CET_IDIOT_F2A626"
 msgid "S'entraîner hein... Cet idiot..."
-msgstr ""
+msgstr "Тренируется, да... Вот идиот..."
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "C_EST_CLAIR_C24AAB"
 msgid "C'est clair..."
-msgstr ""
+msgstr "Ага... Ты права."
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "JE_M_EN_VOUDRAIS_DE_VOULOIR_IN_9D314D"
 msgid "Je m'en voudrais de vouloir interrompre un moment aussi fraternel !"
-msgstr ""
+msgstr "Мне не хотелось прерывать такой дружеский разговор!"
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "JE_VOULAIS_JUSTE_APPORTER_UNE_25D57F"
 msgid "Je voulais juste apporter une bonne nouvelle à ma chère prisonnière préférée."
-msgstr ""
+msgstr "Я просто хотел сообщить хорошие новости моей дорогой, любимой пленнице."
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "TU_VAS_POUVOIR_TE_R_JOUIR_TU_V_2581DE"
 msgid "Tu vas pouvoir te réjouir, tu vas avoir un nouveau papa !"
-msgstr ""
+msgstr "Можешь радоваться, у тебя будет новый папа!"
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "QUOI_QU_EST_CE_QUE_C_EST_QUE_C_81F6E9"
 msgid "Quoi ?! Qu'est-ce que c'est que ces conneries ?"
-msgstr ""
+msgstr "Что?! Что за чушь?"
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "SI_VOUS_ESSAYEZ_ENCORE_VOS_JEU_BA627F"
 msgid "Si vous essayez encore vos jeux stupides pour me rendre jalouse, il va falloir trouver autre chose."
 msgstr ""
+"Если ты все еще играешь в свои глупые игры, чтобы заставить меня ревновать, "
+"тебе нужен новый план."
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "JE_N_AI_AUCUN_INT_R_T_POUR_LES_EC1CB8"
 msgid "Je n'ai aucun intérêt pour les perdants !"
-msgstr ""
+msgstr "Я не интересуюсь неудачниками!"
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "ALORS_QUOI_5D5D23"
@@ -85206,81 +85258,89 @@ msgstr ""
 msgctxt "TA_M_RE_A_PRIS_AVEC_SUCC_S_LA_E5CEB9"
 msgid "Ta mère a pris avec succès la seconde dose de X3 et ce soir je lui donnerai la dernière."
 msgstr ""
+"Твоя мать успешно приняла вторую дозу X3, и сегодня вечером я дам ей "
+"последнюю."
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "NON_VOUS_N_AVEZ_PAS_FAIT_A_0635A0"
 msgid "Non... Vous n'avez pas fait ça... ?!"
-msgstr ""
+msgstr "Нет... Ты не сделал этого...?!"
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "LA_BASE_A_DEVAIT_TRE_TOI_MAIS_4FCE90"
 msgid "À la base, ça devait être toi mais... il y a eu un changement de programme inopportun."
-msgstr ""
+msgstr "Изначально это должна была быть ты, но... Планы немного поменялись."
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "LA_NATALIT_DE_NOTRE_CHER_BEAU_26BB25"
 msgid "La natalité de notre cher beau pays étant en baisse, je me fais un devoir d'y remédier."
 msgstr ""
+"Рождаемость в нашей любимой стране падает, я считаю своим долгом исправить "
+"это."
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "JE_PEUX_T_ASSURER_QUE_JE_LA_TR_D9F2E6"
 msgid "Je peux t'assurer que je la traiterai bien, d'ici quelques années tu auras tout plein de frères et sœurs."
 msgstr ""
+"Я тебе обещаю, что буду заботиться о ней, и через несколько лет у тебя будет "
+"куча братьев и сестер."
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "DOMMAGE_QUE_TU_NE_SERAS_PAS_L_8EB23D"
 msgid "Dommage que tu ne seras pas là pour voir ça."
-msgstr ""
+msgstr "Жаль, тебя не будет рядом, чтобы увидеть это."
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "VOUS_NE_TOUCHEREZ_PAS_UN_SEUL_AF0F5C"
 msgid "Vous ne toucherez pas un seul des cheveux de ma mère !"
-msgstr ""
+msgstr "Не смей трогать ни единого волоса на голове моей матери!"
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "ET_QUI_M_EN_EMP_CHERA_0E1125"
 msgid "Et qui m'en empêchera...?"
-msgstr ""
+msgstr "И кто меня остановит...?"
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "JE_W_NATSUME_N_FAIS_QUELQUE_CH_6D212D"
 msgid "Je...[w] {{natsume.n}} fais quelque chose... Pitié..."
-msgstr ""
+msgstr "Я...[w] {{natsume.n}}, сделай что-нибудь... Пожалуйста..."
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "BREF_J_AI_DES_COURSES_FAIRE_LA_319CE5"
 msgid "Bref, j'ai des courses à faire, la soirée va être très chaude, tu crois que ta mère rentre dans ton ancien uniforme de collégienne ?"
 msgstr ""
+"В любом случае, у меня есть дела, вечер будет очень жарким. Как думаешь, "
+"твоей маме все еще идет ее старая школьная форма?"
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "NON_NE_ME_DIS_RIEN_CE_SERA_LA_7AD227"
 msgid "Non ne me dis rien, ce sera la surprise !!"
-msgstr ""
+msgstr "Нет, не говори мне. Это будет сюрприз!"
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "NATSUME_N_S_IL_TE_PLA_T_5B8396"
 msgid "{{natsume.n}}, s'il te plaît..."
-msgstr ""
+msgstr "{{natsume.n}}, пожалуйста..."
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "NE_LAISSE_PAS_CETTE_ORDURE_AVO_8C3A80"
 msgid "Ne laisse pas cette ordure avoir ce qu'il veut !"
-msgstr ""
+msgstr "Не позволь этому ублюдку добиться своего!"
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "MA_M_RE_NE_M_RITE_PAS_DE_PASSE_C4CFF9"
 msgid "Ma mère ne mérite pas de passer le reste de sa vie comme ça !"
-msgstr ""
+msgstr "Моя мама не заслуживает того, чтобы так провести остаток своей жизни!"
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "PITI_PARLE_EN_SAITO_N_ADBC96"
 msgid "Pitié... Parle-en à {{saito.n}} !"
-msgstr ""
+msgstr "Прошу... Поговори об этом с {{saito.n}}!"
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "SI_TOI_TU_NE_PEUX_PAS_PEUT_TRE_12BB9E"
 msgid "Si toi tu ne peux pas, peut-être que lui le pourra !?"
-msgstr ""
+msgstr "Если ты не сможешь, может, сможет он!?"
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "J_AI_UNE_BONNE_NOUVELLE_POUR_T_B5D02C"
@@ -86223,22 +86283,22 @@ msgstr "И... Дай мне знать, если что-нибудь найде�
 #: game/story/home_asami_sayuri_room.dialogue
 msgctxt "TU_N_ES_PAS_BLESS_E_OU_5A8AF9"
 msgid "Tu n’es pas blessée, ou...?"
-msgstr ""
+msgstr "Ты ведь не пострадала, правда...?"
 
 #: game/story/home_asami_sayuri_room.dialogue
 msgctxt "TOUT_VA_BIEN_JE_L_AI_EU_PAR_SU_159C9D"
 msgid "Tout va bien. Je l’ai eu par surprise, il n’a même pas eu le temps de réagir."
-msgstr ""
+msgstr "Всё нормально. Я застала его врасплох, он даже не успел среагировать."
 
 #: game/story/home_asami_sayuri_room.dialogue
 msgctxt "DONC_C_EST_VRAIMENT_FINI_90405A"
 msgid "Donc... c’est vraiment fini ?"
-msgstr ""
+msgstr "Так... Все реально кончено?"
 
 #: game/story/home_asami_sayuri_room.dialogue
 msgctxt "IL_NE_FERA_PLUS_JAMAIS_DE_MAL_744A82"
 msgid "Il ne fera plus jamais de mal à personne."
-msgstr ""
+msgstr "Он больше никогда никому не причинит вреда."
 
 #: game/story/home_asami_sayuri_room.dialogue
 msgctxt "BON_SANG_MERCI_MERCI_VRAIMENT_1F5408"
@@ -86248,12 +86308,12 @@ msgstr ""
 #: game/story/home_asami_sayuri_room.dialogue
 msgctxt "J_AVAIS_PERDU_ESPOIR_CET_HOMME_CFA980"
 msgid "J’avais perdu espoir. Cet homme... c’était un monstre."
-msgstr ""
+msgstr "Я потеряла всякую надежду. Этот человек... Он чудовище."
 
 #: game/story/home_asami_sayuri_room.dialogue
 msgctxt "IL_VOULAIT_FAIRE_DE_MOI_SA_CHO_1CBC21"
 msgid "Il voulait faire de moi sa chose."
-msgstr ""
+msgstr "Он хотел сделать меня своей игрушкой."
 
 #: game/story/home_asami_sayuri_room.dialogue
 msgctxt "ALLONS_TOUT_VA_BIEN_MAINTENANT_AC1D20"
@@ -86263,67 +86323,69 @@ msgstr ""
 #: game/story/home_asami_sayuri_room.dialogue
 msgctxt "JE_DOIS_ME_D_BARRASSER_DU_CORP_58A08C"
 msgid "Je dois me débarrasser du corps."
-msgstr ""
+msgstr "Мне нужно избавиться от тела."
 
 #: game/story/home_asami_sayuri_room.dialogue
 msgctxt "TU_VAS_BIEN_B4332C"
 msgid "Tu vas bien ?"
-msgstr ""
+msgstr "Ты в порядке?"
 
 #: game/story/home_asami_sayuri_room.dialogue
 msgctxt "OUI_JE_N_AURAI_AUCUN_REMORDS_P_DC80C4"
 msgid "Oui... Je n’aurai aucun remords pour cette ordure."
-msgstr ""
+msgstr "Да... Я не испытываю угрызений совести из-за этого куска дерьма."
 
 #: game/story/home_asami_sayuri_room.dialogue
 msgctxt "TU_VEUX_QUE_JE_T_AIDE_LE_D_PLA_E99522"
 msgid "Tu veux que je t’aide à le déplacer ?"
-msgstr ""
+msgstr "Хочешь, я помогу тебе его передвинуть?"
 
 #: game/story/home_asami_sayuri_room.dialogue
 msgctxt "JE_VAIS_M_EN_CHARGER_CE_SERA_P_917687"
 msgid "Je vais m’en charger, ce sera plus rapide."
-msgstr ""
+msgstr "Я позабочусь об этом, так будет быстрее."
 
 #: game/story/home_asami_sayuri_room.dialogue
 msgctxt "JE_CONNAIS_DEUX_OU_TROIS_RACCO_684705"
 msgid "Je connais deux ou trois raccourcis pour gagner du temps."
-msgstr ""
+msgstr "Я знаю пару коротких путей, которые помогут сэкономить немного времени."
 
 #: game/story/home_asami_sayuri_room.dialogue
 msgctxt "SAKUYA_N_JE_TE_SERAI_TERNELLE_B0C0C6"
 msgid "{{sakuya.n}}, je te serai éternellement reconnaissante. Si un jour tu as besoin de quoi que ce soit, fais-moi signe."
 msgstr ""
+"{{sakuya.n}}, Я буду вечно благодарна тебе. Если тебе когда-нибудь что-"
+"нибудь понадобится, просто дай мне знать."
 
 #: game/story/home_asami_sayuri_room.dialogue
 msgctxt "MERCI_DANS_CE_CAS_JE_N_H_SITER_D4D690"
 msgid "Merci. Dans ce cas, je n’hésiterai pas."
-msgstr ""
+msgstr "Спасибо. В таком случае я не буду задерживаться."
 
 #: game/story/home_asami_sayuri_room.dialogue
 msgctxt "PASSEZ_UNE_BONNE_SOIR_E_FF05BB"
 msgid "Passez une bonne soirée."
-msgstr ""
+msgstr "Спокойной ночи."
 
 #: game/story/home_asami_sayuri_room.dialogue
 msgctxt "OH_UNE_DERNI_RE_CHOSE_NE_LAISS_BF932E"
 msgid "Oh, une dernière chose... Ne laissez pas la culpabilité vous ronger."
-msgstr ""
+msgstr "Оу, и еще кое-что напоследок... Не позволяй чувству вины терзать тебя."
 
 #: game/story/home_asami_sayuri_room.dialogue
 msgctxt "SI_A_N_AVAIT_PAS_T_VOUS_A_AURA_D6CB0B"
 msgid "Si ça n’avait pas été vous, ça aurait très bien pu être quelqu’un d’autre."
-msgstr ""
+msgstr "Если бы это была не ты, это легко мог бы быть кто-то другой."
 
 #: game/story/home_asami_sayuri_room.dialogue
 msgctxt "LA_JUSTICE_CLASSIQUE_NE_FONCTI_DA2EB6"
 msgid "La justice classique ne fonctionne pas face à ce genre de monstre."
-msgstr ""
+msgstr "Традиционное правосудие не работает против такого рода ублюдков."
 
 #: game/story/home_asami_sayuri_room.dialogue
 msgctxt "JE_COMPRENDS_MERCI_POUR_TOUT_039676"
 msgid "Je comprends... Merci pour tout."
-msgstr ""
+msgstr "Я понимаю... Спасибо за все."
 
 #: game/scenes/gui/gui_start_sayuri.tscn
 msgid "SAYURI"
@@ -87600,7 +87662,7 @@ msgstr ""
 #: game/story/sewers.dialogue
 msgctxt "BONJOUR_MA_TRE_F78950"
 msgid "Bonjour Maître !"
-msgstr "Здравствйте, Учитель!"
+msgstr "Здравствуйте, Учитель!"
 
 #: game/story/sewers.dialogue
 msgctxt "AH_MON_CHER_DISCIPLE_J_ESP_RE_62689D"
@@ -88053,42 +88115,45 @@ msgstr "Пффф... Что мне теперь делать?"
 #: game/story/home_natsume_natsume_room.dialogue
 msgctxt "ET_ON_PEUT_SAVOIR_EN_QUOI_CONS_BF5510"
 msgid "Et on peut savoir en quoi consiste cet entraînement exactement ?"
-msgstr ""
+msgstr "А можно узнать, в чем заключается эта твоя тренировка?"
 
 #: game/story/home_natsume_natsume_room.dialogue
 msgctxt "PARCE_QUE_VU_L_ENDROIT_JE_ME_D_72566C"
 msgid "Parce que vu l’endroit... je me dis que tu cherches probablement à augmenter ton seuil de tolérance aux mauvaises odeurs."
 msgstr ""
+"Учитывая место... Я думаю, ты пытаешься повысить свой порог терпимости к "
+"неприятным запахам."
 
 #: game/story/home_natsume_natsume_room.dialogue
 msgctxt "TU_COMPTES_FAIRE_QUOI_AVEC_CET_130122"
 msgid "Tu comptes faire quoi avec cette capacité exactement... ?"
-msgstr ""
+msgstr "Так что ты планируешь делать с этой способностью...?"
 
 #: game/story/home_natsume_natsume_room.dialogue
 msgctxt "JE_NE_SAIS_PAS_TROP_CE_QUE_TU_015B12"
 msgid "Je ne sais pas trop ce que tu essaies de faire exactement... m’embêter ? Me faire rire ?"
-msgstr ""
+msgstr "Я не совсем понимаю, ты пытаешься... Взбесить меня? Рассмешить?"
 
 #: game/story/home_natsume_natsume_room.dialogue
 msgctxt "PIRE_ENCORE_EST_CE_QUE_C_EST_U_7C6495"
 msgid "Pire encore... est-ce que c’est une vraie question ?"
-msgstr ""
+msgstr "Хуже того... это вообще вопрос?"
 
 #: game/story/home_natsume_natsume_room.dialogue
 msgctxt "JE_N_AI_PAS_EU_DE_R_PONSE_ET_M_092506"
 msgid "Je n’ai pas eu de réponse... et ma question est tout à fait légitime !"
-msgstr ""
+msgstr "Я не получила ответа... Мой вопрос вполне оправдан!"
 
 #: game/story/home_natsume_natsume_room.dialogue
 msgctxt "TU_PASSES_TON_TEMPS_DANS_LES_G_8A5956"
 msgid "Tu passes ton temps dans les égouts, je suis curieuse de savoir ce qui s’y passe."
 msgstr ""
+"Ты проводишь всё своё время в канализации, мне любопытно, что там происходит."
 
 #: game/story/home_natsume_natsume_room.dialogue
 msgctxt "POURQUOI_TU_M_ACCOMPAGNES_PAS_52B337"
 msgid "Pourquoi tu m’accompagnes pas ?"
-msgstr ""
+msgstr "Тогда почему ты не пойдешь со мной?"
 
 #: game/story/home_natsume_natsume_room.dialogue
 msgctxt "PFF_M_ME_PAS_EN_R_VE_JE_METS_U_2AF3DF"
@@ -88151,31 +88216,33 @@ msgstr "Скажи мне, почему ты готов пойти на все �
 msgctxt "W_JE_VEUX_BIEN_TE_DONNER_MA_R_731F8C"
 msgid "...[w] Je veux bien te donner ma raison, mais à la seule condition que tu en fasses autant."
 msgstr ""
+"...[w]Я готов сказать тебе причину, но только если ты сделаешь то же самое."
 
 #: game/story/home_natsume_natsume_room.dialogue
 msgctxt "QU_EST_CE_QUE_TU_ENTENDS_PAR_L_C3F1D8"
 msgid "Qu’est-ce que tu entends par là ?"
-msgstr ""
+msgstr "Что ты имеешь в виду?"
 
 #: game/story/home_natsume_natsume_room.dialogue
 msgctxt "JE_PENSE_QUE_TU_SAIS_TR_S_BIEN_8408A7"
 msgid "Je pense que tu sais très bien ce que je veux savoir."
-msgstr ""
+msgstr "Думаю, ты хорошо знаешь, что я хочу узнать."
 
 #: game/story/home_natsume_natsume_room.dialogue
 msgctxt "POURQUOI_TU_AIDES_CET_ENFOIR_D_7AF8E4"
 msgid "Pourquoi tu aides cet enfoiré dans ses combines immondes ?"
-msgstr ""
+msgstr "Почему ты помогаешь этому ублюдку в его грязных делишках?"
 
 #: game/story/home_natsume_natsume_room.dialogue
 msgctxt "JE_PR_F_RE_ALLER_ME_COUCHER_OU_6E5B54"
 msgid "Je préfère aller me coucher, oublie pas de faire la vaisselle sinon ça empeste dans l’appart !"
 msgstr ""
+"Я лучше пойду спать, не забудь сходить в душ, а то в квартире будет вонять!"
 
 #: game/story/home_natsume_natsume_room.dialogue
 msgctxt "W_COMME_TU_VOUDRAS_BONNE_NUIT_FDE0D2"
 msgid "...[w] Comme tu voudras, bonne nuit !"
-msgstr ""
+msgstr "...[w]Как скажешь. Спокойной ночи!"
 
 #: game/story/home_natsume_natsume_room.dialogue
 msgctxt "PSST_SAITO_N_TU_DORS_89F41E"
