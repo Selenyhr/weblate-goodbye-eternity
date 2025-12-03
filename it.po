@@ -112,7 +112,7 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-11-28 10:37+0100\n"
-"PO-Revision-Date: 2025-12-02 05:29+0000\n"
+"PO-Revision-Date: 2025-12-03 12:52+0000\n"
 "Last-Translator: Baffrus <baffrus@gmail.com>\n"
 "Language-Team: Italian <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/it/>\n"
@@ -24871,7 +24871,7 @@ msgstr "Quali sono le difficoltà che affronti ogni giorno?"
 #: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
 msgctxt "talk_yasuka_a3b4ecab"
 msgid "Est-ce que {{noriko.n}} est toujours aussi dure avec toi ?"
-msgstr "{noriko.n} è sempre così dura con te?"
+msgstr "{{noriko.n}} è sempre così dura con te?"
 
 #: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
 msgctxt "talk_yasuka_6e89e86b"
@@ -24881,7 +24881,7 @@ msgstr "Come, lo sapevi?"
 #: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
 msgctxt "talk_yasuka_a085624b"
 msgid "{{saito.n}}... Je suis sa mère, je ne suis pas aveugle."
-msgstr "{saito.n}... Sono sua madre, non sono cieca."
+msgstr "{{saito.n}}... Sono sua madre, non sono cieca."
 
 #: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
 msgctxt "talk_yasuka_b0076dcb"
@@ -24916,7 +24916,7 @@ msgstr "Se sapevi tutto quello che mi stava facendo, perché non hai fatto qualc
 #: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
 msgctxt "talk_yasuka_fe37300d"
 msgid "{{noriko.n}}... a toujours eu des rapports compliqués avec les hommes."
-msgstr "{noriko.n}... ha sempre avuto un rapporto complicato con gli uomini."
+msgstr "{{noriko.n}}... ha sempre avuto un rapporto complicato con gli uomini."
 
 #: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
 msgctxt "talk_yasuka_e65d0dea"
@@ -25391,7 +25391,7 @@ msgstr "Come lei, credo di aver perso un po' di fiducia negli uomini in generale
 #: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
 msgctxt "talk_yasuka_4d7de276"
 msgid "J'ai la trentaine passée."
-msgstr "Ho quasi trent'anni."
+msgstr "Ho quasi quarant'anni."
 
 #: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
 msgctxt "talk_yasuka_45736be8"
@@ -25406,7 +25406,7 @@ msgstr "Alla fine mi sono detta che era uno sforzo sprecato."
 #: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
 msgctxt "talk_yasuka_1b8639a4"
 msgid "{{yasuka.n}}... Je suis tellement désolée..."
-msgstr "{yasuka.n}}... Mi dispiace tanto..."
+msgstr "{{yasuka.n}}... Mi dispiace tanto..."
 
 #: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
 msgctxt "talk_yasuka_e5a2045b"
@@ -40761,32 +40761,32 @@ msgstr "State zitti e state al vostro posto!"
 #: game/story/home_asami_livingroom.dialogue
 msgctxt "J_AI_T_TOUT_FAIT_CORDIAL_JUSQU_AEC75C"
 msgid "J’ai été tout à fait cordial jusqu’à maintenant, tant qu’on m’obéissait."
-msgstr ""
+msgstr "Finora sono stato molto cordiale, purché mi obbedissero."
 
 #: game/story/home_asami_livingroom.dialogue
 msgctxt "ET_ELLE_A_T_TR_S_OB_ISSANTE_B95FD6"
 msgid "Et elle a été très obéissante !"
-msgstr ""
+msgstr "E lei è stata molto obbediente!"
 
 #: game/story/home_asami_livingroom.dialogue
 msgctxt "ORDURE_7579F9"
 msgid "Ordure..."
-msgstr ""
+msgstr "Spazzatura..."
 
 #: game/story/home_asami_livingroom.dialogue
 msgctxt "JE_VAIS_FAIRE_COMME_SI_JE_N_AV_AA1D05"
 msgid "Je vais faire comme si je n'avais pas entendu."
-msgstr ""
+msgstr "Farò finta di non aver sentito."
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "JE_VAIS_FAIRE_COMME_SI_JE_N_AV_04AD99"
 msgid "Je vais faire comme si je n'avais pas entendu."
-msgstr ""
+msgstr "Farò finta di non aver sentito."
 
 #: game/story/home_asami_livingroom.dialogue
 msgctxt "VOIL_CE_QU_IL_VA_SE_PASSER_9FB564"
 msgid "Voilà ce qu’il va se passer."
-msgstr ""
+msgstr "Ecco cosa succederà."
 
 #: game/story/home_asami_livingroom.dialogue
 msgctxt "NOUS_AVONS_VOTRE_FILLE_ET_SI_V_1D05C2"
@@ -40794,76 +40794,89 @@ msgid ""
 "Nous avons votre fille, et si vous voulez qu'elle soit bien traitée, je vous suggère de coopérer avec moi. Autrement, je ne serai plus responsable de ce qui pourra lui arriver. Est-ce que vous "
 "comprenez les enjeux ?"
 msgstr ""
+"Abbiamo sua figlia, e se vuole che sia trattata bene, le suggerisco di "
+"collaborare con me. Altrimenti, non sarò più responsabile di ciò che le "
+"potrà accadere. Capisce cosa c'è in gioco?"
 
 #: game/story/home_asami_livingroom.dialogue
 msgctxt "JE_NE_SUIS_PAS_D_BILE_QU_EST_C_0E9BA6"
 msgid "Je ne suis pas débile ! Qu’est-ce que vous voulez de moi ?"
-msgstr ""
+msgstr "Non sono stupido! Cosa volete da me?"
 
 #: game/story/home_asami_livingroom.dialogue
 msgctxt "POUR_COMMENCER_ALLEZ_VOUS_CHAN_E4E930"
 msgid "Pour commencer, allez vous changer, j'apprecie beaucoup cette belle nuisette rouge que vous arborez le soir venu."
 msgstr ""
+"Per cominciare, vai a cambiarti, mi piace molto quella bella camicia da "
+"notte rossa che indossi la sera."
 
 #: game/story/home_asami_livingroom.dialogue
 msgctxt "COMMENT_VOUS_SAVEZ_QUE_ENFOIR_D52EAD"
 msgid "Comment vous savez que... ?! Enfoiré !"
-msgstr ""
+msgstr "Come fai a saperlo...?! Bastardo!"
 
 #: game/story/home_asami_livingroom.dialogue
 msgctxt "VOILA_SATISFAIT_QU_EST_CE_QUE_257430"
 msgid "Voila, satisfait ? Qu'est-ce que vous allez faire de moi à présent ?"
-msgstr ""
+msgstr "Ecco, soddisfatto? Cosa ne farai di me adesso?"
 
 #: game/story/home_asami_livingroom.dialogue
 msgctxt "MA_FOI_BIEN_PEU_DE_CHOSES_VOUS_5A7CEA"
 msgid "Ma foi... Bien peu de choses. Vous avez juste à avaler une petite pilule."
-msgstr ""
+msgstr "Beh... Non molto. Devi solo ingoiare una piccola pillola."
 
 #: game/story/home_asami_livingroom.dialogue
 msgctxt "IL_ME_SERAIT_TR_S_FACILE_DE_VO_DFF28C"
 msgid "Il me serait très facile de vous forcer à la prendre, mais je n’aime pas me fatiguer. Et je ne suis pas un sauvage."
 msgstr ""
+"Sarebbe molto facile per me costringerti a prenderla, ma non mi piace "
+"affaticarmi. E non sono un selvaggio."
 
 #: game/story/home_asami_livingroom.dialogue
 msgctxt "J_AI_UN_PETIT_C_T_F_MINISTE_AU_312DCB"
 msgid "J’ai un petit côté féministe au fond de moi, j’aime quand il y a consentement mutuel."
 msgstr ""
+"Ho un lato un po' femminista dentro di me, mi piace quando c'è consenso "
+"reciproco."
 
 #: game/story/home_asami_livingroom.dialogue
 msgctxt "CONSENTEMENT_EN_DROGUANT_VOS_C_FC0147"
 msgid "Consentement ? En droguant vos cibles ? Vous me faites marrer..."
-msgstr ""
+msgstr "Consenso? Drogando i tuoi bersagli? Mi fai ridere..."
 
 #: game/story/home_asami_livingroom.dialogue
 msgctxt "AYEZ_AU_MOINS_LES_COUILLES_D_A_BA4558"
 msgid "Ayez au moins les couilles d’appeler un chat un chat !"
-msgstr ""
+msgstr "Abbi almeno il coraggio di chiamare le cose con il loro nome!"
 
 #: game/story/home_asami_livingroom.dialogue
 msgctxt "VOUS_VOULEZ_ME_FLINGUER_LE_CER_1BCD1C"
 msgid "Vous voulez me flinguer le cerveau avec ce truc... On m’a déjà mise au courant. C’est hors de question !"
 msgstr ""
+"Vuoi distruggermi il cervello con quella roba... Me l'hanno già detto. Non "
+"se ne parla proprio!"
 
 #: game/story/home_asami_livingroom.dialogue
 msgctxt "PENSEZ_UN_PEU_VOTRE_FILLE_QUE_1A8890"
 msgid "Pensez un peu à votre fille... Que va-t-il lui arriver si vous refusez ?"
-msgstr ""
+msgstr "Pensa un po' a tua figlia... Cosa le succederà se rifiuti?"
 
 #: game/story/home_asami_livingroom.dialogue
 msgctxt "ATTENDEZ_ATTENDEZ_SI_JE_PRENDS_9C3E70"
 msgid "Attendez... Attendez... Si je prends ça... Qu’est-ce qui va se passer pour moi après ?"
-msgstr ""
+msgstr "Aspetta... Aspetta... Se lo prendo... Cosa mi succederà dopo?"
 
 #: game/story/home_asami_livingroom.dialogue
 msgctxt "RIEN_NE_CHANGERA_VOTRE_QUOTIDI_C3E4DD"
 msgid "Rien ne changera à votre quotidien, sauf que je remplirai les obligations de votre ex-mari, qu’il a eu tort de négliger."
 msgstr ""
+"Nulla cambierà nella tua vita quotidiana, tranne che io adempirò agli "
+"obblighi del tuo ex marito, che egli ha erroneamente trascurato."
 
 #: game/story/home_asami_livingroom.dialogue
 msgctxt "ET_JE_CROIS_BIEN_QU_IL_Y_A_BEA_F71E93"
 msgid "Et je crois bien qu’il y a beaucoup à rattraper."
-msgstr ""
+msgstr "E credo proprio che ci sia molto da recuperare."
 
 #: game/story/home_asami_livingroom.dialogue
 msgctxt "JE_PRENDRAI_GRAND_SOIN_DE_VOUS_EBE47A"
@@ -40871,36 +40884,44 @@ msgid ""
 "Je prendrai grand soin de vous comme si vous étiez ma femme. D’ailleurs, vous le deviendrez. Nous aurons un beau mariage et sûrement des enfants. La population de notre cher beau pays étant "
 "vieillissante, je me fais un devoir d’y remédier."
 msgstr ""
+"Mi prenderò cura di te come se fossi mia moglie. E del resto lo diventerai. "
+"Avremo un bel matrimonio e sicuramente dei figli. Poiché la popolazione del "
+"nostro caro e bel Paese sta invecchiando, mi sento in dovere di porvi "
+"rimedio."
 
 #: game/story/home_asami_livingroom.dialogue
 msgctxt "JE_JE_DOIS_Y_R_FL_CHIR_16F06A"
 msgid "Je... Je dois y réfléchir..."
-msgstr ""
+msgstr "Devo... devo pensarci..."
 
 #: game/story/home_asami_livingroom.dialogue
 msgctxt "MAIS_C_EST_TOUT_R_FL_CHI_SOIT_E612BC"
 msgid "Mais c’est tout réfléchi... Soit tu prends cette pilule et tu portes mes enfants, soit c’est ta fille qui le fera. Tu préfères quoi ?"
 msgstr ""
+"Ma ci ho pensato bene... O prendi questa pillola e mi dai dei figli, oppure "
+"lo farà tua figlia. Cosa preferisci?"
 
 #: game/story/home_asami_livingroom.dialogue
 msgctxt "JE_VOUS_TES_74B857"
 msgid "Je... Vous êtes..."
-msgstr ""
+msgstr "Io... Tu sei..."
 
 #: game/story/home_asami_livingroom.dialogue
 msgctxt "OUI_OUI_UN_MONSTRE_JE_SAIS_ALL_21B584"
 msgid "Oui oui, un monstre, je sais... Allez, on ouvre grand la bouche !"
-msgstr ""
+msgstr "Sì, sì, un mostro, lo so... Dai, apri bene la bocca!"
 
 #: game/story/home_asami_livingroom.dialogue
 msgctxt "VOIL_AVALE_LA_ACCEPTE_SIMPLEME_F76A3E"
 msgid "Voilà... Avale-la ! Accepte simplement ce qui t’arrive et tu verras que ça ira beaucoup mieux."
 msgstr ""
+"Ecco... Ingoiala! Accetta semplicemente ciò che ti capita e vedrai che andrà "
+"molto meglio."
 
 #: game/story/home_asami_livingroom.dialogue
 msgctxt "SNIFF_793481"
 msgid "Sniff..."
-msgstr ""
+msgstr "Sniff..."
 
 #: game/story/home_asami_livingroom.dialogue
 msgctxt "TU_VOIS_CE_N_TAIT_PAS_SI_DIFFI_7169AB"
