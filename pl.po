@@ -113,7 +113,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-11-28 10:37+0100\n"
 "PO-Revision-Date: 2025-12-08 15:10+0000\n"
-"Last-Translator: Paweł Mat <pawel_mati@interia.pl>\n"
+"Last-Translator: Wiktor Baran <wiktoroski1995@gmail.com>\n"
 "Language-Team: Polish <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/pl/>\n"
 "Language: pl\n"
@@ -3230,22 +3230,20 @@ msgid "..."
 msgstr "..."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
-#, fuzzy
 msgctxt "talk_yasuka_7e4f83cc"
 msgid "Vous savez bien que vous pouvez tout me dire."
-msgstr "Wiesz, możesz mi powiedzieć wszystko."
+msgstr "Wiesz że możesz powiedzieć mi wszystko."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
-#, fuzzy
 msgctxt "talk_yasuka_f0f21b2a"
 msgid "Je suis désolée, mais ce n'est pas quelque chose dont j'aime me vanter."
-msgstr "Przepraszam ale to nie jest coś, czym lubię się chwalić."
+msgstr "Przepraszam ale to nie jest coś czym lubię się chwalić."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
-#, fuzzy
 msgctxt "talk_yasuka_31f8cf8d"
 msgid "Ne vous en faites pas... Je vais y réfléchir, je suis sûr que je trouverai un moyen de vous aider."
-msgstr "Nie martw się... Pomyślę o tym. Jestem pewien, że znajdę sposób aby ci pomóc."
+msgstr ""
+"Nie martw się... Pomyślę o tym. Jestem pewien że znajdę sposób aby ci pomóc."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_df5f3f1d"
@@ -3258,10 +3256,9 @@ msgid "J'insiste, je ne voudrais pas que ma meilleure employée finisse sur le t
 msgstr "Nalegam. Nie chciałbym, żeby mój najlepszy pracownik skończył na ulicy."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
-#, fuzzy
 msgctxt "talk_yasuka_e7bdf7e2"
 msgid "Je vous laisse avec votre... lui."
-msgstr "Zostawię cię z twoim... {{yasuka_coffeebar_answer!t}}."
+msgstr "Zostawię cię z twoim... nim."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "tee9d2a10d2"
@@ -3274,22 +3271,20 @@ msgid "Je vous laisse avec votre... partenaire."
 msgstr "Zostawię Cię z Twoim... partnerem."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
-#, fuzzy
 msgctxt "talk_yasuka_d0babdf7"
 msgid "Je suis désolé... Je voulais venir te soutenir et je crois que j'ai tout gâché."
-msgstr "Przepraszam... Chciałem cię wesprzeć, ale chyba wszystko zepsułemg."
+msgstr "Przepraszam... Chciałem cię wesprzeć, ale chyba wszystko zepsułem."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
-#, fuzzy
 msgctxt "talk_yasuka_bce09a57"
 msgid "Ne t'inquiète pas pour ça. Le fait de savoir que je suis soutenu par un garçon aussi gentil me suffit."
-msgstr "Nie martw się o to. Wystarczy mi świadomość, że wspiera mnie taki miły chłopak."
+msgstr ""
+"Nie martw się tym. Wystarczy mi świadomość że wspiera mnie taki miły chłopak."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
-#, fuzzy
 msgctxt "talk_yasuka_add43a5d"
 msgid "Rentre à la maison, on en discutera quand j'aurai terminé ma journée."
-msgstr "Wróć do domu. Możemy o tym porozmawiać, kiedy tu skończę."
+msgstr "Wróć do domu. Porozmawiamy o tym kiedy skończę prace."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "coffeebar_interior_b4be6f6a"
@@ -4024,10 +4019,10 @@ msgstr ""
 "Nie ma czasu do stracenia! Muszę dowiedzieć się co się stało z {{yasuka.n}}!"
 
 #: game/story/home_player_corridor.dialogue
-#, fuzzy
 msgctxt "home_player_corridor_2fe8ad28"
 msgid "{{yasuka.n}} m'a appelé dans sa chambre. Je devrais la rejoindre."
-msgstr "{{yasuka.n}} wezwała mnie do swojego pokoju. Powinienem do niej dołaczyć."
+msgstr ""
+"{{yasuka.n}} zawołała mnie do swojego pokoju. Powinienem do niej dołączyć."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_554c43d4"
@@ -4040,10 +4035,9 @@ msgid "Je ferais mieux d'aller prendre un peu d'air frais dehors."
 msgstr "Lepiej zaczerpnę świerzego powietrza na zewnątrz."
 
 #: game/story/home_player_corridor.dialogue
-#, fuzzy
 msgctxt "home_player_noriko_room_closed_3a300f9c"
 msgid "Mieux vaut que je la laisse tranquille pour le moment."
-msgstr "Lepiej zostawię ją na razie w spokoju."
+msgstr "Może lepiej zostawię ją na razie w spokoju."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_noriko_room_closed_ab417b7e"
@@ -4051,10 +4045,9 @@ msgid "Rajouter de l'huile sur le feu n'aidera personne."
 msgstr "Dolewanie oliwy do ognia nikomu nie pomoże."
 
 #: game/story/home_player_corridor.dialogue
-#, fuzzy
 msgctxt "home_player_noriko_room_closed_9cdc86e1"
 msgid "Non, si je rentre ici, {{noriko.n}} va encore claquer un scandale."
-msgstr "Nie wracam tam. Noriko wywoła kolejne zamieszanie."
+msgstr "Nie wracam tam. {{noriko.n}} wywoła kolejne zamieszanie."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_noriko_room_closed_127b90d2"
@@ -4082,10 +4075,9 @@ msgid "Maintenant que j'ai la paix, je vais éviter d'en rajouter."
 msgstr "Teraz, kiedy mam trochę spokoju, nie chcę więcej kłopotów."
 
 #: game/story/home_player_corridor.dialogue
-#, fuzzy
 msgctxt "home_player_noriko_room_closed_97502b55"
 msgid "Mieux vaut que je laisse {{noriko.n}} tranquille pour le moment."
-msgstr "Lepiej na razie zostawić {{noriko.n}} w spokoju."
+msgstr "Lepiej na razie zostawie {{noriko.n}} w spokoju."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_f133bbfb"
@@ -4104,10 +4096,9 @@ msgid "T'es vraiment qu'un gamin !"
 msgstr "To takie upokarzające!"
 
 #: game/story/home_player_corridor.dialogue
-#, fuzzy
 msgctxt "home_player_corridor_35288d53"
 msgid "Oula, doucement... M'agresse pas dès le matin comme ça je..."
-msgstr "Whoa, spokojnie! Nie krzycz tak na mnie z same ra-"
+msgstr "Whoa, spokojnie! Nie krzycz tak na mnie z samego ran-"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_864c46c2"
@@ -4160,10 +4151,11 @@ msgid "Comment j'ai pu oublier {{noriko.n}} et son agressivité légendaire..."
 msgstr "Jak mogłem zapomnieć o {{noriko.n}}?"
 
 #: game/story/home_player_corridor.dialogue
-#, fuzzy
 msgctxt "home_player_corridor_8ed9d900"
 msgid "Elle a toujours été ultra-violente avec moi, j'ai essayé de savoir pourquoi elle m'en voulait tellement, mais..."
-msgstr "Zawsze była do mnie agresywna. Starałem się dowiedzieć czemu ale..."
+msgstr ""
+"Zawsze była w stosunku do mnie agresywna. Starałem się dowiedzieć czemu "
+"ale..."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_0b052899"
@@ -4171,16 +4163,18 @@ msgid "Elle m'a toujours envoyé chier."
 msgstr "Zawsze robiła mi na złość."
 
 #: game/story/home_player_corridor.dialogue
-#, fuzzy
 msgctxt "home_player_corridor_e49418ab"
 msgid "Si je me souviens bien, elle va quitter la maison en volant le peu d'argent qu'il restera à {{yasuka.n}} pour s'enfuir avec une bande de racailles."
-msgstr "A no tak... W moim śnie, opóściła dom, wzieła resztkę pieniędzy {{yasuka.n}}, które jej zostały i dała to wszystko bandzie szumowin."
+msgstr ""
+"A no tak... W moim śnie, opóściła dom, wzieła resztkę pieniędzy które "
+"zostały {{yasuka.n}} i dała to wszystko bandzie szumowin."
 
 #: game/story/home_player_corridor.dialogue
-#, fuzzy
 msgctxt "home_player_corridor_7199d067"
 msgid "Et on va la retrouver noyée dans le canal peu de temps après sa fugue, son corps totalement souillé."
-msgstr "Wkróce potem znleziono ją utopioną w kanale, a jej ciało całkowice zbeszczeszczone..."
+msgstr ""
+"Wkróce potem znaleziono ją utopioną w kanale, a jej ciało całkowice "
+"zbeszczeszczone..."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_9cd593bd"
@@ -4193,10 +4187,9 @@ msgid "Je dois pouvoir changer ça !"
 msgstr "Muszę to zmienić!"
 
 #: game/story/home_player_corridor.dialogue
-#, fuzzy
 msgctxt "home_player_corridor_43ea3f38"
 msgid "Pffff, et en plus, tu te parles à toi-même maintenant... Tellement pathétique !"
-msgstr "Pffff, a teraz gadasz sam do siebie... żałosne!"
+msgstr "Pffff, a teraz gadasz sam do siebie... Żałosne!"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_dd978a3f"
@@ -4209,10 +4202,9 @@ msgid "Rien que de voir ta... tête, je..."
 msgstr "Patrząc tylko na twoją twarz, ja..."
 
 #: game/story/home_player_corridor.dialogue
-#, fuzzy
 msgctxt "home_player_corridor_f94ec740"
 msgid "Beuh, je sens que ça vient..."
-msgstr "Oh, nadchodzi..."
+msgstr "O boże, nadchodzi..."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_bc4eeee4"
@@ -4220,10 +4212,9 @@ msgid "...ou pas."
 msgstr "...albo nie."
 
 #: game/story/home_player_corridor.dialogue
-#, fuzzy
 msgctxt "home_player_corridor_43ea5588"
 msgid "T'as passé une mauvaise journée ?"
-msgstr "Aww, co się stało? Zły dzień?"
+msgstr "Aww, coś nie tak? Zły dzień?"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_b9ae232a"
@@ -4231,10 +4222,9 @@ msgid "Eh bien, tu peux pas savoir comme ça me fait plaisir !"
 msgstr "Nie masz pojęcia jak mnie to uszcześliwia!"
 
 #: game/story/home_player_corridor.dialogue
-#, fuzzy
 msgctxt "home_player_corridor_ffd6a680"
 msgid "J'espère que ça sera pire encore demain !"
-msgstr "Mam nadzieje, że jutro będzie jeszcze gorsze!"
+msgstr "Mam nadzieje że jutro będzie jeszcze gorsze!"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_8958d958"
@@ -4292,10 +4282,9 @@ msgid "Euh..."
 msgstr "Uch..."
 
 #: game/story/home_player_corridor.dialogue
-#, fuzzy
 msgctxt "home_player_corridor_62854c6d"
 msgid "Bonsoir, ma chérie, tu n'es pas encore couchée ?"
-msgstr "Dobry wieczór, kochanie. Nie jesteś jeszcze w łóżku?"
+msgstr "Dobry wieczór skarbie. Nie jesteś jeszcze w łóżku?"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_847f88b0"
@@ -4348,16 +4337,14 @@ msgid "Bon..."
 msgstr "No cóż..."
 
 #: game/story/home_player_corridor.dialogue
-#, fuzzy
 msgctxt "home_player_noriko_room_closed_9650078c"
 msgid "Quand il faut y aller, faut y aller !"
-msgstr "Kiedy trzeba odejść, trzeba odejść!"
+msgstr "Kiedy trzeba iść, to trzeba iść!"
 
 #: game/story/home_player_corridor.dialogue
-#, fuzzy
 msgctxt "home_player_noriko_room_closed_5308c43e"
 msgid "{{noriko.n}}... Ahem... Je peux te parler un instant ?"
-msgstr "{{noriko.n}}... Hej... Możemy na sekunde porozmawiać?"
+msgstr "{{noriko.n}}... Hej... Mogę z tobą porozmawiać?"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_noriko_room_closed_18fae4d1"
@@ -4396,10 +4383,9 @@ msgid "Le routeur doit être dans le [color=yellow]salon[/color]."
 msgstr "Ruter jest w [color=yellow]salonie[/color]."
 
 #: game/story/home_player_corridor.dialogue
-#, fuzzy
 msgctxt "home_player_noriko_room_closed_d6ed5375"
 msgid "Il va falloir être rapide !"
-msgstr "Trzeba się jednak pospieszyć."
+msgstr "Muszę się jednak pośpieszyć."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_0c3ec198"
@@ -4407,10 +4393,11 @@ msgid "Une minute..."
 msgstr "Poczekaj chwilę..."
 
 #: game/story/home_player_corridor.dialogue
-#, fuzzy
 msgctxt "home_player_corridor_82150078"
 msgid "Si je rentre ici sans être préparé, elle va encore trouver le moyen de me faire chanter..."
-msgstr "Jeżeli przyjdę nieprzygotowany, to ona znowu znajdzie sposób by się nade mną znęcać."
+msgstr ""
+"Jeżeli przyjdę nieprzygotowany to ona znowu znajdzie sposób by mnie "
+"szantażować."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_2075f795"
