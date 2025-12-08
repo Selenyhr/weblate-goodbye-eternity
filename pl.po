@@ -112,14 +112,16 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-11-28 10:37+0100\n"
-"PO-Revision-Date: 2025-11-01 20:53+0000\n"
-"Last-Translator: Jakub Kołodziej <kubakolodziej652@gmail.com>\n"
-"Language-Team: Polish <https://translations.teot-studio.com/projects/goodbye-eternity/game-translation/pl/>\n"
+"PO-Revision-Date: 2025-12-08 10:14+0000\n"
+"Last-Translator: Filip Adams <zametor@gmail.com>\n"
+"Language-Team: Polish <https://translations.teot-studio.com/projects/"
+"goodbye-eternity/game-translation/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8-bit\n"
-"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 4.17\n"
 
 #: game/scenes/cg/noriko/laptop.tscn
@@ -1134,10 +1136,9 @@ msgid "Je ne pouvais plus te laisser seule, porter sur ton dos tous les problèm
 msgstr "Nie mogłem dalej stać bezczynnie widząc jak sama znosisz wszystkie problemy które mamy w domu."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
-#, fuzzy
 msgctxt "talk_yasuka_21bf1c4b"
 msgid "Surtout que, je suis en âge de comprendre ce qu'il se passe..."
-msgstr "Zwłaszcza teraz, gdy jestem wystarczająco dorosły, by zrozumieć, co się dzieje."
+msgstr "Zwłaszcza, że dorosłem na tyle, by  zrozumieć co się dzieje..."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_00a019d4"
@@ -1155,10 +1156,9 @@ msgid "Et aujourd'hui te voilà prêt à m'aider à rembourser une montagne de d
 msgstr "A teraz nagle chcesz, żebym cię wspierał w spłacaniu tej cholernie wysokiej góry długów."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
-#, fuzzy
 msgctxt "talk_yasuka_d6eee7aa"
 msgid "Je suis désolé d'avoir mis autant de temps à réaliser tout ça..."
-msgstr "Przepraszam, że tak długo zajęło mi zrozumienie tego wszystkiego..."
+msgstr "Przepraszam, zrozumienie tego wszystkiego zajęło mi tak długo..."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_e6413ebd"
@@ -1192,16 +1192,15 @@ msgid "Je t'interdis de penser ça !"
 msgstr "Nie możesz myśleć w ten sposób!"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
-#, fuzzy
 msgctxt "talk_yasuka_e9e491a3"
 msgid "Je voulais que tu puisses grandir avec {{noriko.n}} normalement."
-msgstr "Chciałam, żebyś wraz z {{noriko.n}} dostał normalnie."
+msgstr ""
+"Chciałam, żebyście razem z {{noriko.n}} mieli szansę normalnie dorosnąć."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
-#, fuzzy
 msgctxt "talk_yasuka_bcbcc830"
 msgid "À aucun moment, je n'aurais voulu vous imposer ça."
-msgstr "Nigdy nie chciałbym ci tego narzucać."
+msgstr "Nigdy nie chciałbym cię do tego zmuszać."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 #, fuzzy
@@ -1226,10 +1225,9 @@ msgid "Je comprends..."
 msgstr "Rozumiem..."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
-#, fuzzy
 msgctxt "talk_yasuka_15a1bceb"
 msgid "D'ailleurs, à ce sujet..."
-msgstr "Swoją drogą, o tym..."
+msgstr "Skoro o tym mowa..."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 #, fuzzy
@@ -1249,10 +1247,9 @@ msgid "{{yasuka.n}}, je ne vous paye pas pour faire la causette aux clients ! Vo
 msgstr "{{yasuka.n}}! Nie płacę ci za podrywanie klientów! Myślisz, że jesteś w barze dla hostess?"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
-#, fuzzy
 msgctxt "talk_yasuka_72c2ae27"
 msgid "Ce n'est pas la première fois que je te vois ici gamin !"
-msgstr "I nie pierwszy raz cię tu z nią widzę, dzieciaku!"
+msgstr "To nie jest pierwszy raz gdy cię tu z nią widzę, Gówinarzu!"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 #, fuzzy
