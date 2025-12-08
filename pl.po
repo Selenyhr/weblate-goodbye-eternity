@@ -113,7 +113,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-11-28 10:37+0100\n"
 "PO-Revision-Date: 2025-12-08 10:14+0000\n"
-"Last-Translator: Filip Adams <zametor@gmail.com>\n"
+"Last-Translator: Paweł Mat <pawel_mati@interia.pl>\n"
 "Language-Team: Polish <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/pl/>\n"
 "Language: pl\n"
@@ -469,7 +469,7 @@ msgstr "Dzięki!"
 #: game/story/bus_stop.dialogue
 msgctxt "MERCI_15D051"
 msgid "Merci !"
-msgstr ""
+msgstr "Dzięki !"
 
 #: game/story/home_asami_exterior.dialogue
 msgctxt "t56126c5a15"
@@ -873,12 +873,12 @@ msgstr "Tak..."
 #: game/story/sewers.dialogue
 msgctxt "OUI_1E6F3C"
 msgid "Oui..."
-msgstr ""
+msgstr "Tak..."
 
 #: game/story/home_natsume_natsume_room.dialogue
 msgctxt "OUI_D37AF0"
 msgid "Oui..."
-msgstr ""
+msgstr "Tak..."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_ef1ad18b"
@@ -1203,7 +1203,6 @@ msgid "À aucun moment, je n'aurais voulu vous imposer ça."
 msgstr "Nigdy nie chciałbym cię do tego zmuszać."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
-#, fuzzy
 msgctxt "talk_yasuka_2c652546"
 msgid "Je comprends..."
 msgstr "Rozumiem..."
@@ -1214,7 +1213,6 @@ msgid "Je comprends..."
 msgstr "Rozumiem..."
 
 #: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
-#, fuzzy
 msgctxt "talk_yasuka_2c652546_1"
 msgid "Je comprends..."
 msgstr "Rozumiem..."
@@ -1241,10 +1239,11 @@ msgid "Je peux savoir ce qui se passe ici ?!"
 msgstr "Czy ktoś może mi powiedzieć co tu się dzieje?!"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
-#, fuzzy
 msgctxt "talk_yasuka_4c17d2d2"
 msgid "{{yasuka.n}}, je ne vous paye pas pour faire la causette aux clients ! Vous vous croyez dans un bar à hôtesses ?"
-msgstr "{{yasuka.n}}! Nie płacę ci za podrywanie klientów! Myślisz, że jesteś w barze dla hostess?"
+msgstr ""
+"{{yasuka.n}}! Nie płacę ci za podrywanie klientów! Myślisz, że jesteś w "
+"barze dla hostess?"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_72c2ae27"
@@ -1252,19 +1251,16 @@ msgid "Ce n'est pas la première fois que je te vois ici gamin !"
 msgstr "To nie jest pierwszy raz gdy cię tu z nią widzę, Gówinarzu!"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
-#, fuzzy
 msgctxt "talk_yasuka_3c3fc224"
 msgid "C'est qui cette femme pour toi ?!"
 msgstr "Kim jest dla ciebie ta kobieta?!"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
-#, fuzzy
 msgctxt "talk_yasuka_759f70dc"
 msgid "Vu que tu passes ton temps à revenir sans cesse pour mon employée."
 msgstr "Skoro ciągle tu wracasz, żeby zobaczyć się z moim pracownikiem..."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
-#, fuzzy
 msgctxt "talk_yasuka_b7ec8004"
 msgid "Ça me regarde."
 msgstr "To moja sprawa."
