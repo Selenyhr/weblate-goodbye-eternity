@@ -112,7 +112,7 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-11-28 10:37+0100\n"
-"PO-Revision-Date: 2025-12-12 13:27+0000\n"
+"PO-Revision-Date: 2025-12-17 05:04+0000\n"
 "Last-Translator: isaque santos da silva <isaquesantosdasilva120n@gmail.com>\n"
 "Language-Team: Portuguese <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/pt/>\n"
@@ -89894,31 +89894,35 @@ msgstr ""
 msgctxt "lovense.messages"
 msgid "Le jeu a du mal à communiquer avec l'application Lovense Remote. Veuillez vérifier la qualité de la connexion."
 msgstr ""
+"O jogo está com dificuldades para se conectar ao aplicativo Lovense Remote. "
+"Verifique a qualidade da sua conexão."
 
 #: core/scenes/lovense_notification.gd
 msgctxt "lovense.messages"
 msgid "Jouet connecté : {toy_name}."
-msgstr ""
+msgstr "Brinquedo conectado: {toy_name}."
 
 #: core/scenes/lovense_notification.gd
 msgctxt "lovense.messages"
 msgid "Jouet déconnecté : {toy_name}."
-msgstr ""
+msgstr "Brinquedo desconectado: {toy_name}."
 
 #: core/scenes/lovense_notification.gd
 msgctxt "lovense.error_message"
 msgid "Un problème est survenu lors de la synchronisation Lovense Remote. Veuillez vérifier la connexion."
 msgstr ""
+"Ocorreu um problema ao sincronizar o aplicativo Lovense Remote. Verifique "
+"sua conexão."
 
 #: core/scenes/lovense_notification.gd
 msgctxt "lovense.messages"
 msgid "Batterie faible : {toy_name}."
-msgstr ""
+msgstr "Bateria fraca: {toy_name}."
 
 #: game/scenes/gui/lovense_ad.gd
 msgctxt "main_menu.lovense_ad"
 msgid "Maintenant compatible avec {{lovense}}."
-msgstr ""
+msgstr "Agora compatível com {{lovense}}."
 
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
@@ -90103,7 +90107,7 @@ msgstr "Casa da {{natsume.n}}"
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "home_natsume_natsume_room"
-msgstr ""
+msgstr "Quarto de {{natsume.n}}"
 
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
@@ -93643,22 +93647,22 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "natsume_11"
-msgstr ""
+msgstr "Dê uma olhada na frente da sua casa."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "natsume_12"
-msgstr ""
+msgstr "Tente ir à casa de {{kimochi.n}}."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "natsume_13"
-msgstr ""
+msgstr "Tente ir à casa de {{sayuri.n}}."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "natsume_14"
-msgstr ""
+msgstr "Respire o ar puro junto ao canal."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -93728,7 +93732,7 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "natsume_28"
-msgstr ""
+msgstr "Siga {{natsume.n}} até a casa dela."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -93816,9 +93820,10 @@ msgid "natsume_45"
 msgstr "[null]"
 
 #: game/scripts/variables/quests.gd
+#, fuzzy
 msgctxt "quests.hints"
 msgid "natsume_46"
-msgstr ""
+msgstr "Fale com {{natsume.n}}."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -94013,7 +94018,7 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "natsume_85"
-msgstr ""
+msgstr "Junte-se ao seu Mestre atravessando os esgotos."
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -94053,7 +94058,7 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "natsume_93"
-msgstr ""
+msgstr "Acesse a página inicial de {{natsume.n}}."
 
 #: game/scenes/characters/sprites/saito.tscn game/scenes/characters/sprites/asami.tscn game/scenes/characters/sprites/noriko.tscn
 msgctxt "character.sprite.group"
@@ -94087,12 +94092,12 @@ msgstr "Acessórios"
 #: game/scenes/characters/sprites/saito.tscn
 msgctxt "character.sprite.attribute"
 msgid "normal"
-msgstr ""
+msgstr "Normal"
 
 #: game/scenes/characters/sprites/saito.tscn
 msgctxt "character.sprite.attribute"
 msgid "muscular"
-msgstr ""
+msgstr "Muscular"
 
 #: game/scenes/characters/sprites/saito.tscn game/scenes/characters/sprites/natsume.tscn
 msgctxt "character.sprite.attribute"
@@ -94110,7 +94115,7 @@ msgstr "Diariamente"
 #: game/scenes/characters/sprites/saito.tscn
 msgctxt "character.sprite.attribute"
 msgid "hiraga"
-msgstr ""
+msgstr "Hiraga Saito"
 
 #: game/scenes/characters/sprites/saito.tscn game/scenes/characters/sprites/macumba.tscn game/scenes/characters/sprites/takeo.tscn game/scenes/characters/sprites/netoru.tscn
 msgctxt "character.sprite.attribute"
@@ -94125,7 +94130,7 @@ msgstr "Toalha"
 #: game/scenes/characters/sprites/saito.tscn
 msgctxt "character.sprite.attribute"
 msgid "casual"
-msgstr ""
+msgstr "Casual"
 
 #: game/scenes/characters/sprites/saito.tscn game/scenes/characters/sprites/asami.tscn game/scenes/characters/sprites/noriko.tscn game/scenes/characters/sprites/yasuka.tscn
 #: game/scenes/characters/sprites/chiaki.tscn game/scenes/characters/sprites/minato.tscn game/scenes/characters/sprites/macumba.tscn game/scenes/characters/sprites/natsume.tscn
@@ -94188,7 +94193,7 @@ msgstr "Duvidoso"
 #: game/scenes/characters/sprites/saito.tscn
 msgctxt "character.sprite.attribute"
 msgid "necklace"
-msgstr ""
+msgstr "Colar"
 
 #: game/scenes/characters/sprites/saito.tscn game/scenes/characters/sprites/master.tscn game/scenes/characters/sprites/cop.tscn
 msgctxt "character.sprite.attribute"
@@ -94265,22 +94270,22 @@ msgstr "Camisola"
 #: game/scenes/characters/sprites/asami.tscn game/scenes/characters/sprites/yasuka.tscn
 msgctxt "character.sprite.attribute"
 msgid "bunny"
-msgstr ""
+msgstr "Garota coelhinha"
 
 #: game/scenes/characters/sprites/asami.tscn game/scenes/characters/sprites/noriko.tscn game/scenes/characters/sprites/yasuka.tscn
 msgctxt "character.sprite.attribute"
 msgid "summer"
-msgstr ""
+msgstr "Verão"
 
 #: game/scenes/characters/sprites/asami.tscn
 msgctxt "character.sprite.attribute"
 msgid "summer2"
-msgstr ""
+msgstr "Verão (2)"
 
 #: game/scenes/characters/sprites/asami.tscn game/scenes/characters/sprites/noriko.tscn game/scenes/characters/sprites/chiaki.tscn
 msgctxt "character.sprite.attribute"
 msgid "winter"
-msgstr ""
+msgstr "Inverno"
 
 #: game/scenes/characters/sprites/noriko.tscn game/scenes/characters/sprites/macumba.tscn game/scenes/characters/sprites/netoru.tscn
 msgctxt "character.sprite.attribute"
@@ -94290,7 +94295,7 @@ msgstr "Normal"
 #: game/scenes/characters/sprites/noriko.tscn
 msgctxt "character.sprite.attribute"
 msgid "director"
-msgstr ""
+msgstr "Diretores"
 
 #: game/scenes/characters/sprites/noriko.tscn game/scenes/characters/sprites/natsume.tscn
 msgctxt "character.sprite.attribute"
@@ -94333,42 +94338,42 @@ msgstr "Pijama"
 #: game/scenes/characters/sprites/noriko.tscn game/scenes/characters/sprites/yasuka.tscn
 msgctxt "character.sprite.attribute"
 msgid "catgirl"
-msgstr ""
+msgstr "Garota-gato"
 
 #: game/scenes/characters/sprites/noriko.tscn
 msgctxt "character.sprite.attribute"
 msgid "dominatrix"
-msgstr ""
+msgstr "Dominatrix"
 
 #: game/scenes/characters/sprites/noriko.tscn
 msgctxt "character.sprite.attribute"
 msgid "leathercat"
-msgstr ""
+msgstr "Gato de couro"
 
 #: game/scenes/characters/sprites/noriko.tscn
 msgctxt "character.sprite.attribute"
 msgid "emilia"
-msgstr ""
+msgstr "Emília"
 
 #: game/scenes/characters/sprites/noriko.tscn
 msgctxt "character.sprite.attribute"
 msgid "erza"
-msgstr ""
+msgstr "Erza"
 
 #: game/scenes/characters/sprites/noriko.tscn
 msgctxt "character.sprite.attribute"
 msgid "misty"
-msgstr ""
+msgstr "Nebulosa"
 
 #: game/scenes/characters/sprites/noriko.tscn game/scenes/characters/sprites/yasuka.tscn
 msgctxt "character.sprite.attribute"
 msgid "succubus"
-msgstr ""
+msgstr "Succubus"
 
 #: game/scenes/characters/sprites/noriko.tscn
 msgctxt "character.sprite.attribute"
 msgid "witch"
-msgstr ""
+msgstr "Bruxa"
 
 #: game/scenes/characters/sprites/yasuka.tscn game/scenes/characters/sprites/sayuri.tscn game/scenes/characters/sprites/erika.tscn game/scenes/characters/sprites/hanako.tscn
 msgctxt "character.sprite.attribute"
@@ -94393,7 +94398,7 @@ msgstr "Calcinha"
 #: game/scenes/characters/sprites/yasuka.tscn
 msgctxt "character.sprite.attribute"
 msgid "demon"
-msgstr ""
+msgstr "Demoníaca"
 
 #: game/scenes/characters/sprites/chiaki.tscn
 msgctxt "character.sprite.attribute"
@@ -94428,12 +94433,12 @@ msgstr "Lingerie"
 #: game/scenes/characters/sprites/chiaki.tscn
 msgctxt "character.sprite.attribute"
 msgid "kitsune"
-msgstr ""
+msgstr "Kitsune"
 
 #: game/scenes/characters/sprites/chiaki.tscn
 msgctxt "character.sprite.attribute"
 msgid "maid"
-msgstr ""
+msgstr "Empregada doméstica"
 
 #: game/scenes/characters/sprites/minato.tscn
 msgctxt "character.sprite.attribute"
@@ -94443,7 +94448,7 @@ msgstr "Suspeito"
 #: game/scenes/characters/sprites/macumba.tscn
 msgctxt "character.sprite.attribute"
 msgid "frog"
-msgstr ""
+msgstr "Sapo"
 
 #: game/scenes/characters/sprites/natsume.tscn
 msgctxt "character.sprite.group"
@@ -94453,7 +94458,7 @@ msgstr "Humor"
 #: game/scenes/characters/sprites/natsume.tscn
 msgctxt "character.sprite.attribute"
 msgid "tharja"
-msgstr ""
+msgstr "Tharja"
 
 #: game/scenes/characters/sprites/sakuya.tscn
 msgctxt "character.sprite.group"
@@ -94468,22 +94473,22 @@ msgstr "Natural"
 #: game/scenes/characters/sprites/sakuya.tscn
 msgctxt "character.sprite.attribute"
 msgid "yuno"
-msgstr ""
+msgstr "Yuno"
 
 #: game/scenes/characters/sprites/sakuya.tscn
 msgctxt "character.sprite.attribute"
 msgid "alice"
-msgstr ""
+msgstr "Empregada doméstica"
 
 #: game/scenes/characters/sprites/sakuya.tscn
 msgctxt "character.sprite.attribute"
 msgid "mitsuri"
-msgstr ""
+msgstr "Mitsuri"
 
 #: game/scenes/characters/sprites/sakuya.tscn
 msgctxt "character.sprite.attribute"
 msgid "stealth"
-msgstr ""
+msgstr "Furtividade"
 
 #: game/scenes/characters/sprites/sakuya.tscn
 msgctxt "character.sprite.attribute"
@@ -94533,7 +94538,7 @@ msgstr "Arrogante"
 #: game/scenes/characters/sprites/netoru.tscn
 msgctxt "character.sprite.attribute"
 msgid "pig"
-msgstr ""
+msgstr "Porco"
 
 #: game/scenes/characters/sprites/netoru.tscn
 msgctxt "character.sprite.attribute"
@@ -94548,7 +94553,7 @@ msgstr "Capacete"
 #: game/scenes/characters/sprites/sayuri.tscn
 msgctxt "character.sprite.attribute"
 msgid "revy"
-msgstr ""
+msgstr "Revista"
 
 #: game/scenes/characters/sprites/sayuri.tscn
 msgctxt "character.sprite.attribute"
@@ -94657,7 +94662,7 @@ msgstr "Modo móvel"
 
 msgctxt "preferences.variable"
 msgid "bigger_ui"
-msgstr ""
+msgstr "Interface de usuário maior"
 
 msgctxt "preferences.variable"
 msgid "textbox_opacity"
@@ -94781,47 +94786,47 @@ msgstr "Pular atraso"
 
 msgctxt "preferences.subgroup"
 msgid "Auto-advance"
-msgstr ""
+msgstr "Avanço automático"
 
 msgctxt "preferences.variable"
 msgid "autoadvance_speed"
-msgstr ""
+msgstr "Velocidade de avanço"
 
 msgctxt "preferences.variable.autoadvance_position"
 msgid "Right:0"
-msgstr ""
+msgstr "Certo"
 
 msgctxt "preferences.variable.autoadvance_position"
 msgid "Left:1"
-msgstr ""
+msgstr "Esquerda"
 
 msgctxt "preferences.variable"
 msgid "autoadvance_position"
-msgstr ""
+msgstr "Posição do indicador"
 
 msgctxt "preferences.group"
 msgid "Lovense"
-msgstr ""
+msgstr "Lovense"
 
 msgctxt "preferences.variable"
 msgid "lovense_enabled"
-msgstr ""
+msgstr "Integração habilitada"
 
 msgctxt "preferences.variable"
 msgid "lovense_domain"
-msgstr ""
+msgstr "IP local"
 
 msgctxt "preferences.variable"
 msgid "lovense_port"
-msgstr ""
+msgstr "Porta (sem SSL)"
 
 msgctxt "preferences.variable"
 msgid "lovense_sync_speed"
-msgstr ""
+msgstr "Velocidade de sincronização"
 
 msgctxt "preferences.variable"
 msgid "lovense_banner"
-msgstr ""
+msgstr "Anúncio"
 
 #: game/scenes/locations/arcade_exterior.tscn game/scenes/locations/bus_stop.tscn game/scenes/locations/coffeebar_exterior.tscn game/scenes/locations/dojo_exterior.tscn
 #: game/scenes/locations/home_asami_exterior.tscn game/scenes/locations/home_kenji_exterior.tscn game/scenes/locations/home_kimochi_exterior.tscn game/scenes/locations/home_minato_exterior.tscn
@@ -94859,7 +94864,7 @@ msgstr "{{sayuri.n}} (dançando)"
 #: game/scenes/locations/bus_stop.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "NatsumeStand"
-msgstr ""
+msgstr "{{natsume.n}} (em pé)"
 
 #: game/scenes/locations/canal.tscn
 msgctxt "galleries.backgrounds.sprite"
@@ -94914,7 +94919,7 @@ msgstr "{{sayuri.n}} (esperando)"
 #: game/scenes/locations/home_asami_exterior.tscn game/scenes/locations/home_kimochi_exterior.tscn game/scenes/locations/home_player_exterior.tscn game/scenes/locations/konbini_exterior.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "CopStand"
-msgstr ""
+msgstr "{{cop.n}} (guardando)"
 
 #: game/scenes/locations/home_asami_exterior.tscn
 msgctxt "galleries.backgrounds.sprite"
@@ -94984,7 +94989,7 @@ msgstr "{{yasuka.n}} (esperando)"
 #: game/scenes/locations/home_player_livingroom.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "SakuyaTea"
-msgstr ""
+msgstr "{{sakuya.n}} (tea)"
 
 #: game/scenes/locations/home_player_noriko_room.tscn
 msgctxt "galleries.backgrounds.sprite"
@@ -95109,7 +95114,7 @@ msgstr "{{chef.n}} (fumando)"
 #: game/scenes/locations/restaurant_exterior.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "StandCop"
-msgstr ""
+msgstr "{{cop.n}} (guardando)"
 
 #: game/scenes/locations/restaurant_interior.tscn
 msgctxt "galleries.backgrounds.sprite"
@@ -95134,22 +95139,22 @@ msgstr "Treinamento com {{macumba.n}}."
 #: attributes.galleries/cgs/saito/run
 msgctxt "galleries.movies.attribute"
 msgid "glare"
-msgstr ""
+msgstr "Brilho"
 
 #: attributes.galleries/cgs/saito/run
 msgctxt "galleries.movies.attribute"
 msgid "appear"
-msgstr ""
+msgstr "Aparecer"
 
 #: attributes.galleries/cgs/saito/run
 msgctxt "galleries.movies.attribute"
 msgid "disappear"
-msgstr ""
+msgstr "Desaparecer"
 
 #: game/scenes/cg/list.tres
 msgctxt "galleries.images.hints"
 msgid "Rencontrer {{asami.n}}."
-msgstr ""
+msgstr "Conheça {{asami.n}}."
 
 #: game/scenes/cg/list.tres
 msgctxt "galleries.images.hints"
@@ -95209,7 +95214,7 @@ msgstr "Corruptendo {{asami.n}}."
 #: game/scenes/cg/list.tres
 msgctxt "galleries.images.hints"
 msgid "Suivre l'histoire d'{{asami.n}}."
-msgstr ""
+msgstr "Acompanhe a história de {{asami.n}}."
 
 #: attributes.galleries/cgs/asami/missionary attributes.galleries/cgs/asami/amazone attributes.galleries/cgs/asami/standing_asami_room attributes.galleries/cgs/asami/sit_minato_basement
 #: attributes.galleries/cgs/asami/bed_minato_basement attributes.galleries/cgs/asami/kidnapping
@@ -95230,17 +95235,17 @@ msgstr "Deixar {{yasuka.n}} trabalhar como anfitriã."
 #: attributes.galleries/cgs/yasuka/69
 msgctxt "galleries.movies.attribute"
 msgid "sakuya"
-msgstr ""
+msgstr "A sombra de {{sakuya.n}}"
 
 #: game/scenes/cg/list.tres
 msgctxt "galleries.images.hints"
 msgid "Ne pas garder {{asami.n}} dans la friendzone."
-msgstr ""
+msgstr "Não mantenha {{asami.n}} na friendzone."
 
 #: game/scenes/cg/list.tres
 msgctxt "galleries.images.hints"
 msgid "Accepter les avances de {{sakuya.n}}."
-msgstr ""
+msgstr "Aceite as investidas de {{sakuya.n}}."
 
 #: attributes.galleries/cgs/sakuya/chair_sakuya_room
 msgctxt "galleries.movies.attribute"
@@ -95255,7 +95260,7 @@ msgstr "Acompanhe a história de {{sakuya.n}}."
 #: game/scenes/cg/list.tres
 msgctxt "galleries.images.hints"
 msgid "Suivre l'histoire de {{noriko.n}}."
-msgstr ""
+msgstr "Acompanhe a história de {{noriko.n}}."
 
 #: game/scenes/cg/list.tres
 msgctxt "galleries.images.hints"
@@ -95275,7 +95280,7 @@ msgstr "Manter {{asami.n}} na friendzone."
 #: game/scenes/cg/list.tres
 msgctxt "galleries.images.hints"
 msgid "Suivre l'histoire de {{natsume.n}}."
-msgstr ""
+msgstr "Acompanhe a história de {{natsume.n}}."
 
 msgctxt "chapters.choices"
 msgid "yasuka/corruption"
@@ -95323,227 +95328,227 @@ msgstr "Sexo"
 
 msgctxt "character.skin"
 msgid "asami_babydoll"
-msgstr ""
+msgstr "Bonequinha"
 
 msgctxt "character.skin"
 msgid "asami_bunny"
-msgstr ""
+msgstr "Garota coelhinha"
 
 msgctxt "character.skin"
 msgid "asami_dress"
-msgstr ""
+msgstr "Vestido"
 
 msgctxt "character.skin"
 msgid "asami_jacket"
-msgstr ""
+msgstr "Jaqueta"
 
 msgctxt "character.skin"
 msgid "asami_nude"
-msgstr ""
+msgstr "Nu"
 
 msgctxt "character.skin"
 msgid "asami_sexy"
-msgstr ""
+msgstr "Sexy"
 
 msgctxt "character.skin"
 msgid "asami_summer"
-msgstr ""
+msgstr "Verão"
 
 msgctxt "character.skin"
 msgid "asami_summer2"
-msgstr ""
+msgstr "Verão(2)"
 
 msgctxt "character.skin"
 msgid "asami_winter"
-msgstr ""
+msgstr "Inverno"
 
 msgctxt "character.skin"
 msgid "chiaki_dress"
-msgstr ""
+msgstr "Vestido"
 
 msgctxt "character.skin"
 msgid "chiaki_kitsune"
-msgstr ""
+msgstr "raposa"
 
 msgctxt "character.skin"
 msgid "chiaki_lingerie"
-msgstr ""
+msgstr "lingerie"
 
 msgctxt "character.skin"
 msgid "chiaki_maid"
-msgstr ""
+msgstr "empregada doméstica"
 
 msgctxt "character.skin"
 msgid "chiaki_nude"
-msgstr ""
+msgstr "nu"
 
 msgctxt "character.skin"
 msgid "chiaki_winter"
-msgstr ""
+msgstr "Inverno"
 
 msgctxt "character.skin"
 msgid "erika_nude"
-msgstr ""
+msgstr "Nu"
 
 msgctxt "character.skin"
 msgid "hanako_clean"
-msgstr ""
+msgstr "Limpo"
 
 msgctxt "character.skin"
 msgid "hanako_nude"
-msgstr ""
+msgstr "Nu"
 
 msgctxt "character.skin"
 msgid "macumba_frog"
-msgstr ""
+msgstr "Sapo"
 
 msgctxt "character.skin"
 msgid "macumba_suit"
-msgstr ""
+msgstr "Terno"
 
 msgctxt "character.skin"
 msgid "natsume_nude"
-msgstr ""
+msgstr "Nu"
 
 msgctxt "character.skin"
 msgid "natsume_pantsu"
-msgstr ""
+msgstr "calcinha"
 
 msgctxt "character.skin"
 msgid "natsume_tharja"
-msgstr ""
+msgstr "Tharja"
 
 msgctxt "character.skin"
 msgid "natsume_underwear"
-msgstr ""
+msgstr "Roupa íntima"
 
 msgctxt "character.skin"
 msgid "netoru_pig"
-msgstr ""
+msgstr "Porco"
 
 msgctxt "character.skin"
 msgid "netoru_suit"
-msgstr ""
+msgstr "Terno"
 
 msgctxt "character.skin"
 msgid "noriko_babydoll"
-msgstr ""
+msgstr "Babydoll"
 
 msgctxt "character.skin"
 msgid "noriko_catgirl"
-msgstr ""
+msgstr "garota-gato"
 
 msgctxt "character.skin"
 msgid "noriko_director"
-msgstr ""
+msgstr "Diretores"
 
 msgctxt "character.skin"
 msgid "noriko_dominatrix"
-msgstr ""
+msgstr "Dominatrix"
 
 msgctxt "character.skin"
 msgid "noriko_emilia"
-msgstr ""
+msgstr "Emilia"
 
 msgctxt "character.skin"
 msgid "noriko_erza"
-msgstr ""
+msgstr "Erza"
 
 msgctxt "character.skin"
 msgid "noriko_leathercat"
-msgstr ""
+msgstr "gato de couro"
 
 msgctxt "character.skin"
 msgid "noriko_misty"
-msgstr ""
+msgstr "Nebuloso"
 
 msgctxt "character.skin"
 msgid "noriko_nude"
-msgstr ""
+msgstr "Nu"
 
 msgctxt "character.skin"
 msgid "noriko_pyjama"
-msgstr ""
+msgstr "Pijamas"
 
 msgctxt "character.skin"
 msgid "noriko_succubus"
-msgstr ""
+msgstr "Succubus"
 
 msgctxt "character.skin"
 msgid "noriko_summer"
-msgstr ""
+msgstr "Verão"
 
 msgctxt "character.skin"
 msgid "noriko_winter"
-msgstr ""
+msgstr "Inverno"
 
 msgctxt "character.skin"
 msgid "noriko_witch"
-msgstr ""
+msgstr "Bruxa"
 
 msgctxt "character.skin"
 msgid "saito_casual"
-msgstr ""
+msgstr "Casual"
 
 msgctxt "character.skin"
 msgid "saito_hiraga"
-msgstr ""
+msgstr "Hiraga Saito"
 
 msgctxt "character.skin"
 msgid "saito_suit"
-msgstr ""
+msgstr "Terno"
 
 msgctxt "character.skin"
 msgid "saito_towel"
-msgstr ""
+msgstr "Toalha"
 
 msgctxt "character.skin"
 msgid "saito_underwear"
-msgstr ""
+msgstr "roupa íntima"
 
 msgctxt "character.skin"
 msgid "sakuya_alice"
-msgstr ""
+msgstr "empregada doméstica"
 
 msgctxt "character.skin"
 msgid "sakuya_mitsuri"
-msgstr ""
+msgstr "Mitsuri"
 
 msgctxt "character.skin"
 msgid "sakuya_nude"
-msgstr ""
+msgstr "Nu"
 
 msgctxt "character.skin"
 msgid "sakuya_stealth"
-msgstr ""
+msgstr "Furtividade"
 
 msgctxt "character.skin"
 msgid "sakuya_towel"
-msgstr ""
+msgstr "Toalha"
 
 msgctxt "character.skin"
 msgid "sakuya_yuno"
-msgstr ""
+msgstr "Yuno"
 
 msgctxt "character.skin"
 msgid "sayuri_babydoll"
-msgstr ""
+msgstr "Babydoll"
 
 msgctxt "character.skin"
 msgid "sayuri_dress"
-msgstr ""
+msgstr "Vestido"
 
 msgctxt "character.skin"
 msgid "sayuri_nude"
-msgstr ""
+msgstr "Nu"
 
 msgctxt "character.skin"
 msgid "sayuri_revy"
-msgstr ""
+msgstr "Revy"
 
 msgctxt "character.skin"
 msgid "takeo_suit"
-msgstr ""
+msgstr "Terno"
 
 msgctxt "character.skin"
 msgid "tsubaki_nude"
