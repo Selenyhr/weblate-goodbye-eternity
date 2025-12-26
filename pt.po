@@ -112,8 +112,8 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-11-28 10:37+0100\n"
-"PO-Revision-Date: 2025-12-21 01:53+0000\n"
-"Last-Translator: isaque santos da silva <isaquesantosdasilva120n@gmail.com>\n"
+"PO-Revision-Date: 2025-12-26 13:25+0000\n"
+"Last-Translator: Lucas <lucas25amaral@gmail.com>\n"
 "Language-Team: Portuguese <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/pt/>\n"
 "Language: pt\n"
@@ -8198,10 +8198,9 @@ msgid "Cet idiot est enfin parti, c’est pas trop tôt !"
 msgstr "“Aquele idiota finalmente foi embora. Já estava na hora!”"
 
 #: game/story/home_natsume_exterior.dialogue
-#, fuzzy
 msgctxt "HANAKO_N_3F467C"
 msgid "{{hanako.n}} !"
-msgstr "hanako"
+msgstr "{{hanako.n}}!"
 
 #: game/story/home_natsume_exterior.dialogue
 msgctxt "JE_CROIS_BIEN_AVOIR_APER_U_UN_7A492C"
@@ -8214,11 +8213,10 @@ msgid "Merci encore pour les fringues."
 msgstr "“Obrigado de novo pelas roupas.”"
 
 #: game/story/home_natsume_exterior.dialogue
-#, fuzzy
 msgctxt "PAS_DE_SOUCI_CE_SONT_DE_VIEUX_540A7E"
 msgid "Pas de souci, ce sont de vieux trucs que le père de {{kenji.n}} n’a jamais voulu mettre."
 msgstr ""
-"“Sem problema. Essas são coisas velhas que o pai do kenji nunca quis usar.”"
+"Sem problema, são coisas velhas que o pai do {{kenji.n}} nunca quis usar."
 
 #: game/story/home_natsume_exterior.dialogue
 msgctxt "IL_EN_AURA_PLUS_BESOIN_QUE_LUI_B40D06"
@@ -38970,10 +38968,9 @@ msgid "Dépêche toi !"
 msgstr "Se apresse!"
 
 #: game/story/restaurant_interior.dialogue
-#, fuzzy
 msgctxt "S_IL_TE_PLA_T_SAKUYA_N_NE_FAIS_A9DA7F"
 msgid "S'il te plaît {{sakuya.n}}, ne fais pas de vagues !"
-msgstr "Por favor, {{sakuya.and}}, não causem problemas!"
+msgstr "Por favor {{sakuya.n}}, não faça ondas!"
 
 #: game/story/restaurant_interior.dialogue
 msgctxt "TU_AS_BIEN_VU_QUE_NOUS_SOMMES_DB1AD4"
@@ -49103,8 +49100,8 @@ msgstr "Finalmente tenho forças para proteger a todos."
 msgctxt "ATTENDS_UN_PEU_MINATO_N_ET_ON_A80424"
 msgid "Attends un peu {{minato.n}} et on verra si te cacher derrière {{netoru.n}} sera suffisant !"
 msgstr ""
-"Aguarde só, {{minato.n}}, e veremos se se esconder atrás de {{netoru.n}} "
-"será suficiente!"
+"Espere um pouco {{minato.n}} e veremos se esconder-se atrás de {{netoru.n}} "
+"será o suficiente!"
 
 #: game/story/bus_stop.dialogue
 msgctxt "ALLEZ_NATSUME_N_DOIT_PROBABLEM_69A207"
@@ -49509,10 +49506,9 @@ msgid "Continue ton histoire ou je te fais bouffer tes couilles !"
 msgstr "Continue falando ou eu vou te obrigar a comer seus testículos!"
 
 #: game/story/lake.dialogue
-#, fuzzy
 msgctxt "AUJOURD_HUI_ON_CONNA_T_ENFIN_L_64372B"
 msgid "Aujourd'hui, on connaît enfin le vrai visage de {{minato}}."
-msgstr "Hoje, finalmente vemos a verdadeira face de Minato."
+msgstr "Hoje, finalmente conhecemos o verdadeiro rosto de {{minato}}."
 
 #: game/story/lake.dialogue
 msgctxt "JE_DISPOSE_D_UN_PETIT_GROUPE_D_458E02"
@@ -55475,12 +55471,11 @@ msgid "Tu parles de {{saito.n}} ?"
 msgstr "Você quer dizer {{saito.n}}?"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "PAS_SEULEMENT_SAYURI_N_LA_M_RE_35E8EA"
 msgid "Pas seulement... {{sayuri.n}}, la mère d'{{asami.n}}, est coincée chez elle depuis deux jours. Ils ont également un agent de police qui la surveille."
 msgstr ""
-"E não é só isso... Sayuri, a mãe de Asami, está presa em casa há dois dias. "
-"Elas também têm um policial de olho nela."
+"Não apenas isso... {{sayuri.n}}, a mãe de {{asami.n}}, está presa em casa há "
+"dois dias. Eles também têm um policial vigiando-a."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "COMME_NOUS_E65F81"
@@ -83167,12 +83162,11 @@ msgid "T’aurais pas une petite idée, par hasard ?"
 msgstr "Por acaso você não teria ideia do que aconteceu?"
 
 #: game/story/home_minato_hallway.dialogue
-#, fuzzy
 msgctxt "NON_J_TAIS_AVEC_SAITO_N_TOUTE_EAA1BE"
 msgid "Non... J’étais avec {{saito.n}} toute la soirée, il a pas bougé d’un poil."
 msgstr ""
-"De jeito nenhum... Eu fiquei com {{sabito.and}} a noite toda. Ele não se "
-"mexeu um centímetro."
+"Não... Eu estive com o {{saito.n}} a noite inteira, ele não se mexeu nem um "
+"pouco."
 
 #: game/story/home_minato_hallway.dialogue
 msgctxt "CE_D_BILE_CONTINUE_S_ENTRA_NER_D9B0D4"
@@ -93820,10 +93814,9 @@ msgid "natsume_45"
 msgstr "[null]"
 
 #: game/scripts/variables/quests.gd
-#, fuzzy
 msgctxt "quests.hints"
 msgid "natsume_46"
-msgstr "Fale com {{natsume.n}}."
+msgstr "[null]"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
