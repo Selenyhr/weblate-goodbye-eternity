@@ -112,7 +112,7 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-12-12 13:32+0100\n"
-"PO-Revision-Date: 2025-12-27 14:07+0000\n"
+"PO-Revision-Date: 2025-12-27 16:16+0000\n"
 "Last-Translator: Lucas <lucas25amaral@gmail.com>\n"
 "Language-Team: Portuguese <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/pt/>\n"
@@ -11065,7 +11065,7 @@ msgstr "[font_size=14]Cale a boca! Você vai fazer com que a gente seja pego![/f
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "FONT_SIZE_14_FONT_SIZE_B79885"
 msgid "[font_size=14]...[/font_size]"
-msgstr "[tamanho da fonte=14]...[/tamanho da fonte]"
+msgstr "[font_size=14] ... [/font_size]"
 
 #: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
 msgctxt "yasuka_love_sexe_repeat_fa9e5d57"
@@ -11080,7 +11080,7 @@ msgstr "[font_size=14] ... [/font_size]"
 #: game/story/park.dialogue
 msgctxt "FONT_SIZE_14_FONT_SIZE_0C47D6"
 msgid "[font_size=14]...[/font_size]"
-msgstr "[tamanho da fonte=14]...[/tamanho da fonte]"
+msgstr "[font_size=14] ... [/font_size]"
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "OH_JE_PEUX_VOIR_TON_VISAGE_QUE_EBEA8A"
@@ -32586,10 +32586,11 @@ msgid "Merci mon chéri ! Je suis désolée."
 msgstr "=_xlfn.TRANSLATE(B5)"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "JE_M_ENGAGE_EXPLIQUER_ASAMI_N_2A5395"
 msgid "Je m'engage à expliquer à {{asami.n}} que c’est moi qui t’ai imposé ça, c'est promis."
-msgstr "=_xlfn.TRANSLATE(B6)"
+msgstr ""
+"Prometo explicar para {{asami.n}} que fui eu quem impunha isso a você, eu "
+"prometo."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "COMME_A_ELLE_N_AURA_PAS_DE_RAI_99DAB8"
@@ -40340,10 +40341,11 @@ msgid "Je suppose que c’est entre moi et ma conscience à présent..."
 msgstr "=_xlfn.TRANSLATE(B23)"
 
 #: game/story/home_asami_livingroom.dialogue
-#, fuzzy
 msgctxt "PARDON_SAITO_N_TU_PORTES_TOUTE_ACAF38"
 msgid "Pardon {{saito.n}}, tu portes toute la responsabilité alors que je suis toute aussi fautive."
-msgstr "=_xlfn.TRANSLATE(B24)"
+msgstr ""
+"Desculpe {{saito.n}}, você carrega toda a responsabilidade enquanto eu sou "
+"igualmente culpada."
 
 #: game/story/home_asami_livingroom.dialogue
 msgctxt "TU_PEUX_T_ALLONGER_ICI_POUR_LA_1ECA98"
@@ -40361,10 +40363,9 @@ msgid "... de rien, je suppose..."
 msgstr "=_xlfn.TRANSLATE(B27)"
 
 #: game/story/home_asami_livingroom.dialogue
-#, fuzzy
 msgctxt "REPOUSSER_SAYURI_N_C4690E"
 msgid "Repousser {{sayuri.n}}."
-msgstr "=_xlfn.TRANSLATE(B28)"
+msgstr "Empurre para trás {{sayuri.n}}."
 
 #: game/story/home_asami_livingroom.dialogue
 msgctxt "EST_CE_QUE_C_EST_BON_A_PR_SENT_B9DF19"
@@ -45765,7 +45766,8 @@ msgstr "Não há necessidade de irmos todos de uma vez, pois seríamos vistos mu
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "PAS_DE_SOUCIS_TU_N_AS_QU_RESTE_DEC352"
 msgid "Pas de soucis, tu n'as qu'à rester ici et j'irai avec {{saito.n}} alors !"
-msgstr "Não se preocupe. Você pode ficar aqui, e eu vou com você.{saito.n}} então!"
+msgstr ""
+"Não se preocupe. Você pode ficar aqui, e eu vou com você. {{saito.n}} então!"
 
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "IL_FAUT_QUELQU_UN_AVEC_L_EXP_R_6BDCA8"
@@ -51444,10 +51446,9 @@ msgid "Qui a dit que je me laisserais faire ?"
 msgstr "=_xlfn.TRANSLATE(B39)"
 
 #: game/story/home_asami_exterior.dialogue
-#, fuzzy
 msgctxt "W_JE_SUIS_HEUREUSE_DE_VOIR_QU_DE4AB8"
 msgid "...[w] Je suis heureuse de voir que tu es une personne fiable, {{saito.n}}."
-msgstr "=_xlfn.TRANSLATE(B40)"
+msgstr "... [w] Fico feliz em ver que você é uma pessoa confiável, {{saito.n}}."
 
 #: game/story/home_asami_exterior.dialogue
 msgctxt "TU_VEUX_QU_ELLE_M_TRANGLE_EN_93577A"
@@ -51460,10 +51461,11 @@ msgid "Oh, vraiment ?"
 msgstr "=_xlfn.TRANSLATE(B42)"
 
 #: game/story/home_asami_exterior.dialogue
-#, fuzzy
 msgctxt "ET_QUE_DIRAIT_ASAMI_N_SI_ELLE_DB1CC7"
 msgid "Et que dirait {{asami.n}} si elle savait que son petit ami n'est pas insensible au charme de la mère ?"
-msgstr "=_xlfn.TRANSLATE(B43)"
+msgstr ""
+"E o que {{asami.n}} diria se soubesse que seu namorado não é insensível ao "
+"charme da mãe?"
 
 #: game/story/home_asami_exterior.dialogue
 msgctxt "EST_ELLE_VRAIMENT_OBLIG_E_DE_L_4E030A"
@@ -51891,10 +51893,9 @@ msgid "Non au contraire, tu es honnête sur tes sentiments, d'une certaine mani�
 msgstr "=_xlfn.TRANSLATE(B63)"
 
 #: game/story/home_asami_exterior.dialogue
-#, fuzzy
 msgctxt "MERCI_SAITO_N_7720D7"
 msgid "Merci {{saito.n}} !"
-msgstr "=_xlfn.TRANSLATE(B64)"
+msgstr "Obrigado {{saito.n}}!"
 
 #: game/story/home_asami_exterior.dialogue
 msgctxt "ET_TOUT_CE_QUE_A_IMPLIQUE_F87BE7"
@@ -82793,10 +82794,10 @@ msgid "Je suis curieux de savoir à quel point elle doit se déchaîner sur ce g
 msgstr "=_xlfn.TRANSLATE(B106)"
 
 #: game/story/home_minato_hallway.dialogue
-#, fuzzy
 msgctxt "PUTAIN_SAITO_N_QU_EST_CE_QUE_T_9089A5"
 msgid "Putain {{saito.n}}, qu'est-ce que t’as foutu !!!? Ça devait pas se passer comme ça !"
-msgstr "=_xlfn.TRANSLATE(B107)"
+msgstr ""
+"Porra {{saito.n}}, o que diabos você fez!? Não deveria ter acontecido assim!"
 
 #: game/story/home_minato_hallway.dialogue
 msgctxt "t7739140aa9"
@@ -83694,10 +83695,9 @@ msgid "Je vais t’accompagner pour discuter avec elle une dernière fois."
 msgstr "=_xlfn.TRANSLATE(B108)"
 
 #: game/story/home_minato_hallway.dialogue
-#, fuzzy
 msgctxt "MINATO_N_6CAF70"
 msgid "{{minato.n}} !!"
-msgstr "=_xlfn.TRANSLATE(B109)"
+msgstr "{{minato.n}} !!"
 
 #: game/story/home_minato_hallway.dialogue
 msgctxt "IL_EST_D_J_PARTI_1DA457"
@@ -83705,10 +83705,9 @@ msgid "Il est déjà parti..."
 msgstr "=_xlfn.TRANSLATE(B110)"
 
 #: game/story/home_minato_hallway.dialogue
-#, fuzzy
 msgctxt "ASAMI_N_ON_SE_CASSE_6A4A9E"
 msgid "{{asami.n}} on se casse !"
-msgstr "=_xlfn.TRANSLATE(B111)"
+msgstr "{{asami.n}} Estamos quebrados!"
 
 #: game/story/home_minato_hallway.dialogue
 msgctxt "FONT_SIZE_14_G_NIAL_MAIS_JE_S_A1648B"
@@ -83756,10 +83755,11 @@ msgid "Vous n’avez pas le droit de sortir !"
 msgstr "=_xlfn.TRANSLATE(B120)"
 
 #: game/story/home_minato_hallway.dialogue
-#, fuzzy
 msgctxt "FONT_SIZE_14_CHIAKI_N_LAISSE_98F78C"
 msgid "[font_size=14]{{chiaki.n}} laisse-nous sortir ! Ton frère est un putain de psychopathe ![/font_size]"
-msgstr "=_xlfn.TRANSLATE(B121)"
+msgstr ""
+"[font_size=14]{{chiaki.n}} Deixem a gente sair! Seu irmão é um psicopata do "
+"caralho! [/font_size]"
 
 #: game/story/home_minato_hallway.dialogue
 msgctxt "NON_JE_LUI_DIRAI_QUE_VOUS_AVEZ_85BBA8"
@@ -85168,10 +85168,11 @@ msgid "J’ai mal au cœur... J’ai juste envie de mourir..."
 msgstr "=_xlfn.TRANSLATE(B153)"
 
 #: game/story/home_minato_basement.dialogue
-#, fuzzy
 msgctxt "CE_SERAIT_TELLEMENT_TRISTE_SI_01F48A"
 msgid "Ce serait tellement triste... Si tu fais ça, ils continueront leur vie de leur côté pendant que {{saito.n}} réconfortera ta mère."
-msgstr "=_xlfn.TRANSLATE(B154)"
+msgstr ""
+"Seria tão triste... Se você fizer isso, eles continuarão suas vidas sozinhos "
+"enquanto {{saito.n}} conforta sua mãe."
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "JE_VEUX_SEULEMENT_QUE_A_S_ARR_DA4025"
@@ -85204,10 +85205,11 @@ msgid "Oui... Mais je ne veux pas... Je ne serai plus moi... après ça..."
 msgstr "=_xlfn.TRANSLATE(B160)"
 
 #: game/story/home_minato_basement.dialogue
-#, fuzzy
 msgctxt "COUTE_MOI_BIEN_ASAMI_N_RIEN_N_F18E7B"
 msgid "Écoute-moi bien {{asami.n}}, rien ne dit qu’ils te laisseront en vie... Tu en sais déjà beaucoup trop."
-msgstr "=_xlfn.TRANSLATE(B161)"
+msgstr ""
+"Me escute {{asami.n}}, não há garantia de que vão te deixar vivo... Você já "
+"sabe demais."
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "IMAGINE_QU_ILS_TE_DONNENT_LA_D_DD6C5D"
@@ -85235,10 +85237,11 @@ msgid "C’est vrai..."
 msgstr "=_xlfn.TRANSLATE(B166)"
 
 #: game/story/home_minato_basement.dialogue
-#, fuzzy
 msgctxt "ACCEPTE_DE_PRENDRE_LA_PILULE_E_94FAB3"
 msgid "Accepte de prendre la pilule et viens avec moi, non seulement tu échappes à {{minato.n}} et à ce qu’il a prévu d’horrible pour toi..."
-msgstr "=_xlfn.TRANSLATE(B167)"
+msgstr ""
+"Concorde em tomar a pílula e venha comigo, não só você escapa {{minato.n}} e "
+"o que ele planejou é horrível para você..."
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "MAIS_EN_PLUS_TU_RETROUVES_TA_L_1EAE78"
@@ -85711,10 +85714,9 @@ msgid "Ton futur propriétaire a été décidé. Dans quelques jours, tu n'auras
 msgstr "=_xlfn.TRANSLATE(B185)"
 
 #: game/story/home_minato_basement.dialogue
-#, fuzzy
 msgctxt "AIMERAIS_TU_AVOIR_DES_NOUVELLE_4BEFEA"
 msgid "Aimerais-tu avoir des nouvelles de {{saito.n}} ?"
-msgstr "=_xlfn.TRANSLATE(B186)"
+msgstr "Gostaria de ouvir o que você tem de {{saito.n}}?"
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "JE_VAIS_PRENDRE_CE_SILENCE_POU_666C23"
@@ -85737,10 +85739,9 @@ msgid "Vivante ? Oui, certainement, mais manipuler l'opinion publique est plutô
 msgstr "=_xlfn.TRANSLATE(B190)"
 
 #: game/story/home_minato_basement.dialogue
-#, fuzzy
 msgctxt "QU_EST_CE_QU_A_FAIT_SAITO_N_PO_4DE8F5"
 msgid "Qu'est-ce qu'a fait {{saito.n}} pour que tu t'acharnes autant sur lui ?"
-msgstr "=_xlfn.TRANSLATE(B191)"
+msgstr "O que {{saito.n}} fez para você ir atrás dele tanto?"
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "IL_NE_M_A_RIEN_FAIT_MAIS_J_AIM_E1C159"
@@ -85810,10 +85811,9 @@ msgid "Non, tout est insonorisé."
 msgstr "=_xlfn.TRANSLATE(B204)"
 
 #: game/story/home_minato_basement.dialogue
-#, fuzzy
 msgctxt "W_AU_MOINS_A_EMMERDE_MINATO_N_7F1F14"
 msgid "...[w] Au moins ça emmerde {{minato.n}} ! C’est toujours ça de gagné !"
-msgstr "=_xlfn.TRANSLATE(B205)"
+msgstr "... [w] Pelo menos ele fode {{minato.n}}! Isso sempre é uma vitória!"
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "TU_PENSES_TROP_COURT_TERME_404EF8"
@@ -85836,10 +85836,9 @@ msgid "Pfff... De toute façon j’allais arrêter, ça me fait mal à la gorge.
 msgstr "=_xlfn.TRANSLATE(B209)"
 
 #: game/story/home_minato_basement.dialogue
-#, fuzzy
 msgctxt "NATSUME_N_COMMENT_VA_SAITO_N_6ED5A2"
 msgid "{{natsume.n}}... Comment va {{saito.n}} ? Est-ce qu’il va bien ?"
-msgstr "=_xlfn.TRANSLATE(B210)"
+msgstr "{{natsume.n}}... Como está {{saito.n}}? Ele está bem?"
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "R_PONDS_D_ABORD_MA_QUESTION_QU_59C8A2"
@@ -85882,10 +85881,9 @@ msgid "Il m’a fait passer un message pour toi !"
 msgstr "=_xlfn.TRANSLATE(B218)"
 
 #: game/story/home_minato_basement.dialogue
-#, fuzzy
 msgctxt "QUOI_UN_MESSAGE_DE_SAITO_N_QUA_1A875D"
 msgid "Quoi, un message de {{saito.n}} ? Quand ? Il sait ce que je suis—"
-msgstr "=_xlfn.TRANSLATE(B219)"
+msgstr "O quê, uma mensagem de {{saito.n}}? Quando? Ele sabe o que eu sou—"
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "DIS_LUI_DE_GARDER_ESPOIR_JE_V_C7EFB6"
@@ -85933,10 +85931,11 @@ msgid "À se battre je suppose ?"
 msgstr "=_xlfn.TRANSLATE(B228)"
 
 #: game/story/home_minato_basement.dialogue
-#, fuzzy
 msgctxt "IL_VEUT_TRE_DEVENIR_ASSEZ_FORT_822766"
 msgid "Il veut peut-être devenir assez fort pour venir casser la gueule de {{minato.n}} ?"
-msgstr "=_xlfn.TRANSLATE(B229)"
+msgstr ""
+"Talvez ele queira ficar forte o suficiente para vir e quebrar o rosto de "
+"{{minato.n}}?"
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "AVOUE_QUE_A_SERAIT_TROP_BIEN_49D946"
@@ -86054,10 +86053,9 @@ msgid "Et qui m'en empêchera...?"
 msgstr "=_xlfn.TRANSLATE(B252)"
 
 #: game/story/home_minato_basement.dialogue
-#, fuzzy
 msgctxt "JE_W_NATSUME_N_FAIS_QUELQUE_CH_6D212D"
 msgid "Je...[w] {{natsume.n}} fais quelque chose... Pitié..."
-msgstr "=_xlfn.TRANSLATE(B253)"
+msgstr "Eu... [w] {{natsume.n}} faça alguma coisa... Por favor..."
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "BREF_J_AI_DES_COURSES_FAIRE_LA_319CE5"
@@ -86070,10 +86068,9 @@ msgid "Non ne me dis rien, ce sera la surprise !!"
 msgstr "=_xlfn.TRANSLATE(B255)"
 
 #: game/story/home_minato_basement.dialogue
-#, fuzzy
 msgctxt "NATSUME_N_S_IL_TE_PLA_T_5B8396"
 msgid "{{natsume.n}}, s'il te plaît..."
-msgstr "=_xlfn.TRANSLATE(B256)"
+msgstr "{{natsume.n}}, por favor..."
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "NE_LAISSE_PAS_CETTE_ORDURE_AVO_8C3A80"
@@ -86086,10 +86083,9 @@ msgid "Ma mère ne mérite pas de passer le reste de sa vie comme ça !"
 msgstr "=_xlfn.TRANSLATE(B258)"
 
 #: game/story/home_minato_basement.dialogue
-#, fuzzy
 msgctxt "PITI_PARLE_EN_SAITO_N_ADBC96"
 msgid "Pitié... Parle-en à {{saito.n}} !"
-msgstr "=_xlfn.TRANSLATE(B259)"
+msgstr "Por favor... Fale com {{saito.n}}!"
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "SI_TOI_TU_NE_PEUX_PAS_PEUT_TRE_12BB9E"
@@ -86122,10 +86118,9 @@ msgid "Vraiment ?!! Qu’est-ce qui s’est passé ?"
 msgstr "=_xlfn.TRANSLATE(B265)"
 
 #: game/story/home_minato_basement.dialogue
-#, fuzzy
 msgctxt "D_APR_S_CE_QUE_J_AI_ENTENDU_DE_1C8EA2"
 msgid "D’après ce que j’ai entendu de {{minato.n}}, notre cher {{netoru.n}} a disparu."
-msgstr "=_xlfn.TRANSLATE(B266)"
+msgstr "Pelo que ouvi de {{minato.n}}, nosso querido {{netoru.n}} desapareceu."
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "MERCI_MERCI_MON_DIEU_JE_SAVAIS_9D3EB6"
@@ -86143,10 +86138,9 @@ msgid "J’en ai pas l’impression. Quelqu’un a dû s’occuper de lui."
 msgstr "=_xlfn.TRANSLATE(B269)"
 
 #: game/story/home_minato_basement.dialogue
-#, fuzzy
 msgctxt "MERCI_NATSUME_N_MERCI_POUR_CE_4EEA71"
 msgid "Merci {{natsume.n}} ! Merci pour ce que tu as fait."
-msgstr "=_xlfn.TRANSLATE(B270)"
+msgstr "Obrigado {{natsume.n}}! Obrigado pelo que você fez."
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "CE_N_EST_PAS_MOI_JE_N_Y_SUIS_P_5E4491"
@@ -86154,10 +86148,9 @@ msgid "Ce n’est pas moi... Je n’y suis pour rien."
 msgstr "=_xlfn.TRANSLATE(B271)"
 
 #: game/story/home_minato_basement.dialogue
-#, fuzzy
 msgctxt "CE_N_EST_PAS_SAITO_N_NON_PLUS_BA86E4"
 msgid "Ce n’est pas {{saito.n}} non plus."
-msgstr "=_xlfn.TRANSLATE(B272)"
+msgstr "Também não é {{saito.n}}."
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "PEU_IMPORTE_W_ET_TOI_TU_VAS_BI_1E4E0C"
@@ -86170,10 +86163,11 @@ msgid "Moi ?[w] Pas vraiment..."
 msgstr "=_xlfn.TRANSLATE(B274)"
 
 #: game/story/home_minato_basement.dialogue
-#, fuzzy
 msgctxt "MINATO_N_PR_PARE_QUELQUE_CHOS_0C1424"
 msgid "{{minato.n}} prépare quelque chose d’horrible, et même toi, tu as du mal à t’en remettre ?"
-msgstr "=_xlfn.TRANSLATE(B275)"
+msgstr ""
+"{{minato.n}} está aprontando algo horrível, e até você está tendo "
+"dificuldade para superar?"
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "TU_SAIS_QUE_TU_PEUX_TRE_SACR_M_08687F"
@@ -86246,16 +86240,15 @@ msgid "Haha, peut-être, mais tu commences à changer !"
 msgstr "=_xlfn.TRANSLATE(B289)"
 
 #: game/story/home_minato_basement.dialogue
-#, fuzzy
 msgctxt "ASAMI_N_TU_N_AS_PLUS_BEAUCOUP_FF0502"
 msgid "{{asami.n}}... Tu n’as plus beaucoup de temps..."
-msgstr "=_xlfn.TRANSLATE(B290)"
+msgstr "{{asami.n}}... Você não tem muito tempo..."
 
 #: game/story/home_minato_basement.dialogue
-#, fuzzy
 msgctxt "JE_VAIS_CONTINUER_D_Y_CROIRE_S_B52121"
 msgid "Je vais continuer d’y croire. {{saito.n}} a dit qu’il viendrait, définitivement !"
-msgstr "=_xlfn.TRANSLATE(B291)"
+msgstr ""
+"Continuarei acreditando nisso. {{saito.n}} disse que viria, com certeza!"
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "UN_MIRACLE_S_EST_D_J_PRODUIT_A_92DE0B"
@@ -86543,10 +86536,11 @@ msgid "Je gère des situations bien plus difficiles depuis toute petite."
 msgstr "=_xlfn.TRANSLATE(B348)"
 
 #: game/story/home_minato_basement.dialogue
-#, fuzzy
 msgctxt "CE_QUI_EST_URGENT_ICI_C_EST_DE_CA689B"
 msgid "Ce qui est urgent ici, c’est de partir rapidement ! {{minato.n}} doit s’absenter, nous partirons à ce moment-là."
-msgstr "=_xlfn.TRANSLATE(B349)"
+msgstr ""
+"O que é urgente aqui é sair rápido! {{minato.n}} tem que estar ausente, "
+"partiremos nessa hora."
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "JE_REVIENS_JE_VAIS_CHERCHER_LE_7C812D"
@@ -86559,10 +86553,9 @@ msgid "Je vais lui botter le cul pour lui apprendre à faire tomber amoureuses t
 msgstr "=_xlfn.TRANSLATE(B351)"
 
 #: game/story/home_minato_basement.dialogue
-#, fuzzy
 msgctxt "CHIAKI_N_NOUS_APPORTE_LES_CLE_596608"
 msgid "{{chiaki.n}} nous apporte les clefs et on s’en va définitivement loin d’ici."
-msgstr "=_xlfn.TRANSLATE(B352)"
+msgstr "{{chiaki.n}} nos traz as chaves e definitivamente vamos longe daqui."
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "ON_IRA_O_CHEZ_MOI_DIRECTEMENT_2959A9"
@@ -87138,10 +87131,10 @@ msgid "Je connais deux ou trois raccourcis pour gagner du temps."
 msgstr "=_xlfn.TRANSLATE(B381)"
 
 #: game/story/home_asami_sayuri_room.dialogue
-#, fuzzy
 msgctxt "SAKUYA_N_JE_TE_SERAI_TERNELLE_B0C0C6"
 msgid "{{sakuya.n}}, je te serai éternellement reconnaissante. Si un jour tu as besoin de quoi que ce soit, fais-moi signe."
-msgstr "=_xlfn.TRANSLATE(B382)"
+msgstr ""
+"{{sakuya.n}}, serei eternamente grato a você. Se precisar de algo, me avise."
 
 #: game/story/home_asami_sayuri_room.dialogue
 msgctxt "MERCI_DANS_CE_CAS_JE_N_H_SITER_D4D690"
@@ -88068,10 +88061,9 @@ msgid "Tu as peut-être été suivi par la police, tiens-toi prêt à fuir !"
 msgstr "=_xlfn.TRANSLATE(B543)"
 
 #: game/story/sewers.dialogue
-#, fuzzy
 msgctxt "AKIRA_N_0ED690"
 msgid "{{akira.n}} ?!!"
-msgstr "=_xlfn.TRANSLATE(B544)"
+msgstr "{{akira.n}} ?!!"
 
 #: game/story/sewers.dialogue
 msgctxt "C_EST_QUI_LUI_B81956"
@@ -88079,10 +88071,11 @@ msgid "C'est qui, lui ?"
 msgstr "=_xlfn.TRANSLATE(B545)"
 
 #: game/story/sewers.dialogue
-#, fuzzy
 msgctxt "S_IL_TE_PLA_T_SAITO_N_LAISSE_M_702E44"
 msgid "S'il te plaît, {{saito.n}}, laisse-moi te sucer, je n'en peux plus, je n'arrive plus à me retenir."
-msgstr "=_xlfn.TRANSLATE(B546)"
+msgstr ""
+"Por favor, {{saito.n}}, deixa eu te chupar, não aguento mais, não aguento "
+"mais."
 
 #: game/story/sewers.dialogue
 msgctxt "JUSTE_UNE_PETITE_PIPE_RAPIDE_J_F5C81C"
@@ -88110,10 +88103,10 @@ msgid "Par le passé, il n'arrêtait pas de s'en prendre à moi ou à mes proche
 msgstr "=_xlfn.TRANSLATE(B551)"
 
 #: game/story/sewers.dialogue
-#, fuzzy
 msgctxt "SAKUYA_N_LUI_A_FAIT_AVALER_SA_822AA9"
 msgid "{{sakuya.n}} lui a fait avaler sa propre drogue, et depuis il est comme ça."
-msgstr "=_xlfn.TRANSLATE(B552)"
+msgstr ""
+"{{sakuya.n}} fez ele engolir sua própria droga, e desde então ele está assim."
 
 #: game/story/sewers.dialogue
 msgctxt "EH_BIEN_DIS_DONC_C_EST_DU_S_R_E41A1B"
@@ -88156,10 +88149,9 @@ msgid "Peut-être qu'avec une pression ici..."
 msgstr "=_xlfn.TRANSLATE(B560)"
 
 #: game/story/sewers.dialogue
-#, fuzzy
 msgctxt "HEY_C_EST_SAITO_N_QU_B65D81"
 msgid "Hey ! C'est {{saito.n}} qu-"
-msgstr "=_xlfn.TRANSLATE(B561)"
+msgstr "Ei! É {{saito.n}} que"
 
 #: game/story/sewers.dialogue
 msgctxt "PUTAIN_DE_CLOCHARD_QU_EST_CE_Q_48C709"
@@ -88934,10 +88926,9 @@ msgid "...[w] Comme tu voudras, bonne nuit !"
 msgstr "=_xlfn.TRANSLATE(B713)"
 
 #: game/story/home_natsume_natsume_room.dialogue
-#, fuzzy
 msgctxt "PSST_SAITO_N_TU_DORS_89F41E"
 msgid "Psst...! {{saito.n}} tu dors ?"
-msgstr "=_xlfn.TRANSLATE(B714)"
+msgstr "Psst...! {{saito.n}} você está dormindo?"
 
 #: game/story/home_natsume_natsume_room.dialogue
 msgctxt "SI_JE_TE_R_PONDS_OUI_TU_ME_LAI_916D0E"
@@ -89035,10 +89026,9 @@ msgid "Tu t’es déjà posé la question sérieusement, hein..."
 msgstr "=_xlfn.TRANSLATE(B733)"
 
 #: game/story/home_natsume_natsume_room.dialogue
-#, fuzzy
 msgctxt "TU_VOULAIS_SAVOIR_POURQUOI_JE_F2AB23"
 msgid "Tu voulais savoir pourquoi je tiens autant à {{asami.n}}..."
-msgstr "=_xlfn.TRANSLATE(B734)"
+msgstr "Você queria saber por que eu me importo tanto com {{asami.n}}..."
 
 #: game/story/home_natsume_natsume_room.dialogue
 msgctxt "ATTENDS_C_TAIT_TON_PREMIER_AMO_749F8D"
@@ -89241,10 +89231,11 @@ msgid "Ils l’ont laissée moisir dans le couloir de la mort, comme ils savent 
 msgstr "=_xlfn.TRANSLATE(B774)"
 
 #: game/story/home_natsume_natsume_room.dialogue
-#, fuzzy
 msgctxt "C_EST_CE_MOMENT_L_QUE_J_AI_REN_C7D028"
 msgid "C’est à ce moment-là que j’ai rencontré {{minato.n}}. Je le connaissais pas, mais lui savait tout de moi."
-msgstr "=_xlfn.TRANSLATE(B775)"
+msgstr ""
+"Foi quando conheci {{minato.n}}. Eu não o conhecia, mas ele sabia tudo sobre "
+"mim."
 
 #: game/story/home_natsume_natsume_room.dialogue
 msgctxt "IL_AVAIT_DES_CONTACTS_DE_L_INF_F4A799"
@@ -89377,10 +89368,9 @@ msgid "Je sais que tu as probablement plein de questions, mais nous n'en discute
 msgstr "=_xlfn.TRANSLATE(B801)"
 
 #: game/story/home_natsume_natsume_room.dialogue
-#, fuzzy
 msgctxt "TU_DOIS_TENIR_TA_PROMESSE_SAIT_C390CB"
 msgid "Tu dois tenir ta promesse, {{saito.n}}."
-msgstr "=_xlfn.TRANSLATE(B802)"
+msgstr "Você deve cumprir sua promessa, {{saito.n}}."
 
 #: game/story/home_natsume_natsume_room.dialogue
 msgctxt "OUAIS_OUAIS_C_EST_BON_J_AI_COM_A7B6A5"
@@ -89463,10 +89453,9 @@ msgid "J’arrive !"
 msgstr "=_xlfn.TRANSLATE(B818)"
 
 #: game/story/home_natsume_natsume_room.dialogue
-#, fuzzy
 msgctxt "PUTAIN_DE_MERDE_SAITO_N_3D8EC0"
 msgid "Putain de merde ! {{saito.n}} ?"
-msgstr "=_xlfn.TRANSLATE(B819)"
+msgstr "Inferno horrível! {{saito.n}}?"
 
 #: game/story/home_natsume_natsume_room.dialogue
 msgctxt "C_EST_TU_AS_CHANG_B578B4"
@@ -89564,10 +89553,10 @@ msgid "Visiblement non, tu viens d’en croquer un bout."
 msgstr "=_xlfn.TRANSLATE(B838)"
 
 #: game/story/home_natsume_natsume_room.dialogue
-#, fuzzy
 msgctxt "TU_AS_BEAU_AVOIR_CHANG_PHYSIQU_C19449"
 msgid "Tu as beau avoir changé physiquement, tu es toujours le même {{saito.n}} au fond."
-msgstr "=_xlfn.TRANSLATE(B839)"
+msgstr ""
+"Você pode ter mudado fisicamente, mas ainda é o mesmo {{saito.n}} no fundo."
 
 #: game/story/home_natsume_natsume_room.dialogue
 msgctxt "S_ENTRA_NER_CHAQUE_JOUR_ENCORE_BC1437"
@@ -90280,10 +90269,9 @@ msgid "Merci d'avoir été là..."
 msgstr "=_xlfn.TRANSLATE(B980)"
 
 #: game/story/home_natsume_natsume_room.dialogue
-#, fuzzy
 msgctxt "NATSUME_N_A84D8E"
 msgid "{{natsume.n}} ?"
-msgstr "=_xlfn.TRANSLATE(B981)"
+msgstr "{{natsume.n}}?"
 
 #: game/story/home_natsume_natsume_room.dialogue
 msgctxt "BON_VISIBLEMENT_ELLE_EST_D_J_P_A59A85"
@@ -90301,10 +90289,9 @@ msgid "Je la verrai ce soir pour lui dire que je vais passer à l’action !"
 msgstr "=_xlfn.TRANSLATE(B984)"
 
 #: game/story/home_natsume_natsume_room.dialogue
-#, fuzzy
 msgctxt "NATSUME_N_JE_SUIS_RENTR_496B16"
 msgid "{{natsume.n}}, je suis rentré !"
-msgstr "=_xlfn.TRANSLATE(B985)"
+msgstr "{{natsume.n}}, voltei!"
 
 #: game/story/home_natsume_natsume_room.dialogue
 msgctxt "ENCORE_DES_NOUILLES_INSTANTAN_6D6E99"
@@ -90377,10 +90364,9 @@ msgid "Toutefois, je dois t’avouer que tu m’as impressionné."
 msgstr "=_xlfn.TRANSLATE(B999)"
 
 #: game/story/home_natsume_natsume_room.dialogue
-#, fuzzy
 msgctxt "R_USSIR_FAIRE_FONDRE_LE_C_UR_GL_D4D568"
 msgid "Réussir à faire fondre le cœur glacé de {{natsume.n}}..."
-msgstr "=_xlfn.TRANSLATE(B1000)"
+msgstr "Conseguir derreter o coração gelado de {{natsume.n}}..."
 
 #: game/story/home_natsume_natsume_room.dialogue
 msgctxt "M_ME_MOI_JE_N_Y_TAIS_JAMAIS_PA_3CD910"
@@ -90413,10 +90399,9 @@ msgid "Pas de réponse ?[w] Je suppose que tu n’avais pas envisagé cette poss
 msgstr "=_xlfn.TRANSLATE(B1006)"
 
 #: game/story/home_natsume_natsume_room.dialogue
-#, fuzzy
 msgctxt "TU_SAVAIS_QUE_CETTE_SALOPE_N_A_662791"
 msgid "Tu savais que cette salope n’avait jamais donné de X3 à {{asami.n}} ?"
-msgstr "=_xlfn.TRANSLATE(B1007)"
+msgstr "Você sabia que essa vadia nunca deu um X3 para {{asami.n}}?"
 
 #: game/story/home_natsume_natsume_room.dialogue
 msgctxt "ELLE_S_TAIT_ARRANG_E_POUR_FAIR_3BD705"
@@ -90434,10 +90419,11 @@ msgid "C’est là que tu te trompes. Maintenant, je vais devoir contacter des g
 msgstr "=_xlfn.TRANSLATE(B1010)"
 
 #: game/story/home_natsume_natsume_room.dialogue
-#, fuzzy
 msgctxt "AUTANT_MON_ANCIEN_CLIENT_SE_SE_35ABC8"
 msgid "Autant mon ancien client se serait amusé avec {{asami.n}} quelque temps et aurait vite été lassé, mais eux..."
-msgstr "=_xlfn.TRANSLATE(B1011)"
+msgstr ""
+"Por mais que meu antigo cliente se divertisse com {{asami.n}} por um tempo e "
+"logo teria ficado entediado, eles..."
 
 #: game/story/home_natsume_natsume_room.dialogue
 msgctxt "DISONS_QU_ILS_SONT_L_POUR_RENT_62DEED"
@@ -90465,16 +90451,16 @@ msgid "Je reconnais tes efforts, je suis admiratif. J’admire aussi ta capacit�
 msgstr "=_xlfn.TRANSLATE(B1016)"
 
 #: game/story/home_natsume_natsume_room.dialogue
-#, fuzzy
 msgctxt "JE_TE_PROPOSE_DE_TRAVAILLER_PO_B7BD2E"
 msgid "Je te propose de travailler pour moi et en échange tu récupères {{natsume.n}} ! Je ferai même libérer sa mère."
-msgstr "=_xlfn.TRANSLATE(B1017)"
+msgstr ""
+"Eu te ofereço para trabalhar para mim e, em troca, você recebe {{natsume.n}}"
+"! Vou até liberar a mãe dele."
 
 #: game/story/home_natsume_natsume_room.dialogue
-#, fuzzy
 msgctxt "W_ET_ASAMI_N_6DBDF0"
 msgid "...[w] Et {{asami.n}} ?"
-msgstr "=_xlfn.TRANSLATE(B1018)"
+msgstr "... [w] E {{asami.n}}?"
 
 #: game/story/home_natsume_natsume_room.dialogue
 msgctxt "ELLE_EST_D_J_PERDUE_DE_TOUTE_F_AB8295"
@@ -90522,10 +90508,9 @@ msgid "J’ai envie d’une conclusion épique à tout ça !"
 msgstr "=_xlfn.TRANSLATE(B1027)"
 
 #: game/story/home_natsume_natsume_room.dialogue
-#, fuzzy
 msgctxt "W_POURQUOI_MINATO_N_POURQUOI_F69296"
 msgid "...[w] Pourquoi {{minato.n}} ? Pourquoi tu fais tout ça ?"
-msgstr "=_xlfn.TRANSLATE(B1028)"
+msgstr "... [w] Por que {{minato.n}}? Por que você está fazendo tudo isso?"
 
 #: game/story/home_natsume_natsume_room.dialogue
 msgctxt "W_PARCE_QUE_C_EST_AMUSANT_VOY_DA47B6"
@@ -90618,9 +90603,10 @@ msgid "Oui, je suis convaincu qu’il est un régresseur !"
 msgstr "=_xlfn.TRANSLATE(B1046)"
 
 #: core/scenes/ui/notification.tscn
-#, fuzzy
 msgid "[center]Vous arrêtez l'enregistrement sous les yeux de Noriko. Faut pas oublier aussi que ça peut dépasser.[/center]"
-msgstr "=_xlfn.TRANSLATE(B1047)"
+msgstr ""
+"[center]Você para a gravação na frente dos olhos da Noriko. Não esqueça que "
+"pode passar por cima. [/center]"
 
 #: core/scenes/lovense_notification.gd
 msgctxt "lovense.messages"
@@ -90657,13 +90643,11 @@ msgid "Maintenant compatible avec {{lovense}}."
 msgstr "Agora compatível com {{lovense}}."
 
 #: game/scenes/gui/bad_ending/betrayed_girl.gd
-#, fuzzy
 msgctxt "game_over.title"
 msgid "[i]La fille qui a été trahie.[/i]"
-msgstr "=_xlfn.TRANSLATE(B1048)"
+msgstr "[i]A garota que foi traída. [/i]"
 
 #: game/scenes/gui/bad_ending/betrayed_girl.gd
-#, fuzzy
 msgctxt "game_over.summary"
 msgid ""
 "[fill]{{asami.n}} a cédé à la manipulation de {{netoru.n}}. Profitant de sa détresse et de sa soif de vengeance, il l'a poussée à accepter le X3 de son plein gré. Malgré le dégoût profond qu'elle "
@@ -90685,7 +90669,45 @@ msgid ""
 "[fill]{{asami.n}}, de son côté, reviendra renouer les liens avec sa mère durant sa grossesse. Elle lui présentera {{netoru.n}}. Malgré le choc ressenti en voyant l'homme qui avait l'âge d'être le "
 "père de sa fille, {{sayuri.n}} ravalera ses pensées et se contentera de les accueillir à bras ouverts en voyant le bonheur affiché par {{asami.n}}. Après tout elle aura bientôt des petits enfants..."
 "[/fill]"
-msgstr "=_xlfn.TRANSLATE(B1049)"
+msgstr ""
+"[fill]{{asami.n}} cedeu à manipulação de {{netoru.n}}. Aproveitando-se de "
+"seu desespero e de sua sede de vingança, ele a pressionou a aceitar o X3 de "
+"livre e espontânea vontade. Apesar do nojo profundo que sentia por ele, a "
+"química do produto reescreveu sua percepção e o desejo a sobrecarregou assim "
+"que seus olhares se cruzaram. {{netoru.n}} tornou-se a única pessoa que "
+"importava. {{saito.n}} apagou-se de sua mente; simplesmente não havia mais "
+"lugar para ele, nem em seu coração, nem em seu espírito. Sua vida agora "
+"deveria girar em torno desse homem que ela outrora odiava e que passaria a "
+"amar perdidamente a partir daquele momento.[/fill]\n"
+"\n"
+"[fill]{{minato.n}} a deixará ir. Antes de deixar a cidade, {{asami.n}} "
+"passará para ver sua mãe no konbini para anunciar seu retorno. {{sayuri.n}} "
+"saberá instantaneamente, ao cruzar seu olhar, que ela sabe a verdade. As "
+"desculpas e os pedidos de perdão não mudarão nada. {{asami.n}} lhe dirigirá "
+"apenas um olhar frio e desprezante antes de anunciar que sairá de casa. Sua "
+"mãe lhe pedirá apenas, à beira das lágrimas, que lhe dê notícias de vez em "
+"quando, acrescentando que ela continuará sendo sua filha querida para todo o "
+"sempre.[/fill]\n"
+"\n"
+"[fill]{{saito.n}} saberá do retorno de {{asami.n}} e de sua partida "
+"repentina através de sua mãe em lágrimas; ele nunca terá a coragem de lhe "
+"revelar a sombria verdade. A partir desse momento, ele receberá toda semana "
+"em sua caixa de correio vídeos enviados por {{asami.n}} ou [i]A garota que "
+"foi traída[/i], como ela gosta de se apresentar em suas mensagens. Ela "
+"enfatizará incessantemente essa traição em meio a cada um de seus atos "
+"filmados com {{netoru.n}}.[/fill]\n"
+"\n"
+"[fill]{{saito.n}} nunca falará sobre isso com ninguém, corroído pela "
+"culpabilidade. No dia em que notar que ela está grávida, ele será incapaz de "
+"suportar mais: consumido pela vergonha, decidirá então deixar a cidade e "
+"refazer sua vida em outro lugar.[/fill]\n"
+"\n"
+"[fill]{{asami.n}}, por sua vez, voltará a reatar os laços com sua mãe "
+"durante a gravidez. Ela lhe apresentará {{netoru.n}}. Apesar do choque "
+"sentido ao ver o homem que tinha idade para ser pai de sua filha, {{sayuri."
+"n}} engolirá seus pensamentos e se contentará em acolhê-los de braços "
+"abertos ao ver a felicidade estampada por {{asami.n}}. Afinal, ela logo terá "
+"netos...[/fill]"
 
 #: game/scenes/gui/bad_ending/game_over.tscn
 msgid "Voir ce qui s'est passé."
@@ -96052,10 +96074,9 @@ msgid "Suivre l'histoire de {{sayuri.n}}."
 msgstr "Acompanhe a história de {{sayuri.n}}."
 
 #: game/scenes/cg/list.tres
-#, fuzzy
 msgctxt "galleries.images.hints"
 msgid "Se laisser séduire par {{sayuri.n}}."
-msgstr "=_xlfn.TRANSLATE(B1054)"
+msgstr "Ser seduzido por {{sayuri.n}}."
 
 #: game/scenes/cg/list.tres
 msgctxt "galleries.images.hints"
