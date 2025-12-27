@@ -111,17 +111,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-11-28 10:37+0100\n"
+"POT-Creation-Date: 2025-12-12 13:32+0100\n"
 "PO-Revision-Date: 2025-12-10 13:04+0000\n"
 "Last-Translator: Paweł Mat <pawel_mati@interia.pl>\n"
-"Language-Team: Polish <https://translations.teot-studio.com/projects/"
-"goodbye-eternity/game-translation/pl/>\n"
+"Language-Team: Polish <https://translations.teot-studio.com/projects/goodbye-eternity/game-translation/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8-bit\n"
-"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
-"|| n%100>=20) ? 1 : 2;\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 4.17\n"
 
 #: game/scenes/cg/noriko/laptop.tscn
@@ -615,6 +613,11 @@ msgstr "W porządku!"
 msgctxt "t7c25a56e9a"
 msgid "Oui !"
 msgstr "Tak!"
+
+#: game/story/home_asami_bathroom.dialogue
+msgctxt "OUI_E66A4D"
+msgid "Oui !"
+msgstr ""
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "taeb1bb5d11"
@@ -1193,8 +1196,7 @@ msgstr "Nie możesz myśleć w ten sposób!"
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_e9e491a3"
 msgid "Je voulais que tu puisses grandir avec {{noriko.n}} normalement."
-msgstr ""
-"Chciałam, żebyście razem z {{noriko.n}} mieli szansę normalnie dorosnąć."
+msgstr "Chciałam, żebyście razem z {{noriko.n}} mieli szansę normalnie dorosnąć."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_bcbcc830"
@@ -1221,6 +1223,11 @@ msgctxt "home_player_livingroom_0a07202a"
 msgid "Je comprends..."
 msgstr "Rozumiem..."
 
+#: game/story/home_asami_exterior.dialogue
+msgctxt "JE_COMPRENDS_902D08"
+msgid "Je comprends..."
+msgstr ""
+
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_15a1bceb"
 msgid "D'ailleurs, à ce sujet..."
@@ -1239,9 +1246,7 @@ msgstr "Czy ktoś może mi powiedzieć co tu się dzieje?!"
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_4c17d2d2"
 msgid "{{yasuka.n}}, je ne vous paye pas pour faire la causette aux clients ! Vous vous croyez dans un bar à hôtesses ?"
-msgstr ""
-"{{yasuka.n}}! Nie płacę ci za podrywanie klientów! Myślisz, że jesteś w "
-"barze dla hostess?"
+msgstr "{{yasuka.n}}! Nie płacę ci za podrywanie klientów! Myślisz, że jesteś w barze dla hostess?"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_72c2ae27"
@@ -2413,6 +2418,11 @@ msgctxt "home_asami_exterior_87c30b61"
 msgid "..."
 msgstr "..."
 
+#: game/story/home_asami_exterior.dialogue
+msgctxt "_2D9E76"
+msgid "..."
+msgstr ""
+
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "pc_noriko_29cd7803"
 msgid "..."
@@ -3241,8 +3251,7 @@ msgstr "Przepraszam ale to nie jest coś czym lubię się chwalić."
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_31f8cf8d"
 msgid "Ne vous en faites pas... Je vais y réfléchir, je suis sûr que je trouverai un moyen de vous aider."
-msgstr ""
-"Nie martw się... Pomyślę o tym. Jestem pewien że znajdę sposób aby ci pomóc."
+msgstr "Nie martw się... Pomyślę o tym. Jestem pewien że znajdę sposób aby ci pomóc."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_df5f3f1d"
@@ -3277,8 +3286,7 @@ msgstr "Przepraszam... Chciałem cię wesprzeć, ale chyba wszystko zepsułem."
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_bce09a57"
 msgid "Ne t'inquiète pas pour ça. Le fait de savoir que je suis soutenu par un garçon aussi gentil me suffit."
-msgstr ""
-"Nie martw się tym. Wystarczy mi świadomość że wspiera mnie taki miły chłopak."
+msgstr "Nie martw się tym. Wystarczy mi świadomość że wspiera mnie taki miły chłopak."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_add43a5d"
@@ -4013,14 +4021,12 @@ msgstr "Powinienem wziąć Walkman'a. Jest na moim łóżku."
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_293b2c4f"
 msgid "Pas de temps à perdre ! Je dois trouver ce qui arrive à {{yasuka.n}} !"
-msgstr ""
-"Nie ma czasu do stracenia! Muszę dowiedzieć się co się stało z {{yasuka.n}}!"
+msgstr "Nie ma czasu do stracenia! Muszę dowiedzieć się co się stało z {{yasuka.n}}!"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_2fe8ad28"
 msgid "{{yasuka.n}} m'a appelé dans sa chambre. Je devrais la rejoindre."
-msgstr ""
-"{{yasuka.n}} zawołała mnie do swojego pokoju. Powinienem do niej dołączyć."
+msgstr "{{yasuka.n}} zawołała mnie do swojego pokoju. Powinienem do niej dołączyć."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_554c43d4"
@@ -4085,8 +4091,7 @@ msgstr "Hej, co z tobą nie tak?! Krzycząc tak z rana?!"
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_11d3ac2a"
 msgid "Y'en a marre, quand est-ce que tu te comporteras comme un mec ?"
-msgstr ""
-"Mam już tego dosyć... Kiedy zaczniesz się zachowywać jak prawidzwy mężczyzna?"
+msgstr "Mam już tego dosyć... Kiedy zaczniesz się zachowywać jak prawidzwy mężczyzna?"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_23584010"
@@ -4151,9 +4156,7 @@ msgstr "Jak mogłem zapomnieć o {{noriko.n}}?"
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_8ed9d900"
 msgid "Elle a toujours été ultra-violente avec moi, j'ai essayé de savoir pourquoi elle m'en voulait tellement, mais..."
-msgstr ""
-"Zawsze była w stosunku do mnie agresywna. Starałem się dowiedzieć czemu "
-"ale..."
+msgstr "Zawsze była w stosunku do mnie agresywna. Starałem się dowiedzieć czemu ale..."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_0b052899"
@@ -4163,16 +4166,12 @@ msgstr "Zawsze robiła mi na złość."
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_e49418ab"
 msgid "Si je me souviens bien, elle va quitter la maison en volant le peu d'argent qu'il restera à {{yasuka.n}} pour s'enfuir avec une bande de racailles."
-msgstr ""
-"A no tak... W moim śnie, opóściła dom, wzieła resztkę pieniędzy które "
-"zostały {{yasuka.n}} i dała to wszystko bandzie szumowin."
+msgstr "A no tak... W moim śnie, opóściła dom, wzieła resztkę pieniędzy które zostały {{yasuka.n}} i dała to wszystko bandzie szumowin."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_7199d067"
 msgid "Et on va la retrouver noyée dans le canal peu de temps après sa fugue, son corps totalement souillé."
-msgstr ""
-"Wkróce potem znaleziono ją utopioną w kanale, a jej ciało całkowice "
-"zbeszczeszczone..."
+msgstr "Wkróce potem znaleziono ją utopioną w kanale, a jej ciało całkowice zbeszczeszczone..."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_9cd593bd"
@@ -4392,22 +4391,17 @@ msgstr "Poczekaj chwilę..."
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_82150078"
 msgid "Si je rentre ici sans être préparé, elle va encore trouver le moyen de me faire chanter..."
-msgstr ""
-"Jeżeli przyjdę nieprzygotowany to ona znowu znajdzie sposób by mnie "
-"szantażować."
+msgstr "Jeżeli przyjdę nieprzygotowany to ona znowu znajdzie sposób by mnie szantażować."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_2075f795"
 msgid "Dans mon rêve, elle m'avait accusé de l'avoir violé et avait quitté la maison peu de temps après."
-msgstr ""
-"W moim śnie, oskarżyła mnie, że ją zgwałciłem i od razu po tym wybiegła."
+msgstr "W moim śnie, oskarżyła mnie, że ją zgwałciłem i od razu po tym wybiegła."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_c9edb325"
 msgid "{{yasuka.n}} ne m'avait plus jamais adressée la parole, j'avais dû quitter la maison par la suite."
-msgstr ""
-"Po tym, {{yasuka.n}} nigdy więcej się do mnie nie odezwała i musiałem się "
-"wynieść."
+msgstr "Po tym, {{yasuka.n}} nigdy więcej się do mnie nie odezwała i musiałem się wynieść."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_a3deec1e"
@@ -4472,9 +4466,7 @@ msgstr "Nigdy bym nie pomyślał, że {{noriko.n}} po prostu ... to zrobi."
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_37774e33"
 msgid "Peut-être devrais-je profiter un petit temps de cette situation, je serais curieux de voir ou tout ça va me mener."
-msgstr ""
-"Może powininem wykorzystać tą sytuację. Jestem ciekaw co jeszcze mi "
-"pokarze..."
+msgstr "Może powininem wykorzystać tą sytuację. Jestem ciekaw co jeszcze mi pokarze..."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_0f41cc13"
@@ -5029,8 +5021,7 @@ msgstr "Czemu miała by się zadawać z pasożytem takim jak ty?"
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_59800ea8"
 msgid "Très bonne question, et si tu me laissais y aller, j'aurais la réponse."
-msgstr ""
-"To bardzo dobre pytanie i jeżeli pozwolisz mi iść może zdobędę odpowiedź."
+msgstr "To bardzo dobre pytanie i jeżeli pozwolisz mi iść może zdobędę odpowiedź."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_b75a0305"
@@ -5140,22 +5131,17 @@ msgstr "Jestem pewna, że zboczeniec taki jak ty zrobił coś podejrzanego."
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_0a301055"
 msgid "C'est trop difficile à croire qu'elles pourraient être là simplement parce qu'elles m'apprécient ?"
-msgstr ""
-"Czy to jest takie trudne do zrozumienia, że mogły przyjść bo mnie po prostu "
-"lubią?"
+msgstr "Czy to jest takie trudne do zrozumienia, że mogły przyjść bo mnie po prostu lubią?"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_d76abc04"
 msgid "Pfff, ne me fait pas rire, n'oublie pas qu'aux yeux de toute la fac, tu restes un déchet."
-msgstr ""
-"Pfff, nie rozśmieszaj mnie. Nie zapominaj, że w oczach całej uczelni nadal "
-"jesteś śmieciem."
+msgstr "Pfff, nie rozśmieszaj mnie. Nie zapominaj, że w oczach całej uczelni nadal jesteś śmieciem."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_1c24a0ed"
 msgid "Les choses ne vont pas changer parce que tu t'es mis à courir, ou je ne sais quelle autre connerie."
-msgstr ""
-"Rzeczy się nie zmienią, ponieważ zacząłeś biegać czy co tam kurwa robisz."
+msgstr "Rzeczy się nie zmienią, ponieważ zacząłeś biegać czy co tam kurwa robisz."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_274f4445"
@@ -5175,9 +5161,7 @@ msgstr "Zamknij się!"
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_d795e5c3"
 msgid "Une seconde, je ne peux pas me présenter comme ça pour mon premier jour au restaurant..."
-msgstr ""
-"Poczekaj sekunde, nie mogę się tak pokazać w pierwszy dzień pracy w "
-"restauracji..."
+msgstr "Poczekaj sekunde, nie mogę się tak pokazać w pierwszy dzień pracy w restauracji..."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_15e69ec4"
@@ -5372,9 +5356,7 @@ msgstr "Twoja matka to przepiękna kobieta..."
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_6f1bef95"
 msgid "Si je pouvais avoir la même classe qu'elle dans dix ans, je pense que j'aurais réussi ma vie."
-msgstr ""
-"Jeżeli mogłabym mieć taką klasę jak ona za dziesięc lat, moje życie byłoby "
-"sukcesem."
+msgstr "Jeżeli mogłabym mieć taką klasę jak ona za dziesięc lat, moje życie byłoby sukcesem."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_6ef525f3"
@@ -5529,8 +5511,7 @@ msgstr "Tak czy siak..."
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_7b6de4f1"
 msgid "Bon, je peux savoir pourquoi tu passes ton temps à écouter à ma porte ?"
-msgstr ""
-"Cóż, możesz mi powiedzieć czemu spędziasz swój czas na podsłuchiwaniu mnie?"
+msgstr "Cóż, możesz mi powiedzieć czemu spędziasz swój czas na podsłuchiwaniu mnie?"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_743afa02"
@@ -5555,9 +5536,7 @@ msgstr "Serio, jaki masz problem?"
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_e1b36b7c"
 msgid "J'essaye de te parler, tu m'envoies chier, je t'ignore, tu m'envoies chier aussi."
-msgstr ""
-"Próbuje z tobą porozmawiać, a ty mi mówisz żebym spierdalał. Ignoruje cię i "
-"również mówisz mi bym spierdalał."
+msgstr "Próbuje z tobą porozmawiać, a ty mi mówisz żebym spierdalał. Ignoruje cię i również mówisz mi bym spierdalał."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_8f217dd2"
@@ -5572,9 +5551,7 @@ msgstr "Nie możesz..."
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_7b43a022"
 msgid "Tu n'as pas le droit d'agir comme tu fais avec moi, et du jour au lendemain totalement m'ignorer !"
-msgstr ""
-"Nie możesz się tak zachowywać po tym wszystkim, co zrobiłeś, a potem udawać, "
-"że to się nigdy nie wydarzyło!"
+msgstr "Nie możesz się tak zachowywać po tym wszystkim, co zrobiłeś, a potem udawać, że to się nigdy nie wydarzyło!"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_269b7a36"
@@ -5594,8 +5571,7 @@ msgstr "Nawet po tym jak prosiłem by zerwać więzi, ona prosi o więcej?"
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_c4f15d27"
 msgid "Même si j'ai agi de manière agressive, elle en redemande ?"
-msgstr ""
-"Nawet po tym jak zachowywałem się agresywanie wobec niej, ona prosi o więcej?"
+msgstr "Nawet po tym jak zachowywałem się agresywanie wobec niej, ona prosi o więcej?"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_43b51905"
@@ -5630,9 +5606,7 @@ msgstr "Nie, to... dokładnie ten pokój, którego należy unikać."
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_61f71d48"
 msgid "D'ailleurs si tu permets j'aimerais éviter de trop traîner dans le couloir avant qu'elle n-"
-msgstr ""
-"Poza tym, jeśli nie masz nic przeciwko, wolałbym unikać zbyt długiego "
-"przebywania na korytarzu, zanim ona..."
+msgstr "Poza tym, jeśli nie masz nic przeciwko, wolałbym unikać zbyt długiego przebywania na korytarzu, zanim ona..."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_7a04f3c3"
@@ -5672,9 +5646,7 @@ msgstr "Mam się martwić?"
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_e598b3e2"
 msgid "Oui tu ferais bien... Regarde pas trop la poubelle de mouchoirs sous son bureau, t'a pas envie de savoir ce qu'elle contient."
-msgstr ""
-"Tak, powinnaś... nie powinnaś zbliżać sie do śmietnika z chusteczkami pod "
-"jego biurkiem. Nie chcesz wiedzieć co w nich jest."
+msgstr "Tak, powinnaś... nie powinnaś zbliżać sie do śmietnika z chusteczkami pod jego biurkiem. Nie chcesz wiedzieć co w nich jest."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_40288dea"
@@ -5851,6 +5823,11 @@ msgctxt "asami_choice_c744ba2a"
 msgid "Je..."
 msgstr "Ja..."
 
+#: game/story/home_minato_basement.dialogue
+msgctxt "JE_8B9E30"
+msgid "Je..."
+msgstr ""
+
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_0c7836ac"
 msgid "N'y pense même pas..."
@@ -5879,8 +5856,7 @@ msgstr "Czego chciałeś od mojej matki?!"
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_d0016190"
 msgid "...je ne voulais rien de \"ta mère\" comme tu aimes si bien me le rappeler."
-msgstr ""
-"...Nic nie chciałem od 'twojej matki' - skoro tak lubisz mi to przypomnieć."
+msgstr "...Nic nie chciałem od 'twojej matki' - skoro tak lubisz mi to przypomnieć."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_e226b9a5"
@@ -5890,8 +5866,7 @@ msgstr "Martwiłem się tylko o nią. Nie wygląda dobrze."
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_4c25f6c6"
 msgid "Pfff, c'est parce qu'elle en a marre de se taper un parasite à nourrir en plus !"
-msgstr ""
-"Hmph! To tylko przez to, że ma już dość żywienia jeszcze jednego pasożyta!"
+msgstr "Hmph! To tylko przez to, że ma już dość żywienia jeszcze jednego pasożyta!"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_adcfa2f8"
@@ -5921,9 +5896,7 @@ msgstr "Pomożesz mi?"
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_084c177c"
 msgid "On verra, explique-moi rapidement ce qui se passe et dépêche-toi, j'ai... un film à regarder."
-msgstr ""
-"Zobaczymy. Wytłumacz mi o co chodzi i streszczaj się mam... film do "
-"obejrzenia."
+msgstr "Zobaczymy. Wytłumacz mi o co chodzi i streszczaj się mam... film do obejrzenia."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_0c195e5e"
@@ -6144,9 +6117,7 @@ msgstr "Nie wiem czy on traktuje {{yasuka.n}} tak samo."
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_3c7c43b4"
 msgid "Mais si c'est le cas...[w] Je me demande comment elle a fait toutes ses années pour tenir le coup."
-msgstr ""
-"Ale jezeli tak jest...[w] zastanawiam się jak ona była wstanie wytrzymać "
-"przez te wszystkie lata."
+msgstr "Ale jezeli tak jest...[w] zastanawiam się jak ona była wstanie wytrzymać przez te wszystkie lata."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_5216a38b"
@@ -6216,9 +6187,7 @@ msgstr "Okej więc... po prostu odejdź i nic nie mów."
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_40f0691a"
 msgid "Je suppose que notre relation s'améliore, mais il faut pas en demander trop non plus."
-msgstr ""
-"Myślę, że nasze relacje się poprawiają ale nie powinienem oczekiwać zbyt "
-"wiele."
+msgstr "Myślę, że nasze relacje się poprawiają ale nie powinienem oczekiwać zbyt wiele."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_9a37c39d"
@@ -6378,9 +6347,7 @@ msgstr "Rozumiem..."
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_857e862a"
 msgid "Merci pour tout ce que tu as fait, je suppose que finalement, tu ne te débrouilles pas si mal..."
-msgstr ""
-"Dziękuję za wszystko co zrobiłeś. Myślę, że mimo wszystko nie robisz aż tak "
-"złej roboty..."
+msgstr "Dziękuję za wszystko co zrobiłeś. Myślę, że mimo wszystko nie robisz aż tak złej roboty..."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "t932ee96c2f"
@@ -6435,9 +6402,7 @@ msgstr "Hej, za kogo mnie masz?"
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_21cf31c8"
 msgid "Excuse-moi, c'est juste que je n'ai pas l'habitude que tu sois aussi gentille avec moi."
-msgstr ""
-"Przepraszam, po prostu nie jestem przyzwyczajony do tego, że jesteś dla mnie "
-"miła."
+msgstr "Przepraszam, po prostu nie jestem przyzwyczajony do tego, że jesteś dla mnie miła."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_24bbf4e1"
@@ -6452,8 +6417,7 @@ msgstr "A to nowość..."
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_7e0d4eb8"
 msgid "Mais je suis content de voir qu'elle peut se comporter comme ça avec moi maintenant."
-msgstr ""
-"Ale cieszę się, że jednak potrawi się zachowywać wobec mnie w ten sposób."
+msgstr "Ale cieszę się, że jednak potrawi się zachowywać wobec mnie w ten sposób."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_1dffa0c4"
@@ -6473,9 +6437,7 @@ msgstr "Możesz kontynuować jeśli chcesz, ale ja idę spać."
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_ac0d401c"
 msgid "[font_size=14]Mais je t'en prie continue ! Fait comme si j'étais là[/font_size]"
-msgstr ""
-"[font_size=14]Ale proszę, rób dalej to, co robisz! Udawaj, że wciąż tu "
-"jestem.[/font_size]"
+msgstr "[font_size=14]Ale proszę, rób dalej to, co robisz! Udawaj, że wciąż tu jestem.[/font_size]"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_86b507cb"
@@ -6505,9 +6467,7 @@ msgstr "[font_size=14]... więc, było to bolesne?[/font_size]"
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_a53bb4c3"
 msgid "[font_size=14]Oui au début, mais c'est de sa faute aussi, son truc fait la taille de mon avant-bras...[/font_size]"
-msgstr ""
-"[font_size=14]Tak, na początku, ale to po części jego wina. Jego koleżka "
-"jest rozmiaru mojego przedramienia.[/font_size]"
+msgstr "[font_size=14]Tak, na początku, ale to po części jego wina. Jego koleżka jest rozmiaru mojego przedramienia.[/font_size]"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_eff90644"
@@ -6527,9 +6487,7 @@ msgstr "O nie!"
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_c4ca2175"
 msgid "[font_size=14]Comment ça il t'a déboîtée la mâchoire !?[/font_size]"
-msgstr ""
-"[font_size=14]Co masz na myśli mówiąc że prawie zwichnął ci "
-"szczękę!?[/font_size]"
+msgstr "[font_size=14]Co masz na myśli mówiąc że prawie zwichnął ci szczękę!?[/font_size]"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_eb19f629"
@@ -6549,16 +6507,12 @@ msgstr "NIE!!!"
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_af7c4207"
 msgid "[font_size=14]Euh non... je veux dire, je l'ai vu qui prenait sa douche et j'ai vu...[/font_size]"
-msgstr ""
-"[font_size=14]Uh nie... Znaczy, widziałam przypadkowo jak brał przysznic "
-"i...[/font_size]"
+msgstr "[font_size=14]Uh nie... Znaczy, widziałam przypadkowo jak brał przysznic i...[/font_size]"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_44744deb"
 msgid "[font_size=14]Oh ! Mais oui, je suis bête, j'imagine toujours des situations extrêmes ![/font_size]"
-msgstr ""
-"[font_size=14]Oh ! Tak, głupia ja. Zawsze wyobrażam sobie ,,ekstremalne "
-"sytuacje,,![/font_size]"
+msgstr "[font_size=14]Oh ! Tak, głupia ja. Zawsze wyobrażam sobie ,,ekstremalne sytuacje,,![/font_size]"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_ca116351"
@@ -6568,22 +6522,17 @@ msgstr "[font_size=14]Więc, czy chciałaś kiedykolwiek...[/font_size]"
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_99a59198"
 msgid "[font_size=14]Mais... Je comprends pas, vous n'êtes pas ensemble ?[/font_size]"
-msgstr ""
-"[font_size=14]Ale... nie rozumiem. To wy nie jesteście razem?[/font_size]"
+msgstr "[font_size=14]Ale... nie rozumiem. To wy nie jesteście razem?[/font_size]"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_f35f7667"
 msgid "[font_size=14]Non... ça a failli, c'est pas comme s'il ne me plaisait pas mais...[/font_size]"
-msgstr ""
-"[font_size=14]Nie... No cóż, prawie tak było. Nie żebym go nie uważała za "
-"atrakcyjnego, ale...[/font_size]"
+msgstr "[font_size=14]Nie... No cóż, prawie tak było. Nie żebym go nie uważała za atrakcyjnego, ale...[/font_size]"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_41aec1ff"
 msgid "[font_size=14]Il a préféré agir comme un ami plutôt que profiter de moi dans un moment où je n'avais pas les idées en ordre...[/font_size]"
-msgstr ""
-"[font_size=14]Wolał zachowywać się jak przyjaciel, niż wykorzystywać mnie w "
-"chwili, gdy nie myślałam trzeźwo...[/font_size]"
+msgstr "[font_size=14]Wolał zachowywać się jak przyjaciel, niż wykorzystywać mnie w chwili, gdy nie myślałam trzeźwo...[/font_size]"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_8b400eea"
@@ -6608,9 +6557,7 @@ msgstr "Jasne! Wiesz, nie jest taka zła."
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_c2bd48aa"
 msgid "Tu devrais peut être lui accorder un peu plus d'attention et je suis sûre que vous vous entendriez à merveille."
-msgstr ""
-"Może gdybyś poświęcił jej trochę więcej uwagi, jestem pewna, że świetnie "
-"byście się dogadywali."
+msgstr "Może gdybyś poświęcił jej trochę więcej uwagi, jestem pewna, że świetnie byście się dogadywali."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_520c88a3"
@@ -6645,22 +6592,17 @@ msgstr "Może..."
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_008c95f3"
 msgid "Bon, je suppose que tu n'es pas venue ici pour discuter de {{noriko.n}} ?"
-msgstr ""
-"Więc, zakładam, że nie przyszedłeś tu, żeby rozmawiać o {{noriko.n}}, prawda?"
+msgstr "Więc, zakładam, że nie przyszedłeś tu, żeby rozmawiać o {{noriko.n}}, prawda?"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_2079403a"
 msgid "Non idiot ! J'étais venue pour passer un moment tranquille avec toi et peut-être même plus encore mais... Je ne savais pas qu'il y avait autant de monde chez toi."
-msgstr ""
-"Nie, głuptasie! Przyszłam spędzić z tobą trochę czasu w ciszy, a może nawet "
-"dłużej, ale... nie wiedziałam, że u ciebie będzie tyle ludzi."
+msgstr "Nie, głuptasie! Przyszłam spędzić z tobą trochę czasu w ciszy, a może nawet dłużej, ale... nie wiedziałam, że u ciebie będzie tyle ludzi."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_be80cc7a"
 msgid "Non idiot ! J'étais venue pour passer un moment tranquille avec toi et jouer à la console toute la journée mais... Je ne savais pas qu'il y avait autant de monde chez toi."
-msgstr ""
-"Nie, głuptasie! Przyszłam spędzić z tobą trochę czasu w ciszy, a może nawet "
-"dłużej, ale... nie wiedziałam, że u ciebie będzie tyle ludzi."
+msgstr "Nie, głuptasie! Przyszłam spędzić z tobą trochę czasu w ciszy, a może nawet dłużej, ale... nie wiedziałam, że u ciebie będzie tyle ludzi."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_b5b06397"
@@ -6750,9 +6692,7 @@ msgstr "...okej, ale tak było przed tem!"
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_aae7545d"
 msgid "Je peux... je veux m'occuper de ça moi-même cette fois-ci, donc merci pour la proposition mais non merci."
-msgstr ""
-"Mogę... Chcę tym razem zająć się tym sam, więc dziękuję za ofertę, ale nie, "
-"dziękuję."
+msgstr "Mogę... Chcę tym razem zająć się tym sam, więc dziękuję za ofertę, ale nie, dziękuję."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_877c0fed"
@@ -6812,9 +6752,7 @@ msgstr "Uh... kto, ja?"
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_d66dd1a0"
 msgid "Ne fais pas l'innocent ! Viens avec moi dans ta chambre, on doit discuter de certaines choses !"
-msgstr ""
-"Nie udawaj niewiniątka! Chodź ze mną do swojego pokoju! Musimy o czymś "
-"porozmawiać!"
+msgstr "Nie udawaj niewiniątka! Chodź ze mną do swojego pokoju! Musimy o czymś porozmawiać!"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_17c60c05"
@@ -6829,9 +6767,7 @@ msgstr "[font_size=14]natychmiast, panie {{saito.n}} ![/font_size]"
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_790ae756"
 msgid "Oulah... se faire appeler par son prénom dans ce genre de situation, c'est rarement un bon présage."
-msgstr ""
-"Whoa, bycie wołanie w ten sposób, w takich sytuacjach nigdy nie wróży "
-"niczego dobrego."
+msgstr "Whoa, bycie wołanie w ten sposób, w takich sytuacjach nigdy nie wróży niczego dobrego."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_f123ea5f"
@@ -7056,16 +6992,12 @@ msgstr "Obwiniałem {{noriko.n}} za to, co robiłem przez cały ten czas"
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_0edb3cad"
 msgid "En pensant pouvoir gérer mes problèmes moi-même je me rends compte que je n'ai fait qu'inquiéter ceux qui tenaient à moi."
-msgstr ""
-"Myśląc, że mogę poradzić sobie ze swoimi problemami sam, uświadomiłem sobie, "
-"że zamartwiałem tych, którzy się o mnie troszczą."
+msgstr "Myśląc, że mogę poradzić sobie ze swoimi problemami sam, uświadomiłem sobie, że zamartwiałem tych, którzy się o mnie troszczą."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "menu_rejet_noriko_final_db51f401"
 msgid "En pensant pouvoir gérer mes problèmes moi-même je me rends compte que je n'ai fait qu'inquiéter ceux qui tenaient à moi."
-msgstr ""
-"Myślałem, że mogę poradzić sobie ze swoimi problemami sam, ale uświadomiłem "
-"sobie, że zamartwiałem tych, którzy się o mnie troszczą."
+msgstr "Myślałem, że mogę poradzić sobie ze swoimi problemami sam, ale uświadomiłem sobie, że zamartwiałem tych, którzy się o mnie troszczą."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_d9539ee1"
@@ -7080,9 +7012,7 @@ msgstr "Naprawdę się myliłem."
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_528e73bd"
 msgid "{{noriko.n}} peu importe ce qui s'est passé, tu pourras compter sur moi à partir de maintenant !"
-msgstr ""
-"{{noriko.n}}, bez względu na to co się stanie, od teraz możesz na mnie "
-"liczyć!"
+msgstr "{{noriko.n}}, bez względu na to co się stanie, od teraz możesz na mnie liczyć!"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "t90f5acffaa"
@@ -7172,15 +7102,12 @@ msgstr "Super !"
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_a3e8e4fc"
 msgid "Putain à quel point je suis tombé bas pour qu'on en vienne à se prendre la tête pour m'aider ?"
-msgstr ""
-"Jak nisko upadłem, że ludzie muszą się tak bardzo starać, żeby mi pomóc?"
+msgstr "Jak nisko upadłem, że ludzie muszą się tak bardzo starać, żeby mi pomóc?"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_5d0656e5"
 msgid "Je répète les mêmes schemas que ma précédente vie... Je n'arrive pas à m'affirmer correctement."
-msgstr ""
-"Powtarzam te same błędy z poprzedniego życia... Nie potrafię nawet bronić "
-"swoich racji."
+msgstr "Powtarzam te same błędy z poprzedniego życia... Nie potrafię nawet bronić swoich racji."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_90362c2d"
@@ -7190,8 +7117,7 @@ msgstr "{{saito.n}} czekaj!"
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_b1163c93"
 msgid "Je suis vraiment désolée... Je ne voulais pas m'emporter contre {{noriko.n}}."
-msgstr ""
-"Przepraszam... Nie chciałam stracić panowania nad sobą przy {{noriko.n}}."
+msgstr "Przepraszam... Nie chciałam stracić panowania nad sobą przy {{noriko.n}}."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_048c1b14"
@@ -7211,15 +7137,12 @@ msgstr "{noriko.n}}{nie jest osobą taktowną."
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_59d70329"
 msgid "Elle passera vite à autre chose comme à son habitude dès que ça la lassera."
-msgstr ""
-"Jak tylko zaczyna się nudzić, szybko przechodzi do czegoś innego, jak zwykle."
+msgstr "Jak tylko zaczyna się nudzić, szybko przechodzi do czegoś innego, jak zwykle."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_a4fc4062"
 msgid "Hummm je n'en suis pas certaine... Il semble vraiment que cette situation l'angoisse beaucoup."
-msgstr ""
-"Hmm, nie jestem pewien... Wygląda na to, że ta sytuacja naprawdę ją bardzo "
-"niepokoi."
+msgstr "Hmm, nie jestem pewien... Wygląda na to, że ta sytuacja naprawdę ją bardzo niepokoi."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_cae88a0c"
@@ -7359,8 +7282,7 @@ msgstr "To jest po prostu szalone."
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_f9de7361"
 msgid "Je ne pensais pas que mes actions modifieraient à ce point son comportement avec moi."
-msgstr ""
-"Nie sądziłem, że moje działania aż tak zmienią jej zachowanie wobec mnie."
+msgstr "Nie sądziłem, że moje działania aż tak zmienią jej zachowanie wobec mnie."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_f7df4fb0"
@@ -7440,9 +7362,7 @@ msgstr "[font_size=14]Bardzo uroczo ![/font_size]"
 #: game/story/home_player_corridor.dialogue
 msgctxt "t0b8c0a7a3e"
 msgid "[font_size=14]Arrête d'inspecter ma chambre et finissons-en rapidement, j'ai des choses à faire ![/font_size]"
-msgstr ""
-"[font_size=14]Przestań się rozglądać po moim pokoju i szybko to zakończmy, "
-"mam jeszcze parę rzeczy do zrobienia![/font_size]"
+msgstr "[font_size=14]Przestań się rozglądać po moim pokoju i szybko to zakończmy, mam jeszcze parę rzeczy do zrobienia![/font_size]"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "tecfb510e0b"
@@ -7452,9 +7372,7 @@ msgstr "[font_size=14]Dotrzesz do sedna sprawy? Świetnie![/font_size]"
 #: game/story/home_player_corridor.dialogue
 msgctxt "t5261577289"
 msgid "[font_size=14]Voici comment nous allons procéder, déjà j'aimerais que tu sois pieds nus et qu-[/font_size]"
-msgstr ""
-"[font_size=14]Tak to zrobimy. Najpierw chciałabym, żebyś był boso "
-"i…[/font_size]"
+msgstr "[font_size=14]Tak to zrobimy. Najpierw chciałabym, żebyś był boso i…[/font_size]"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "t988e69a3a5"
@@ -7524,9 +7442,7 @@ msgstr "Jednak nie jesteś z {{asami.n}}?"
 #: game/story/home_player_corridor.dialogue
 msgctxt "t4857709361"
 msgid "Non, son père est venu la chercher sans prévenir et elle est partie passer quelques jours avec lui."
-msgstr ""
-"Nie, jej ojciec przyjechał po nią bez uprzedzenia i wyjechała z nim na kilka "
-"dni."
+msgstr "Nie, jej ojciec przyjechał po nią bez uprzedzenia i wyjechała z nim na kilka dni."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "tdffdab63ae"
@@ -7571,9 +7487,7 @@ msgstr "[font_size=14]Chcesz mnie zabić, czy co?[/font_size]"
 #: game/story/home_player_corridor.dialogue
 msgctxt "t1a3c3d39db"
 msgid "[font_size=14]Si on recommence une fois de plus je vais faire une crise cardiaque ![/font_size]"
-msgstr ""
-"[font_size=14]Jeśli to zrobimy jeszcze raz, to dostanę zawału serca! "
-"[/font_size]"
+msgstr "[font_size=14]Jeśli to zrobimy jeszcze raz, to dostanę zawału serca! [/font_size]"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "tc2593d6bca"
@@ -7668,9 +7582,7 @@ msgstr "Proszę, wiesz dokładnie o czym mówię."
 #: game/story/home_player_corridor.dialogue
 msgctxt "ta54c19ad04"
 msgid "Depuis quelque temps tu as une fâcheuse tendance à te retrouver intime avec toutes les filles que tu rencontres."
-msgstr ""
-"Od jakiegoś czasu masz niefortunną tendencję do nawiązywania intymnych "
-"relacji z każdą dziewczyną, którą spotykasz."
+msgstr "Od jakiegoś czasu masz niefortunną tendencję do nawiązywania intymnych relacji z każdą dziewczyną, którą spotykasz."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "t9515b484fd"
@@ -7715,9 +7627,7 @@ msgstr "Czasami jesteś tak naiwny..."
 #: game/story/home_player_corridor.dialogue
 msgctxt "t144d043333"
 msgid "Je ne suis pas assez fou pour tenter quoi que ce soit avec la mère de ma petite amie !"
-msgstr ""
-"Nie jestem aż tak szalony, żeby próbować czegokolwiek z matką mojej "
-"dziewczyny!"
+msgstr "Nie jestem aż tak szalony, żeby próbować czegokolwiek z matką mojej dziewczyny!"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "t572d2fd329"
@@ -7747,9 +7657,7 @@ msgstr "Co ma z tym wspólnego {{kimochi.n}}?"
 #: game/story/home_player_corridor.dialogue
 msgctxt "t87b3fc6ea1"
 msgid "Il va encore te voir avec une nouvelle femme à tes côtés alors que lui va probablement finir sa vie puceau."
-msgstr ""
-"Następnym razem, gdy cię zobaczy, będziesz miał u boku inną kobietę, a on "
-"nigdy nie dowie się, jak to jest być z kobietą, aż do śmierci."
+msgstr "Następnym razem, gdy cię zobaczy, będziesz miał u boku inną kobietę, a on nigdy nie dowie się, jak to jest być z kobietą, aż do śmierci."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "t62830abfad"
@@ -7774,8 +7682,7 @@ msgstr "[font_size=14]I pamiętaj...[/font_size]"
 #: game/story/home_player_corridor.dialogue
 msgctxt "tb1ec01f44d"
 msgid "[font_size=14]On ne touche pas pas à la mère de sa meilleure amie[/font_size]"
-msgstr ""
-"[font_size=14]Nie dotykaj matki swojego najlepszego przyjaciela.[/font_size]"
+msgstr "[font_size=14]Nie dotykaj matki swojego najlepszego przyjaciela.[/font_size]"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "t4b748d8a3a"
@@ -7815,9 +7722,7 @@ msgstr "Tak, wiem..."
 #: game/story/home_player_corridor.dialogue
 msgctxt "t4beca839c3"
 msgid "On devait passer la journée en ville et, au final, on est restés à la salle d'arcade."
-msgstr ""
-"Mieliśmy spędzić dzień w mieście, a skończyło się na tym, że zatrzymaliśmy "
-"się w centrum gier"
+msgstr "Mieliśmy spędzić dzień w mieście, a skończyło się na tym, że zatrzymaliśmy się w centrum gier"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "t95d51d26b9"
@@ -7852,15 +7757,12 @@ msgstr "Co masz na myśli mówiąc „dla par”?"
 #: game/story/home_player_corridor.dialogue
 msgctxt "tb232dd88a5"
 msgid "C'est à se demander si tu connais la ville dans laquelle tu habites."
-msgstr ""
-"Niektórzy mogą się zastanawiać, czy w ogóle znasz miasto, w którym mieszkasz."
+msgstr "Niektórzy mogą się zastanawiać, czy w ogóle znasz miasto, w którym mieszkasz."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "te7ab29873c"
 msgid "Ce parc a une particularité, c'est qu'il ne laisse entrer que et uniquement les couples."
-msgstr ""
-"Jest coś wyjątkowego w tym parku... Wstęp do niego jest dozwolony tylko "
-"parom."
+msgstr "Jest coś wyjątkowego w tym parku... Wstęp do niego jest dozwolony tylko parom."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "t6bf39b97ec"
@@ -7870,8 +7772,7 @@ msgstr "Przestań się ze mną drażnić!"
 #: game/story/home_player_corridor.dialogue
 msgctxt "t291e1a5d24"
 msgid "[font_size=14]Il ne se passera rien entre {{sayuri.n}} et moi ![/font_size]"
-msgstr ""
-"[font_size=14]Między {{sayuri.n}} a mną nic się nie wydarzy![/font_size]"
+msgstr "[font_size=14]Między {{sayuri.n}} a mną nic się nie wydarzy![/font_size]"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "ta6fcdcf6ca"
@@ -7916,9 +7817,7 @@ msgstr "Więc możemy iść?"
 #: game/story/home_player_corridor.dialogue
 msgctxt "AVANT_J_AIMERAIS_PASSER_VOIR_M_599669"
 msgid "Avant, j'aimerais passer voir {{macumba.n}} au parc. J'aimerais m'assurer que tout va bien."
-msgstr ""
-"Najpierw chciałbym odwiedzić {{macumba.n}} w parku. Chcę się upewnić, że "
-"wszystko jest w porządku."
+msgstr "Najpierw chciałbym odwiedzić {{macumba.n}} w parku. Chcę się upewnić, że wszystko jest w porządku."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "SI_TU_VEUX_MAIS_JE_VIENS_AVEC_A07EFE"
@@ -7933,9 +7832,7 @@ msgstr "Powiesz mi prawdę?"
 #: game/story/home_player_corridor.dialogue
 msgctxt "W_J_AI_T_VOIR_LES_3_IDIOTS_EN_E2D30A"
 msgid "...[w] J'ai été voir les 3 idiots... en espérant qu'ils pourraient m'aider à trouver {{akira.n}}, mais... ils n'ont pas été très coopératifs."
-msgstr ""
-"...[w] Poszedłem do tych trzech idiotów... Miałem nadzieję, że pomogą mi "
-"znaleźć {{akira.n}}, ale... Nie byli zbyt chętni do współpracy."
+msgstr "...[w] Poszedłem do tych trzech idiotów... Miałem nadzieję, że pomogą mi znaleźć {{akira.n}}, ale... Nie byli zbyt chętni do współpracy."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "CE_QUI_EXPLIQUE_LE_SANG_SUR_T_DD6AE9"
@@ -8040,9 +7937,7 @@ msgstr "Dobra, nie będę pytał, ale jednak..."
 #: game/story/home_natsume_exterior.dialogue
 msgctxt "home_natsume_exterior_b557bbfb"
 msgid "Je ne me serais pas imaginé une seconde que tu vivrais ici tout en sachant où vis {{minato.n}}."
-msgstr ""
-"W życiu bym nie pomyślał, że tu mieszkasz, biorąc pod uwagę, gdzie mieszka "
-"{{minato.n}}."
+msgstr "W życiu bym nie pomyślał, że tu mieszkasz, biorąc pod uwagę, gdzie mieszka {{minato.n}}."
 
 #: game/story/home_natsume_exterior.dialogue
 msgctxt "home_natsume_exterior_5dcf2bf7"
@@ -8112,9 +8007,7 @@ msgstr "...Dziękuję, {{natsume.n}}."
 #: game/story/home_natsume_exterior.dialogue
 msgctxt "home_natsume_exterior_dc07c0e1"
 msgid "Je ne sais pas pourquoi tu m'aides autant alors ça risque de t'attirer des ennuis."
-msgstr ""
-"Nie wiem, dlaczego tak bardzo mi pomagasz, nawet jeśli może to wpędzić cię w "
-"kłopoty."
+msgstr "Nie wiem, dlaczego tak bardzo mi pomagasz, nawet jeśli może to wpędzić cię w kłopoty."
 
 #: game/story/home_natsume_exterior.dialogue
 msgctxt "home_natsume_exterior_8977a407"
@@ -8144,9 +8037,7 @@ msgstr "Mnóstwo niewinnych ludzi będzie..."
 #: game/story/home_natsume_exterior.dialogue
 msgctxt "home_natsume_exterior_392945bf"
 msgid "{{natsume.n}}... Si je tolère ta présence et ton franc-parler c'est uniquement parce que tu sais te rendre utile mais..."
-msgstr ""
-"{{natsume.n}}... Toleruję twoją obecność i twoją bezpośredniość tylko "
-"dlatego, że wiesz, jak być użytecznym, ale..."
+msgstr "{{natsume.n}}... Toleruję twoją obecność i twoją bezpośredniość tylko dlatego, że wiesz, jak być użytecznym, ale..."
 
 #: game/story/home_natsume_exterior.dialogue
 msgctxt "home_natsume_exterior_3dfa2c4b"
@@ -8186,9 +8077,7 @@ msgstr "Zająłeś się tymi trzema idiotami?"
 #: game/story/home_natsume_exterior.dialogue
 msgctxt "home_natsume_exterior_77faf824"
 msgid "Oui... Je pense que le fait qu'ils se soient faits avoir par {{saito.n}} en 1 contre 1 les a motivés comme jamais."
-msgstr ""
-"Tak... Myślę, że fakt, że zostali pokonani przez {{saito.n}} w pojedynku "
-"jeden na jednego, zmotywował ich jak nigdy dotąd"
+msgstr "Tak... Myślę, że fakt, że zostali pokonani przez {{saito.n}} w pojedynku jeden na jednego, zmotywował ich jak nigdy dotąd"
 
 #: game/story/home_natsume_exterior.dialogue
 msgctxt "home_natsume_exterior_511679a5"
@@ -8198,16 +8087,12 @@ msgstr "To była zupełnie surrealistyczna sytuacja."
 #: game/story/home_natsume_exterior.dialogue
 msgctxt "home_natsume_exterior_bd461333"
 msgid "C'est ça le problème avec les branleurs de ce genre, ils agissent toujours en groupe pour paraître plus fort."
-msgstr ""
-"To jest właśnie problem z tymi zbirami. Zwykle działają w grupie, żeby "
-"wyglądać na silniejszych."
+msgstr "To jest właśnie problem z tymi zbirami. Zwykle działają w grupie, żeby wyglądać na silniejszych."
 
 #: game/story/home_natsume_exterior.dialogue
 msgctxt "home_natsume_exterior_2be0c684"
 msgid "Mais si tu les prends un par un, ça reste des grandes gueules."
-msgstr ""
-"Ale jeśli pozbędziesz się ich pojedynczo, to okaże się, że są po prostu "
-"pyskatymi ludźmi."
+msgstr "Ale jeśli pozbędziesz się ich pojedynczo, to okaże się, że są po prostu pyskatymi ludźmi."
 
 #: game/story/home_natsume_exterior.dialogue
 msgctxt "home_natsume_exterior_665eea64"
@@ -8237,9 +8122,7 @@ msgstr "Nawet..."
 #: game/story/home_natsume_exterior.dialogue
 msgctxt "SURTOUT_PAS_LUI_C_EST_BIEN_LE_287E04"
 msgid "Surtout pas lui ! C'est bien le dernier endroit où je veux le voir."
-msgstr ""
-"Zwłaszcza on! Nawet jeśli jest tylko jedna osoba na świecie, która nie może "
-"wejść do mojego domu, to jest to on."
+msgstr "Zwłaszcza on! Nawet jeśli jest tylko jedna osoba na świecie, która nie może wejść do mojego domu, to jest to on."
 
 #: game/story/home_natsume_exterior.dialogue
 msgctxt "ET_DONC_QU_EST_CE_QUE_JE_FAIS_CA47E5"
@@ -8349,9 +8232,7 @@ msgstr "Dziękuję jeszcze raz za ubrania."
 #: game/story/home_natsume_exterior.dialogue
 msgctxt "PAS_DE_SOUCI_CE_SONT_DE_VIEUX_540A7E"
 msgid "Pas de souci, ce sont de vieux trucs que le père de {{kenji.n}} n’a jamais voulu mettre."
-msgstr ""
-"Nie martw się. To stare rzeczy, których tata {{kenji.n}} nigdy nie chciał "
-"nosić."
+msgstr "Nie martw się. To stare rzeczy, których tata {{kenji.n}} nigdy nie chciał nosić."
 
 #: game/story/home_natsume_exterior.dialogue
 msgctxt "IL_EN_AURA_PLUS_BESOIN_QUE_LUI_B40D06"
@@ -8371,9 +8252,7 @@ msgstr "Oczywiście!"
 #: game/story/home_natsume_exterior.dialogue
 msgctxt "BREF_IL_EST_TEMPS_DE_SE_METTRE_44FC7F"
 msgid "Bref, il est temps de se mettre au boulot. Fais-moi signe si tu as besoin d’autre chose."
-msgstr ""
-"Tak czy inaczej, czas wziąć się do pracy. Daj znać, jeśli będziesz czegoś "
-"jeszcze potrzebować."
+msgstr "Tak czy inaczej, czas wziąć się do pracy. Daj znać, jeśli będziesz czegoś jeszcze potrzebować."
 
 #: game/story/home_natsume_exterior.dialogue
 msgctxt "CE_SERA_MA_FA_ON_DE_L_AIDER_3C3A63"
@@ -8428,9 +8307,7 @@ msgstr "...Najlepiej będzie na razie o tym zapomnieć."
 #: game/story/home_natsume_exterior.dialogue
 msgctxt "LE_MA_TRE_DIRAIT_S_REMENT_DE_N_2C8D7C"
 msgid "Le Maître dirait sûrement de ne pas me prendre la tête avec ce que je ne peux pas contrôler."
-msgstr ""
-"Mistrz z pewnością powiedziałby mi, żebym się nie martwił tym, na co nie mam "
-"wpływu."
+msgstr "Mistrz z pewnością powiedziałby mi, żebym się nie martwił tym, na co nie mam wpływu."
 
 #: game/story/home_natsume_exterior.dialogue
 msgctxt "ET_IL_DOIT_D_J_M_ATTENDRE_DBDD34"
@@ -8465,16 +8342,12 @@ msgstr "Czy wiesz, że ona mnie odrzuciła?"
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_fbee4af3"
 msgid "... en même temps, vu ta façon de leur parler, il fallait s'y attendre non ?"
-msgstr ""
-"Cóż, biorąc pod uwagę sposób, w jaki z nimi rozmawiasz, można było się tego "
-"spodziewać, prawda?"
+msgstr "Cóż, biorąc pod uwagę sposób, w jaki z nimi rozmawiasz, można było się tego spodziewać, prawda?"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_52437a41"
 msgid "{{natsume.n}}... Ne me prends pas pour un idiot, je sais que tu y as mis ton grain de sel."
-msgstr ""
-"{{natsume.n}}......Naprawdę myślisz, że jestem głupi? Wiem, że coś knujesz "
-"za moimi plecami."
+msgstr "{{natsume.n}}......Naprawdę myślisz, że jestem głupi? Wiem, że coś knujesz za moimi plecami."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_3d00c747"
@@ -8519,9 +8392,7 @@ msgstr "Jestem zmęczony... Torturowaliśmy tego mięczaka przez wiele godzin."
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_f8e2b7b2"
 msgid "J'aime bien faire ce genre de choses quand on a une info ou un truc à soutirer, mais là..."
-msgstr ""
-"Jeśli chcę wyciągnąć jakieś informacje lub coś uzyskać, to bardzo lubię to "
-"robić, ale jeśli robię to tylko po to, żeby kogoś dręczyć..."
+msgstr "Jeśli chcę wyciągnąć jakieś informacje lub coś uzyskać, to bardzo lubię to robić, ale jeśli robię to tylko po to, żeby kogoś dręczyć..."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_598c2b07"
@@ -8536,9 +8407,7 @@ msgstr "Dostał tak dużo ciosów, że aż bolały mnie ręce!"
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_3ae0fec4"
 msgid "Moi, sa tête me fait rire, elle a doublé de volume !"
-msgstr ""
-"Jego głowa spuchła do dwukrotności swojego pierwotnego rozmiaru. To było "
-"zabawne!"
+msgstr "Jego głowa spuchła do dwukrotności swojego pierwotnego rozmiaru. To było zabawne!"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_08d830dc"
@@ -8548,9 +8417,7 @@ msgstr "Wygląda jak chomik!"
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_cb942a1c"
 msgid "Sérieux, des fois, je me demande pourquoi on te laisse trainer avec nous !"
-msgstr ""
-"Szczerze mówiąc, czasami naprawdę zastanawiam się, dlaczego zadajemy się z "
-"takim idiotą jak ty!"
+msgstr "Szczerze mówiąc, czasami naprawdę zastanawiam się, dlaczego zadajemy się z takim idiotą jak ty!"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_141c6914"
@@ -8565,9 +8432,7 @@ msgstr "Co?! Zamknij się! Mnie też wkurza to, że tu jestem bez powodu."
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_c00923aa"
 msgid "Je préférerais mille fois aller à la salle d'arcade plutôt que de me faire chier ici à taper un type pendant des heures."
-msgstr ""
-"Po co tracić czas na okładanie ludzi przez wiele godzin, skoro możesz "
-"świetnie się bawić w salonie gier?"
+msgstr "Po co tracić czas na okładanie ludzi przez wiele godzin, skoro możesz świetnie się bawić w salonie gier?"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_86a56c0a"
@@ -8657,15 +8522,12 @@ msgstr "[font_size=19]Tak, ale gdybyśmy poszli razem, może... [/font_size]"
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_d0287ee6"
 msgid "Oublie, {{akira.n}} est pas humain, tu te souviens pas du massacre du konbini ?"
-msgstr ""
-"Zapomnij. {{akira.n}} nie jest człowiekiem. Nie pamiętasz masakry konbini?"
+msgstr "Zapomnij. {{akira.n}} nie jest człowiekiem. Nie pamiętasz masakry konbini?"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_0161572d"
 msgid "J'en ai entendu parler vaguement, mais c'est trop loufoque. C'est juste une légende urbaine."
-msgstr ""
-"Gdzieś o tym słyszałem, ale to zbyt nieprawdopodobne. To tylko miejska "
-"legenda."
+msgstr "Gdzieś o tym słyszałem, ale to zbyt nieprawdopodobne. To tylko miejska legenda."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_ba6b63cd"
@@ -8675,9 +8537,7 @@ msgstr "Nie, nie ma co się mylić, to wydarzyło się naprawdę!"
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_05094e14"
 msgid "Le chef d'une bande rivale était en balade à moto dans le coin avec une vingtaine de ses gars."
-msgstr ""
-"Przywódca wrogiego gangu pojawił się w okolicy na motocyklu z około "
-"dwudziestoma swoimi ludźmi."
+msgstr "Przywódca wrogiego gangu pojawił się w okolicy na motocyklu z około dwudziestoma swoimi ludźmi."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_2fc2f8ea"
@@ -8688,15 +8548,12 @@ msgstr "Wszyscy zatrzymali się na parkingu konbini."
 #, fuzzy
 msgctxt "warehouse_exterior_30dd551d"
 msgid "{{akira.n}} était encore au lycée à l'époque. C'était une soirée d'été et la chaleur était toujours étouffante. Il dégustait tranquillement une glace à l'eau, quand..."
-msgstr ""
-"{{Akira.n}} był wtedy jeszcze w liceum. Był upalny, letni wieczór. Właśnie "
-"wyszedł ze sklepu i spokojnie zajadał się lodami, gdy nagle..."
+msgstr "{{Akira.n}} był wtedy jeszcze w liceum. Był upalny, letni wieczór. Właśnie wyszedł ze sklepu i spokojnie zajadał się lodami, gdy nagle..."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_9883a758"
 msgid "Putain ! J'ai pas besoin de tout ce genre de détails, viens-en aux faits."
-msgstr ""
-"Kurwa! Nie potrzebuję tych wszystkich szczegółów, przejdźmy do konkretów."
+msgstr "Kurwa! Nie potrzebuję tych wszystkich szczegółów, przejdźmy do konkretów."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_8dd6d657"
@@ -8731,8 +8588,7 @@ msgstr "Następnie wbił mu jebany patyczek do lodów w oko."
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_00fcb418"
 msgid "Quand les autres ont vu ça, ils se sont jetés sur lui, mais il les a tous massacrés."
-msgstr ""
-"Gdy inni to zobaczyli, rzucili się na niego, ale on ich wszystkich zabił."
+msgstr "Gdy inni to zobaczyli, rzucili się na niego, ale on ich wszystkich zabił."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_a246de44"
@@ -8747,10 +8603,7 @@ msgstr "Ale... Co z przywódcą gangu?"
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_70f768b1"
 msgid "Il s'est tiré quand il a vu son gars se faire crever l'œil. Il a dû savoir à l'instinct que ce type était le genre de gars dangereux que tu ne fais chier sous aucun prétexte..."
-msgstr ""
-"Kiedy zobaczył, jak jego podwładny ma wydłubane oko, uciekł. Musiał "
-"instynktownie wyczuć, że to niebezpieczny facet, z którym absolutnie nie "
-"należy zadzierać..."
+msgstr "Kiedy zobaczył, jak jego podwładny ma wydłubane oko, uciekł. Musiał instynktownie wyczuć, że to niebezpieczny facet, z którym absolutnie nie należy zadzierać..."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_b05e30a7"
@@ -8760,9 +8613,7 @@ msgstr "Kurwa mać... Pojebane..."
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_211c7b72"
 msgid "Donc, arrête de chercher des ennuis avec lui... On te suivra pas, tu te démerdes."
-msgstr ""
-"Więc przestań mu sprawiać kłopoty... Nie chcemy się w to mieszać. Lepiej "
-"uważaj."
+msgstr "Więc przestań mu sprawiać kłopoty... Nie chcemy się w to mieszać. Lepiej uważaj."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_ec9996db"
@@ -8782,8 +8633,7 @@ msgstr "Nawet nie pomyśleli o tym, żeby go przeszukać."
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_c7d7eafa"
 msgid "Ça m'arrange qu'ils soient aussi cons, sinon je ne serais pas tombé sur ça..."
-msgstr ""
-"Cieszę się, że są tacy głupi, w przeciwnym razie nie natknąłbym się na to..."
+msgstr "Cieszę się, że są tacy głupi, w przeciwnym razie nie natknąłbym się na to..."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_cb927443"
@@ -8803,22 +8653,17 @@ msgstr "Kto by pomyślał, że ten łajdak odniesie taki sukces?"
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_7f4270f9"
 msgid "... et visiblement, ça lui a attiré des ennuis...[w] Oh-ho avec cette pute en plus !"
-msgstr ""
-"...I najwyraźniej to go wpędziło w kłopoty... [w] O-ho, i jeszcze ta dziwka!"
+msgstr "...I najwyraźniej to go wpędziło w kłopoty... [w] O-ho, i jeszcze ta dziwka!"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_36604d17"
 msgid "Dire que j'ai failli sortir avec cette cinglée... Il faut que je voie ça de mes propres yeux !"
-msgstr ""
-"Pomyśleć, że prawie poszedłem na randkę z tą szaloną kobietą... Muszę to "
-"zobaczyć na własne oczy!"
+msgstr "Pomyśleć, że prawie poszedłem na randkę z tą szaloną kobietą... Muszę to zobaczyć na własne oczy!"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_dd35a870"
 msgid "Je pourrais peut-être prendre quelques photos compromettantes, et elle finira par devoir m'obéir au doigt et à l'œil."
-msgstr ""
-"Może zrobię im kilka prywatnych zdjęć, tak aby w końcu nie miała innego "
-"wyboru, jak mnie posłuchać."
+msgstr "Może zrobię im kilka prywatnych zdjęć, tak aby w końcu nie miała innego wyboru, jak mnie posłuchać."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_015d895b"
@@ -8873,9 +8718,7 @@ msgstr "Co w takim razie zamierzasz z nim zrobić?"
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_ecc130fd"
 msgid "J'ai quelques mots à lui dire, après, vous irez jeter son cadavre dans la forêt..."
-msgstr ""
-"Mam mu kilka słów do powiedzenia, potem pójdziesz i porzucisz jego ciało w "
-"lesie..."
+msgstr "Mam mu kilka słów do powiedzenia, potem pójdziesz i porzucisz jego ciało w lesie..."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_5d0297aa"
@@ -8885,9 +8728,7 @@ msgstr "Ale...my jeszcze nigdy nikogo nie zabili—"
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_13a2c332"
 msgid "Si vous voulez vous faire une place au soleil sous mes ordres, il faudra obéir sans rechigner."
-msgstr ""
-"Jeśli chcesz tu mieć miejsce, musisz bezwarunkowo podporządkować się moim "
-"rozkazom."
+msgstr "Jeśli chcesz tu mieć miejsce, musisz bezwarunkowo podporządkować się moim rozkazom."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_f412b377"
@@ -8917,9 +8758,7 @@ msgstr "Tak, szefie..."
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_702d6a2b"
 msgid "Ne t'en fais pas, si tu te salis les mains pour moi, je t'assure que tu n'auras plus jamais à t'inquiéter pour ton avenir."
-msgstr ""
-"Nie martw się. Dopóki wykonasz za mnie brudną robotę, gwarantuję ci życie w "
-"bogactwie i luksusie do końca twoich dni."
+msgstr "Nie martw się. Dopóki wykonasz za mnie brudną robotę, gwarantuję ci życie w bogactwie i luksusie do końca twoich dni."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_fe169cb2"
@@ -8934,8 +8773,7 @@ msgstr "No cóż, gdybym się tego spodziewał..."
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_3ff8c92c"
 msgid "Toi qui traînes souvent en ville, tu as une idée de qui peut être cette montagne de muscles ?"
-msgstr ""
-"Często przesiadujesz w mieście. Masz pojęcie, kim może być ta góra mięśni?"
+msgstr "Często przesiadujesz w mieście. Masz pojęcie, kim może być ta góra mięśni?"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_b278dbf7"
@@ -8955,9 +8793,7 @@ msgstr "Już nie chcesz się go pozbyć?"
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_3652562c"
 msgid "Non... ça n'a plus aucun intérêt, mais j'ai trouvé quelque chose de bien plus intéressant à faire."
-msgstr ""
-"Nie...to już nie ma znaczenia, ale odkryłem kilka ciekawszych rzeczy do "
-"zrobienia."
+msgstr "Nie...to już nie ma znaczenia, ale odkryłem kilka ciekawszych rzeczy do zrobienia."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_40a8017e"
@@ -9012,15 +8848,12 @@ msgstr "Miałeś pozbyć się tego pasożyta, ale zjebałeś. To wszystko."
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_21705c6f"
 msgid "Vous vous êtes fait surprendre, vous n'avez pas agi assez vite, vous avez eu des remords que sais-je ?"
-msgstr ""
-"Złapali cię, nie zareagowałeś wystarczająco szybko, zawahałeś się... Kto wie?"
+msgstr "Złapali cię, nie zareagowałeś wystarczająco szybko, zawahałeś się... Kto wie?"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_8b25c843"
 msgid "Le résultat est là, vous avez merdé et je me retrouve avec plus d'ennuis sur les bras par votre incompétence."
-msgstr ""
-"W rezultacie wszystko zepsułeś, a ja wpadłem w jeszcze większe tarapaty "
-"przez twoją niekompetencję."
+msgstr "W rezultacie wszystko zepsułeś, a ja wpadłem w jeszcze większe tarapaty przez twoją niekompetencję."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_21295b0e"
@@ -9055,9 +8888,7 @@ msgstr "Chcemy stać się silniejsi."
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_1fd87d89"
 msgid "Le gros black continuera de nous tomber dessus et de nous ridiculiser si on ne fait rien."
-msgstr ""
-"Jeśli tak dalej pójdzie, ten wielki, czarny facet będzie nas dalej bił i "
-"upokarzał."
+msgstr "Jeśli tak dalej pójdzie, ten wielki, czarny facet będzie nas dalej bił i upokarzał."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_6daf9b7e"
@@ -9067,8 +8898,7 @@ msgstr "Nikt nie może go pokonać, nawet {{akira.n}}."
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_4e7d20b5"
 msgid "Et après lui, il y aura toujours quelqu'un de plus fort."
-msgstr ""
-"Ale to dopiero początek; na pewno jest wielu ludzi silniejszych od niego."
+msgstr "Ale to dopiero początek; na pewno jest wielu ludzi silniejszych od niego."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_94cc93f1"
@@ -9103,8 +8933,7 @@ msgstr "Tego się nie spodziewałem..."
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_ee6ffb7c"
 msgid "Comment veux-tu anticiper un truc pareil, ce type est une montagne de muscles et..."
-msgstr ""
-"Jak można w ogóle coś takiego przewidzieć? Ten facet to góra mięśni i..."
+msgstr "Jak można w ogóle coś takiego przewidzieć? Ten facet to góra mięśni i..."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_ec7cc8a6"
@@ -9119,9 +8948,7 @@ msgstr "Więc o kim?"
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_bb5780c2"
 msgid "C'est la première fois que les thugs se remettent en question et souhaitent progresser."
-msgstr ""
-"To pierwszy raz, kiedy ci bandyci zaczęli wątpić w siebie i chcieli się "
-"poprawić."
+msgstr "To pierwszy raz, kiedy ci bandyci zaczęli wątpić w siebie i chcieli się poprawić."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_31fef4c5"
@@ -9151,16 +8978,12 @@ msgstr "Czy nie chcesz go najpierw ostrzec lub zastraszyć?"
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_007cecac"
 msgid "Non, on n'a plus le temps pour ça. L'échéance est pour bientôt, je refuse de perdre davantage de temps."
-msgstr ""
-"Nie, nie mamy już na to czasu. Termin szybko się zbliża, nie chcę tracić "
-"więcej czasu."
+msgstr "Nie, nie mamy już na to czasu. Termin szybko się zbliża, nie chcę tracić więcej czasu."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_a3dc7202"
 msgid "Contente-toi d'obeir, je perds mon temps à chaque fois si je dois t'expliquer pourquoi."
-msgstr ""
-"Po prostu postępuj zgodnie z instrukcjami. Nie będę już tracić czasu na "
-"tłumaczenia."
+msgstr "Po prostu postępuj zgodnie z instrukcjami. Nie będę już tracić czasu na tłumaczenia."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_bafec45c"
@@ -9190,8 +9013,7 @@ msgstr "On jest twoim bratem, prawda?!"
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_ad3f4d97"
 msgid "En effet, la famille se serre les coudes, en toutes circonstances."
-msgstr ""
-"Rzeczywiście, rodzina powinna trzymać się razem w każdych okolicznościach."
+msgstr "Rzeczywiście, rodzina powinna trzymać się razem w każdych okolicznościach."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_7175f65d"
@@ -9211,16 +9033,12 @@ msgstr "Wow, wow, wow, chwileczkę. Rodzina to niekoniecznie więzy krwi."
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_2f530d2d"
 msgid "La famille c'est tous les gens qui comptent pour toi et auxquels tu tiens."
-msgstr ""
-"Rodzinę tworzą wszyscy ludzie, którzy są dla Ciebie ważni i na których Ci "
-"zależy."
+msgstr "Rodzinę tworzą wszyscy ludzie, którzy są dla Ciebie ważni i na których Ci zależy."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_49caf651"
 msgid "Oui eh bien c'est bien ce que je dis... Ce n'est pas ma famille."
-msgstr ""
-"Tak, rozumiem to wszystko... Dlatego powiedziałem, że on nie jest moją "
-"rodziną."
+msgstr "Tak, rozumiem to wszystko... Dlatego powiedziałem, że on nie jest moją rodziną."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_f9805b89"
@@ -9275,9 +9093,7 @@ msgstr "CO?! Nigdy nie było mowy o płaceniu za to!"
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_a917dd72"
 msgid "Les temps changent... Le coût de la vie devient plus difficile même pour des thugs comme nous."
-msgstr ""
-"Czasy się zmieniają... Koszty utrzymania stają się coraz trudniejsze do "
-"zniesienia nawet dla takich bandytów jak my."
+msgstr "Czasy się zmieniają... Koszty utrzymania stają się coraz trudniejsze do zniesienia nawet dla takich bandytów jak my."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_8bffad9e"
@@ -9292,16 +9108,12 @@ msgstr "Dobrze, bardzo dobrze... Ile?"
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_4cef0fe1"
 msgid "Dites-moi que je rêve... {{noriko.n}}, tu vas pas payer les thugs pour qu'ils me tabassent ?"
-msgstr ""
-"Powiedz mi, że śnię... {{noriko.n}}, nie zapłacisz bandytom, żeby mnie "
-"pobili, prawda?"
+msgstr "Powiedz mi, że śnię... {{noriko.n}}, nie zapłacisz bandytom, żeby mnie pobili, prawda?"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_40a76c63"
 msgid "Tu sais... si jamais un jour t'es à court d'argent, je ne suis pas contre le fait tu paies en nature."
-msgstr ""
-"Hehehe... Jeśli kiedykolwiek skończą ci się pieniądze, nie będę miał nic "
-"przeciwko, jeśli odpłacisz mi się swoim ciałem."
+msgstr "Hehehe... Jeśli kiedykolwiek skończą ci się pieniądze, nie będę miał nic przeciwko, jeśli odpłacisz mi się swoim ciałem."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_37539408"
@@ -9311,9 +9123,7 @@ msgstr "Chyba śnisz, wolałabym umrzeć!"
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_c923f59b"
 msgid "Doucement toi, surveille un peu ton langage, on fait peut-être du business ensemble mais reste polie."
-msgstr ""
-"Spokojnie, uważaj na swój język, możemy robić ze sobą interesy, ale zachowuj "
-"się uprzejmie."
+msgstr "Spokojnie, uważaj na swój język, możemy robić ze sobą interesy, ale zachowuj się uprzejmie."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_def6e9da"
@@ -9333,9 +9143,7 @@ msgstr "Albo 10 000, albo nic..."
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_1c626065"
 msgid "Casse-toi maintenant, je te garantis qu'on va lui tomber dessus et que tu en auras pour ton argent."
-msgstr ""
-"A teraz spadaj. Gwarantuję, że go dorwiemy i że otrzymasz to, za co "
-"zapłaciłaś."
+msgstr "A teraz spadaj. Gwarantuję, że go dorwiemy i że otrzymasz to, za co zapłaciłaś."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_d168ebf6"
@@ -9345,8 +9153,7 @@ msgstr "No dobrze, to kto pozbędzie się drugiego śmiecia?"
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_ccafd182"
 msgid "Laisse tomber, cet incapable ne peut pas le gérer en 1v1."
-msgstr ""
-"Zapomnij o tym, ten beznadziejny drań nie da sobie rady w pojedynku 1 na 1."
+msgstr "Zapomnij o tym, ten beznadziejny drań nie da sobie rady w pojedynku 1 na 1."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_bf49c5ce"
@@ -9361,9 +9168,7 @@ msgstr "Jeśli się nie ogarniesz, w przyszłości poradzimy sobie bez ciebie."
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_9bf4e4b1"
 msgid "T'es un putain d'enfoiré, c'est pas toi qui disais que la famille se serre les coudes en toutes circonstances ?"
-msgstr ""
-"Jesteś pieprzonym dupkiem. Czy nie mówiłeś, że rodziny powinny trzymać się "
-"razem w każdych okolicznościach?"
+msgstr "Jesteś pieprzonym dupkiem. Czy nie mówiłeś, że rodziny powinny trzymać się razem w każdych okolicznościach?"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_5f8940a3"
@@ -9418,8 +9223,7 @@ msgstr "Tego idiotę powalił jeden cios."
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_0fc484bb"
 msgid "... {{nobu.n}} n'est pas le plus fort de nous trois mais ça aurait dû suffire."
-msgstr ""
-"...{{nobu.n}} nie jest najsilniejszy z nas trzech, ale to powinno wystarczyć."
+msgstr "...{{nobu.n}} nie jest najsilniejszy z nas trzech, ale to powinno wystarczyć."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_271f90c6"
@@ -9459,9 +9263,7 @@ msgstr "Tak, ale narazie bez dotykania."
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_a973ff60"
 msgid "{{akira.n}} semble avoir un lien avec elle et j'ai pas envie d'avoir à gérer un second psychopathe."
-msgstr ""
-"{{akira.n}} wydaje się mieć z nią jakieś układy, a ja nie chcę prowokować "
-"kolejnego wariata."
+msgstr "{{akira.n}} wydaje się mieć z nią jakieś układy, a ja nie chcę prowokować kolejnego wariata."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_df0a156f"
@@ -9561,9 +9363,7 @@ msgstr "Moja mama poprosiła mnie, żebym wróciła dziś wcześniej do domu."
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_dbfd29fd"
 msgid "Si tu as du nouveau préviens-moi, j'ai besoin de savoir si cette histoire avec {{noriko.n}} s'est arrangée ou pas."
-msgstr ""
-"Jeśli zdobędziesz jakieś wieści, daj mi znać, muszę wiedzieć, czy sytuacja z "
-"{{noriko.n}} została rozwiązana, czy nie."
+msgstr "Jeśli zdobędziesz jakieś wieści, daj mi znać, muszę wiedzieć, czy sytuacja z {{noriko.n}} została rozwiązana, czy nie."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "warehouse_exterior_05113d15"
@@ -9583,9 +9383,7 @@ msgstr "Jak długo zamierzasz z nim współpracować?"
 #: game/story/warehouse_exterior.dialogue
 msgctxt "t774ce11009"
 msgid "C'est plutôt rare de te voir aussi sur tes gardes avec quelqu'un, il y a quelque chose chez lui qui ne te plait pas ?"
-msgstr ""
-"To raczej niezwykłe widzieć, że jesteś tak ostrożny w obecności kogoś. Czy "
-"jest coś w tej osobie, czego nie lubisz?"
+msgstr "To raczej niezwykłe widzieć, że jesteś tak ostrożny w obecności kogoś. Czy jest coś w tej osobie, czego nie lubisz?"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "t5823db9768"
@@ -9605,9 +9403,7 @@ msgstr "Zawsze potrzebny jest wyjątek, aby potwierdzić regułę."
 #: game/story/warehouse_exterior.dialogue
 msgctxt "t254f7b73d6"
 msgid "Bref, garde ton avis pour ceux que ça intéresse."
-msgstr ""
-"Tak czy inaczej, zachowaj swoją opinię dla kogoś, kto jest nią "
-"zainteresowany."
+msgstr "Tak czy inaczej, zachowaj swoją opinię dla kogoś, kto jest nią zainteresowany."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "tca2cc3c4fa"
@@ -9622,16 +9418,12 @@ msgstr "Nigdy nie marnuj potencjalnie dobrego zasobu."
 #: game/story/warehouse_exterior.dialogue
 msgctxt "tcb8fe05c0f"
 msgid "Tant qu'il reste fiable et obéissant, je travaillerai avec lui autant de temps que nécessaire."
-msgstr ""
-"Dopóki będzie niezawodny i posłuszny, będę z nim pracować tak długo, jak "
-"będzie to konieczne."
+msgstr "Dopóki będzie niezawodny i posłuszny, będę z nim pracować tak długo, jak będzie to konieczne."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "t58b7dfbf04"
 msgid "Il se rendra vite compte que travailler pour moi lui apportera des opportunités qu'il n'aurait jamais pu rencontrer en temps normal."
-msgstr ""
-"Wkrótce zda sobie sprawę, że praca dla mnie da mu możliwości, na jakie nigdy "
-"nie trafiłby w normalnych okolicznościach."
+msgstr "Wkrótce zda sobie sprawę, że praca dla mnie da mu możliwości, na jakie nigdy nie trafiłby w normalnych okolicznościach."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "t8c34b43550"
@@ -9641,9 +9433,7 @@ msgstr "Zawsze grasz w niebezpieczne gry..."
 #: game/story/warehouse_exterior.dialogue
 msgctxt "tf293c60cd9"
 msgid "Fais attention à toi {{natsume.n}}, si cet odieux bâtard performe mieux que toi, tu risquerais de perdre ta place de privilégiée."
-msgstr ""
-"Uważaj {{natsume.n}}, jeśli ten ohydny drań wypadnie lepiej od ciebie, "
-"możesz stracić swoją uprzywilejowaną pozycję."
+msgstr "Uważaj {{natsume.n}}, jeśli ten ohydny drań wypadnie lepiej od ciebie, możesz stracić swoją uprzywilejowaną pozycję."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "C_EST_ICI_E78BAC"
@@ -9658,8 +9448,7 @@ msgstr "Tak... Muszę cię jednak ostrzec, że nie był zbyt chętny do współp
 #: game/story/warehouse_exterior.dialogue
 msgctxt "OUI_JE_ME_DOUTE_TU_N_AS_RIEN_I_37C56E"
 msgid "Oui, je me doute... Tu n'as rien ? Il ne t'a pas fait de mal ?"
-msgstr ""
-"Tak, mogę sobie wyobrazić... Wszystko w porządku? Nie zrobił ci krzywdy?"
+msgstr "Tak, mogę sobie wyobrazić... Wszystko w porządku? Nie zrobił ci krzywdy?"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "OH_TU_T_INQUI_TES_POUR_MOI_MON_AE01DC"
@@ -9739,9 +9528,7 @@ msgstr "Jeśli nie zwiążę go mocniej, ucieknie."
 #: game/story/warehouse_exterior.dialogue
 msgctxt "HONN_TEMENT_JE_ME_MOQUE_BIEN_D_113C1F"
 msgid "Honnêtement, je me moque bien de ce qu'il peut lui arriver, ce type ne mérite aucune pitié."
-msgstr ""
-"Szczerze mówiąc, nie obchodzi mnie, co się z nim stanie. Ten facet nie "
-"zasługuje na litość."
+msgstr "Szczerze mówiąc, nie obchodzi mnie, co się z nim stanie. Ten facet nie zasługuje na litość."
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "C_EST_BON_SAVOIR_63DF1E"
@@ -9756,9 +9543,7 @@ msgstr "Zostaw to mnie, kochanie."
 #: game/story/warehouse_exterior.dialogue
 msgctxt "FONT_SIZE_14_LOIGNE_CETTE_FOL_1635C2"
 msgid "[font_size=14]Éloigne cette folle de moi, je ne dirai rien de toute façon.[/font_size]"
-msgstr ""
-"[font_size=14]Zabierz ode mnie tę szaloną sukę! I tak nic nie powiem! "
-"[/font_size]"
+msgstr "[font_size=14]Zabierz ode mnie tę szaloną sukę! I tak nic nie powiem! [/font_size]"
 
 #: game/story/warehouse_exterior.dialogue
 msgctxt "JE_TE_GARANTIS_QUE_DEMAIN_MATI_6AD134"
@@ -9799,6 +9584,11 @@ msgstr "A teraz?"
 msgctxt "sexe_asami_l_a129f5eb"
 msgid "Et maintenant ?"
 msgstr "A teraz?"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "ET_MAINTENANT_B9F9F4"
+msgid "Et maintenant ?"
+msgstr ""
 
 #: game/story/home_asami_exterior.dialogue
 msgctxt "ET_MAINTENANT_259E58"
@@ -11202,6 +10992,11 @@ msgctxt "JE_SAIS_JE_SAIS_15F411"
 msgid "Je sais, je sais..."
 msgstr ""
 
+#: game/story/hostess_club_alley.dialogue
+msgctxt "JE_SAIS_JE_SAIS_B18A22"
+msgid "Je sais, je sais..."
+msgstr ""
+
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "LAISSE_MOI_NOUS_D_BARRASSER_DE_4CF656"
 msgid "Laisse-moi nous débarrasser de lui !"
@@ -12220,6 +12015,11 @@ msgstr "[next]"
 msgctxt "t6fbd3d2fa0"
 msgid "[next]"
 msgstr "[next]"
+
+#: game/story/amusement_park_interior.dialogue
+msgctxt "NEXT_A23EC9"
+msgid "[next]"
+msgstr ""
 
 #: game/story/onsen_bath.dialogue
 msgctxt "onsen_bath_70c10122"
@@ -19513,6 +19313,11 @@ msgctxt "home_player_room_b18d5d64"
 msgid "Tu en as mis du temps !"
 msgstr ""
 
+#: game/story/amusement_park_interior.dialogue
+msgctxt "TU_EN_AS_MIS_DU_TEMPS_C621A3"
+msgid "Tu en as mis du temps !"
+msgstr ""
+
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_986b4148"
 msgid "Merde, alors depuis tout ce temps, elle envoyait des signaux et je ne voyais rien..."
@@ -20470,6 +20275,11 @@ msgstr ""
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_b469ce4a"
+msgid "À vos ordres, madame !"
+msgstr ""
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "VOS_ORDRES_MADAME_666BC2"
 msgid "À vos ordres, madame !"
 msgstr ""
 
@@ -22792,6 +22602,11 @@ msgstr ""
 
 #: game/story/home_asami_exterior.dialogue
 msgctxt "tf15e5d13dc"
+msgid "Mais... ?"
+msgstr ""
+
+#: game/story/home_minato_hallway.dialogue
+msgctxt "MAIS_6C5701"
 msgid "Mais... ?"
 msgstr ""
 
@@ -26702,6 +26517,11 @@ msgstr ""
 
 #: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
 msgctxt "home_player_yasuka_room_59cd6e15"
+msgid "Dis..."
+msgstr ""
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "DIS_9CA624"
 msgid "Dis..."
 msgstr ""
 
@@ -31732,6 +31552,11 @@ msgctxt "home_player_livingroom_ee52bdf2"
 msgid "Et toi ?"
 msgstr ""
 
+#: game/story/home_asami_bathroom.dialogue
+msgctxt "ET_TOI_C3F0E9"
+msgid "Et toi ?"
+msgstr ""
+
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_79d3b417"
 msgid "Est-ce que tu as eu des problèmes avec..."
@@ -33223,6 +33048,61 @@ msgstr ""
 #: game/story/home_player_livingroom.dialogue
 msgctxt "t8d09dad7fd"
 msgid "Merci mon chéri, je suis désolé de t'imposer cette situation."
+msgstr ""
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "J_ESP_RE_QUE_A_NE_TE_D_RANGE_P_39F924"
+msgid "J'espère que ça ne te dérange pas ?"
+msgstr ""
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "JE_M_EN_VOUDRAIS_DE_CAUSER_DES_A361B6"
+msgid "Je m'en voudrais de causer des problèmes entre toi et {{asami.n}}."
+msgstr ""
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "JE_SUIS_CERTAIN_QU_ELLE_SERAIT_87D3ED"
+msgid "Je suis certain qu’elle serait contente que je m’occupe de sa mère."
+msgstr ""
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "ET_PUIS_QU_EST_CE_QUI_POURRAIT_016D63"
+msgid "Et puis... qu'est-ce qui pourrait se passer de mal ?"
+msgstr ""
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "MERCI_MON_CH_RI_TU_M_ENL_VES_V_50341E"
+msgid "Merci mon chéri, tu m'enlèves vraiment une épine du pied."
+msgstr ""
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "LA_VOIR_DANS_CET_TAT_ME_FAISAI_8D036D"
+msgid "La voir dans cet état me faisait bien trop de peine."
+msgstr ""
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "TU_T_INQUI_TES_INUTILEMENT_TO_5A75D1"
+msgid "Tu t'inquiètes inutilement, tout ira bien"
+msgstr ""
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "MERCI_MON_CH_RI_JE_SUIS_D_SOL_5A36E1"
+msgid "Merci mon chéri ! Je suis désolée."
+msgstr ""
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "JE_M_ENGAGE_EXPLIQUER_ASAMI_N_2A5395"
+msgid "Je m'engage à expliquer à {{asami.n}} que c’est moi qui t’ai imposé ça, c'est promis."
+msgstr ""
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "COMME_A_ELLE_N_AURA_PAS_DE_RAI_99DAB8"
+msgid "Comme ça elle n’aura pas de raison de t’en vouloir !"
+msgstr ""
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "A_ME_MET_DANS_UNE_POSITION_D_78CFE4"
+msgid "Ça me met dans une position délicate mais je le ferai pour toi."
 msgstr ""
 
 #: game/story/home_player_livingroom.dialogue
@@ -40128,6 +40008,11 @@ msgctxt "tb63950a0f9"
 msgid "Je ne regrette rien !"
 msgstr ""
 
+#: game/story/hostess_club_alley.dialogue
+msgctxt "JE_NE_REGRETTE_RIEN_5366B3"
+msgid "Je ne regrette rien !"
+msgstr ""
+
 #: game/story/home_asami_livingroom.dialogue
 msgctxt "home_asami_livingroom_d45016e2"
 msgid "Hey, M'man !"
@@ -40964,6 +40849,121 @@ msgid "C'était probablement une erreur et...[w]Je suis sa mère ! Et toi tu es.
 msgstr ""
 
 #: game/story/home_asami_livingroom.dialogue
+msgctxt "SON_PETIT_AMI_MAIS_JE_CROYAIS_120CA8"
+msgid "Son petit ami... Mais je croyais qu'il n'y avait aucun retour en arrière ?"
+msgstr ""
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "JE_TE_LE_DEMANDE_UNE_DERNI_RE_305277"
+msgid "Je te le demande une dernière fois, moi, car je n'aurai pas la force de te refuser."
+msgstr ""
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "IL_ME_SEMBLE_QU_ON_A_POURTANT_847590"
+msgid "Il me semble qu’on a pourtant déjà franchi un cap."
+msgstr ""
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "PROMET_MOI_QUE_TU_METTRAS_FIN_D0BA0C"
+msgid "Promets-moi que tu mettras fin à ta relation avec ma fille dès que tu la verras !"
+msgstr ""
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "PROMET_LE_959FC0"
+msgid "Promets-le !!!"
+msgstr ""
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "SI_TU_ME_PRENAIS_L_MAINTENANT_352203"
+msgid "Si tu me prenais là maintenant tout de suite, non seulement je me laisserais faire mais j'en redemanderais !"
+msgstr ""
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "MAIS_SI_A_DOIT_ARRIVER_JE_VEUX_3139D5"
+msgid "Mais si ça doit arriver, je veux avoir la conscience tranquille !"
+msgstr ""
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "TU_DOIS_METTRE_FIN_TA_RELATION_F8AED3"
+msgid "Tu dois mettre fin à ta relation avec ma fille !"
+msgstr ""
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "TU_AS_RAISON_JE_ME_SUIS_LAISS_2914F0"
+msgid "Tu as raison, je me suis laissé emporter par mes pulsions..."
+msgstr ""
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "AGIR_AINSI_TAIT_UNE_ERREUR_102C2B"
+msgid "Agir ainsi... était une erreur."
+msgstr ""
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "JE_CONSID_RERAI_QU_IL_NE_S_EST_CAA4F4"
+msgid "Je considérerai qu’il ne s’est jamais rien passé entre nous."
+msgstr ""
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "A_T_ENNUIE_SI_JE_D_CIDE_DE_NE_EAD754"
+msgid "Ça t’ennuie si je décide de ne jamais oublier ?"
+msgstr ""
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "A_A_BEAU_AVOIR_T_UNE_ERREUR_J_4F647D"
+msgid "Ça a beau avoir été une erreur, je ne veux jamais oublier ces moments que nous avons passés ensemble."
+msgstr ""
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "JE_SUPPOSE_QUE_C_EST_ENTRE_MOI_C573D3"
+msgid "Je suppose que c’est entre moi et ma conscience à présent..."
+msgstr ""
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "PARDON_SAITO_N_TU_PORTES_TOUTE_ACAF38"
+msgid "Pardon {{saito.n}}, tu portes toute la responsabilité alors que je suis toute aussi fautive."
+msgstr ""
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "TU_PEUX_T_ALLONGER_ICI_POUR_LA_1ECA98"
+msgid "Tu peux t’allonger ici pour la nuit... repose-toi bien."
+msgstr ""
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "ET_MERCI_ENCORE_D_AVOIR_EU_LE_E0801D"
+msgid "Et merci encore d’avoir eu le cran de dire non avant que les choses ne dérapent totalement."
+msgstr ""
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "DE_RIEN_JE_SUPPOSE_48734D"
+msgid "... de rien, je suppose..."
+msgstr ""
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "REPOUSSER_SAYURI_N_C4690E"
+msgid "Repousser {{sayuri.n}}."
+msgstr ""
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "EST_CE_QUE_C_EST_BON_A_PR_SENT_B9DF19"
+msgid "Est-ce que c'est bon à présent ?"
+msgstr ""
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "OUI_20E605"
+msgid "... Oui."
+msgstr ""
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "TU_BAISSES_TON_CALE_ON_ET_TU_T_FDC740"
+msgid "Tu baisses ton caleçon et tu t'allonges sur le canapé !"
+msgstr ""
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "C_EST_D_ACCORD_JE_METTRAIS_FI_E2E5B2"
+msgid "C'est d'accord ! Je mettrais fin à ma relation avec elle dès que j'aurai l'ocasion de lui dire."
+msgstr ""
+
+#: game/story/home_asami_livingroom.dialogue
 msgctxt "tde5a0ddfe6"
 msgid "Un ami pour elle, rien de plus..."
 msgstr ""
@@ -41084,6 +41084,16 @@ msgstr ""
 #: game/story/home_asami_livingroom.dialogue
 msgctxt "t1a9395aaa5"
 msgid "Maman va le garder pour elle seule !"
+msgstr ""
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "ELLE_N_AURAIS_DE_TOUTE_FA_ON_J_CF05C3"
+msgid "Elle n'aurais de toute façon jamais su apprecier ça... à sa juste valeur!"
+msgstr ""
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "JE_COMPTE_BIEN_EN_PROFITER_ENC_312C80"
+msgid "Je compte bien en profiter encore et encore !"
 msgstr ""
 
 #: game/story/home_asami_livingroom.dialogue
@@ -46441,9 +46451,7 @@ msgstr ""
 #, fuzzy
 msgctxt "intro_90fcefcc"
 msgid "Je ne sais plus à quel moment les choses sont devenues incontrôlables."
-msgstr ""
-"Nie pamiętam, kiedy sytuacja wymknęła się spod kontroli. (Tłumaczenie w "
-"toku, zapraszam na discorda chętnych pomocy)"
+msgstr "Nie pamiętam, kiedy sytuacja wymknęła się spod kontroli. (Tłumaczenie w toku, zapraszam na discorda chętnych pomocy)"
 
 #: game/story/introduction.dialogue
 #, fuzzy
@@ -52109,6 +52117,76 @@ msgid "....[w]Oh merci, je ne m'attendais pas à un tel compliment."
 msgstr ""
 
 #: game/story/home_asami_exterior.dialogue
+msgctxt "ALORS_QUI_EST_LA_PLUS_JOLIE_LA_832140"
+msgid "Alors... Qui est la plus jolie ? La mère ou la fille ?"
+msgstr ""
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "HAHAHA_C_EST_VRAI_EXCUSE_MOI_0DDAA0"
+msgid "Hahaha... c'est vrai, excuse-moi !"
+msgstr ""
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "JE_NE_DEVRAIS_PAS_DEMANDER_CE_04882A"
+msgid "Je ne devrais pas demander ce genre de choses."
+msgstr ""
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "ELLE_ME_FERAIT_LA_T_TE_JUSQU_L_83916C"
+msgid "Elle me ferait la tête jusqu'à la fin de ma vie si je lui piquais son petit ami."
+msgstr ""
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "QUI_A_DIT_QUE_JE_ME_LAISSERAIS_63304B"
+msgid "Qui a dit que je me laisserais faire ?"
+msgstr ""
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "W_JE_SUIS_HEUREUSE_DE_VOIR_QU_DE4AB8"
+msgid "...[w] Je suis heureuse de voir que tu es une personne fiable, {{saito.n}}."
+msgstr ""
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "TU_VEUX_QU_ELLE_M_TRANGLE_EN_93577A"
+msgid "Tu veux qu'elle m'étrangle en fait ?"
+msgstr ""
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "OH_VRAIMENT_E8C9A6"
+msgid "Oh, vraiment ?"
+msgstr ""
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "ET_QUE_DIRAIT_ASAMI_N_SI_ELLE_DB1CC7"
+msgid "Et que dirait {{asami.n}} si elle savait que son petit ami n'est pas insensible au charme de la mère ?"
+msgstr ""
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "EST_ELLE_VRAIMENT_OBLIG_E_DE_L_4E030A"
+msgid "Est-elle vraiment obligée de le savoir... ?"
+msgstr ""
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "DONC_A_RESTERAIT_ENTRE_NOUS_B17609"
+msgid "Donc ça resterait entre nous ?"
+msgstr ""
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "NOTRE_VILAIN_PETIT_SECRET_99A221"
+msgid "Notre vilain petit secret ?"
+msgstr ""
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "HAHAHA_J_AIME_VOIR_TA_T_TE_D_C_4DA069"
+msgid "Hahaha ! J'aime voir ta tête décomposée, mais..."
+msgstr ""
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "EH_BIEN_IL_FAUT_SAVOIR_TRE_HO_F1DD41"
+msgid "Eh bien... il faut savoir être honnête, et j'avoue que..."
+msgstr ""
+
+#: game/story/home_asami_exterior.dialogue
 msgctxt "t72601da5ff"
 msgid "Peut être que j'en ai trop fait ?"
 msgstr ""
@@ -52324,6 +52402,46 @@ msgid "Prête à passer un super moment ?"
 msgstr ""
 
 #: game/story/home_asami_exterior.dialogue
+msgctxt "EST_CE_QUE_JE_VAIS_ENCORE_FINI_5C4EEB"
+msgid "Est-ce que je vais encore finir toute nue ?"
+msgstr ""
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "OH_TU_SAVAIS_QUE_R_PONDRE_UNE_56D269"
+msgid "Oh... Tu savais que répondre à une question par une autre question en disait beaucoup sur la personne ?"
+msgstr ""
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "TU_AIMERAIS_EN_SAVOIR_PLUS_REP_9538E2"
+msgid "Tu aimerais en savoir plus..? Reprendre le contrôle de la conversation ?"
+msgstr ""
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "AIMERAIS_TU_QUE_JE_ME_D_SHABIL_2DF525"
+msgid "Aimerais-tu que je me déshabille devant toi là maintenant tout de suite ?"
+msgstr ""
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "HAHAHA_TU_ES_ADORABLE_ALLEZ_DI_2BCF1E"
+msgid "Hahaha ! Tu es adorable... Allez, dis-moi !"
+msgstr ""
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "TU_AIMERAIS_QUE_JE_TE_DISE_OU_D312E0"
+msgid "Tu aimerais que je te dise oui ?"
+msgstr ""
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "OH_POURQUOI_66264B"
+msgid "Oh..! Pourquoi ?"
+msgstr ""
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "TU_FINIRAIS_S_REMENT_EN_PRISO_7C5036"
+msgid "Tu finirais sûrement en prison !"
+msgstr ""
+
+#: game/story/home_asami_exterior.dialogue
 msgctxt "tcad1560e71"
 msgid "Où comptes-tu m'emmener cette fois-ci ?"
 msgstr ""
@@ -52434,23 +52552,78 @@ msgid "Je ne veux pas que ça s'arrête maintenant !"
 msgstr ""
 
 #: game/story/home_asami_exterior.dialogue
-msgctxt "te85545ca58"
-msgid "J'aimerais un vrai rendez-vous amoureux, et pour ça, le meilleur endroit, c'est le parc d'attractions !"
+msgctxt "JE_VEUX_UN_VRAI_RENDEZ_VOUS_AM_09759F"
+msgid "Je veux un vrai rendez-vous amoureux !"
 msgstr ""
 
 #: game/story/home_asami_exterior.dialogue
-msgctxt "t40aab72134"
-msgid "Un vrai rendez-vous amoureux ? C'est-à-dire... se tenir la main ?"
+msgctxt "OUI_JE_VEUX_RESSENTIR_CES_MOTI_61DDC8"
+msgid "Oui... Je veux... ressentir ces émotions de nouveau."
 msgstr ""
 
 #: game/story/home_asami_exterior.dialogue
-msgctxt "taf4f0582dc"
-msgid "Oui, par exemple, c'est une des nombreuses choses qu'on peut faire."
+msgctxt "SE_SENTIR_D_SIR_E_LA_DOUCEUR_D_E19984"
+msgid "Se sentir désirée... la douceur d'une caresse..."
 msgstr ""
 
 #: game/story/home_asami_exterior.dialogue
-msgctxt "t672bcb5a9f"
-msgid "Ça peut être aussi partager une glace, par exemple !"
+msgctxt "UN_BAISER_FUGACE_LE_C_UR_QUI_P_18704D"
+msgid "Un baiser fugace... le cœur qui palpite en croisant son regard."
+msgstr ""
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "SENTIR_LA_CHALEUR_DE_L_AUTRE_C_BA8DF8"
+msgid "Sentir la chaleur de l'autre contre sa peau..."
+msgstr ""
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "JE_TE_METS_MAL_L_AISE_95F202"
+msgid "Je te mets mal à l'aise ?"
+msgstr ""
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "NON_AU_CONTRAIRE_TU_ES_HONN_TE_2908C5"
+msgid "Non au contraire, tu es honnête sur tes sentiments, d'une certaine manière c'est rassurant."
+msgstr ""
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "MERCI_SAITO_N_7720D7"
+msgid "Merci {{saito.n}} !"
+msgstr ""
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "ET_TOUT_CE_QUE_A_IMPLIQUE_F87BE7"
+msgid "Et tout ce que ça implique...?"
+msgstr ""
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "W_OUI_IDIOT_7B3F97"
+msgid "...[w] Oui, idiot !"
+msgstr ""
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "MAIS_AU_MOINS_DONNE_MOI_UNE_BE_8A89AE"
+msgid "Mais au moins donne-moi une belle illusion !"
+msgstr ""
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "JE_PENSE_QUE_JE_PEUX_FAIRE_A_BA1553"
+msgid "Je pense que je peux faire ça."
+msgstr ""
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "DANS_CE_CAS_O_AIMERAIS_TU_FAIR_6C4D8A"
+msgid "Dans ce cas, où aimerais-tu faire ce rendez-vous amoureux ?"
+msgstr ""
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "LE_PARC_D_ATTRACTIONS_65C1EE"
+msgid "Le parc d’attractions !"
+msgstr ""
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "RASSURE_MOI_ON_FAIT_TOUJOURS_57A2EE"
+msgid "Rassure-moi, on fait toujours semblant ?"
 msgstr ""
 
 #: game/story/home_asami_exterior.dialogue
@@ -77714,6 +77887,111 @@ msgid "Tu es vraiment cruelle, tu le sais ça ?"
 msgstr ""
 
 #: game/story/hostess_club_alley.dialogue
+msgctxt "HMM_5A1DA9"
+msgid "Hmm ?"
+msgstr ""
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "SI_TU_M_AVAIS_RENCONTR_E_AVANT_0D3AC2"
+msgid "Si tu m'avais rencontrée avant ma fille."
+msgstr ""
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "LES_CHOSES_NOTRE_RELATION_AURA_AEA287"
+msgid "Les choses... Notre relation aurait-elle été différente ?"
+msgstr ""
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "JE_DA8FE2"
+msgid "Je-"
+msgstr ""
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "ATTEND_JE_NE_SUIS_PAS_SUR_DE_V_922428"
+msgid "Attends ! Je ne suis pas sûre de vouloir entendre la réponse."
+msgstr ""
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "IL_FAUT_SAVOIR_C_EST_POURTANT_9E5301"
+msgid "Il faut savoir... C'est pourtant toi qui me poses la question."
+msgstr ""
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "TU_M_AS_EMBRASS_ALORS_QUE_TU_E_59E700"
+msgid "Tu m'as embrassée... Alors que tu es déjà en relation avec ma propre fille..."
+msgstr ""
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "C_TAIT_INCONVENANT_DE_MA_PART_877026"
+msgid "C'était inconvenant de ma part, je n'aurais pas dû faire ça..."
+msgstr ""
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "NOUS_N_AURIONS_PAS_DU_1387BB"
+msgid "Nous n'aurions pas dû..."
+msgstr ""
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "TU_ES_UN_BON_GAR_ON_2158C2"
+msgid "Tu es un bon garçon !"
+msgstr ""
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "HEURESEMENT_QUE_TU_AS_LA_T_TE_89BD5D"
+msgid "Heuresement que tu as la tête sur les épaules."
+msgstr ""
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "SI_JE_M_COUTAIS_NOUS_SERIONS_D_BF2CDC"
+msgid "Si je m'écoutais... Nous serions déjà en train de ..."
+msgstr ""
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "DE_D8E353"
+msgid "De ?"
+msgstr ""
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "NON_RIEN_RENTRONS_FDC103"
+msgid "Non rien, rentrons !"
+msgstr ""
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "C_TAIT_EFFECTIVEMENT_UNE_ERRE_E29A61"
+msgid "C'était effectivement une erreur, ça ne se reproduira plus !"
+msgstr ""
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "TU_D_SIRAIS_CE_BAISER_AUTANT_Q_D97639"
+msgid "Tu désirais ce baiser autant que je le désirais..."
+msgstr ""
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "TU_ES_VRAIMENT_UN_VILAIN_GAR_O_BF6373"
+msgid "Tu es vraiment un vilain garçon..."
+msgstr ""
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "JE_NE_SUIS_PAS_DEVENU_VILAIN_T_237100"
+msgid "Je ne suis pas devenu vilain tout seul !"
+msgstr ""
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "C_EST_VRAI_1DB725"
+msgid "C'est vrai..."
+msgstr ""
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "QUE_VA_T_IL_SE_PASSER_MAINTENA_C52355"
+msgid "Que va-t-il se passer maintenant ?"
+msgstr ""
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "ALLONS_D_J_NOUS_METTRE_AU_CHAU_F4A65A"
+msgid "Allons déjà nous mettre au chaud."
+msgstr ""
+
+#: game/story/hostess_club_alley.dialogue
 msgctxt "ALORS_L_TU_NE_POUVAIS_PAS_PLUS_F73300"
 msgid "Alors là, tu ne pouvais pas plus mal tomber !"
 msgstr ""
@@ -83516,6 +83794,81 @@ msgid "On ne va pas la garder éternellement comme ça..."
 msgstr ""
 
 #: game/story/home_minato_hallway.dialogue
+msgctxt "EH_BIEN_JE_SUIS_MOI_M_ME_SURPR_F1F3A7"
+msgid "Eh bien... Je suis moi-même surpris par le déroulement de la situation mais c'est déjà terminé."
+msgstr ""
+
+#: game/story/home_minato_hallway.dialogue
+msgctxt "HEIN_TERMIN_COMMENT_A_20947F"
+msgid "Hein ?! Terminé, comment ça ?"
+msgstr ""
+
+#: game/story/home_minato_hallway.dialogue
+msgctxt "TOI_AUSSI_TU_ES_SURPRISE_A_ME_692B2F"
+msgid "Toi aussi tu es surprise, ça me rassure."
+msgstr ""
+
+#: game/story/home_minato_hallway.dialogue
+msgctxt "L_OBJECTIF_TAIT_DE_TESTER_LA_N_C31353"
+msgid "L'objectif était de tester la nouvelle formule du X3 pour le tester mais..."
+msgstr ""
+
+#: game/story/home_minato_hallway.dialogue
+msgctxt "APR_S_AVOIR_VU_SA_M_RE_S_ENVOY_4CD905"
+msgid "Après avoir vu sa mère s'envoyer en l'air avec son petit ami, disons qu'elle a craqué."
+msgstr ""
+
+#: game/story/home_minato_hallway.dialogue
+msgctxt "ELLE_SE_SENTAIT_TELLEMENT_MAL_BEF94F"
+msgid "Elle se sentait tellement mal qu'elle a voulu oublier tout ça."
+msgstr ""
+
+#: game/story/home_minato_hallway.dialogue
+msgctxt "NOTRE_COLLABORATEUR_LUI_A_DONN_A916DA"
+msgid "Notre collaborateur lui a donné sa première dose, l’ancienne formule, hier soir."
+msgstr ""
+
+#: game/story/home_minato_hallway.dialogue
+msgctxt "OH_PUTAIN_NON_F2E3A4"
+msgid "Oh putain, non..."
+msgstr ""
+
+#: game/story/home_minato_hallway.dialogue
+msgctxt "ELLE_A_ENSUITE_EU_LA_SECONDE_D_62F1B2"
+msgid "Elle a ensuite eu la seconde dose ce matin et elle a dû prendre la troisième il y a quelques minutes..."
+msgstr ""
+
+#: game/story/home_minato_hallway.dialogue
+msgctxt "NON_NON_NON_594749"
+msgid "Non, non, non !"
+msgstr ""
+
+#: game/story/home_minato_hallway.dialogue
+msgctxt "A_TE_POSE_UN_PROBL_ME_DB3701"
+msgid "Ça te pose un problème ?"
+msgstr ""
+
+#: game/story/home_minato_hallway.dialogue
+msgctxt "NON_C_EST_JUSTE_QUE_A_S_EST_PA_3C17AC"
+msgid "Non... C'est juste que... Ça s'est passé si vite..."
+msgstr ""
+
+#: game/story/home_minato_hallway.dialogue
+msgctxt "ALLEZ_OUBLIE_A_TU_VEUX_JETER_U_1AB606"
+msgid "Allez, oublie ça, tu veux jeter un coup d'œil ?"
+msgstr ""
+
+#: game/story/home_minato_hallway.dialogue
+msgctxt "JE_SUIS_CURIEUX_DE_SAVOIR_QUEL_C7A1DC"
+msgid "Je suis curieux de savoir à quel point elle doit se déchaîner sur ce gros lard !"
+msgstr ""
+
+#: game/story/home_minato_hallway.dialogue
+msgctxt "PUTAIN_SAITO_N_QU_EST_CE_QUE_T_9089A5"
+msgid "Putain {{saito.n}}, qu'est-ce que t’as foutu !!!? Ça devait pas se passer comme ça !"
+msgstr ""
+
+#: game/story/home_minato_hallway.dialogue
 msgctxt "t7739140aa9"
 msgid "Non c'est bon, j'ai eu la réponse que je voulais."
 msgstr ""
@@ -84767,8 +85120,13 @@ msgid "Mhh!"
 msgstr ""
 
 #: game/story/amusement_park_interior.dialogue
-msgctxt "t328fbd5ca9"
-msgid "Je... J'aimerais mais..."
+msgctxt "MHH_C842DD"
+msgid "Mhh !"
+msgstr ""
+
+#: game/story/amusement_park_interior.dialogue
+msgctxt "OH_ET_PUIS_ZUT_FF64D1"
+msgid "Oh et puis zut !"
 msgstr ""
 
 #: game/story/amusement_park_interior.dialogue
@@ -84799,6 +85157,11 @@ msgstr ""
 #: game/story/amusement_park_interior.dialogue
 msgctxt "t5fbe924c06"
 msgid "Je suis a la fois très heureuse et un peu déçue je ne vais pas te le cacher mais c'est ainsi !"
+msgstr ""
+
+#: game/story/amusement_park_interior.dialogue
+msgctxt "JE_J_AIMERAIS_MAIS_023319"
+msgid "Je... J'aimerais mais..."
 msgstr ""
 
 #: game/story/amusement_park_interior.dialogue
@@ -84897,6 +85260,46 @@ msgid "Arrêter d'être raisonnable !"
 msgstr ""
 
 #: game/story/home_asami_bathroom.dialogue
+msgctxt "IL_NE_SE_PASSERA_RIEN_IF_ASAM_1AD425"
+msgid "Il ne se passera rien !"
+msgstr ""
+
+#: game/story/home_asami_bathroom.dialogue
+msgctxt "t45937adcd1"
+msgid "Il ne se passera rien !"
+msgstr ""
+
+#: game/story/home_asami_bathroom.dialogue
+msgctxt "BON_JE_SUIS_ALL_TROP_LOIN_POUR_E22A66"
+msgid "Bon je suis allé trop loin pour faire machine arrière à présent..."
+msgstr ""
+
+#: game/story/home_asami_bathroom.dialogue
+msgctxt "JE_SUIS_INCAPABLE_DE_LUI_DIRE_7A4712"
+msgid "Je suis incapable de lui dire non."
+msgstr ""
+
+#: game/story/home_asami_bathroom.dialogue
+msgctxt "TU_T_ES_D_CID_206591"
+msgid "Tu t'es décidé ?"
+msgstr ""
+
+#: game/story/home_asami_bathroom.dialogue
+msgctxt "AUCUN_RETOUR_EN_ARRIERE_POSSIB_4D5591"
+msgid "Aucun retour en arriere possible après ça !"
+msgstr ""
+
+#: game/story/home_asami_bathroom.dialogue
+msgctxt "W_NE_DIS_PLUS_RIEN_ET_CONTENT_E43B7C"
+msgid "...[w] Ne dis plus rien et contente-toi de me rejoindre !"
+msgstr ""
+
+#: game/story/home_asami_bathroom.dialogue
+msgctxt "J_ARRIVE_SI_LES_CHOIX_ONT_T_T_54F09B"
+msgid "... J'arrive !"
+msgstr ""
+
+#: game/story/home_asami_bathroom.dialogue
 msgctxt "t635d475eab"
 msgid "Je... Préfère attendre que tu termine."
 msgstr ""
@@ -84914,11 +85317,6 @@ msgstr ""
 #: game/story/home_asami_bathroom.dialogue
 msgctxt "t7457175145"
 msgid "Je ne serais pas longue."
-msgstr ""
-
-#: game/story/home_asami_bathroom.dialogue
-msgctxt "t45937adcd1"
-msgid "Il ne se passera rien !"
 msgstr ""
 
 #: game/story/home_asami_bathroom.dialogue
@@ -84949,6 +85347,11 @@ msgstr ""
 #: game/story/home_asami_bathroom.dialogue
 msgctxt "tc2d9fcece1"
 msgid "A ton tour !"
+msgstr ""
+
+#: game/story/home_asami_bathroom.dialogue
+msgctxt "JE_LA_PRENDRAIS_APR_S_TOI_IF_4E3F38"
+msgid "Je la prendrais après toi."
 msgstr ""
 
 #. TRANSLATORS: Idle
@@ -85640,6 +86043,16 @@ msgid "Dans la grande roue en train de s'embrasser !"
 msgstr ""
 
 #: game/story/home_minato_basement.dialogue
+msgctxt "ET_LES_VOILA_DANS_LA_GRANDE_RO_7774EB"
+msgid "Et les voila dans la grande roue en train de s'embrasser."
+msgstr ""
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "TON_PETIT_AMI_S_OCCUPE_VRAIMEN_073D42"
+msgid "Ton petit ami s'occupe vraiment bien de ta mère..."
+msgstr ""
+
+#: game/story/home_minato_basement.dialogue
 msgctxt "t90eaa2459e"
 msgid "Dans la grande roue !"
 msgstr ""
@@ -85689,6 +86102,221 @@ msgctxt "te6d2591f80"
 msgid ""
 "Ma mère est grande elle peut faire ce qu'elle veut et {{saito.n}} est juste un ami et s'il rend ma mère heureuse alors tant mieux, ce sera toujours mieux que d'avoir un père incapable et toujours "
 "absent."
+msgstr ""
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "OH_L_ON_A_UNE_BELLE_VUE_0F2E84"
+msgid "Oh là, on a une belle vue !"
+msgstr ""
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "CAUSE_DE_LA_BU_E_ON_NE_VOYAIT_C8C26F"
+msgid "À cause de la buée, on ne voyait pas grand-chose dans la salle de bain."
+msgstr ""
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "MAIS_ILS_ONT_FAIT_A_DANS_LE_SA_640766"
+msgid "Mais ils ont fait ça dans le salon..."
+msgstr ""
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "L_ENFOIR_L_ESP_CE_DE_C832D7"
+msgid "L'enfoiré ! L'espèce de..."
+msgstr ""
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "ET_JE_NE_TE_PARLE_M_ME_PAS_DE_BFF17C"
+msgid "Et je ne te parle même pas de ce qu’ils ont fait dans la chambre !"
+msgstr ""
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "JE_DOIS_RECONNA_TRE_QUE_JE_SUI_D8D7F5"
+msgid "Je dois reconnaître que je suis admirable devant tant d’endurance."
+msgstr ""
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "ON_A_D_J_PLUSIEURS_HEURES_DE_V_F3562A"
+msgid "On a déjà plusieurs heures de vidéos... Si tu veux les visionner par toi-même pour être certaine."
+msgstr ""
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "ARR_TEZ_809054"
+msgid "Arrêtez.. !"
+msgstr ""
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "TU_AURAIS_R_ELLEMENT_PU_PARTIR_4DC20F"
+msgid "Tu aurais réellement pu partir quelques jours et tout ça n’aurait rien changé."
+msgstr ""
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "TA_M_RE_ET_TON_PETIT_AMI_AURAI_B30FA4"
+msgid "Ta mère et ton petit ami auraient inévitablement couché ensemble dans ton dos !"
+msgstr ""
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "STOP_0603E9"
+msgid "Stop !"
+msgstr ""
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "CETTE_SITUATION_AURAIT_PU_DURE_89FD6E"
+msgid "Cette situation aurait pu durer des années sans que tu t’en aperçoives !"
+msgstr ""
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "MAIS_ARR_TEZ_BON_SANG_9325BD"
+msgid "MAIS ARRÊTEZ, BON SANG !"
+msgstr ""
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "JE_VEUX_BIEN_ARR_TER_MAIS_TU_D_8D527F"
+msgid "Je veux bien arrêter... Mais tu dois reconnaître par toi-même que ta propre mère et ton petit ami..."
+msgstr ""
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "EX_PETIT_AMI_684D8D"
+msgid "EX-PETIT AMI !"
+msgstr ""
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "D_ACCORD_W_ET_TON_EX_PETIT_AMI_08DEF5"
+msgid "D’accord...[w] et ton ex-petit ami, n’ont que faire de tes sentiments."
+msgstr ""
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "J_AI_MAL_AU_C_UR_J_AI_JUSTE_EN_28F4D3"
+msgid "J’ai mal au cœur... J’ai juste envie de mourir..."
+msgstr ""
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "CE_SERAIT_TELLEMENT_TRISTE_SI_01F48A"
+msgid "Ce serait tellement triste... Si tu fais ça, ils continueront leur vie de leur côté pendant que {{saito.n}} réconfortera ta mère."
+msgstr ""
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "JE_VEUX_SEULEMENT_QUE_A_S_ARR_DA4025"
+msgid "Je veux seulement que ça s’arrête !"
+msgstr ""
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "S_IL_VOUS_PLA_T_0C8369"
+msgid "S’il vous plaît...!"
+msgstr ""
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "J_AI_UNE_SOLUTION_DANS_CE_CAS_4BF60B"
+msgid "J’ai une solution dans ce cas..."
+msgstr ""
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "QU_EST_CE_QUE_C_EST_F88FDF"
+msgid "Qu’est-ce que c’est ?"
+msgstr ""
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "LE_X3_JE_SUPPOSE_QUE_TU_EN_AS_40B850"
+msgid "Le X3... Je suppose que tu en as entendu parler ?"
+msgstr ""
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "OUI_MAIS_JE_NE_VEUX_PAS_JE_NE_32019A"
+msgid "Oui... Mais je ne veux pas... Je ne serai plus moi... après ça..."
+msgstr ""
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "COUTE_MOI_BIEN_ASAMI_N_RIEN_N_F18E7B"
+msgid "Écoute-moi bien {{asami.n}}, rien ne dit qu’ils te laisseront en vie... Tu en sais déjà beaucoup trop."
+msgstr ""
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "IMAGINE_QU_ILS_TE_DONNENT_LA_D_DD6C5D"
+msgid "Imagine qu’ils te donnent la drogue et qu’ils t’obligent à rester toute ta vie à la botte d’un type horrible ?"
+msgstr ""
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "COMME_VOUS_PAR_EXEMPLE_A76A1E"
+msgid "Comme vous par exemple ?"
+msgstr ""
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "AI_JE_VRAIMENT_T_AUSSI_HORRIBL_4FC44D"
+msgid "Ai-je vraiment été aussi horrible que ça ?"
+msgstr ""
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "CE_N_EST_PAS_LA_MEILLEURE_CAPT_D06682"
+msgid "Ce n’est pas la meilleure captivité de ta vie ? J’ai fait un effort pour que tu ne t’ennuies pas, tu pourrais au moins le reconnaître..."
+msgstr ""
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "C_EST_VRAI_95D43F"
+msgid "C’est vrai..."
+msgstr ""
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "ACCEPTE_DE_PRENDRE_LA_PILULE_E_94FAB3"
+msgid "Accepte de prendre la pilule et viens avec moi, non seulement tu échappes à {{minato.n}} et à ce qu’il a prévu d’horrible pour toi..."
+msgstr ""
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "MAIS_EN_PLUS_TU_RETROUVES_TA_L_1EAE78"
+msgid "Mais en plus tu retrouves ta liberté et tu auras quelqu’un pour te soutenir face à ta mère et ton ex."
+msgstr ""
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "LE_X3_TE_FERA_OUBLIER_LA_PEINE_FAF965"
+msgid "Le X3 te fera oublier la peine de la rupture et en plus tu seras heureuse."
+msgstr ""
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "IL_NE_FAUT_PAS_AVOIR_PEUR_EC6615"
+msgid "Il ne faut pas avoir peur."
+msgstr ""
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "LE_X3_EST_LITT_RALEMENT_TA_SEU_999BDA"
+msgid "Le X3 est littéralement ta seule échappatoire !"
+msgstr ""
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "JE_TE_PROMETS_QUE_JE_M_OCCUPER_A4EB52"
+msgid "Je te promets que je m’occuperai de toi et que tu ne manqueras jamais de rien !"
+msgstr ""
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "W_C_EST_D_ACCORD_E9CD77"
+msgid "...[w] C’est d’accord..."
+msgstr ""
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "C_EST_LA_BONNE_D_CISION_528D42"
+msgid "C’est la bonne décision !"
+msgstr ""
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "MAIS_J_AI_UNE_CONDITION_W_JE_V_500209"
+msgid "Mais j’ai une condition ![w] Je veux que... que ce qui se passe entre nous après soit... filmé. Je veux qu’il culpabilise toute sa vie !"
+msgstr ""
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "TU_POURRAS_M_ME_LUI_APPORTER_E_CE73E5"
+msgid "Tu pourras même lui apporter en main propre si tu veux !"
+msgstr ""
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "DE_TOUTE_FA_ON_C_EST_A_OU_LA_M_33A275"
+msgid "De toute façon, c’est ça ou... la mort, je suppose."
+msgstr ""
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "JE_SUIS_D_SOL_QUE_LA_VIE_AIT_T_CD7450"
+msgid "Je suis désolé que la vie ait tourné comme ça pour toi..."
+msgstr ""
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "C_EST_BON_DONNEZ_MOI_CE_TRUC_Q_E1E180"
+msgid "C’est bon, donnez-moi ce truc qu’on en finisse !"
 msgstr ""
 
 #: game/story/home_minato_basement.dialogue
@@ -87124,6 +87752,31 @@ msgstr ""
 #: game/story/home_asami_sayuri_room.dialogue
 msgctxt "td0b9a53410"
 msgid "C'est fou d'avoir autant d'endurance !"
+msgstr ""
+
+#: game/story/home_asami_sayuri_room.dialogue
+msgctxt "ALORS_TU_AS_REUSSI_DORMIR_049004"
+msgid "Alors ? Tu as reussi à dormir ?"
+msgstr ""
+
+#: game/story/home_asami_sayuri_room.dialogue
+msgctxt "UN_PEU_RONG_PAR_LA_CULPABILIT_5534C8"
+msgid "Un peu rongé par la culpabilité mais je ne regrette pas."
+msgstr ""
+
+#: game/story/home_asami_sayuri_room.dialogue
+msgctxt "CE_QUI_EST_FAIT_EST_FAIT_C1342B"
+msgid "Ce qui est fait est fait !"
+msgstr ""
+
+#: game/story/home_asami_sayuri_room.dialogue
+msgctxt "ET_JE_COMPTE_BIEN_CONTINUER_LE_8DBD64"
+msgid "Et je compte bien continuer à le refaire avec toi."
+msgstr ""
+
+#: game/story/home_asami_sayuri_room.dialogue
+msgctxt "EN_VOILA_UNE_EXCELLENTE_NOUVEL_567A87"
+msgid "En voila une excellente nouvelle !"
 msgstr ""
 
 #: game/story/home_asami_sayuri_room.dialogue
@@ -90981,6 +91634,47 @@ msgctxt "main_menu.lovense_ad"
 msgid "Maintenant compatible avec {{lovense}}."
 msgstr ""
 
+#: game/scenes/gui/bad_ending/betrayed_girl.gd
+msgctxt "game_over.title"
+msgid "[i]La fille qui a été trahie.[/i]"
+msgstr ""
+
+#: game/scenes/gui/bad_ending/betrayed_girl.gd
+msgctxt "game_over.summary"
+msgid ""
+"[fill]{{asami.n}} a cédé à la manipulation de {{netoru.n}}. Profitant de sa détresse et de sa soif de vengeance, il l'a poussée à accepter le X3 de son plein gré. Malgré le dégoût profond qu'elle "
+"éprouvait pour lui, la chimie du produit a réécrit sa perception et le désir l'a submergée dès qu'elle eut croisé son regard. {{netoru.n}} est devenu la seule personne qui comptait. {{saito.n}} "
+"s'est effacé de son esprit, il n'y avait simplement plus assez de place pour lui, ni dans son cœur, ni dans son esprit. Sa vie devait désormais tourner autour de cet homme qu'elle haïssait "
+"autrefois et qu'elle aimait éperdument à partir de ce moment-là.[/fill]\n"
+"\n"
+"[fill]{{minato.n}} la laissera partir. Avant de quitter la ville, {{asami.n}} passera voir sa mère au konbini pour lui annoncer son retour. {{sayuri.n}} saura instantanément, en croisant son "
+"regard, qu'elle connaît la vérité. Les excuses et les demandes de pardon n'y changeront rien. {{asami.n}} ne lui accordera qu'un regard froid et méprisant avant d'annoncer qu'elle quittera la "
+"maison. Sa mère lui demandera simplement, au bord des larmes, de lui donner des nouvelles de temps en temps en ajoutant qu'elle restera sa fille chérie à tout jamais.[/fill]\n"
+"\n"
+"[fill]{{saito.n}} aura vent du retour d'{{asami.n}} et de son départ brutal par sa mère en larmes, il n'aura jamais le courage de lui révéler la sombre vérité. À partir de ce moment, il recevra "
+"chaque semaine dans sa boîte aux lettres des vidéos envoyées par {{asami.n}} ou [i]La fille qui a été trahie[/i], comme elle aime se présenter dans ses messages. Elle soulignera sans cesse cette "
+"trahison au milieu de chacun de ses ébats filmés avec {{netoru.n}}.[/fill]\n"
+"\n"
+"[fill]{{saito.n}} n'en parlera jamais à personne, rongé par la culpabilité. Le jour où il constatera qu'elle est enceinte, il sera incapable de supporter davantage : consumé par la honte, il "
+"décidera alors de quitter la ville et de refaire sa vie ailleurs.[/fill]\n"
+"\n"
+"[fill]{{asami.n}}, de son côté, reviendra renouer les liens avec sa mère durant sa grossesse. Elle lui présentera {{netoru.n}}. Malgré le choc ressenti en voyant l'homme qui avait l'âge d'être le "
+"père de sa fille, {{sayuri.n}} ravalera ses pensées et se contentera de les accueillir à bras ouverts en voyant le bonheur affiché par {{asami.n}}. Après tout elle aura bientôt des petits enfants..."
+"[/fill]"
+msgstr ""
+
+#: game/scenes/gui/bad_ending/game_over.tscn
+msgid "Voir ce qui s'est passé."
+msgstr ""
+
+#: game/scenes/gui/bad_ending/game_over.tscn
+msgid "Retourner en arrière."
+msgstr ""
+
+#: game/scenes/gui/bad_ending/game_over.tscn
+msgid "Skin débloqué !"
+msgstr ""
+
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "city"
@@ -91244,6 +91938,11 @@ msgstr "Dom {{takeo.n}}"
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "sewers"
+msgstr ""
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "bad_ending_asami_pregnant"
 msgstr ""
 
 #: game/scripts/variables/quests.gd
@@ -96330,8 +97029,8 @@ msgstr "Śledź historię {{sayuri.n}}."
 
 #: game/scenes/cg/list.tres
 msgctxt "galleries.images.hints"
-msgid "Garder {{asami.n}} dans la friendzone."
-msgstr "Trzymaj {{asami.n}} w friendzone"
+msgid "Se laisser séduire par {{sayuri.n}}."
+msgstr ""
 
 #: game/scenes/cg/list.tres
 msgctxt "galleries.images.hints"
@@ -96400,6 +97099,10 @@ msgstr ""
 
 msgctxt "character.skin"
 msgid "asami_nude"
+msgstr ""
+
+msgctxt "character.skin"
+msgid "asami_pregnant"
 msgstr ""
 
 msgctxt "character.skin"
@@ -96649,6 +97352,10 @@ msgstr "Sukkub"
 msgctxt "character.skin"
 msgid "yasuka_summer"
 msgstr "Lato"
+
+#~ msgctxt "galleries.images.hints"
+#~ msgid "Garder {{asami.n}} dans la friendzone."
+#~ msgstr "Trzymaj {{asami.n}} w friendzone"
 
 #~ msgctxt "galleries.images.hints"
 #~ msgid "Domir avec {{yasuka.n}} plusieurs fois."

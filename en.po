@@ -112,17 +112,20 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-11-28 10:37+0100\n"
-"PO-Revision-Date: 2025-12-03 12:17+0000\n"
-"Last-Translator: Development team <info@teot-studio.com>\n"
-"Language-Team: English <https://translations.teot-studio.com/projects/"
-"goodbye-eternity/game-translation/en/>\n"
+"POT-Creation-Date: 2025-12-12 13:32+0100\n"
+"PO-Revision-Date: 2025-12-12 13:34+0100\n"
+"Last-Translator: selenyhr <info@teot-studio.com>\n"
+"Language-Team: Dev Team\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  en.po (Goodbye Eternity)  #-#-#-#-#\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.17\n"
+"X-Generator: Lokalize 25.08.3\n"
+"#-#-#-#-#  badEnding_Asami_en.po (Goodbye Eternity)  #-#-#-#-#\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Poedit 3.8\n"
 
 #: game/scenes/cg/noriko/laptop.tscn
 msgid "Demi-Sœur Dépucelle Son Demi-Frère"
@@ -612,6 +615,11 @@ msgstr "Yes!"
 
 #: game/story/home_minato_hallway.dialogue
 msgctxt "t7c25a56e9a"
+msgid "Oui !"
+msgstr "Yes!"
+
+#: game/story/home_asami_bathroom.dialogue
+msgctxt "OUI_E66A4D"
 msgid "Oui !"
 msgstr "Yes!"
 
@@ -1218,6 +1226,11 @@ msgstr "I understand..."
 msgctxt "home_player_livingroom_0a07202a"
 msgid "Je comprends..."
 msgstr "I understand..."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "JE_COMPRENDS_902D08"
+msgid "Je comprends..."
+msgstr "I get it..."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_15a1bceb"
@@ -2406,6 +2419,11 @@ msgstr "..."
 
 #: game/story/home_asami_exterior.dialogue
 msgctxt "home_asami_exterior_87c30b61"
+msgid "..."
+msgstr "..."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "_2D9E76"
 msgid "..."
 msgstr "..."
 
@@ -5809,6 +5827,11 @@ msgctxt "asami_choice_c744ba2a"
 msgid "Je..."
 msgstr "I..."
 
+#: game/story/home_minato_basement.dialogue
+msgctxt "JE_8B9E30"
+msgid "Je..."
+msgstr "I..."
+
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_0c7836ac"
 msgid "N'y pense même pas..."
@@ -8278,9 +8301,7 @@ msgstr "There’s nothing I can do right now."
 #: game/story/home_natsume_exterior.dialogue
 msgctxt "ET_SI_JE_M_EN_PRENDS_MINATO_N_28D92B"
 msgid "Et si je m’en prends à {{minato.n}}, je compromettrais aussi son plan pour protéger sa mère."
-msgstr ""
-"And if I went after {{minato.n}}, I’d also compromise her plan to protect "
-"her mother."
+msgstr "And if I went after {{minato.n}}, I’d also compromise her plan to protect her mother."
 
 #: game/story/home_natsume_exterior.dialogue
 msgctxt "MIEUX_VAUT_LAISSER_A_DE_C_T_P_A8CA3E"
@@ -9566,6 +9587,11 @@ msgstr "And now?"
 msgctxt "sexe_asami_l_a129f5eb"
 msgid "Et maintenant ?"
 msgstr "And now?"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "ET_MAINTENANT_B9F9F4"
+msgid "Et maintenant ?"
+msgstr "So, what now?"
 
 #: game/story/home_asami_exterior.dialogue
 msgctxt "ET_MAINTENANT_259E58"
@@ -10968,6 +10994,11 @@ msgctxt "JE_SAIS_JE_SAIS_15F411"
 msgid "Je sais, je sais..."
 msgstr "I know, I know..."
 
+#: game/story/hostess_club_alley.dialogue
+msgctxt "JE_SAIS_JE_SAIS_B18A22"
+msgid "Je sais, je sais..."
+msgstr "I know, I know..."
+
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "LAISSE_MOI_NOUS_D_BARRASSER_DE_4CF656"
 msgid "Laisse-moi nous débarrasser de lui !"
@@ -11980,6 +12011,11 @@ msgstr "[next]"
 
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "t6fbd3d2fa0"
+msgid "[next]"
+msgstr "[next]"
+
+#: game/story/amusement_park_interior.dialogue
+msgctxt "NEXT_A23EC9"
 msgid "[next]"
 msgstr "[next]"
 
@@ -19139,6 +19175,11 @@ msgctxt "home_player_room_b18d5d64"
 msgid "Tu en as mis du temps !"
 msgstr "You took your time!"
 
+#: game/story/amusement_park_interior.dialogue
+msgctxt "TU_EN_AS_MIS_DU_TEMPS_C621A3"
+msgid "Tu en as mis du temps !"
+msgstr "You took your sweet time!"
+
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_986b4148"
 msgid "Merde, alors depuis tout ce temps, elle envoyait des signaux et je ne voyais rien..."
@@ -20093,6 +20134,11 @@ msgstr "Haha, you're so silly... But just to be sure, prove it."
 msgctxt "home_player_room_b469ce4a"
 msgid "À vos ordres, madame !"
 msgstr "As you wish!"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "VOS_ORDRES_MADAME_666BC2"
+msgid "À vos ordres, madame !"
+msgstr "At your service, ma'am!"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_a8ef0bd8"
@@ -21472,8 +21518,7 @@ msgstr "Just lie back for now. I want to take care of you."
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_a5b7595b"
 msgid "Vois ça comme une récompense pour t'être donné autant de mal pour moi ces derniers jours."
-msgstr ""
-"Think of it as a reward for going through so much trouble for me recently."
+msgstr "Think of it as a reward for going through so much trouble for me recently."
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_65b17911"
@@ -22373,6 +22418,11 @@ msgstr "But...?"
 
 #: game/story/home_asami_exterior.dialogue
 msgctxt "tf15e5d13dc"
+msgid "Mais... ?"
+msgstr "But...?"
+
+#: game/story/home_minato_hallway.dialogue
+msgctxt "MAIS_6C5701"
 msgid "Mais... ?"
 msgstr "But...?"
 
@@ -26079,6 +26129,11 @@ msgstr "All the better!"
 
 #: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
 msgctxt "home_player_yasuka_room_59cd6e15"
+msgid "Dis..."
+msgstr "Hey..."
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "DIS_9CA624"
 msgid "Dis..."
 msgstr "Hey..."
 
@@ -30995,6 +31050,11 @@ msgctxt "home_player_livingroom_ee52bdf2"
 msgid "Et toi ?"
 msgstr "What about you?"
 
+#: game/story/home_asami_bathroom.dialogue
+msgctxt "ET_TOI_C3F0E9"
+msgid "Et toi ?"
+msgstr "What about you?"
+
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_79d3b417"
 msgid "Est-ce que tu as eu des problèmes avec..."
@@ -32484,6 +32544,61 @@ msgstr "Thank you for everything!"
 msgctxt "t8d09dad7fd"
 msgid "Merci mon chéri, je suis désolé de t'imposer cette situation."
 msgstr "Thank you, my dear. I'm sorry to impose this situation on you."
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "J_ESP_RE_QUE_A_NE_TE_D_RANGE_P_39F924"
+msgid "J'espère que ça ne te dérange pas ?"
+msgstr "I hope you don't mind?"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "JE_M_EN_VOUDRAIS_DE_CAUSER_DES_A361B6"
+msgid "Je m'en voudrais de causer des problèmes entre toi et {{asami.n}}."
+msgstr "I'd hate to cause problems between you and {{asami.n}}."
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "JE_SUIS_CERTAIN_QU_ELLE_SERAIT_87D3ED"
+msgid "Je suis certain qu’elle serait contente que je m’occupe de sa mère."
+msgstr "I'm sure she'd be happy if I took care of her mother."
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "ET_PUIS_QU_EST_CE_QUI_POURRAIT_016D63"
+msgid "Et puis... qu'est-ce qui pourrait se passer de mal ?"
+msgstr "And then... What could possibly go wrong?"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "MERCI_MON_CH_RI_TU_M_ENL_VES_V_50341E"
+msgid "Merci mon chéri, tu m'enlèves vraiment une épine du pied."
+msgstr "Thank you, honey. You're really lifted a weight off my shoulders."
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "LA_VOIR_DANS_CET_TAT_ME_FAISAI_8D036D"
+msgid "La voir dans cet état me faisait bien trop de peine."
+msgstr "Seeing her like that was just too painful for me."
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "TU_T_INQUI_TES_INUTILEMENT_TO_5A75D1"
+msgid "Tu t'inquiètes inutilement, tout ira bien"
+msgstr "You’re worrying too much. Everything will be fine."
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "MERCI_MON_CH_RI_JE_SUIS_D_SOL_5A36E1"
+msgid "Merci mon chéri ! Je suis désolée."
+msgstr "Thank you, honey! I'm sorry."
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "JE_M_ENGAGE_EXPLIQUER_ASAMI_N_2A5395"
+msgid "Je m'engage à expliquer à {{asami.n}} que c’est moi qui t’ai imposé ça, c'est promis."
+msgstr "I promise I'll tell {{asami.n}} that I was the one who forced this on you."
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "COMME_A_ELLE_N_AURA_PAS_DE_RAI_99DAB8"
+msgid "Comme ça elle n’aura pas de raison de t’en vouloir !"
+msgstr "That way, she’ll have no reason to be mad at you!"
+
+#: game/story/home_player_livingroom.dialogue
+msgctxt "A_ME_MET_DANS_UNE_POSITION_D_78CFE4"
+msgid "Ça me met dans une position délicate mais je le ferai pour toi."
+msgstr "It'll leave me in a tough spot, but I’ll do it for you."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "tfd42b6cec5"
@@ -34218,9 +34333,7 @@ msgstr "I must be cursed..."
 #: game/story/konbini_interior.dialogue
 msgctxt "NON_JE_NE_DOIS_PAS_ME_MORFONDR_E28A88"
 msgid "Non, je ne dois pas me morfondre ainsi. Demain, j'irai voir {{yasuka.n}} pour discuter de tout ça !"
-msgstr ""
-"No, I mustn't wallow like this. Tomorrow, I'll go see {{yasuka.n}} to talk "
-"about all of this!"
+msgstr "No, I mustn't wallow like this. Tomorrow, I'll go see {{yasuka.n}} to talk about all of this!"
 
 #: game/story/konbini_interior.dialogue
 msgctxt "EN_ATTENDANT_IL_EST_TEMPS_DE_R_D7EC10"
@@ -39315,6 +39428,11 @@ msgctxt "tb63950a0f9"
 msgid "Je ne regrette rien !"
 msgstr "I don't regret a thing!"
 
+#: game/story/hostess_club_alley.dialogue
+msgctxt "JE_NE_REGRETTE_RIEN_5366B3"
+msgid "Je ne regrette rien !"
+msgstr "I regret nothing!"
+
 #: game/story/home_asami_livingroom.dialogue
 msgctxt "home_asami_livingroom_d45016e2"
 msgid "Hey, M'man !"
@@ -40151,6 +40269,121 @@ msgid "C'était probablement une erreur et...[w]Je suis sa mère ! Et toi tu es.
 msgstr "It was probably a mistake, and...[w]I'm her mother! And you're..."
 
 #: game/story/home_asami_livingroom.dialogue
+msgctxt "SON_PETIT_AMI_MAIS_JE_CROYAIS_120CA8"
+msgid "Son petit ami... Mais je croyais qu'il n'y avait aucun retour en arrière ?"
+msgstr "Her boyfriend... But I thought there was no turning back?"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "JE_TE_LE_DEMANDE_UNE_DERNI_RE_305277"
+msgid "Je te le demande une dernière fois, moi, car je n'aurai pas la force de te refuser."
+msgstr "I'm asking you one last time, because I won't have the strength to refuse you."
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "IL_ME_SEMBLE_QU_ON_A_POURTANT_847590"
+msgid "Il me semble qu’on a pourtant déjà franchi un cap."
+msgstr "It seems to me that we've already crossed a threshold."
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "PROMET_MOI_QUE_TU_METTRAS_FIN_D0BA0C"
+msgid "Promets-moi que tu mettras fin à ta relation avec ma fille dès que tu la verras !"
+msgstr "Promise me you'll break up with my daughter as soon as you see her!"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "PROMET_LE_959FC0"
+msgid "Promets-le !!!"
+msgstr "Promise me!"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "SI_TU_ME_PRENAIS_L_MAINTENANT_352203"
+msgid "Si tu me prenais là maintenant tout de suite, non seulement je me laisserais faire mais j'en redemanderais !"
+msgstr "If you took me right here, right now, not only would I let you, I'd even be begging for more!"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "MAIS_SI_A_DOIT_ARRIVER_JE_VEUX_3139D5"
+msgid "Mais si ça doit arriver, je veux avoir la conscience tranquille !"
+msgstr "But if it's going to happen, I want to have a clear conscience!"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "TU_DOIS_METTRE_FIN_TA_RELATION_F8AED3"
+msgid "Tu dois mettre fin à ta relation avec ma fille !"
+msgstr "You have to end your relationship with my daughter!"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "TU_AS_RAISON_JE_ME_SUIS_LAISS_2914F0"
+msgid "Tu as raison, je me suis laissé emporter par mes pulsions..."
+msgstr "You're right. I got carried away by my desires..."
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "AGIR_AINSI_TAIT_UNE_ERREUR_102C2B"
+msgid "Agir ainsi... était une erreur."
+msgstr "Doing that... was a mistake."
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "JE_CONSID_RERAI_QU_IL_NE_S_EST_CAA4F4"
+msgid "Je considérerai qu’il ne s’est jamais rien passé entre nous."
+msgstr "I’ll act as if nothing ever happened between us."
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "A_T_ENNUIE_SI_JE_D_CIDE_DE_NE_EAD754"
+msgid "Ça t’ennuie si je décide de ne jamais oublier ?"
+msgstr "Would it bother you if I decide to never forget?"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "A_A_BEAU_AVOIR_T_UNE_ERREUR_J_4F647D"
+msgid "Ça a beau avoir été une erreur, je ne veux jamais oublier ces moments que nous avons passés ensemble."
+msgstr "It may have been a mistake, but I never want to forget those moments we shared together."
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "JE_SUPPOSE_QUE_C_EST_ENTRE_MOI_C573D3"
+msgid "Je suppose que c’est entre moi et ma conscience à présent..."
+msgstr "I suppose it’s between me and my conscience now..."
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "PARDON_SAITO_N_TU_PORTES_TOUTE_ACAF38"
+msgid "Pardon {{saito.n}}, tu portes toute la responsabilité alors que je suis toute aussi fautive."
+msgstr "Sorry, {{saito.n}}; you've held all the responsibility while I'm just as guilty."
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "TU_PEUX_T_ALLONGER_ICI_POUR_LA_1ECA98"
+msgid "Tu peux t’allonger ici pour la nuit... repose-toi bien."
+msgstr "You can lie down here for the night... Rest well."
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "ET_MERCI_ENCORE_D_AVOIR_EU_LE_E0801D"
+msgid "Et merci encore d’avoir eu le cran de dire non avant que les choses ne dérapent totalement."
+msgstr "And thank you again for having the courage to say no before things got completely under control."
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "DE_RIEN_JE_SUPPOSE_48734D"
+msgid "... de rien, je suppose..."
+msgstr "...you're welcome, I guess..."
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "REPOUSSER_SAYURI_N_C4690E"
+msgid "Repousser {{sayuri.n}}."
+msgstr "Rebuff {{sayuri.n}}."
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "EST_CE_QUE_C_EST_BON_A_PR_SENT_B9DF19"
+msgid "Est-ce que c'est bon à présent ?"
+msgstr "Is it okay now?"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "OUI_20E605"
+msgid "... Oui."
+msgstr "...Yes."
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "TU_BAISSES_TON_CALE_ON_ET_TU_T_FDC740"
+msgid "Tu baisses ton caleçon et tu t'allonges sur le canapé !"
+msgstr "Pull your underwear and lie down on the sofa!"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "C_EST_D_ACCORD_JE_METTRAIS_FI_E2E5B2"
+msgid "C'est d'accord ! Je mettrais fin à ma relation avec elle dès que j'aurai l'ocasion de lui dire."
+msgstr "Okay! I'll end my relationship with her as soon as I have the opportunity to tell her."
+
+#: game/story/home_asami_livingroom.dialogue
 msgctxt "tde5a0ddfe6"
 msgid "Un ami pour elle, rien de plus..."
 msgstr "A friend to her, nothing more..."
@@ -40272,6 +40505,16 @@ msgstr "Too bad for you my darling, you should have hit on {{saito.n}} first."
 msgctxt "t1a9395aaa5"
 msgid "Maman va le garder pour elle seule !"
 msgstr "Mommy will keep it for herself!"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "ELLE_N_AURAIS_DE_TOUTE_FA_ON_J_CF05C3"
+msgid "Elle n'aurais de toute façon jamais su apprecier ça... à sa juste valeur!"
+msgstr "She would never have been able to appreciate that for what it was worth, anyway!"
+
+#: game/story/home_asami_livingroom.dialogue
+msgctxt "JE_COMPTE_BIEN_EN_PROFITER_ENC_312C80"
+msgid "Je compte bien en profiter encore et encore !"
+msgstr "I fully intend to enjoy myself again and again!"
 
 #: game/story/home_asami_livingroom.dialogue
 msgctxt "td558172488"
@@ -51166,6 +51409,76 @@ msgid "....[w]Oh merci, je ne m'attendais pas à un tel compliment."
 msgstr "...[w]Oh, thank you! I wasn't expecting such a compliment."
 
 #: game/story/home_asami_exterior.dialogue
+msgctxt "ALORS_QUI_EST_LA_PLUS_JOLIE_LA_832140"
+msgid "Alors... Qui est la plus jolie ? La mère ou la fille ?"
+msgstr "So... Who’s the prettier one? The mother or the daughter?"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "HAHAHA_C_EST_VRAI_EXCUSE_MOI_0DDAA0"
+msgid "Hahaha... c'est vrai, excuse-moi !"
+msgstr "Hahaha... You’re right, sorry about that!"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "JE_NE_DEVRAIS_PAS_DEMANDER_CE_04882A"
+msgid "Je ne devrais pas demander ce genre de choses."
+msgstr "I shouldn’t be asking for something like this."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "ELLE_ME_FERAIT_LA_T_TE_JUSQU_L_83916C"
+msgid "Elle me ferait la tête jusqu'à la fin de ma vie si je lui piquais son petit ami."
+msgstr "She would give me the silent treatment for the rest of my life if I stole her boyfriend."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "QUI_A_DIT_QUE_JE_ME_LAISSERAIS_63304B"
+msgid "Qui a dit que je me laisserais faire ?"
+msgstr "Who said I would let myself be taken advantage of?"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "W_JE_SUIS_HEUREUSE_DE_VOIR_QU_DE4AB8"
+msgid "...[w] Je suis heureuse de voir que tu es une personne fiable, {{saito.n}}."
+msgstr "...[w]I'm glad to see that you're a reliable person, {{saito.n}}."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "TU_VEUX_QU_ELLE_M_TRANGLE_EN_93577A"
+msgid "Tu veux qu'elle m'étrangle en fait ?"
+msgstr "Do you actually want her to strangle me?"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "OH_VRAIMENT_E8C9A6"
+msgid "Oh, vraiment ?"
+msgstr "Oh, really?"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "ET_QUE_DIRAIT_ASAMI_N_SI_ELLE_DB1CC7"
+msgid "Et que dirait {{asami.n}} si elle savait que son petit ami n'est pas insensible au charme de la mère ?"
+msgstr "And what would {{asami.n}} say if she knew that her boyfriend wasn't indifferent to her mother’s charms?"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "EST_ELLE_VRAIMENT_OBLIG_E_DE_L_4E030A"
+msgid "Est-elle vraiment obligée de le savoir... ?"
+msgstr "Does she really have to know...?"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "DONC_A_RESTERAIT_ENTRE_NOUS_B17609"
+msgid "Donc ça resterait entre nous ?"
+msgstr "So it'll stay between us, right?"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "NOTRE_VILAIN_PETIT_SECRET_99A221"
+msgid "Notre vilain petit secret ?"
+msgstr "Our dirty little secret?"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "HAHAHA_J_AIME_VOIR_TA_T_TE_D_C_4DA069"
+msgid "Hahaha ! J'aime voir ta tête décomposée, mais..."
+msgstr "Hahaha! I love seeing you lose your composure, but..."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "EH_BIEN_IL_FAUT_SAVOIR_TRE_HO_F1DD41"
+msgid "Eh bien... il faut savoir être honnête, et j'avoue que..."
+msgstr "Well... If I have to be honest, I admit that..."
+
+#: game/story/home_asami_exterior.dialogue
 msgctxt "t72601da5ff"
 msgid "Peut être que j'en ai trop fait ?"
 msgstr "Maybe I overdid it?"
@@ -51381,6 +51694,46 @@ msgid "Prête à passer un super moment ?"
 msgstr "Ready to have a great time?"
 
 #: game/story/home_asami_exterior.dialogue
+msgctxt "EST_CE_QUE_JE_VAIS_ENCORE_FINI_5C4EEB"
+msgid "Est-ce que je vais encore finir toute nue ?"
+msgstr "Am I going to end up completely naked again?"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "OH_TU_SAVAIS_QUE_R_PONDRE_UNE_56D269"
+msgid "Oh... Tu savais que répondre à une question par une autre question en disait beaucoup sur la personne ?"
+msgstr "Oh... Did you know that answering a question with another question says a lot about a person?"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "TU_AIMERAIS_EN_SAVOIR_PLUS_REP_9538E2"
+msgid "Tu aimerais en savoir plus..? Reprendre le contrôle de la conversation ?"
+msgstr "Would you like to know more..? Take back control of the conversation?"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "AIMERAIS_TU_QUE_JE_ME_D_SHABIL_2DF525"
+msgid "Aimerais-tu que je me déshabille devant toi là maintenant tout de suite ?"
+msgstr "Would you like me to undress in front of you right now?"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "HAHAHA_TU_ES_ADORABLE_ALLEZ_DI_2BCF1E"
+msgid "Hahaha ! Tu es adorable... Allez, dis-moi !"
+msgstr "Hahaha! You're adorable... Come on, tell me!"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "TU_AIMERAIS_QUE_JE_TE_DISE_OU_D312E0"
+msgid "Tu aimerais que je te dise oui ?"
+msgstr "You want me to say yes to you?"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "OH_POURQUOI_66264B"
+msgid "Oh..! Pourquoi ?"
+msgstr "Oh... Why?"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "TU_FINIRAIS_S_REMENT_EN_PRISO_7C5036"
+msgid "Tu finirais sûrement en prison !"
+msgstr "You'd probably end up in jail for sure!"
+
+#: game/story/home_asami_exterior.dialogue
 msgctxt "tcad1560e71"
 msgid "Où comptes-tu m'emmener cette fois-ci ?"
 msgstr "Where are you taking me this time?"
@@ -51491,24 +51844,79 @@ msgid "Je ne veux pas que ça s'arrête maintenant !"
 msgstr "I don't want it to stop now!"
 
 #: game/story/home_asami_exterior.dialogue
-msgctxt "te85545ca58"
-msgid "J'aimerais un vrai rendez-vous amoureux, et pour ça, le meilleur endroit, c'est le parc d'attractions !"
-msgstr "I'd like to go on a real date, and the best place to do that is an amusement park!"
+msgctxt "JE_VEUX_UN_VRAI_RENDEZ_VOUS_AM_09759F"
+msgid "Je veux un vrai rendez-vous amoureux !"
+msgstr "I want a real romantic date!"
 
 #: game/story/home_asami_exterior.dialogue
-msgctxt "t40aab72134"
-msgid "Un vrai rendez-vous amoureux ? C'est-à-dire... se tenir la main ?"
-msgstr "A real date? Meaning... Holding hands?"
+msgctxt "OUI_JE_VEUX_RESSENTIR_CES_MOTI_61DDC8"
+msgid "Oui... Je veux... ressentir ces émotions de nouveau."
+msgstr "Yes... I want... to feel those emotions again."
 
 #: game/story/home_asami_exterior.dialogue
-msgctxt "taf4f0582dc"
-msgid "Oui, par exemple, c'est une des nombreuses choses qu'on peut faire."
-msgstr "Yes, that is one of the many things it could involve."
+msgctxt "SE_SENTIR_D_SIR_E_LA_DOUCEUR_D_E19984"
+msgid "Se sentir désirée... la douceur d'une caresse..."
+msgstr "Being wanted... the gentle touch of a caress..."
 
 #: game/story/home_asami_exterior.dialogue
-msgctxt "t672bcb5a9f"
-msgid "Ça peut être aussi partager une glace, par exemple !"
-msgstr "It could also be other things, like sharing an ice cream!"
+msgctxt "UN_BAISER_FUGACE_LE_C_UR_QUI_P_18704D"
+msgid "Un baiser fugace... le cœur qui palpite en croisant son regard."
+msgstr "A fleeting kiss... heart pounding while eyes meet."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "SENTIR_LA_CHALEUR_DE_L_AUTRE_C_BA8DF8"
+msgid "Sentir la chaleur de l'autre contre sa peau..."
+msgstr "Feeling the warmth of someone else against one's skin..."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "JE_TE_METS_MAL_L_AISE_95F202"
+msgid "Je te mets mal à l'aise ?"
+msgstr "Am I making you uncomfortable?"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "NON_AU_CONTRAIRE_TU_ES_HONN_TE_2908C5"
+msgid "Non au contraire, tu es honnête sur tes sentiments, d'une certaine manière c'est rassurant."
+msgstr "No, quite the contrary. You’re honest about your feelings, and in a way, that’s reassuring."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "MERCI_SAITO_N_7720D7"
+msgid "Merci {{saito.n}} !"
+msgstr "Thank you, {{saito.n}}!"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "ET_TOUT_CE_QUE_A_IMPLIQUE_F87BE7"
+msgid "Et tout ce que ça implique...?"
+msgstr "And everything that implies...?"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "W_OUI_IDIOT_7B3F97"
+msgid "...[w] Oui, idiot !"
+msgstr "...[w]Yes, idiot!"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "MAIS_AU_MOINS_DONNE_MOI_UNE_BE_8A89AE"
+msgid "Mais au moins donne-moi une belle illusion !"
+msgstr "But at least give me a beautiful illusion!"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "JE_PENSE_QUE_JE_PEUX_FAIRE_A_BA1553"
+msgid "Je pense que je peux faire ça."
+msgstr "I think I can do that."
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "DANS_CE_CAS_O_AIMERAIS_TU_FAIR_6C4D8A"
+msgid "Dans ce cas, où aimerais-tu faire ce rendez-vous amoureux ?"
+msgstr "In that case, where would you like to have this romantic date?"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "LE_PARC_D_ATTRACTIONS_65C1EE"
+msgid "Le parc d’attractions !"
+msgstr "The amusement park!"
+
+#: game/story/home_asami_exterior.dialogue
+msgctxt "RASSURE_MOI_ON_FAIT_TOUJOURS_57A2EE"
+msgid "Rassure-moi, on fait toujours semblant ?"
+msgstr "Tell me we’re still just pretending, right?"
 
 #: game/story/home_asami_exterior.dialogue
 msgctxt "t8b076d9a3a"
@@ -76230,6 +76638,111 @@ msgid "Tu es vraiment cruelle, tu le sais ça ?"
 msgstr "You really are cruel, you know that?"
 
 #: game/story/hostess_club_alley.dialogue
+msgctxt "HMM_5A1DA9"
+msgid "Hmm ?"
+msgstr "Hmm?"
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "SI_TU_M_AVAIS_RENCONTR_E_AVANT_0D3AC2"
+msgid "Si tu m'avais rencontrée avant ma fille."
+msgstr "If you had met me before my daughter..."
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "LES_CHOSES_NOTRE_RELATION_AURA_AEA287"
+msgid "Les choses... Notre relation aurait-elle été différente ?"
+msgstr "Would things... Would our relationship have been different?"
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "JE_DA8FE2"
+msgid "Je-"
+msgstr "I-"
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "ATTEND_JE_NE_SUIS_PAS_SUR_DE_V_922428"
+msgid "Attends ! Je ne suis pas sûre de vouloir entendre la réponse."
+msgstr "Wait! I'm not sure I want to hear the answer."
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "IL_FAUT_SAVOIR_C_EST_POURTANT_9E5301"
+msgid "Il faut savoir... C'est pourtant toi qui me poses la question."
+msgstr "You should know... And yet it’s you who’s asking me the question."
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "TU_M_AS_EMBRASS_ALORS_QUE_TU_E_59E700"
+msgid "Tu m'as embrassée... Alors que tu es déjà en relation avec ma propre fille..."
+msgstr "You kissed me... Even though you’re already involved with my own daughter..."
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "C_TAIT_INCONVENANT_DE_MA_PART_877026"
+msgid "C'était inconvenant de ma part, je n'aurais pas dû faire ça..."
+msgstr "That was out of line on my part. I really shouldn’t have done that..."
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "NOUS_N_AURIONS_PAS_DU_1387BB"
+msgid "Nous n'aurions pas dû..."
+msgstr "We shouldn’t have..."
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "TU_ES_UN_BON_GAR_ON_2158C2"
+msgid "Tu es un bon garçon !"
+msgstr "You're a good boy!"
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "HEURESEMENT_QUE_TU_AS_LA_T_TE_89BD5D"
+msgid "Heuresement que tu as la tête sur les épaules."
+msgstr "Thankfully, you have your head on straight."
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "SI_JE_M_COUTAIS_NOUS_SERIONS_D_BF2CDC"
+msgid "Si je m'écoutais... Nous serions déjà en train de ..."
+msgstr "If I listened to myself... We would already be..."
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "DE_D8E353"
+msgid "De ?"
+msgstr "Be what?"
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "NON_RIEN_RENTRONS_FDC103"
+msgid "Non rien, rentrons !"
+msgstr "No, nothing. Let’s go back!"
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "C_TAIT_EFFECTIVEMENT_UNE_ERRE_E29A61"
+msgid "C'était effectivement une erreur, ça ne se reproduira plus !"
+msgstr "That was definitely a mistake. It won’t happen again!"
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "TU_D_SIRAIS_CE_BAISER_AUTANT_Q_D97639"
+msgid "Tu désirais ce baiser autant que je le désirais..."
+msgstr "You wanted that kiss just as much as I did..."
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "TU_ES_VRAIMENT_UN_VILAIN_GAR_O_BF6373"
+msgid "Tu es vraiment un vilain garçon..."
+msgstr "You really are a naughty boy..."
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "JE_NE_SUIS_PAS_DEVENU_VILAIN_T_237100"
+msgid "Je ne suis pas devenu vilain tout seul !"
+msgstr "I didn’t become a villain all by myself!"
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "C_EST_VRAI_1DB725"
+msgid "C'est vrai..."
+msgstr "That's true..."
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "QUE_VA_T_IL_SE_PASSER_MAINTENA_C52355"
+msgid "Que va-t-il se passer maintenant ?"
+msgstr "What’s going to happen now?"
+
+#: game/story/hostess_club_alley.dialogue
+msgctxt "ALLONS_D_J_NOUS_METTRE_AU_CHAU_F4A65A"
+msgid "Allons déjà nous mettre au chaud."
+msgstr "Let's go get warm first."
+
+#: game/story/hostess_club_alley.dialogue
 msgctxt "ALORS_L_TU_NE_POUVAIS_PAS_PLUS_F73300"
 msgid "Alors là, tu ne pouvais pas plus mal tomber !"
 msgstr "You couldn't have come at a worse time!"
@@ -82027,6 +82540,81 @@ msgid "On ne va pas la garder éternellement comme ça..."
 msgstr "We can't keep her like this forever..."
 
 #: game/story/home_minato_hallway.dialogue
+msgctxt "EH_BIEN_JE_SUIS_MOI_M_ME_SURPR_F1F3A7"
+msgid "Eh bien... Je suis moi-même surpris par le déroulement de la situation mais c'est déjà terminé."
+msgstr "Well... I'm actually surprised by how things turned out myself, but it's already over."
+
+#: game/story/home_minato_hallway.dialogue
+msgctxt "HEIN_TERMIN_COMMENT_A_20947F"
+msgid "Hein ?! Terminé, comment ça ?"
+msgstr "Huh?! Over, how?"
+
+#: game/story/home_minato_hallway.dialogue
+msgctxt "TOI_AUSSI_TU_ES_SURPRISE_A_ME_692B2F"
+msgid "Toi aussi tu es surprise, ça me rassure."
+msgstr "You’re surprised too? That's reassuring."
+
+#: game/story/home_minato_hallway.dialogue
+msgctxt "L_OBJECTIF_TAIT_DE_TESTER_LA_N_C31353"
+msgid "L'objectif était de tester la nouvelle formule du X3 pour le tester mais..."
+msgstr "The goal was to try out the new X3 formula, but..."
+
+#: game/story/home_minato_hallway.dialogue
+msgctxt "APR_S_AVOIR_VU_SA_M_RE_S_ENVOY_4CD905"
+msgid "Après avoir vu sa mère s'envoyer en l'air avec son petit ami, disons qu'elle a craqué."
+msgstr "After seeing her mother fucking her boyfriend, let’s just say she snapped."
+
+#: game/story/home_minato_hallway.dialogue
+msgctxt "ELLE_SE_SENTAIT_TELLEMENT_MAL_BEF94F"
+msgid "Elle se sentait tellement mal qu'elle a voulu oublier tout ça."
+msgstr "She felt so awful she just wanted to forget it all."
+
+#: game/story/home_minato_hallway.dialogue
+msgctxt "NOTRE_COLLABORATEUR_LUI_A_DONN_A916DA"
+msgid "Notre collaborateur lui a donné sa première dose, l’ancienne formule, hier soir."
+msgstr "Our collaborator gave her the first dose of the old formula, last night."
+
+#: game/story/home_minato_hallway.dialogue
+msgctxt "OH_PUTAIN_NON_F2E3A4"
+msgid "Oh putain, non..."
+msgstr "Oh fuck, no..."
+
+#: game/story/home_minato_hallway.dialogue
+msgctxt "ELLE_A_ENSUITE_EU_LA_SECONDE_D_62F1B2"
+msgid "Elle a ensuite eu la seconde dose ce matin et elle a dû prendre la troisième il y a quelques minutes..."
+msgstr "She had the second dose this morning, and was scheduled to get the third one a few minutes ago..."
+
+#: game/story/home_minato_hallway.dialogue
+msgctxt "NON_NON_NON_594749"
+msgid "Non, non, non !"
+msgstr "No, no, no!"
+
+#: game/story/home_minato_hallway.dialogue
+msgctxt "A_TE_POSE_UN_PROBL_ME_DB3701"
+msgid "Ça te pose un problème ?"
+msgstr "Is that a problem?"
+
+#: game/story/home_minato_hallway.dialogue
+msgctxt "NON_C_EST_JUSTE_QUE_A_S_EST_PA_3C17AC"
+msgid "Non... C'est juste que... Ça s'est passé si vite..."
+msgstr "No... It's just that... It all happened so fast..."
+
+#: game/story/home_minato_hallway.dialogue
+msgctxt "ALLEZ_OUBLIE_A_TU_VEUX_JETER_U_1AB606"
+msgid "Allez, oublie ça, tu veux jeter un coup d'œil ?"
+msgstr "Come on, forget all that. Do you want to take a look?"
+
+#: game/story/home_minato_hallway.dialogue
+msgctxt "JE_SUIS_CURIEUX_DE_SAVOIR_QUEL_C7A1DC"
+msgid "Je suis curieux de savoir à quel point elle doit se déchaîner sur ce gros lard !"
+msgstr "I'm curious to see just how wild she's getting with that ugly bastard!"
+
+#: game/story/home_minato_hallway.dialogue
+msgctxt "PUTAIN_SAITO_N_QU_EST_CE_QUE_T_9089A5"
+msgid "Putain {{saito.n}}, qu'est-ce que t’as foutu !!!? Ça devait pas se passer comme ça !"
+msgstr "Fuck, {{saito.n}}, what the hell did you do?! It wasn’t supposed to happen like this!"
+
+#: game/story/home_minato_hallway.dialogue
 msgctxt "t7739140aa9"
 msgid "Non c'est bon, j'ai eu la réponse que je voulais."
 msgstr "No, it's okay. I got the answer I wanted."
@@ -83278,9 +83866,14 @@ msgid "Mhh!"
 msgstr "Mmh!"
 
 #: game/story/amusement_park_interior.dialogue
-msgctxt "t328fbd5ca9"
-msgid "Je... J'aimerais mais..."
-msgstr "I'd... I'd like to, but..."
+msgctxt "MHH_C842DD"
+msgid "Mhh !"
+msgstr "Mmm!"
+
+#: game/story/amusement_park_interior.dialogue
+msgctxt "OH_ET_PUIS_ZUT_FF64D1"
+msgid "Oh et puis zut !"
+msgstr "Ah, screw it!"
 
 #: game/story/amusement_park_interior.dialogue
 msgctxt "td3f79568d1"
@@ -83311,6 +83904,11 @@ msgstr "I have a feeling you care a lot for my daughter."
 msgctxt "t5fbe924c06"
 msgid "Je suis a la fois très heureuse et un peu déçue je ne vais pas te le cacher mais c'est ainsi !"
 msgstr "I'm both very happy and a little disappointed, I won't lie, but that's just the way it is!"
+
+#: game/story/amusement_park_interior.dialogue
+msgctxt "JE_J_AIMERAIS_MAIS_023319"
+msgid "Je... J'aimerais mais..."
+msgstr "I... I wish I could, but..."
 
 #: game/story/amusement_park_interior.dialogue
 msgctxt "tc5da28c141"
@@ -83408,6 +84006,46 @@ msgid "Arrêter d'être raisonnable !"
 msgstr "Stop being reasonable!"
 
 #: game/story/home_asami_bathroom.dialogue
+msgctxt "IL_NE_SE_PASSERA_RIEN_IF_ASAM_1AD425"
+msgid "Il ne se passera rien !"
+msgstr "Nothing will happen!"
+
+#: game/story/home_asami_bathroom.dialogue
+msgctxt "t45937adcd1"
+msgid "Il ne se passera rien !"
+msgstr "Nothing's gonna happen with her!"
+
+#: game/story/home_asami_bathroom.dialogue
+msgctxt "BON_JE_SUIS_ALL_TROP_LOIN_POUR_E22A66"
+msgid "Bon je suis allé trop loin pour faire machine arrière à présent..."
+msgstr "Well, I’ve gone too far now to turn back..."
+
+#: game/story/home_asami_bathroom.dialogue
+msgctxt "JE_SUIS_INCAPABLE_DE_LUI_DIRE_7A4712"
+msgid "Je suis incapable de lui dire non."
+msgstr "I'm unable to say no."
+
+#: game/story/home_asami_bathroom.dialogue
+msgctxt "TU_T_ES_D_CID_206591"
+msgid "Tu t'es décidé ?"
+msgstr "Have you made up your mind?"
+
+#: game/story/home_asami_bathroom.dialogue
+msgctxt "AUCUN_RETOUR_EN_ARRIERE_POSSIB_4D5591"
+msgid "Aucun retour en arriere possible après ça !"
+msgstr "There's no going back after this!"
+
+#: game/story/home_asami_bathroom.dialogue
+msgctxt "W_NE_DIS_PLUS_RIEN_ET_CONTENT_E43B7C"
+msgid "...[w] Ne dis plus rien et contente-toi de me rejoindre !"
+msgstr "...[w]Don’t say anything else and just come join me!"
+
+#: game/story/home_asami_bathroom.dialogue
+msgctxt "J_ARRIVE_SI_LES_CHOIX_ONT_T_T_54F09B"
+msgid "... J'arrive !"
+msgstr "I'm coming!"
+
+#: game/story/home_asami_bathroom.dialogue
 msgctxt "t635d475eab"
 msgid "Je... Préfère attendre que tu termine."
 msgstr "I'd... I'd rather wait until you finish."
@@ -83426,11 +84064,6 @@ msgstr "I understand!"
 msgctxt "t7457175145"
 msgid "Je ne serais pas longue."
 msgstr "I won't be long."
-
-#: game/story/home_asami_bathroom.dialogue
-msgctxt "t45937adcd1"
-msgid "Il ne se passera rien !"
-msgstr "Nothing's gonna happen with her!"
 
 #: game/story/home_asami_bathroom.dialogue
 msgctxt "td9df55d517"
@@ -83461,6 +84094,11 @@ msgstr "I'm done!"
 msgctxt "tc2d9fcece1"
 msgid "A ton tour !"
 msgstr "Now it's your turn!"
+
+#: game/story/home_asami_bathroom.dialogue
+msgctxt "JE_LA_PRENDRAIS_APR_S_TOI_IF_4E3F38"
+msgid "Je la prendrais après toi."
+msgstr "I'll take her after you."
 
 #. TRANSLATORS: Idle
 #: game/story/home_asami_bathroom.dialogue
@@ -84151,6 +84789,16 @@ msgid "Dans la grande roue en train de s'embrasser !"
 msgstr "Kissing on the Ferris wheel!"
 
 #: game/story/home_minato_basement.dialogue
+msgctxt "ET_LES_VOILA_DANS_LA_GRANDE_RO_7774EB"
+msgid "Et les voila dans la grande roue en train de s'embrasser."
+msgstr "And there they are, kissing on the Ferris wheel."
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "TON_PETIT_AMI_S_OCCUPE_VRAIMEN_073D42"
+msgid "Ton petit ami s'occupe vraiment bien de ta mère..."
+msgstr "Your boyfriend is really taking good care of your mom..."
+
+#: game/story/home_minato_basement.dialogue
 msgctxt "t90eaa2459e"
 msgid "Dans la grande roue !"
 msgstr "On the Ferris wheel!"
@@ -84203,6 +84851,221 @@ msgid ""
 msgstr ""
 "My mother is an adult. She can do what she wants. Besides, {{saito.n}} is just a friend, and if he makes my mother happy then so much the better! It will always be better than having a father who's "
 "incapable and always absent."
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "OH_L_ON_A_UNE_BELLE_VUE_0F2E84"
+msgid "Oh là, on a une belle vue !"
+msgstr "Wow, what a great view!"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "CAUSE_DE_LA_BU_E_ON_NE_VOYAIT_C8C26F"
+msgid "À cause de la buée, on ne voyait pas grand-chose dans la salle de bain."
+msgstr "Because of the steam, you couldn't see much in the bathroom."
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "MAIS_ILS_ONT_FAIT_A_DANS_LE_SA_640766"
+msgid "Mais ils ont fait ça dans le salon..."
+msgstr "But they did that in the living room..."
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "L_ENFOIR_L_ESP_CE_DE_C832D7"
+msgid "L'enfoiré ! L'espèce de..."
+msgstr "That bastard! The damn..."
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "ET_JE_NE_TE_PARLE_M_ME_PAS_DE_BFF17C"
+msgid "Et je ne te parle même pas de ce qu’ils ont fait dans la chambre !"
+msgstr "And I’m not even going to mention what they did in the bedroom!"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "JE_DOIS_RECONNA_TRE_QUE_JE_SUI_D8D7F5"
+msgid "Je dois reconnaître que je suis admirable devant tant d’endurance."
+msgstr "I must admit that I'm impressed by his endurance."
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "ON_A_D_J_PLUSIEURS_HEURES_DE_V_F3562A"
+msgid "On a déjà plusieurs heures de vidéos... Si tu veux les visionner par toi-même pour être certaine."
+msgstr "We already have several hours of footage... if you want to watch it yourself to be sure."
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "ARR_TEZ_809054"
+msgid "Arrêtez.. !"
+msgstr "Stop it...!"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "TU_AURAIS_R_ELLEMENT_PU_PARTIR_4DC20F"
+msgid "Tu aurais réellement pu partir quelques jours et tout ça n’aurait rien changé."
+msgstr "You really could have left for a few days and none of it would have made any difference."
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "TA_M_RE_ET_TON_PETIT_AMI_AURAI_B30FA4"
+msgid "Ta mère et ton petit ami auraient inévitablement couché ensemble dans ton dos !"
+msgstr "Your mother and your boyfriend would inevitably have slept together behind your back!"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "STOP_0603E9"
+msgid "Stop !"
+msgstr "Stop!"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "CETTE_SITUATION_AURAIT_PU_DURE_89FD6E"
+msgid "Cette situation aurait pu durer des années sans que tu t’en aperçoives !"
+msgstr "This could have gone on for years without you even noticing!"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "MAIS_ARR_TEZ_BON_SANG_9325BD"
+msgid "MAIS ARRÊTEZ, BON SANG !"
+msgstr "FOR FUCK'S SAKE, STOP IT ALREADY!"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "JE_VEUX_BIEN_ARR_TER_MAIS_TU_D_8D527F"
+msgid "Je veux bien arrêter... Mais tu dois reconnaître par toi-même que ta propre mère et ton petit ami..."
+msgstr "I’m willing to stop... But you have to admit to yourself that your own mother and your boyfriend..."
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "EX_PETIT_AMI_684D8D"
+msgid "EX-PETIT AMI !"
+msgstr "EX-BOYFRIEND!"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "D_ACCORD_W_ET_TON_EX_PETIT_AMI_08DEF5"
+msgid "D’accord...[w] et ton ex-petit ami, n’ont que faire de tes sentiments."
+msgstr "Alright...[w] and your ex-boyfriend don't give a damn about your feelings."
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "J_AI_MAL_AU_C_UR_J_AI_JUSTE_EN_28F4D3"
+msgid "J’ai mal au cœur... J’ai juste envie de mourir..."
+msgstr "I feel sick... I just want to die..."
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "CE_SERAIT_TELLEMENT_TRISTE_SI_01F48A"
+msgid "Ce serait tellement triste... Si tu fais ça, ils continueront leur vie de leur côté pendant que {{saito.n}} réconfortera ta mère."
+msgstr "It would be so sad... If you do that, they'll continue living their lives while {{saito.n}} comforts your mother."
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "JE_VEUX_SEULEMENT_QUE_A_S_ARR_DA4025"
+msgid "Je veux seulement que ça s’arrête !"
+msgstr "I only want this to stop!"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "S_IL_VOUS_PLA_T_0C8369"
+msgid "S’il vous plaît...!"
+msgstr "Please...!"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "J_AI_UNE_SOLUTION_DANS_CE_CAS_4BF60B"
+msgid "J’ai une solution dans ce cas..."
+msgstr "I have a solution, in that case..."
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "QU_EST_CE_QUE_C_EST_F88FDF"
+msgid "Qu’est-ce que c’est ?"
+msgstr "What is this?"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "LE_X3_JE_SUPPOSE_QUE_TU_EN_AS_40B850"
+msgid "Le X3... Je suppose que tu en as entendu parler ?"
+msgstr "X3... I'm guessing you've heard of it?"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "OUI_MAIS_JE_NE_VEUX_PAS_JE_NE_32019A"
+msgid "Oui... Mais je ne veux pas... Je ne serai plus moi... après ça..."
+msgstr "Yeah... But I don't want to... I won't be myself anymore... after that..."
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "COUTE_MOI_BIEN_ASAMI_N_RIEN_N_F18E7B"
+msgid "Écoute-moi bien {{asami.n}}, rien ne dit qu’ils te laisseront en vie... Tu en sais déjà beaucoup trop."
+msgstr "Listen to me carefully, {{asami.n}}. There's no guarantee they’ll leave you alive... You already know far too much."
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "IMAGINE_QU_ILS_TE_DONNENT_LA_D_DD6C5D"
+msgid "Imagine qu’ils te donnent la drogue et qu’ils t’obligent à rester toute ta vie à la botte d’un type horrible ?"
+msgstr "Imagine if they gave you the drug and forced you to stay under the thumb of some awful bastard your whole life?"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "COMME_VOUS_PAR_EXEMPLE_A76A1E"
+msgid "Comme vous par exemple ?"
+msgstr "Like you, for example?"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "AI_JE_VRAIMENT_T_AUSSI_HORRIBL_4FC44D"
+msgid "Ai-je vraiment été aussi horrible que ça ?"
+msgstr "Am I really that horrible?"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "CE_N_EST_PAS_LA_MEILLEURE_CAPT_D06682"
+msgid "Ce n’est pas la meilleure captivité de ta vie ? J’ai fait un effort pour que tu ne t’ennuies pas, tu pourrais au moins le reconnaître..."
+msgstr "This isn’t the best captivity of your life? I put in effort to make sure you wouldn’t be bored, so you could at least acknowledge it..."
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "C_EST_VRAI_95D43F"
+msgid "C’est vrai..."
+msgstr "That's true..."
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "ACCEPTE_DE_PRENDRE_LA_PILULE_E_94FAB3"
+msgid "Accepte de prendre la pilule et viens avec moi, non seulement tu échappes à {{minato.n}} et à ce qu’il a prévu d’horrible pour toi..."
+msgstr "Agree to take the pill and come with me. Not only will you escape from {{minato.n}} and whatever horrible plans he has for you..."
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "MAIS_EN_PLUS_TU_RETROUVES_TA_L_1EAE78"
+msgid "Mais en plus tu retrouves ta liberté et tu auras quelqu’un pour te soutenir face à ta mère et ton ex."
+msgstr "You'll even have your freedom back and someone to back you up against your mom and your ex."
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "LE_X3_TE_FERA_OUBLIER_LA_PEINE_FAF965"
+msgid "Le X3 te fera oublier la peine de la rupture et en plus tu seras heureuse."
+msgstr "The X3 will make you forget the pain of the breakup, and on top of that, you'll be happy."
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "IL_NE_FAUT_PAS_AVOIR_PEUR_EC6615"
+msgid "Il ne faut pas avoir peur."
+msgstr "You shouldn't be afraid."
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "LE_X3_EST_LITT_RALEMENT_TA_SEU_999BDA"
+msgid "Le X3 est littéralement ta seule échappatoire !"
+msgstr "The X3 is literally your only way out!"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "JE_TE_PROMETS_QUE_JE_M_OCCUPER_A4EB52"
+msgid "Je te promets que je m’occuperai de toi et que tu ne manqueras jamais de rien !"
+msgstr "I promise I'll take care of you and you'll never want for anything!"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "W_C_EST_D_ACCORD_E9CD77"
+msgid "...[w] C’est d’accord..."
+msgstr "...[w]Alright then..."
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "C_EST_LA_BONNE_D_CISION_528D42"
+msgid "C’est la bonne décision !"
+msgstr "Good choice!"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "MAIS_J_AI_UNE_CONDITION_W_JE_V_500209"
+msgid "Mais j’ai une condition ![w] Je veux que... que ce qui se passe entre nous après soit... filmé. Je veux qu’il culpabilise toute sa vie !"
+msgstr "But I’ve got one condition![w] I want... whatever happens between us afterward to be recorded. I want him to feel guilty for the rest of his life!"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "TU_POURRAS_M_ME_LUI_APPORTER_E_CE73E5"
+msgid "Tu pourras même lui apporter en main propre si tu veux !"
+msgstr "You can even hand it to him yourself if you want!"
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "DE_TOUTE_FA_ON_C_EST_A_OU_LA_M_33A275"
+msgid "De toute façon, c’est ça ou... la mort, je suppose."
+msgstr "Either way, it’s this or... death, I guess."
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "JE_SUIS_D_SOL_QUE_LA_VIE_AIT_T_CD7450"
+msgid "Je suis désolé que la vie ait tourné comme ça pour toi..."
+msgstr "I’m sorry life turned out this way for you..."
+
+#: game/story/home_minato_basement.dialogue
+msgctxt "C_EST_BON_DONNEZ_MOI_CE_TRUC_Q_E1E180"
+msgid "C’est bon, donnez-moi ce truc qu’on en finisse !"
+msgstr "Alright, just give me that damn thing so we can get this over with!"
 
 #: game/story/home_minato_basement.dialogue
 msgctxt "tc59db30bcf"
@@ -85638,6 +86501,31 @@ msgstr "That's normal. With everything we did last night, I thought it would nev
 msgctxt "td0b9a53410"
 msgid "C'est fou d'avoir autant d'endurance !"
 msgstr "That was a crazy amount of stamina!"
+
+#: game/story/home_asami_sayuri_room.dialogue
+msgctxt "ALORS_TU_AS_REUSSI_DORMIR_049004"
+msgid "Alors ? Tu as reussi à dormir ?"
+msgstr "So? Did you manage to get any sleep?"
+
+#: game/story/home_asami_sayuri_room.dialogue
+msgctxt "UN_PEU_RONG_PAR_LA_CULPABILIT_5534C8"
+msgid "Un peu rongé par la culpabilité mais je ne regrette pas."
+msgstr "I'm a little consumed by guilt, but I don’t regret it."
+
+#: game/story/home_asami_sayuri_room.dialogue
+msgctxt "CE_QUI_EST_FAIT_EST_FAIT_C1342B"
+msgid "Ce qui est fait est fait !"
+msgstr "What's done is done!"
+
+#: game/story/home_asami_sayuri_room.dialogue
+msgctxt "ET_JE_COMPTE_BIEN_CONTINUER_LE_8DBD64"
+msgid "Et je compte bien continuer à le refaire avec toi."
+msgstr "And I fully plan to keep doing it again with you."
+
+#: game/story/home_asami_sayuri_room.dialogue
+msgctxt "EN_VOILA_UNE_EXCELLENTE_NOUVEL_567A87"
+msgid "En voila une excellente nouvelle !"
+msgstr "That's great news!"
 
 #: game/story/home_asami_sayuri_room.dialogue
 msgctxt "t140d1bfcca"
@@ -89494,6 +90382,64 @@ msgctxt "main_menu.lovense_ad"
 msgid "Maintenant compatible avec {{lovense}}."
 msgstr "Now compatible with {{lovense}}."
 
+#: game/scenes/gui/bad_ending/betrayed_girl.gd
+msgctxt "game_over.title"
+msgid "[i]La fille qui a été trahie.[/i]"
+msgstr "[i]The girl who was betrayed.[/i]"
+
+#: game/scenes/gui/bad_ending/betrayed_girl.gd
+msgctxt "game_over.summary"
+msgid ""
+"[fill]{{asami.n}} a cédé à la manipulation de {{netoru.n}}. Profitant de sa détresse et de sa soif de vengeance, il l'a poussée à accepter le X3 de son plein gré. Malgré le dégoût profond qu'elle "
+"éprouvait pour lui, la chimie du produit a réécrit sa perception et le désir l'a submergée dès qu'elle eut croisé son regard. {{netoru.n}} est devenu la seule personne qui comptait. {{saito.n}} "
+"s'est effacé de son esprit, il n'y avait simplement plus assez de place pour lui, ni dans son cœur, ni dans son esprit. Sa vie devait désormais tourner autour de cet homme qu'elle haïssait "
+"autrefois et qu'elle aimait éperdument à partir de ce moment-là.[/fill]\n"
+"\n"
+"[fill]{{minato.n}} la laissera partir. Avant de quitter la ville, {{asami.n}} passera voir sa mère au konbini pour lui annoncer son retour. {{sayuri.n}} saura instantanément, en croisant son "
+"regard, qu'elle connaît la vérité. Les excuses et les demandes de pardon n'y changeront rien. {{asami.n}} ne lui accordera qu'un regard froid et méprisant avant d'annoncer qu'elle quittera la "
+"maison. Sa mère lui demandera simplement, au bord des larmes, de lui donner des nouvelles de temps en temps en ajoutant qu'elle restera sa fille chérie à tout jamais.[/fill]\n"
+"\n"
+"[fill]{{saito.n}} aura vent du retour d'{{asami.n}} et de son départ brutal par sa mère en larmes, il n'aura jamais le courage de lui révéler la sombre vérité. À partir de ce moment, il recevra "
+"chaque semaine dans sa boîte aux lettres des vidéos envoyées par {{asami.n}} ou [i]La fille qui a été trahie[/i], comme elle aime se présenter dans ses messages. Elle soulignera sans cesse cette "
+"trahison au milieu de chacun de ses ébats filmés avec {{netoru.n}}.[/fill]\n"
+"\n"
+"[fill]{{saito.n}} n'en parlera jamais à personne, rongé par la culpabilité. Le jour où il constatera qu'elle est enceinte, il sera incapable de supporter davantage : consumé par la honte, il "
+"décidera alors de quitter la ville et de refaire sa vie ailleurs.[/fill]\n"
+"\n"
+"[fill]{{asami.n}}, de son côté, reviendra renouer les liens avec sa mère durant sa grossesse. Elle lui présentera {{netoru.n}}. Malgré le choc ressenti en voyant l'homme qui avait l'âge d'être le "
+"père de sa fille, {{sayuri.n}} ravalera ses pensées et se contentera de les accueillir à bras ouverts en voyant le bonheur affiché par {{asami.n}}. Après tout elle aura bientôt des petits enfants..."
+"[/fill]"
+msgstr ""
+"[fill]{{asami.n}} gave in to {{netoru.n}}'s manipulation. Taking advantage of her distress and thirst for revenge, he pressured her into willingly accepting the X3. Despite her deep disgust for "
+"him, the drug's chemistry rewired her perception, and desire overwhelmed her as soon as she met his gaze. {{netoru.n}} became the only person that mattered. {{saito.n}} faded from her thoughts; "
+"there was simply no more room for him—neither in her heart nor her mind. Her life now revolved around this man she once hated, but suddenly loved madly from that moment on.[/fill]\n"
+"\n"
+"[fill]{{minato.n}} will let her go. Before leaving town, {{asami.n}} will stop by the konbini to see her mother and announce her return. {{sayuri.n}} will know instantly, upon meeting her gaze, "
+"that she knows the truth. Apologies and pleas for forgiveness won’t change anything. {{asami.n}} will only give her a cold, contemptuous look before saying she’s leaving home. Her mother, on the "
+"verge of tears, will simply ask her to keep in touch sometimes, adding that she will always be her beloved daughter.[/fill]\n"
+"\n"
+"[fill]{{saito.n}} will catch wind of {{asami.n}}’s return and her abrupt departure through her tearful mother, but he’ll never have the courage to reveal the dark truth to her. From then on, every "
+"week he’ll receive videos in his inbox sent by {{asami.n}}, or [i]The girl who was betrayed[/i], as she likes to call herself in her messages. She will constantly emphasize that betrayal during "
+"each filmed sexual encounter with {{netoru.n}}.[/fill]\n"
+"\n"
+"[fill]{{saito.n}} will never speak of this to anyone, consumed by guilt. The day he realizes she’s pregnant, he will be unable to bear it any longer: overwhelmed by shame, he will decide to leave "
+"town and start a new life elsewhere.[/fill]\n"
+"\n"
+"[fill]Meanwhile, {{asami.n}} will reconnect with her mother during her pregnancy. She will introduce {{netoru.n}} to her. Despite the shock of seeing a man old enough to be her daughter’s father, "
+"{{sayuri.n}} will swallow her thoughts and welcome them with open arms when she sees the happiness on {{asami.n}}’s face. After all, she will soon have grandchildren…[/fill]"
+
+#: game/scenes/gui/bad_ending/game_over.tscn
+msgid "Voir ce qui s'est passé."
+msgstr "See what happened."
+
+#: game/scenes/gui/bad_ending/game_over.tscn
+msgid "Retourner en arrière."
+msgstr "Go back."
+
+#: game/scenes/gui/bad_ending/game_over.tscn
+msgid "Skin débloqué !"
+msgstr "Skin unlocked!"
+
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "city"
@@ -89758,6 +90704,11 @@ msgstr "{{takeo.n}}'s House"
 msgctxt "location"
 msgid "sewers"
 msgstr "Sewers"
+
+#: game/scripts/variables/quests.gd
+msgctxt "quests.hints"
+msgid "bad_ending_asami_pregnant"
+msgstr "[null]"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -94843,8 +95794,8 @@ msgstr "Follow {{sayuri.n}}'s story."
 
 #: game/scenes/cg/list.tres
 msgctxt "galleries.images.hints"
-msgid "Garder {{asami.n}} dans la friendzone."
-msgstr "Keep {{asami.n}} in the friendzone."
+msgid "Se laisser séduire par {{sayuri.n}}."
+msgstr "Let yourself be seduced by {{sayuri.n}}."
 
 #: game/scenes/cg/list.tres
 msgctxt "galleries.images.hints"
@@ -94914,6 +95865,10 @@ msgstr "Jacket"
 msgctxt "character.skin"
 msgid "asami_nude"
 msgstr "Nude"
+
+msgctxt "character.skin"
+msgid "asami_pregnant"
+msgstr "The betrayed girl"
 
 msgctxt "character.skin"
 msgid "asami_sexy"
@@ -95162,6 +96117,30 @@ msgstr "Succubus"
 msgctxt "character.skin"
 msgid "yasuka_summer"
 msgstr "Summer"
+
+#~ msgctxt "te85545ca58"
+#~ msgid "J'aimerais un vrai rendez-vous amoureux, et pour ça, le meilleur endroit, c'est le parc d'attractions !"
+#~ msgstr "I'd like to go on a real date, and the best place to do that is an amusement park!"
+
+#~ msgctxt "t40aab72134"
+#~ msgid "Un vrai rendez-vous amoureux ? C'est-à-dire... se tenir la main ?"
+#~ msgstr "A real date? Meaning... Holding hands?"
+
+#~ msgctxt "taf4f0582dc"
+#~ msgid "Oui, par exemple, c'est une des nombreuses choses qu'on peut faire."
+#~ msgstr "Yes, that is one of the many things it could involve."
+
+#~ msgctxt "t672bcb5a9f"
+#~ msgid "Ça peut être aussi partager une glace, par exemple !"
+#~ msgstr "It could also be other things, like sharing an ice cream!"
+
+#~ msgctxt "t328fbd5ca9"
+#~ msgid "Je... J'aimerais mais..."
+#~ msgstr "I'd... I'd like to, but..."
+
+#~ msgctxt "galleries.images.hints"
+#~ msgid "Garder {{asami.n}} dans la friendzone."
+#~ msgstr "Keep {{asami.n}} in the friendzone."
 
 #~ msgctxt "tf8e3781546"
 #~ msgid "Tu peux m'appeler Kimochi."
