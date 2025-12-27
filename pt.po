@@ -112,9 +112,10 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-12-12 13:32+0100\n"
-"PO-Revision-Date: 2025-12-11 10:40+0000\n"
-"Last-Translator: isaque santos da silva <isaquesantosdasilva120n@gmail.com>\n"
-"Language-Team: Portuguese <https://translations.teot-studio.com/projects/goodbye-eternity/game-translation/pt/>\n"
+"PO-Revision-Date: 2025-12-27 14:04+0000\n"
+"Last-Translator: Lucas <lucas25amaral@gmail.com>\n"
+"Language-Team: Portuguese <https://translations.teot-studio.com/projects/"
+"goodbye-eternity/game-translation/pt/>\n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -616,7 +617,7 @@ msgstr "Sim!"
 #: game/story/home_asami_bathroom.dialogue
 msgctxt "OUI_E66A4D"
 msgid "Oui !"
-msgstr ""
+msgstr "Sim!"
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "taeb1bb5d11"
@@ -1225,7 +1226,7 @@ msgstr "Eu entendo..."
 #: game/story/home_asami_exterior.dialogue
 msgctxt "JE_COMPRENDS_902D08"
 msgid "Je comprends..."
-msgstr ""
+msgstr "Eu entendo..."
 
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_15a1bceb"
@@ -2420,7 +2421,7 @@ msgstr "..."
 #: game/story/home_asami_exterior.dialogue
 msgctxt "_2D9E76"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "pc_noriko_29cd7803"
@@ -5825,7 +5826,7 @@ msgstr "EU..."
 #: game/story/home_minato_basement.dialogue
 msgctxt "JE_8B9E30"
 msgid "Je..."
-msgstr ""
+msgstr "Eu..."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_0c7836ac"
@@ -8231,7 +8232,9 @@ msgstr "“Obrigado de novo pelas roupas.”"
 #: game/story/home_natsume_exterior.dialogue
 msgctxt "PAS_DE_SOUCI_CE_SONT_DE_VIEUX_540A7E"
 msgid "Pas de souci, ce sont de vieux trucs que le père de {{kenji.n}} n’a jamais voulu mettre."
-msgstr "“Sem problema. Essas são coisas velhas que o pai do kenji nunca quis usar.”"
+msgstr ""
+"Sem problemas, são umas coisas velhas que o pai do {{kenji.n}} nunca quis "
+"usar."
 
 #: game/story/home_natsume_exterior.dialogue
 msgctxt "IL_EN_AURA_PLUS_BESOIN_QUE_LUI_B40D06"
@@ -9586,7 +9589,7 @@ msgstr "E agora?"
 #: game/story/home_asami_livingroom.dialogue
 msgctxt "ET_MAINTENANT_B9F9F4"
 msgid "Et maintenant ?"
-msgstr ""
+msgstr "E agora?"
 
 #: game/story/home_asami_exterior.dialogue
 msgctxt "ET_MAINTENANT_259E58"
@@ -10992,7 +10995,7 @@ msgstr "Eu sei, eu sei..."
 #: game/story/hostess_club_alley.dialogue
 msgctxt "JE_SAIS_JE_SAIS_B18A22"
 msgid "Je sais, je sais..."
-msgstr ""
+msgstr "Eu sei, eu sei..."
 
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "LAISSE_MOI_NOUS_D_BARRASSER_DE_4CF656"
@@ -12012,7 +12015,7 @@ msgstr "[next]"
 #: game/story/amusement_park_interior.dialogue
 msgctxt "NEXT_A23EC9"
 msgid "[next]"
-msgstr ""
+msgstr "[prosseguir]"
 
 #: game/story/onsen_bath.dialogue
 msgctxt "onsen_bath_70c10122"
@@ -19173,7 +19176,7 @@ msgstr "Você demorou!"
 #: game/story/amusement_park_interior.dialogue
 msgctxt "TU_EN_AS_MIS_DU_TEMPS_C621A3"
 msgid "Tu en as mis du temps !"
-msgstr ""
+msgstr "Você demorou!"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_986b4148"
@@ -20133,7 +20136,7 @@ msgstr "Como você desejar!"
 #: game/story/home_asami_livingroom.dialogue
 msgctxt "VOS_ORDRES_MADAME_666BC2"
 msgid "À vos ordres, madame !"
-msgstr ""
+msgstr "As suas ordens, madame!"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_a8ef0bd8"
@@ -22419,7 +22422,7 @@ msgstr "Mas...?"
 #: game/story/home_minato_hallway.dialogue
 msgctxt "MAIS_6C5701"
 msgid "Mais... ?"
-msgstr ""
+msgstr "Mas...?"
 
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_6a991b4b"
@@ -26130,7 +26133,7 @@ msgstr "Ei..."
 #: game/story/hostess_club_alley.dialogue
 msgctxt "DIS_9CA624"
 msgid "Dis..."
-msgstr ""
+msgstr "Ei..."
 
 #: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
 msgctxt "home_player_yasuka_room_acb4819d"
@@ -31048,7 +31051,7 @@ msgstr "E você?"
 #: game/story/home_asami_bathroom.dialogue
 msgctxt "ET_TOI_C3F0E9"
 msgid "Et toi ?"
-msgstr ""
+msgstr "E você?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_79d3b417"
@@ -32545,22 +32548,22 @@ msgstr "Obrigada, minha querida. Lamento impor essa situação a você."
 #: game/story/home_player_livingroom.dialogue
 msgctxt "J_ESP_RE_QUE_A_NE_TE_D_RANGE_P_39F924"
 msgid "J'espère que ça ne te dérange pas ?"
-msgstr ""
+msgstr "Espero que isso não te incomode?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "JE_M_EN_VOUDRAIS_DE_CAUSER_DES_A361B6"
 msgid "Je m'en voudrais de causer des problèmes entre toi et {{asami.n}}."
-msgstr ""
+msgstr "Eu me sentiria mal de causar problemas entre você e {{asami.n}}."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "JE_SUIS_CERTAIN_QU_ELLE_SERAIT_87D3ED"
 msgid "Je suis certain qu’elle serait contente que je m’occupe de sa mère."
-msgstr ""
+msgstr "Tenho certeza de que ela ficaria contente que eu cuidasse da mãe dela."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "ET_PUIS_QU_EST_CE_QUI_POURRAIT_016D63"
 msgid "Et puis... qu'est-ce qui pourrait se passer de mal ?"
-msgstr ""
+msgstr "E além disso... o que poderia acontecer de errado?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "MERCI_MON_CH_RI_TU_M_ENL_VES_V_50341E"
@@ -49149,7 +49152,9 @@ msgstr "Finalmente tenho forças para proteger a todos."
 #: game/story/bus_stop.dialogue
 msgctxt "ATTENDS_UN_PEU_MINATO_N_ET_ON_A80424"
 msgid "Attends un peu {{minato.n}} et on verra si te cacher derrière {{netoru.n}} sera suffisant !"
-msgstr "Aguarde só, {{minato.n}}, e veremos se se esconder atrás de {{netoru.n}} será suficiente!"
+msgstr ""
+"Espera um pouco, {{minato.n}}, e veremos se esconder-se atrás de {{netoru.n}}"
+" será suficiente!"
 
 #: game/story/bus_stop.dialogue
 msgctxt "ALLEZ_NATSUME_N_DOIT_PROBABLEM_69A207"
