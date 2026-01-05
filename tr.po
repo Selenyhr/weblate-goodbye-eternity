@@ -113,7 +113,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-12-12 13:32+0100\n"
 "PO-Revision-Date: 2026-01-07 09:17+0000\n"
-"Last-Translator: ihsan cakir <ben.mertkaragoz@gmail.com>\n"
+"Last-Translator: hey ji <kezbanerdogan00@gmail.com>\n"
 "Language-Team: Turkish <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/tr/>\n"
 "Language: tr\n"
@@ -268,7 +268,7 @@ msgstr "Yaşlı adam"
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Policier"
-msgstr ""
+msgstr "Polis"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
@@ -278,12 +278,12 @@ msgstr "Erika"
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Hanako"
-msgstr ""
+msgstr "Hanako"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Tsubaki"
-msgstr ""
+msgstr "Tsubaki"
 
 #: game/scenes/gui/gui_location.tscn
 msgid "Lundi"
@@ -1371,7 +1371,7 @@ msgstr "Ne ?!"
 #: game/story/home_kenji_exterior.dialogue
 msgctxt "QUOI_DA01E5"
 msgid "Quoi ?!"
-msgstr ""
+msgstr "Ne?!"
 
 #: game/story/amusement_park_interior.dialogue
 msgctxt "t5563aa424e"
@@ -2051,7 +2051,7 @@ msgstr "..."
 #: game/story/konbini_interior.dialogue
 msgctxt "t204a3e6b27"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/konbini_interior.dialogue
 msgctxt "t96081ec5f7"
@@ -3166,7 +3166,7 @@ msgstr "..."
 #: game/story/arcade_interior.dialogue
 msgctxt "_3F9E71"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: game/story/home_minato_hallway.dialogue
 msgctxt "t4ff6dbb309"
@@ -5691,7 +5691,7 @@ msgstr "Selam!"
 #: game/story/home_kenji_exterior.dialogue
 msgctxt "HEY_231F83"
 msgid "Hey !"
-msgstr ""
+msgstr "Hey!"
 
 #: game/story/home_natsume_natsume_room.dialogue
 msgctxt "HEY_8C54D6"
@@ -5736,7 +5736,7 @@ msgstr "Ben..."
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "JE_1D1804"
 msgid "Je..."
-msgstr ""
+msgstr "Ben..."
 
 #: game/story/canal.dialogue
 msgctxt "canal_0b7d8a15"
@@ -7532,7 +7532,7 @@ msgstr "Ne demek istiyorsun?"
 #: game/story/konbini_interior.dialogue
 msgctxt "COMMENT_A_438782"
 msgid "Comment ça ?"
-msgstr ""
+msgstr "Nasıl yani?"
 
 #: game/story/bus_stop.dialogue
 msgctxt "noriko_forgive_cbad80a5"
@@ -7782,7 +7782,7 @@ msgstr "Tanrım ! Ama nasıl bu kadar saf olabilir ?!"
 #: game/story/home_player_corridor.dialogue
 msgctxt "SALUT_BIEN_DORMI_AEBF96"
 msgid "Salut... Bien dormi ?"
-msgstr ""
+msgstr "Selam… İyi uyudun mu?"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "PAS_VRAIMENT_ET_TOI_720EC2"
@@ -7792,7 +7792,7 @@ msgstr "Pek sayılmaz... Peki ya sen?"
 #: game/story/home_player_corridor.dialogue
 msgctxt "MOI_NON_PLUS_E81698"
 msgid "Moi non plus."
-msgstr ""
+msgstr "Ben de değil"
 
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "menu_asami_room_waiting_eb76599e"
@@ -7802,7 +7802,7 @@ msgstr "Ben de."
 #: game/story/home_player_corridor.dialogue
 msgctxt "T_TE_DE_BITE_A_D_TERMINER_LES_E9DC77"
 msgid "Tête de bite a dû terminer les affiches."
-msgstr ""
+msgstr "O göt kafası afişleri bitirmiş olmalı"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "S_REMENT_A4EB14"
@@ -7812,12 +7812,14 @@ msgstr "Muhtemelen..."
 #: game/story/home_player_corridor.dialogue
 msgctxt "ON_Y_VA_ALORS_24F103"
 msgid "On y va alors ?"
-msgstr ""
+msgstr "O zaman gidelim mi?"
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "AVANT_J_AIMERAIS_PASSER_VOIR_M_599669"
 msgid "Avant, j'aimerais passer voir {{macumba.n}} au parc. J'aimerais m'assurer que tout va bien."
 msgstr ""
+"Önce {{macumba.n}}’yi parkta görmek istiyorum. Her şeyin yolunda olduğundan "
+"emin olmak istiyorum."
 
 #: game/story/home_player_corridor.dialogue
 msgctxt "SI_TU_VEUX_MAIS_JE_VIENS_AVEC_A07EFE"
