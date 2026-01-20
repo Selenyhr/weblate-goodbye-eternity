@@ -112,7 +112,7 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-12-18 09:45+0100\n"
-"PO-Revision-Date: 2026-01-15 18:32+0000\n"
+"PO-Revision-Date: 2026-01-23 14:33+0000\n"
 "Last-Translator: Paweł Mat <pawel_mati@interia.pl>\n"
 "Language-Team: Polish <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/pl/>\n"
@@ -28924,10 +28924,9 @@ msgid "Oooh... Mais je suis curieuse moi !"
 msgstr "Oooh... Ale jestem taka ciekawa!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_125f8002"
 msgid "{{yasuka.n}} ! Je te promets de tout te raconter, mais... pas maintenant."
-msgstr "Obiecuję, że ci wszystko opowiem, ale... Nie teraz."
+msgstr "{{yasuka.n}}! Obiecuję, że ci wszystko opowiem, ale... Nie teraz."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_04b76371"
@@ -29541,10 +29540,9 @@ msgid "Une femme n'a pas le droit de se faire belle avant d'aller dormir ?"
 msgstr "A to kobieta nie może ubierać się jak chce? I to we własnym domu?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_255f7114"
 msgid "Euh... Si, si, bien sûr, mais c'est pas le..."
-msgstr "Uh... Oczywiście, że może! Ale..."
+msgstr "Uh... Oczywiście, ale..."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "home_player_livingroom_f337f75e"
@@ -29603,73 +29601,63 @@ msgid "Tu veux que je vienne dormir avec toi comme avant ?"
 msgstr "A może chcesz, żebym spała z tobą? Tak jak kiedyś."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_9bc71647"
 msgid "Si tu veux, je te câlinerai jusqu'à ce que tu trouves le sommeil."
 msgstr "Jeśli chcesz mogę cię przytulać, aż nie zaśniesz."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_6be75c01"
 msgid "Tu dormais toujours comme un bébé après ça..."
 msgstr "Zawsze spałeś jak dziecko po tym..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "t99f43d79eb"
 msgid "C'est pour te faire plaisir alors !"
-msgstr "Skoro chcesz... Jak mógłbym odmówić?"
+msgstr "Skoro tego chcesz, jak mógłbym ci odmówić?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "talk_yasuka_b71128a8"
 msgid "Un souci mon chéri ?"
 msgstr "Wszystko w porządku kochanie?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "talk_yasuka_a05c0847"
 msgid "Rien de grave, je ne retrouve pas mon baladeur MP3, tu ne l'aurais pas vu à tout hasard ?"
-msgstr "Taaak... Tylko... Nie mogę znaleźć mojego Walkmana... Nie widziałaś go przypadkiem?"
+msgstr ""
+"Nic poważnego, nie mogę znaleźć mojego walkmana. Nie wiesz gdzie może być?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "talk_yasuka_d84393ed"
 msgid "Hmmm, je crois que {{noriko.n}} le cherchait tout à l'heure, elle a dû te l'emprunter..."
-msgstr "Hmmm... Chyba {{noriko.n}} go szukała. Musiała go pożyczyć z twojego pokoju..."
+msgstr ""
+"Hmm, chyba {{noriko.n}} go szukała. Musiała go pożyczyć z twojego pokoju..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "talk_yasuka_325643a2"
 msgid "Merci {{yasuka.n}} !"
 msgstr "Dziękuje {{yasuka.n}}!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "talk_yasuka_7dcf4564"
 msgid "Putain ! Je n'y crois pas !"
-msgstr "Myśli, że jest urocza..."
+msgstr "Kurwa! Nie wierzę w to!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "talk_yasuka_e44d0152"
 msgid "C'est à croire qu'elle me cherche exprès."
 msgstr "To tak, jakby celowo próbowała mnie wkurzyć!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "talk_yasuka_97144ae9"
 msgid "Je vais la tuer !"
 msgstr "Dam jej nauczkę!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_676ee2b1"
 msgid "Et voilà !"
 msgstr "I voila!"
 
 #: game/story/home_asami_exterior.dialogue
-#, fuzzy
 msgctxt "tad7b3525e9"
 msgid "Et voilà !"
 msgstr "I voila!"
@@ -29677,2230 +29665,1951 @@ msgstr "I voila!"
 #: game/story/restaurant_exterior.dialogue
 msgctxt "ET_VOIL_BFEAEB"
 msgid "Et voilà !"
-msgstr ""
+msgstr "I gotowe!"
 
 #: game/story/home_player_bathroom.dialogue
-#, fuzzy
 msgctxt "home_player_bathroom_626857b3"
 msgid "Et voilà !"
-msgstr "Zaczyna się!"
+msgstr "Zaczynamy!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_647538d9"
 msgid "Vivement l'internet par implant neuronal..."
-msgstr "Nie mogę się doczekać aż zaraz sygnał przestanie nadawać..."
+msgstr "Nie mogę się doczekać internetowego implantu mózgowego..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_dc70227e"
 msgid "Si j'en crois mon rêve, ça devrait plus trop tarder..."
-msgstr "Jeśli dobrze pamiętam, to nie powinno potrwać zbyt długo..."
+msgstr "Jeśli dobrze pamiętam, to nie powinno być tak odległe..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_69e0442f"
 msgid "PUTAINNNNN !"
 msgstr "KUUUUUUURWA!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_326bade1"
 msgid "Ah ! Je sens déjà son taux de sel grimper en flèche ! C'est le moment d'en profiter pour se faufiler discrètement dans sa chambre."
-msgstr "Dobra! Poszła! To moja szansa, muszę szybko wejść i zabrać mojego Walkmana!"
+msgstr ""
+"O tak, wygląda na to, że internet padł w kluczowym momencie gry! Muszę "
+"szybko wejść do jej pokoju i znaleźć mojego walkmana."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_26b72fa2"
 msgid "Putain de box de merde, toujours à planter quand il ne faut pas !"
 msgstr "Pieprzony router! Zawsze się zawiesza, kiedy dobrze mi idzie!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_082170eb"
 msgid "Allez, marche ! BORDEL !"
-msgstr "No dalej, działaj..! Byłam tak blisko awansu na Imperatora!"
+msgstr "No dalej, działaj..! KURWA!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_66940478"
 msgid "BAM !"
 msgstr "BAM!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_38595c21"
 msgid "Même dans mon rêve, je n'ai jamais pu poser un pied dans cette chambre..."
-msgstr "Nawet w moich śnach, nigdy nie odważyłem się postawić stopy w tym pokoju..."
+msgstr ""
+"Nawet w moich snach, nigdy nie odważyłem się postawić stopy w tym pokoju..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_12e3c27b"
 msgid "Elle semble bien occupée avec le wifi, je dois faire au plus vite !"
-msgstr "Skoro jest teraz zajęta Wi-Fi, muszę po prostu szybko wejść, zabrać i wyjść!"
+msgstr ""
+"Skoro jest teraz zajęta Wi-Fi, muszę po prostu szybko wejść, zabrać co moje "
+"i wyjść!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "t478d42ea3b"
 msgid "Couper le wifi"
 msgstr "Wyłącz Wi-fi"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "talk_yasuka_eb7ee16b"
 msgid "Tu ne peux pas savoir à quel point ça me fait plaisir !"
-msgstr "Nawet nie wiesz, jak wiele to dla mnie znaczy!"
+msgstr "Nie wyobrażasz sobie, jak bardzo mnie to cieszy!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "talk_yasuka_4888a177"
 msgid "De te voir t'amuser avec {{noriko.n}}, cela faisait si longtemps..."
-msgstr "Patrzenie jak dobrze się bawisz się z {{noriko.n}}... Minęło tyle czasu..."
+msgstr ""
+"Patrzenie jak dobrze się bawisz się z {{noriko.n}}, minęło tyle czasu..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "talk_yasuka_6b83a044"
 msgid "Euhhh... S'amuser, on peut dire ça comme ça..."
 msgstr "Uhhh... Dobrze się bawie? Można tak to ująć..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "talk_yasuka_38085f00"
 msgid "Vous n'avez pas dû voir le temps passer ?"
-msgstr "Nie straciłeś czasami poczucia czasu..?"
+msgstr "Nie straciłeś czasami poczucia czasu?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "talk_yasuka_7a79532e"
 msgid "Ah mince... Ça va être encore râpé pour aujourd'hui."
 msgstr "O cholera... Wygląda na to, że moje plany znów idą w odstawkę."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "talk_yasuka_2599294e"
 msgid "De quoi donc, tu avais quelque chose de prévu ?"
-msgstr "A co planowałeś..?"
+msgstr "A co zaplanowałeś?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "talk_yasuka_88b3e6a7"
 msgid "Rien d'important, je voulais juste aller courir, mais je voulais le faire en musique..."
-msgstr "Aaa... Nic ważnego... Po prostu chciałem pobiegać, ale z muzyką..."
+msgstr "Nic ważnego, po prostu chciałem pobiegać, ale z muzyką..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "talk_yasuka_4de70af0"
 msgid "Oh, je suis désolée, je t'avais emprunté ton baladeur pour ma séance de yoga..."
-msgstr "Oh... Przepraszam... Pożyczyłam twojego walkmana, na moją sesję jogi..."
+msgstr "Oh, przepraszam, pożyczyłam twojego walkmana, na moją sesję jogi..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "talk_yasuka_11c0ed48"
 msgid "Je l'ai reposé sur ton bureau tout à l'heure."
 msgstr "A po wszystkim, położyłam go z powrotem na twoim łóżku."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "talk_yasuka_f719469e"
 msgid "Depuis quand tu fais du yo..."
 msgstr "Od kiedy ty ćwiczysz jog-..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "talk_yasuka_a1d9cd5d"
 msgid "Peu importe, merci {{yasuka.n}}..."
 msgstr "Ah, jednak nieważne... Dziękuję {{yasuka.n}}..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "talk_yasuka_3d385be9"
 msgid "Ne rentre pas trop tard."
 msgstr "Nie wracaj do domu zbyt późno."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_c4d4d15b"
 msgid "Bonjour {{yasuka.n}} !"
 msgstr "Hej {{yasuka.n}}!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_cc0b7ce8"
 msgid "Bonjour {{yasuka.n}} !"
 msgstr "Hej {{yasuka.n}}!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_cc0b7ce8_1"
 msgid "Bonjour {{yasuka.n}} !"
 msgstr "Hej {{yasuka.n}}!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_afe1994d"
 msgid "Bonjour {{saito.n}}."
 msgstr "Hej {{saito.n}}."
 
 #: game/story/restaurant_interior.dialogue
-#, fuzzy
 msgctxt "talk_sakuya_caa7de9f"
 msgid "Bonjour {{saito.n}}."
-msgstr "Hej {{saito.n}}."
+msgstr "Cześć {{saito.n}}."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_6c82d5b7"
 msgid "Tu sors encore aujourd'hui ?"
 msgstr "Wychodzisz jeszcze?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_7620126b"
 msgid "Je vois... Amuse-toi bien alors."
 msgstr "Rozumiem... W takim razie, baw się dobrze."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_3327e9e6"
 msgid "...Tout se passe bien avec ton travail ?"
 msgstr "...W twojej pracy wszystko dobrze?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_612d32d0"
 msgid "Je ne sais pas trop."
-msgstr "Tak naprawdę, to nie wiem..."
+msgstr "Tak naprawdę, to nie wiem."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_08444288"
 msgid "C'est plus compliqué qu'il n'y parait."
 msgstr "To bardziej skomplikowane niż się wydaje."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_45a988a4"
 msgid "Mais... Je suis confiante."
 msgstr "Ale... Jestem optymistką!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_191441a3"
 msgid "Sache que tu as tout mon soutien."
 msgstr "Pamiętaj, że masz moje pełne wsparcie!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_88828c90"
 msgid "Même si ça ne fait pas une grande différence..."
-msgstr "Nawet jeśli nie robi to większej różnicy... Pamiętaj..."
+msgstr "Nawet jeśli nie robi to większej różnicy..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_9a818692"
 msgid "Passe une bonne journée."
 msgstr "Miłego dnia."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_c57e37b8"
 msgid "Depuis peu, je te vois t'agiter dans la maison."
 msgstr "Jakoś ostatnio, częściej widzę cię jak się kręcisz po domu."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_d0fc804d"
 msgid "On dirait que tu as trouvé une toute nouvelle énergie."
 msgstr "Chyba wygląda na to, że znalazłeś w sobie zupełnie nową energię!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_bbb75bef"
 msgid "Cela me fait énormément plaisir de te voir ainsi."
 msgstr "Dobrze cię widzieć w takim stanie."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_e283da46"
 msgid "Avant, tu semblais si déprimé."
-msgstr "Wcześniej wydawałeś się taki przygnębiony..."
+msgstr "Wcześniej wydawałeś się taki przygnębiony."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_4fd38db4"
 msgid "Je suis d'ailleurs surprise que tu aies réussi à relever la tête aussi vite."
-msgstr "Szczerze mówiąc... Jestem zaskoczona, że tak szybko udało ci się pozbierać."
+msgstr ""
+"Szczerze mówiąc, jestem zaskoczona, że tak szybko udało ci się pozbierać."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_e4d7aa3b"
 msgid "...Oui j'ai pris de... bonnes résolutions."
-msgstr "...Masz rację, postawiłem sobie kilka celów..."
+msgstr "...Masz rację, postawiłem sobie kilka postanowień."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_1e2bfeef"
 msgid "Mon chéri, je ne veux pas que tu le prennes mal, mais je dois te poser la question."
-msgstr "Kochanie... Nie chcę cię urazić, ale muszę o to zapytać..!"
+msgstr "Kochanie, nie chcę cię urazić, ale muszę o to zapytać."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_2f9c43de"
 msgid "Est-ce que tu te drogues ?"
 msgstr "Bierzesz narkotyki?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_798d3cc6"
 msgid "Quoi ? Mais... Non, pas du tout."
 msgstr "Co? Al-... Nie! Nie biorę nic takiego!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_0b86294d"
 msgid "Je te taquine, mais tu as changé si vite en l'espace de si peu de temps que je me devais te poser la question."
-msgstr "Żartuję! Droczę się tylko! Ale zmieniłeś się tak bardzo i tak szybko... Że musiałam cię o to zapytać!"
+msgstr ""
+"Żartuję! Droczę się tylko! Ale zmieniłeś się tak bardzo i tak szybko, że "
+"musiałam cię o to zapytać!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_7c0c46da"
 msgid "Je m'inquiète pour toi après tout !"
 msgstr "Przecież wiesz, że się o ciebie martwię!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_46684c23"
 msgid "Mon chéri... Je sais que tu as dit que tu trouverais un travail pour m'aider à rembourser, mais le temps presse."
-msgstr "Kochanie... Wiem, że powiedziałeś, że znajdziesz pracę, żeby pomóc mi spłacić długi, ale nie mamy dużo czasu..."
+msgstr ""
+"Kochanie... Wiem, że powiedziałeś, że znajdziesz pracę, żeby pomóc mi "
+"spłacić długi, ale nie mamy dużo czasu."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_515fad94"
 msgid "Nous n'aurons bientôt plus d'économies pour finir le mois."
-msgstr "Pod koniec tego miesiąca nie będziemy mieli już żadnych pieniędzy..."
+msgstr "Pod koniec tego miesiąca nie będziemy mieli już żadnych pieniędzy."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_b13e83a6"
 msgid "Et je devrais au final accepter ce poste qu'on m'a proposé."
-msgstr "Wiesz... Chyba powinnam przyjąć tę pracę, którą mi zaoferowano."
+msgstr "Dlatego chyba powinnam przyjąć tę pracę, którą mi zaoferowano."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_7f741358"
 msgid "Je... J'y travaille, je te garantis que je décrocherai ce job !"
-msgstr "Pracuję nad tym! Gwarantuję ci, że dostanę tę pracę!"
+msgstr "Ja... Pracuję nad tym! Gwarantuję ci, że dostanę tę pracę!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_fee6dc39"
 msgid "Si je pouvais, je te donnerais toutes mes économies, mais je n'ai même pas de quoi me payer une canette."
-msgstr "Wiesz, że gdybym mógł, oddałbym ci wszystko co mam... Ale nie stać mnie nawet na puszkę coli."
+msgstr ""
+"Gdybym mógł, oddałbym ci wszystko co mam... Ale nie stać mnie nawet na "
+"puszkę coli."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_cbe595e0"
 msgid "J'espère que nous sortirons vite de cette impasse."
-msgstr "Mam nadzieję, że wkrótce wydostaniemy się z tego zaułku..."
+msgstr "Mam nadzieję, że szybko uda nam się przezwyciężyć ten impas."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_d94a80c7"
 msgid "Je vais te donner toutes mes économies en attendant, il n'y a pas de raison que tu sois la seule à payer."
-msgstr "A teraz dam ci co mam. Nie chcę, żebyś była jedyną osobą, która za wszystko płaci."
+msgstr ""
+"A teraz dam ci co odłożyłem. Nie chcę, żebyś była jedyną osobą, która za "
+"wszystko płaci."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "t3f5a51db02"
 msgid "Vous donnez à {{yasuka.n}} la somme de {{money}}¥"
 msgstr "Dajesz swoje ¥{{money}} {{yasuka.n}}."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_66c7aee7"
 msgid "Mon chéri... Je ne sais pas quoi dire."
 msgstr "Kochanie... Ja... Nie wiem, co powiedzieć..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_7b3050f3"
 msgid "Alors, ne dis rien, utilise tout ce que tu peux pour finir le mois."
-msgstr "No to nic nie mów! Po prostu wykorzystaj wszystko co możesz, żeby związać koniec z końcem!"
+msgstr ""
+"No to nic nie mów! Po prostu wykorzystaj wszystko co możesz, żeby związać "
+"koniec z końcem!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_502ce2c7"
 msgid "Je te garantis que je vais obtenir ce job d'une manière ou d'une autre."
 msgstr "Przysięgam, że dostanę tę pracę!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_3fc1a127"
 msgid "Héhé"
-msgstr "Hehe."
+msgstr "Hehe"
 
 #: game/story/home_player_bathroom.dialogue
-#, fuzzy
 msgctxt "home_player_bathroom_47e17d91"
 msgid "Héhé"
-msgstr "Hehe."
+msgstr "Hehe"
 
 #: game/story/park.dialogue
-#, fuzzy
 msgctxt "sexe_with_asami_in_toilet_d9f33d9e"
 msgid "Héhé"
-msgstr "Hehe..."
+msgstr "Hehe"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_ddc109e1"
 msgid "Bonjour {{yasuka.n}}, j'aimerais te présenter une amie."
 msgstr "Hej {{yasuka.n}}! Chciałbym ci kogoś przedstawić."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_34d22d06"
 msgid "Oh, bonjour !"
 msgstr "O, cześć!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_aea8bdee"
 msgid "Bonjour madame, je m'appelle {{asami.n}} ! C'est vraiment magnifique chez vous."
-msgstr "Dzień dobry Pani! Mam na imię {{asami.n}}! Pani dom jestem naprawde piekny!"
+msgstr ""
+"Dzień dobry Pani! Mam na imię {{asami.n}}! Pani dom jest naprawdę piękny!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_2feab39a"
 msgid "Merci beaucoup, mais madame, c'est un peu... Je préfère que tu m'appelles par mon prénom."
-msgstr "Bardzo dziekuję... Ale 'Pani'? To trochę... Wolałabym, żebyś mówiła do mnie po imieniu."
+msgstr ""
+"Bardzo dziekuję, ale 'Pani'? To trochę... Wolałabym, żebyś mówiła do mnie po "
+"imieniu."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_4a7aa347"
 msgid "On va juste se poser dans ma chambre un moment."
 msgstr "Jakbyś czegoś potrzebowała, to będziemy w moim pokoju."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_4ca870b8"
 msgid "Entendu, amusez-vous bien !"
 msgstr "Dobrze, bawcie się dobrze!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_b481c03a"
 msgid "...[w] Ahlala la jeunesse."
 msgstr "...[w] Ahh, młodzi..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_030d62c0"
 msgid "Qu'est-ce que je ne donnerais pas pour perdre quelques années ?"
 msgstr "Co ja bym dała, żeby stracić kilka lat..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_76dc1cb8"
 msgid "Tu t'en vas déjà {{asami.n}} ?"
 msgstr "Już wychodzisz {{asami.n}}?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_a5447c6c"
 msgid "Oui, j'ai passé une très bonne journée, mes parents doivent m'attendre."
-msgstr "Taaak. To był naprawdę wspaniały dzień, ale moi rodzice pewnie na mnie czekają."
+msgstr ""
+"Tak. To był naprawdę wspaniały dzień, ale moi rodzice pewnie na mnie czekają."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_9608964d"
 msgid "Ça m'a fait plaisir de faire ta connaissance, tu es la bienvenue quand tu veux."
 msgstr "Miło było cię poznać! Pamiętaj, że jesteś tu mile widziana!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_4e10b9fc"
 msgid "Je vais la raccompagner, à plus tard."
 msgstr "Pójdę ją odprowadzić, niedługo wrócę."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_8061e338"
 msgid "À plus tard mon chéri."
 msgstr "Do zobaczenia, kochanie."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_44e3d9e9"
 msgid "Oh oui mon chéri, raccompagne-moi !"
 msgstr "O tak kochanie! Odprowadź mnie!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_fae9c63d"
 msgid "Bonjour {{asami.n}}."
 msgstr "Cześć {{asami.n}}."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_d27f9559"
 msgid "Je suis ravie de voir que tu sembles te plaire ici."
 msgstr "Cieszę się, że ci się tu podoba!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_80c5bfb4"
 msgid "C'est parce que {{saito.n}} prend bien soin de moi."
 msgstr "To dlatego, że {{saito.n}} tak dobrze się mną opiekuje."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_de2fe190"
 msgid "Oh et mon chéri, n'hésitez pas à jouer avec {{noriko.n}} aussi."
-msgstr "Kochanie... Nie wahaj się pograć też z {{noriko.n}}..."
+msgstr "O, kochanie, nie wahaj się pograć też z {{noriko.n}}."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_6c6bb521"
 msgid "Elle avait passé la journée à écouter à la porte la dernière fois et n'a jamais eu le courage de vous rejoindre."
-msgstr "Ostatnim razem spędziła cały dzień, podsłuchując pod drzwiami, ale nie miała odwagi żeby do was dołączyć."
+msgstr ""
+"Ostatnim razem spędziła cały dzień, podsłuchując pod drzwiami, ale nie miała "
+"odwagi żeby do was dołączyć."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_f29203ae"
 msgid "Oh ! Euh, je vais voir ce que je peux faire."
 msgstr "Oh! Ummm... No zobaczymy..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_cc0146cc"
 msgid "Amusez-vous bien !"
 msgstr "Miłej zabawy!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_0dd87365"
 msgid "Bonjour, mon chéri, tu en as une triste mine."
-msgstr "Cześć kochanie, wyglądasz, jakby coś cię dręczyło..."
+msgstr "Cześć kochanie, wyglądasz jakby coś cię dręczyło."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_06c1a4d9"
 msgid "Que se passe-t-il ?"
 msgstr "Co się dzieje?"
 
 #: game/story/home_kimochi_interior.dialogue
-#, fuzzy
 msgctxt "kimochi_password_5d109b42"
 msgid "Que se passe-t-il ?"
 msgstr "Co się dzieje?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_4ac0de8a"
 msgid "La nuit a été difficile."
 msgstr "To była długa noc."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_98ae4f7f"
 msgid "Je peux te poser une question, même si ça va te paraitre un peu étrange ?"
-msgstr "Mogę zadać ci pytanie? Nawet jeśli zabrzmi trochę... Dziwnie?"
+msgstr "Mogę zadać ci pytanie? Nawet jeśli zabrzmi trochę dziwnie?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_57a85328"
 msgid "Bien sûr que tu peux, tu sais bien que tu peux tout me dire !"
 msgstr "Oczywiście, że możesz! Wiesz, że możesz zapytać mnie o wszystko!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_ea40047c"
 msgid "...Si tu avais connaissance que quelque chose d'horrible arrivait à une personne que tu apprécies."
-msgstr "...Gdybyś wiedziała, że coś strasznego dzieje się komuś, na kim ci zależy..."
+msgstr ""
+"...Gdybyś wiedziała, że coś strasznego dzieje się komuś, na kim ci zależy..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_d3445ba3"
 msgid "Mais que tu ne pouvais pas l'aider sous peine de te mettre toi et tous ceux que tu aimes en danger."
-msgstr "Ale nie mogłabyś pomóc, ponieważ naraziłoby to ciebie i twoich bliskich na niebezpieczeństwo..."
+msgstr ""
+"...Ale nie mogłabyś pomóc, ponieważ naraziłoby to ciebie i twoich bliskich "
+"na niebezpieczeństwo..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_6c3fec7c"
 msgid "Que ferais-tu ?"
-msgstr "To... Co byś zrobiła..?"
+msgstr "...To... Co byś zrobiła..?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_901bf4af"
 msgid "...Je dois avouer que je m'attendais à autre chose, mais ça a l'air grave."
-msgstr "Wow... Muszę przyznać, że spodziewałam się czegoś innego, ale to brzmi dosyć poważnie."
+msgstr ""
+"Wow... Muszę przyznać, że spodziewałam się czegoś innego, ale to brzmi dosyć "
+"poważnie."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_583494a0"
 msgid "Ça ressemble beaucoup à ce fameux dilemme avec le tramway ou tu dois choisir soit de sauver 5 personnes ou choisir celle que tu aimes."
-msgstr "Przypomina to słynny \"Dylemat Wagonika\", w którym musisz wybrać, czy uratujesz pięć osób, czy tę którą kochasz."
+msgstr ""
+"Przypomina to słynny \"Dylemat Wagonika\", w którym musisz wybrać, czy "
+"uratujesz pięć osób, czy tę którą kochasz."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_362b7712"
 msgid "C'est exactement ça !"
 msgstr "Dokładnie tak!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_d04f3885"
 msgid "Malheureusement mon chéri, il n'y a pas de bonne ou de mauvaise solution."
 msgstr "Niestety kochanie... Ale nie ma dobrej i złej odpowiedzi."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_08080960"
 msgid "Parfois, il y a juste deux mauvaises solutions et tu dois choisir la moins pire des deux..."
-msgstr "Czasami są tylko złe rozwiązania... Trzeba po prostu wybrać najmniejsze z nich..."
+msgstr ""
+"Czasami są tylko złe rozwiązania... Trzeba wtedy po prostu wybrać "
+"najmniejsze zło..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_30ec452e"
 msgid "...Je vois merci {{yasuka.n}}."
-msgstr "...Rozumiem... Dziękuję {{yasuka.n}}."
+msgstr "Rozumiem... Dziękuję {{yasuka.n}}."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_1f439b15"
 msgid "Mais il y a peut-être une autre solution à ce problème."
-msgstr "Istnieje jeszcze inne rozwiązanie tego problemu..."
+msgstr "Być może istnieje jeszcze inne rozwiązanie tego problemu."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_8dd56aea"
 msgid "Tu n'as pas forcément besoin de porter ce fardeau tout seul."
 msgstr "Nie branie wszystkiego na swoje barki."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_884f4cc2"
 msgid "Tu as probablement des amis à qui tu peux faire confiance ?"
 msgstr "Nie masz przyjaciół, którym ufasz?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_3357dcbd"
 msgid "À plusieurs, je suis certaine que vous arriverez à surmonter tout ça."
 msgstr "Jestem pewna, że razem będziecie w stanie przez to wszystko przejść!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_39fbac5d"
 msgid "Tu n'es pas d'accord ?"
 msgstr "Zgadzasz się ze mną?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_a61744fb"
 msgid "Tu es toujours aussi optimiste !"
 msgstr "Zawsze jesteś taką optymistką!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_76a754a3"
 msgid "Mais c'est ce que je préfère chez toi."
-msgstr "Ale... Właśnie to w tobie kocham!"
+msgstr "Ale właśnie to w tobie kocham!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_dbd00681"
 msgid "Tu as raison, je ne suis pas seul !"
 msgstr "Masz racje! Nie jestem sam!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_52d79dea"
 msgid "Je suis ravi de voir que j'ai pu te redonner le sourire."
 msgstr "Cieszę się, że znowu udało mi się wywołać uśmiech na twojej twarzy."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_26bf1564"
 msgid "Elle a raison, je ne suis plus tout seul."
 msgstr "Ona ma rację! Nie jestem już sam."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_f6c68de8"
 msgid "{{macumba.n}}, {{asami.n}} ou encore {{kimochi.n}}."
 msgstr "{{macumba.n}}, {{asami.n}}, a nawet {{kimochi.n}}!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_839774e1"
 msgid "Je suis certain qu'à nous 4 on pourra trouver une solution à tout ça."
-msgstr "Jestem pewny, że nasza czwórka będzie w stanie poradzić sobie ze wszystkim."
+msgstr ""
+"Jestem pewny, że nasza czwórka będzie w stanie poradzić sobie ze wszystkim."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_ac6712fb"
 msgid "Je devrais d'ailleurs commencer par {{macumba.n}}."
 msgstr "Powinienem zacząć od {{macumba.n}}."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_653cafa5"
 msgid "Oh bonjour !"
 msgstr "O cześć!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_35ed0af8"
 msgid "{{yasuka.n}} j'aimerais te présenter {{asami.n}}. Elle est..."
 msgstr "{{yasuka.n}}, chciałbym ci przedstawić {{asami.n}}. Ona..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_81d03a78"
 msgid "J'ai fait sa connaissance juste aujourd'hui et il veut déjà m'emmener dans sa chambre !"
-msgstr "Dopiero dziś go poznałam, a on już chciał mnie zabrać do swojego pokoju..!"
+msgstr ""
+"Dopiero dziś go poznałam, a on już chciał mnie zabrać do swojego pokoju!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_3b21d5b8"
 msgid "Vraiment ? Dans ce cas tu n'as aucune crainte à te faire, je suis certaine d'avoir élevé un gentleman."
-msgstr "Naprawdę? Nie musisz się o nic martwić. Jestem pewna, że wychowałam dżentelmena."
+msgstr ""
+"Naprawdę? Nie musisz się o nic martwić. Jestem pewna, że wychowałam "
+"dżentelmena."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_960877cf"
 msgid "Amusez-vous bien."
 msgstr "Miłej zabawy."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_d766decc"
 msgid "Elle a l'air vraiment gentille."
 msgstr "Wygląda na miłą."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_c7244880"
 msgid "Elle n'en a pas seulement l'air, elle l'est véritablement !"
 msgstr "Ona nie tylko tak wygląda, ona naprawdę jest miła!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_aba6325c"
 msgid "Oh quelqu'un n'aurait pas un petit complexe d'Œdipe ?"
 msgstr "A czy czasami, nie masz małego kompleksu Edypa?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_bfc1d90a"
 msgid "... Je regrette déjà de t'avoir invitée."
-msgstr "...Już zaczynam żałować, że cię tu zaprosiłem..."
+msgstr "...Już zaczynam żałować, że cię tu zaprosiłem."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_ce307f46"
 msgid "Aller boude pas, je plaisantais !"
 msgstr "Aww... Nie dąsaj się tak! Tylko żartowałam!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_ddd015b5"
 msgid "... Tu resteras bien avec nous ce soir pour manger ?"
 msgstr "...Chciałabyś zjeść z nami kolację?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_47267804"
 msgid "C'est très gentil à vous mais je ne voudrais pas déranger..."
 msgstr "Jesteś bardzo miła, ale nie chciałabym przeszkadzać..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_ce76abd4"
 msgid "Tu déranges personne !"
 msgstr "Nikomu nie przeszkadzasz!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_b52a100d"
 msgid "Aller accepte, au pire tout ce que tu risques c'est de passer un bon moment."
 msgstr "Nie daj się prosić, najgorsze co może się zdarzyć, to dobra zabawa!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_3f63c082"
 msgid "Je suis plutôt bonne cuisinière tu sais."
-msgstr "I jestem całkiem dobrą kucharką..."
+msgstr "I jestem całkiem dobrą kucharką."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_4f2c37c7"
 msgid "Je... je"
-msgstr "Ummmm..."
+msgstr "Ja... ja..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_df65d7d6"
 msgid "Aller sois pas bête, tu vas leur faire de la peine si tu refuses."
-msgstr "No nie bądź taka... Będzie jej smutno, jeśli odmówisz..."
+msgstr "No nie bądź taka. Będzie jej smutno, jeśli odmówisz."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_964ee204"
 msgid "Bon d'accord, je préviens ma mère et c'est bon!"
 msgstr "No dobrze, niech będzie! Tylko powiadomie mamę!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_fc30a8bb"
 msgid "Un peu plus et j'ai cru que tu me laisserais seule avec lui !"
 msgstr "Jeszcze trochę i pomyślałabym, że zostawisz mnie z nim samą!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_e432654e"
 msgid "Arrête ça se voit bien que tu l'adores !"
 msgstr "Daj spokój! Przecież to oczywiste, że go kochasz!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_e936c827"
 msgid "Encore une fois tu es la bienvenue ici quand tu veux {{asami.n}}."
 msgstr "Pamiętaj {{asami.n}}, że zawsze jesteś tu mile widziana!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_a88c6019"
 msgid "Merci beaucoup ! J'essaierais quand même de ne pas vous déranger trop souvent non plus."
 msgstr "Dziękuję bardzo! Postaram się jednak nie przeszkadzać zbyt często."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_d60a4c81"
 msgid "Pourquoi ? Tu as peur que je me perde ?"
 msgstr "A co? Boisz się, że się zgubię?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_cdd26adf"
 msgid "...[w] Ok rentre toute seule j'ai compris."
 msgstr "...[w] No dobra, w takim razie wracaj sama. Już zrozumiałem."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_3e10c4e8"
 msgid "Aller je plaisantais, bien sûr que tu vas me raccompagner."
-msgstr "No weź, nie dąsaj się! Przecież żartowałam... To oczywiste, że masz mnie odprowadzić do domu."
+msgstr ""
+"No weź, nie dąsaj się! Przecież żartowałam. To oczywiste, że masz mnie "
+"odprowadzić do domu."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_fba1dc55"
 msgid "... Je..."
-msgstr "..."
+msgstr "...ja..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_8805591f"
 msgid "Tout va bien {{yasuka.n}} ?"
 msgstr "Wszystko w porządku {{yasuka.n}}?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_10532c39"
 msgid "Oui oui, je suis juste un peu fatiguée, ne t'inquiète pas."
-msgstr "Tak... Jestem tylko trochę... Zmęczona. Nie martw się."
+msgstr "Tak tak, jestem tylko trochę zmęczona. Nie martw się."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_3175ca63"
 msgid "Ne rentre pas trop tard !"
 msgstr "Nie wracaj do domu zbyt późno!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_bb5ec496"
 msgid "Bien compris !"
 msgstr "Dobrze!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_b38e2f9c"
 msgid "Je n'ai vraiment pas envie d'y retourner..."
 msgstr "Naprawdę nie chcę tam wracać..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_3579149c"
 msgid "Mais je n'ai plus vraiment le choix maintenant."
 msgstr "Ale tak naprawdę nie mam wyboru."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_505d6660"
 msgid "Tu n'as pas l'air d'aller bien ce matin."
-msgstr "Nie wyglądasz za dobrze..."
+msgstr "Nie wyglądasz za dobrze."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_a286c9c3"
 msgid "...Je suis désolée mon chéri."
 msgstr "...Przepraszam kochanie."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_d6dc7ef2"
 msgid "Je suis un peu anxieuse de retourner à mon ancien travail."
-msgstr "Jestem trochę zaniepokojona powrotem do starej pracy..."
+msgstr "Jestem trochę zaniepokojona powrotem do starej pracy."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_b685928b"
 msgid "Mon patron est un homme... extrêmement désagréable."
-msgstr "Mój szef jest dość... Nieprzyjemnym człowiekiem..."
+msgstr "Mój szef jest dość... nieprzyjemnym człowiekiem."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_7580ce79"
 msgid "J'avais pris quelques jours de congés pour réfléchir à cette proposition de travail d'hôtesse."
 msgstr "Wzięłam kilka dni wolnego, żeby przemyśleć ofertę pracy w tym klubie."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_87423b5b"
 msgid "Comme j'ai décliné la proposition, je dois retourner à mon ancien travail."
-msgstr "A skoro odmówiłam... Muszę wracać na stare śmieci..."
+msgstr "A skoro odmówiłam, muszę wracać na stare śmieci."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_f20d4937"
 msgid "J'ai beau réfléchi, je ne me souviens pas lui avoir demandé, même dans ma précédente vie dans quoi elle travaillait."
-msgstr "Sporo myślałem o moim poprzednim życiu i nie pamiętam, żebym kiedykolwiek pytał ją, czym się zajmowała."
+msgstr ""
+"Sporo myślałem o moim poprzednim życiu i nie pamiętam, żebym kiedykolwiek "
+"pytał ją, czym się zajmowała."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_350186c1"
 msgid "J'étais vraiment une merde de ne pas y avoir fait plus attention."
-msgstr "Naprawdę byłem cholernym dupkiem, że nie zwróciłem na to uwagi..."
+msgstr "Naprawdę byłem cholernym dupkiem, że nie zwróciłem na to uwagi."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_6d4bc18c"
 msgid "J'aurais dû voir qu'elle donnait tout ce qu'elle avait pour nous élever correctement et rembourser ses dettes."
-msgstr "Powinienem był wiedzieć, że dawała z siebie wszystko, żeby nas dobrze wychować i spłacać swoje długi..."
+msgstr ""
+"Powinienem był wiedzieć, że dawała z siebie wszystko, żeby nas dobrze "
+"wychować i spłacać swoje długi."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_ef05c069"
 msgid "Je dois changer ça à tout prix !"
 msgstr "Muszę to zmienić! Za wszelką cenę!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_df28da26"
 msgid "Et si je passais te voir cet aprèm ?"
 msgstr "A może... Chciałabyś, żebym wpadł do ciebie po południu?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_9f02d7a2"
 msgid "Tu ferais ça pour moi ?"
-msgstr "Zrobisz to dla mnie..?"
+msgstr "Zrobisz to dla mnie?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_73ed298e"
 msgid "Je ferais n'importe quoi pour toi."
-msgstr "Dla ciebie zrobiłbym wszystko..."
+msgstr "Dla ciebie zrobiłbym wszystko."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_986b47d8"
 msgid "Oh, tu es un amour."
-msgstr "Ohh... Jesteś taki kochany!"
+msgstr "Oh, jesteś taki kochany!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_17825842"
 msgid "Viens me voir à la boutique au coin de la rue."
-msgstr "Będę na ciebie czekała w sklepie na końcu ulicy."
+msgstr "Spotkajmy się w sklepie na rogu."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_76e41588"
 msgid "On y propose des cafés et des pâtisseries faites maison."
 msgstr "Mamy w ofercie pyszną kawę i ciasta."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_b9515957"
 msgid "Oh ! Intéressant ça, je viendrai, c'est certain."
 msgstr "O! Brzmi wspaniale! Przyjdę na pewno!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_cd75592e"
 msgid "Bon courage, je suis sûr que le retour se passera bien."
 msgstr "W takim razie powodzenia. Mam nadzieje, że twój powrót będzie udany."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_25ff028e"
 msgid "Ta journée est enfin terminée, est-ce que tout s'est bien passé ?"
 msgstr "I jak ci minął dzień? Wszystko dobrze?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_c2ffcc80"
 msgid "Oh, mon chéri, je suis désolée de ce qui s'est passé aujourd'hui."
-msgstr "Kochanie... Przepraszam za to, co się dzisiaj stało."
+msgstr "Kochanie, przepraszam za to, co się dzisiaj stało."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_f2e50485"
 msgid "Ne t'en fais pas... Je suis seulement inquiet pour toi."
-msgstr "Nie przejmuj się... Martwię się o ciebie..."
+msgstr "Nie przejmuj się... Martwię się o ciebie."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_c2e009cd"
 msgid "Ce que j'aimerais savoir, c'est pourquoi tu continues de travailler pour cet homme horrible ?"
-msgstr "Możesz mi powiedzieć, dlaczego wciąż pracujesz dla tego okropnego człowieka?"
+msgstr ""
+"Możesz mi powiedzieć, dlaczego wciąż pracujesz dla tego okropnego człowieka?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_2347b3c6"
 msgid "Je suis certain que tu pourrais trouver autre chose ailleurs et..."
 msgstr "Jestem pewny, że mogłabyś znaleźć coś innego i..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_512d3cf6"
 msgid "Tu es gentil mon chéri, mais je suis complètement épuisée, si tu veux, je t'en parlerai demain."
-msgstr "Jesteś słodki... Ale jestem kompletnie wykończona... Opowiem ci o tym jutro, jeśli będziesz chciał."
+msgstr ""
+"Jesteś słodki, ale jestem kompletnie wykończona. Opowiem ci o tym jutro, "
+"jeśli będziesz chciał."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_fa34544f"
 msgid "Oui, je comprends, je vais te laisser te reposer."
 msgstr "Oczywiście. W takim razie odpoczywaj dobrze!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_7188132e"
 msgid "Si tu as besoin de quoi que ce soit, fais-moi signe."
 msgstr "Daj mi znać, jeśli będziesz czegoś potrzebowała."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_a1bdea99"
 msgid "Bonjour {{yasuka.n}}, tu as passé une bonne nuit ?"
 msgstr "Dzień dobry {{yasuka.n}}, dobrze spałaś?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_0e938d85"
 msgid "Non, pas vraiment..."
-msgstr "Nie... Nie za bardzo..."
+msgstr "Nie, nie za bardzo..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_6b2f74d9"
 msgid "J'ai eu une crise d'angoisse qui m'a tenue éveillée une bonne partie de la nuit et quand j'ai finalement réussi à m'endormir, j'ai fait un cauchemar terrifiant."
-msgstr "Miałam ataki paniki, które nie pozwoliły mi zasnąć... A kiedy mi się udało, to miałam przerażający koszmar..."
+msgstr ""
+"Miałam ataki paniki, które nie pozwoliły mi zasnąć. A kiedy mi się udało, to "
+"miałam przerażający koszmar."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_c143836a"
 msgid "Non, je préfèrerai oublier ça à tout prix."
-msgstr "Nie chcę... Wolałabym o nim zapomnieć."
+msgstr "Nie chcę. Wolałabym o nim zapomnieć."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_c6907980"
 msgid "Oh... d'accord."
 msgstr "Oh... No dobrze..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_c336e284"
 msgid "Je viendrai à nouveau te voir aujourd'hui pendant ta pause."
 msgstr "Wpadnę do ciebie jak będziesz miała przerwę!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_bc81768a"
 msgid "Merci mon chéri, c'est gentil comme tout mais...[w] Tu n'es pas obligé, tu sais."
-msgstr "Dziękuje kochanie... To naprawdę kochane... Ale...[w] Wiesz, że nie musisz tego robić..."
+msgstr ""
+"Dziękuje skarbie, to naprawdę kochane... Ale...[w] Wiesz, że nie musisz tego "
+"robić..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_b59a7318"
 msgid "Mais je suis heureuse que tu le fasses !"
 msgstr "Ale jestem przeszczęśliwa, że to robisz!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_ac19a8c4"
 msgid "À plus tard alors !"
 msgstr "No to do zobaczenia później!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_8a19d674"
 msgid "Bon... C'est d'accord, je vais t'aider."
 msgstr "Nooo... Dobra. Pomogę ci."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_dac13247"
 msgid "J'ai pas envie qu'on dise que je suis une fille ingrate."
 msgstr "Nie chcę, żeby ludzie myśleli, że jestem niewdzięczną dziewczyną."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_bea3cc93"
 msgid "Mais tu m'en devras une !"
 msgstr "Ale będziesz moim dłużnikiem!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_03d9eec4"
 msgid "Je t'en devrais une parce que tu m'aides à aider ta propre mère ?"
-msgstr "Dlaczego mam być twoim dłużnikiem? Przecież pomagasz mi pomóc swojej własnej matce."
+msgstr ""
+"Dlaczego mam być twoim dłużnikiem? Przecież pomagasz mi pomóc swojej własnej "
+"matce."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_f3aff511"
 msgid "Peu importe, on se retrouve cet après-midi devant la boutique."
-msgstr "Tak czy inaczej, spotkajmy się dziś po południu przed sklepem na końcu ulicy."
+msgstr ""
+"Tak czy inaczej, spotkajmy się dziś po południu przed sklepem na końcu ulicy."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_7804cadd"
 msgid "Tant que tu restes à plusieurs mètres de moi ça me va, j'ai pas envie qu'on croie qu'on est ensemble."
-msgstr "Dopóki trzymasz się kilka metrów ode mnie, jes git. Nie chcę żeby ludzie pomyśleli, że jesteśmy razem."
+msgstr ""
+"Dopóki trzymasz się kilka metrów ode mnie, jest git. Nie chcę żeby ludzie "
+"pomyśleli, że jesteśmy razem."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_46315306"
 msgid "On peut appeler ça un progrès."
-msgstr "Chyba to można to nazwać krokiem naprzód."
+msgstr "Chyba można to nazwać krokiem naprzód."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_5ccbc92a"
 msgid "Restons positifs."
 msgstr "Bądźmy dobrej myśli."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_33d3eafd"
 msgid "Elle ne devrait plus trop tarder..."
-msgstr "Niedługo powinna tu być..."
+msgstr "Niedługo powinna tu być."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_6ef3faa5"
 msgid "[i]Environ 3 heures plus tard...[/i]"
 msgstr "[i]Około 3 godziny później...[/i]"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_fff74431"
 msgid "Elle aurait déjà dû arriver depuis des heures..."
 msgstr "Powinna tu być już kilka godzin temu..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_b474e50b"
 msgid "Quelque chose a dû se produire."
-msgstr "Coś się musiało stać!"
+msgstr "Coś się musiało stać."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_ba281745"
 msgid "J'ai un mauvais pressentiment."
-msgstr "Mam złe przeczucie..."
+msgstr "Mam złe przeczucie."
 
 #: game/story/park.dialogue
-#, fuzzy
 msgctxt "t8fbfdb1872"
 msgid "J'ai un mauvais pressentiment."
-msgstr "Mam złe przeczucie..."
+msgstr "Mam złe przeczucie."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_f09a7e33"
 msgid "J'espère que ce bâtard n'a rien osé tenter."
-msgstr "Mam nadzieję, że nic jej nie jest..."
+msgstr "Mam nadzieję, że nic jej nie jest."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_9f10abda"
 msgid "Je ferais mieux d'aller voir ça moi-même."
-msgstr "Lepiej sam pójdę to sprawdzić."
+msgstr "Lepiej pójdę to sprawdzić."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_c0a8cc48"
 msgid "Merci pour tout..."
 msgstr "Dziękuję za wszystko..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_b1456aef"
 msgid "Je t'ai déjà dit que c'était normal."
 msgstr "Przecież mówiłem ci, że to normalne."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_d0658b26"
 msgid "Tu n'as pas à me remercier."
 msgstr "Nie musisz mi dziękować."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_e0231d2b"
 msgid "Par contre, je veux bien que tu répondes à une question que je me pose."
-msgstr "Z drugiej strony chciałbym, żebyś odpowiedziała na moje pytanie..."
+msgstr "Z drugiej strony chciałbym, żebyś odpowiedziała na moje pytanie."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_92c81e47"
 msgid "Pourquoi t'es-tu baladée en ville au lieu de rentrer directement à la maison ?"
-msgstr "Dlaczego włóczyłaś się po mieście zamiast wrócić prosto do domu..?"
+msgstr "Dlaczego włóczyłaś się po mieście zamiast wrócić prosto do domu?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_01d2ccde"
 msgid "Oh ! C'est parce que mon patron tenait absolument à me raccompagner à la maison pour voir où j'habitais..."
-msgstr "Oh... To daltego, że mój szef chciał odprowadzić mnie do domu, a w tedy by wiedział gdzie mieszkam..."
+msgstr ""
+"Oh! To dlatego, że mój szef chciał odprowadzić mnie do domu, a wtedy by "
+"wiedział gdzie mieszkam..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_09df76fb"
 msgid "Et je ne voulais pas qu'il le sache."
 msgstr "I nie chciałam, żeby wiedział."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_0e5c68ce"
 msgid "J'ai fait tout ce que j'ai pu pour éviter ça."
 msgstr "Robiłam wszystko, żeby tego uniknąć."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_80dad990"
 msgid "Je comprends mieux."
-msgstr "Aaah... Teraz rozumiem..."
+msgstr "Ah... Teraz rozumiem."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_f03b1f4f"
 msgid "Ce type est bien trop dangereux !"
 msgstr "Ten typ jest zbyt niebezpieczny!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_a6b89e57"
 msgid "Tu dois quitter ce travail, dès à présent."
 msgstr "Musisz natychmiast rzucić tę pracę."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_3b340770"
 msgid "Oui... Tu as raison, je crois que je me voilais la face depuis trop longtemps en pensant que je pouvais le supporter."
-msgstr "Tak... Masz rację... Chyba zbyt długo myślałam, że uda mi się go znieść."
+msgstr ""
+"Tak... Masz rację... Chyba zbyt długo myślałam, że uda mi się go znieść."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_bb5deffe"
 msgid "Tu veux bien... T'en charger pour moi ?"
-msgstr "Czy ty... Czy mógłbyś zrobić to dla mnie..?"
+msgstr "Czy ty... Czy mógłbyś zrobić to dla mnie?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_2bf97e97"
 msgid "Bien sûr, je m'occupe de tout, fais-moi confiance."
 msgstr "Oczywiście! Zajmę się wszystkim! Zaufaj mi!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_94c2be50"
 msgid "Repose-toi à présent."
 msgstr "A teraz odpoczywaj."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_2f61b344"
 msgid "Merci mon chéri..."
 msgstr "Dziękuję kochanie..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_35bfda3e"
 msgid "De veiller sur moi."
 msgstr "Za to, że się o mnie troszczysz..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_c4109149"
 msgid "Tout va bien mon chéri ? J'ai entendu {{noriko.n}} crier."
 msgstr "Wszystko w porządku kochanie? Słyszałam krzyk {{noriko.n}}."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_c03b7c41"
 msgid "Oui, ne t'en fais pas, elle a juste encore perdu le wifi comme d'habitude."
-msgstr "Taaaak, nie przejmuj się. Po prostu Wi-Fi padło, nic nowego."
+msgstr "Tak, nie przejmuj się. Po prostu Wi-Fi padło, nic nowego."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_c1a2e1fc"
 msgid "Oh, je vois."
 msgstr "Oh, rozumiem."
 
 #: game/story/home_asami_exterior.dialogue
-#, fuzzy
 msgctxt "home_asami_exterior_c6489ca1"
 msgid "Oh, je vois."
 msgstr "Oh, rozumiem."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_dce8d35c"
 msgid "Tu peux retourner te reposer, je m'occupe de ton patron."
 msgstr "Wracaj odpoczywać. Zajmę się twoim szefem."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_17021d5b"
 msgid "Tu es sûr ? J'ai un peu honte de te laisser faire tout ça pour moi, mais..."
-msgstr "Jesteś pewny..? Trochę mi wstyd, że pozwalam ci robić wszystko za mnie..."
+msgstr "Jesteś pewny? Trochę mi wstyd, że pozwalam ci robić wszystko za mnie..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_07c25583"
 msgid "Ne dis rien, ce type est une ordure."
 msgstr "Nic nie mów, ten facet to kanalia."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_07d9cdd3"
 msgid "Il doit arrêter ça."
 msgstr "Musi przestać."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_bb384358"
 msgid "Ne te soucis plus de rien, je m'occupe de tout, fais-moi confiance."
 msgstr "Nie martw się o nic, zajmę się wszystkim. Zaufaj mi."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_fd08938f"
 msgid "C'est bien beau tout ça, mais qu'est-ce que je vais lui dire ?"
 msgstr "Wszystko ładnie pięknie, ale co mam mu powiedzieć?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_c4ad4b1d"
 msgid "Oh, mon chéri, tu rentres si tard !"
-msgstr "Kochanie, dlaczego wracasz tak ppóźno!"
+msgstr "Och, kochanie, wracasz do domu tak późno!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_36dbeef8"
 msgid "Comment s'est passée ta journée ?"
 msgstr "Jak ci minął dzień?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_92673377"
 msgid "La situation est déjà assez difficile comme ça, je ne dois pas l'inquiéter davantage."
-msgstr "Sytuacja i tak jest wystarczająco trudna, nie powinienem jej bardziej martwić..."
+msgstr ""
+"Sytuacja i tak jest wystarczająco trudna, nie powinienem jej bardziej "
+"martwić."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_2f4f36c8"
 msgid "Je vais prendre sur moi et tenir bon jusqu'à ce que je trouve une solution."
 msgstr "Powinienem wziąć to na siebie i wymyśleć jakieś rozwiązanie."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_33f712ef"
 msgid "Tout s'est bien passé !"
 msgstr "Wszystko poszło dobrze!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_c241dfd8"
 msgid "C'est vrai ?"
 msgstr "Naprawdę?"
 
 #: game/story/home_player_exterior.dialogue
-#, fuzzy
 msgctxt "talk_sakuya_ffb9d31b"
 msgid "C'est vrai ?"
 msgstr "Naprawdę?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_0b55651f"
 msgid "Ça a été épuisant, mais je pense que je m'en suis bien sorti."
-msgstr "To było dość wyczerpujące... Ale myślę, że poszło dobrze."
+msgstr "To było dość wyczerpujące, ale myślę że poszło dobrze."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_9bdedcde"
 msgid "Il n'a pas été odieux avec toi ?"
 msgstr "Nie był dla ciebie wstrętny?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_941e347c"
 msgid "Je... Je l'ai à peine vue, il a passé sa journée sur la terrasse."
-msgstr "P-prawie go nie widziałem, spędził cały dzień na tarasie przed sklepem."
+msgstr ""
+"Ja... prawie go nie widziałem, spędził cały dzień na tarasie przed sklepem."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_8a8117de"
 msgid "Oh oui, je vois..."
 msgstr "Ach, rozumiem..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_33827240"
 msgid "J'étais terriblement inquiète pour toi à tel point que je ne pouvais pas me reposer."
-msgstr "Strasznie się o ciebie martwiłam... Nie mogłam nawet zasnąć..."
+msgstr "Strasznie się o ciebie martwiłam. Nie mogłam nawet zasnąć"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_8c178d95"
 msgid "J'en avais des angoisses !"
-msgstr "Byłam taka niespokojna..!"
+msgstr "Byłam taka niespokojna!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_3e8d1d52"
 msgid "Mais de savoir que tout se passe bien..."
 msgstr "Ale teraz, skoro wiem, że wszystko poszło dobrze...."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_3536e7d6"
 msgid "Tout va bien, ne t'inquiète pas."
 msgstr "Wszystko poszło dobrze! Nie martw się."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_95e80cc4"
 msgid "Repose-toi, c'est le plus important."
-msgstr "Najważniejsze jest teraz, że musisz się w końcu wyspać."
+msgstr "Idź się teraz porządnie wyspać. To jest teraz najważniejsze."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_408a514d"
 msgid "Elle n'a pas l'air d'être là."
-msgstr "Wygląda na to, że jej tu nie ma..."
+msgstr "Wygląda na to, że jej tu nie ma."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_2031f6f3"
 msgid "[font_size=14]Je suis dans ma chambre...[/font_size]"
 msgstr "[font_size=14]Jestem w swoim pokoju...[/font_size]"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_e36d74eb"
 msgid "Tu veux que je te laisse tranquille ?"
-msgstr "Chcesz, żebym zostawił cię w spokoju?"
+msgstr "Mam cię zostawić w spokoju?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_f64fae37"
 msgid "[font_size=14]Non ! Rejoins-moi...[/font_size]"
 msgstr "[font_size=14]Nie! Wejdź...[/font_size]"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_f8d274b6"
 msgid "J'ai beau essayer de me souvenir, mais je ne pense pas avoir déjà été un jour dans sa chambre..."
-msgstr "Próbuję sobie przypomnieć... Ale chyba nigdy nie byłem w jej sypialni..."
+msgstr "Próbuję sobie przypomnieć, ale chyba nigdy nie byłem w jej sypialni..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_49c7c8d3"
 msgid "Après la mort de {{noriko.n}}, {{yasuka.n}} s'était replié sur elle-même."
-msgstr "Po śmierci {{noriko.n}}, {{yasuka.n}} bardzo się w sobie zamknęła..."
+msgstr "Po śmierci {{noriko.n}}, {{yasuka.n}} bardzo się w sobie zamknęła."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_34c13c60"
 msgid "J'avais quitté la maison, car l'atmosphère était devenue trop pesante."
-msgstr "Opuściłem dom, ponieważ atmosfera stała się zbyt ciężka..."
+msgstr "Opuściłem dom, ponieważ atmosfera stała się zbyt ciężka."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_994a90d2"
 msgid "Je l'avais littéralement abandonnée maintenant que j'y pense."
-msgstr "Teraz gdy o tym myślę, to dosłownie ją porzuciłem..."
+msgstr "Teraz gdy o tym myślę, to dosłownie ją porzuciłem."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_f4de9cfb"
 msgid "J'ai bien trop à me faire pardonner."
-msgstr "Mam bardzo dużo rzeczy do odpokutowania..."
+msgstr "Mam bardzo dużo rzeczy do odpokutowania."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_fa8a2e36"
 msgid "[font_size=14]Tu ne viens pas ?[/font_size]"
-msgstr "[font_size=14]Nie wchodzisz..?[/font_size]"
+msgstr "[font_size=14]Nie wchodzisz?[/font_size]"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_dd0fb42d"
 msgid "Si, si, j'arrive tout de suite, pardon."
 msgstr "A tak, przepraszam. Już wchodzę!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_2cda0ed1"
 msgid "Qu'est-ce que tu veux {{noriko.n}} ?"
 msgstr "Czego chcesz {{noriko.n}}?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_98c178ef"
 msgid "Quoi ?! Mais... Pourquoi tu-"
 msgstr "Co?! Ale... Dlaczego t-..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_f9ff7016"
 msgid "T'as qu'a demandé à ma mère !"
 msgstr "Musisz zapytać moją mamę!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_defe9d51"
 msgid "Mais qu'est-ce qui se passe ici ?"
 msgstr "Co tu się dzieje?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_ba6e5f9f"
 msgid "[font_size=14]Mon chéri, tu peux venir ?[/font_size]"
 msgstr "[font_size=14]Kochanie, możesz tu przyjść?[/font_size]"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_b97b9db1"
 msgid "Euh, bien sûr, j'arrive."
 msgstr "Umm, no pewnie. Już wchodzę."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_9263e996"
 msgid "Qu'est-ce que vous faisiez là-dedans ?"
 msgstr "Co robiliście w środku?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_bee23998"
 msgid "On discutait..."
 msgstr "Rozmawialiśmy..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_1ef8e65b"
 msgid "Tu es bien curieuse, tu es vraiment sûre de vouloir ?"
-msgstr "Jesteś bardzo ciekawska... Na pewno chcesz wiedzieć?"
+msgstr "Jesteś bardzo ciekawska, na pewno chcesz wiedzieć?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_f15ff9f9"
 msgid "Non, je m'en fiche !"
 msgstr "Nie! Nie obchodzi mnie to!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_8ac83239"
 msgid "...[w] Mais bon sang, pourquoi tu demandes alors ?"
 msgstr "...[w] To po co pytasz?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_be8ae576"
 msgid "Mon chéri, tout va bien ? Je t'ai vu parler avec mon patron, il avait l'air agité."
-msgstr "Kochanie wszystko w porządku? Widziałam cię, jak rozmawiałeś z moim byłym szefem. I wydawał się zdenerwowany..."
+msgstr ""
+"Kochanie wszystko w porządku? Widziałam cię, jak rozmawiałeś z moim byłym "
+"szefem. I wydawał się zdenerwowany."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_85ab81f8"
 msgid "Je... Tout va bien en fait."
-msgstr "Wszystko gra."
+msgstr "Ja... Wszystko gra."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_8c986c3a"
 msgid "C'est terminé !"
 msgstr "To koniec!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_bba1a917"
 msgid "Que... qu'est-ce qui est terminé ? Tu me fais peur."
-msgstr "O-o czym ty mówisz? Przerażasz mnie..."
+msgstr "O-o czym ty mówisz? Nie strasz mnie..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_87cb4a27"
 msgid "Tu veux dire toi et... m-"
 msgstr "Masz na myśli ciebie i... Mni-..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_1431c12c"
 msgid "Oh non, non, non, c'est pas ce que tu penses !"
-msgstr "O nie nie nie! To nie to, o czym myślisz..!"
+msgstr "O nie nie nie! To nie to, o czym myślisz!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_41efe727"
 msgid "Je veux dire, tu n'as plus besoin de travailler pour lui dorénavant."
-msgstr "Miałem na myśli, że od teraz... Nie musisz już dla niego pracować!"
+msgstr "Miałem na myśli, że od teraz nie musisz już dla niego pracować."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "t1b7b873e40"
 msgid "Vous donnez les documents à {{yasuka.n}}."
 msgstr "Dajesz {{yasuka.n}} dokumenty."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_d7ecbdb9"
 msgid "La boutique est à présent à toi."
 msgstr "Ten sklep jest teraz cały twój!!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_ef6d3f84"
 msgid "Quoi ? La boutique ? Mais...[w] et tout cet argent, ça vient d'où ?"
 msgstr "C-co? Sklep? Ale...[w] A-a te pieniadze..? Skąd one są?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_d02212ef"
 msgid "C'est tout ce qu'il te devait et qu'il ne t'a jamais donné."
 msgstr "To wszystko, co był ci winien, a czego ci nigdy nie dał."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_603ec36f"
 msgid "Avec une prime pour se faire pardonner de son comportement."
-msgstr "Dodatkowymi przeprosinami za swoje zachowanie."
+msgstr "Z dodatkowymi przeprosinami za swoje zachowanie."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_13ac109a"
 msgid "Mais, mais, mais... C'est tellement d'argent, comment as-tu fait ça ?"
 msgstr "Ale, ale... To tyle pieniędzy! Jak to zrobiłeś?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_3d27d16d"
 msgid "Peu importe comment j'ai fait, il a retrouvé la raison, il a eu des remords."
 msgstr "Nieważne co i jak zrobiłem, ważne jest, że się opamiętał."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_1b2514ce"
 msgid "Tout ça t'appartient, tu vas pouvoir faire comme tu veux dorénavant."
 msgstr "Od teraz wszystko jest twoje i możesz z tym zrobić, co tylko chcesz."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_34ff7b69"
 msgid "Je...[w] je ne sais plus quoi dire...[w] Tout ça est merveilleux !"
 msgstr "Ja...[w] Nie wiem co powiedzieć..![w] To cudowne!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_f3605847"
 msgid "Bonjour maman ! Que se passe-t-il, tu pleures ?"
 msgstr "Cześć mamo! Co się stało? Ty płaczesz..?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_156df126"
 msgid "Non ma chérie, je suis simplement comblée."
-msgstr "Nie kochanie, jestem po prostu taka szczęśliwa..!"
+msgstr "Nie kochanie, jestem po prostu taka szczęśliwa!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_ef17f1fa"
 msgid "{{saito.n}} m'a aidé à un point ou je ne pourrais jamais assez le remercier."
-msgstr "{{saito.n}} pomógł mi tak bardzo, że nigdy nie będe mogła mu wystarczająco podziękować..."
+msgstr ""
+"{{saito.n}} pomógł mi tak bardzo, że nigdy nie będe mogła mu wystarczająco "
+"podziękować."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_f09903a1"
 msgid "Ahem, j'veux dire... Bien sûr qu'il a fait ça !"
 msgstr "Ahem, to znaczy... Oczywiście, że to zrobił!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_79ae5461"
 msgid "Ma chérie, s'il te plait, prend un peu d'argent de poche et va te faire plaisir d'accord ?"
-msgstr "Kochanie proszę! To dla ciebie! Weź to i idź się trochę zabawić, dobrze?"
+msgstr ""
+"Kochanie proszę! To dla ciebie! Weź to i idź się trochę zabawić, dobrze?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_8f7d732c"
 msgid "Une proposition pareille ne se refuse pas !"
-msgstr "Wow! Ja mogłabym odrzucić taką propozycję!"
+msgstr "Wow! Jak mogłabym odrzucić taką propozycję!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_96af6b9b"
 msgid "Je rentrerai tard, ne m'attendez pas !"
 msgstr "Wróce późno! Nie czekajcie na mnie!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_50dd106d"
 msgid "...[w] Tu as fait exprès n'est-ce pas ?"
-msgstr "...[w] Chyba zrobiłaś to celowo, prawda..?"
+msgstr "...[w] Chyba zrobiłaś to celowo, prawda?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_6695022a"
 msgid "Nous avons la maison rien que pour nous deux pour quelques heures."
-msgstr "Teraz mamy dom tylko dla siebie..."
+msgstr "Teraz mamy dom tylko dla siebie."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_91855c8a"
 msgid "Mais avant..."
-msgstr "Ale przed..."
+msgstr "Ale najpierw..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_2cb4c6cb"
 msgid "J'ai quelque chose à te demander."
-msgstr "Muszę cię o coś zapytać..."
+msgstr "Muszę cię o coś zapytać."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_38f65e45"
 msgid "[font_size=14]Est-ce que tu préfères... Quand c'est net ou tu t'en fiches ?[/font_size]"
-msgstr "[font_size=14]Wolisz... Kiedy jest przystrzyżona... Czy nie przeszkadza ci to..?[/font_size]"
+msgstr ""
+"[font_size=14]Wolisz... Kiedy jest przystrzyżona... Czy nie przeszkadza ci "
+"to?[/font_size]"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_c574e3e6"
 msgid "[font_size=14]Grrr, tu le fais exprès, très bien, je vais être plus clair, tu préfères que je s-[/font_size]"
-msgstr "[font_size=14]Grrr! Robisz to specjalnie? W takim razie powiem jaśniej! Chcesz żebym ją ogoli-...[/font_size]"
+msgstr ""
+"[font_size=14]Grrr! Robisz to specjalnie? W takim razie powiem jaśniej! "
+"Chcesz żebym ją ogoli-...[/font_size]"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_db8ff7ba"
 msgid "Oh pardon ! Je viens de comprendre."
-msgstr "Aaa! Przepraszm..! Teraz zrozumiałem."
+msgstr "Aaa! Przepraszam..! Teraz zrozumiałem."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_ffe274f3"
 msgid "Très bien, dans ce cas laisse-moi 5 minutes, patiente gentiment dans ma chambre."
-msgstr "No dobrze, w takim razie daj mi kilka minut. A ty grzecznie zaczekaj w moim pokoju."
+msgstr ""
+"No dobrze, w takim razie daj mi kilka minut. A ty grzecznie zaczekaj w moim "
+"pokoju."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_5315d4b4"
 msgid "Oh ! Okay"
 msgstr "Mmm, dobrze!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "td209b2c2a6"
 msgid "Je préfère rasée."
 msgstr "Wolę ogoloną."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_c582eb1a"
 msgid "Tant mieux, moi aussi !"
 msgstr "Idealnie! Ja też!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_1d2f9261"
 msgid "Ne perdons pas plus de temps alors !"
 msgstr "W takim razie nie traćmy już czasu!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "tb512f6eedb"
 msgid "Je préfère au naturel."
-msgstr "Wolę nieogolone."
+msgstr "Wolę naturalne."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_ca9344a9"
 msgid "Quelle soirée... Je crois que je suis encore en plein rêve."
-msgstr "Co za wieczór... Ja chyba wciąż śnię..."
+msgstr "Co za wieczór... Ja chyba wciąż śnię."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_d01ec298"
 msgid "Par contre, j'ai tellement chaud que je crois que je vais exploser."
 msgstr "Jestem taki napalony, że chyba zaraz wybuchnę."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_1d407523"
 msgid "Un peu d'air me fera du bien."
 msgstr "Trochę świeżego powietrza dobrze mi zrobi."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_c6e8b355"
 msgid "Prêt à passer la soirée rien que toi et moi ?"
-msgstr "Gotowy, by cieszyć się wieczorem? Tylko ty i ja..."
+msgstr "Gotowy, by cieszyć się wieczorem? Tylko ty i ja?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_b2f0b7bc"
 msgid "Ce n'est pas le genre de proposition qui se refuse, mais..."
 msgstr "Z pewnością jest to oferta nie do odrzucenia, ale..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_11a90105"
 msgid "Où est {{noriko.n}} ?"
 msgstr "Gdzie jest {{noriko.n}}?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_b9fc15b0"
 msgid "...Dans sa chambre."
 msgstr "...Jest w swoim pokoju."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_db5e7a05"
 msgid "Tu n'as pas peur que..."
 msgstr "Nie boisz się, że ona..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_4c3003b8"
 msgid "J'en ai assez de me cacher ou de retenir mes sentiments."
-msgstr "Jestem już zmęczona ukrywaniem moich uczuć..."
+msgstr "Jestem już zmęczona ukrywaniem moich uczuć."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_b8278363"
 msgid "Peu importe si elle est au courant, j'ai envie de penser à moi et de ce qui me fait plaisir !"
-msgstr "Nie ma znaczenia, czy ona wie, czy nie! Chcę choć raz pomyśleć o sobie i o własnym szczęściu!"
+msgstr ""
+"Nie ma znaczenia, czy ona wie, czy nie! Chcę choć raz pomyśleć o sobie i o "
+"własnym szczęściu!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_6e3b5bf1"
 msgid "Et c'est de toi dont j'ai envie !"
 msgstr "I to ciebie chcę!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_9fdeed69"
 msgid "Très bien, je comprends..."
 msgstr "No dobrze, rozumiem..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_3991d6db"
 msgid "Allons prendre un bain ensemble, j'étais tellement bien dans tes bras la dernière fois..."
-msgstr "Weźmy razem kąpiel... Ostatnim razem było mi tak dobrze w twoich ramionach..."
+msgstr ""
+"Weźmy razem kąpiel... Ostatnim razem było mi tak dobrze w twoich ramionach..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_02e9c44a"
 msgid "Ça m'a trop manquée !"
 msgstr "Tak bardzo się za tym stęskniłam!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_3a1f4b0f"
 msgid "À moi aussi !"
 msgstr "Ja też!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_495cb7a4"
 msgid "Woah, maman ! Je ne t'avais jamais vu aussi sexy !"
-msgstr "Wow! Maaamooo! Nigdy nie widziałam cię tak... Seksownej!"
+msgstr "Wow! Mamo! Nigdy nie widziałam cię tak... Seksownej!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_f847d1de"
 msgid "Merci ma chérie... Et toi {{saito.n}}, tu en penses quoi ?"
 msgstr "Dziękuję kochanie... A ty {{saito.n}}? Co myślisz?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_7b21e575"
 msgid "J'espère que j'aurai du succès !"
 msgstr "Mam nadzieję, że wszystko się uda!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "t90abfcf7f8"
 msgid "Tu es magnifique."
-msgstr "Wyglądasz pięknie."
+msgstr "Jesteś piękna."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_1161be29"
 msgid "C'est un bar à hôtesse !"
-msgstr "To Klub!"
+msgstr "To jest bar z hostessami!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_5740316b"
 msgid "Il faut séduire ! Comment tu crois que ça fonctionne ?"
-msgstr "Wszystko tam polega na uwadzaniu ludzi! Jak myślisz, jak to na nich zadziała?"
+msgstr ""
+"Wszystko tam polega na uwadzaniu ludzi! Jak myślisz, jak to na nich zadziała?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "t3c33ee3bf6"
 msgid "C'est pas un peu trop... sexy justement?"
 msgstr "Ten strój... Nie jest trochę zbyt... Seksowny?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_647cf319"
 msgid "Je suis quand même un peu tendue, je ne sais pas trop à quoi m'attendre."
-msgstr "Wciąż jestem trochę spięta... Tak naprawdę nie wiem, czego mogę się spodziewać."
+msgstr ""
+"Wciąż jestem trochę spięta... Tak naprawdę nie wiem, czego mogę się "
+"spodziewać."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_dce8de6e"
 msgid "Fais juste attention aux pervers avec leurs mains baladeuses."
 msgstr "Tylko uważaj na zboczeńców z namolnymi łapami!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_147924ed"
 msgid "Les hommes sont des porcs."
 msgstr "Mężczyźni to świnie!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_81c16521"
 msgid "Bon courage pour ton premier jour !"
 msgstr "Powodzenia w pierwszym dniu!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_3b2034d1"
 msgid "Dis...[w] Tu ne voudrais pas m'accompagner jusqu'au club ?"
-msgstr "Czy...[w] Mógłbyś mnie odprowadzić..?"
+msgstr "Czy...[w] Mógłbyś mnie odprowadzić?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_e6357cba"
 msgid "S'il te plait !"
 msgstr "Proszę!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_fd320b15"
 msgid "Tu sais bien que tu peux toujours compter sur moi !"
 msgstr "Przecież wiesz, że zawsze możesz na mnie liczyć!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_dc79a81b"
 msgid "Je t'attendrai même devant si tu veux."
-msgstr "Jeśli chcesz... Mogę też poczekać na ciebie na zewnątrz."
+msgstr "Jeśli chcesz mogę nawet poczekać na ciebie na zewnątrz."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_04b82f09"
 msgid "Merci, tu es adorable."
 msgstr "Dziękuje! Jesteś kochany."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_860cf267"
 msgid "Mais je risque de rentrer très tôt demain matin."
-msgstr "Ale pewnie wrócę dopiero jutro rano..."
+msgstr "Ale pewnie wrócę dopiero jutro rano."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_fb22a69b"
 msgid "C'est un travail de nuit après tout."
 msgstr "W końcu, to nocna praca."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_53149d83"
 msgid "Promets-moi d'être prudente !"
 msgstr "Obiecaj mi, że będziesz ostrożna!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_d7140c37"
 msgid "Oh, tu t'inquiètes pour moi ?"
-msgstr "Ohh, martwisz się o mnie..?"
+msgstr "Ohh, martwisz się o mnie?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_d4f6d95d"
 msgid "Ça ira, je suis confiante et puis...[w] Ce sera toujours mieux que mon ancien travail."
-msgstr "Będzie dobrze, jestem pewna, że sobie poradzę i...[w] To i tak będzie lepsze, niż moja stara praca."
+msgstr ""
+"Będzie dobrze, jestem pewna, że sobie poradzę i...[w] To i tak będzie "
+"lepsze, niż moja stara praca."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_eafdd494"
 msgid "Ton ancien travail ? Tu faisais quoi ?"
 msgstr "Twoja stara praca? A czym się zajmowałaś?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_8d8126b7"
 msgid "Je travaillais pour le petit café au coin de la rue."
 msgstr "Pracowałam w małej kawiarni, na końcu ulicy."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_901fedd4"
 msgid "Mais mon patron était un homme horrible."
-msgstr "Ale mój szef, był bardzo okropnym człowiekiem..."
+msgstr "Ale mój szef, był bardzo okropnym człowiekiem."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_c2f513b1"
 msgid "Je suis soulagée de ne plus avoir affaire à lui."
 msgstr "Cieszę się, że nie muszę się już z nim użerać!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_9c3fd7fa"
 msgid "Je suis désolé, j'ignorais tout ça !"
-msgstr "Przepraszam. Nie wiedziałem o tym..."
+msgstr "Przepraszam. Nie wiedziałem o tym."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_53875209"
 msgid "Il t'a laissé démissionner sans poser de problèmes ?"
 msgstr "Pozwolił ci odejść tak o? Bez żadnych problemów?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_57a70dec"
 msgid "...Non, il m'a menacé de m'empêcher de travailler ailleurs, mais j'ai déjà un autre travail maintenant donc je m'en fichais un peu."
-msgstr "...Nie, zagroził, że nie pozwoli mi pracować gdzie indziej. Ale już dostałam inną pracę, więc zbytnio mnie to nie obchodziło."
+msgstr ""
+"...Nie, zagroził, że nie pozwoli mi pracować gdzie indziej. Ale już dostałam "
+"inną pracę, więc zbytnio mnie to nie obchodziło."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_c3893a2a"
 msgid "Quand je pense qu'elle a dû traverser ça seule..."
 msgstr "Pomyśleć, że musiała przechodzić przez to wszystko sama..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_4fd30970"
 msgid "J'étais vraiment une merde pour ne pas avoir vu à quel point elle pouvait souffrir de cette situation."
-msgstr "Byłem takim gnojem, że nie zauważyłem, jak bardzo cierpiała przez to wszystkoo."
+msgstr ""
+"Byłem takim gnojem, że nie zauważyłem, jak bardzo cierpiała przez to "
+"wszystko."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_6f5c15a3"
 msgid "En espérant que ce nouveau travail donne quelque chose de positif."
 msgstr "Mam nadzieję, że w nowej pracy będzie lepiej."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_75a316c5"
 msgid "Quand j'y pense, dans mon ancienne vie, elle avait aussi travaillé en tant qu'hôtesse."
-msgstr "Kiedy o tym myślę, w moim poprzednim życiu też pracowała w klubie jako hostessa."
+msgstr ""
+"Kiedy o tym myślę, w moim poprzednim życiu też pracowała w klubie jako "
+"hostessa."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_02e31a66"
 msgid "Mais la mort de {{noriko.n}} l'avait complètement détruite."
-msgstr "Ale śmierć {{noriko.n}}, całkowicie ją zniszczyła..."
+msgstr "Ale śmierć {{noriko.n}}, całkowicie ją zniszczyła."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_1606c712"
 msgid "Elle ne rentrait plus à la maison, ne me parlait plus..."
 msgstr "Przestała wracać do domu i nie rozmawiała ze mną..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_0168a65e"
 msgid "Je dois continuer mes efforts, je ne veux pas qu'il lui arrive malheur."
 msgstr "Wciąż muszę ciężko pracować! Nie chcę, żeby stało jej się coś złego!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_0d6ac7ed"
 msgid "Mon Dieu ! Je n'ai pas vu le temps passer. Je vais être en retard pour mon premier jour."
 msgstr "O kurcze! To mój pierwszy dzień i zaraz się spóźnię!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_6e2cc205"
 msgid "C'est ma faute, allons-y !"
 msgstr "To moja wina! Chodźmy!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_476505df"
 msgid "Bonjour mes chéris !"
 msgstr "Witajcie kochani!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_256277c3"
 msgid "Salut M'man !"
 msgstr "Cześć mamo!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_19c84fda"
 msgid "Comment s'est passé ton premier jour ?"
 msgstr "I jak twój pierwszy dzień?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_f495571f"
 msgid "Je ne sais pas pourquoi je me suis autant inquiétée..."
 msgstr "Nie wiem, czym ja się tak przejmowałam..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_3f813edb"
 msgid "Tout le monde a été très gentil avec moi, j'ai fait la connaissance d'énormément de monde."
 msgstr "Wszyscy byli dla mnie bardzo mili i poznałam wielu ludzi."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_28650062"
 msgid "Même les clients étaient ravis de voir une nouvelle comme moi."
 msgstr "Nawet klienci byli zachwyceni, widząc taką nowicjuszkę."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_54136832"
 msgid "Génial, je suis contente pour toi !"
 msgstr "To wspaniale! Tak się cieszę!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_7fb24f9d"
 msgid "Je suis content que tout se soit bien passé."
 msgstr "Cieszę się, że wszystko poszło dobrze."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_4a31f01b"
 msgid "Je ne sais pas pourquoi, j'ai imaginé le pire en te voyant travailler là-bas."
-msgstr "Nie wiem dlaczego wyobrażałem sobie najgorsze rzeczy, wiedząc że tam pracujesz..."
+msgstr ""
+"Nie wiem dlaczego wyobrażałem sobie najgorsze rzeczy, wiedząc że tam "
+"pracujesz."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_30d1c268"
 msgid "Mon chéri ne t'inquiète pas autant pour moi, ça devrait être l'inverse, tu sais."
-msgstr "Nie musisz się tak o mnie martwić kochanie. Powinno być raczej na odwrót!"
+msgstr ""
+"Nie musisz się tak o mnie martwić kochanie. Powinno być raczej na odwrót!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_6f677c50"
 msgid "Tu es un homme à présent."
 msgstr "Jesteś teraz mężczyzną!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_6d8c7cc8"
 msgid "Je suis certain que ta future femme sera heureuse avec quelqu'un d'aussi intentionné que toi."
-msgstr "Jestem pewna, że twoja przyszła żona będzie szczęśliwa, z kimś takim dobrym jak ty."
+msgstr ""
+"Jestem pewna, że twoja przyszła żona będzie szczęśliwa, z kimś takim dobrym "
+"jak ty."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_801ee4d0"
 msgid "Je vais aller me reposer à présent, je tombe littéralement de sommeil et je reprends le travail ce soir."
-msgstr "A teraz idę odpocząć... Dosłownie zasypiam... A dzis czeka mnie kolejny dzień."
+msgstr ""
+"Muszę teraz odpocząć. Dosłownie zasypiam stojąc, a dziś wieczorem muszę iść "
+"do pracy."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_d6369a9f"
 msgid "Oui, je comprends, repose-toi bien."
 msgstr "No tak. Śpij dobrze."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_17bcaacf"
 msgid "Ne faites pas trop de bruits tous les deux."
 msgstr "Tylko nie bądźcie zbyt głośno."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_e4a767b5"
 msgid "{{yasuka.n}} n'est pas là ?"
 msgstr "Gdzie {{yasuka.n}}?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_e1615d6a"
 msgid "Non, elle est déjà partie."
 msgstr "Już wyszła."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_2f3172d9"
 msgid "Un problème ?"
 msgstr "To jakiś problem?"
 
 #: game/story/arcade_exterior.dialogue
-#, fuzzy
 msgctxt "t1322efbb99"
 msgid "Un problème ?"
 msgstr "To jakiś problem?"
 
 #: game/story/onsen_interior.dialogue
-#, fuzzy
 msgctxt "ted3ed7f371"
 msgid "Un problème ?"
 msgstr "To jakiś problem?"
 
 #: game/story/konbini_exterior.dialogue
-#, fuzzy
 msgctxt "konbini_exterior_9095e677"
 msgid "Un problème ?"
 msgstr "To jakiś problem?"
 
 #: game/story/park.dialogue
-#, fuzzy
 msgctxt "asami_choice_b7bbdc8c"
 msgid "Un problème ?"
 msgstr "To jakiś problem?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_13f23864"
 msgid "Oui, je vais essayer de la rattraper !"
 msgstr "Tak! Muszę ją złapać!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_ee52bdf2"
 msgid "Et toi ?"
 msgstr "A ty?"
@@ -31908,1918 +31617,1697 @@ msgstr "A ty?"
 #: game/story/home_asami_bathroom.dialogue
 msgctxt "ET_TOI_C3F0E9"
 msgid "Et toi ?"
-msgstr ""
+msgstr "A ty?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_79d3b417"
 msgid "Est-ce que tu as eu des problèmes avec..."
-msgstr "Miałaś jakieś problemy z..."
+msgstr "Czy był jakiś problem z..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_2361752a"
 msgid "Le garçon que tu avais mentionné est effectivement venu me parler, mais honnêtement, tu n'avais pas à t'inquiéter."
-msgstr "Chłopak o którym wspomniałeś, faktycznie przyszedł, ale szczerze mówiąc, nie musisz się martwić."
+msgstr ""
+"Chłopak o którym wspomniałeś, faktycznie przyszedł, ale szczerze mówiąc, nie "
+"musisz się martwić."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_8d6f4fee"
 msgid "Son attitude était déplorable et la façon de traiter les femmes était absolument méprisable."
-msgstr "Jego postawa była godna pożałowania, a sposób, w jaki traktował kobiety, był absolutnie nikczemny..."
+msgstr ""
+"Jego postawa była godna pożałowania, a sposób, w jaki traktował kobiety, był "
+"absolutnie nikczemny."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_e980fa5c"
 msgid "Il a passé le reste de la soirée assis dans un coin."
 msgstr "Resztę wieczoru spędził siedząc w kącie."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_e1ec221b"
 msgid "J'ai bien vu qu'il semblait furieux, mais la sécurité est vraiment efficace là-bas."
-msgstr "Widziałam, że wyglądał na wściekłego, ale ochrona tam, jest naprawdę skuteczna."
+msgstr ""
+"Widziałam, że wyglądał na wściekłego, ale ochrona tam jest naprawdę "
+"skuteczna."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_ae2141db"
 msgid "C'est une excellente nouvelle !"
 msgstr "To wspaniała wiadomość!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_47e22585"
 msgid "Par contre... Mr. {{netoru.n}} s'est peut-être un peu trop amusé à le provoquer."
 msgstr "Z drugiej strony... Pan {{netoru.n}}, zabawiał się z nim prowokując go."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_91e54d91"
 msgid "Il n'a rien tenté quoi que ce soit avec toi ?"
 msgstr "Nie próbował ci niczego zrobić, prawda?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_e9625e33"
 msgid "Non, non, bien au contraire... Il a été courtois, parfois amusant, sans jamais un geste déplacé."
-msgstr "Nie, wręcz przeciwnie... Był uprzejmy, czasem nawet zabawny, nie wykonując przy tym ani jednego niestosownego gestu."
+msgstr ""
+"Nie, wręcz przeciwnie... Był uprzejmy, czasem nawet zabawny, nie wykonując "
+"przy tym ani jednego niestosownego gestu."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_007769b1"
 msgid "Ah bon ?"
 msgstr "Naprawdę?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_c753102b"
 msgid "Je suis sûr que cette ordure à le même objectif qu'{{akira.n}}."
 msgstr "Jestem przekonany, że ten gruby śmieć, ma taki sam cel co {{akira.n}}."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_f77fb6b5"
 msgid "De plus, il semble bien plus calculateur."
 msgstr "I co więcej, wydaje się być o wiele bardziej wyrachowany."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_4eca95dc"
 msgid "Putain, ça me rend fou de savoir qu'il va passer tout son temps avec des intentions aussi sales à côté d'elle."
-msgstr "Cholera, aż krew mi buzuje, wiedząc, że będzie spędzał cały swój czas tuż obok niej, z tymi swoimi paskudnymi intencjami."
+msgstr ""
+"Cholera, aż krew mi buzuje, wiedząc, że będzie spędzał cały swój czas tuż "
+"obok niej, z tymi swoimi paskudnymi intencjami."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_ec4c5ba3"
 msgid "Tu vois que tu t'inquiètes trop !"
 msgstr "No widzisz? Za bardzo się martwiłeś!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_2297e48f"
 msgid "La soirée d'hier soir a d'ailleurs été une très bonne soirée !"
 msgstr "Wczorajsza noc, była naprawdę świetna!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_826f8451"
 msgid "Je suis enfin capable de vous donner un peu d'argent de poche."
 msgstr "W końcu będę mogła dać ci trochę kieszonkowego!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_505108b8"
 msgid "Je suis si heureuse, je vais enfin pouvoir payer mes dettes et vous faire plaisir."
-msgstr "Jestem taka szczęśliwa! W końcu będę mogła spłacić długi i nas uszczęśliwić!"
+msgstr ""
+"Jestem taka szczęśliwa! W końcu będę mogła spłacić długi i nas uszczęśliwić!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_75c56896"
 msgid "Mon chéri ne t'en fait pas, ce n'est pas 10000¥ qui changeront quoi que ce soit."
 msgstr "Kochanie, nie martw się, 10000¥ i tak niczego nie zmieni."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_46c64f6d"
 msgid "S'il te plait, garde les et profite en un peu aussi, les choses semblent s'arranger pour le mieux donc autant en profiter."
-msgstr "Proszę, weź to i baw się dobrze. Wygląda na to, że sprawy idą w dobrym kierunku, więc równie dobrze możemy się tym cieszyć."
+msgstr ""
+"Proszę, weź to i baw się dobrze. Wygląda na to, że sprawy idą w dobrym "
+"kierunku, więc równie dobrze możemy się tym cieszyć."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_5774b098"
 msgid "Je gagne assez avec mon travail au restaurant. Je tiens vraiment à ce que nous puissions rembourser nos dettes le plus vite possible."
-msgstr "Zarabiam wystarczająco z mojej pracy w restauracji. Lepiej żebyśmy mogli spłacić nasze długi tak szybko, jak to możliwe."
+msgstr ""
+"Zarabiam wystarczająco z mojej pracy w restauracji. Lepiej żebyśmy mogli "
+"spłacić nasze długi tak szybko, jak to możliwe."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_1bde17bc"
 msgid "Tu es si sérieux... Mais tu as raison. Je vais les mettre de côté."
 msgstr "Jesteś taki poważny... Ale masz rację... Odłożę je."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "t43aa4a80b9"
 msgid "Merci, mais... Je préférerais que tu gardes l'argent pour rembourser les dettes."
-msgstr "Dziękuję, ale... Wolałbym, żebyś to zatrzymała..."
+msgstr "Dziękuję, ale... Wolałbym, żebyś to zatrzymała."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_c6612f1f"
 msgid "J'ai envie de vous faire plaisir."
 msgstr "Chcę uszczęśliwić was oboje!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_87081007"
 msgid "Alors, amusez-vous toi et à {{noriko.n}}."
 msgstr "Bawcie się dobrze! Zarówno ty, jak i {{noriko.n}}."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_159d3215"
 msgid "Merci beaucoup."
 msgstr "Dziękuję."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "t1291ee4082"
 msgid "Vous obtenez 10000¥"
 msgstr "Otrzymałeś 10000¥."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "t4c0b35a2e2"
 msgid "Oh, c'est gentil, mais c'était pas nécessaire, tu sais."
 msgstr "Oh... To miłe, ale nie musisz."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_07e7f332"
 msgid "Je tombe de sommeil, je crois bien que je vais aller dormir à présent."
 msgstr "Uhh... Prawie zasypiam. Pójdę się położyć."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_2e5d5488"
 msgid "D'accord, repose-toi bien !"
 msgstr "No dobra! W takim razie śpij dobrze!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_19feb979"
 msgid "Tu as passé une bonne nuit ?"
-msgstr "Dobrze spałeś?"
+msgstr "Jak się spało?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_0f5035bd"
 msgid "J'ai... J'ai fait un rêve beaucoup trop étrange cette nuit."
-msgstr "Miałem... Bardzo dziwny sen..."
+msgstr "Miałem... Bardzo dziwny sen."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_4f2af91f"
 msgid "Mhh, c'est curieux, moi aussi... C'était à propos de quoi ?"
 msgstr "Mmh, to zabawne. Ja też miałam... O czym był twój?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_d925a004"
 msgid "Euh je... Tu venais dans ma chambre et..."
 msgstr "Umm... Przyszłaś do mojego pokoju i..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_be57f3f8"
 msgid "C'est... Moi aussi, je venais dans ta chambre pour..."
 msgstr "O tym, że... Poszłam do twojego pokoju..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_d822172f"
 msgid "Qu'est-ce que j'ai fait ?"
 msgstr "Co ja narobiłem?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_5f58c730"
 msgid "Oh putain, c'était donc pas un rêve ?!"
 msgstr "O cholera! Więc to nie był sen?!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_91b6ce49"
 msgid "Bon sang, à quel point avait-elle bu pour me sauter dessus comme ça ?"
-msgstr "...Ile ona wypiła, żeby tak na mnie naskoczyć..?"
+msgstr "Ile ona wypiła, żeby tak na mnie naskoczyć?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_51e8dc27"
 msgid "Il faut plus que de l'alcool pour provoquer ce genre de dérapage."
-msgstr "Wydaje mi się, że potrzeba czegoś więcej niż tylko alkoholu, żeby zrobić coś takiego..."
+msgstr ""
+"Wydaje mi się, że potrzeba czegoś więcej niż tylko alkoholu, żeby zrobić coś "
+"takiego."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_2e908f82"
 msgid "À bien y réfléchir, il y a forcément autre chose."
-msgstr "Jak się nad tym zastanowić... To musiało być coś jeszcze..."
+msgstr "A jeśli się nad tym zastanowić, to musi być coś jeszcze."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_890d1dd7"
 msgid "{{macumba.n}} a peut être vu quelque chose de louche avant que {{yasuka.n}} s'en aille du club hier soir."
-msgstr "Ciekawe czy {{macumba.n}} widział coś podejrzanego, zanim {{yasuka.n}} wyszła z klubu."
+msgstr ""
+"Ciekawe czy {{macumba.n}} widział coś podejrzanego, zanim {{yasuka.n}} "
+"wyszła z klubu."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_bb0b3a57"
 msgid "Oh mon chéri, je suis tellement désolée, je ne sais pas du tout ce qui m'a pris."
-msgstr "...Przepraszam kochanie... Tak mi przykro... Nie wiem co we mnie wstąpiło..."
+msgstr "Przepraszam kochanie. Tak mi przykro... Nie wiem co we mnie wstąpiło."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_e3cc0e39"
 msgid "J'ai vraiment fait quelque chose d'horrible."
-msgstr "Zrobiłam coś okropnego..."
+msgstr "Zrobiłam coś okropnego."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_b74b8f38"
 msgid "Je te demande pardon..."
 msgstr "Tak bardzo cię przepraszam..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_c9b93f69"
 msgid "Je ne veux pas que tu me haïsses."
 msgstr "Nie chcę, żebyś mnie nienawidził."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_011a6359"
 msgid "Mon chéri, je suis tellement désolée, je ne sais plus où me mettre."
 msgstr "Przepraszam kochanie... Nie wiem nawet co mam powiedzieć..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_f0835c28"
 msgid "J'ai tellement honte de moi."
 msgstr "Tak bardzo się teraz wstydzę."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_50928fae"
 msgid "Cette situation est vraiment en train de la tuer..."
 msgstr "Ta sytuacja naprawdę ją dobija..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_17680b8c"
 msgid "Il faut que je fasse quelque chose, ou elle s'en voudra toute sa vie."
 msgstr "Muszę coś zrobić, bo inaczej będzie się obwiniać do końca życia."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_78235b70"
 msgid "Je suis sûr d'avoir rêvé en fait... J'ai du mal à me souvenir ce qui s'est exactement passé."
-msgstr "Ale jestem pewny, że to był sen... Ale nie mogę sobie przypomnieć, co dokładnie się w nim stało..."
+msgstr ""
+"Ale jestem pewny, że to był sen... Ale nie mogę sobie przypomnieć, co "
+"dokładnie się w nim stało."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_fe4f044e"
 msgid "Je t'ai vu venir dans ma chambre en lingerie et... je me vois te raccompagner après ça..."
-msgstr "Pamiętam, że przyszłaś do mojego pokoju w samej bieliźnie i... Pamiętam, że potem odprowadziłem cię do twojego pokoju."
+msgstr ""
+"Pamiętam, że przyszłaś do mojego pokoju w samej bieliźnie i... Pamiętam, że "
+"potem odprowadziłem cię do twojego pokoju."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_6c848cff"
 msgid "Le trou noir total."
 msgstr "A po tym... Uhh, nie pamietam... Mam całkowitą pustkę."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_5fdf9c5f"
 msgid "Oh ! Je... Tu ne te souviens pas de la suite ?"
-msgstr "Oh! N-nie pamiętasz, co stało się później..?"
+msgstr "Oh! N-nie pamiętasz, co stało się później?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_b13e159a"
 msgid "Non... Après, je crois que le toit de ta chambre s'est ouvert et tu t'es envolé comme si tu pilotais ton lit comme un avion."
-msgstr "Nie... Po tym, wydaje mi się, że dach twojego pokoju się otworzył, a ty odleciałaś na swoim łóżku pilotując go jak samolot."
+msgstr ""
+"Nie... Po tym, wydaje mi się, że dach twojego pokoju się otworzył, a ty "
+"odleciałaś na swoim łóżku pilotując go jak samolot."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_1bf78d55"
 msgid "Effectivement, c'est... Un drôle de rêve..."
 msgstr "Rzeczywiście... Dziwny sen..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_34b15c01"
 msgid "Tu m'as fait une peur bleue, j'ai cru que j'avais...."
 msgstr "Przestraszyłeś mnie na śmierć! Myślałam, że..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_cd173feb"
 msgid "Que tu avais... quoi ?"
 msgstr "Że..?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_946c509c"
 msgid "Je dois te laisser, j'ai... à faire !"
 msgstr "M-muszę wyjść! M-mam... Mam kilka rzeczy do zrobienia!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_392bf5ff"
 msgid "Bon, elle semble avoir cru à mon mensonge..."
 msgstr "Ufff, chyba uwierzyła..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_d0c3468a"
 msgid "Désolé {{yasuka.n}}, mais je me souviens de tout."
 msgstr "Przepraszam {{yasuka.n}}... Ale pamiętam wszystko."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_d64fd862"
 msgid "Cette situation me rappelle quelque chose, mais je ne parviens pas à en souvenir."
 msgstr "Ta sytuacja coś mi przypomina, ale nie wiem co..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_7d03dbb5"
 msgid "Je deviens parano à force."
 msgstr "Chyba popadam w paranoję."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_f0f4a033"
 msgid "S'il s'agit d'une drogue, peut-être que {{kimochi.n}} en aurait entendue parler."
 msgstr "Jeśli to jakiś narkotyk, to może {{kimochi.n}} o nim słyszał?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_ff524161"
 msgid "Il aura peut-être des choses à m'apprendre."
 msgstr "Może mnie doinformuje."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_ede251e5"
 msgid "Elle serait déjà en train de dormir ?"
 msgstr "Czyżby już spała?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_8df197e8"
 msgid "Merde, je devrais peut-être aller voir dans sa chambre si tout va bien..."
 msgstr "Może powinienem sprawdzić, czy wszystko z nią w porządku..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_f8466675"
 msgid "{{yasuka.n}}, tu vas bien ?"
 msgstr "{{yasuka.n}} wszystko w porządku?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_43dc78c9"
 msgid "...Non, je voulais passer ma soirée et ma nuit avec toi, mais je dois aller travailler."
 msgstr "...Nie, chciałam spędzić z tobą całą noc, ale muszę iść do pracy."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_e1634ccc"
 msgid "Oh je... Oui, moi aussi, j'aurais préféré ça."
 msgstr "Ja też bym tego chciał..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_d0f40cdf"
 msgid "Mais tu sais quoi, j'ai une petite pause d'une heure dans ma soirée."
 msgstr "Ale wiesz co... Mam godzinną przerwę wieczorem."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_e62dcc9e"
 msgid "Je t'attendrai au Love Hotel !"
 msgstr "Będę na ciebie czekała w Hotelu Miłości!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_d3af3e61"
 msgid "Tu es certaine que..."
-msgstr "Jesteś pewna..?"
+msgstr "Jesteś pewna?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_b8d9cd1f"
 msgid "Tututu, je ne veux rien entendre d'autre !"
 msgstr "Shhhh! Nie chcę słyszeć nic więcej!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_14be3314"
 msgid "Rejoins-moi ce soir, nous n'aurons pas à nous inquiéter d'être vu ou entendu !"
 msgstr "Przyjdź do mnie, a nie będziemy musieli się niczym przejmować!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_9c6b4cac"
 msgid "Elle a raison, si je ne fais rien à la maison pendant un certain temps."
 msgstr "Ona ma rację. Jeśli przez jakiś czas nie będziemy robić nic w domu..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_a47145a1"
 msgid "Peut-être que {{sakuya.n}} se dira que tout va bien ?"
 msgstr "To może {{sakuya.n}} nie będzie niczego podejrzewała?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_ad545b5d"
 msgid "J'aurais juste à faire attention à ne pas être suivis."
 msgstr "Muszę tylko uważać, żeby nikt mnie nie śledził."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_84ab5327"
 msgid "Je te rejoindrai, c'est promis !"
 msgstr "Przyjdę! Obiecuję!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_e42d8709"
 msgid "J'ai hâte d'y être, à tout à l'heure mon chéri."
 msgstr "Nie mogę się już doczekać! Do zobaczenia później kochanie."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_fc469246"
 msgid "Il va me falloir redoubler de vigilance."
 msgstr "Będę musiał być bardzo ostrożny."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_7be848d3"
 msgid "Mais si je fais attention, il n'y a pas de raison que les choses dégénèrent."
 msgstr "Ale jeśli będę ostrożny, nie ma szans, żeby coś poszło nie tak."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_f88e0dcf"
 msgid "Je pense pas que partir maintenant soit une bonne idée."
-msgstr "Nie sądzę, żeby wyjście w tym momencie było dobrym pomysłem..."
+msgstr "Nie sądzę, żeby wyjście w tym momencie było dobrym pomysłem."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_eea59b22"
 msgid "Je suis certain que {{sakuya.n}} est là à dehors à me surveiller."
 msgstr "{{sakuya.n}} pewnie jest na zewnątrz i mnie obserwuje."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_c1f4e9be"
 msgid "Je devrais attendre dans la chambre et aller me coucher."
 msgstr "Powinienem pójść do swojego pokoju i się zdrzemnąć."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_7bf9ec23"
 msgid "Je sortirai en douce par la fenêtre pendant la nuit."
 msgstr "W nocy wymkne się przez okno."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_85fe00c0"
 msgid "Elle doit probablement être dans sa chambre..."
 msgstr "Prawdopodobnie jest w swojej sypialni..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_2e0008bd"
 msgid "Je te sers un thé ou autre chose ?"
 msgstr "Może zrobić ci herbaty?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_3d344136"
 msgid "Non merci, ça ira..."
 msgstr "Nie, nie... Nie trzeba."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_4efc3390"
 msgid "Donc... Tu es donc la dernière personne à avoir parlé à {{saito.n}} hier soir..."
-msgstr "No więc... To ty byłaś ostatnią osobą, która rozmawiała z {{saito.n}} zeszłej nocy..."
+msgstr ""
+"No więc... To ty byłaś ostatnią osobą, która rozmawiała z {{saito.n}} "
+"zeszłej nocy..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_de909dee"
 msgid "Il y a quelque chose qui sortait de l'ordinaire ?"
 msgstr "Zauważyłaś może coś dziwnego?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_6c24c501"
 msgid "Était-il comme d'habitude ?"
 msgstr "Zachowywał się tak jak zwykle?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_49ed57e4"
 msgid "... À vrai dire...[w] Je crois qu'il avait l'intention de mettre fin à notre relation."
-msgstr "Tak właściwie...[w] Wydaje mi się, że chciał zakończyć nasz związek..."
+msgstr "Tak właściwie...[w] Wydaje mi się, że chciał zakończyć nasz związek."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_39503e19"
 msgid "... À vrai dire...[w] Je crois qu'il avait l'intention de mettre fin à notre amitié."
-msgstr "Tak właściwie...[w] Wydaje mi się, że chciał zakończyć nasz związek..."
+msgstr "Tak właściwie...[w] Wydaje mi się, że chciał zakończyć nasz związek."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_59bd2637"
 msgid "Mais... Je me suis fâchée et je l'ai chassé de la maison avant qu'il ne puisse s'expliquer."
-msgstr "Ale... Wkurzyłam się i wyrzuciłam go z domu, zanim zdążył cokolwiek powiedzieć..."
+msgstr ""
+"Ale... Wkurzyłam się i wyrzuciłam go z domu, zanim zdążył cokolwiek "
+"powiedzieć."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_365c29ac"
 msgid "[font_size=14]Donc toi aussi...[/font_size]"
 msgstr "[font_size=14]Więc... Ty też...[/font_size]"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_18318dad"
 msgid "Vous avez dit quelque chose ?"
 msgstr "Mówiłaś coś?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_83ce23e6"
 msgid "Non non, je marmonnais, n'y fais pas attention."
-msgstr "Nie, nie... Mamrotałam tylko. Nie przejmuj się tym..."
+msgstr "Nie, nie... Mamrotałam tylko. Nie przejmuj się tym."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_faafc679"
 msgid "Avant de partir de la maison hier soir... Il semblait préoccupé."
 msgstr "Zanim wyszedł z domu. Wydawał się dość przejęty..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_fb0b492c"
 msgid "D'où ma suggestion qu'il avait probablement des ennuis."
-msgstr "To by sugerowało, że prawdopodobnie ma kłopoty..."
+msgstr "To by sugerowało, że prawdopodobnie ma kłopoty."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_906c03bb"
 msgid "Je... Je ne sais pas trop quoi en penser."
-msgstr "... Już nie wiem co myśleć."
+msgstr "Ja... Już nie wiem co myśleć."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_22f0d850"
 msgid "Ça ne fait qu'une journée."
 msgstr "Minął dopiero jeden dzień."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_c45226e2"
 msgid "Peut-être est-il avec quelqu'un d'autre ?"
-msgstr "Może jest z kimś innym..?"
+msgstr "Może jest z kimś innym?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_3d5f8dae"
 msgid "Et la fille en kimono ?"
 msgstr "A co z tą dziewczyną w kimonie?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_de3d0ba3"
 msgid "Comment ça la fille en kimono ? Elle est venue chez vous aussi ?"
 msgstr "Dziewczyną w kimonie? To ona też tutaj była?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_707592dd"
 msgid "Oh, mais oui, je l'avais oubliée, elle traînait souvent autour de la maison."
 msgstr "No tak, zapomniałam o niej. Spędzała dużo czasu kręcąc się wokół domu."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_7b95dc3b"
 msgid "Vous pensez qu'elle a un lien dans la disparition de {{saito.n}} ?"
 msgstr "Myślisz, że miała coś wspólnego ze zniknięciem {{saito.n}}?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_9ccb3876"
 msgid "Il serait parti pour une autre femme ?"
 msgstr "Myślisz, że odszedłby do innej kobiety?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_aeb5c3a9"
 msgid "... Je ne sais pas, je pense que le mieux serait de discuter avec cette fille."
 msgstr "...Nie wiem. Ale myślę, że najlepiej byłoby z nią porozmawiać."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_a43a6be3"
 msgid "{{asami.n}}, je suis certaine que {{saito.n}} t'aime de tout son cœur, et jamais il n'aurait agi ainsi sans avoir de raison valable."
-msgstr "Nie przejmuj się tak {{asami.n}}, jestem pewna, że {{saito.n}} kocha cię całym sercem i nigdy nie zachowałby się tak bez ważnego powodu."
+msgstr ""
+"Nie przejmuj się tak {{asami.n}}, jestem pewna, że {{saito.n}} kocha cię "
+"całym sercem i nigdy nie zachowałby się tak bez ważnego powodu."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_dac1642b"
 msgid "{{asami.n}}, je suis certaine que {{saito.n}} ne pensait pas du tout ce qu'il t'a dit... Il l'a sûrement fait pour une bonne raison."
-msgstr "Nie przejmuj się tak {{asami.n}}, jestem pewna, że {{saito.n}} wcale nie miał na myśli tego, co powiedział... Prawdopodobnie zrobił to z dobrego powodu."
+msgstr ""
+"Nie przejmuj się tak {{asami.n}}, jestem pewna, że {{saito.n}} wcale nie "
+"miał na myśli tego, co powiedział... Prawdopodobnie zrobił to z dobrego "
+"powodu."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_45c268fd"
 msgid "Vous croyez ?"
 msgstr "Tak myślisz?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_b7c124b3"
 msgid "J'en suis certaine !"
 msgstr "Jestem tego pewna!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_5819f641"
 msgid "Très bien, il ne reste qu'à trouver cette fille, peut-être qu'elle en saura davantage..."
-msgstr "No dobrze. Chyba musimy znaleźć tę dziewczynę, może ona będzie wiedziała coś więcej..."
+msgstr ""
+"No dobrze. Chyba musimy znaleźć tę dziewczynę, może ona będzie wiedziała coś "
+"więcej..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_5e84599c"
 msgid "Je l'accompagnerai !"
 msgstr "Pójdę z nią!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_d4a1cdae"
 msgid "Tu es sûre ma chérie ?"
 msgstr "Jesteś pewna kochanie?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_c41c3e98"
 msgid "Certaine !"
 msgstr "Tak!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_0a9b12e1"
 msgid "Ne perdons pas de temps."
 msgstr "Chodźmy, nie traćmy czasu."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_921f8009"
 msgid "Quoi, maintenant ? Là tout de suite ?"
 msgstr "Tak od razu?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_675c152d"
 msgid "Tu préfères attendre ?"
 msgstr "A na co chcesz czekać?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_b8938434"
 msgid "Non, tu as raison."
 msgstr "Masz rację... Chodźmy od razu!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_b482dfc3"
 msgid "Tenez-moi au courant... Je suis vraiment inquiète..."
 msgstr "Informujcie mnie na bieżąco... Bardzo się martwię..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_6b74626c"
 msgid "C'est promis !"
 msgstr "Obiecujemy!"
 
 #: game/story/home_asami_asami_room.dialogue
-#, fuzzy
 msgctxt "home_asami_asami_room_f555ad92"
 msgid "C'est promis !"
-msgstr "Obiecujemy!"
+msgstr "Obiecuję!"
 
 #: game/story/hostess_club_interior.dialogue
-#, fuzzy
 msgctxt "hostess_club_interior_b85f9f11"
 msgid "C'est promis !"
-msgstr "Obiecujemy!"
+msgstr "To obietnica!"
 
 #: game/story/home_player_exterior.dialogue
-#, fuzzy
 msgctxt "t76be4ff26e"
 msgid "C'est promis !"
-msgstr "Obiecujemy!"
+msgstr "Obietnica!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "t3e699fa5c9"
 msgid "Je ne ferais pas ça à ta place !"
 msgstr "Nie robiłabym tego na twoim miejscu!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_c320b570"
 msgid "... et toi, ta journée s'est bien passée ?"
 msgstr "...A tobie? Dobrze ci minął dzień?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_088567f7"
 msgid "Oui c'était génial, j'ai passé la journée avec {{asami.n}}."
 msgstr "Tak! Było świetnie! Cały dzień byłam z {{asami.n}}."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_bf463289"
 msgid "Je suis contente pour toi ma chérie, cette fille est adorable."
 msgstr "Cieszę się skarbie. Ta dziewczyna jest naprawdę urocza."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_759bad8b"
 msgid "Je suis sûre qu'elle aura une bonne influence sur toi."
 msgstr "Jestem pewna, że będzie miała na ciebie dobry wpływ!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_89040705"
 msgid "Tu dis ça comme si j'étais une délinquante..."
 msgstr "Mówisz tak, jakbym była jakimś przestępcą..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_4cce02f4"
 msgid "Avoue que tu n'as pas toujours été facile, je me trompe ?"
-msgstr "Ale musisz przyznać, że nie zawsze dało się z tobą łatwo dogadać, prawda?"
+msgstr ""
+"Ale musisz przyznać, że nie zawsze dało się z tobą łatwo dogadać, prawda?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_eedf9fba"
 msgid "... Je vais dans ma chambre !"
 msgstr "...Idę do siebie!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_02628536"
 msgid "Ahlala..."
 msgstr "Ojej..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_7176a644"
 msgid "Bonjour mon chéri, bien dormi ?"
-msgstr "Dzień dobry kochanie! Dobrze cie się spało?"
+msgstr "Dzień dobry kochanie! Dobrze ci się spało?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_649ac2b9"
 msgid "Ça va merci... Est-ce que {{noriko.n}} est levée ?"
-msgstr "Taak, dziękuję... A ten... A {{noriko.n}} już wstała?"
+msgstr "Tak, dziękuję... {{noriko.n}} już wstała?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_b8099094"
 msgid "Pour une fois elle était levée avant toi."
 msgstr "Tak, chyba w ogóle pierwszy raz przed tobą!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_6e116a1d"
 msgid "Elle a pris son argent de poche et est partie tôt ce matin."
 msgstr "Wzięła tylko swoje kieszonkowe i wyszła."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_5856191c"
 msgid "Elle est déjà partie ?"
 msgstr "Już poszła?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_6f2f17e4"
 msgid "Oui pourquoi, est-ce qu'il y a un problème ?"
 msgstr "Tak, a dlaczego pytasz? Coś nie tak?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_27601264"
 msgid "Non non, j'essaierai de la rattraper. Tu sais où elle allait ?"
-msgstr "Nie, nie, wszystko dobrze. Spróbuję ją dogonić. Wiesz może dokąd poszła?"
+msgstr ""
+"Nie, nie, wszystko dobrze. Spróbuję ją dogonić. Wiesz może dokąd poszła?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_8837d170"
 msgid "Elle a dit qu'elle rejoignait {{asami.n}} en ville pour une journée shopping avec elle."
-msgstr "Powiedziała, że ma się spotkać z {{asami.n}} w mieście, żeby pójść na zakupy."
+msgstr ""
+"Powiedziała, że ma się spotkać z {{asami.n}} w mieście, żeby pójść na zakupy."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_50213d89"
 msgid "Bordel, la voilà qui recommence ses magouilles."
 msgstr "Cholera, znowu zaczyna te swoje sztuczki."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_59fbc03a"
 msgid "Qu'est-ce qu'elle est en train de préparer ?"
 msgstr "Co ona knuje?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_7345d539"
 msgid "Tout se passe bien avec {{noriko.n}} ?"
 msgstr "Wszystko idzie dobrze z {{noriko.n}}?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_f99847aa"
 msgid "J'y travaille et je pense que nous verrons bientôt {{noriko.n}} sourire de nouveau."
-msgstr "Pracuję nad tym i myślę, że wkrótce znów zobaczymy naszą {{noriko.n}} z uśmiechem na buzi."
+msgstr ""
+"Pracuję nad tym i myślę, że wkrótce znów zobaczymy naszą {{noriko.n}} z "
+"uśmiechem na buzi."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_e2f6123a"
 msgid "Je savais bien que je pouvais compter sur toi."
 msgstr "Wiedziałam, że mogę na ciebie liczyć."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_dba3bf28"
 msgid "Mais fais attention à toi, ne crois pas pas que je ne vois pas tous ces bleus sur ton corps."
-msgstr "Ale proszę cię... Uważaj na siebie. Nie myśl sobie, że nie widziałam tych wszystkich siniaków..."
+msgstr ""
+"Ale proszę cię, uważaj na siebie. Nie myśl sobie, że nie widziałam tych "
+"wszystkich siniaków."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_7a23d7d2"
 msgid "Juste... sois prudent !"
 msgstr "Tylko... Bądź ostrożny!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_35f30c10"
 msgid "Je le serai !"
 msgstr "Będę!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_2bb6599a"
 msgid "Mon chéri... {{noriko.n}} a quitté la maison."
 msgstr "Kochanie... {{noriko.n}} wyszła z domu."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_0ecaa08f"
 msgid "On s'est disputées et elle est partie en claquant la porte."
 msgstr "Pokłóciliśmy się i wyszła."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_2cdfeb91"
 msgid "Partie ?! Depuis combien de temps ?"
 msgstr "Wyszła?! Jak dawno?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_7ccc98fa"
 msgid "Il y a plusieurs dizaines de minutes, je n'ai pas pu la retenir."
-msgstr "Kilkadziesiąt minut temu... Nie mogłam jej powstrzymać."
+msgstr "Kilkadziesiąt minut temu. Nie mogłam jej powstrzymać."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_18169932"
 msgid "Elle était dans ta chambre avec... ce garçon, il avait les cheveux longs."
 msgstr "Była w twoim pokoju z... Z tym chłopakiem, z długimi włosami."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_f985c24e"
 msgid "Je m'en veux tellement si tu savais... mais il avait l'air si..."
-msgstr "Nawet nie masz pojęcia, jak bardzo czuję się winna... Ale on wyglądał na takiego..."
+msgstr ""
+"Nawet nie masz pojęcia, jak bardzo czuję się winna... Ale on wyglądał na "
+"takiego..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_63a00d52"
 msgid "{{akira.n}} ! Non tu as bien réagi, ce type est un psychopathe."
 msgstr "{{akira.n}}! Właśnie dobrze zrobiłaś! Ten typ to totalny psychol!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_bc15dea5"
 msgid "Je vais la retrouver, il ne lui arrivera rien."
-msgstr "Znajdę ją! Nic się jej nie stanie!"
+msgstr "Znajdę ją! Nic się jej nie stanie."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_69d82c4d"
 msgid "Tu as une idée de l'endroit où elle pourrait être allée ?"
 msgstr "Wiesz może dokąd mogła pójść?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_74b78344"
 msgid "Je crois qu'il a parlé d'un hôtel en centre-ville..."
 msgstr "Wydaje mi się, że mówił coś o Hotelu w centrum..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_5185bb71"
 msgid "C'est probablement le love hotel !"
-msgstr "Hotel Miłości..!"
+msgstr "Chyba chodzi o hotel miłości!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_5f0d4639"
 msgid "Je t'en prie, empêche {{noriko.n}} de faire quelque chose qu'elle pourrait regretter !"
-msgstr "Proszę! Powstrzymaj {{noriko.n}} przed zrobieniem czegoś, czego będzie żałować!"
+msgstr ""
+"Proszę! Powstrzymaj {{noriko.n}} przed zrobieniem czegoś, czego będzie "
+"żałować!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_106ea3e2"
 msgid "Et fais attention à toi surtout, je ne supporterais pas s'il t'arrivait quelque chose à toi aussi."
-msgstr "I proszę cie, uważaj na siebie. Nie zniosłabym, gdyby tobie też coś się stało..."
+msgstr ""
+"I proszę cie, uważaj na siebie. Nie zniosłabym, gdyby tobie też coś się "
+"stało."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_5b475c98"
 msgid "Tout ira bien, je ne suis plus le même qu'avant."
 msgstr "Nic mi nie będzie, nie jestem już taki sam jak wcześniej."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_15500ec7"
 msgid "{{noriko.n}} ma chérie, je suis tellement désolée..."
 msgstr "{{noriko.n}} kochanie... Tak bardzo mi przykro..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_4cafc087"
 msgid "Je suis si heureuse que tu ailles bien."
 msgstr "Cieszę się, że nic ci nie jest."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_dc66d931"
 msgid "Mais... vous rentrez ensemble ?!"
 msgstr "Czy... Czy wy wróciliście razem?!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_ba7acfca"
 msgid "Oui maman ne t'inquiète plus, {{saito.n}} et moi avons enfin fait la paix."
 msgstr "Tak mamo! Nie martw się. {{saito.n}} i ja, w końcu się pogodziliśmy."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_b4839780"
 msgid "Je suis désolée d'avoir été aussi odieuse pendant toutes ces années."
-msgstr "Przepraszam, że przez te wszystkie lata byłam taka okropna..."
+msgstr "Przepraszam, że przez te wszystkie lata byłam taka okropna."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_60eab4e4"
 msgid "Mais... à partir d'aujourd'hui c'est terminé, tu vas retrouver la {{noriko.n}} qui souriait comme avant."
-msgstr "Ale... Od dzisiaj to koniec! Zobaczysz mnie uśmiechnętą, tak jak kiedyś."
+msgstr ""
+"Ale... od dziś to się kończy. Zobaczycie, że {{noriko.n}} uśmiecha się jak "
+"wcześniej."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_ac77c436"
 msgid "Mon dieu mes chéris... Je suis tellement heureuse !"
-msgstr "Kochani..! Jestem taka szczęśliwa!!"
+msgstr "Kochani... Jestem taka szczęśliwa!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_5187485a"
 msgid "Je me moque de savoir comment tout ça s'est produit... Ce qui m'intéresse maintenant c'est de savoir qu'on va pouvoir se serrer les coudes comme une vraie famille !"
-msgstr "Nie obchodzi mnie, jak do tego doszło... Teraz liczy się dla mnie tylko to, że będziemy mogli trzymać się razem! Jak prawdziwa rodzina!"
+msgstr ""
+"Nie obchodzi mnie, jak do tego doszło... Teraz liczy się dla mnie tylko to, "
+"że będziemy mogli trzymać się razem! Jak prawdziwa rodzina!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_ea13cfe7"
 msgid "Il faut fêter ça !"
 msgstr "Musimy to uczcić!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_bb6dbf5d"
 msgid "Quoi ?! Là ? Maintenant ? Tout de suite ?"
 msgstr "Co?! Teraz?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_f987f274"
 msgid "Ne sois pas rabat-joie, chaque bonne nouvelle devrait pouvoir être fêtée !"
 msgstr "Nie psuj zabawy! Wszystkie dobre wiadomości powinny być świętowane!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_47c426f7"
 msgid "Exactement {{saito.n}} ne sois pas rabat-joie !"
-msgstr "Dokładnie {{saito.n}}!"
+msgstr "Dokładnie {{saito.n}}! Nie bądź marudą!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_98b97b5c"
 msgid "C'est bon j'ai compris..."
 msgstr "No dobra, niech będzie..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_cd1e30cc"
 msgid "Je vais chercher quelque chose au konbini ?"
-msgstr "Co mam kupić?"
+msgstr "Coś mam na to kupić w sklepie?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_25eec42f"
 msgid "Non surtout pas, j'y vais ! Vous avez probablement plein de choses à vous dire et à rattraper."
 msgstr "Nie, nie trzeba! Ja pójdę! Wy pewnie macie wiele rzeczy do nadrobienia!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_d12e7a0b"
 msgid "Attendez-moi à la maison, je ne devrais pas en avoir pour plus d'une heure !"
 msgstr "Czekajcie na mnie! Za jakąś godzinę powinnam być spowrotem!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_1121ed67"
 msgid "C'est étrange de se retrouver ainsi devant la télé, comme si rien ne s'était jamais produit."
-msgstr "Trochę dziwnie jest tak siedzieć przed telewizorem, jak gdyby nigdy nic..."
+msgstr ""
+"Trochę dziwnie jest tak siedzieć przed telewizorem, jak gdyby nigdy nic."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_41628bc6"
 msgid "C'est probablement la première fois depuis des années que {{yasuka.n}} a été aussi heureuse."
-msgstr "To prawdopodobnie pierwszy raz od lat, kiedy {{yasuka.n}} jest taka szczęśliwa."
+msgstr ""
+"To prawdopodobnie pierwszy raz od lat, kiedy {{yasuka.n}} jest taka "
+"szczęśliwa."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_20d79a6b"
 msgid "À ce propos...[w] Tu as vraiment couché avec elle ?"
 msgstr "Skoro o tym mowa...[w] Naprawdę z nią spałeś?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "t7f573ad0d6"
 msgid "Ca fait combien de temps que tu couchais avec elle ?"
 msgstr "Jak długo z nią sypiasz?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_de0fb819"
 msgid "Je ne suis pas idiote...[w] Tu crois que je ne vous ai pas entendus la nuit dans ta chambre ?"
-msgstr "Nie jestem głupia...[w] Myślisz, że nie słyszałam was tamtej nocy w twoim pokoju?"
+msgstr ""
+"Nie jestem głupia...[w] Myślisz, że nie słyszałam was tamtej nocy w twoim "
+"pokoju?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_1382305a"
 msgid "Si tu le savais, pourquoi me le demander ?"
 msgstr "Skoro wiesz, to po co mnie pytasz?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_88e97b98"
 msgid "... Je voulais l'entendre de ta bouche."
 msgstr "...Chciałam usłyszeć to z twoich ust."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_6f2a9f74"
 msgid "... Oui, c'est arrivé plusieurs fois."
-msgstr "...Eh, no cóż tak... Zdarzyło się to kilka razy."
+msgstr "Tak... Zdarzyło się to kilka razy."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "t6dfe63f33a"
 msgid "Pauvre {{asami.n}}..."
 msgstr "Biedna {{asami.n}}..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "t79344e5734"
 msgid "Pourquoi tu dis ça ?"
 msgstr "Dlaczego tak mówisz?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "t9111b5deb3"
 msgid "...[w]Pour rien, t'es un cas désespéré."
 msgstr "...[w]To bez znaczenia, jesteś beznadziejnym przypadkiem."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_1fe8d940"
 msgid "Et {{asami.n}} est au courant ?"
 msgstr "A {{asami.n}} wie?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_766c09de"
 msgid "... Oui, aussi."
 msgstr "...Tak."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_83ddc671"
 msgid "Sérieux ?! Et elle laisse faire ?"
 msgstr "Poważnie?! I ona na to pozwala?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_d04df73b"
 msgid "Aussi incroyable que ça puisse paraître, oui."
 msgstr "Choć może się to wydawać niewiarygodne, ale tak."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_e44de8d1"
 msgid "Et je pense qu'en écoutant {{yasuka.n}} lui expliquer la raison pour laquelle on en est arrivés là..."
-msgstr "Wydaje mi się, że jak {{yasuka.n}} wyjaśniła {{asami.n}} powód, dla którego znaleźliśmy się w takiej sytuacji..."
+msgstr ""
+"I myślę, że wysłuchanie wyjaśnień {{yasuka.n}} pozwoli zrozumieć powód, dla "
+"którego znaleźliśmy się w takiej sytuacji..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_d6dcdb2c"
 msgid "Elle s'est probablement mise à sa place."
-msgstr "Prawdopodobnie była w stanie postawić się na jej miejscu..."
+msgstr "Prawdopodobnie była w stanie postawić się na jej miejscu."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_4141febb"
 msgid "Et l'autre folle ?"
 msgstr "A ta... Wariatka?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_9ed39083"
 msgid "{{sakuya.n}} ? Elle n'est pas folle..."
 msgstr "{{sakuya.n}}? Ona nie jest wariatką..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_81db9706"
 msgid "Elle est juste... très passionnée."
 msgstr "Jest po prostu... Taką trochę mocną pasjonatką."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_d4119381"
 msgid "Et moi ?"
-msgstr "A ja...?"
+msgstr "A ja?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_8cace5a2"
 msgid "Comment ça, toi ?"
 msgstr "Co masz na myśli?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_562b59b4"
 msgid "C'était comment de... coucher avec moi ?"
-msgstr "Jak było... Uprawiać ze mną seks?"
+msgstr "Jak to było... Uprawiać ze mną seks?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_f1868cc7"
 msgid "Est-ce vraiment une conversation que tu veux avoir ?"
 msgstr "Naprawdę chcesz prowadzić taką rozmowę?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_3a9562a6"
 msgid "Je veux savoir. Tu couches avec toutes les femmes autour de toi !"
-msgstr "Chcę wiedzieć... Sypiasz z każdą kobietą wokół ciebie!"
+msgstr "Chcę wiedzieć. Sypiasz z każdą kobietą wokół ciebie!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_027edc6f"
 msgid "Ne me dis pas que tu couches aussi avec la mère d'{{asami.n}} ?"
 msgstr "Nie mów mi, że sypiasz też z matką {{asami.n}}?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_2e0b7461"
 msgid "Quoi ?! Non, bien sûr que non !"
 msgstr "Co?! Nie! Oczywiście, że nie!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_0fb7578a"
 msgid "C'est elle la prochaine, c'est ça ?"
 msgstr "Ona jest następna? Zgadza się?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_a30a6352"
 msgid "T'es folle..."
 msgstr "Zwariowałaś..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_ead573fb"
 msgid "Laisse tomber. De toute façon, c'était une erreur."
 msgstr "Zapomnij o tym. To był błąd."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_6a35066c"
 msgid "Oh, que oui !"
 msgstr "O tak! Był!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_65d0f4dd"
 msgid "Toi et moi, ça ne se reproduira plus."
 msgstr "Ty i ja... To się więcej nie powtórzy."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_336e9fd5"
 msgid "Entièrement d'accord."
 msgstr "Pełna zgoda."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_89529c4b"
 msgid "En plus, ce n'était pas si agréable que ça."
-msgstr "Poza tym i tak nie było to zbyt przyjemne..."
+msgstr "Poza tym i tak nie było to zbyt przyjemne."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_c63d9825"
 msgid "Pff, tu crois que tu t'es mieux débrouillé ?"
 msgstr "Pfffff! Myślisz, że poszło ci lepiej?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_525a2e1e"
 msgid "...[w] Oui."
 msgstr "...[w] Tak."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_9cbd998e"
 msgid "Ah, tu veux jouer à ça !"
 msgstr "Ah, czyli tak chcesz się bawić?!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_34664b90"
 msgid "À poil et plus vite que ça !"
 msgstr "Rozbieraj się i to szybko!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_a6dc6e8a"
 msgid "Hein !?"
 msgstr "Co!?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_14b8c502"
 msgid "Wow doucement..."
-msgstr "Uspokój się..."
+msgstr "Wow, uspokój się..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_b6558012"
 msgid "Mmhhh laisse-moi faire... mhhhhh mhhh"
 msgstr "Mmhmm, pozwól mi prowadzić... Mmmm... Mmhmm"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_616c661b"
 msgid "{{yasuka.n}} pourrait rentrer à tout moment !"
 msgstr "{{yasuka.n}} może wrócić w każdej chwili!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_a6d5d579"
 msgid "... m'en fiche !"
 msgstr "...Nie obchodzi mnie to!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_11b72ba3"
 msgid "Je... ça fait longtemps... peut-être qu'il faudrait que..."
 msgstr "...Minęło już trochę czasu... Może powinniśmy..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_3e50ca57"
 msgid "Qu'on arrête ?"
 msgstr "Przestać?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_1ca04ffe"
 msgid "Mais j'ai pas envie !"
 msgstr "Nie chcę!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_b883ebf2"
 msgid "Ça tombe bien moi non plus."
 msgstr "Doskonale, ja też."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_f2773e9a"
 msgid "Aaaah... aaaah"
-msgstr "Aaaah... Aaaah..."
+msgstr "Aaaah... Aaaah"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_b3b34de5"
 msgid "Ne t'arrête pas !"
 msgstr "Nie przestawaj!"
 
 #: game/story/home_asami_asami_room.dialogue
-#, fuzzy
 msgctxt "home_asami_asami_room_38bbf4d6"
 msgid "Ne t'arrête pas !"
 msgstr "Nie przestawaj!"
 
 #: game/story/park.dialogue
-#, fuzzy
 msgctxt "doggystyle_again_96eb81aa"
 msgid "Ne t'arrête pas !"
 msgstr "Nie przestawaj!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_5609c0c6"
 msgid "Mmmmmh ouiiii !"
 msgstr "Hmmmm... Taaaak!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_f946afbe"
 msgid "Oh mon dieu c'est trop bon !"
 msgstr "O rany... Ahhh... Cudownie!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_51d1b869"
 msgid "Dis... Tu crois qu'on pourrait... essayer... ça ?"
-msgstr "Hej... Myślisz, że moglibyśmy... Spróbować... Tego..?"
+msgstr "Hej... Myślisz, że moglibyśmy... Spróbować... Tego?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_c9a4bcd3"
 msgid "Tu veux dire..."
 msgstr "Mówisz o..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_5ead300c"
 msgid "{{asami.n}} m'a dit que c'était pas si mal au final..."
 msgstr "{{asami.n}} mi mówiła... Że wcale nie było tak źle..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "t9b2146bda9"
 msgid "Ne m'oblige pas à le dire... Tu sais très bien de quoi je veux parler."
 msgstr "Nie każ mi tego mówić... Wiesz dokładnie, o czym mówię."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_2b66c7c0"
 msgid "Oh la vache c'est..."
 msgstr "Ohhh... To..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_ffa56726"
 msgid "Surprenant..."
 msgstr "Całkiem... Ahhhh... Niespodziewane..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_c05cd9f7"
 msgid "Tu as l'air vraiment inquiète."
 msgstr "Wyglądasz na zmartwionego."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_f7e4d9b1"
 msgid "[font_size=14]NON MAIS CA VA PAS LA TÊTE ?![/font_size]"
 msgstr "[font_size=14]CO DO CHOLERY JEST Z TOBĄ NIE TAK?![/font_size]"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_ef2765d9"
 msgid "[font_size=14]COMMENT TU PEUX METTRE QUELQU'UN EN DANGER COMME CA ?[/font_size]"
-msgstr "[font_size=14]JAK MOŻNA NARAŻAĆ KOGOŚ NA TAKIE NIEBEZPIECZEŃSTWO?[/font_size]"
+msgstr ""
+"[font_size=14]JAK MOŻNA NARAŻAĆ KOGOŚ NA TAKIE NIEBEZPIECZEŃSTWO?[/font_size]"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_dfd1856d"
 msgid "...Me dis pas qu'elles..."
 msgstr "...Nie mów mi, że..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_e9da8b43"
 msgid "Si... Elle se disputent depuis qu'elles sont arrivées."
 msgstr "Tak... Kłócą się odkąd wrócili."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_d1de9ee2"
 msgid "[font_size=14]JE SAIS CE QUE JE FAIS ![/font_size]"
 msgstr "[font_size=14]WIEM, CO ROBIĘ![/font_size]"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_90deb909"
 msgid "[font_size=14]IL A BESOIN DE CA ![/font_size]"
 msgstr "[font_size=14]ON TEGO POTRZEBUJE![/font_size]"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_fde9fbab"
 msgid "Je n'ose pas y aller, ça me fait mal de les voir comme ça alors qu'elles s'appréciaient tellement."
-msgstr "Nie odważę się tam pójść... Boli mnie widok ich w takim stanie, kiedy tak bardzo się lubili."
+msgstr ""
+"Nie odważę się tam pójść... Boli mnie widok ich w takim stanie, kiedy tak "
+"bardzo się lubili."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_07f37322"
 msgid "De plus je crois que tu es le sujet de leur dispute..."
-msgstr "Co więcej, wydaje mi się, że to przez ciebie się kłócą."
+msgstr "Co więcej, wydaje mi się, że to przez ciebie się kłócą..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_2fd7763f"
 msgid "Ne t'en fais pas je vais m'en occuper."
 msgstr "Nie martw się, zajmę się tym."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_cc8b750d"
 msgid "[font_size=14]Rejoins moi ![/font_size]"
 msgstr "[font_size=14]Przyłącz się do mnie![/font_size]"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_51b4dc79"
 msgid "Je veux bien mais où es-tu ?"
 msgstr "No dobrze, a gdzie jesteś?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_98127c6a"
 msgid "[font_size=14]Dans la chambre de maman ![/font_size]"
 msgstr "[font_size=14]W sypialni mamy![/font_size]"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_6cd29357"
 msgid "Oh... Je le sens mal."
-msgstr "Oh... Mam złe przeczucie..."
+msgstr "Oh... Mam złe przeczucie."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_5e0b7b17"
 msgid "Zut zut zut ! Si elle me voit ici je vais avoir des problèmes !"
 msgstr "Nie, nie, nie! Będę miał kłopoty, jeśli mnie tu znajdzie!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_605e7591"
 msgid "[font_size=14]Bonsoir mon chéri... {{noriko.n}} n'est pas avec toi ?[/font_size]"
-msgstr "[font_size=14]Dobry wieczór kochanie... Jest z tobą {{noriko.n}}?[/font_size]"
+msgstr ""
+"[font_size=14]Dobry wieczór kochanie... Jest z tobą {{noriko.n}}?[/font_size]"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_ac02c3f0"
 msgid "Allez {{saito.n}}... Peu importe ce que tu veux faire mais empêche-la de rentrer dans la chambre !"
-msgstr "Dalej {{saito.n}}... Nieważne, co będziesz musiał zrobić, po prostu zabierz ja stąd!"
+msgstr ""
+"Dalej {{saito.n}}... Nieważne, co będziesz musiał zrobić, po prostu zabierz "
+"ją stąd!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_2eef2eff"
 msgid "[font_size=14]Non... Je crois qu'elle était fatiguée[/font_size]"
 msgstr "[font_size=14]Nie... Myślę, że była zmęczona.[/font_size]"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_f1bd8145"
 msgid "Oui c'est bien ça comme excuse, c'est crédible, elle ne viendra pas vérifier !"
-msgstr "Tak, to dobra wymówka. Jest wiarygodna, więc nie przyjdzie i nie sprawdzi!"
+msgstr ""
+"Tak, to dobra wymówka. Jest wiarygodna, więc nie przyjdzie i nie sprawdzi!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_81a86cad"
 msgid "[font_size=14]Tu ne devais pas travailler au club ce soir ?[/font_size]"
 msgstr "[font_size=14]A ty nie miałaś dziś pracować w klubie?[/font_size]"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_41a10d77"
 msgid "[font_size=14]Si... mais finalement j'ai pu rentrer, problème de livraison d'alcool.[/font_size]"
-msgstr "[font_size=14]Miałam... Ale mogłam wrócić wcześniej. Mieliśmy małe problemy z dostawą alkoholu.[/font_size]"
+msgstr ""
+"[font_size=14]Miałam... Ale mogłam wrócić wcześniej. Mieliśmy małe problemy "
+"z dostawą alkoholu.[/font_size]"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_bb80618f"
 msgid "[font_size=14]Le problème à la boutique est réglé ?[/font_size]"
 msgstr "[font_size=14]A ten... A ze sklepem wszystko już dobrze?[/font_size]"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_e7785f83"
 msgid "[font_size=14]Une petite fuite d'eau, c'est bon à présent ![/font_size]"
-msgstr "[font_size=14]Taaak, już jest dobrze. To był tylko mały wyciek.[/font_size]"
+msgstr ""
+"[font_size=14]Tak, już jest dobrze. To był tylko mały wyciek.[/font_size]"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_c5b6905f"
 msgid "Allez ailleurs bon sang ! Je ne peux pas sortir si vous restez tous les deux dans le salon !"
-msgstr "Idź gdzie indziej na miłość boską! Nie wyjdę, jeśli oboje będziecie stać w salonie!"
+msgstr ""
+"Idź gdzie indziej na miłość boską! Nie wyjdę, jeśli oboje będziecie stać w "
+"salonie!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_412c8af5"
 msgid "[font_size=14]Étant donné que {{noriko.n}} est déjà en train de dormir... Et que tu es déjà dans la bonne tenue... Il ne te reste plus qu'à venir avec moi ![/font_size]"
-msgstr "[font_size=14]Skoro {{noriko.n}} już śpi... A ty jesteś rozebrany... Wszystko, co musisz zrobić, to pójść ze mną![/font_size]"
+msgstr ""
+"[font_size=14]Skoro {{noriko.n}} już śpi... A ty jesteś rozebrany... "
+"Wszystko, co musisz zrobić, to pójść ze mną![/font_size]"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_7f815e7f"
 msgid "Euh oui mais.... At-"
 msgstr "T-tak, ale... Zaczek-..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_b7f70ad9"
 msgid "Non non non non non!"
 msgstr "Nie, nie, nie, nie!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "home_player_livingroom_df9f0303"
 msgid "Une cachette vite !"
 msgstr "Kryjówka, szybko!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "tbae4d5efc7"
 msgid "...Il est vraiment reparti comme ça... Sans prévenir ?"
 msgstr "...Naprawdę odszedł w ten sposób... Nawet bez ostrzeżenia?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "t71128971aa"
 msgid "Ah toi aussi ça te choque, je ne suis pas folle, c'est..."
 msgstr "Ty też jesteś w szoku? Więc nie jestem szalona..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "t94d5259211"
 msgid "Oh bonjour {{saito.n}} !"
 msgstr "O cześć {{saito.n}}!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "te2186388a4"
 msgid "Désolé mon chéri, on t'a réveillé ?"
 msgstr "Przepraszam kochanie, obudziliśmy cię?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "t102709a3a7"
 msgid "Non non, j'allais juste courir au parc."
 msgstr "Nie, nie. I tak właśnie szedłem pobiegać do parku."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "t16525fde98"
 msgid "Toutefois je suis surpris que vous vous connaissiez ?"
 msgstr "Jestem całkiem zaskoczona, że się znacie."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "t4595aa5678"
 msgid "{{yasuka.n}} est une amie de longue date, on s'est un peu perdues de vue avec le temps, mais le fait que tu sois proche de ma fille a permis de nous rapprocher de nouveau."
-msgstr "{{yasuka.n}} jest moją starą przyjaciółką. Z czasem straciliśmy kontakt, ale fakt, że jesteś blisko mojej córki, ponownie nas do siebie zbliżył."
+msgstr ""
+"{{yasuka.n}} jest moją starą przyjaciółką. Z czasem straciliśmy kontakt, ale "
+"fakt, że jesteś blisko mojej córki, ponownie nas do siebie zbliżył."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "t0f71f4bd02"
 msgid "Je suis content pour vous deux dans ce cas."
 msgstr "W takim razie cieszę się razem z wami."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "t69685c5056"
 msgid "Je vous laisse continuer votre discussion, vous avez sûrement un millier de choses à vous raconter, ne faites pas attention à moi."
-msgstr "Dobra, to ja was zostawiam. Pewnie macie sobie dużo rzeczy do powiedzenia, nie zwracajcie na mnie uwagi."
+msgstr ""
+"Dobra, to ja was zostawiam. Pewnie macie sobie dużo rzeczy do powiedzenia, "
+"nie zwracajcie na mnie uwagi."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "td7fe5968d7"
 msgid "A plus tard."
 msgstr "Do zobaczenia!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "t72b23f76d7"
 msgid "Bon vous avez fini vos secrets tous les deux ?"
 msgstr "Skończyliście już dzielić się sekretami?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "t4c05b7754b"
 msgid "Je vois bien votre complicité."
 msgstr "Widzę, że się dogadujecie."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "t9a98a25721"
 msgid "[font_size=14]Invite la à sortir ![/font_size]"
 msgstr "[font_size=14]Umów się z nią![/font_size]"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "tb073f11752"
 msgid "Je me disais... Vu que tu as du temps libre en ce moment..."
 msgstr "Tak sobie pomyślałem... Skoro masz obecnie trochę wolnego czasu..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "t7f77fda481"
 msgid "Est-ce que ça te dirait que je t'emmène te changer les idées ?"
 msgstr "Może chciałabyś ze mną wyjść na miasto?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "tb2566d66e2"
 msgid "Tu es adorable {{saito.n}} mais ne te force pas, qu'est-ce que tu irais faire avec une vieille bique comme moi ?"
-msgstr "Jesteś przeuroczy {{saito.n}}... Ale nie zmuszaj się!!! Co byś robił z taką staruchą jak ja..?"
+msgstr ""
+"Jesteś przeuroczy {{saito.n}}... Ale nie zmuszaj się!!! Co byś robił z taką "
+"staruchą jak ja?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "ta3e3832288"
 msgid "On risquerait de me prendre pour ta mère."
-msgstr "Ludzie mogliby pomyśleć, że jestem twoją matką..."
+msgstr "Ludzie mogliby pomyśleć, że jestem twoją matką."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "t23009f53cf"
 msgid "Je n'y crois pas une seconde, au pire, on pourrait te prendre pour ma grande sœur !"
-msgstr "Nie wierzę w to ani przez sekundę! W najgorszym razie ludzie mogliby pomylić cię z moją starszą siostrą!"
+msgstr ""
+"Nie wierzę w to ani przez sekundę! W najgorszym razie ludzie mogliby pomylić "
+"cię z moją starszą siostrą!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "t18f2d777f6"
 msgid "{{yasuka.n}} c'est toi qui as élevé ce séducteur dangereux ?!"
 msgstr "{{yasuka.n}}! Czy to ty wychowałeś tego niebezpiecznego uwodziciela?!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "t54c731a429"
 msgid "Il faut toujours que tu en fasses des tonnes."
 msgstr "Zawsze robisz dużo zamieszania!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "tb8367f0ae9"
 msgid "Accepte donc la proposition !"
 msgstr "Po prostu zaakceptuj propozycję!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "tf9ace33443"
 msgid "Tu crois que je ne vois pas ce que tu es en train de faire ?"
 msgstr "Myślisz, że nie wiem co ty knujesz?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "t7d69c77a24"
 msgid "Mais j'accepte !"
 msgstr "Ale... Zgadzam się!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "ta8cce4653c"
 msgid "Il y a certes un peu de {{yasuka.n}} dans cette idée mais j'aimerais aussi beaucoup apprendre à connaître la mère de ma meilleure amie."
-msgstr "Z pewnością w ten pomysł jest trochę zaangażowania {{yasuka.n}}, ale chciałabym poznać matkę mojej najlepszej przyjaciółki."
+msgstr ""
+"Z pewnością w ten pomysł jest trochę zaangażowania {{yasuka.n}}, ale "
+"chciałabym poznać matkę mojej najlepszej przyjaciółki."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "te72542ea60"
 msgid "Il y a certes un peu de {{yasuka.n}} dans cette idée mais j'aimerais aussi beaucoup apprendre à connaître ma future belle-mère qui sait..."
-msgstr "Z pewnością w ten pomysł jest trochę zaangażowania {{yasuka.n}}, ale też bardzo chciałbym poznać moją przyszłą teściową..."
+msgstr ""
+"Z pewnością w ten pomysł jest trochę zaangażowania {{yasuka.n}}, ale też "
+"bardzo chciałbym poznać moją przyszłą teściową..."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "td0e143b5c8"
 msgid "Mon dieu mais quel gendre idéal tu fais !"
 msgstr "Matko, jaki z ciebie idealny przyszły zięć!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "teb12b3f350"
 msgid "Tu m'as convaincue, passe me chercher demain en début d'après midi."
 msgstr "Dobra! Przekonałeś mnie! Przyjdź po mnie jutro wczesnym popołudniem."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "t3de0ec8306"
 msgid "Ca marche !"
 msgstr "Dobrze!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "t36d9e66e3e"
 msgid "{{yasuka.n}} merci pour le thé et la discussion, je dois me... préparer."
-msgstr "{{yasuka.n}}, dziękuje za herbatę i rozmowę. Ale muszę już iść się... przygotować."
+msgstr ""
+"{{yasuka.n}}, dziękuje za herbatę i rozmowę. Ale muszę już iść się... "
+"przygotować."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "t268f9d5113"
 msgid "Oui je vois ce que tu veux dire, à bientôt !"
 msgstr "Nie ma za co, wiem co masz na myśli. Do zobaczenia!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "te128fc9855"
 msgid "Merci pour tout !"
 msgstr "Dziękuję za wszystko!"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "t8d09dad7fd"
 msgid "Merci mon chéri, je suis désolé de t'imposer cette situation."
-msgstr "Dziękuję skarbie. Przepraszam, że postawiłam cię w takiej sytuacji..."
+msgstr "Dziękuję skarbie. Przepraszam, że postawiłam cię w takiej sytuacji."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "J_ESP_RE_QUE_A_NE_TE_D_RANGE_P_39F924"
 msgid "J'espère que ça ne te dérange pas ?"
-msgstr ""
+msgstr "Mam nadzieję, że Ci to nie przeszkadza?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "JE_M_EN_VOUDRAIS_DE_CAUSER_DES_A361B6"
 msgid "Je m'en voudrais de causer des problèmes entre toi et {{asami.n}}."
-msgstr ""
+msgstr "Nie chcę stwarzać problemów między tobą a {{asami.n}}"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "JE_SUIS_CERTAIN_QU_ELLE_SERAIT_87D3ED"
 msgid "Je suis certain qu’elle serait contente que je m’occupe de sa mère."
-msgstr ""
+msgstr "Jestem pewien, że byłaby szczęśliwa, gdybym zaopiekował się jej matką."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "ET_PUIS_QU_EST_CE_QUI_POURRAIT_016D63"
 msgid "Et puis... qu'est-ce qui pourrait se passer de mal ?"
-msgstr ""
+msgstr "A potem... Co mogłoby pójść nie tak?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "MERCI_MON_CH_RI_TU_M_ENL_VES_V_50341E"
 msgid "Merci mon chéri, tu m'enlèves vraiment une épine du pied."
-msgstr ""
+msgstr "Dziękuję, kochanie. Naprawdę zdjąłeś mi ciężar z ramion."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "LA_VOIR_DANS_CET_TAT_ME_FAISAI_8D036D"
 msgid "La voir dans cet état me faisait bien trop de peine."
-msgstr ""
+msgstr "Widok jej w tym stanie był dla mnie niezwykle bolesny."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "TU_T_INQUI_TES_INUTILEMENT_TO_5A75D1"
 msgid "Tu t'inquiètes inutilement, tout ira bien"
-msgstr ""
+msgstr "Za dużo się martwisz. Wszystko będzie dobrze."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "MERCI_MON_CH_RI_JE_SUIS_D_SOL_5A36E1"
 msgid "Merci mon chéri ! Je suis désolée."
-msgstr ""
+msgstr "Dziękuję, kochanie! Przepraszam."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "JE_M_ENGAGE_EXPLIQUER_ASAMI_N_2A5395"
 msgid "Je m'engage à expliquer à {{asami.n}} que c’est moi qui t’ai imposé ça, c'est promis."
-msgstr ""
+msgstr "Obiecuję, że powiem {{asami.n}}, że to ja cię do tego zmusiłam."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "COMME_A_ELLE_N_AURA_PAS_DE_RAI_99DAB8"
 msgid "Comme ça elle n’aura pas de raison de t’en vouloir !"
-msgstr ""
+msgstr "W ten sposób nie będzie miała powodu, żeby być na ciebie zła!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "A_ME_MET_DANS_UNE_POSITION_D_78CFE4"
 msgid "Ça me met dans une position délicate mais je le ferai pour toi."
-msgstr ""
+msgstr "To stawia mnie w trudnej sytuacji, ale zrobię to dla ciebie."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "tfd42b6cec5"
 msgid "Tu ne m'imposes rien."
 msgstr "Nie przepraszaj, przed niczym złym mnie nie postawiłaś."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "tc5fdcabf4d"
 msgid "Ce n'est pas comme si j'avais mieux à faire en ce moment."
 msgstr "I tak nie mam teraz nic lepszego do roboty."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "t5febb6b6fb"
 msgid "Et puis, comme je l'ai dit, c'est l'occasion de mieux connaitre {{sayuri.n}}."
 msgstr "Jak już mówiłem, jest to dobra okazja żeby lepiej poznać {{sayuri.n}}."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "t2d57151eea"
 msgid "Tu as une idée de l'endroit où tu pourrais l'emmener ?"
 msgstr "Masz jakiś pomysł, gdzie mógłbyś ją zabrać?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "t38f342a204"
 msgid "Je ne sais pas encore... Je vais y réfléchir."
-msgstr "Jeszcze nie... Ale pomyślę o tym."
+msgstr "Jeszcze nie wiem... Ale pomyślę o tym."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "tfd9481d405"
 msgid "Des suggestions ?"
-msgstr "A może ty masz jakieś sugestie..?"
+msgstr "A może ty masz jakieś sugestie?"
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "t39103a58a1"
 msgid "Aucune j'en ai bien peur, ça fait bien trop longtemps."
-msgstr "Obawiam się, że nie... Minęło zbyt wiele czasu."
+msgstr "Obawiam się, że nie. Minęło zbyt wiele czasu."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "t4212b86433"
 msgid "Les seuls souvenirs que j'ai d'elle remontent à loin."
-msgstr "Jedyne wspomnienia, jakie z nią mam, sięgają daleko wstecz..."
+msgstr "Jedyne wspomnienia, jakie z nią mam, sięgają daleko wstecz."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "tc3220dc13e"
 msgid "Et à cette époque {{sayuri.n}} était assez folle."
 msgstr "W tamtym czasie {{sayuri.n}} była dosyć szalona."
 
 #: game/story/home_player_livingroom.dialogue
-#, fuzzy
 msgctxt "tb0cd9384a7"
 msgid "Bon et bien je vais me creuser les méninges pour trouver quelque chose avant demain."
-msgstr "No cóż, będę musiał wysilć swój mózg i coś do jutra wymyślę."
+msgstr "No cóż, będę musiał wysilć swój mózg i coś wymyśleć do jutra."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "IL_N_EST_TOUJOURS_PAS_RENTR_17BD7C"
 msgid "Il n'est toujours pas rentré ?"
-msgstr ""
+msgstr "Nadal nie wrócił?"
 
 #: game/story/home_player_hallway.dialogue
-#, fuzzy
 msgctxt "tf3c2e16ca6"
 msgid "Il n'est toujours pas rentré ?"
 msgstr "Wciąż nie wrócił?"
@@ -33827,45 +33315,46 @@ msgstr "Wciąż nie wrócił?"
 #: game/story/home_player_livingroom.dialogue
 msgctxt "JE_COMMENCE_VRAIMENT_M_INQUI_T_C8112E"
 msgid "Je commence vraiment à m'inquiéter pour lui..."
-msgstr ""
+msgstr "Naprawdę zaczynam się o niego martwić..."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "J_AI_PEUR_QU_IL_NE_FASSE_QUELQ_DEBD0D"
 msgid "J'ai peur qu'il ne fasse quelque chose qu'il puisse regretter."
-msgstr ""
+msgstr "Boję się, że może zrobić coś, czego będzie żałował."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "JE_JE_NE_SAIS_PAS_E2AD23"
 msgid "Je... je ne sais pas."
-msgstr ""
+msgstr "Nie wiem... Po prostu nie wiem."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "MA_CH_RIE_SI_TOI_AUSSI_TU_AS_B_9EB841"
 msgid "Ma chérie... Si toi aussi tu as besoin d'en discuter, n'oublie pas que je serai toujours là pour toi, d'accord ?"
 msgstr ""
+"Kochanie... Jeśli kiedykolwiek będziesz chciała o tym porozmawiać, nie "
+"zapomnij, że zawsze będę przy tobie, okej?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "OUI_MERCI_MAMAN_A663E7"
 msgid "Oui, merci maman."
-msgstr ""
+msgstr "Wiem, dziękuję mamo."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "OH_J_ENTENDS_DU_BRUIT_5E04A3"
 msgid "Oh, j'entends du bruit !"
-msgstr ""
+msgstr "Och, coś słyszę!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "OH_VOUS_TES_TOUTES_L_726528"
 msgid "Oh, vous êtes toutes là ?!"
-msgstr ""
+msgstr "O, jesteście tu wszyscy?!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "MON_CH_RI_TOUT_VA_BIEN_C31FF5"
 msgid "Mon chéri, tout va bien ?"
-msgstr ""
+msgstr "Kochanie, czy wszystko w porządku?"
 
 #: game/story/home_player_exterior.dialogue
-#, fuzzy
 msgctxt "home_player_exterior_fdb4f0c6"
 msgid "Mon chéri, tout va bien ?"
 msgstr "Kochanie, wszystko w porządku?"
@@ -33873,361 +33362,398 @@ msgstr "Kochanie, wszystko w porządku?"
 #: game/story/home_player_livingroom.dialogue
 msgctxt "LA_JOURN_E_A_T_FATIGANTE_64BF6D"
 msgid "La journée a été... fatigante..."
-msgstr ""
+msgstr "To był... męczący dzień..."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "J_AI_JUSTE_BESOIN_DE_REPOS_1192FB"
 msgid "J'ai juste besoin de repos."
-msgstr ""
+msgstr "Po prostu potrzebuję odpoczynku."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "JE_SUIS_L_SI_TU_V_C8AF83"
 msgid "Je suis là si tu v-"
-msgstr ""
+msgstr "Jestem tutaj, jeśli chcesz żeb-"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "S_IL_VOUS_PLA_T_SORTEZ_DE_MA_M_89522A"
 msgid "S’il vous plaît, sortez de ma maison !"
-msgstr ""
+msgstr "Proszę wyjść z mojego domu!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "MADAME_JE_SUIS_D_SOL_NOUS_AVON_0C4071"
 msgid "Madame, je suis désolé, nous avons un mandat et vous hébergez un meurtrier."
-msgstr ""
+msgstr "Proszę pani, przykro mi, ale mamy nakaz sądowy, a pani ukrywa mordercę."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "ARR_TEZ_DE_DIRE_DES_B_TISES_PA_E0F173"
 msgid "Arrêtez de dire des bêtises pareilles ! Ces accusations sont ridicules, et si vous faisiez votre travail correctement, vous le sauriez aussi."
 msgstr ""
+"Przestań opowiadać takie bzdury! Te oskarżenia są śmieszne i gdybyś "
+"wykonywał swoją pracę jak należy, też byś o tym wiedział."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "MADAME_MESUREZ_VOS_PAROLES_VOU_9FC4D3"
 msgid "Madame, mesurez vos paroles ! Vous êtes probablement en état de choc face à ce qui est en train d’arriver, mais nous avons des preuves irréfutables."
 msgstr ""
+"Proszę pani, proszę uważać na słowa! Pewnie jest pani w szoku, widząc, co "
+"się dzieje, ale mamy niezbite dowody."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "QUELLES_PREUVES_AVEZ_VOUS_J_AI_89F757"
 msgid "Quelles preuves avez-vous ?! J’aimerais bien voir ça !"
-msgstr ""
+msgstr "Jakie masz dowody?! Naprawdę chciałbym je zobaczyć!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "NOUS_AVONS_TROUV_DES_AFFAIRES_1AE4E4"
 msgid "Nous avons trouvé des affaires appartenant à la victime, avec du sang dessus."
-msgstr ""
+msgstr "Znaleźliśmy rzeczy należące do ofiary pokryte krwią."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "ET_BIEN_S_R_VOUS_NE_TROUVEZ_PA_6DBCC6"
 msgid "Et bien sûr, vous ne trouvez pas ça étrange qu’il ait gardé tout ça dans sa chambre sans s’en débarrasser ?"
 msgstr ""
+"Co? Czy to nie jest jeszcze bardziej podejrzane? Jaki morderca nie "
+"zniszczyłby dowodów, tylko trzymał je w swoim pokoju?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "MADAME_SI_VOUS_FAISIEZ_CE_M_TI_9D838B"
 msgid "Madame, si vous faisiez ce métier depuis aussi longtemps que moi, vous sauriez à quel point les jeunes de nos jours sont stupides."
 msgstr ""
+"Proszę pani, gdyby pani wykonywała tę pracę tak długo jak ja, wiedziałaby "
+"pani, jak głupie są dzisiejsze dzieciaki."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "TOUTES_LES_AFFAIRES_DE_LA_FILL_A7E1B5"
 msgid "Toutes les affaires de la fille étaient soigneusement cachées dans un sac à dos."
-msgstr ""
+msgstr "Wszystkie rzeczy dziewczyny zostały starannie ukryte w plecaku."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "VOUS_VOULEZ_PARLER_DE_CE_SAC_I_151CE7"
 msgid "Vous voulez parler de ce sac ? Il n’est même pas à lui ! C’est son ami {{minato.n}} qui le lui a rapporté, vous devriez plutôt l’interroger, lui !"
 msgstr ""
+"Chcesz rozmawiać o tej torbie? Ona nawet nie jest jego! To jego kumpel "
+"{{minato.n}} ją tu przyniósł; to jego powinieneś wypytać!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "DU_MOINS_SI_C_EST_VRAIMENT_VOT_3DA2E1"
 msgid "Du moins... si c’est vraiment votre intention..."
-msgstr ""
+msgstr "Albo... w ogóle nie miałeś zamiaru rozwiązać tej sprawy...?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "MADAME_JE_N_AIME_PAS_BEAUCOUP_2CB51A"
 msgid "Madame, je n’aime pas beaucoup vos insinuations."
-msgstr ""
+msgstr "Proszę pani, nie podobają mi się pani insynuacje."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "NOUS_ALLONS_PARTIR_MAIS_NOUS_L_36E6A3"
 msgid "Nous allons partir, mais nous laisserons un agent devant votre maison au cas où l’assassin d’{{asami.n}} viendrait prendre contact avec vous."
 msgstr ""
+"Wychodzimy, ale zostawimy agenta przed twoim domem na wypadek, gdyby zabójca "
+"{{asami.n}} próbował się z tobą skontaktować."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "DANS_CE_CAS_L_MERCI_DE_NOUS_CO_853FDF"
 msgid "Dans ce cas-là, merci de nous contacter rapidement !"
-msgstr ""
+msgstr "Jeżeli tak się zdarzy, prosimy o natychmiastowy kontakt!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "AUCUNE_CHANCE_SORTEZ_DE_CHEZ_M_5C4414"
 msgid "Aucune chance ! Sortez de chez moi !"
-msgstr ""
+msgstr "Nie ma mowy! Wynoś się z mojego domu!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "BONNE_JOURN_E_MADAME_4CBF2D"
 msgid "Bonne journée madame !"
-msgstr ""
+msgstr "Życzę miłego dnia, proszę pani!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "AAAAAHH_JE_N_AI_JAMAIS_EU_AUTA_04B639"
 msgid "Aaaaahh ! Je n’ai jamais eu autant envie de faire du mal à quelqu’un de ma vie !"
 msgstr ""
+"Aaaahh! Nigdy w życiu nie chciałam zrobić komuś krzywdy tak bardzo jak teraz!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "QU_EST_CE_QUI_S_EST_PASS_POURQ_534C5A"
 msgid "Qu'est-ce qui s'est passé ?! Pourquoi la police est à la recherche de {{saito.n}} ?"
-msgstr ""
+msgstr "Co do cholery się stało?! Dlaczego policja ściga {{saito.n}}?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "CE_N_EST_PAS_POSSIBLE_IL_EST_I_222487"
 msgid "Ce n'est pas possible, il est innocent, je te jure que je n'ai rien à voir avec ça !"
 msgstr ""
+"To niemożliwe! On jest niewinny. Przysięgam, że nie ma z tym nic wspólnego!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "NOUS_TIONS_M_ME_ENSEMBLE_LE_JO_1D806C"
 msgid "Nous étions même ensemble le jour où ma fille a été enlevée !"
-msgstr ""
+msgstr "Byliśmy razem nawet w dniu, kiedy porwano moją córkę!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "JE_SUIS_CERTAINE_QUE_LA_POLICE_6F1223"
 msgid "Je suis certaine que la police a fait une erreur, je vais aller les voir et tirer ça au clair et..."
-msgstr ""
+msgstr "Jestem pewna, że policja się myli. Pójdę do nich, wyjaśnię to i..."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "CALME_TOI_UN_PEU_JE_SAIS_BIEN_1033BF"
 msgid "Calme-toi un peu, je sais bien que tu n'y es pour rien."
-msgstr ""
+msgstr "Uspokój się trochę. Wiem, że to nie twoja wina."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "MAIS_SI_J_TAIS_TOI_JE_N_IRAIS_EABF35"
 msgid "Mais si j'étais toi, je n'irais pas voir la police."
-msgstr ""
+msgstr "Ale gdybym był tobą, nie poszedłbym na policję."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "QUOI_COMMENT_A_BAB138"
 msgid "Quoi ?! Comment ça ?"
-msgstr ""
+msgstr "Co?! Jak to?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "TOUT_A_FAIT_PARTIE_D_UNE_MISE_26286E"
 msgid "Tout ça fait partie d'une mise en scène pour couvrir quelque chose de bien plus gros, et j'ai bien peur que tout ça soit lié à l'enlèvement d'{{asami.n}}."
 msgstr ""
+"Wszystko to jest częścią planu mającego na celu ukrycie czegoś o wiele "
+"większego i obawiam się, że ma to związek z porwaniem {{asami.n}}."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "JE_SAVAIS_BIEN_QUE_CES_FLICS_0E535A"
 msgid "... Je savais bien que ces flics étaient louches depuis le début !"
-msgstr ""
+msgstr "Od początku wiedziałem, że ci policjanci są cholernie podejrzani!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "QUEL_POINT_CETTE_SITUATION_ES_4A226F"
 msgid "À quel point cette situation est-elle mauvaise ?"
-msgstr ""
+msgstr "Jak zła jest ta sytuacja?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "D_ABORD_ASSIEDS_TOI_ET_GARDE_L_76D46D"
 msgid "D'abord, assieds-toi et garde l'esprit ouvert, car tout ce que tu vas entendre à partir de maintenant est la vérité."
 msgstr ""
+"Po pierwsze, usiądź i zachowaj otwarty umysł, ponieważ wszystko, co od tej "
+"pory usłyszysz, jest prawdą."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "A_RISQUE_AUSSI_DE_DEVENIR_DAN_CBE59C"
 msgid "Ça risque aussi de devenir dangereux pour toi, tu es certaine de le vouloir ?"
 msgstr ""
+"To również może być dla Ciebie niebezpieczne. Czy na pewno chcesz to zrobić?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "JE_VEUX_TOUT_SAVOIR_E28D76"
 msgid "Je veux tout savoir !"
-msgstr ""
+msgstr "Chcę wiedzieć wszystko!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "TR_S_BIEN_ALORS_W_PARLONS_DU_X_BAD890"
 msgid "Très bien alors...[w] Parlons du X3."
-msgstr ""
+msgstr "No dobrze... [w] Porozmawiajmy o X3."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "TU_PARLES_DE_L_INSCRIPTION_SUR_7F162C"
 msgid "Tu parles de l'inscription sur les photos de ma fille ? Tu sais ce que ça veut dire ?"
-msgstr ""
+msgstr "Mówisz o tym napisie na zdjęciach mojej córki? Wiesz, co on oznacza?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "MALHEUREUSEMENT_OUI_IL_S_AGIT_C58A4B"
 msgid "Malheureusement oui... Il s'agit de..."
-msgstr ""
+msgstr "Niestety tak... Chodzi o..."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "YASUKA_N_RACONTE_SAYURI_N_TOU_773C69"
 msgid "{{yasuka.n}} raconte à {{sayuri.n}} tout ce qu'elle a appris auprès de {{noriko.n}} et tout ce qui s'est passé dernièrement."
 msgstr ""
+"{{yasuka.n}} opowiada {{sayuri.n}} wszystko, czego dowiedziała się od "
+"{{noriko.n}} i wszystko, co wydarzyło się ostatnio."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "BORDEL_DE_MERDE_LAISSE_MOI_ALL_6F2449"
 msgid "Bordel de merde, laisse-moi aller castrer cette espèce de petit bâtard !"
-msgstr ""
+msgstr "Kurwa, pozwólcie mi wykastrować tego małego drania!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "JE_VAIS_ALLER_LUI_R_GLER_SON_C_169792"
 msgid "Je vais aller lui régler son compte moi-même."
-msgstr ""
+msgstr "Rozprawię się z nim sama."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "RESTE_ASSISE_JE_NE_T_AI_PAS_RA_55CAA7"
 msgid "Reste assise, je ne t'ai pas raconté ça pour que tu te mettes en danger inutilement."
 msgstr ""
+"Siedź spokojnie, powiedziałam ci to nie po to, żebyś narażała się na "
+"niepotrzebne niebezpieczeństwo."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "ON_NE_PEUT_PAS_S_EXPOSER_OUVER_54628C"
 msgid "On ne peut pas s'exposer ouvertement ou leur faire comprendre qu'on est au courant de leurs manigances, nous devons agir discrètement !"
 msgstr ""
+"Nie możemy stracić czujności, a już na pewno nie możemy dać im do "
+"zrozumienia, że znamy ich plan. Musimy udawać, że wciąż nic nie wiemy!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "MAMAN_IL_Y_A_LA_POLICE_DEVANT_6FE996"
 msgid "Maman ! Il y a la police devant la maison !"
-msgstr ""
+msgstr "Mamo! Policja jest przed domem!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "DE_PIRE_EN_PIRE_FA24C2"
 msgid "De pire en pire..."
-msgstr ""
+msgstr "Sytuacja staje się coraz gorsza..."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "VOTRE_TH_EST_VRAIMENT_D_LICIEU_5D151B"
 msgid "Votre thé est vraiment délicieux."
-msgstr ""
+msgstr "Twoja herbata jest naprawdę pyszna."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "QU_EST_CE_QUE_TU_VEUX_73F2B7"
 msgid "Qu’est-ce que tu veux ?"
-msgstr ""
+msgstr "Czego chcesz?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "JE_SAIS_PERTINEMMENT_CE_QUE_VO_0BDBB7"
 msgid "Je sais pertinemment ce que vous ressentez pour {{saito.n}}. Vous ne pourrez pas me mentir là-dessus."
-msgstr ""
+msgstr "Wiem, co czujesz do {{saito.n}}. Nie uda ci się mnie omamić."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "ET_NE_ME_PARLEZ_PAS_D_UN_AMOUR_1D0256"
 msgid "Et ne me parlez pas d’un amour filial, cela va bien au-delà."
-msgstr ""
+msgstr "I nie mów mi o miłości synowskiej, bo to coś o wiele więcej."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "JE_DEVRAIS_PEUT_TRE_VOUS_LAISS_1C9F69"
 msgid "Je devrais peut-être vous laisser..."
-msgstr ""
+msgstr "Może muszę cię teraz zostawić w spokoju..."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "NON_TU_ES_TOUT_AUSSI_CONCERN_E_080E7F"
 msgid "Non ! Tu es tout aussi concernée."
-msgstr ""
+msgstr "Nie! To dotyczy też ciebie!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "VOUS_ME_PENSEZ_ASSEZ_STUPIDE_P_B63980"
 msgid "Vous me pensez assez stupide pour ne pas voir ce que vous avez fait avec lui, toutes les deux ?"
 msgstr ""
+"Myślisz, że jestem tak głupia, że nie widziałam, czym wy dwaj z nim się "
+"zajmowaliście?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "J_AI_PASS_BEAUCOUP_DE_TEMPS_VO_E8AE4F"
 msgid "J’ai passé beaucoup de temps à vous observer. Vous souhaitez toutes rester à ses côtés, mais aucune d’entre vous n’a la volonté d’agir et de faire ce qui est nécessaire le moment venu."
 msgstr ""
+"Spędziłam mnóstwo czasu, obserwując was. Wszyscy chcecie być z nim, ale nikt "
+"z was nie ma ochoty działać i robić tego, co trzeba, kiedy przychodzi czas."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "QU_EST_CE_QUE_TU_INSINUES_EST_8109DA"
 msgid "Qu’est-ce que tu insinues ? Est-ce que tu essaies de nous intimider ?"
-msgstr ""
+msgstr "Co sugerujesz? Próbujesz nas zastraszyć?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "W_VOTRE_REMARQUE_EST_TOUT_FAI_A464E1"
 msgid "...[w] Votre remarque est tout à fait déplaisante. Vous vous méprenez..."
-msgstr ""
+msgstr "...[w]Co za nieprzyjemna uwaga. Mylisz się..."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "IL_NE_S_AGIT_EN_AUCUN_CAS_D_IN_6C9344"
 msgid "Il ne s’agit en aucun cas d’intimidation, mais plutôt d’un avertissement."
-msgstr ""
+msgstr "Nie jest to w żadnym razie próba zastraszenia, lecz raczej ostrzeżenie."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "C_EST_LA_M_ME_CHOSE_E1AE40"
 msgid "C’est la même chose !"
-msgstr ""
+msgstr "To przecież to samo!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "JE_VOUS_TOL_RE_UNIQUEMENT_PAR_2655CD"
 msgid "Je vous tolère uniquement par amour pour {{saito.n}}, mais ma patience a des limites."
 msgstr ""
+"Toleruję cię tylko z miłości do {{saito.n}}, ale moja cierpliwość ma swoje "
+"granice."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "SI_VOUS_D_SIREZ_VOUS_TENIR_SES_59E3F6"
 msgid "Si vous désirez vous tenir à ses côtés, montrez-vous dignes et ne vous comportez pas comme des parasites."
 msgstr ""
+"Jeśli chcecie być u jego boku, okażcie się tego godni i nie zachowujcie się "
+"jak pasożyty."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "JE_REFUSE_DE_PARTAGER_MON_FUTU_F4A7FE"
 msgid "Je refuse de partager mon futur mari avec des femmes qui ne méritent pas mon respect."
 msgstr ""
+"Nie zamierzam dzielić się swoim przyszłym mężem z kobietami, które nie "
+"zasługują na mój szacunek."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "SUR_CE_MERCI_POUR_CET_EXCELLEN_C9CFA8"
 msgid "Sur ce... Merci pour cet excellent thé, je vous souhaite une bonne journée."
-msgstr ""
+msgstr "Na tym zakończę... Dziękuję za wyśmienitą herbatę i życzę miłego dnia."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "BON_BON_BON_0700D3"
 msgid "Bon... bon... bon..."
-msgstr ""
+msgstr "Proszę... proszę... proszę..."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "JE_CROIS_QUE_J_AI_UN_TRUC_FAIR_94508A"
 msgid "Je crois que j’ai un truc à faire dans ma chambre."
-msgstr ""
+msgstr "Chyba muszę coś zrobić w swoim pokoju."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "JE_VAIS_DEVOIR_1819E1"
 msgid "Je vais devoir..."
-msgstr ""
+msgstr "Ja muszę..."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "JE_CROIS_QUE_NOUS_DEVONS_AVOIR_B600A5"
 msgid "Je crois que nous devons avoir une discussion, toi et moi !"
-msgstr ""
+msgstr "Myślę, że musimy porozmawiać, Ty i ja!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "MAMAN_JE_NE_SUIS_PAS_CERTAINE_1FF9C5"
 msgid "Maman... je ne suis pas certaine d’en avoir envie."
-msgstr ""
+msgstr "Mamo... Nie jestem pewna, czy chcę."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "SURTOUT_S_IL_S_AGIT_DE_DISCUTE_399294"
 msgid "Surtout s’il s’agit de discuter de ça !"
-msgstr ""
+msgstr "Zwłaszcza jeśli chodzi o dyskusję na ten temat!"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "OH_QUE_SI_TU_VAS_POSER_TES_FES_7A0736"
 msgid "Oh que si ! Tu vas poser tes fesses sur ce canapé et me raconter tout ce que tu fais dans mon dos avec {{saito.n}}."
 msgstr ""
+"Och, właśnie że tak! Posadzisz swój tyłek na tej kanapie i opowiesz mi "
+"wszystko, czym ty i {{saito.n}} zajmowaliście się za moimi plecami."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "IL_Y_A_VISIBLEMENT_DES_CHOSES_3CD7DA"
 msgid "Il y a visiblement des choses que j’ignore et dont cette fille est pourtant au courant."
 msgstr ""
+"Oczywiste jest, że są rzeczy, o których ja nie wiem, a o których skądś wie "
+"ta dziewucha."
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "QUELLE_RELATION_ENTRETIENS_TU_838B0A"
 msgid "Quelle relation entretiens-tu exactement avec lui ?"
-msgstr ""
+msgstr "Jakie dokładnie relacje cię z nim łączą?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "AVEZ_VOUS_COUCH_ENSEMBLE_8317A3"
 msgid "Avez-vous couché ensemble ?"
-msgstr ""
+msgstr "Spaliście razem?"
 
 #: game/story/home_player_livingroom.dialogue
 msgctxt "MAMAN_662D2B"
 msgid "Maman !!!"
-msgstr ""
+msgstr "Mamo!!!!"
 
 #: game/story/konbini_interior.dialogue
-#, fuzzy
 msgctxt "konbini_interior_92a3063d"
 msgid "Maman !!!"
 msgstr "Maaaamooo!!!"
 
 #: game/story/konbini_interior.dialogue
-#, fuzzy
 msgctxt "menu_sayuri_konbini_c22fe00a"
 msgid "Bonjour {{saito}}, tu as besoin de quelque chose ?"
 msgstr "Cześć {{saito}}! Potrzebujesz czegoś?"
@@ -49164,55 +48690,50 @@ msgid "Seconde chance..."
 msgstr "Dostać drugą szansę..."
 
 #: game/story/introduction.dialogue
-#, fuzzy
 msgctxt "intro_a6ea1d5e"
 msgid "Que... ?!"
 msgstr "Co..?!"
 
 #: game/story/introduction.dialogue
-#, fuzzy
 msgctxt "intro_a0515f23"
 msgid "Je suis passé de l'autre côté ?"
-msgstr "Przeszedłem na drugą stronę..?"
+msgstr "Przeszedłem na drugą stronę?"
 
 #: game/story/introduction.dialogue
-#, fuzzy
 msgctxt "intro_eb611788"
 msgid "Pourquoi je me sens si léger tout à coup ?"
 msgstr "Dlaczego czuję się tak lekko?"
 
 #: game/story/introduction.dialogue
-#, fuzzy
 msgctxt "intro_df734961"
 msgid "Je suis vraiment revenu d'entre les morts ?"
-msgstr "Naprawdę powróciłem z martwych..?"
+msgstr "Naprawdę powróciłem z martwych?"
 
 #: game/story/introduction.dialogue
-#, fuzzy
 msgctxt "intro_c88c9ee8"
 msgid "Tout ça n'était finalement qu'un cauchemar ?"
 msgstr "To wszystko było tylko... Koszmarem?"
 
 #: game/story/introduction.dialogue
-#, fuzzy
 msgctxt "intro_27c94c37"
 msgid "Je me souviens d'absolument tout..."
-msgstr "Ale pamiętam absolutnie wszystko..."
+msgstr "Ale pamiętam absolutnie wszystko."
 
 #: game/story/introduction.dialogue
-#, fuzzy
 msgctxt "intro_06f6289c"
 msgid "Si tout cela est vrai... Je dois tout faire pour changer mon destin !"
-msgstr "Jeśli to prawda... Muszę zrobić wszystko, żeby zmienić swoje przeznaczenie!"
+msgstr ""
+"Jeśli to wszystko było prawdą... Muszę zrobić wszystko, żeby zmienić swoje "
+"przeznaczenie!"
 
 #: game/story/introduction.dialogue
-#, fuzzy
 msgctxt "intro_233b5a64"
 msgid "Cette vie supplémentaire ne doit absolument pas être gâchée !"
-msgstr "Nie mogę zmarnować drugiej szansy!"
+msgstr ""
+"Nie mogę zmarnować drugiej szansy! (((Wszelkie błędy w tłumaczeniu zachęcam "
+"zgłaszać na discordzie, w podkanale z naszym językiem)))"
 
 #: game/story/introduction.dialogue
-#, fuzzy
 msgctxt "home_player_room_1ecd72f2"
 msgid "...Ah ma tête..."
 msgstr "Ahh... Moja głowa..."
@@ -49257,16 +48778,14 @@ msgid "Et me voilà à nouveau au début de la vingtaine..."
 msgstr ""
 
 #: game/story/introduction.dialogue
-#, fuzzy
 msgctxt "home_player_room_28cdf783"
 msgid "Putain, c'est complètement dingue !"
 msgstr "Co tu się do diabła dzieje?!"
 
 #: game/story/introduction.dialogue
-#, fuzzy
 msgctxt "home_player_room_fe515dce"
 msgid "En quelle année sommes-nous ?"
-msgstr "Który mamy rok..?"
+msgstr "Który mamy rok?"
 
 #: game/story/introduction.dialogue
 #, fuzzy
