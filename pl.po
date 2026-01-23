@@ -112,8 +112,8 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-12-18 09:45+0100\n"
-"PO-Revision-Date: 2026-01-23 14:33+0000\n"
-"Last-Translator: John doe <kedod29099@buides.com>\n"
+"PO-Revision-Date: 2026-01-23 18:22+0000\n"
+"Last-Translator: Paweł Mat <pawel_mati@interia.pl>\n"
 "Language-Team: Polish <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/pl/>\n"
 "Language: pl\n"
@@ -39358,13 +39358,11 @@ msgid "Je vais te laisser, je dois aller travailler."
 msgstr "Muszę już iść... Praca wzywa."
 
 #: game/story/restaurant_interior.dialogue
-#, fuzzy
 msgctxt "talk_sakuya_0aa8ce66"
 msgid "À plus tard !"
 msgstr "Do zobaczenia!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_d772d9ce"
 msgid "À plus tard !"
 msgstr "Do zobaczenia!"
@@ -39634,19 +39632,16 @@ msgid "Je serais sévère avec toi."
 msgstr "Będę dla ciebie surowy!"
 
 #: game/story/restaurant_interior.dialogue
-#, fuzzy
 msgctxt "talk_chef_interior_df2b48ae"
 msgid "...Okay."
 msgstr "...Dobrze."
 
 #: game/story/restaurant_interior.dialogue
-#, fuzzy
 msgctxt "restaurant_interior_a879ab89"
 msgid "...Okay."
 msgstr "...Dobrze."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_5bc1f7ae"
 msgid "...Okay."
 msgstr "...W porządku."
@@ -48594,7 +48589,6 @@ msgid "Mon cul !"
 msgstr ""
 
 #: game/story/introduction.dialogue
-#, fuzzy
 msgctxt "intro_90fcefcc"
 msgid "Je ne sais plus à quel moment les choses sont devenues incontrôlables."
 msgstr "Nie pamiętam, w którym momencie sprawy wymknęły się spod kontroli."
@@ -48612,22 +48606,21 @@ msgid "Ma faible constitution[w], les séjours à l'hôpital à répétition[w],
 msgstr "Słabe zdrowie[w], wielokrotne pobyty w szpitalu,[w] choroby,[w] samotność..."
 
 #: game/story/introduction.dialogue
-#, fuzzy
 msgctxt "intro_0ada2bb6"
 msgid "J'ai toujours été le souffre-douleur de service."
 msgstr "Zawsze byłem prześladowany..."
 
 #: game/story/introduction.dialogue
-#, fuzzy
 msgctxt "intro_233de029"
 msgid "Déjà... Dès l'enfance."
 msgstr "Wykorzystywany..."
 
 #: game/story/introduction.dialogue
-#, fuzzy
 msgctxt "intro_80305fc4"
 msgid "Je n'étais rien... Un personnage qu'on ne regardait pas... Un simple figurant dans ma propre existence..."
-msgstr "Maltretowany..."
+msgstr ""
+"Byłem nikim... Postacią, której nikt nie zauważał... Zwykłym statystą w moim "
+"własnym życiu..."
 
 #: game/story/introduction.dialogue
 #, fuzzy
@@ -48636,55 +48629,46 @@ msgid "Exploité tout au long de sa vie."
 msgstr "Odkąd pamiętam."
 
 #: game/story/introduction.dialogue
-#, fuzzy
 msgctxt "intro_0a865c4d"
 msgid "Je n'ai jamais voulu de cette vie !"
 msgstr "Nigdy nie chciałem takiego życia!"
 
 #: game/story/introduction.dialogue
-#, fuzzy
 msgctxt "intro_562bbe14"
 msgid "Je n'ai jamais pu fonder de famille..."
 msgstr "Nie mam rodziny..."
 
 #: game/story/introduction.dialogue
-#, fuzzy
 msgctxt "intro_3f5da8bf"
 msgid "Je n'ai personne qui se souviendra de moi..."
-msgstr "Nie mam nikogo, kto by mnie pamiętał..."
+msgstr "Nikogo, kto by mnie pamiętał..."
 
 #: game/story/introduction.dialogue
-#, fuzzy
 msgctxt "intro_bf9b219b"
 msgid "Personne ne me regrettera..."
 msgstr "Nikt nie będzie za mną tęsknił..."
 
 #: game/story/introduction.dialogue
-#, fuzzy
 msgctxt "intro_a2840a4c"
 msgid "S'il vous plaît... Que quelqu'un m'aide..."
 msgstr "Proszę... Niech mi ktoś pomoże..."
 
 #: game/story/introduction.dialogue
-#, fuzzy
 msgctxt "intro_eda20439"
 msgid "N'importe qui... Dieu... Satan... Peu importe !"
 msgstr "Ktokolwiek... Bóg... Szatan... To nie ma znaczenia!"
 
 #: game/story/introduction.dialogue
-#, fuzzy
 msgctxt "intro_9c78c287"
 msgid "Je ne veux pas partir comme ça..."
 msgstr "Nie chcę umrzeć w ten sposób!"
 
 #: game/story/introduction.dialogue
-#, fuzzy
 msgctxt "intro_a49290a7"
 msgid "Je voudrais juste une..."
 msgstr "Chciałbym tylko..."
 
 #: game/story/introduction.dialogue
-#, fuzzy
 msgctxt "intro_19efcd11"
 msgid "Seconde chance..."
 msgstr "Dostać drugą szansę..."
@@ -48784,16 +48768,14 @@ msgid "En quelle année sommes-nous ?"
 msgstr "Który mamy rok?"
 
 #: game/story/introduction.dialogue
-#, fuzzy
 msgctxt "home_player_room_7a7db3e9"
 msgid "PUTAIN, {{year}} !"
-msgstr "CHOLERA"
+msgstr "ŻE CO? {{year}}!?"
 
 #: game/story/introduction.dialogue
-#, fuzzy
 msgctxt "home_player_room_0bde6d77"
 msgid "...Et visiblement... C'est le premier jour des grandes vacances !"
-msgstr "Wygląda na to, że dziś jest pierwszy dzień wakacji!"
+msgstr "I najwyraźniej... jest pierwszy dzień wakacji!"
 
 #: game/story/introduction.dialogue
 #, fuzzy
@@ -48808,124 +48790,117 @@ msgid "J'ai encore tous mes souvenirs de ce qu'il va se passer ensuite."
 msgstr "Wciąż pamiętam, co wydarzy się później."
 
 #: game/story/introduction.dialogue
-#, fuzzy
 msgctxt "home_player_room_a32414fc"
 msgid "Mais... Ça veut dire que rien ne s'est encore produit ?!"
-msgstr "Ale jeśli cofnąłem się w czasie... Czy to znaczy, że nic się jeszcze nie wydarzyło?!"
+msgstr ""
+"Ale jeśli cofnąłem się w czasie... Czy to znaczy, że nic się jeszcze nie "
+"wydarzyło?!"
 
 #: game/story/introduction.dialogue
-#, fuzzy
 msgctxt "home_player_room_8b60f437"
 msgid "Avec ma connaissance de tous les évènements futurs, je devrais pouvoir m'en sortir."
-msgstr "Z moją wiedzą o wszystkich przyszłych wydarzeniach, mogę zmienić moją przyszłość."
+msgstr ""
+"Z moją wiedzą o wszystkich przyszłych wydarzeniach, mogę zmienić moją "
+"przyszłość."
 
 #: game/story/introduction.dialogue
-#, fuzzy
 msgctxt "home_player_room_f6315ef6"
 msgid "YEAAAAAAAH !!!"
 msgstr "TAAAAAAAAAK!"
 
 #: game/story/introduction.dialogue
-#, fuzzy
 msgctxt "home_player_room_284a0088"
 msgid "[font_size=20]Mon chéri, tout va bien ? Tu as fait un cauchemar ?[/font_size]"
 msgstr "[font_size=20]Wszystko w porządku kochanie? Miałeś koszmar?[/font_size]"
 
 #: game/story/introduction.dialogue
-#, fuzzy
 msgctxt "home_player_room_0e6fe023"
 msgid "{{yasuka.n}} ?![w] Elle est encore là !?"
 msgstr "{{yasuka.n}}?![w] Ona wciąż żyje?!"
 
 #: game/story/introduction.dialogue
-#, fuzzy
 msgctxt "home_player_room_1676875a"
 msgid "Euh... Oui, désolé {{yasuka.n}}, j'arrive dans quelques minutes !"
 msgstr "T-tak... Przepraszam {{yasuka.n}}! Za chwilę będę na dole!"
 
 #: game/story/introduction.dialogue
-#, fuzzy
 msgctxt "home_player_room_582e02dd"
 msgid "Merde alors, tout ça est complètement dingue !"
 msgstr "O rany! Nawet nie wiem co powiedzieć!"
 
 #: game/story/introduction.dialogue
-#, fuzzy
 msgctxt "home_player_room_8f735fee"
 msgid "Par où commencer ?"
 msgstr "Od czego mam zacząć?"
 
 #: game/story/introduction.dialogue
-#, fuzzy
 msgctxt "home_player_room_8130fdbe"
 msgid "Si je ne fais rien, l'histoire va se répéter et je vais me faire victimiser toute ma vie..."
-msgstr "Jeśli nic nie zrobię, historia się powtórzy i znowu będę ofiarą do końca życia..."
+msgstr ""
+"Jeśli nic nie zrobię, historia się powtórzy i znowu będę ofiarą do końca "
+"życia..."
 
 #: game/story/introduction.dialogue
-#, fuzzy
 msgctxt "home_player_room_e51fb514"
 msgid "Voyons voir... La fac, ça va être chaud pour moi. Je dois absolument apprendre à me défendre."
-msgstr "Pomyślmy...  Studia będą dla mnie ciężkie. Muszę nauczyć się bronić."
+msgstr "Pomyślmy... Studia będą dla mnie ciężkie. Muszę nauczyć się bronić."
 
 #: game/story/introduction.dialogue
-#, fuzzy
 msgctxt "home_player_room_c59d19d3"
 msgid "Je devrais faire un tour au dojo du quartier, je crois savoir qu'il était assez réputé."
-msgstr "Powinienem rzucić okiem na lokalne dojo, myślę, że było dość sławne."
+msgstr "Powinienem rzucić okiem na lokalne dojo, kojarzę, że było dość sławne."
 
 #: game/story/introduction.dialogue
-#, fuzzy
 msgctxt "home_player_room_8b69be5f"
 msgid "Ensuite, il me faut des fonds ! Dans mon rêve, j'ai toujours galéré à finir les mois."
-msgstr "I potrzebuję więcej pieniędzy... W moim 'śnie' zawsze z trudem wiązałem koniec z końcem."
+msgstr ""
+"I potrzebuję więcej pieniędzy... W moim 'śnie' zawsze z trudem wiązałem "
+"koniec z końcem."
 
 #: game/story/introduction.dialogue
-#, fuzzy
 msgctxt "home_player_room_8253a51d"
 msgid "Autant commencer par un petit boulot déjà, en plus ça couvrira les frais du dojo."
-msgstr "Jakaś dorywcza praca mogłaby bardzo pomóć. Mogłaby też pokryć opłaty za Dojo."
+msgstr ""
+"Jakaś dorywcza praca mogłaby bardzo pomóć. Mogłaby też pokryć opłaty za Dojo."
 
 #: game/story/introduction.dialogue
-#, fuzzy
 msgctxt "home_player_room_a27ae41b"
 msgid "En parallèle, je peux aller courir au parc. Si je peux améliorer ce corps de lâche dès le début et devenir énorme et sec, ça m'évitera qu'il tombe en ruine dans quelques années !"
-msgstr "I mogę też zacząć ćwiczyć w parku! Jeśli uda mi się pozbyć tego słabego ciała i stać się silnym i szczupłym, opłaci mi się to na dłuższą metę."
+msgstr ""
+"I mogę też zacząć ćwiczyć w parku! Jeśli uda mi się pozbyć tego słabego "
+"ciała i stać się silnym i szczupłym, opłaci mi się to na dłuższą metę."
 
 #: game/story/introduction.dialogue
-#, fuzzy
 msgctxt "home_player_room_f1292cba"
 msgid "Je ne sais pas encore trop pourquoi j'ai ce retour d'expérience..."
 msgstr "Nadal nie rozumiem, dlaczego doświadczyłem czegoś takiego, ale..."
 
 #: game/story/introduction.dialogue
-#, fuzzy
 msgctxt "home_player_room_a0988271"
 msgid "Peut-être que mes prières ont été exaucées ?"
 msgstr "Może moje modlitwy zostały wysłuchane?"
 
 #: game/story/introduction.dialogue
-#, fuzzy
 msgctxt "home_player_room_4717fd3f"
 msgid "...si c'est le cas, j'espère que le prix à payer ne sera pas trop lourd."
 msgstr "...Jeśli tak, to mam nadzieję, że cena nie będzie zbyt wysoka."
 
 #: game/story/introduction.dialogue
-#, fuzzy
 msgctxt "home_player_room_f900935d"
 msgid "Mais je compte bien en profiter un maximum !"
 msgstr "Ale zamierzam wykorzystać to jak najlepiej!"
 
 #: game/story/introduction.dialogue
-#, fuzzy
 msgctxt "home_player_room_5acfcd5f"
 msgid "Donc pour résumer..."
 msgstr "Podsumowując..."
 
 #: game/story/introduction.dialogue
-#, fuzzy
 msgctxt "home_player_room_86db6b79"
 msgid "D'abord le [color=yellow]parc[/color], ensuite le [color=yellow]restaurant[/color] et enfin le [color=yellow]dojo[/color] !"
-msgstr "Najpierwo [color=yellow]park[/color], potem [color=yellow]restauracja[/color], a na końcu [color=yellow]dojo[/color]!"
+msgstr ""
+"Najpierw [color=yellow]park[/color], potem [color=yellow]restauracja[/color]"
+", a na końcu [color=yellow]dojo[/color]!"
 
 #: game/story/dojo_exterior.dialogue
 #, fuzzy
@@ -49030,19 +49005,16 @@ msgid "Visiblement, c'était le plus petit modèle..."
 msgstr "Jaki rozmiar? Mały czy bardzo mały?"
 
 #: game/story/dojo_exterior.dialogue
-#, fuzzy
 msgctxt "t159a8a0f00"
 msgid "Qu'est-ce que tu me veux ?"
 msgstr "Czego ode mnie chcesz?"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_c78c394d"
 msgid "Qu'est-ce que tu me veux ?"
 msgstr "Czego ode mnie chcesz?"
 
 #: game/story/coffeebar_exterior.dialogue
-#, fuzzy
 msgctxt "talk_ubs_48d4f489"
 msgid "Qu'est-ce que tu me veux ?"
 msgstr "Czego ode mnie chcesz?"
@@ -56787,25 +56759,23 @@ msgid "Allez, c’est plié. Je rentre chez moi."
 msgstr ""
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_70f3029f"
 msgid "Je suis occupée, donc si tu n'as rien d'autre à me dire, sort de ma chambre !"
-msgstr "Jestem zajęta, więc jeśli nie masz nic więcej do powiedzenia, wynoś się z mojego pokoju!"
+msgstr ""
+"Jestem zajęta, więc jeśli nie masz nic więcej do powiedzenia, wynoś się z "
+"mojego pokoju!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_a2482878"
 msgid "Qu'est-ce que tu veux... ?"
 msgstr "Czego chcesz..?"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_2af12181"
 msgid "Sort de ma chambre, sale chien !"
 msgstr "Wynoś się z mojego pokoju psie!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "t50ecbe9562"
 msgid "Il est tard, mieux vaut que je la laisse dormir."
 msgstr "Jest późno, lepiej pozwolę jej spać."
@@ -57116,55 +57086,47 @@ msgid "T'ES VRAIMENT UN PUTAIN DE CONNARD !"
 msgstr "JESTEŚ JEBANYM DUPKIEM!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "pc_noriko_7c415df9"
 msgid "Et merde ! Pris en flag, ça pouvait pas tomber plus mal..."
-msgstr "Cholera! Złapany na gorącym uczynku, nie mogła przyjść w gorszym momencie..."
+msgstr ""
+"Cholera! Złapany na gorącym uczynku, nie mogła przyjść w gorszym momencie..."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "pc_noriko_b355c7c6"
 msgid "Désolé... Vraiment !"
 msgstr "Przepraszam za to... Naprawdę!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "pc_noriko_95378fb1"
 msgid "T'ES DÉSOLÉ ?! TU CROIS QUE CA VA SUFFIRE ?"
 msgstr "PRZEPRASZASZ?! MYŚLISZ, ŻE TO WYSTARCZY?"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "pc_noriko_8cb036f5"
 msgid "Non... Je..."
 msgstr "Nie... Ja..."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "pc_noriko_2189f730"
 msgid "Comment je peux me faire pardonner ?"
 msgstr "Jak mogę ci to wynagrodzić?"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "pc_noriko_bdd910de"
 msgid "...[font_size=14]à genoux[/font_size]"
 msgstr "...[font_size=14]Na kolana![/font_size]"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "pc_noriko_9302ef11"
 msgid "Quoi ? Mais..."
 msgstr "Co..?"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "pc_noriko_cd1ef043"
 msgid "J'ai dit..."
 msgstr "Powiedziałam..."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "pc_noriko_34e61ed7"
 msgid "À GENOUX !"
 msgstr "NA KOLANA!"
@@ -57175,121 +57137,104 @@ msgid "Outch !"
 msgstr "Au!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "pc_noriko_dae92ccc"
 msgid "Tu vas devoir comprendre, qu'ici..."
 msgstr "Myślę, że nadszedł czas, żebyś zrozumiał, że w tym domu..."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "pc_noriko_5c7d1578"
 msgid "Tu n'es..."
 msgstr "Jesteś..."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "pc_noriko_25d2851c"
 msgid "rien de plus qu'un..."
 msgstr "Niczym więcej, niż..."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "pc_noriko_7ab81800"
 msgid "...misérable."
-msgstr "...Nędznym,"
+msgstr "...nędznym,"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "pc_noriko_657a7a37"
 msgid "Putain de..."
-msgstr "Pieprzonym..."
+msgstr "pieprzonym..."
 
 #: game/story/restaurant_sakuya_room.dialogue
-#, fuzzy
 msgctxt "restaurant_sakuya_room_41e4f970"
 msgid "Putain de..."
 msgstr "Jasna cholera..."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "pc_noriko_569d390a"
 msgid "CLÉBARD !"
 msgstr "PSEM!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "pc_noriko_3e20ec33"
 msgid "Arrête ça... !"
 msgstr "Przestań..!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "pc_noriko_78450098"
 msgid "Chuuut, pas un mot, ni maintenant, ni jamais."
 msgstr "Nie dałam ci pozwolenia na szczekanie psie!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "pc_noriko_bebcd775"
 msgid "Dorénavant, tu m'obéiras au doigt et à l'œil..."
 msgstr "Od teraz będziesz mi posłuszny, jasne? Jeśli mówię, ty słuchasz."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "pc_noriko_ce8f4e97"
 msgid "Et si je refuse ?"
 msgstr "A jeśli odmówię?"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "pc_noriko_b2f72d90"
 msgid "J'irai voir maman et lui dirais que tu m'as violé plusieurs fois dans mon enfance."
 msgstr "Pójdę do mamy i powiem jej, że mnie zgwałciłeś kilka razy."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "pc_noriko_4ef9bc25"
 msgid "Quoi ?! Mais j'ai jam... !"
 msgstr "Co?! Ale ja nigdy..!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "pc_noriko_e17c6ce8"
 msgid "TU OBÉIRAS !"
 msgstr "[i]Chyba że...[/i] Będziesz mi posłuszny."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "pc_noriko_b3183e43"
 msgid "Parfait ! Maintenant dégage de ma chambre !"
 msgstr "Doskonale! A teraz wynoś się z mojego pokoju piesku! Jestem zajęta."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "pc_noriko_e100ab91"
 msgid "Maman te l'a emprunté. Je ne touche pas à tes affaires, j'ai pas envie de choper le cancer !"
-msgstr "Mama go od ciebie pożyczyła, ja nie ruszam twoich rzeczy. Nie chcę dostać raka!"
+msgstr ""
+"Mama go od ciebie pożyczyła, ja nie ruszam twoich rzeczy. Nie chcę dostać "
+"raka!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "pc_noriko_29621d39"
 msgid "Merde... Mais qu'est-ce qui vient de se passer ?!"
 msgstr "Co to do cholery było?"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "pc_noriko_acd28135"
 msgid "Je savais qu'elle était odieuse, mais pas qu'elle avait un côté sadique."
-msgstr "Wiedziałem, że jest nieprzyjemna, ale nie wiedziałem, że jest taką sadystką."
+msgstr ""
+"Wiedziałem, że jest nieprzyjemna, ale nie wiedziałem, że jest taką sadystką."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "pc_noriko_025cac24"
 msgid "Je me suis bien fait baiser la gueule, j'avais oublié ce chantage..."
 msgstr "A teraz..."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "pc_noriko_2b81833a"
 msgid "Je suis coincé à obéir à tous ses caprices !"
 msgstr "Muszę spełniać każdą jej zachciankę!"
@@ -57315,28 +57260,26 @@ msgid "Il me faut une idée et vite..."
 msgstr "Potrzebuje planu, szybko..."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "pc_noriko_4b35a18b"
 msgid "Je vais tenter quelque chose..."
 msgstr "Spróbujmy..."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "pc_noriko_e0cc54b7"
 msgid "Je ne sais plus quoi faire avec toi {{noriko.n}} !"
 msgstr "Nie wiem już, co mam z tobą zrobić {{noriko.n}}!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "pc_noriko_52971ce2"
 msgid "Tu abuses de ma patience depuis bien trop longtemps."
 msgstr "Zbyt długo wystawiasz moją cierpliwość na próbę."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "pc_noriko_6150a6d5"
 msgid "Je ne sais pas pourquoi tu ne me prends pas au sérieux, mais ça va changer..."
-msgstr "Nie wiem, dlaczego nigdy nie traktujesz mnie poważnie... Ale myślę, że możemy to naprawić..."
+msgstr ""
+"Nie wiem, dlaczego nigdy nie traktujesz mnie poważnie... Ale myślę, że "
+"możemy to naprawić..."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "pc_noriko_102ef7ee"
@@ -57349,7 +57292,6 @@ msgid "...[w] Tu as peut-être besoin que je joigne les actes à la parole ?"
 msgstr "...[w] Może słowa to dla Ciebie za mało..."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "pc_noriko_666b9ce6"
 msgid "Si tu aimes ce genre de chose, peut-être qu'on peut trouver une sorte d'arrangement ?"
 msgstr "Jeśli lubisz takie rzeczy, to może dojdziemy do jakiegoś porozumienia?"
@@ -57360,13 +57302,11 @@ msgid "J'aurais peut-être dû t'accorder plus d'attention..."
 msgstr "Mogę dać Ci więcej... uwagi."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "pc_noriko_850db9ee"
 msgid "Arrête... Je..."
 msgstr "Przestań... Ja..."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "pc_noriko_df83df6a"
 msgid "Je ne te savais pas aussi vicieuse !"
 msgstr "Nigdy nie sądziłem, że jesteś taka niegrzeczna!"
@@ -57377,7 +57317,6 @@ msgid "Ah..."
 msgstr "Ah..."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "pc_noriko_67bc1bbf"
 msgid "À partir de maintenant, tu vas arrêter de me prendre pour ton esclave."
 msgstr "Od teraz należysz do mnie."
@@ -57393,10 +57332,10 @@ msgid "Est-ce que je me suis bien fait comprendre cette fois-ci ?"
 msgstr "{{noriko.n}}, czy wyrażam się jasno?"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "pc_noriko_e2cb7a2e"
 msgid "Finalement... Je vais finir par croire que c'était ce que tu voulais depuis le début..."
-msgstr "Dobra dziewczynka. Zaczynam myśleć, że tego właśnie chciałaś..."
+msgstr ""
+"Dobra dziewczynka. Zaczynam myśleć, że tego właśnie chciałaś od dawna..."
 
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "pc_noriko_03f06f03"
@@ -57404,7 +57343,6 @@ msgid "Où est le baladeur {{noriko.n}} !?"
 msgstr "Gdzie mój Walkman, {{noriko.n}}?"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "pc_noriko_cefb0a59"
 msgid "C'est maman qui t'a emprunté le baladeur, pas moi..."
 msgstr "To mama pożyczyła twojego Walkmana, nie ja..."
@@ -57415,307 +57353,266 @@ msgid "Tu vois ? Tu aurais dû commencer par ça dès le début."
 msgstr "Widzisz? Powinnaś od tego zacząć."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "pc_noriko_3b23c22d"
 msgid "Putain de bordel de merde !"
 msgstr "Jasna cholera!"
 
 #: game/story/hostess_club_exterior.dialogue
-#, fuzzy
 msgctxt "hostess_club_exterior_8a556faa"
 msgid "Putain de bordel de merde !"
-msgstr "Jasna cholera!"
+msgstr "O kurwa mać!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "pc_noriko_901d3cde"
 msgid "Je ne sais pas ce qui m'a pris, mais visiblement, je m'en suis sorti vivant..."
 msgstr "Nie wiem, co we mnie wstąpiło, ale zadziałało..."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "pc_noriko_0a80aabf"
 msgid "Ma relation avec ma chère {{noriko.n}} devrait évoluer d'une bien étrange façon..."
 msgstr "Relacje z moją drogą {{noriko.n}} z pewnością przybiorą dziwny obrót..."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "pc_noriko_a4dc08cc"
 msgid "J'espère que tout ça aura suffi... J'ai vraiment pris de trop gros risques cette fois-ci !"
 msgstr "Mam nadzieję, że to wystarczy... Tym razem naprawdę dużo ryzykowałem!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "pc_noriko_1b354464"
 msgid "Toutes ces conneries ont fini par m'exciter..."
 msgstr "A na dodatek to wszystko jeszcze mnie podnieciło..."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "pc_noriko_8a9a83e4"
 msgid "Bref..."
 msgstr "W każdym razie..."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "pc_noriko_3bf75143"
 msgid "Allons voir {{yasuka.n}} pour ce foutu baladeur CD !"
 msgstr "Chodźmy do {{yasuka.n}} po tego cholernego Walkmana!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "home_player_noriko_room_b9b10a29"
 msgid "HEY ! T'AS RIEN À FAIRE DANS MA CHAMBRE !"
 msgstr "HEJ! CO TY ROBISZ W MOIM POKOJU!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "home_player_noriko_room_41613f0d"
 msgid "Arrête ça, tu sais très bien pourquoi je suis là !"
 msgstr "Zamknij się. Doskonale wiesz, dlaczego tu jestem!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "home_player_noriko_room_bd8a548e"
 msgid "Je t'ai déjà prévenu plusieurs fois."
 msgstr "Ostrzegałam cię dziś rano, że jeśli jeszcze raz mi podskoczysz..."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "home_player_noriko_room_453dbe3a"
 msgid "Et je t'ai déjà dit que si tu recommençais, j'allais m'occuper de toi."
 msgstr "To się tobą zajmę."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "home_player_noriko_room_8ee5c0d0"
 msgid "Tu crois que tu me fais peur ?"
 msgstr "Przestań, nie boję się ciebie."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "home_player_noriko_room_85be0407"
 msgid "Pose à peine un doigt sur moi et tu peux être sûr que j'irais voir maman et lui dirais que tu m'as violé par le passé !"
-msgstr "Połóż na mnie choć palec, a możesz być pewien, że pójdę do mamy i powiem jej, że zgwałciłeś mnie w przeszłości!"
+msgstr ""
+"Połóż na mnie choć palec, a możesz być pewien, że pójdę do mamy i powiem "
+"jej, że zgwałciłeś mnie w przeszłości!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "home_player_noriko_room_7ffd9815"
 msgid "Nous y voilà..."
 msgstr "Zaczynamy..."
 
 #: game/story/home_minato_exterior.dialogue
-#, fuzzy
 msgctxt "home_minato_exterior_0178f77f"
 msgid "Nous y voilà..."
 msgstr "Zaczynamy..."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "home_player_noriko_room_8c087e43"
 msgid "J'ai bien la preuve que ce n'était pas qu'un simple rêve."
-msgstr "Mam dowód, że to nie był tylko sen."
+msgstr "Mam dowód, że to nie był tylko sen..."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "home_player_noriko_room_6c7476b4"
 msgid "Tout ce que j'ai vécu s'est réellement produit !"
 msgstr "Wszystko, czego doświadczyłem, wydarzyło się naprawdę!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "home_player_noriko_room_f0f3b580"
 msgid "Je dois sortir mon meilleur jeu d'acteur."
 msgstr "Muszę dać z siebie wszystko."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "home_player_noriko_room_547cf7f2"
 msgid "Et faire en sorte de révéler toute sa vraie personnalité."
 msgstr "W końcu pokaże swoje prawdziwe oblicze."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "home_player_noriko_room_d6aa7458"
 msgid "Mais... T'es complètement folle ?!"
-msgstr "Oszalałaś?!"
+msgstr "Co... czy ty w ogóle jesteś przy zdrowych zmysłach?!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "home_player_noriko_room_db77f6fb"
 msgid "Tu sais très bien que j'ai jamais fait un truc pareil !"
 msgstr "Dobrze wiesz, że nigdy czegoś takiego nie zrobiłem!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "home_player_noriko_room_0b5ed9e7"
 msgid "{{yasuka.n}} ne croira jamais un mensonge pareil !"
 msgstr "{{yasuka.n}} nigdy by nie uwierzyła w takie kłamstwo!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "home_player_noriko_room_61aada6b"
 msgid "Pfff... Peu importe si c'est pas la vérité !"
 msgstr "Pfff... To nie ma znaczenia, czy to prawda czy nie!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "home_player_noriko_room_94f22c85"
 msgid "Maman croira tout ce que je lui dirai !"
 msgstr "Mama uwierzy we wszystko, co jej powiem!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "home_player_noriko_room_22afa39e"
 msgid "Surtout si je lui dis qu'on a fait du mal à sa petite chérie..."
 msgstr "Zwłaszcza jeśli powiem jej, że skrzywdziłeś jej ukochaną córeczkę..."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "home_player_noriko_room_a4668afa"
 msgid "Bien... Je pense que tu comprends ce qu'il va arriver..."
 msgstr "Cóż... Myślę, że reszty możesz się domyślić..."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "home_player_noriko_room_9d2bd8fd"
 msgid "J'en ai peur..."
 msgstr "Obawiam się, że tak..."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "home_player_noriko_room_7f4df03b"
 msgid "Pourquoi t'es en train de sourire ?"
 msgstr "Dlaczego się uśmiechasz?"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "home_player_noriko_room_ee4eaef2"
 msgid "Tu réalises ce qui va arriver pour toi ?"
 msgstr "Zdajesz sobie sprawę z tego, co cię czeka?"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "home_player_noriko_room_d1124181"
 msgid "C'est ton cerveau qui a lâché gros débile ?"
 msgstr "Twoja ostatnia komórka mózgowa w końcu się poddała?"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "home_player_noriko_room_48a9f185"
 msgid "Tu vas commencer par me donner tout ton argent !"
-msgstr "Tak czy inaczej... Na razie zaczniesz od oddania mi wszystkich swoich pieniędzy."
+msgstr ""
+"Tak czy inaczej... Na razie zaczniesz od oddania mi wszystkich swoich "
+"pieniędzy."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "home_player_noriko_room_8774f8f6"
 msgid "Ensuite, tu seras mon chien !"
 msgstr "Będziesz moim psem! Rozumiesz to?"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "home_player_noriko_room_68771bf7"
 msgid "Tu obéiras à tout ce que je te dem..."
-msgstr "Jeśli powiem siad, będziesz siedział! Jeśli powiem błagaj, będziesz błagał! Moje każde życzenie, będzie twoim rozkazem."
+msgstr ""
+"Jeśli powiem siad, będziesz siedział! Jeśli powiem błagaj, będziesz błagał! "
+"Moje każde życzenie, będzie twoim rozkazem."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "home_player_noriko_room_50dd8dd0"
 msgid "POURQUOI TU SOURIS COMME UN PUTAIN D'ATTARDÉ ?!!"
 msgstr "DLACZEGO SZCZERZYSZ SIĘ JAK PIEPRZONY NIEDOROZWÓJ!?!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "home_player_noriko_room_6a052d56"
 msgid "Oh, pour rien..."
 msgstr "Ah, to nic takiego..."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "home_player_noriko_room_5e15bd98"
 msgid "Juste que... Je me demande ce que pensera {{yasuka.n}} de cet enregistrement..."
 msgstr "Po prostu... Zastanawiam się, co {{yasuka.n}} pomyśli o tym nagraniu..."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "t3e261da450"
 msgid "Vous arrêtez l'enregistrement sous les yeux de {{noriko.n}}."
 msgstr "Zatrzymujesz nagrywanie przed {{noriko.n}}."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "home_player_noriko_room_080e5f7e"
 msgid "...Mais... Mais... Tu as..."
 msgstr "...Ale... Czekaj... Co..?"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "home_player_noriko_room_391aad38"
 msgid "Tout enregistré oui, je t'avais prévenue {{noriko.n}} que je montrerais quelle salope tu peux être..."
-msgstr "Tak {{noriko.n}}, wszystko nagrałem. Ostrzegałem cię co się stanie, jeśli mni podskoczysz..."
+msgstr ""
+"Tak {{noriko.n}}, wszystko nagrałem. Ostrzegałem cię co się stanie, jeśli mi "
+"podskoczysz..."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "home_player_noriko_room_e8a4876f"
 msgid "Non... Non non non non... NOOONNNNN !!!"
 msgstr "Nie... Nie nie nie nie nie... NIEEEEE... Proszę!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "home_player_noriko_room_d15fe766"
 msgid "[font_size=19]Nooonn...[/font_size]"
 msgstr "[font_size=19]Nieeeee...[/font_size]"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "home_player_noriko_room_cfc5152c"
 msgid "[font_size=14]Nonn...[/font_size]"
 msgstr "[font_size=14]Niee...[/font_size]"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "home_player_noriko_room_4a14d581"
 msgid "Bien, pour commencer..."
 msgstr "Na początek..."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "t8fc53e68f6"
 msgid "Vous obtenez le baladeur MP3."
 msgstr "Otrzymujesz odtwarzacz MP3."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "t6a2e1e2138"
 msgid "Vous obtenez le baladeur MP3."
-msgstr "Otrzymujesz odtwarzacz MP3."
+msgstr "Otrzymujesz odtwarzacz MP3"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_b81fcf6d"
 msgid "Et, bien voilà... Ce n'était pas si compliqué {{noriko.n}}."
 msgstr "No i widzisz... To nie było takie trudne. Prawda {{noriko.n}}?"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_4c58bfe8"
 msgid "Qu'est-ce que tu vas faire avec... l'enregistrement ?"
-msgstr "Co zamierzasz zrobić z tym... Nagraniem..?"
+msgstr "Co zamierzasz zrobić z tym... Nagraniem?"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_26ea0a25"
 msgid "Tant que tu te tiens tranquille avec moi, je ne ferais rien."
 msgstr "Dopóki będziesz trzymała gębę na kłódkę, nic ci nie zrobię."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_0f230e58"
 msgid "Recommence ton cinéma et soit sûre que je l'utiliserais."
-msgstr "Ale jeśli znowu zdecydujesz się być taką suką, możesz być pewna, że dobrze wykorzystam to nagranie."
+msgstr ""
+"Ale jeśli znowu zdecydujesz się być taką suką, możesz być pewna, że dobrze "
+"wykorzystam to nagranie."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_7074cdd1"
 msgid "C'est compris ?"
 msgstr "Zrozumiałaś?"
@@ -57727,937 +57624,824 @@ msgid "C'est compris ?"
 msgstr "Zrozumiałaś?"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_ea3796f0"
 msgid "[font_size=19]Oui...[/font_size]"
 msgstr "[font_size=19]Tak...[/font_size]"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "t6dfeb25814"
 msgid "[hint=ROUTE REJET]Donne-moi le baladeur MP3."
 msgstr "[hint=REJECT ROUTE]Oddaj mi mojego Walkmana."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_6a640c96"
 msgid "Co... Comment ça ?"
-msgstr "C-co masz na myśli..?"
+msgstr "C-co masz na myśli?"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_4d72610e"
 msgid "Les rôles se sont inversés {{noriko.n}}. Tu ne pensais quand même pas que tu allais t'en tirer aussi facilement ?"
-msgstr "Nasze role się odwróciły {{noriko.n}}. Chyba nie sądziłaś, że to wszystko ujdzie ci to na sucho?"
+msgstr ""
+"Nasze role się odwróciły {{noriko.n}}. Chyba nie sądziłaś, że to wszystko "
+"ujdzie ci to na sucho?"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_46159041"
 msgid "Pas après toutes ces années à m'avoir pourri la vie."
 msgstr "Nie po tych wszystkich latach rujnowania mojego życia."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_dddbcc71"
 msgid "Pas après toutes les insultes[w], les humiliations[w], les crasses que tu m'as faites."
-msgstr "Nie po tych wszystkich zniewagach[w], upokorzeniach[w] i znęczania się które mi zagotowałaś."
+msgstr ""
+"Nie po tych wszystkich zniewagach[w], upokorzeniach[w] i znęcania się które "
+"mi zagotowałaś."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_59ad3fd8"
 msgid "J'ai juste à donner ceci à {{yasuka.n}} pour faire de ta vie un enfer."
-msgstr "Wszystko, co muszę zrobić, to dać to {{yasuka.n}}, aby uczynić twoje życie piekłem."
+msgstr ""
+"Wszystko, co muszę zrobić, to dać to {{yasuka.n}}, aby uczynić twoje życie "
+"piekłem."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_9778a29a"
 msgid "...[w] Je vois..."
 msgstr "...[w] Rozumiem..."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_96092db1"
 msgid "Alors, je pense que j'ai quelque chose pour toi..."
 msgstr "Myślę, że wiem, co mam zrobić..."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_07f849c3"
 msgid "Je suis certain qu'un puceau comme toi n'en a jamais vu en vrai."
-msgstr "Jestem pewna, że prawiczek taki jak ty, nigdy tego nie widział w prawdziwym życiu."
+msgstr ""
+"Jestem pewna, że prawiczek taki jak ty, nigdy tego nie widział w prawdziwym "
+"życiu."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_2ba3329d"
 msgid "Alors, satisfait ?"
-msgstr "Zadowolony..?"
+msgstr "Zadowolony?"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_21a93eab"
 msgid "Profites-en, car tu n'en verras jamais d'autres."
 msgstr "Ciesz się, bo nigdy nie zobaczysz innych."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_86fc5973"
 msgid "Je suis sûr que tu meurs d'envie de les toucher."
 msgstr "Jestem pewna, że bardzo chciałbyś ich dotknąć."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_686a2fd7"
 msgid "Aaah, ma chère {{noriko.n}}... Je ne m'attendais pas à ça, mais..."
 msgstr "Ahh, moja droga {{noriko.n}}... Doceniam ofertę, ale..."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_7ab112f5"
 msgid "Je pense que ça ne suffira pas..."
-msgstr "Nie sądzę, by to wystarczyło..."
+msgstr "Nie sądzę, by to wystarczyło."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_8c66181f"
 msgid "Tu m'emmerdes depuis tant d'années, tu crois qu'en voyant ta poitrine une fois ça va effacer ton ardoise ?"
-msgstr "Naprawdę myślisz, że jednorazowe zobaczenie twoich cycków wynagrodzi mi ta wszystkie lata upokorzeń?"
+msgstr ""
+"Naprawdę myślisz, że jednorazowe zobaczenie twoich cycków wynagrodzi mi te "
+"wszystkie lata upokorzeń?"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_e305091d"
 msgid "C'est clairement pas suffisant."
-msgstr "Jestem tobą... Rozczarowany..."
+msgstr "Jestem tobą... Rozczarowany."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_7da22726"
 msgid "...Je vais te t-"
 msgstr "...Pierdo-..."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_305ba402"
 msgid "Attention {{noriko.n}} ! Ne fais pas quelque chose que tu pourrais regretter."
 msgstr "Uważaj {{noriko.n}}! Nie powiedz czegoś, czego mogłabyś żałować."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_c13b3356"
 msgid "Rhabille-toi, et donne ce que je suis venu chercher. Tiens-toi prête pour ma prochaine visite."
-msgstr "Ubierz się i daj mi to, po co przyszedłem. Bądź gotowa na moją następną wizytę."
+msgstr ""
+"Ubierz się i daj mi to, po co przyszedłem. Bądź gotowa na moją następną "
+"wizytę."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_ff54907f"
 msgid "...Quand ?"
 msgstr "...Kiedy?"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_74450f95"
 msgid "Quand j'en aurai décidé !"
-msgstr "Kiedy będę chciał."
+msgstr "Kiedy będę chciał!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_5ea74534"
 msgid "MAIS...!"
 msgstr "Ale..."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_b867a4ca"
 msgid "Ce n'est plus toi qui décides à présent."
 msgstr "Do zobaczenia."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_7fef2aea"
 msgid "...fait chier !"
 msgstr "...Cholera!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "tf77c3e2d7c"
 msgid "[hint=ROUTE CHANTAGE]Jusqu'à quel point tu ne veux pas que ça se sache {{noriko.n}} ?"
-msgstr "[hint=BLACKMAIL ROUTE]Jak bardzo chcesz utrzymać to w tajemnicy {{noriko.n}}?"
+msgstr ""
+"[hint=BLACKMAIL ROUTE]Jak bardzo chcesz utrzymać to w tajemnicy {{noriko.n}}?"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_00b62d92"
 msgid "{{noriko.n}} !"
 msgstr "{{noriko.n}}!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_ab94ab29"
 msgid "J'ai besoin de toi immédiatement !"
 msgstr "Potrzebuję cię!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_5ac10f1f"
 msgid "PUTAIN !"
 msgstr "KURWA!"
 
 #: game/story/home_player_exterior.dialogue
-#, fuzzy
 msgctxt "home_player_exterior_fdfd5503"
 msgid "PUTAIN !"
 msgstr "KURWA!"
 
 #: game/story/home_player_exterior.dialogue
-#, fuzzy
 msgctxt "home_player_exterior_a91d2df6"
 msgid "PUTAIN !"
 msgstr "KURWA!"
 
 #: game/story/coffeebar_exterior.dialogue
-#, fuzzy
 msgctxt "talk_ubs_7078d593"
 msgid "PUTAIN !"
 msgstr "KURWA!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_162c6915"
 msgid "Tu peux pas frapper avant d'entrer comme tout le monde ?"
 msgstr "Nie możesz zapukać przed wejściem jak wszyscy inni?"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_ebf61c11"
 msgid "On s'en tape !"
 msgstr "Nie obchodzi mnie to!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_c5099605"
 msgid "De quelle couleur sont mes yeux ?"
 msgstr "Jakiego koloru są moje oczy?"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_9b1c4351"
 msgid "{{noriko.n}} juste... répond moi, de quelle couleur sont mes yeux ?"
 msgstr "{{noriko.n}}, po prostu... Powiedz mi, jaki mam kolor oczu."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_403a83ce"
 msgid "Marron, tu as les yeux marron."
-msgstr "Brązowe, basz brązowe oczy."
+msgstr "Brązowe, masz brązowe oczy."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_a8ddeb9f"
 msgid "Tu avais juste à regarder dans la salle de bain..."
 msgstr "Wiesz, że mogłeś sprawdzić w lustrze w łazience..."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_6764641e"
 msgid "Pourqu-"
 msgstr "Dlaczego..."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_d385f1f5"
 msgid "Noisette... Tu as les yeux couleur noisette."
 msgstr "Piwne... Masz piwne oczy."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_9f34edda"
 msgid "Merci {{noriko.n}} !"
 msgstr "Dzięki {{noriko.n}}!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_9f34edda_1"
 msgid "Merci {{noriko.n}} !"
 msgstr "Dzięki {{noriko.n}}!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_200e1f01"
 msgid "Attends-je..."
 msgstr "Czekaj..."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_f6039c86"
 msgid "...Non, laisse tomber."
 msgstr "...Nie nic, nieważne."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_1446a0d4"
 msgid "S'il te plait..."
 msgstr "Proszę..."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_045e61d8"
 msgid "De la merde !"
 msgstr "Cholera!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_8ce77e83"
 msgid "Tes yeux ont la même couleur que de la merde !"
 msgstr "Twoje oczy są tego samego koloru co gówno!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_86926d74"
 msgid "Hmm, oh, tu veux dire marron ?"
 msgstr "Hmm? Oh, masz na myśli brązowy?"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_50516910"
 msgid "...[w] Taré."
 msgstr "...[w] Dziwak."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_76daba04"
 msgid "Que... Qu'est-ce que tu veux ?"
 msgstr "Czego chcesz..?"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_374ea508"
 msgid "Tu vas encore me brutaliser c'est ça ?"
 msgstr "Znowu będziesz się nade mną znęcał, prawda?"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_e4a64377"
 msgid "Quoi ? Bien sûr que non."
 msgstr "Co? Oczywiście, że nie."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_eadd7ccf"
 msgid "Il s'agit d'autre chose..."
 msgstr "Chodzi o coś innego..."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_2cccb1ce"
 msgid "HEY !"
 msgstr "HEJ!"
 
 #: game/story/coffeebar_exterior.dialogue
-#, fuzzy
 msgctxt "coffeebar_exterior_470fd0fc"
 msgid "HEY !"
 msgstr "HEJ!"
 
 #: game/story/park.dialogue
-#, fuzzy
 msgctxt "park_55a343d0"
 msgid "HEY !"
 msgstr "HEJ!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_90bc6a7a"
 msgid "Qui t'a permis de rentrer dans ma chambre sans prévenir ?"
 msgstr "Kto ci pozwolił wejść do mojego pokoju bez ostrzeżenia?"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_08c316a9"
 msgid "Dégage !"
 msgstr "Wynocha!"
 
 #: game/story/coffeebar_exterior.dialogue
-#, fuzzy
 msgctxt "talk_ubs_16ec413d"
 msgid "Dégage !"
 msgstr "Wynocha!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_113b6635"
 msgid "Désolé, mais c'est important."
 msgstr "Przepraszam, ale to ważne."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_f5c961f2"
 msgid "Tu veux encore que je te s-"
 msgstr "Chcesz, żebym..."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_19fbe169"
 msgid "Non, je ne suis pas venu pour ça !"
 msgstr "Nie, nie po to tu przyszedłem!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_c67f735e"
 msgid "{{noriko.n}}, tu aurais un instant, j'ai besoins de toi."
 msgstr "{{noriko.n}} masz chwilę? Potrzebuję twojej pomocy."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_b2f32b08"
 msgid "Pfff, je croyais que tu n'en avais plus rien à faire de moi justement."
 msgstr "Pfff, myślałam, że nie chcesz mieć ze mną nic wspólnego."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_ffa08594"
 msgid "...Écoute au moins ce que j'ai à dire."
 msgstr "...Przynajmniej wysłuchaj tego, co mam do powiedzenia."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_750f38c2"
 msgid "À vrai dire, j'ai besoins d'un conseil vestimentaire."
 msgstr "Prawdę mówiąc, potrzebuję porady, w co się ubrać."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_c30c9b33"
 msgid "Un conseil vestimentaire ?"
 msgstr "W co się ubrać?"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_f56a80d0"
 msgid "J'ai besoins d'un costume plutôt chic pour un club privé !"
 msgstr "Potrzebuję eleganckiego garnituru, żeby wejść do prywatnego klubu!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_22497002"
 msgid "...Laisse-moi deviner, tu veux voir où travaille maman ?"
 msgstr "...Niech zgadnę, chcesz zobaczyć, gdzie pracuje mama?"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_c4c6f267"
 msgid "Oui, j'aimerais m'assurer que tout se passe bien pour elle."
-msgstr "Tak, chciałbym się upewnić, że wszystko idzie dobrze."
+msgstr "Tak, chciałbym się upewnić, że wszystko z nią dobrze."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_bab56ba2"
 msgid "Qu'est-ce que j'y gagne dans tout ça ?"
 msgstr "A co będę z tego miała?"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_c78344cb"
 msgid "...La satisfaction d'avoir aidé {{yasuka.n}} ?"
 msgstr "...Satysfakcje z pomocy {{yasuka.n}}?"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_033a7dca"
 msgid "Débrouille-toi tout seul alors."
 msgstr "W takim razie jesteś zdany na siebie."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_970887f9"
 msgid "Maman n'a pas besoins de toi, elle se débrouille très bien toute seule."
 msgstr "Mama cię nie potrzebuje, radzi sobie sama."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_62ce77a5"
 msgid "La preuve, on a enfin de l'argent de poche."
 msgstr "Teraz mamy nawet kieszonkowe."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_2cc1d08a"
 msgid "Je ne peux pas lui donner tort."
 msgstr "Nie mogę się z nią nie zgodzić."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_bc29aa1c"
 msgid "Mais je peux pas lui dire qu'il y a deux connards qui cherchent à me faire du mal en passant par {{yasuka.n}}."
-msgstr "Ale nie mogę jej powiedzieć, że dwóch dupków próbuje mnie skrzywdzić, przez wykorzystanie {{yasuka.n}}."
+msgstr ""
+"Ale nie mogę jej powiedzieć, że dwóch dupków próbuje mnie skrzywdzić, przez "
+"wykorzystanie {{yasuka.n}}."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_85dca400"
 msgid "Qu'est-ce que je pourrais lui promettre ?"
 msgstr "Co mogę jej zaoferować?"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_1363899f"
 msgid "Bon... voici ma proposition, la prochaine fois qu'elle nous donne de l'argent de poche, tout est pour toi."
-msgstr "Dobra... To moja propozycja. Następnym razem, kiedy da nam kieszonkowe, wszystko będzie dla ciebie."
+msgstr ""
+"Dobra... To moja propozycja. Następnym razem, kiedy da nam kieszonkowe, "
+"wszystko będzie dla ciebie."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_9cc7eb13"
 msgid "Alors, tu connais une boutique ?"
-msgstr "Znasz jakiś sklep?"
+msgstr "Więc, znasz jakiś sklep?"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_6d4da199"
 msgid "Oui, à côté du Konbini !"
 msgstr "Tak, tuż obok Konbini!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_fceaf5df"
 msgid "Du konbini ? Mais... il n'y a rien à part..."
 msgstr "Obok Konbini? Ale... Tam nic nie ma, poza..."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_e819b89d"
 msgid "Des poubelles exactement !"
 msgstr "Śmieci! Dokładnie!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_a6fb9f62"
 msgid "Tu crois que tu peux m'acheter avec un peu d'argent de poche ?"
 msgstr "Naprawdę myślałeś, że możesz mnie przekupić małym kieszonkowym?"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_7cd51e75"
 msgid "DÉGAGE DE MA CHAMBRE !"
 msgstr "WYNOŚ SIĘ Z MOJEGO POKOJU!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_236d552c"
 msgid "Tu crois que j'ai oublié ce que tu m'as fait ?"
 msgstr "Myślisz, że zapomniałam, co mi zrobiłeś?"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_88c1d780"
 msgid "Dégage de ma chambre et débrouille-toi !"
 msgstr "A teraz wyjdź z mojego pokoju i radź sobie sam!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_d2c15ef3"
 msgid "Du coup, t'as jamais eu envie de..."
 msgstr "Więc nigdy nie chciałaś..."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_2a59c441"
 msgid "En fait..."
 msgstr "Właściwie..."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_6e42cc7d"
 msgid "Bon bon bon, je crois qu'on va s'arrêter ici."
 msgstr "No, no, no. Myślę, że możemy na tym poprzestać."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_02e28f57"
 msgid "J'ai pas envie que tous mes secrets soient dévoilés."
 msgstr "Nie chcę, żeby wszystkie moje sekrety wyszły na jaw."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_b5ad9c74"
 msgid "Oh, c'est dommage, j'apprenais plein de choses intéressantes."
 msgstr "Oh, szkoda... Dowiedziałam się wielu interesujących rzeczy."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_c8493ef1"
 msgid "{{noriko.n}}, merci d'avoir discuté un peu avec moi, la prochaine fois ça te dit de sortir en ville ensemble ?"
-msgstr "Dzięki za krótką pogawędkę {{noriko.n}}. Może następnym razem będziesz miała ochotę na wspólne wyjście na miasto?"
+msgstr ""
+"Dzięki za krótką pogawędkę {{noriko.n}}. Może następnym razem będziesz miała "
+"ochotę na wspólne wyjście na miasto?"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_790ebbaa"
 msgid "C'est vrai ?! Euh... Mmhh... Bien sûr, avec plaisir."
 msgstr "Naprawdę?! Uh... Mmm... Oczywiście, z przyjemnością."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_5562ec2c"
 msgid "J'ai encore quelques dossiers sur {{saito.n}}."
 msgstr "Wciąż mam trochę brudów na {{saito.n}}."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_c5830097"
 msgid "J'ai vu son historique internet l'autre jour... Tu vas pas être déçue !"
 msgstr "Niedawno widziałam jego historię internetową... Nie rozczarujesz się!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_0bef7a8f"
 msgid "Excellent, c'est exactement le genre de chose que j'attendais !"
 msgstr "Doskonale! Dokładnie na coś takiego czekałam!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_9d53f045"
 msgid "T'es dans la merde mon pauvre !"
-msgstr "Masz przechlapane. Biedactwo..!"
+msgstr "Masz przechlapane. Biedactwo!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_c4f42923"
 msgid "Je peux savoir ce que tu fais ici ?!"
 msgstr "Mogę zapytać, co tu robisz?!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_f047cfc4"
 msgid "Il ne me semble pas t'avoir dit que tu pouvais entrer dans ma chambre sans autorisation."
-msgstr "Nie przypominam sobie, żebym mówiła ci, że możesz wejść do mojego pokoju bez pozwolenia."
+msgstr ""
+"Nie przypominam sobie, żebym mówiła ci, że możesz wejść do mojego pokoju bez "
+"pozwolenia."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_96396a65"
 msgid "Je sais... mais si j'avais demandé tu m'aurais de toute façon dit non."
 msgstr "Wiem... Ale gdybym zapytał, i tak byś mi nie pozwoliła wejść."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_27153faa"
 msgid "Tu semble t'entendre plutôt bien avec {{asami.n}}."
 msgstr "Wygląda na to, że całkiem dobrze dogadujesz się z {{asami.n}}."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_77f5ff17"
 msgid "... et donc ? Tu as peur que je lui révèle des choses compromettantes ?"
 msgstr "... I co z tego? Boisz się, że ujawnię jej coś kompromitującego?"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_da0691c3"
 msgid "Non je ne suis pas inquiet... Mais c'est une personne qui tient beaucoup à moi et visiblement t'apprécie beaucoup."
-msgstr "Nie, nie martwię się... Ale ona jest kimś, kto bardzo się o mnie troszczy i najwyraźniej bardzo cię lubi."
+msgstr ""
+"Nie, nie martwię się... Ale ona jest kimś, kto bardzo się o mnie troszczy i "
+"najwyraźniej bardzo cię lubi."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_6fe840fd"
 msgid "C'est vrai ?![w] Hmm, je veux dire... Je l'aime bien moi aussi, elle bien trop bien pour toi."
-msgstr "Naprawdę?![w] Hmm, znaczy... Ja też lubię, ale jest dla ciebie za dobra."
+msgstr ""
+"Naprawdę?![w] Hmm, znaczy... Ja też ją lubię, ale jest dla ciebie za dobra."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_a3d5914f"
 msgid "Ce n'est de toute façon pas à toi d'en décider, heureusement d'ailleurs."
 msgstr "Na szczęście to nie ty o tym decydujesz."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_6f498616"
 msgid "{{noriko.n}}, j'aimerais enterrer définitivement la hache de guerre avec toi."
-msgstr "Wiesz {{noriko.n}}... Chciałbym raz na zawsze zakopać z tobą topór wojenny."
+msgstr ""
+"Wiesz {{noriko.n}}, chciałbym raz na zawsze zakopać z tobą topór wojenny."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_25e3c5d8"
 msgid "On passe la plupart de notre temps à se crier dessus, à s'éviter, à se faire des crasses."
-msgstr "Spędzamy większość czasu krzycząc na siebie, unikając się nawzajem, dając sobie nawzajem popalić."
+msgstr ""
+"Spędzamy większość czasu krzycząc na siebie, unikając się nawzajem, dając "
+"sobie nawzajem popalić."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_fac73f92"
 msgid "Peut-on faire la paix une bonne fois pour toutes ?"
 msgstr "Możemy zawrzeć pokój? Raz na zawsze?"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_0210f28c"
 msgid "Je refuse !"
 msgstr "Odmawiam!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_be653c95"
 msgid "Les choses ont été bien trop loin pour passer à autre chose."
 msgstr "Sprawy zaszły za daleko, żeby po prostu ruszyć dalej."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_95699640"
 msgid "Écoute je suis prêt à faire des effort et pardonner certaines choses et..."
 msgstr "Słuchaj, jestem gotów podjąć wysiłek i wybaczyć pewne rzeczy, i..."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_4ddfdea3"
 msgid "ARRÊTE ! C'est pas à toi de décider ça, c'est pas à toi de me pardonner !"
-msgstr "STOP! Nie ty o tym decydujesz! To nie od ciebie zależy, czy mi wybaczysz!"
+msgstr ""
+"STOP! Nie ty o tym decydujesz! To nie od ciebie zależy, czy mi wybaczysz!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_63807d1b"
 msgid "Mais... Je comprends pas..."
 msgstr "Ale... Nie rozumiem..."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_d2a5baa5"
 msgid "Tu passes ton temps à faire la victime...[w] Tout ça pour...[w] rien."
 msgstr "Spędzasz czas grając ofiarę...[w] Wszystko na...[w] nic."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_5f66ed1e"
 msgid "{{noriko.n}}, je veux vraiment devenir une meilleure personne et si tu ne me dis pas pourquoi tu me hais autant je..."
-msgstr "{{noriko.n}}... Ja naprawdę chcę stać się lepszą osobą, ale jeśli nie powiesz mi, dlaczego tak bardzo mnie nienawidzisz, to..."
+msgstr ""
+"{{noriko.n}}... Ja naprawdę chcę stać się lepszą osobą, ale jeśli nie "
+"powiesz mi, dlaczego tak bardzo mnie nienawidzisz, to..."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_3611390a"
 msgid "VOILÀ ! Il s'agit encore de toi et de personne d'autre, il faut tout te donner, tout te dire, tout faire pour toi !"
-msgstr "TO JEST TO! Zawsze chodzi o ciebie i o nikogo innego! Wszystko musi być ci dane, wszystko musi być ci powiedziane, wszystko musi być zrobione pod ciebie!"
+msgstr ""
+"TO JEST TO! Zawsze chodzi o ciebie i o nikogo innego! Wszystko musi być ci "
+"dane, wszystko musi być ci powiedziane, wszystko musi być zrobione pod "
+"ciebie!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_74e47000"
 msgid "Y'A RIEN QUI CHANGE JAMAIS AVEC TOI !"
-msgstr "TY SIĘ NIDGY NIE ZMIENISZ!"
+msgstr "TY SIĘ NIGDY NIE ZMIENISZ!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_bbdc0057"
 msgid "Tu ne te souviens même plus..."
 msgstr "Nawet nie pamiętasz..."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_d0a9f7cc"
 msgid "Me souvenir ?"
 msgstr "Pamiętasz..?"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_a7c19159"
 msgid "VA-T-EN !"
 msgstr "ODEJDŹ!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_115ee30e"
 msgid "Hey !!!"
 msgstr "Hej!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_8108a2e8"
 msgid "On doit parler !"
 msgstr "Musimy porozmawiać!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_fc34e3c8"
 msgid "Oui mais moi j'ai rien à te dire !"
 msgstr "Tak, ale ja nie mam ci nic do powiedzenia!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_f02845f2"
 msgid "Tu faisais quoi aujourd'hui ?"
 msgstr "Co dzisiaj robiłaś?"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_c9abca40"
 msgid "Que... En quoi ça te regarde ?"
 msgstr "Co? A co cię to obchodzi?"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_1b2d6437"
 msgid "Ça me regarde dans le sens où tu prétends avoir passé la journée avec {{asami.n}} alors que ce n'est pas le cas."
-msgstr "Obchodzi, ponieważ twierdzisz, że spędziłaś dzień z {{asami.n}}, a tak nie było."
+msgstr ""
+"Obchodzi, ponieważ twierdzisz, że spędziłaś dzień z {{asami.n}}, a tak nie "
+"było."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_6bbac01e"
 msgid "... Et alors ? Je n'avais pas envie de rendre des comptes à ma mère."
 msgstr "...I co z tego? Nie chciałam spowiadać się mamie."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_35039d06"
 msgid "Je ne comprends et ne supporte plus ces étranges animosités que tu as envers moi."
-msgstr "Nie mogę już zrozumieć ani znieść taj dziwnej wrogości, której do mnie żywisz."
+msgstr ""
+"Nie mogę już zrozumieć ani znieść tej dziwnej wrogości, której do mnie "
+"żywisz."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_0395eddb"
 msgid "Je ne sais pas ce que j'ai pu te faire pour qu'on en arrive là, mais j'aimerais comprendre."
-msgstr "Nie wiem, co mogłem ci zrobić, że wszystko skończyło się w ten sposób, ale chciałbym to wreszcie zrozumieć."
+msgstr ""
+"Nie wiem, co mogłem ci zrobić, że wszystko skończyło się w ten sposób, ale "
+"chciałbym to wreszcie zrozumieć."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_f3655e6b"
 msgid "Si tu te préoccupais un peu plus de toi et moins de moi on n'en serait pas là !"
-msgstr "Gdybyś troszczył się bardziej o siebie, a mniej o mnie, nie byłoby tego wszystkiego!"
+msgstr ""
+"Gdybyś troszczył się bardziej o siebie, a mniej o mnie, nie byłoby tego "
+"wszystkiego!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_d7b86515"
 msgid "Attention à toi {{noriko.n}}. Je veux bien être gentil, mais je ne suis plus le garçon docile sur lequel tu pouvais marcher."
-msgstr "Uważaj {{noriko.n}}. Chcę być miły, nie jestem już tym potulnym chłopcem, po którym deptałaś."
+msgstr ""
+"Uważaj {{noriko.n}}. Chcę być miły, nie jestem już tym potulnym chłopcem, po "
+"którym deptałaś."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_499d7d45"
 msgid "Tout ce que j'essaie de faire c'est de comprendre pourquoi on en arrive là aujourd'hui."
 msgstr "Staram się tylko zrozumieć, dlaczego doszło do tego wszystkiego."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_9b26c03c"
 msgid "Je sais que tu me caches des choses, et crois-moi je finirai par les découvrir."
 msgstr "Wiem, że coś przede mną ukrywasz i uwierz mi, że w końcu się dowiem co."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_f2c92a0a"
 msgid "... Va... va-t-en ! Laisse-moi tranquille. Ne t'occupe pas de mes affaires."
 msgstr "...Odejdź! Zostaw mnie w spokoju. Nie wtrącaj się w moje sprawy."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_01bf2617"
 msgid "On n'en restera pas là."
 msgstr "To jeszcze nie koniec!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_cfaa5842"
 msgid "Bonne soirée."
 msgstr "Dobry wieczór."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_f772442c"
 msgid "Bon ça suffit les conneries, maintenant tu vas t'expliquer !"
 msgstr "Dobra! Wystarczy tych bzdur, teraz się wytłumaczysz!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_feea393d"
 msgid "Pourquoi tu es complètement à poil d'ailleurs ?"
 msgstr "Dlaczego jesteś naga?"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_f29a8032"
 msgid "T'es en train de me rendre complètement fou."
 msgstr "Doprowadzasz mnie do szaleństwa."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_1fcf040e"
 msgid "Je sais pas à quel jeu tu joues mais..."
 msgstr "Nie wiem, w jaką grę grasz, ale..."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_21ed9f39"
 msgid "Tu vas me punir ?"
 msgstr "Zamierzasz mnie ukarać?"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_40121d8e"
 msgid "Oui je vais te... Attends quoi ?"
 msgstr "Tak, zamierzam cię... Czekaj, co?"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_a6b8a84e"
 msgid "Prouve-le !"
 msgstr "Udowodnij to!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_01de4c42"
 msgid "Bordel de...[w] Mais... mais de quoi tu parles ?"
-msgstr "Cholera...[w] Ale... O czym ty mówisz..?"
+msgstr "Cholera...[w] Ale... O czym ty mówisz?"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_d83c5729"
 msgid "Tu crois que tout ceci n'est qu'une vaste plaisanterie pour toi ?"
 msgstr "Myślisz, że to wszystko to był tylko żart?"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_b4651e0d"
 msgid "Donc... tu ne me puniras pas ? Tu te dégonfles ?"
-msgstr "...Nie zamierzasz mnie ukarać? Tchórzysz..?"
+msgstr "...Nie zamierzasz mnie ukarać? Tchórzysz?"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_befd0cab"
 msgid "Quoi ?! Mais... putain {{noriko.n}} !"
 msgstr "Co?! Ale... Cholera {{noriko.n}}!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_44fc70a1"
 msgid "Tu crois que je ne te sauterai pas dessus ?"
 msgstr "Myślisz, że nie skoczyłbym na ciebie?"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_910623fe"
 msgid "Visiblement non... il semblerait que tu sois seulement une grande bouche..."
 msgstr "Oczywiście, że nie... Wygląda na to, że potrafisz tylko gadać..."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_daef296a"
 msgid "J'attends toujours..."
 msgstr "Wciąż czekam..."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_ae4363f2"
 msgid "Je vais le faire."
 msgstr "Zrobię to."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_b1602e4c"
 msgid "Alors vas-y !"
 msgstr "Śmiało!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_68172d73"
 msgid "Je ne plaisante pas !"
 msgstr "Nie żartuję!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_356a5fed"
 msgid "J'attends encore..."
 msgstr "Wciąż czekam..."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_d20fe92e"
 msgid "... Très bien si c'est ce que tu souhaites."
 msgstr "...Dobra, jeśli tego chcesz."
@@ -58801,73 +58585,61 @@ msgid "Al-"
 msgstr "Więc..."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_988c494f"
 msgid "Dégage de ma chambre maintenant !!!"
 msgstr "Natychmiast wynoś się z mojego pokoju!!!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_56609df8"
 msgid "Bordel mais pourquoi t'es encore à poil ?"
 msgstr "Dlaczego do cholery znowu jesteś naga?"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_ea095bd7"
 msgid "Quoi ?! Mais bordel, je ne veux pas jouer à ton petit jeu j'aimerais juste..."
 msgstr "Co?! Cholera nie chcę grać w twoją gierkę! Chcę tylko..."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_476f4808"
 msgid "Je le savais tu t'es dégonflé..."
 msgstr "Wiedziałam, że stchórzysz..."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_6a1ae8b4"
 msgid "Non ! Non non non et non ! Tu ne m'auras pas une seconde fois comme ça !"
 msgstr "Nie! Nie, nie, nie i nie! Więcej mnie tak nie załatwisz!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_a5469489"
 msgid "C'est dommage... j'avais bien aimé moi..."
 msgstr "Szkoda... Naprawdę mi się podobało..."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_8784c6cc"
 msgid "...[w] Bordel."
 msgstr "...[w] Cholera."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_8e500ab0"
 msgid "Donc tu te dégonfles... c'est bien ce que je disais."
 msgstr "Więc tchórzysz... O tym właśnie mówiłam."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_2209c0e1"
 msgid "Tu avais un côté sauvage... J'avais l'impression d'avoir un alpha."
 msgstr "Byłeś taki dziki... Czułam się, jakbym była z alfą."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_e11d8581"
 msgid "Mais là... J'ai plus l'impression d'avoir un b-"
 msgstr "A teraz... Czuję się jakbym..."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_8fbd428b"
 msgid "Okay stop ! C'est du sauvage que tu veux ?"
 msgstr "Dobra, stop! Mam być dziki? Tego chcesz?"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_41f629b5"
 msgid "Pas de problème ! Mais après on va discuter toi et moi !"
 msgstr "Nie ma problemu! Ale potem porozmawiamy!"
@@ -58945,175 +58717,148 @@ msgid "Aaaah... aaah... ahhh..."
 msgstr "Aaaah... Aaah... Ahhh..!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_e5584940"
 msgid "Maintenant que tu as eu ce que tu voulais..."
 msgstr "Dostałaś to czego chciałaś..."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_901837ca"
 msgid "Je veux des explications."
 msgstr "Chcę wyjaśnień."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_3e32a7a6"
 msgid "Je sais que tu as payé les thugs pour qu'ils viennent me tabasser."
 msgstr "Wiem, że płaciłaś bandytom za pobicie mnie."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_ed15802e"
 msgid "Je sais également que tu fais ça depuis longtemps."
 msgstr "Wiem też, że robisz to od dłuższego czasu."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_f3f8be00"
 msgid "Je ne m'énerverai pas... J'aimerais juste comprendre."
 msgstr "Nie będę się złościł... Chciałbym tylko zrozumieć."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_c12e5234"
 msgid "Pourquoi {{noriko.n}} ?"
 msgstr "Dlaczego {{noriko.n}}?"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_9d36ecf3"
 msgid "...[w] Tu ne comprendrais pas."
 msgstr "...[w] Nie zrozumiałbyś tego."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_4006214c"
 msgid "Commence déjà par me l'expliquer."
 msgstr "Zacznij od wytłumaczenia mi tego."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_ee42977b"
 msgid "Si tu n'essaies pas... comment veux tu qu-"
 msgstr "Jeśli nie spróbujesz... To jak mam to zrobić?"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_16f5c3aa"
 msgid "Tu ne pourras jamais me pardonner de toute façon donc à quoi bon..."
 msgstr "I tak nigdy nie będziesz w stanie mi wybaczyć, więc po co..."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_ec497736"
 msgid "Ce que je fais depuis des années...[w] est bien trop grave."
 msgstr "To co robię od lat...[w] Jest zbyt poważne."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_c5fc98f5"
 msgid "Je me suis mise là-dedans toute seule."
 msgstr "Sama się w to wpakowałam."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_e1ef8947"
 msgid "Je m'en sortirai toute seule."
 msgstr "I sama z tego wyjdę."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_cb534121"
 msgid "Il n'est pas possible d'effacer autant de haine en un claquement de doigts."
 msgstr "Nie da się wymazać takiej ilości nienawiści pstryknięciem palców."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_e59d4a37"
 msgid "Et même si toi, tu me pardonnes..."
 msgstr "A nawet jeśli byś mi... Wybaczył..."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_3727be54"
 msgid "Je ne pourrai jamais me pardonner pour tout ce que je t'ai fait subir."
-msgstr "Ja nigdy nie będę w stanie wybaczyć sobie tego wszystkiego, przez co przeszedłeś."
+msgstr ""
+"Ja nigdy nie będę w stanie wybaczyć sobie tego wszystkiego, przez co przeze "
+"mnie przeszedłeś."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_65d8e093"
 msgid "S'il te plaît, sors d'ici. J'arrêterai toute cette folie moi-même."
 msgstr "Proszę, wyjdź stąd. Sama powstrzymam to szaleństwo."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_3f4e98e6"
 msgid "Et plus jamais je ne donnerai de l'argent à qui que ce soit pour te faire du mal."
-msgstr "I nigdy więcej nie dam nikomu pieniędzy, żeby cię skrzywdzili."
+msgstr "I nigdy więcej nie dam nikomu pieniędzy, żeby cię skrzywdzilł"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_68701303"
 msgid "{{noriko.n}} j-"
 msgstr "{{noriko.n}}... Ja..."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "talk_noriko_c87216c5"
 msgid "Va-t-en !"
 msgstr "Odejdź!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_2cd7eae5"
 msgid "Donc ça c'est ta chambre..."
 msgstr "Więc to jest twój pokój..."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_af78149d"
 msgid "Intéressant, c'est plutôt sympa."
-msgstr "Interesujące, całkiem przyjemne."
+msgstr "Interesujące, całkiem przyjemnie."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_23e7e2a3"
 msgid "C'est à peu près ce à quoi je m'attendais."
 msgstr "Tego właśnie się spodziewałem."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_38de776a"
 msgid "Arrête de regarder partout comme ça !"
 msgstr "Przestań się tak rozglądać!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_42f7d168"
 msgid "Pourquoi ? En quoi ça dérange ?"
 msgstr "A dlaczego? W czym problem?"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_59c9ebcb"
 msgid "On a conclu un accord non ?"
 msgstr "Mieliśmy umowę, prawda?"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_66524a55"
 msgid "Donc on doit officialiser ça correctement."
 msgstr "Więc musimy to zrobić prawidłowo."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_1078c727"
 msgid "Commence donc déjà par me sucer !"
-msgstr "Zacznij od obciagania!"
+msgstr "Zacznij od obciągania!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_21f49ad1"
 msgid "Alors ? Tu attends quoi ?"
 msgstr "Na co czekasz?"
@@ -59124,7 +58869,6 @@ msgid "Je ne veux pas faire ça ici...h"
 msgstr ""
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_df6d7189"
 msgid "Ma mère pourrait rentrer à tout moment et je pourrais avoir des problèmes..."
 msgstr "Moja mama może wrócić w każdej chwili i mogę mieć kłopoty..."
@@ -59136,85 +58880,73 @@ msgid "Ta mère peut nous rejoindre si tu veux verux, ça ne me dérange pas du 
 msgstr "Twoja mama może do nas dołączyć, jeśli chce! Nie mam nic przeciwko!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_a65b6a2c"
 msgid "Non mais ça va pas la tête ?!"
 msgstr "Oszalałeś?!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_13637dc2"
 msgid "Il y a aussi {{saito.n}}... Je n'ai aucun contrôle sur ses allées-et-venues."
-msgstr "Jest też {{saito.n}}... Nie mam kontroli nad tym, gdzie on jest i kiedy może wrócić."
+msgstr ""
+"Jest też {{saito.n}}... Nie mam kontroli nad tym, gdzie on jest i kiedy może "
+"wrócić."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_4b604da9"
 msgid "...[w] Ça me donne une idée !"
 msgstr "...[w] Mam pewnien pomysł!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_740b3d4b"
 msgid "Montre moi sa chambre !"
 msgstr "Pokaż mi jego pokój!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_6b210338"
 msgid "Quoi ?! Mais..."
 msgstr "Co?! Ale..."
 
 #: game/story/restaurant_exterior.dialogue
-#, fuzzy
 msgctxt "restaurant_exterior_637eccb0"
 msgid "Quoi ?! Mais..."
 msgstr "Co?! Ale..."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_68dbe274"
 msgid "Discute pas !"
 msgstr "Nie dyskutuj!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_80661a29"
 msgid "Mes chéris je dois vous laisser, j'ai une course à faire en ville."
 msgstr "Kochani, muszę was opuścić, mam na mieście sprawę do załatwienia."
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_60a76012"
 msgid "[font_size=14]Elle est partie ?[/font_size]"
 msgstr "[font_size=14]Poszła..?[/font_size]"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_a438a2d4"
 msgid "[font_size=14]Je crois...[/font_size]"
 msgstr "[font_size=14]Chyba...[/font_size]"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_a4551ab0"
 msgid "Alors qu'est ce que t'attends ? Un carton d'invitation ?!"
 msgstr "No to na co czekasz? Na zaproszenie?!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_4ad7276e"
 msgid "T'as toujours un caractère de merde !"
 msgstr "Wciąż masz zepsutą osobowość!"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_ed85b032"
 msgid "T'attends quoi pour venir me punir ?"
-msgstr "Więc dlaczego nie przyjdziesz mnie ukarać..?"
+msgstr "Więc dlaczego nie przyjdziesz mnie ukarać?"
 
 #: game/story/home_player_noriko_room.dialogue
-#, fuzzy
 msgctxt "menu_rejet_noriko_final_926dc966"
 msgid "Ohhh sale petite... Attends un peu !"
 msgstr "Ohhh, ty mała... Tylko poczekaj!"
@@ -68282,16 +68014,14 @@ msgid "Elle a détalé comme un lapin..."
 msgstr "Cholera, ale szybka..."
 
 #: game/story/home_player_exterior.dialogue
-#, fuzzy
 msgctxt "home_player_exterior_ae5dff8c"
 msgid "Qu'est-ce que c'est que ce bordel ?"
-msgstr "Co się z nią dzieje?"
+msgstr "Co się z nią dzieje do cholery?"
 
 #: game/story/home_player_bathroom.dialogue
-#, fuzzy
 msgctxt "home_player_bathroom_2f893cb9"
 msgid "Qu'est-ce que c'est que ce bordel ?"
-msgstr "Co się z nią dzieje?"
+msgstr "Co się do cholery dzieje?"
 
 #: game/story/home_player_exterior.dialogue
 #, fuzzy
@@ -73881,79 +73611,67 @@ msgid "Viens discuter un peu avec moi..."
 msgstr ""
 
 #: game/story/home_player_bathroom.dialogue
-#, fuzzy
 msgctxt "home_player_bathroom_64704e2b"
 msgid "Ça devrait faire l'affaire et..."
 msgstr "To powinno załatwić sprawę i..."
 
 #: game/story/home_player_bathroom.dialogue
-#, fuzzy
 msgctxt "home_player_bathroom_fced261b"
 msgid "Hey, mais c'est quoi ce bordel ?!"
 msgstr "Hej, co do cholery?!"
 
 #: game/story/home_player_bathroom.dialogue
-#, fuzzy
 msgctxt "home_player_bathroom_8178876c"
 msgid "Mes yeux... Ils sont dorés !"
 msgstr "Moje oczy... Są złote!"
 
 #: game/story/home_player_bathroom.dialogue
-#, fuzzy
 msgctxt "home_player_bathroom_e2327b56"
 msgid "Jusqu'à ce que je me souvienne, ils ont toujours été marron..."
 msgstr "O ile pamiętam, zawsze były brązowe..."
 
 #: game/story/home_player_bathroom.dialogue
-#, fuzzy
 msgctxt "home_player_bathroom_4649eabc"
 msgid "Ça aurait un rapport avec ma réincarnation ?"
 msgstr "Czy ma to coś wspólnego z moją reinkarnacją?"
 
 #: game/story/home_player_bathroom.dialogue
-#, fuzzy
 msgctxt "home_player_bathroom_e663489e"
 msgid "Je dois en avoir le cœur net !"
 msgstr "Muszę się upewnić!"
 
 #: game/story/home_player_bathroom.dialogue
-#, fuzzy
 msgctxt "home_player_bathroom_1647e37f"
 msgid "Tant de mystères..."
 msgstr "Tyle tajemnic..."
 
 #: game/story/home_player_bathroom.dialogue
-#, fuzzy
 msgctxt "home_player_bathroom_07d4f51a"
 msgid "En fait, je trouve ça très excitant."
 msgstr "Uważam, że to naprawdę ekscytujące."
 
 #: game/story/home_player_bathroom.dialogue
-#, fuzzy
 msgctxt "home_player_bathroom_58f446b9"
 msgid "Tiens, tiens."
 msgstr "No proszę..."
 
 #: game/story/home_player_bathroom.dialogue
-#, fuzzy
 msgctxt "home_player_bathroom_d1fd9e41"
 msgid "Prenons le bain ensemble..."
 msgstr "Wykąpmy się razem..."
 
 #: game/story/home_player_bathroom.dialogue
-#, fuzzy
 msgctxt "home_player_bathroom_d6f084c8"
 msgid "Allez, ferme-moi ses yeux tout de suite et déshabille-toi !"
 msgstr "No dalej! Zamknij oczy i rozbierz się!"
 
 #: game/story/home_player_bathroom.dialogue
-#, fuzzy
 msgctxt "home_player_bathroom_1c3da840"
 msgid "Pourquoi toutes les femmes veulent toujours que je ferme les yeux à un moment si important ?!"
-msgstr "Dlaczego wszystkie kobiety chcą, żebym zamykał oczy w tak ważnych momentach?!"
+msgstr ""
+"Dlaczego wszystkie kobiety chcą, żebym zamykał oczy w tak ważnych momentach?!"
 
 #: game/story/home_player_bathroom.dialogue
-#, fuzzy
 msgctxt "home_player_bathroom_ecf59c13"
 msgid "Tu sais... Tu es déjà venue dormir nue dans ma chambre..."
 msgstr "Wiesz... Widziałem cię już nago, jak spałaś w moim pokoju..."
@@ -73964,19 +73682,16 @@ msgid "Ce... Ça n'avait rien à voir ! On ne faisait que dormir !"
 msgstr "To... To nie to samo! My tylko spaliśmy!"
 
 #: game/story/home_player_bathroom.dialogue
-#, fuzzy
 msgctxt "home_player_bathroom_d812661f"
 msgid "Allez, laisse-moi t'aider à te rincer !"
 msgstr "Chodź, pomogę ci się opłukać!"
 
 #: game/story/home_player_bathroom.dialogue
-#, fuzzy
 msgctxt "home_player_bathroom_f70630e3"
 msgid "Je pouvais le faire, tu n'étais pas obligée, tu sais..."
 msgstr "Sam mogę to zrobić! Nie musiałaś, wiesz..."
 
 #: game/story/home_player_bathroom.dialogue
-#, fuzzy
 msgctxt "home_player_bathroom_7aa29b63"
 msgid "J'ai envie de prendre soin de toi, tu te donnes beaucoup de mal en ce moment."
 msgstr "Chcę się tobą zaopiekować, ponieważ ostatnio tak ciężko pracujesz."
