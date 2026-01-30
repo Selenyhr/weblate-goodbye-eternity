@@ -112,9 +112,10 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-12-12 13:32+0100\n"
-"PO-Revision-Date: 2024-04-05 04:49+0000\n"
-"Last-Translator: jinjay <arsoon999@gmail.com>\n"
-"Language-Team: Chinese (Traditional) <https://translations.teot-studio.com/projects/goodbye-eternity/game-translation/zh_Hant/>\n"
+"PO-Revision-Date: 2026-01-31 06:39+0000\n"
+"Last-Translator: Ka Chun Wu <mone7money@gmail.com>\n"
+"Language-Team: Chinese (Traditional) <https://translations.teot-studio.com/"
+"projects/goodbye-eternity/game-translation/zh_Hant/>\n"
 "Language: zh_Hant\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -267,7 +268,7 @@ msgstr "老人"
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Policier"
-msgstr ""
+msgstr "警察"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
@@ -302,7 +303,7 @@ msgstr "麻美"
 
 #: game/scenes/gui/gui_start_asami.tscn
 msgid "Vous pouvez dès à présent poursuivre l’histoire d’{{asami.n}}."
-msgstr ""
+msgstr "你現在可以繼續{asami.n}的劇情"
 
 #: game/scenes/gui/gui_start_asami.tscn
 msgid "Vous avez fait le choix de vous lier [color=yellow]d'amitié[/color]."
@@ -314,7 +315,7 @@ msgstr "您選擇與她[color=yellow]墮落[/color]。"
 
 #: game/scenes/gui/gui_start_asami.tscn
 msgid "Vous avez fait le choix de [color=yellow]rester amis[/color]."
-msgstr ""
+msgstr "你選擇了[color=yellow]保持朋友關係[/color]."
 
 #: game/scenes/gui/gui_start_asami.tscn game/scenes/gui/gui_start_sakuya.tscn game/scenes/gui/gui_start_yasuka.tscn
 msgid "J'ai compris"
@@ -338,7 +339,7 @@ msgstr "安香"
 
 #: game/scenes/gui/gui_start_yasuka.tscn
 msgid "Vous pouvez dès à présent poursuivre l’histoire de {{yasuka.n}}."
-msgstr ""
+msgstr "你現在可以繼續{yasuka.n}的劇情"
 
 #: game/scenes/gui/gui_start_yasuka.tscn
 msgid "Vous avez fait le choix de l'[color=yellow]aimer et de la soutenir[/color]."
