@@ -112,7 +112,7 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-12-12 13:32+0100\n"
-"PO-Revision-Date: 2026-01-30 13:48+0000\n"
+"PO-Revision-Date: 2026-01-30 14:36+0000\n"
 "Last-Translator: Elarcia <cakirgoktug72@gmail.com>\n"
 "Language-Team: Turkish <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/tr/>\n"
@@ -675,22 +675,30 @@ msgid ""
 "Si l'application est sur le même périphérique que le jeu, laissez les champs IP locale, ainsi que port vides.\n"
 "[color=red]Pour le moment, seul le Lovense Max 2 a été implémenté, et donc seuls les jouets supportant vibration et/ou pompe à air sont supportés.[/color]"
 msgstr ""
+"Oyun, Windows ve akıllı telefonlarda kullanılabilen Lovense Remote "
+"uygulaması aracılığıyla Lovense oyuncaklarının kullanımını destekler.\n"
+"Uygulama, oyunla aynı cihazda çalışıyorsa, yerel IP ve port alanlarını boş "
+"bırakın.\n"
+"\n"
+"[color=red]Şu anda yalnızca Lovense Max 2 entegre edilmiştir; bu nedenle "
+"yalnızca titreşim ve/veya hava pompası özelliklerine sahip oyuncaklar "
+"desteklenir.[/color]"
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgid "Activer l'intégration"
-msgstr ""
+msgstr "Entegrasyonu etkinleştir"
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgid "Bannière publicitaire"
-msgstr ""
+msgstr "Reklam"
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgid "IP locale"
-msgstr ""
+msgstr "Yerel IP"
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgid "192.168.0.X"
-msgstr ""
+msgstr "192.168.0.X"
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgid "Port (non SSL)"
