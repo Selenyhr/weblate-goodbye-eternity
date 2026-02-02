@@ -112,8 +112,8 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-12-12 13:32+0100\n"
-"PO-Revision-Date: 2026-01-31 06:39+0000\n"
-"Last-Translator: Dogancan Yılmazer <dogancanyilmazer46@gmail.com>\n"
+"PO-Revision-Date: 2026-02-03 08:42+0000\n"
+"Last-Translator: ihsan cakir <ben.mertkaragoz@gmail.com>\n"
 "Language-Team: Turkish <https://translations.teot-studio.com/projects/"
 "goodbye-eternity/game-translation/tr/>\n"
 "Language: tr\n"
@@ -1021,17 +1021,17 @@ msgstr ""
 #: core/scenes/lovense_notification.gd
 msgctxt "lovense.messages"
 msgid "Batterie faible : {toy_name}."
-msgstr ""
+msgstr "Düşük batarya: {toy_name}"
 
 #: game/scenes/gui/lovense_ad.gd
 msgctxt "main_menu.lovense_ad"
 msgid "Maintenant compatible avec {{lovense}}."
-msgstr ""
+msgstr "Artık {{lovense}} ile uyumlu."
 
 #: game/scenes/gui/bad_ending/betrayed_girl.gd
 msgctxt "game_over.title"
 msgid "[i]La fille qui a été trahie.[/i]"
-msgstr ""
+msgstr "[i] İhanete uğrayan kız.[/i]"
 
 #: game/scenes/gui/bad_ending/betrayed_girl.gd
 msgctxt "game_over.summary"
@@ -1056,18 +1056,52 @@ msgid ""
 "père de sa fille, {{sayuri.n}} ravalera ses pensées et se contentera de les accueillir à bras ouverts en voyant le bonheur affiché par {{asami.n}}. Après tout elle aura bientôt des petits enfants..."
 "[/fill]"
 msgstr ""
+"[fill]{{asami.n}} kendisini {{netoru.n}}'nun manipulasyon una bıraktı. Onun "
+"stres ve intikam arzusunu kullanarak, Netoru onun X3 ü kendi rızasıyla "
+"almasını sağladı. ona karşı olan tiksintisine rağmen, ilacın kimyası işleri "
+"tersine çevird, Ve gözleri buluştuğu anda, o şehvetle doldu. {{netoru.n}} "
+"onun için tek önemli şey haline geldi. {{saito.n}} onun düşüncelerinden yok "
+"oldu; basitçe artık onun için yer yoktu—ne kalbinde ne de zihninde. Hayatı "
+"artık, bir zamanlar nefret ettiği ama şimdi delicesine aşık olduğu adamın "
+"etrafında şekillenmeye başladı.[/fill]\n"
+"\n"
+"[fill]{{minato.n}} kasabadan ayrılmadan önce gitmesine izin verecek, {{asami."
+"n}} annesine döndüğünü duyurmak için, konbiniye uğrayacak. {{sayuri.n}} "
+"kızıyla göz göze geldiği an, onun gerçeği bildiğini anlayacak. Özürler ve "
+"bağışlanma için yalvartıların bir anlamı olmayacak. {{asami.n}} , ona evi "
+"terk ettiğini söylemeden önce, ona soğuk bir bakış atacak. Annesi göz "
+"yaşları içinde, arada bir kendisiyle iletişime geçmesini isteyecek ve "
+"kendisinin her zaman biricik kızı olduğunu ekleyecek .[/fill]\n"
+"\n"
+"[fill]{{saito.n}}, {{asami.n}}’nin dönüş ve evi terkediş haberlerini göz "
+"yaşları içindeki annesi sayesinde öğrenecek, ama hiç bir zaman ona karanlık "
+"gerçeği açıklayacak cesareti bulamayacak. O günden sonra, her hafta posta "
+"kutusunda {{asami.n}}'den, yada kendinden videolarında bahsettiği gibi, [i]"
+"The girl who was betrayed[/i] , videolar bulacak. {{netoru.n}} ile olan "
+"bütün cinsel etkileşiminde bu ihaneti vurgulayacak.[/fill]\n"
+"\n"
+"[fill]{{saito.n}} suçluluk hissi yüzünden, bundan kimseye bahsetmeyecek. "
+"Onun hamile olduğunu fark ettiği gün, artık bunu kaldıramaz hale gelecek: "
+"utanç tarafından ele geçirilmiş bir şekilde, kasabayı terk edip farklı bir "
+"yerde yaşam sürmeye karar verecek.[/fill]\n"
+"\n"
+"[fill]Bu sırada, {{asami.n}} hamilelik döneminde annesiyle irtibata geçecek. "
+"Onu {{netoru.n}}'yla tanıştıracak. Kızının babası olacak yaşta bir adam "
+"görmesinin şokuna rağmen, {{sayuri.n}} kızı {{asami.n}} yüzündeki mutluluğu "
+"gördüğünde düşüncelerini yutacak ve onları sarılmalarla karşılayacak. "
+"Sonuçta, kendisinin bir torunu olacak…[/fill]"
 
 #: game/scenes/gui/bad_ending/game_over.tscn
 msgid "Voir ce qui s'est passé."
-msgstr ""
+msgstr "Neler olduğunu gör."
 
 #: game/scenes/gui/bad_ending/game_over.tscn
 msgid "Retourner en arrière."
-msgstr ""
+msgstr "Geri dön"
 
 #: game/scenes/gui/bad_ending/game_over.tscn
 msgid "Skin débloqué !"
-msgstr ""
+msgstr "Kostümün kilidi açıldı!"
 
 #. Character:`saito`
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
@@ -1169,7 +1203,7 @@ msgstr "Teşekkürler !"
 #: game/story/home_player_exterior.dialogue
 msgctxt "MERCI_032DB6"
 msgid "Merci !"
-msgstr ""
+msgstr "Teşekkürler!"
 
 #. Character:`narrator`
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
@@ -3239,7 +3273,7 @@ msgstr "..."
 #: game/story/onsen_room.dialogue
 msgctxt "_3E6F5A"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. Character:`saito`
 #: game/story/onsen_interior.dialogue
@@ -6191,7 +6225,7 @@ msgstr "Ama..."
 #: game/story/restaurant_interior.dialogue
 msgctxt "MAIS_767FDB"
 msgid "Mais..."
-msgstr ""
+msgstr "Ama..."
 
 #. Character:`saito` | Attributes:`surprised`
 #: game/story/home_kimochi_interior.dialogue
@@ -8399,61 +8433,63 @@ msgstr "Evet, benim odamın da seninki kadar havalı olduğunu göreceksin!"
 #: game/story/home_player_corridor.dialogue
 msgctxt "BON_SANG_MAIS_T_AS_PAS_BIENT_T_4F4A10"
 msgid "Bon sang, mais t'as pas bientôt fini de beugler comme ça ?"
-msgstr ""
+msgstr "Kahretsin, böyle çığlık atmayı ne zaman bırakacaksın?"
 
 #. Character:`saito`
 #: game/story/home_player_corridor.dialogue
 msgctxt "TU_SAIS_QUOI_JE_SUIS_CONTENT_D_F41226"
 msgid "Tu sais quoi, je suis content de te voir !"
-msgstr ""
+msgstr "Ne biliyor musun, seni gördüğüme sevindim!"
 
 #. Character:`noriko`
 #: game/story/home_player_corridor.dialogue
 msgctxt "OUI_EH_BIEN_JE_NE_PEUX_PAS_EN_02B93F"
 msgid "Oui, eh bien, je ne peux pas en dire autant, tu n'as pas vu maman ?"
-msgstr ""
+msgstr "Eh, şey, ben aynısını söyleyemem. Annemi gördün mü?"
 
 #. Character:`saito` | Attributes:`upset`
 #: game/story/home_player_corridor.dialogue
 msgctxt "W_C_EST_JUSTEMENT_A_LE_PROBL_E3C20C"
 msgid "...[w] C'est justement ça le problème."
-msgstr ""
+msgstr "...[w] Sorun da tam olarak bu."
 
 #. Character:`noriko` | Attributes:`neutral`
 #: game/story/home_player_corridor.dialogue
 msgctxt "COMMENT_A_UN_PROBL_ME_A84E65"
 msgid "Comment ça, un problème ?"
-msgstr ""
+msgstr "Ne demek istiyorsun?"
 
 #. Character:`saito` | Attributes:`sad`
 #: game/story/home_player_corridor.dialogue
 msgctxt "JE_CROIS_QUE_SAKUYA_N_S_EN_EST_D946B2"
 msgid "Je crois que {{sakuya.n}} s'en est prise à elle et qu'elle a l'intention de s'en prendre à toutes celles qui sont proches de moi."
 msgstr ""
+"Sanırım {sakuya.n} onu hedef alıyor ve benle yakınlaşan herkesin peşinden "
+"gitmeyi planlıyor."
 
 #. Character:`noriko` | Attributes:`bad`
 #: game/story/home_player_corridor.dialogue
 msgctxt "AH_OUAIS_EH_BIEN_J_AIMERAIS_BI_023154"
 msgid "Ah ouais ? Eh bien, j'aimerais bien voir ça ! Je l'attends de pied ferme !"
-msgstr ""
+msgstr "Öylemi? şey, bunu görmeyi çok isterim! İzliyor olacağım!"
 
 #. Character:`saito`
 #: game/story/home_player_corridor.dialogue
 msgctxt "ALLONS_REJOINDRE_ASAMI_N_DANS_51DE2A"
 msgid "... Allons rejoindre {{asami.n}} dans le salon."
-msgstr ""
+msgstr "...Hadi gidip oturma odasında {asami.n}'ye katılalım."
 
 #. Character:`noriko`
 #: game/story/home_player_corridor.dialogue
 msgctxt "QUOI_TU_CROIS_QUE_JE_NE_PEUX_P_AD5CE2"
 msgid "Quoi, tu crois que je ne peux pas botter le cul de cette grande perche ?"
-msgstr ""
+msgstr "Ne, o uzun fahişeyi dövemeyeceğimi falan mı sanıyorsun?"
 
 #. Character:`saito`
 #: game/story/home_player_corridor.dialogue
 msgctxt "NORIKO_N_E6A671"
 msgid "{{noriko.n}} ?"
-msgstr ""
+msgstr "{{noriko.n}}?"
 
 #. Character:`saito`
 #: game/story/home_player_saito_room.dialogue
@@ -8490,36 +8526,43 @@ msgstr "{{noriko.n}} ?"
 msgctxt "FONT_SIZE_14_BON_SANG_TU_NE_P_247B4D"
 msgid "[font_size=14]Bon sang... Tu ne pouvais pas me laisser aller aux toilettes tranquille ?[/font_size]"
 msgstr ""
+"[font_size=14]Kahretsin... Lavaboda bile rahat vermeyecek misin?[/font_size]"
 
 #. Character:`saito`
 #: game/story/home_player_corridor.dialogue
 msgctxt "D_SOL_W_ELLE_EST_CAPABLE_DE_TO_7976F8"
 msgid "Désolé...[w] Elle est capable de tout et je ne voudrais pas qu'elle s'en prenne à toi aussi."
 msgstr ""
+"Üzgünüm... [w] O herşeyi yapabilecek seviyede, ve senide incitmesini "
+"istemiyorum."
 
 #. Character:`saito`
 #: game/story/home_player_corridor.dialogue
 msgctxt "TU_ES_LITT_RALEMENT_LA_SEULE_P_3B2593"
 msgid "Tu es littéralement la seule personne qu'il me reste."
-msgstr ""
+msgstr "Tam olarak sahip olduğum bir sen kaldın."
 
 #. Character:`noriko`
 #: game/story/home_player_corridor.dialogue
 msgctxt "FONT_SIZE_14_JE_NE_SAIS_PAS_S_49DADD"
 msgid "[font_size=14]Je ne sais pas si le moment est bien choisi pour ce genre de discussion.[/font_size]"
 msgstr ""
+"[font_size=14] Böyle bir tartışma için zamanın pek uygun olduğunu "
+"sanmıyorum.[/font_size]"
 
 #. Character:`saito`
 #: game/story/home_player_corridor.dialogue
 msgctxt "JE_SAIS_PARDON_74B735"
 msgid "Je sais, pardon..."
-msgstr ""
+msgstr "Biliyorum. Üzgünüm..."
 
 #. Character:`noriko`
 #: game/story/home_player_corridor.dialogue
 msgctxt "FONT_SIZE_14_ARR_TE_DE_T_EN_F_655348"
 msgid "[font_size=14]Arrête de t'en faire, je suis littéralement enfermée à clé, par où veux-tu qu'elle passe pour s'en prendre à moi ?[/font_size]"
 msgstr ""
+"[font_size=14] Endişelenmeyi bırak. Kendimi içeri kilitledim. Bana nasıl "
+"ulaşabilir ki?[/font_size]"
 
 #. Character:`noriko`
 #: game/story/home_player_corridor.dialogue
