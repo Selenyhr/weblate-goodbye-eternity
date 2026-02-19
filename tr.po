@@ -110,18 +110,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
-"Report-Msgid-Bugs-To: \n"
+"Report-Msgid-Bugs-To: info@teot-studio.com\n"
 "POT-Creation-Date: 2025-12-12 13:32+0100\n"
-"PO-Revision-Date: 2026-02-03 08:42+0000\n"
-"Last-Translator: ihsan cakir <ben.mertkaragoz@gmail.com>\n"
-"Language-Team: Turkish <https://translations.teot-studio.com/projects/"
-"goodbye-eternity/game-translation/tr/>\n"
+"PO-Revision-Date: 2026-02-20 16:04+0000\n"
+"Last-Translator: Development team <info@teot-studio.com>\n"
+"Language-Team: Turkish <https://translations.teot-studio.com/projects/goodbye-eternity/game/tr/>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8-bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.17\n"
+"X-Generator: Weblate 5.16\n"
 
 #: game/scenes/cg/noriko/laptop.tscn
 msgid "Demi-Sœur Dépucelle Son Demi-Frère"
@@ -357,9 +356,7 @@ msgstr "Bu oyundaki bazı sahneler müstehcen içerik barındırabilir ve genç 
 msgid ""
 "Pendant votre aventure, vos choix impacteront votre entourage, si vous rejetez plusieurs fois un personnage attendez vous a ce qu’il aille voir ailleurs. Tout ceci dans le but de garder une "
 "certaine cohérence avec le monde réel."
-msgstr ""
-"Maceranız sırasında seçimleriniz etrafınızdakileri etkileyecektir. Bir karakteri birkaç kez reddederseniz başkalarıyla görüşmeye başlayabilir. Bunun amacı gerçek dünyayla bir miktar tutarlılığı "
-"korumaktır."
+msgstr "Maceranız sırasında seçimleriniz etrafınızdakileri etkileyecektir. Bir karakteri birkaç kez reddederseniz başkalarıyla görüşmeye başlayabilir. Bunun amacı gerçek dünyayla bir miktar tutarlılığı korumaktır."
 
 #: game/scenes/gui/splashscreen.tscn
 msgid "Vos actions auront des conséquences..."
@@ -675,14 +672,10 @@ msgid ""
 "Si l'application est sur le même périphérique que le jeu, laissez les champs IP locale, ainsi que port vides.\n"
 "[color=red]Pour le moment, seul le Lovense Max 2 a été implémenté, et donc seuls les jouets supportant vibration et/ou pompe à air sont supportés.[/color]"
 msgstr ""
-"Oyun, Windows ve akıllı telefonlarda kullanılabilen Lovense Remote "
-"uygulaması aracılığıyla Lovense oyuncaklarının kullanımını destekler.\n"
-"Uygulama, oyunla aynı cihazda çalışıyorsa, yerel IP ve port alanlarını boş "
-"bırakın.\n"
+"Oyun, Windows ve akıllı telefonlarda kullanılabilen Lovense Remote uygulaması aracılığıyla Lovense oyuncaklarının kullanımını destekler.\n"
+"Uygulama, oyunla aynı cihazda çalışıyorsa, yerel IP ve port alanlarını boş bırakın.\n"
 "\n"
-"[color=red]Şu anda yalnızca Lovense Max 2 entegre edilmiştir; bu nedenle "
-"yalnızca titreşim ve/veya hava pompası özelliklerine sahip oyuncaklar "
-"desteklenir.[/color]"
+"[color=red]Şu anda yalnızca Lovense Max 2 entegre edilmiştir; bu nedenle yalnızca titreşim ve/veya hava pompası özelliklerine sahip oyuncaklar desteklenir.[/color]"
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgid "Activer l'intégration"
@@ -809,9 +802,7 @@ msgstr "ATTRIBUTE"
 
 #: game/scenes/gui/game_menu/galleries/sprites.tscn
 msgid "Un skin est actif pour ce personnage. Certaines images peuvent être remplacées."
-msgstr ""
-"Bu görünüm karakter için aktifleştirilmiştir. Bazı görseller yer değiştirmiş "
-"olabilir."
+msgstr "Bu görünüm karakter için aktifleştirilmiştir. Bazı görseller yer değiştirmiş olabilir."
 
 #: game/scripts/gui/menu/save_button_template.gd
 msgctxt "saves.button.invalid"
@@ -990,16 +981,12 @@ msgstr "Varsayılan"
 
 #: core/scenes/ui/notification.tscn
 msgid "[center]Vous arrêtez l'enregistrement sous les yeux de Noriko. Faut pas oublier aussi que ça peut dépasser.[/center]"
-msgstr ""
-"[center]Noriko'nun tam önünde kaydı durduruyorsun. Unutma, işler kontrolden "
-"çıkabilir.[/center]"
+msgstr "[center]Noriko'nun tam önünde kaydı durduruyorsun. Unutma, işler kontrolden çıkabilir.[/center]"
 
 #: core/scenes/lovense_notification.gd
 msgctxt "lovense.messages"
 msgid "Le jeu a du mal à communiquer avec l'application Lovense Remote. Veuillez vérifier la qualité de la connexion."
-msgstr ""
-"Oyun, Lovense Uzaktan Kumanda uygulamasına bağlanmakta sorun yaşıyor. Lütfen "
-"bağlantı kalitenizi kontrol edin."
+msgstr "Oyun, Lovense Uzaktan Kumanda uygulamasına bağlanmakta sorun yaşıyor. Lütfen bağlantı kalitenizi kontrol edin."
 
 #: core/scenes/lovense_notification.gd
 msgctxt "lovense.messages"
@@ -1014,9 +1001,7 @@ msgstr "Bağlantısı kesilen oyuncak: {toy_name}."
 #: core/scenes/lovense_notification.gd
 msgctxt "lovense.error_message"
 msgid "Un problème est survenu lors de la synchronisation Lovense Remote. Veuillez vérifier la connexion."
-msgstr ""
-"Lovense Uzaktan Kumanda uygulaması senkronize edilirken bir sorun oluştu. "
-"Lütfen bağlantınızı kontrol edin."
+msgstr "Lovense Uzaktan Kumanda uygulaması senkronize edilirken bir sorun oluştu. Lütfen bağlantınızı kontrol edin."
 
 #: core/scenes/lovense_notification.gd
 msgctxt "lovense.messages"
@@ -1056,40 +1041,15 @@ msgid ""
 "père de sa fille, {{sayuri.n}} ravalera ses pensées et se contentera de les accueillir à bras ouverts en voyant le bonheur affiché par {{asami.n}}. Après tout elle aura bientôt des petits enfants..."
 "[/fill]"
 msgstr ""
-"[fill]{{asami.n}} kendisini {{netoru.n}}'nun manipulasyon una bıraktı. Onun "
-"stres ve intikam arzusunu kullanarak, Netoru onun X3 ü kendi rızasıyla "
-"almasını sağladı. ona karşı olan tiksintisine rağmen, ilacın kimyası işleri "
-"tersine çevird, Ve gözleri buluştuğu anda, o şehvetle doldu. {{netoru.n}} "
-"onun için tek önemli şey haline geldi. {{saito.n}} onun düşüncelerinden yok "
-"oldu; basitçe artık onun için yer yoktu—ne kalbinde ne de zihninde. Hayatı "
-"artık, bir zamanlar nefret ettiği ama şimdi delicesine aşık olduğu adamın "
-"etrafında şekillenmeye başladı.[/fill]\n"
+"[fill]{{asami.n}} kendisini {{netoru.n}}'nun manipulasyon una bıraktı. Onun stres ve intikam arzusunu kullanarak, Netoru onun X3 ü kendi rızasıyla almasını sağladı. ona karşı olan tiksintisine rağmen, ilacın kimyası işleri tersine çevird, Ve gözleri buluştuğu anda, o şehvetle doldu. {{netoru.n}} onun için tek önemli şey haline geldi. {{saito.n}} onun düşüncelerinden yok oldu; basitçe artık onun için yer yoktu—ne kalbinde ne de zihninde. Hayatı artık, bir zamanlar nefret ettiği ama şimdi delicesine aşık olduğu adamın etrafında şekillenmeye başladı.[/fill]\n"
 "\n"
-"[fill]{{minato.n}} kasabadan ayrılmadan önce gitmesine izin verecek, {{asami."
-"n}} annesine döndüğünü duyurmak için, konbiniye uğrayacak. {{sayuri.n}} "
-"kızıyla göz göze geldiği an, onun gerçeği bildiğini anlayacak. Özürler ve "
-"bağışlanma için yalvartıların bir anlamı olmayacak. {{asami.n}} , ona evi "
-"terk ettiğini söylemeden önce, ona soğuk bir bakış atacak. Annesi göz "
-"yaşları içinde, arada bir kendisiyle iletişime geçmesini isteyecek ve "
-"kendisinin her zaman biricik kızı olduğunu ekleyecek .[/fill]\n"
+"[fill]{{minato.n}} kasabadan ayrılmadan önce gitmesine izin verecek, {{asami.n}} annesine döndüğünü duyurmak için, konbiniye uğrayacak. {{sayuri.n}} kızıyla göz göze geldiği an, onun gerçeği bildiğini anlayacak. Özürler ve bağışlanma için yalvartıların bir anlamı olmayacak. {{asami.n}} , ona evi terk ettiğini söylemeden önce, ona soğuk bir bakış atacak. Annesi göz yaşları içinde, arada bir kendisiyle iletişime geçmesini isteyecek ve kendisinin her zaman biricik kızı olduğunu ekleyecek .[/fill]\n"
 "\n"
-"[fill]{{saito.n}}, {{asami.n}}’nin dönüş ve evi terkediş haberlerini göz "
-"yaşları içindeki annesi sayesinde öğrenecek, ama hiç bir zaman ona karanlık "
-"gerçeği açıklayacak cesareti bulamayacak. O günden sonra, her hafta posta "
-"kutusunda {{asami.n}}'den, yada kendinden videolarında bahsettiği gibi, [i]"
-"The girl who was betrayed[/i] , videolar bulacak. {{netoru.n}} ile olan "
-"bütün cinsel etkileşiminde bu ihaneti vurgulayacak.[/fill]\n"
+"[fill]{{saito.n}}, {{asami.n}}’nin dönüş ve evi terkediş haberlerini göz yaşları içindeki annesi sayesinde öğrenecek, ama hiç bir zaman ona karanlık gerçeği açıklayacak cesareti bulamayacak. O günden sonra, her hafta posta kutusunda {{asami.n}}'den, yada kendinden videolarında bahsettiği gibi, [i]The girl who was betrayed[/i] , videolar bulacak. {{netoru.n}} ile olan bütün cinsel etkileşiminde bu ihaneti vurgulayacak.[/fill]\n"
 "\n"
-"[fill]{{saito.n}} suçluluk hissi yüzünden, bundan kimseye bahsetmeyecek. "
-"Onun hamile olduğunu fark ettiği gün, artık bunu kaldıramaz hale gelecek: "
-"utanç tarafından ele geçirilmiş bir şekilde, kasabayı terk edip farklı bir "
-"yerde yaşam sürmeye karar verecek.[/fill]\n"
+"[fill]{{saito.n}} suçluluk hissi yüzünden, bundan kimseye bahsetmeyecek. Onun hamile olduğunu fark ettiği gün, artık bunu kaldıramaz hale gelecek: utanç tarafından ele geçirilmiş bir şekilde, kasabayı terk edip farklı bir yerde yaşam sürmeye karar verecek.[/fill]\n"
 "\n"
-"[fill]Bu sırada, {{asami.n}} hamilelik döneminde annesiyle irtibata geçecek. "
-"Onu {{netoru.n}}'yla tanıştıracak. Kızının babası olacak yaşta bir adam "
-"görmesinin şokuna rağmen, {{sayuri.n}} kızı {{asami.n}} yüzündeki mutluluğu "
-"gördüğünde düşüncelerini yutacak ve onları sarılmalarla karşılayacak. "
-"Sonuçta, kendisinin bir torunu olacak…[/fill]"
+"[fill]Bu sırada, {{asami.n}} hamilelik döneminde annesiyle irtibata geçecek. Onu {{netoru.n}}'yla tanıştıracak. Kızının babası olacak yaşta bir adam görmesinin şokuna rağmen, {{sayuri.n}} kızı {{asami.n}} yüzündeki mutluluğu gördüğünde düşüncelerini yutacak ve onları sarılmalarla karşılayacak. Sonuçta, kendisinin bir torunu olacak…[/fill]"
 
 #: game/scenes/gui/bad_ending/game_over.tscn
 msgid "Voir ce qui s'est passé."
@@ -8463,9 +8423,7 @@ msgstr "Ne demek istiyorsun?"
 #: game/story/home_player_corridor.dialogue
 msgctxt "JE_CROIS_QUE_SAKUYA_N_S_EN_EST_D946B2"
 msgid "Je crois que {{sakuya.n}} s'en est prise à elle et qu'elle a l'intention de s'en prendre à toutes celles qui sont proches de moi."
-msgstr ""
-"Sanırım {sakuya.n} onu hedef alıyor ve benle yakınlaşan herkesin peşinden "
-"gitmeyi planlıyor."
+msgstr "Sanırım {sakuya.n} onu hedef alıyor ve benle yakınlaşan herkesin peşinden gitmeyi planlıyor."
 
 #. Character:`noriko` | Attributes:`bad`
 #: game/story/home_player_corridor.dialogue
@@ -8525,16 +8483,13 @@ msgstr "{{noriko.n}} ?"
 #: game/story/home_player_corridor.dialogue
 msgctxt "FONT_SIZE_14_BON_SANG_TU_NE_P_247B4D"
 msgid "[font_size=14]Bon sang... Tu ne pouvais pas me laisser aller aux toilettes tranquille ?[/font_size]"
-msgstr ""
-"[font_size=14]Kahretsin... Lavaboda bile rahat vermeyecek misin?[/font_size]"
+msgstr "[font_size=14]Kahretsin... Lavaboda bile rahat vermeyecek misin?[/font_size]"
 
 #. Character:`saito`
 #: game/story/home_player_corridor.dialogue
 msgctxt "D_SOL_W_ELLE_EST_CAPABLE_DE_TO_7976F8"
 msgid "Désolé...[w] Elle est capable de tout et je ne voudrais pas qu'elle s'en prenne à toi aussi."
-msgstr ""
-"Üzgünüm... [w] O herşeyi yapabilecek seviyede, ve senide incitmesini "
-"istemiyorum."
+msgstr "Üzgünüm... [w] O herşeyi yapabilecek seviyede, ve senide incitmesini istemiyorum."
 
 #. Character:`saito`
 #: game/story/home_player_corridor.dialogue
@@ -8546,9 +8501,7 @@ msgstr "Tam olarak sahip olduğum bir sen kaldın."
 #: game/story/home_player_corridor.dialogue
 msgctxt "FONT_SIZE_14_JE_NE_SAIS_PAS_S_49DADD"
 msgid "[font_size=14]Je ne sais pas si le moment est bien choisi pour ce genre de discussion.[/font_size]"
-msgstr ""
-"[font_size=14] Böyle bir tartışma için zamanın pek uygun olduğunu "
-"sanmıyorum.[/font_size]"
+msgstr "[font_size=14] Böyle bir tartışma için zamanın pek uygun olduğunu sanmıyorum.[/font_size]"
 
 #. Character:`saito`
 #: game/story/home_player_corridor.dialogue
@@ -8560,9 +8513,7 @@ msgstr "Biliyorum. Üzgünüm..."
 #: game/story/home_player_corridor.dialogue
 msgctxt "FONT_SIZE_14_ARR_TE_DE_T_EN_F_655348"
 msgid "[font_size=14]Arrête de t'en faire, je suis littéralement enfermée à clé, par où veux-tu qu'elle passe pour s'en prendre à moi ?[/font_size]"
-msgstr ""
-"[font_size=14] Endişelenmeyi bırak. Kendimi içeri kilitledim. Bana nasıl "
-"ulaşabilir ki?[/font_size]"
+msgstr "[font_size=14] Endişelenmeyi bırak. Kendimi içeri kilitledim. Bana nasıl ulaşabilir ki?[/font_size]"
 
 #. Character:`noriko`
 #: game/story/home_player_corridor.dialogue
@@ -18259,8 +18210,7 @@ msgstr "Acaba...[w] Yok be, Paranoyak olmamalıyım!"
 msgctxt "LES_CHOSES_BOUGENT_PETIT_PETIT_BB5EDD"
 msgid ""
 "Les choses bougent petit à petit, {{noriko.n}} a été sauvée, je ne suis plus le faible que j'étais... {{yasuka.n}} croule toujours sous les dettes mais elle n'a plus l'autre pervers sur le dos."
-msgstr ""
-"İşler yavaş yavaş düzeliyor. {{noriko.n}} kurtarıldı ve artık eskisi gibi ezik değilim... {{yasuka.n}} hala borç içinde yüzüyor, ama en azından o sapığın boynunda nefes alıp vermesinden kurtuldu."
+msgstr "İşler yavaş yavaş düzeliyor. {{noriko.n}} kurtarıldı ve artık eskisi gibi ezik değilim... {{yasuka.n}} hala borç içinde yüzüyor, ama en azından o sapığın boynunda nefes alıp vermesinden kurtuldu."
 
 #. Character:`narrator`
 #: game/story/canal.dialogue
@@ -44050,9 +44000,7 @@ msgctxt "te6d2591f80"
 msgid ""
 "Ma mère est grande elle peut faire ce qu'elle veut et {{saito.n}} est juste un ami et s'il rend ma mère heureuse alors tant mieux, ce sera toujours mieux que d'avoir un père incapable et toujours "
 "absent."
-msgstr ""
-"Annem bir yetişkin. Ne isterse yapabilir. Ayrıca, {{saito.n}} sadece bir arkadaş ve annemi mutlu ederse çok daha iyi olur! Bu, aciz ve sürekli ortalıkta olmayan bir babaya sahip olmaktan daha iyi "
-"olacaktır."
+msgstr "Annem bir yetişkin. Ne isterse yapabilir. Ayrıca, {{saito.n}} sadece bir arkadaş ve annemi mutlu ederse çok daha iyi olur! Bu, aciz ve sürekli ortalıkta olmayan bir babaya sahip olmaktan daha iyi olacaktır."
 
 #. Character:`netoru`
 #: game/story/home_minato_basement.dialogue
@@ -55321,9 +55269,7 @@ msgctxt "JE_PRENDRAI_GRAND_SOIN_DE_VOUS_EBE47A"
 msgid ""
 "Je prendrai grand soin de vous comme si vous étiez ma femme. D’ailleurs, vous le deviendrez. Nous aurons un beau mariage et sûrement des enfants. La population de notre cher beau pays étant "
 "vieillissante, je me fais un devoir d’y remédier."
-msgstr ""
-"Sana sanki karımmışsın gibi iyi bakacağım. Hatta, karım olacaksın. Güzel bir düğünümüz olacak, elbette çocuklarımızda. Güzel ülkemizin nüfusu ihtiyarladığı için, bunu kendime bir boyun borcu olarak "
-"görüyorum."
+msgstr "Sana sanki karımmışsın gibi iyi bakacağım. Hatta, karım olacaksın. Güzel bir düğünümüz olacak, elbette çocuklarımızda. Güzel ülkemizin nüfusu ihtiyarladığı için, bunu kendime bir boyun borcu olarak görüyorum."
 
 #. Character:`sayuri`
 #: game/story/home_asami_livingroom.dialogue
@@ -60773,9 +60719,7 @@ msgctxt "ELLE_L_A_MA_TRIS_ET_LUI_A_FAIT_C6234D"
 msgid ""
 "Elle l'a maîtrisé et lui a fait avaler ça. Il y avait des photos de moi partout sur les murs de sa chambre. Quand {{akira.n}} a eu sa troisième dose, il a totalement changé, au point qu'il ne peut "
 "même plus s'approcher de moi sans avoir envie de me..."
-msgstr ""
-"O {akira.n}'dan güçlü çıktı ve kendi uyuşturucusunu ona yutturdu. Odanın duvarlarının her yerinde benim resmim vardı. üçüncü dozu içtiğinde, tamamen değişti. Hatta benim yanıma şey yapmadan "
-"gelemiyor..."
+msgstr "O {akira.n}'dan güçlü çıktı ve kendi uyuşturucusunu ona yutturdu. Odanın duvarlarının her yerinde benim resmim vardı. üçüncü dozu içtiğinde, tamamen değişti. Hatta benim yanıma şey yapmadan gelemiyor..."
 
 #. Character:`kimochi`
 #: game/story/home_kimochi_interior.dialogue
@@ -60903,9 +60847,7 @@ msgctxt "POUR_CONCEVOIR_UNE_TELLE_DROGU_F81C76"
 msgid ""
 "Pour concevoir une telle drogue, il faut des moyens, des infrastructures. Ce n'est pas à la portée du premier étudiant venu dans son garage. La façon dont il ne laisse personne approcher sa maison "
 "ni sa famille, son comportement..."
-msgstr ""
-"Böyle bir ilacı geliştirebilmek için kaynak ve altyapı gerekir. Sıradan bir öğrencinin garajında uydurup yapabileceği türden bir şey değil. Ancak evine ve ailesine kimseyi yaklaştırmaması, "
-"sergilediği davranışlar..."
+msgstr "Böyle bir ilacı geliştirebilmek için kaynak ve altyapı gerekir. Sıradan bir öğrencinin garajında uydurup yapabileceği türden bir şey değil. Ancak evine ve ailesine kimseyi yaklaştırmaması, sergilediği davranışlar..."
 
 #. Character:`noriko` | Attributes:`disgusted`
 #: game/story/home_kimochi_interior.dialogue
@@ -83323,8 +83265,7 @@ msgctxt "t54856f830a"
 msgid ""
 "[font_size=20]Car tu peux être sûre que j'emploierai toute mon énergie à révéler aux yeux du monde quelle salope tu peux être. Et le jour où ça arrivera, je serai à la meilleure place pour voir ça."
 "[/font_size]"
-msgstr ""
-"[font_size=20]Çünkü tüm enerjimi senin nasıl bir sürtük olabileceğini dünyaya göstermek için harcayacağımdan emin olabilirsin. Ve o gün geldiğinde, bunu en güzel yerden izleyeceğim.[/font_size]"
+msgstr "[font_size=20]Çünkü tüm enerjimi senin nasıl bir sürtük olabileceğini dünyaya göstermek için harcayacağımdan emin olabilirsin. Ve o gün geldiğinde, bunu en güzel yerden izleyeceğim.[/font_size]"
 
 #. Character:`saito`
 #: game/story/home_player_exterior.dialogue
