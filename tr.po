@@ -113,7 +113,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: info@teot-studio.com\n"
 "POT-Creation-Date: 2025-12-12 13:32+0100\n"
 "PO-Revision-Date: 2026-02-21 16:40+0000\n"
-"Last-Translator: ihsan cakir <ben.ihsan.cakir@gmail.com>\n"
+"Last-Translator: Development team <info@teot-studio.com>\n"
 "Language-Team: Turkish <https://translations.teot-studio.com/projects/goodbye-eternity/game/tr/>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
@@ -8421,6 +8421,7 @@ msgstr "Ne demek istiyorsun?"
 
 #. Character:`saito` | Attributes:`sad`
 #: game/story/home_player_corridor.dialogue
+#, fuzzy
 msgctxt "JE_CROIS_QUE_SAKUYA_N_S_EN_EST_D946B2"
 msgid "Je crois que {{sakuya.n}} s'en est prise à elle et qu'elle a l'intention de s'en prendre à toutes celles qui sont proches de moi."
 msgstr "Sanırım {sakuya.n} onu hedef alıyor ve benle yakınlaşan herkesin peşinden gitmeyi planlıyor."
@@ -8433,6 +8434,7 @@ msgstr "Öylemi? şey, bunu görmeyi çok isterim! İzliyor olacağım!"
 
 #. Character:`saito`
 #: game/story/home_player_corridor.dialogue
+#, fuzzy
 msgctxt "ALLONS_REJOINDRE_ASAMI_N_DANS_51DE2A"
 msgid "... Allons rejoindre {{asami.n}} dans le salon."
 msgstr "...Hadi gidip oturma odasında {asami.n}'ye katılalım."
@@ -33208,6 +33210,7 @@ msgstr "Bayılmadığından emin olsam iyi olur."
 
 #. Character:`narrator`
 #: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+#, fuzzy
 msgctxt "yasuka_love_sexe_repeat_4bc5f2cf"
 msgid "Ou autre chose."
 msgstr "Yoksa başka bir şey mi?{"
@@ -41518,6 +41521,7 @@ msgstr "Burada ne yapıyorsun, sevgilim? Sana benzemiyor."
 
 #. Character:`sayuri`
 #: game/story/konbini_interior.dialogue
+#, fuzzy
 msgctxt "konbini_interior_74698715"
 msgid "Tu n'es pas avec {{saito.n}} ?"
 msgstr "Sen {{saito.n}} ile birlikte değil miydin? }?"
@@ -60715,6 +60719,7 @@ msgstr "Ben {{sakuya.n}}'yla bir iki gün sıkışıp kaldığımda, {{akira.n}}
 
 #. Character:`saito`
 #: game/story/home_kimochi_interior.dialogue
+#, fuzzy
 msgctxt "ELLE_L_A_MA_TRIS_ET_LUI_A_FAIT_C6234D"
 msgid ""
 "Elle l'a maîtrisé et lui a fait avaler ça. Il y avait des photos de moi partout sur les murs de sa chambre. Quand {{akira.n}} a eu sa troisième dose, il a totalement changé, au point qu'il ne peut "
@@ -60789,6 +60794,7 @@ msgstr "Kusasımı getiriyor..."
 
 #. Character:`noriko`
 #: game/story/home_kimochi_interior.dialogue
+#, fuzzy
 msgctxt "ET_ASAMI_N_A_PRIS_LA_PREMI_RE_1EEE9C"
 msgid "Et {{asami.n}} a pris la première dose, c'est ça ?"
 msgstr "Ve {asami.n} ilk dozunu aldı, değil mi?"
@@ -60801,6 +60807,7 @@ msgstr "Evet. Bunu yapan kişi kasten sinirlerimizle oynuyor."
 
 #. Character:`kimochi` | Attributes:`angry`
 #: game/story/home_kimochi_interior.dialogue
+#, fuzzy
 msgctxt "MERDE_SAITO_N_TU_AURAIS_D_M_EN_B7E366"
 msgid "Merde, {{saito.n}} ! Tu aurais dû m'en parler bien plus tôt !"
 msgstr "Kahretsin, {saito.n}! Bunu bana daha önce söylemeliydin!"
@@ -77801,6 +77808,7 @@ msgstr "Ne işi var benim evimde?"
 
 #. Character:`saito` | Attributes:`surprised`
 #: game/story/home_asami_asami_room.dialogue
+#, fuzzy
 msgctxt "home_asami_asami_room_02996aab"
 msgid "Je n'en sais rien, je ne l'ai pas invité."
 msgstr "Bilmiyorum. Onu ben davet etmedim.{/i}"
@@ -80999,6 +81007,7 @@ msgstr "Lütfen{{sakuya.n}}, kes şunu..."
 
 #. Character:`sakuya` | Attributes:`sad`
 #: game/story/restaurant_sakuya_room.dialogue
+#, fuzzy
 msgctxt "restaurant_sakuya_room_a1fff6b8"
 msgid "Mon chéri... Ne me regarde pas avec ces yeux-là..."
 msgstr "Bir tanem! Bana öyle bakma{$name}."
@@ -83899,6 +83908,7 @@ msgstr "Şey... Acaba {{asami.n}} tavsiyemi dinledi mi?"
 
 #. Character:`narrator`
 #: game/story/home_player_exterior.dialogue
+#, fuzzy
 msgctxt "home_player_exterior_a71605eb"
 msgid "Quand je repense au comportement suspect de {{minato.n}} je m'en voudrais presque."
 msgstr "{minato.n}'in şüpheli davranışlarını düşündüğümde neredeyse kendimi suçluyorum."
