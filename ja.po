@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: info@teot-studio.com\n"
 "POT-Creation-Date: 2025-12-12 13:32+0100\n"
-"PO-Revision-Date: 2026-02-20 16:01+0000\n"
+"PO-Revision-Date: 2026-02-21 16:40+0000\n"
 "Last-Translator: Development team <info@teot-studio.com>\n"
 "Language-Team: Japanese <https://translations.teot-studio.com/projects/goodbye-eternity/game/ja/>\n"
 "Language: ja\n"
@@ -191,6 +191,7 @@ msgid "ASAMI"
 msgstr "麻美"
 
 #: game/scenes/gui/gui_start_asami.tscn
+#, fuzzy
 msgid "Vous pouvez dès à présent poursuivre l’histoire d’{{asami.n}}."
 msgstr "これで{asami.n}のストーリーを続けることができます。"
 
@@ -227,6 +228,7 @@ msgid "YASUKA"
 msgstr "安香"
 
 #: game/scenes/gui/gui_start_yasuka.tscn
+#, fuzzy
 msgid "Vous pouvez dès à présent poursuivre l’histoire de {{yasuka.n}}."
 msgstr "これで{yasuka.n}のストーリーを続けることが出来ます。"
 
@@ -110093,6 +110095,7 @@ msgid "home_nobu_exterior"
 msgstr "{{nobu.n}}の家"
 
 #: game/scripts/locations/location_pathing.tscn
+#, fuzzy
 msgctxt "location"
 msgid "home_takeo_exterior"
 msgstr "{takeo.n}の家"
@@ -110303,11 +110306,13 @@ msgid "main_18_noriko_femdom_maledom"
 msgstr "{{yasuka.n}}を探してCDプレイヤーを返してもらう。"
 
 #: game/scripts/variables/quests.gd
+#, fuzzy
 msgctxt "quests.hints"
 msgid "main_19_noriko_femdom_maledom"
 msgstr "CDプレイヤーを手に入れて{macumba.n}}に会いに行く。"
 
 #: game/scripts/variables/quests.gd
+#, fuzzy
 msgctxt "quests.hints"
 msgid "main_19_1_noriko_femdom_maledom"
 msgstr "CDプレイヤーを手に入れて{macumba.n}}に会いに行く。"
@@ -110798,6 +110803,7 @@ msgid "asami_corruption_20"
 msgstr "{{minato.n}}の前で怪しい男を捕まえる。"
 
 #: game/scripts/variables/quests.gd
+#, fuzzy
 msgctxt "quests.hints"
 msgid "asami_corruption_21"
 msgstr "{{kimochi.n}の前でアパートに入る。"
@@ -115265,6 +115271,7 @@ msgid "Accepter les avances de {{sakuya.n}}."
 msgstr ""
 
 #: attributes.galleries/cgs/sakuya/chair_sakuya_room
+#, fuzzy
 msgctxt "galleries.movies.attribute"
 msgid "akira"
 msgstr "{akira.n}と"
