@@ -112,7 +112,7 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: info@teot-studio.com\n"
 "POT-Creation-Date: 2025-12-12 13:32+0100\n"
-"PO-Revision-Date: 2026-02-20 15:57+0000\n"
+"PO-Revision-Date: 2026-02-21 16:40+0000\n"
 "Last-Translator: Development team <info@teot-studio.com>\n"
 "Language-Team: Chinese (Traditional Han script) <https://translations.teot-studio.com/projects/goodbye-eternity/game/zh_Hant/>\n"
 "Language: zh_Hant\n"
@@ -301,6 +301,7 @@ msgid "ASAMI"
 msgstr "麻美"
 
 #: game/scenes/gui/gui_start_asami.tscn
+#, fuzzy
 msgid "Vous pouvez dès à présent poursuivre l’histoire d’{{asami.n}}."
 msgstr "你現在可以繼續{asami.n}的劇情"
 
@@ -337,6 +338,7 @@ msgid "YASUKA"
 msgstr "安香"
 
 #: game/scenes/gui/gui_start_yasuka.tscn
+#, fuzzy
 msgid "Vous pouvez dès à présent poursuivre l’histoire de {{yasuka.n}}."
 msgstr "你現在可以繼續{yasuka.n}的劇情"
 
@@ -5321,6 +5323,7 @@ msgstr "我已經從中了解很多了。"
 
 #. Character:`saito`
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
+#, fuzzy
 msgctxt "yasuka_talk_noriko_maledom_8a0b3a25"
 msgid "Je trouverai l'origine du problème et {{noriko.n}} me sourira à nouveau."
 msgstr "我會找出問題的根源的，然後{noriko.n}會再次對我微笑的。"
@@ -36042,6 +36045,7 @@ msgstr "嗨，{{yasuka.n}}！"
 
 #. Character:`yasuka`
 #: game/story/home_player_livingroom.dialogue
+#, fuzzy
 msgctxt "home_player_livingroom_afe1994d"
 msgid "Bonjour {{saito.n}}."
 msgstr "你好，{saito.n}。"
@@ -77944,6 +77948,7 @@ msgstr "人不會無緣無故討厭一個人 {{saito.n}}."
 
 #. Character:`asami` | Attributes:`neutral`
 #: game/story/home_asami_asami_room.dialogue
+#, fuzzy
 msgctxt "home_asami_asami_room_80c098d0"
 msgid "Il a raison, quand tu as disparu à cause de {{sakuya.n}}, {{noriko.n}} a semblé vraiment inquiète."
 msgstr "他說得對，當你被{sakuya.n}}綁走的時候，{{noriko.n}}似乎真的很擔心你。"
@@ -87951,6 +87956,7 @@ msgstr "太棒了!那我們現在就解決這問題吧。"
 
 #. Character:`narrator`
 #: game/story/home_player_exterior.dialogue
+#, fuzzy
 msgctxt "asami_truth_07d0b210"
 msgid "J'ai beau dire à {{yasuka.n}} qu'il n'arrivera rien à {{noriko.n}}. Tout ça ressemble étrangement à la situation de ma précédente vie."
 msgstr "雖然我對{{yasuka.n}}說過{{noriko.n}不會有事，但這一切都和我前世的情況非常相似。"
