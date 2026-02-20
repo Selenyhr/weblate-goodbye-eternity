@@ -112,7 +112,7 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: info@teot-studio.com\n"
 "POT-Creation-Date: 2025-12-12 13:32+0100\n"
-"PO-Revision-Date: 2026-02-20 16:15+0000\n"
+"PO-Revision-Date: 2026-02-21 16:40+0000\n"
 "Last-Translator: Development team <info@teot-studio.com>\n"
 "Language-Team: Italian <https://translations.teot-studio.com/projects/goodbye-eternity/game/it/>\n"
 "Language: it\n"
@@ -9062,12 +9062,14 @@ msgstr "Sto ripetendo gli stessi schemi della mia vita precedente... Non riesco 
 
 #. Character:`asami`
 #: game/story/home_player_corridor.dialogue
+#, fuzzy
 msgctxt "home_player_corridor_90362c2d"
 msgid "{{saito.n}} attend !"
 msgstr "{saito.n} Aspetta!"
 
 #. Character:`asami`
 #: game/story/home_player_corridor.dialogue
+#, fuzzy
 msgctxt "home_player_corridor_b1163c93"
 msgid "Je suis vraiment désolée... Je ne voulais pas m'emporter contre {{noriko.n}}."
 msgstr "Mi dispiace davvero... Non intendevo prendermela con {noriko.n}"
@@ -9086,6 +9088,7 @@ msgstr "Non preoccuparti, non sono affatto arrabbiato con te."
 
 #. Character:`saito`
 #: game/story/home_player_corridor.dialogue
+#, fuzzy
 msgctxt "home_player_corridor_9839dba9"
 msgid "{{noriko.n}} n'est pas quelqu'un qui sait faire preuve de tact."
 msgstr "{noriko.n} non è una persona dotata di tatto."
@@ -9122,6 +9125,7 @@ msgstr "Tesoro mio, fidati di me!"
 
 #. Character:`asami` | Attributes:`happy`
 #: game/story/home_player_corridor.dialogue
+#, fuzzy
 msgctxt "home_player_corridor_bf8d799b"
 msgid "{{saito.n}}, fais-moi confiance !"
 msgstr "{saito.n}, fidati di me!"
@@ -10791,6 +10795,7 @@ msgstr "Si fermarono tutti nel parcheggio di Konbini."
 
 #. Character:`takeo`
 #: game/story/warehouse_exterior.dialogue
+#, fuzzy
 msgctxt "warehouse_exterior_30dd551d"
 msgid "{{akira.n}} était encore au lycée à l'époque. C'était une soirée d'été et la chaleur était toujours étouffante. Il dégustait tranquillement une glace à l'eau, quand..."
 msgstr "{akira.n} all'epoca frequentava ancora le scuole superiori. Era una sera d'estate e il caldo era soffocante. Stava tranquillamente gustando un ghiacciolo quando..."
@@ -11067,12 +11072,14 @@ msgstr "Come persona che frequenta spesso la città, ha idea di chi possa essere
 
 #. Character:`natsume` | Attributes:`bad`
 #: game/story/warehouse_exterior.dialogue
+#, fuzzy
 msgctxt "warehouse_exterior_b278dbf7"
 msgid "Un gars accro à l'entraînement... {{saito.n}} traîne souvent avec."
 msgstr "Un gars accro à l'entraînement... {saito.n}che frequenta spesso."
 
 #. Character:`minato`
 #: game/story/warehouse_exterior.dialogue
+#, fuzzy
 msgctxt "warehouse_exterior_6b234c33"
 msgid "{{saito.n}}... Je vais de surprise en surprise."
 msgstr "{saito.n}... Passo da una sorpresa all'altra."
@@ -12747,6 +12754,7 @@ msgstr "Per una volta è bello essere un passo in avanti."
 
 #. Character:`narrator`
 #: game/story/home_kimochi_exterior.dialogue
+#, fuzzy
 msgctxt "home_kimochi_exterior_bb415418"
 msgid "Par contre... devoir rejeter {{asami.n}} et {{yasuka.n}}... Ça me fend le cœur."
 msgstr "D'altro canto, dover lasciare {{asami.n}} e {{yasuka.n}}}... mi spezza il cuore."
@@ -28214,6 +28222,7 @@ msgstr "Non posso credere che puoi essere così comprensiva con me, con {{yasuka
 
 #. Character:`asami`
 #: game/story/home_player_saito_room.dialogue
+#, fuzzy
 msgctxt "home_player_room_ed03ec27"
 msgid "... et mettre {{noriko.n}} de côté à chaque fois..."
 msgstr "... e mettere {noriko.n}} sempre in disparte..."
@@ -29900,6 +29909,7 @@ msgstr "La prossima volta sarà il mio turno di approfittarmi di te!"
 
 #. Character:`saito`
 #: game/story/home_player_saito_room.dialogue
+#, fuzzy
 msgctxt "t59da2124a2"
 msgid "...[w]En fait...[w]J'ai promis à {{yasuka.n}} d'abord..."
 msgstr "...[w]In realtà...[w] L'ho promesso a {yasuka.n}, prima..."
@@ -29912,6 +29922,7 @@ msgstr "Vaffanculo!"
 
 #. Character:`saito` | Attributes:`happy`
 #: game/story/home_player_saito_room.dialogue
+#, fuzzy
 msgctxt "t4c209fe4c1"
 msgid "C'est plus la {{noriko.n}} que je connais ça !"
 msgstr "Questa è la {noriko.n} che conosco!"
@@ -32600,6 +32611,7 @@ msgstr "Voglio continuare a essere felice e sono felice con te."
 
 #. Character:`yasuka`
 #: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+#, fuzzy
 msgctxt "home_player_yasuka_room_af9a0385"
 msgid "{{noriko.n}} ne restera pas éternellement dans cette maison."
 msgstr "{noriko.n} non resterà in questa casa per sempre."
@@ -33230,6 +33242,7 @@ msgstr "Pensavo di dover venire in camera tua per una visita notturna..."
 
 #. Character:`saito`
 #: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+#, fuzzy
 msgctxt "sleeping_with_yasuka_2_14bfc72d"
 msgid "{{yasuka.n}} est-ce que tout va bien ?"
 msgstr "{yasuka.n} Tutto bene?"
@@ -34502,6 +34515,7 @@ msgstr "Non sono sicuro di dove tu stia andando a parare."
 
 #. Character:`yasuka` | Attributes:`happy`
 #: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
+#, fuzzy
 msgctxt "t8e1e247912"
 msgid "J'aimerais que {{sayuri.n}} puisse connaitre ce même bonheur."
 msgstr "Vorrei tanto che {sayuri.n} potesse provare la stessa gioia."
@@ -39842,6 +39856,7 @@ msgstr "Ah, sei sconvolto anche tu? Allora non sono pazzo, è..."
 
 #. Character:`sayuri` | Attributes:`happy`
 #: game/story/home_player_livingroom.dialogue
+#, fuzzy
 msgctxt "t94d5259211"
 msgid "Oh bonjour {{saito.n}} !"
 msgstr "Oh, ciao {saito.n}!"
@@ -39866,6 +39881,7 @@ msgstr "Ah, sono sorpreso che vi conosciate."
 
 #. Character:`sayuri`
 #: game/story/home_player_livingroom.dialogue
+#, fuzzy
 msgctxt "t4595aa5678"
 msgid "{{yasuka.n}} est une amie de longue date, on s'est un peu perdues de vue avec le temps, mais le fait que tu sois proche de ma fille a permis de nous rapprocher de nouveau."
 msgstr "{yasuka.n} è un'amica di vecchia data. Ci siamo allontanate un po' col tempo, ma il fatto che tu sia così vicino a mia figlia ci ha riavvicinate."
@@ -39920,6 +39936,7 @@ msgstr "E se ti proponessi un cambio d'aria?"
 
 #. Character:`sayuri` | Attributes:`moved`
 #: game/story/home_player_livingroom.dialogue
+#, fuzzy
 msgctxt "tb2566d66e2"
 msgid "Tu es adorable {{saito.n}} mais ne te force pas, qu'est-ce que tu irais faire avec une vieille bique comme moi ?"
 msgstr "Sei adorabile, {saito.n}, ma non ti sforzare! Cosa faresti mai con una vecchia rinsecchita come me?"
@@ -39938,6 +39955,7 @@ msgstr "Non essere ridicola! Al massimo, potrebbero scambiarti per mia sorella m
 
 #. Character:`sayuri` | Attributes:`moved,blush`
 #: game/story/home_player_livingroom.dialogue
+#, fuzzy
 msgctxt "t18f2d777f6"
 msgid "{{yasuka.n}} c'est toi qui as élevé ce séducteur dangereux ?!"
 msgstr "{yasuka.n}! Sei tu che hai cresciuto questo pericoloso adulatore?!"
@@ -39968,12 +39986,14 @@ msgstr "Però accetto!"
 
 #. Character:`saito` | Attributes:`happy`
 #: game/story/home_player_livingroom.dialogue
+#, fuzzy
 msgctxt "ta8cce4653c"
 msgid "Il y a certes un peu de {{yasuka.n}} dans cette idée mais j'aimerais aussi beaucoup apprendre à connaître la mère de ma meilleure amie."
 msgstr "Potrebbe esserci lo zampino di {yasuka.n}, ma mi piacerebbe molto conoscere la madre della mia migliore amica."
 
 #. Character:`saito` | Attributes:`happy`
 #: game/story/home_player_livingroom.dialogue
+#, fuzzy
 msgctxt "te72542ea60"
 msgid "Il y a certes un peu de {{yasuka.n}} dans cette idée mais j'aimerais aussi beaucoup apprendre à connaître ma future belle-mère qui sait..."
 msgstr "Ci potrebbe leggermente essere lo zampino di {yasuka.n}, ma mi piacerebbe conoscere meglio la mia futura suocera, chissà..."
@@ -39998,6 +40018,7 @@ msgstr "Perfetto!"
 
 #. Character:`sayuri`
 #: game/story/home_player_livingroom.dialogue
+#, fuzzy
 msgctxt "t36d9e66e3e"
 msgid "{{yasuka.n}} merci pour le thé et la discussion, je dois me... préparer."
 msgstr "{yasuka.n}, grazie per il tè e per la chiacchierata. Devo... prepararmi."
@@ -40100,6 +40121,7 @@ msgstr "Non è come se avessi qualcosa di meglio da fare, comunque."
 
 #. Character:`saito` | Attributes:`happy`
 #: game/story/home_player_livingroom.dialogue
+#, fuzzy
 msgctxt "t5febb6b6fb"
 msgid "Et puis, comme je l'ai dit, c'est l'occasion de mieux connaitre {{sayuri.n}}."
 msgstr "E, come ho detto, è un'opportunità per conoscere meglio {sayuri.n}."
@@ -40136,6 +40158,7 @@ msgstr "Gli unici ricordi che ho di lei risalgono a molto tempo fa."
 
 #. Character:`yasuka` | Attributes:`happy`
 #: game/story/home_player_livingroom.dialogue
+#, fuzzy
 msgctxt "tc3220dc13e"
 msgid "Et à cette époque {{sayuri.n}} était assez folle."
 msgstr "E a quei tempi, {sayuri.n} era davvero scatenata."
@@ -41036,6 +41059,7 @@ msgstr "Ditemi... voi due volete una mano?"
 
 #. Character:`sayuri` | Attributes:`happy`
 #: game/story/konbini_interior.dialogue
+#, fuzzy
 msgctxt "menu_sayuri_konbini_b641c373"
 msgid "Oh ma chérie ! Je taquinais juste {{saito.n}}."
 msgstr "Oh tesoro! Stavo solo stuzzicando {saito.n}}."
@@ -41810,6 +41834,7 @@ msgstr "Con piacere, ma prima sarei felice di togliere tutta la sua roba dalla c
 
 #. Character:`sayuri`
 #: game/story/konbini_interior.dialogue
+#, fuzzy
 msgctxt "t5423db499c"
 msgid "Passe me voir demain matin, j'aurais des nouvelles d'{{asami.n}} !"
 msgstr "Vieni da me domani mattina. Avrò notizie per te {asami.n} !"
@@ -42656,6 +42681,7 @@ msgstr "Dovrai pensarci tu ora, al posto suo."
 
 #. Character:`kenji`
 #: game/story/warehouse_interior.dialogue
+#, fuzzy
 msgctxt "warehouse_interior_5610c7cb"
 msgid "Tu fais chier {{nobu.n}}, je me tape tes corvées !"
 msgstr "Sei proprio un dito in culo {{nobu.n}, sempre a fare i tuoi lavori!"
@@ -46092,6 +46118,7 @@ msgstr "Quando ero ragazza spendevo molto tempo qui."
 
 #. Character:`sayuri`
 #: game/story/arcade_exterior.dialogue
+#, fuzzy
 msgctxt "t768b31a2eb"
 msgid "...et dépensé assez d'argent pour offrir des études supérieures pour {{asami.n}}."
 msgstr "...e anche molto denaro... probabilmente abbastanza che ora riuscirei a coprire i costi di una scuola migliore per {asami.n}."
@@ -46188,6 +46215,7 @@ msgstr "Ti sei divertita?"
 
 #. Character:`saito`
 #: game/story/arcade_exterior.dialogue
+#, fuzzy
 msgctxt "tb27ad5d583"
 msgid "{{sayuri.n}} ?"
 msgstr "{sayuri.n}?"
@@ -46344,6 +46372,7 @@ msgstr "Passa del tempo con {{yasuka.n}}"
 
 #. Character:`narrator`
 #: game/story/love_hotel_reception.dialogue
+#, fuzzy
 msgctxt "te6d0a9b68b"
 msgid "Passer du temps avec {{sayuri.n}}"
 msgstr "Passa un po' di tempo con {sayuri.n}."
@@ -47868,6 +47897,7 @@ msgstr "Tsk, non perdi mai l'occasione di aprire bocca."
 
 #. Character:`noriko`
 #: game/story/home_player_hallway.dialogue
+#, fuzzy
 msgctxt "home_player_hallway_6a4409b1"
 msgid "Tu étais pas avec {{asami.n}} aujourd'hui ?"
 msgstr "Non eri con {asami.n}, oggi?"
@@ -103858,6 +103888,7 @@ msgstr "PRENDETELO INVECE DI SEGARVI, CRETINI!"
 
 #. Character:`kimochi`
 #: game/story/home_minato_exterior.dialogue
+#, fuzzy
 msgctxt "home_minato_exterior_f5f1dde7"
 msgid "Allez {{chiaki.n}}, regarde par la fenêtre, s'il te plaît !"
 msgstr "Forza {chiaki.n}}, guarda fuori dalla finestra, ti prego!"
@@ -110122,6 +110153,7 @@ msgid "home_asami_asami_room"
 msgstr "Camera di {{asami.n}}"
 
 #: game/scripts/locations/location_pathing.tscn
+#, fuzzy
 msgctxt "location"
 msgid "home_asami_bathroom"
 msgstr "Il bagno di {asami.n}."
@@ -110537,6 +110569,7 @@ msgid "main_30_2"
 msgstr ""
 
 #: game/scripts/variables/quests.gd
+#, fuzzy
 msgctxt "quests.hints"
 msgid "main_30_3"
 msgstr "Chiedi a {macumba.n} riguardo agli allenamenti."
@@ -111127,6 +111160,7 @@ msgid "asami_friendship_17"
 msgstr "[null]"
 
 #: game/scripts/variables/quests.gd
+#, fuzzy
 msgctxt "quests.hints"
 msgid "asami_friendship_17_1"
 msgstr "Visita {kimochi.n}."
@@ -111632,6 +111666,7 @@ msgid "yasuka_corruption_18"
 msgstr "Torna a casa per avvisare {{yasuka.n}} di fare attenzione a {{akira.n}}."
 
 #: game/scripts/variables/quests.gd
+#, fuzzy
 msgctxt "quests.hints"
 msgid "yasuka_corruption_19"
 msgstr "Intercetta {{yasuka.n} prima che cominci il suo turno."
@@ -111642,6 +111677,7 @@ msgid "yasuka_corruption_20"
 msgstr "Vai a dormire e parla con {{yasuka.n}} domani mattina."
 
 #: game/scripts/variables/quests.gd
+#, fuzzy
 msgctxt "quests.hints"
 msgid "yasuka_corruption_21"
 msgstr "Parla con {yasuka.n}}."
@@ -113007,6 +113043,7 @@ msgid "sayuri_10"
 msgstr "[null]"
 
 #: game/scripts/variables/quests.gd
+#, fuzzy
 msgctxt "quests.hints"
 msgid "sayuri_11"
 msgstr "Vai con {kimochi.n} nel corridoio."
@@ -113017,16 +113054,19 @@ msgid "sayuri_12"
 msgstr "[null]"
 
 #: game/scripts/variables/quests.gd
+#, fuzzy
 msgctxt "quests.hints"
 msgid "sayuri_13"
 msgstr "Parla con {kimochi.n} nella tua stanza."
 
 #: game/scripts/variables/quests.gd
+#, fuzzy
 msgctxt "quests.hints"
 msgid "sayuri_14"
 msgstr "Accompagna fuori {kimochi.n}."
 
 #: game/scripts/variables/quests.gd
+#, fuzzy
 msgctxt "quests.hints"
 msgid "sayuri_15"
 msgstr "Segui {noriko.n} nella sua stanza."
@@ -113057,11 +113097,13 @@ msgid "sayuri_20"
 msgstr "[null]"
 
 #: game/scripts/variables/quests.gd
+#, fuzzy
 msgctxt "quests.hints"
 msgid "sayuri_21"
 msgstr "Incontra {macumba.n} al parco"
 
 #: game/scripts/variables/quests.gd
+#, fuzzy
 msgctxt "quests.hints"
 msgid "sayuri_22"
 msgstr "Incontra {macumba.n} al parco."
@@ -113102,6 +113144,7 @@ msgid "sayuri_29"
 msgstr "Vai nella tua stanza."
 
 #: game/scripts/variables/quests.gd
+#, fuzzy
 msgctxt "quests.hints"
 msgid "sayuri_30"
 msgstr "Parla con {sakuya.n} al ristorante."
@@ -113117,11 +113160,13 @@ msgid "sayuri_32"
 msgstr "[null]"
 
 #: game/scripts/variables/quests.gd
+#, fuzzy
 msgctxt "quests.hints"
 msgid "sayuri_33"
 msgstr "Incontra {sayuri.n} a casa sua."
 
 #: game/scripts/variables/quests.gd
+#, fuzzy
 msgctxt "quests.hints"
 msgid "sayuri_34"
 msgstr "Porta {sayuri.n} all'onsen."
@@ -113157,6 +113202,7 @@ msgid "sayuri_40"
 msgstr "[null]"
 
 #: game/scripts/variables/quests.gd
+#, fuzzy
 msgctxt "quests.hints"
 msgid "sayuri_41"
 msgstr "Riaccompagna {sayuri.n} a casa."
@@ -113182,6 +113228,7 @@ msgid "sayuri_45"
 msgstr "Esci dalla tua stanza."
 
 #: game/scripts/variables/quests.gd
+#, fuzzy
 msgctxt "quests.hints"
 msgid "sayuri_46"
 msgstr "Incontra {sayuri.n} a casa sua."
@@ -113232,11 +113279,13 @@ msgid "sayuri_55"
 msgstr "[null]"
 
 #: game/scripts/variables/quests.gd
+#, fuzzy
 msgctxt "quests.hints"
 msgid "sayuri_56"
 msgstr "Incontrati di nuovo con {sayuri.n}."
 
 #: game/scripts/variables/quests.gd
+#, fuzzy
 msgctxt "quests.hints"
 msgid "sayuri_57"
 msgstr "Vai al parco dei divertimenti con {sayuri.n}."
@@ -113267,11 +113316,13 @@ msgid "sayuri_62"
 msgstr ""
 
 #: game/scripts/variables/quests.gd
+#, fuzzy
 msgctxt "quests.hints"
 msgid "sayuri_63"
 msgstr "Vai al sicuro a casa di {sayuri.n}."
 
 #: game/scripts/variables/quests.gd
+#, fuzzy
 msgctxt "quests.hints"
 msgid "sayuri_64"
 msgstr "Vai in bagno con {sayuri.n}."
@@ -113307,6 +113358,7 @@ msgid "sayuri_70"
 msgstr "Torna a casa."
 
 #: game/scripts/variables/quests.gd
+#, fuzzy
 msgctxt "quests.hints"
 msgid "sayuri_71"
 msgstr "Incontra {macumba.n} al parco per una corsa."
