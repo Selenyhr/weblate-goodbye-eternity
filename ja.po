@@ -3,7 +3,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: info@teot-studio.com\n"
 "POT-Creation-Date: 2025-12-12 13:32+0100\n"
 "PO-Revision-Date: 2026-02-21 16:40+0000\n"
-"Last-Translator: Development team <info@teot-studio.com>\n"
+"Last-Translator: Hexin <kazusa7512@gmail.com>\n"
 "Language-Team: Japanese <https://translations.teot-studio.com/projects/goodbye-eternity/game/ja/>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
@@ -72,27 +72,27 @@ msgstr "斉藤"
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Asami"
-msgstr "麻美"
+msgstr "アサミ"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Noriko"
-msgstr "紀子"
+msgstr "ノリコ"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Yasuka"
-msgstr "安香"
+msgstr "ヤスカ"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Chiaki"
-msgstr "千秋"
+msgstr "チアキ"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Minato"
-msgstr "水人"
+msgstr "ミナト"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
@@ -102,12 +102,12 @@ msgstr "マクンバ"
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Natsume"
-msgstr "夏夢"
+msgstr "ナツメ"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Sakuya"
-msgstr "咲夜"
+msgstr "サクヤ"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
@@ -122,7 +122,7 @@ msgstr "親分"
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Akira"
-msgstr "明"
+msgstr "アキラ"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
@@ -132,22 +132,22 @@ msgstr "ケンジ"
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Takeo"
-msgstr "健男"
+msgstr "タケオ"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Nobu"
-msgstr "信夫"
+msgstr "ノブ"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Netoru"
-msgstr "根戸留"
+msgstr "ネトル"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Sayuri"
-msgstr "小百合"
+msgstr "サユリ"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
@@ -157,22 +157,22 @@ msgstr "老人"
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Policier"
-msgstr "警察官"
+msgstr "警官"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Erika"
-msgstr "絵梨佳"
+msgstr "エリカ"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Hanako"
-msgstr "華子"
+msgstr "ハナコ"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Tsubaki"
-msgstr "つばき"
+msgstr "ツバキ"
 
 #: game/scenes/gui/gui_location.tscn
 msgid "Lundi"
@@ -188,7 +188,7 @@ msgstr "0123456789"
 
 #: game/scenes/gui/gui_start_asami.tscn
 msgid "ASAMI"
-msgstr "麻美"
+msgstr "アサミ"
 
 #: game/scenes/gui/gui_start_asami.tscn
 #, fuzzy
@@ -213,7 +213,7 @@ msgstr "分かった"
 
 #: game/scenes/gui/gui_start_sakuya.tscn
 msgid "SAKUYA"
-msgstr "咲夜"
+msgstr "サクヤ"
 
 #: game/scenes/gui/gui_start_sakuya.tscn
 msgid "Vous pouvez dès à présent poursuivre l’histoire de {{sakuya.n}}."
@@ -225,7 +225,7 @@ msgstr "良かれ悪しかれ、あなたは冒険を通じて選択をしてき
 
 #: game/scenes/gui/gui_start_yasuka.tscn
 msgid "YASUKA"
-msgstr "安香"
+msgstr "ヤスカ"
 
 #: game/scenes/gui/gui_start_yasuka.tscn
 #, fuzzy
@@ -242,7 +242,7 @@ msgstr "あなたは彼女を[color=yellow]ホステスバーで働かせる[/co
 
 #: game/scenes/gui/splashscreen.tscn
 msgid "Certaines scènes de ce jeu peuvent contenir du contenu sexuellement explicite et pourrait choquer un jeune public. Tous les personnages de ce jeu sont majeurs."
-msgstr "このゲームには性的に露骨なコンテンツが含まれており、青少年に不適切な可能性があります。このゲームの登場人物はすべて18歳以上です。"
+msgstr "このゲームには性的に露骨なコンテンツが含まれており、青少年に不適切な可能性があります。このゲームの登場人物はすべて成人です。"
 
 #: game/scenes/gui/splashscreen.tscn
 msgid ""
@@ -304,7 +304,7 @@ msgstr "キャラクター"
 #: game/scenes/gui/game_menu/galleries/sprites.tscn
 msgctxt "game_menu.crumbs.galleries"
 msgid "PERSONNAGES"
-msgstr ""
+msgstr "キャラクター"
 
 #: game/scenes/gui/game_menu/galleries.tscn
 msgid "MUSIQUES"
@@ -313,7 +313,7 @@ msgstr "音楽"
 #: game/scenes/gui/game_menu/galleries/music.tscn
 msgctxt "game_menu.crumbs.galleries"
 msgid "MUSIQUES"
-msgstr ""
+msgstr "音楽"
 
 #: game/scenes/gui/game_menu/galleries.tscn
 msgid "IMAGES"
@@ -329,7 +329,7 @@ msgstr "アニメーション"
 
 #: game/scenes/gui/game_menu/main.tscn
 msgid "Retour"
-msgstr ""
+msgstr "戻る"
 
 #. Character:`narrator`
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
@@ -377,7 +377,7 @@ msgstr "戻る"
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "t58a1744d48"
 msgid "Retour"
-msgstr ""
+msgstr "戻る"
 
 #. Character:`narrator`
 #: game/story/home_asami_asami_room.dialogue
@@ -393,7 +393,7 @@ msgstr "戻る"
 
 #: game/scenes/gui/game_menu/main.tscn
 msgid "Auto"
-msgstr ""
+msgstr "オート"
 
 #: game/scenes/gui/game_menu/main.tscn
 msgid "Avance rapide"
@@ -401,15 +401,15 @@ msgstr ""
 
 #: game/scenes/gui/game_menu/main.tscn
 msgid "Menu"
-msgstr ""
+msgstr "メニュー"
 
 #: game/scenes/gui/game_menu/main.tscn
 msgid "Préférences"
-msgstr ""
+msgstr "設定"
 
 #: game/scenes/gui/game_menu/main.tscn
 msgid "Skins"
-msgstr ""
+msgstr "スキン"
 
 #: game/scenes/gui/game_menu/main.tscn
 msgid "OPTIONS"
@@ -428,13 +428,13 @@ msgstr "はい"
 #: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
 msgctxt "t2345145b7b"
 msgid "Oui"
-msgstr ""
+msgstr "はい"
 
 #. Character:`saito`
 #: game/story/home_player_hallway.dialogue
 msgctxt "home_player_hallway_a2d9697d"
 msgid "Oui"
-msgstr ""
+msgstr "はい"
 
 #: game/scenes/gui/game_menu/main.tscn
 msgid "Non"
@@ -444,7 +444,7 @@ msgstr "いいえ"
 #: game/story/home_player_livingroom.dialogue game/story/home_player_yasuka_room.dialogue
 msgctxt "t2da98ada4a"
 msgid "Non"
-msgstr ""
+msgstr "いいえ"
 
 #: game/scenes/gui/game_menu/navigation.tscn
 msgid "PRÉFÉRENCES"
@@ -471,7 +471,7 @@ msgstr "名前の変更"
 #: game/scenes/gui/game_menu/rename.tscn
 msgctxt "game_menu.crumbs"
 msgid "RENOMMER"
-msgstr ""
+msgstr "改名"
 
 #: game/scenes/gui/game_menu/navigation.tscn
 msgid "PATREON"
@@ -484,7 +484,7 @@ msgstr "謝辞"
 #: game/scenes/gui/game_menu/thanks.tscn
 msgctxt "game_menu.crumbs"
 msgid "REMERCIEMENTS"
-msgstr ""
+msgstr "サンクス"
 
 #: game/scenes/gui/game_menu/navigation.tscn
 msgid "MENU PRINCIPAL"
@@ -495,19 +495,20 @@ msgid "QUITTER"
 msgstr "終了"
 
 #: game/scenes/gui/game_menu/preferences.tscn
+#, fuzzy
 msgctxt "preferences.group"
 msgid "lovense"
-msgstr ""
+msgstr "Lovense"
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgctxt "preferences.variables.typing_speed"
 msgid "MAX"
-msgstr ""
+msgstr "MAX"
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgctxt "preferences.unit.skip_frame_delay"
 msgid "frame(s)"
-msgstr ""
+msgstr "フレーム数"
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgid "À jour"
@@ -519,11 +520,11 @@ msgstr ""
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgid "Synchroniser"
-msgstr ""
+msgstr "同期"
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgid "Télécharger"
-msgstr ""
+msgstr "ダウンロード"
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgctxt "preferences.translations.errors"
@@ -542,7 +543,7 @@ msgstr ""
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgid "Changer\n"
-msgstr ""
+msgstr "変更"
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgid ""
@@ -576,7 +577,7 @@ msgstr ""
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgid "192.168.0.X"
-msgstr ""
+msgstr "192.168.0.X"
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgid "Port (non SSL)"
@@ -584,7 +585,7 @@ msgstr ""
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgid "20010"
-msgstr ""
+msgstr "20010"
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgid "Vitesse de synchronisation"
@@ -592,11 +593,11 @@ msgstr ""
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgid "100"
-msgstr ""
+msgstr "100"
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgid "%"
-msgstr ""
+msgstr "%"
 
 #: game/scenes/gui/game_menu/saves.tscn
 msgid "<<"
@@ -671,7 +672,7 @@ msgstr ""
 
 #: game/scenes/gui/game_menu/thanks.tscn
 msgid "Mécènes"
-msgstr ""
+msgstr "支援者"
 
 #: game/scenes/gui/game_menu/galleries/sprites.tscn game/scenes/gui/game_menu/galleries/cgs_characters_list.tscn
 msgid "GROUP"
@@ -683,7 +684,7 @@ msgstr ""
 
 #: game/scenes/gui/game_menu/galleries/sprites.tscn
 msgid "ATTRIBUTE"
-msgstr ""
+msgstr "属性"
 
 #: game/scenes/gui/game_menu/galleries/sprites.tscn
 msgid "Un skin est actif pour ce personnage. Certaines images peuvent être remplacées."
@@ -722,23 +723,24 @@ msgstr ""
 
 #: game/scenes/gui/gui_end_version.tscn
 msgid "Programmation"
-msgstr ""
+msgstr "プログラミング"
 
 #: game/scenes/gui/gui_end_version.tscn
 msgid "Arrières-plans"
-msgstr ""
+msgstr "背景"
 
 #: game/scenes/gui/gui_end_version.tscn
+#, fuzzy
 msgid "Sprites"
-msgstr ""
+msgstr "スプライト"
 
 #: game/scenes/gui/gui_end_version.tscn
 msgid "Animations"
-msgstr ""
+msgstr "アニメーション"
 
 #: game/scenes/gui/gui_end_version.tscn
 msgid "Musique"
-msgstr ""
+msgstr "音楽"
 
 #: game/scenes/gui/gui_end_version.tscn
 msgid "Conception sonore"
@@ -746,7 +748,7 @@ msgstr ""
 
 #: game/scenes/gui/gui_end_version.tscn
 msgid "Traduction"
-msgstr ""
+msgstr "翻訳"
 
 #: game/scenes/gui/gui_end_version.tscn
 msgid "Localisation | Relecture"
@@ -758,7 +760,7 @@ msgstr ""
 
 #: game/scenes/gui/gui_start_noriko.tscn
 msgid "NORIKO"
-msgstr ""
+msgstr "ノリコ"
 
 #: game/scenes/gui/gui_start_noriko.tscn
 msgid "Vous pouvez dès à présent poursuivre l’histoire de {{noriko.n}}."
@@ -786,7 +788,7 @@ msgstr "続きから"
 
 #: game/scenes/gui/main_menu.tscn
 msgid "Chapitres"
-msgstr ""
+msgstr "チャプター"
 
 #: game/scenes/gui/main_menu.tscn
 msgid "Galeries"
@@ -794,11 +796,11 @@ msgstr "ギャラリー"
 
 #: game/scenes/gui/rename.tscn
 msgid "COMMENCER"
-msgstr ""
+msgstr "スタート"
 
 #: game/scenes/gui/gui_start_sayuri.tscn
 msgid "SAYURI"
-msgstr ""
+msgstr "サユリ"
 
 #: game/scenes/gui/gui_start_sayuri.tscn
 msgid "Vous pouvez dès à présent poursuivre l’histoire de {{sayuri.n}}."
@@ -826,12 +828,12 @@ msgstr ""
 
 #: game/scenes/gui/chapters/chapters.tscn
 msgid "Valider"
-msgstr ""
+msgstr "確認"
 
 #: game/scenes/gui/game_menu/galleries/cgs.gd
 msgctxt "game_menu.crumbs.galleries"
 msgid "CG"
-msgstr ""
+msgstr "CG"
 
 #: game/scenes/gui/game_menu/galleries/cgs_characters_list.tscn
 msgid "TOUT"
@@ -844,25 +846,25 @@ msgstr ""
 
 #: game/scenes/gui/game_menu/galleries/cgs_visualization.tscn
 msgid "Fellation"
-msgstr ""
+msgstr "フェラチオ"
 
 #: game/scenes/gui/game_menu/galleries/cgs_visualization.tscn
 msgid "Vaginal"
-msgstr ""
+msgstr "ノーマル"
 
 #: game/scenes/gui/game_menu/galleries/cgs_visualization.tscn
 msgid "Anal"
-msgstr ""
+msgstr "アナル"
 
 #. Character:`narrator`
 #: game/story/park.dialogue
 msgctxt "te97164ee86"
 msgid "Anal"
-msgstr ""
+msgstr "アナル"
 
 #: game/scenes/gui/game_menu/skins.tscn
 msgid "Défaut"
-msgstr ""
+msgstr "デフォルト"
 
 #: core/scenes/ui/notification.tscn
 msgid "[center]Vous arrêtez l'enregistrement sous les yeux de Noriko. Faut pas oublier aussi que ça peut dépasser.[/center]"
@@ -2215,13 +2217,13 @@ msgstr "……"
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_a21e86ee_1"
 msgid "..."
-msgstr ""
+msgstr "…"
 
 #. Character:`saito` | Attributes:`guilty`
 #: game/story/home_player_corridor.dialogue
 msgctxt "tf01faab14a"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. Character:`saito` | Attributes:`guilty`
 #: game/story/home_player_corridor.dialogue
@@ -62165,73 +62167,73 @@ msgstr ""
 #: game/story/introduction.dialogue
 msgctxt "intro_90fcefcc"
 msgid "Je ne sais plus à quel moment les choses sont devenues incontrôlables."
-msgstr "いつからこんな手に負えない状況になったのか分からない。"
+msgstr "いつからこんなどうしようもない様になってしまったのだろう。"
 
 #. Character:`narrator`
 #: game/story/introduction.dialogue
 msgctxt "intro_3bb13317"
 msgid "Mon corps aujourd'hui n'est plus qu'une prison de chair."
-msgstr "いまや俺の体は血肉と骨で出来た牢獄でしかない。"
+msgstr "いまや俺の体は血肉と骨で出来た牢獄だ。"
 
 #. Character:`narrator`
 #: game/story/introduction.dialogue
 msgctxt "intro_cb62efe6"
 msgid "Ma faible constitution[w], les séjours à l'hôpital à répétition[w], la maladie[w], la solitude..."
-msgstr "虚弱体質、[w] 入院の繰り返し、[w] 病気、[w] 孤独……"
+msgstr "虚弱体質、[w] 繰り返される入院、[w] 病魔、[w] そして孤独……"
 
 #. Character:`narrator`
 #: game/story/introduction.dialogue
 msgctxt "intro_0ada2bb6"
 msgid "J'ai toujours été le souffre-douleur de service."
-msgstr "俺はずっとサンドバッグとして扱われてきた。"
+msgstr "俺はいつだって格好の標的だった。"
 
 #. Character:`narrator`
 #: game/story/introduction.dialogue
 msgctxt "intro_233de029"
 msgid "Déjà... Dès l'enfance."
-msgstr "物心ついた頃にはもうとっくに……"
+msgstr "物心ついた頃から、ずっと……"
 
 #. Character:`narrator`
 #: game/story/introduction.dialogue
 msgctxt "intro_80305fc4"
 msgid "Je n'étais rien... Un personnage qu'on ne regardait pas... Un simple figurant dans ma propre existence..."
-msgstr "俺は何者でもなかった……誰も見向きもしない人間……人生の単なる端役……"
+msgstr "俺は何者でもなかった……誰の目にも留まらない人間……自分自身の人生においてさえ、端役に過ぎなかった……"
 
 #. Character:`narrator`
 #: game/story/introduction.dialogue
 msgctxt "intro_8cb9c58e"
 msgid "Exploité tout au long de sa vie."
-msgstr "生涯を通じて搾取されてきた。"
+msgstr "搾取され続けるだけの人生。"
 
 #. Character:`narrator`
 #: game/story/introduction.dialogue
 msgctxt "intro_0a865c4d"
 msgid "Je n'ai jamais voulu de cette vie !"
-msgstr "こんな人生は二度と嫌だ！"
+msgstr "こんな人生は二度と御免だ！"
 
 #. Character:`narrator`
 #: game/story/introduction.dialogue
 msgctxt "intro_562bbe14"
 msgid "Je n'ai jamais pu fonder de famille..."
-msgstr "家族もいない……"
+msgstr "家族の一人も居やしない……"
 
 #. Character:`narrator`
 #: game/story/introduction.dialogue
 msgctxt "intro_3f5da8bf"
 msgid "Je n'ai personne qui se souviendra de moi..."
-msgstr "誰も俺なんて気にしない……"
+msgstr "誰も俺のことなんて気にしない……"
 
 #. Character:`narrator`
 #: game/story/introduction.dialogue
 msgctxt "intro_bf9b219b"
 msgid "Personne ne me regrettera..."
-msgstr "誰も俺を惜しまない……"
+msgstr "惜しんでくれるような奴も居ない……"
 
 #. Character:`narrator`
 #: game/story/introduction.dialogue
 msgctxt "intro_a2840a4c"
 msgid "S'il vous plaît... Que quelqu'un m'aide..."
-msgstr "誰か……俺を助けてくれ……"
+msgstr "頼む……誰か助けてくれ……"
 
 #. Character:`narrator`
 #: game/story/introduction.dialogue
@@ -62243,7 +62245,7 @@ msgstr "神……悪魔……誰だっていい！"
 #: game/story/introduction.dialogue
 msgctxt "intro_9c78c287"
 msgid "Je ne veux pas partir comme ça..."
-msgstr "こんな死に方は嫌だ……"
+msgstr "こんな死に方したくない……"
 
 #. Character:`narrator`
 #: game/story/introduction.dialogue
@@ -62255,133 +62257,133 @@ msgstr "もう一度……"
 #: game/story/introduction.dialogue
 msgctxt "intro_19efcd11"
 msgid "Seconde chance..."
-msgstr "機会があれば……"
+msgstr "やり直せたら……"
 
 #. Character:`narrator`
 #: game/story/introduction.dialogue
 msgctxt "intro_a6ea1d5e"
 msgid "Que... ?!"
-msgstr "何だ……！？"
+msgstr "なっ……！？"
 
 #. Character:`narrator`
 #: game/story/introduction.dialogue
 msgctxt "intro_a0515f23"
 msgid "Je suis passé de l'autre côté ?"
-msgstr "俺はあの世まで来たのか？"
+msgstr "俺はあの世に来たのか？"
 
 #. Character:`narrator`
 #: game/story/introduction.dialogue
 msgctxt "intro_eb611788"
 msgid "Pourquoi je me sens si léger tout à coup ?"
-msgstr "どうしてこんなに明るいんだ？"
+msgstr "どうしてこんなに体が軽い？"
 
 #. Character:`narrator`
 #: game/story/introduction.dialogue
 msgctxt "intro_df734961"
 msgid "Je suis vraiment revenu d'entre les morts ?"
-msgstr "生き返ったのか？"
+msgstr "生き返ったとでもいうのか？"
 
 #. Character:`narrator`
 #: game/story/introduction.dialogue
 msgctxt "intro_c88c9ee8"
 msgid "Tout ça n'était finalement qu'un cauchemar ?"
-msgstr "今までは全部夢だったのか？"
+msgstr "今までのことは全部ただの悪夢だったのか？"
 
 #. Character:`narrator`
 #: game/story/introduction.dialogue
 msgctxt "intro_27c94c37"
 msgid "Je me souviens d'absolument tout..."
-msgstr "だが、俺は何もかも覚えている。"
+msgstr "いや、俺は何もかも鮮明に覚えている。"
 
 #. Character:`narrator`
 #: game/story/introduction.dialogue
 msgctxt "intro_06f6289c"
 msgid "Si tout cela est vrai... Je dois tout faire pour changer mon destin !"
-msgstr "もしこれが全部本当なら、どんな手を使ってでも運命を変えてやる！"
+msgstr "もしこれが現実なら……どんな手を使ってでも俺の運命を変えてやる！"
 
 #. Character:`narrator`
 #: game/story/introduction.dialogue
 msgctxt "intro_233b5a64"
 msgid "Cette vie supplémentaire ne doit absolument pas être gâchée !"
-msgstr "二度目の人生を無駄にはできない！"
+msgstr "この二度目の人生、絶対に無駄にしてたまるか！"
 
 #. Character:`saito`
 #: game/story/introduction.dialogue
 msgctxt "home_player_room_1ecd72f2"
 msgid "...Ah ma tête..."
-msgstr "うっ……頭が……"
+msgstr "っ……頭が……"
 
 #. Character:`saito`
 #: game/story/introduction.dialogue
 msgctxt "home_player_room_c377ecfe"
 msgid "C'était quoi ce cauchemar de fou ?!"
-msgstr "あの変な悪夢は何だったんだ？"
+msgstr "何だったんだ、あのとち狂った悪夢は。"
 
 #. Character:`saito`
 #: game/story/introduction.dialogue
 msgctxt "home_player_room_b1ba58e1"
 msgid "Ah... Je ne sais même plus si c'était réel !"
-msgstr "うーん……知る由もないな。あれは現実そのものだった！"
+msgstr "いや……よく分からないが、かなりリアルだった。"
 
 #. Character:`saito`
 #: game/story/introduction.dialogue
 msgctxt "home_player_room_202ef4ac"
 msgid "Je suis de nouveau dans ma chambre...[w] Comme si je ne l'avais jamais quittée."
-msgstr "部屋の中に戻っている……[w] 俺がここを去ったのがなかったみたいだ。"
+msgstr "俺の部屋だ……[w] まるでずっとここに居たみたいだ。"
 
 #. Character:`saito`
 #: game/story/introduction.dialogue
 msgctxt "home_player_room_4c2a5a6c"
 msgid "Bordel ! Je ne sais même plus quoi penser !"
-msgstr "クソッ！こんなのが現実なわけ……[w] ないよな？"
+msgstr "嘘だろ！こんなことが現実にあり得るのか？"
 
 #. Character:`saito` | Attributes:`sad`
 #: game/story/introduction.dialogue
 msgctxt "J_AI_ENCORE_EN_T_TE_LA_DOULEUR_575A79"
 msgid "J'ai encore en tête la douleur qui me torturait nuit et jour."
-msgstr ""
+msgstr "昼夜を問わず俺を苦しめたあの痛みが、今も脳裏にこびりついている。"
 
 #. Character:`saito`
 #: game/story/introduction.dialogue
 msgctxt "CET_ENFER_TAIT_SI_R_EL_B29981"
 msgid "Cet enfer était si réel..."
-msgstr ""
+msgstr "この地獄は間違いなく本物だった……"
 
 #. Character:`saito` | Attributes:`-sad`
 #: game/story/introduction.dialogue
 msgctxt "ET_ME_VOIL_NOUVEAU_AU_D_BUT_DE_D8E7D7"
 msgid "Et me voilà à nouveau au début de la vingtaine..."
-msgstr ""
+msgstr "それが今、20代になったばかりの頃に戻っている……"
 
 #. Character:`saito` | Attributes:`surprised`
 #: game/story/introduction.dialogue
 msgctxt "home_player_room_28cdf783"
 msgid "Putain, c'est complètement dingue !"
-msgstr "一体何が起きているんだ？"
+msgstr "一体全体、どうなってやがる！？"
 
 #. Character:`saito`
 #: game/story/introduction.dialogue
 msgctxt "home_player_room_fe515dce"
 msgid "En quelle année sommes-nous ?"
-msgstr "今年は何年だ？"
+msgstr "今、何年だ？"
 
 #. Character:`saito`
 #: game/story/introduction.dialogue
 msgctxt "home_player_room_7a7db3e9"
 msgid "PUTAIN, {{year}} !"
-msgstr "マジかよ、{{year}}年だ！"
+msgstr "マジかよ、{{year}}！"
 
 #. Character:`saito` | Attributes:`-surprised`
 #: game/story/introduction.dialogue
 msgctxt "home_player_room_0bde6d77"
 msgid "...Et visiblement... C'est le premier jour des grandes vacances !"
-msgstr "しかも……今日は夏休みの初日らしい！"
+msgstr "しかも……どうやら今日は夏休みの初日らしい！"
 
 #. Character:`saito`
 #: game/story/introduction.dialogue
 msgctxt "home_player_room_f7ca0bb4"
 msgid "La rentrée à la fac n'a pas encore eu lieu !"
-msgstr "まだ大学に戻るような時期でもない。"
+msgstr "まだ大学に戻る必要なんてない時期だ。"
 
 #. Character:`saito` | Attributes:`sad`
 #: game/story/introduction.dialogue
@@ -62393,7 +62395,7 @@ msgstr "この後どんなことが起きるか俺はまだ覚えている。"
 #: game/story/introduction.dialogue
 msgctxt "home_player_room_a32414fc"
 msgid "Mais... Ça veut dire que rien ne s'est encore produit ?!"
-msgstr "でも、もし昔に戻ってたとしたら……それがまだ起きていないってことなんじゃないか？！"
+msgstr "となると、過去に戻ってたんだとしたら……あれはまだ起きていないってことなんじゃないか？！"
 
 #. Character:`saito` | Attributes:`happy`
 #: game/story/introduction.dialogue
