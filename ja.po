@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: info@teot-studio.com\n"
 "POT-Creation-Date: 2025-12-12 13:32+0100\n"
-"PO-Revision-Date: 2026-02-21 16:40+0000\n"
+"PO-Revision-Date: 2026-02-22 15:09+0000\n"
 "Last-Translator: Hexin <kazusa7512@gmail.com>\n"
 "Language-Team: Japanese <https://translations.teot-studio.com/projects/goodbye-eternity/game/ja/>\n"
 "Language: ja\n"
@@ -397,7 +397,7 @@ msgstr "オート"
 
 #: game/scenes/gui/game_menu/main.tscn
 msgid "Avance rapide"
-msgstr ""
+msgstr "早送り"
 
 #: game/scenes/gui/game_menu/main.tscn
 msgid "Menu"
@@ -512,11 +512,11 @@ msgstr "フレーム数"
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgid "À jour"
-msgstr ""
+msgstr "最新"
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgid "En cours"
-msgstr ""
+msgstr "同期"
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgid "Synchroniser"
@@ -529,17 +529,17 @@ msgstr "ダウンロード"
 #: game/scenes/gui/game_menu/preferences.tscn
 msgctxt "preferences.translations.errors"
 msgid "Une erreur s'est produite durant la synchronisation. Veuillez rééssayer."
-msgstr ""
+msgstr "同期中にエラーが発生しました。再度お試しください。"
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgctxt "preferences.translations.errors"
 msgid "Le serveur a répondu avec code {response_code}."
-msgstr ""
+msgstr "サーバの応答： {response_code}"
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgctxt "preferences.translations.errors"
 msgid "Impossible de joindre le serveur. Vérifiez votre connexion."
-msgstr ""
+msgstr "サーバーに参加できません。接続を確認してください。"
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgid "Changer\n"
@@ -551,10 +551,13 @@ msgid ""
 "La synchronisation consomme environ 2ko de données.\n"
 "Chaque traduction consomme environ 3Mo de données."
 msgstr ""
+"翻訳データのダウンロードにはインターネット接続が必要です。\n"
+"同期には約2KBのデータが必要です。\n"
+"各翻訳データには約3MBが必要です。"
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgid "Lovense Remote"
-msgstr ""
+msgstr "Lovense Remote"
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgid ""
@@ -562,18 +565,21 @@ msgid ""
 "Si l'application est sur le même périphérique que le jeu, laissez les champs IP locale, ainsi que port vides.\n"
 "[color=red]Pour le moment, seul le Lovense Max 2 a été implémenté, et donc seuls les jouets supportant vibration et/ou pompe à air sont supportés.[/color]"
 msgstr ""
+"本ゲームはLovense RemoteアプリによるLovense製品の使用をサポートしています。アプリはWindowsおよびスマートフォンで利用可能です。\n"
+"ゲームと同じデバイスでアプリを実行している場合は、ローカルIPとポートは空欄のままにしてください。\n"
+"[color=red]現在実装されているのはLovense Max 2のみです。そのため、振動およびエアポンプ機能を備えた製品のみがサポート対象となります。[/color]"
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgid "Activer l'intégration"
-msgstr ""
+msgstr "連携の有効化"
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgid "Bannière publicitaire"
-msgstr ""
+msgstr "広告"
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgid "IP locale"
-msgstr ""
+msgstr "ローカルIP"
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgid "192.168.0.X"
@@ -581,7 +587,7 @@ msgstr "192.168.0.X"
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgid "Port (non SSL)"
-msgstr ""
+msgstr "ポート(非SSL)"
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgid "20010"
@@ -589,7 +595,7 @@ msgstr "20010"
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgid "Vitesse de synchronisation"
-msgstr ""
+msgstr "同期スピード"
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgid "100"
@@ -626,17 +632,17 @@ msgstr ">>"
 #: game/scripts/gui/menu/game_menu.gd
 msgctxt "confirm"
 msgid "Voulez-vous continuer ?"
-msgstr ""
+msgstr "続けますか？"
 
 #: game/scripts/gui/menu/game_menu.gd
 msgctxt "confirm"
 msgid "Voulez-vous quitter ?"
-msgstr ""
+msgstr "終了しますか？"
 
 #: game/scripts/gui/menu/game_menu.gd
 msgctxt "confirm"
 msgid "Voulez-vous revenir au menu principal ?"
-msgstr ""
+msgstr "メインメニューに戻りますか？"
 
 #: game/scenes/gui/game_menu/save_button_template.tscn
 msgid "SAUVEGARDER"
@@ -652,23 +658,23 @@ msgstr "セーブ名"
 
 #: game/scenes/gui/game_menu/rename.tscn game/scenes/gui/rename.tscn
 msgid "Nom par défaut"
-msgstr ""
+msgstr "デフォルト名"
 
 #: game/scenes/gui/game_menu/rename.tscn game/scenes/gui/rename.tscn
 msgid "Indiquez votre nom :"
-msgstr ""
+msgstr "名前を入力:"
 
 #: game/scenes/gui/game_menu/thanks.tscn
 msgid "Informations légales"
-msgstr ""
+msgstr "法的情報"
 
 #: game/scenes/gui/game_menu/thanks.tscn
 msgid "Godot Engine"
-msgstr ""
+msgstr "Godot Engine"
 
 #: game/scenes/gui/game_menu/thanks.tscn
 msgid "Dialogue Manager"
-msgstr ""
+msgstr "Dialogue Manager"
 
 #: game/scenes/gui/game_menu/thanks.tscn
 msgid "Mécènes"
@@ -688,12 +694,12 @@ msgstr "属性"
 
 #: game/scenes/gui/game_menu/galleries/sprites.tscn
 msgid "Un skin est actif pour ce personnage. Certaines images peuvent être remplacées."
-msgstr ""
+msgstr "このキャラクターはスキンが有効です。一部の画像が変更されます。"
 
 #: game/scripts/gui/menu/save_button_template.gd
 msgctxt "saves.button.invalid"
 msgid "Sauvegarde invalide."
-msgstr ""
+msgstr "無効なセーブ"
 
 #: game/scripts/gui/menu/save_button_template.gd
 msgctxt "saves.button.played_time_long"
@@ -707,19 +713,19 @@ msgstr "{minutes}分"
 
 #: game/scenes/gui/gui_end_version.tscn
 msgid "Merci d'avoir joué à Goodbye Eternity !"
-msgstr ""
+msgstr "Goodbye Eternityをプレイしていただきありがとうございます！"
 
 #: game/scenes/gui/gui_end_version.tscn
 msgid "Si vous avez aimé le jeu, n'hésitez pas à supporter le projet sur PATREON, et si vous voulez rejoindre la communauté, rejoignez-nous sur le Discord officiel."
-msgstr ""
+msgstr "このゲームを気に入っていただけましたら、PATREONでのプロジェクト支援をお願いします。また、コミュニティに参加したい方は、公式Discordにお越しください。"
 
 #: game/scenes/gui/gui_end_version.tscn
 msgid "Merci à tous les contributeurs qui nous soutiennent, sans eux ce projet n'existerait pas !"
-msgstr ""
+msgstr "ご支援いただいているすべてのプレイヤーの皆様に心より感謝申し上げます。皆様の支えがなければ、このプロジェクトは存在しませんでした！"
 
 #: game/scenes/gui/gui_end_version.tscn
 msgid "Histoire | Design"
-msgstr ""
+msgstr "ストーリー | デザイン"
 
 #: game/scenes/gui/gui_end_version.tscn
 msgid "Programmation"
@@ -744,7 +750,7 @@ msgstr "音楽"
 
 #: game/scenes/gui/gui_end_version.tscn
 msgid "Conception sonore"
-msgstr ""
+msgstr "サウンドデザイン"
 
 #: game/scenes/gui/gui_end_version.tscn
 msgid "Traduction"
@@ -752,11 +758,11 @@ msgstr "翻訳"
 
 #: game/scenes/gui/gui_end_version.tscn
 msgid "Localisation | Relecture"
-msgstr ""
+msgstr "翻訳 | 校閲"
 
 #: game/scenes/gui/gui_end_version.tscn
 msgid "Ajoutez-nous en liste de souhaits !"
-msgstr ""
+msgstr "ウィッシュリストに追加してください！"
 
 #: game/scenes/gui/gui_start_noriko.tscn
 msgid "NORIKO"
@@ -1491,7 +1497,7 @@ msgstr ""
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
 msgctxt "talk_yasuka_97ed4780"
 msgid "{{yasuka.N}} !"
-msgstr "{{yasuka.N}} !"
+msgstr "{{yasuka.N}}さん !"
 
 #. Character:`netoru`
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
