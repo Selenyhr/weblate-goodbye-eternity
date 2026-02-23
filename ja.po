@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: info@teot-studio.com\n"
 "POT-Creation-Date: 2025-12-12 13:32+0100\n"
-"PO-Revision-Date: 2026-02-23 10:47+0000\n"
+"PO-Revision-Date: 2026-02-23 13:35+0000\n"
 "Last-Translator: Hexin <kazusa7512@gmail.com>\n"
 "Language-Team: Japanese <https://translations.teot-studio.com/projects/goodbye-eternity/game/ja/>\n"
 "Language: ja\n"
@@ -824,11 +824,11 @@ msgstr ""
 
 #: game/scenes/gui/chapters/chapters.tscn
 msgid "Quand voulez-vous commencer l'histoire ?"
-msgstr ""
+msgstr "いつからストーリを開始しますか？"
 
 #: game/scenes/gui/chapters/chapters.tscn game/scenes/gui/chapters/chapters_new.tscn
 msgid "Quels choix avez-vous effectués ?"
-msgstr ""
+msgstr "どれを選択しますか？"
 
 #: game/scenes/gui/chapters/chapters.tscn
 msgid "Valider"
@@ -882,32 +882,32 @@ msgstr "Lovense Remoteアプリへの接続に問題が発生しました。接�
 #: core/scenes/lovense_notification.gd
 msgctxt "lovense.messages"
 msgid "Jouet connecté : {toy_name}."
-msgstr ""
+msgstr "接続されたおもちゃ: {toy_name}."
 
 #: core/scenes/lovense_notification.gd
 msgctxt "lovense.messages"
 msgid "Jouet déconnecté : {toy_name}."
-msgstr ""
+msgstr "切断されたおもちゃ: {toy_name}."
 
 #: core/scenes/lovense_notification.gd
 msgctxt "lovense.error_message"
 msgid "Un problème est survenu lors de la synchronisation Lovense Remote. Veuillez vérifier la connexion."
-msgstr ""
+msgstr "Lovense Remoteアプリの同期に問題がありました。 接続を確認してください。"
 
 #: core/scenes/lovense_notification.gd
 msgctxt "lovense.messages"
 msgid "Batterie faible : {toy_name}."
-msgstr ""
+msgstr "バッテリー低下: {toy_name}."
 
 #: game/scenes/gui/lovense_ad.gd
 msgctxt "main_menu.lovense_ad"
 msgid "Maintenant compatible avec {{lovense}}."
-msgstr ""
+msgstr "{{lovense}}に対応しました。"
 
 #: game/scenes/gui/bad_ending/betrayed_girl.gd
 msgctxt "game_over.title"
 msgid "[i]La fille qui a été trahie.[/i]"
-msgstr ""
+msgstr "[i]裏切られた少女。[/i]"
 
 #: game/scenes/gui/bad_ending/betrayed_girl.gd
 msgctxt "game_over.summary"
@@ -943,7 +943,7 @@ msgstr ""
 
 #: game/scenes/gui/bad_ending/game_over.tscn
 msgid "Skin débloqué !"
-msgstr ""
+msgstr "スキンが解放された！"
 
 #. Character:`saito`
 #: game/story/coffeebar_interior.dialogue game/story/hostess_club_exterior.dialogue
@@ -5365,7 +5365,7 @@ msgstr "確か……夢の中だとあいつは{{yasuka.n}}さんのなけなし
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_7199d067"
 msgid "Et on va la retrouver noyée dans le canal peu de temps après sa fugue, son corps totalement souillé."
-msgstr "その後すぐに運河で溺れているのが発見された。遺体には冒涜された跡があった……"
+msgstr "その後すぐに河川敷で溺れているのが発見された。遺体には冒涜された跡があった……"
 
 #. Character:`narrator`
 #: game/story/home_player_corridor.dialogue
@@ -109878,7 +109878,7 @@ msgstr "バス停"
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "canal"
-msgstr "運河"
+msgstr "河川敷"
 
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
@@ -114795,51 +114795,51 @@ msgstr "スキップ遅延"
 
 msgctxt "preferences.variable"
 msgid "jump_to_event_button"
-msgstr ""
+msgstr "\"イベントにジャンプ\" ボタン"
 
 msgctxt "preferences.subgroup"
 msgid "Auto-advance"
-msgstr ""
+msgstr "自動文字送り"
 
 msgctxt "preferences.variable"
 msgid "autoadvance_speed"
-msgstr ""
+msgstr "自動送り速度"
 
 msgctxt "preferences.variable.autoadvance_position"
 msgid "Right:0"
-msgstr ""
+msgstr "右"
 
 msgctxt "preferences.variable.autoadvance_position"
 msgid "Left:1"
-msgstr ""
+msgstr "左"
 
 msgctxt "preferences.variable"
 msgid "autoadvance_position"
-msgstr ""
+msgstr "表示位置"
 
 msgctxt "preferences.group"
 msgid "Lovense"
-msgstr ""
+msgstr "Lovense"
 
 msgctxt "preferences.variable"
 msgid "lovense_enabled"
-msgstr ""
+msgstr "同期有効"
 
 msgctxt "preferences.variable"
 msgid "lovense_domain"
-msgstr ""
+msgstr "ローカルIP"
 
 msgctxt "preferences.variable"
 msgid "lovense_port"
-msgstr ""
+msgstr "ポート(非SSL)"
 
 msgctxt "preferences.variable"
 msgid "lovense_sync_speed"
-msgstr ""
+msgstr "同期スピード"
 
 msgctxt "preferences.variable"
 msgid "lovense_banner"
-msgstr ""
+msgstr "広告"
 
 #: game/scenes/locations/arcade_exterior.tscn game/scenes/locations/bus_stop.tscn game/scenes/locations/coffeebar_exterior.tscn game/scenes/locations/dojo_exterior.tscn
 #: game/scenes/locations/home_asami_exterior.tscn game/scenes/locations/home_kenji_exterior.tscn game/scenes/locations/home_kimochi_exterior.tscn game/scenes/locations/home_minato_exterior.tscn
@@ -114847,42 +114847,42 @@ msgstr ""
 #: game/scenes/locations/konbini_exterior.tscn game/scenes/locations/love_hotel_exterior.tscn game/scenes/locations/park.tscn game/scenes/locations/restaurant_exterior.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "Posters"
-msgstr ""
+msgstr "ポスター"
 
 #: game/scenes/locations/arcade_exterior.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "NorikoClawMachine"
-msgstr ""
+msgstr "{{noriko.n}} (クレーンゲーム)"
 
 #: game/scenes/locations/arcade_interior.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "NobuPlay"
-msgstr ""
+msgstr "{{nobu.n}} (アーケード)"
 
 #: game/scenes/locations/arcade_interior.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "SayuriPlay"
-msgstr ""
+msgstr "{{sayuri.n}} (アーケード)"
 
 #: game/scenes/locations/arcade_interior.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "SaitoSayuriPlay"
-msgstr ""
+msgstr "{{saito.n}} + {{sayuri.n}}"
 
 #: game/scenes/locations/arcade_interior.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "SayuriDance"
-msgstr ""
+msgstr "{{sayuri.n}} (ダンス)"
 
 #: game/scenes/locations/bus_stop.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "NatsumeStand"
-msgstr ""
+msgstr "{{natsume.n}} (立つ)"
 
 #: game/scenes/locations/canal.tscn game/scenes/locations/lake.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "SaitoSit"
-msgstr ""
+msgstr "{{saito.n}} (座る)"
 
 #: game/scenes/locations/canal.tscn
 msgctxt "galleries.backgrounds.sprite"
