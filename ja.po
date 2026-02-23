@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: info@teot-studio.com\n"
 "POT-Creation-Date: 2025-12-12 13:32+0100\n"
-"PO-Revision-Date: 2026-02-23 13:35+0000\n"
+"PO-Revision-Date: 2026-02-23 18:21+0000\n"
 "Last-Translator: Hexin <kazusa7512@gmail.com>\n"
 "Language-Team: Japanese <https://translations.teot-studio.com/projects/goodbye-eternity/game/ja/>\n"
 "Language: ja\n"
@@ -67,7 +67,7 @@ msgstr "日曜日"
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Saito"
-msgstr "斉藤"
+msgstr "サイト"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
@@ -142,7 +142,7 @@ msgstr "ノブ"
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
 msgid "Netoru"
-msgstr "ネトル"
+msgstr "根戸留"
 
 #: game/scripts/variables/character_names.gd
 msgctxt "character_default_name"
@@ -191,21 +191,20 @@ msgid "ASAMI"
 msgstr "アサミ"
 
 #: game/scenes/gui/gui_start_asami.tscn
-#, fuzzy
 msgid "Vous pouvez dès à présent poursuivre l’histoire d’{{asami.n}}."
-msgstr "これで{asami.n}のストーリーを続けることができます。"
+msgstr "{{asami.n}}のストーリーを続けられるようになった。"
 
 #: game/scenes/gui/gui_start_asami.tscn
 msgid "Vous avez fait le choix de vous lier [color=yellow]d'amitié[/color]."
-msgstr "あなたは彼女と[color=yellow]友達[/color]になる道を選んだ。"
+msgstr "あなたは彼女と[color=yellow]友達[/color]になる道を選択した。"
 
 #: game/scenes/gui/gui_start_asami.tscn
 msgid "Vous avez fait le choix de la [color=yellow]corrompre[/color]."
-msgstr "あなたは彼女を[color=yellow]堕落/color]させる道を選んだ。"
+msgstr "あなたら彼女を[color=yellow]堕落[/color]させる道を選択した。"
 
 #: game/scenes/gui/gui_start_asami.tscn
 msgid "Vous avez fait le choix de [color=yellow]rester amis[/color]."
-msgstr "あなたは[color=yellow]友達でいることを選びました[/color]."
+msgstr "あなたは[color=yellow]友達のまま[/color]でいる道を選択した。"
 
 #: game/scenes/gui/gui_start_asami.tscn game/scenes/gui/gui_start_sakuya.tscn game/scenes/gui/gui_start_yasuka.tscn
 msgid "J'ai compris"
@@ -217,7 +216,7 @@ msgstr "サクヤ"
 
 #: game/scenes/gui/gui_start_sakuya.tscn
 msgid "Vous pouvez dès à présent poursuivre l’histoire de {{sakuya.n}}."
-msgstr "これから先は{{sakuya.n}}のストーリーに続きます。"
+msgstr "{{sakuya.n}}のストーリーを続けられるようになった。"
 
 #: game/scenes/gui/gui_start_sakuya.tscn
 msgid "Vous avez fait des choix tout au long de votre aventure, peu importe qu'ils soient bons ou mauvais. {{sakuya.n}} vous les fera assumer."
@@ -248,7 +247,7 @@ msgstr "このゲームには性的に露骨なコンテンツが含まれてお
 msgid ""
 "Pendant votre aventure, vos choix impacteront votre entourage, si vous rejetez plusieurs fois un personnage attendez vous a ce qu’il aille voir ailleurs. Tout ceci dans le but de garder une "
 "certaine cohérence avec le monde réel."
-msgstr "冒険中、あなたの選択は周囲の人々に影響を与えます。あるキャラクターを何度も拒絶すれば、そのキャラクターが他の人と付き合い始めることもあります。これは現実との整合性を保つためです。"
+msgstr "冒険の間にあなたがした選択は、周囲の人々に影響を与えます。あるキャラクターを何度も拒絶すれば、そのキャラクターが他の人と付き合い始めることもあります。これは現実との整合性をある程度保つためです。"
 
 #: game/scenes/gui/splashscreen.tscn
 msgid "Vos actions auront des conséquences..."
@@ -448,12 +447,12 @@ msgstr "いいえ"
 
 #: game/scenes/gui/game_menu/navigation.tscn
 msgid "PRÉFÉRENCES"
-msgstr "環境設定"
+msgstr "設定"
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgctxt "game_menu.crumbs"
 msgid "PRÉFÉRENCES"
-msgstr "環境設定"
+msgstr "設定"
 
 #: game/scenes/gui/game_menu/navigation.tscn
 msgid "SAUVEGARDES"
@@ -471,7 +470,7 @@ msgstr "名前の変更"
 #: game/scenes/gui/game_menu/rename.tscn
 msgctxt "game_menu.crumbs"
 msgid "RENOMMER"
-msgstr "改名"
+msgstr "名前の変更"
 
 #: game/scenes/gui/game_menu/navigation.tscn
 msgid "PATREON"
@@ -479,12 +478,12 @@ msgstr "PATREON"
 
 #: game/scenes/gui/game_menu/navigation.tscn
 msgid "REMERCIEMENTS"
-msgstr "謝辞"
+msgstr "THANKS"
 
 #: game/scenes/gui/game_menu/thanks.tscn
 msgctxt "game_menu.crumbs"
 msgid "REMERCIEMENTS"
-msgstr "サンクス"
+msgstr "THANKS"
 
 #: game/scenes/gui/game_menu/navigation.tscn
 msgid "MENU PRINCIPAL"
@@ -515,11 +514,11 @@ msgstr "最新"
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgid "En cours"
-msgstr "同期"
+msgstr "同期中"
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgid "Synchroniser"
-msgstr "同期"
+msgstr "同期する"
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgid "Télécharger"
@@ -14401,43 +14400,43 @@ msgstr ""
 #: game/story/onsen_bath.dialogue
 msgctxt "tbe9602d797"
 msgid "Partir"
-msgstr ""
+msgstr "離れる"
 
 #. Character:`narrator`
 #: game/story/onsen_bath.dialogue
 msgctxt "t1f79f56451"
 msgid "Partir"
-msgstr ""
+msgstr "離れる"
 
 #. Character:`narrator`
 #: game/story/onsen_bath.dialogue
 msgctxt "t6994e975c6"
 msgid "Partir"
-msgstr ""
+msgstr "離れる"
 
 #. Character:`narrator`
 #: game/story/home_player_livingroom.dialogue
 msgctxt "tac447fde05"
 msgid "Partir"
-msgstr ""
+msgstr "離れる"
 
 #. Character:`narrator`
 #: game/story/home_player_noriko_room.dialogue
 msgctxt "t561f72a786"
 msgid "Partir"
-msgstr ""
+msgstr "離れる"
 
 #. Character:`narrator`
 #: game/story/restaurant_sakuya_room.dialogue
 msgctxt "ta57dc8629a"
 msgid "Partir"
-msgstr ""
+msgstr "離れる"
 
 #. Character:`narrator`
 #: game/story/park.dialogue
 msgctxt "t05004d59ef"
 msgid "Partir"
-msgstr ""
+msgstr "離れる"
 
 #. Character:`sakuya`
 #: game/story/onsen_bath.dialogue
@@ -14689,37 +14688,37 @@ msgstr ""
 #: game/story/onsen_bath.dialogue
 msgctxt "tce9b77019b"
 msgid "[next]"
-msgstr ""
+msgstr "[next]"
 
 #. Character:`saito`
 #: game/story/home_player_saito_room.dialogue
 msgctxt "t24aa40dc27"
 msgid "[next]"
-msgstr ""
+msgstr "[next]"
 
 #. Character:`saito`
 #: game/story/home_player_saito_room.dialogue
 msgctxt "tcc9b2ae5f3"
 msgid "[next]"
-msgstr ""
+msgstr "[next]"
 
 #. Character:`saito`
 #: game/story/home_player_saito_room.dialogue
 msgctxt "tb5178005b3"
 msgid "[next]"
-msgstr ""
+msgstr "[next]"
 
 #. Character:`saito`
 #: game/story/home_player_saito_room.dialogue
 msgctxt "ta2022aea9a"
 msgid "[next]"
-msgstr ""
+msgstr "[next]"
 
 #. Character:`saito`
 #: game/story/home_player_saito_room.dialogue
 msgctxt "t897902a32e"
 msgid "[next]"
-msgstr ""
+msgstr "[next]"
 
 #. Character:`asami`
 #: game/story/home_player_saito_room.dialogue
@@ -62513,7 +62512,7 @@ msgstr "つまり、まとめると……"
 #: game/story/introduction.dialogue
 msgctxt "home_player_room_86db6b79"
 msgid "D'abord le [color=yellow]parc[/color], ensuite le [color=yellow]restaurant[/color] et enfin le [color=yellow]dojo[/color] !"
-msgstr "まずは[color=yellow]公園[/color]、次に[color=yellow]食堂[/color]、最後に[color=yellow]道場[/color]に行けばいいってことだな！"
+msgstr "まずは[color=yellow]公園[/color]、次に[color=yellow]居酒屋[/color]、最後に[color=yellow]道場[/color]に行けばいいってことだな！"
 
 #. Character:`saito`
 #: game/story/dojo_exterior.dialogue
@@ -93874,7 +93873,7 @@ msgstr "仕事に就けるか確かめてみる頃合いかもしれない。"
 #: game/story/park.dialogue
 msgctxt "talk_macumba_b43b02c2"
 msgid "Je devrais essayer de retourner au [color=yellow]restaurant[/color]..."
-msgstr "[color=yellow]食堂[/color]に戻ってみるのがいいな……"
+msgstr "[color=yellow]居酒屋[/color]に戻ってみるのがいいな……"
 
 #. Character:`macumba` | Attributes:`happy`
 #: game/story/park.dialogue
@@ -102654,7 +102653,7 @@ msgstr "じゃあ、どこから始めよう？"
 #: game/story/home_minato_exterior.dialogue
 msgctxt "home_minato_exterior_1dfa93aa"
 msgid "Je peux voir le [color=yellow]dojo[/color], le [color=yellow]restaurant[/color], peut-être [color=yellow]devant chez moi[/color] ou encore le [color=yellow]parc[/color]."
-msgstr "[color=yellow]道場[/color]、[color=yellow]食堂[/color]、或いは [color=yellow]俺の家の前[/color]、 それにもしかしたら [color=yellow]公園[/color]を調べてみるといいかもしれない。"
+msgstr "[color=yellow]道場[/color]、[color=yellow]居酒屋[/color]、或いは [color=yellow]俺の家の前[/color]、 それにもしかしたら [color=yellow]公園[/color]を調べてみるといいかもしれない。"
 
 #. Character:`asami`
 #: game/story/home_minato_exterior.dialogue
@@ -109988,12 +109987,12 @@ msgstr ""
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "restaurant_exterior"
-msgstr "食堂"
+msgstr "居酒屋"
 
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "restaurant_interior"
-msgstr "食堂内部"
+msgstr "居酒屋内部"
 
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
@@ -110214,12 +110213,12 @@ msgstr "[color=yellow]公園[/color]にジョギングに行く。"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_4"
-msgstr "もう走るには遅い。代わりにこの先にある[color=yellow]食堂[/color]に行ってみよう。"
+msgstr "もう走るには遅い。代わりにこの先にある[color=yellow]居酒屋[/color]に行ってみよう。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_4_1"
-msgstr "[color=yellow]食堂[/color]で{{chef.n}}に話しかけて仕事を貰おう。"
+msgstr "[color=yellow]居酒屋[/color]で{{chef.n}}に話しかけて仕事を貰おう。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -110536,17 +110535,17 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_44"
-msgstr "もう寝ないと。明日は食堂での仕事が始まる。"
+msgstr "もう寝ないと。明日は居酒屋での仕事が始まる。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_45"
-msgstr "もう寝ないと。明日は食堂での仕事が始まる。"
+msgstr "もう寝ないと。明日は居酒屋での仕事が始まる。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_46"
-msgstr "[color=yellow]食堂[/color]での仕事初日だ！"
+msgstr "[color=yellow]居酒屋[/color]での仕事初日だ！"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -110766,7 +110765,7 @@ msgstr "午後に{{asami.n}}が[color=yellow]公園[/color]で俺を待ってい
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "asami_corruption_11"
-msgstr "20,000円集めなきゃいけない。[color=yellow]食堂[/color]で働くのがいいだろう。"
+msgstr "20,000円集めなきゃいけない。[color=yellow]居酒屋[/color]で働くのがいいだろう。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -111177,12 +111176,12 @@ msgstr "店に行ってこき使われる。"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_love_29"
-msgstr "もっと稼ぐために食堂に仕事に行こう。"
+msgstr "もっと稼ぐために居酒屋に仕事に行こう。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_love_30"
-msgstr "もっと稼ぐために食堂に仕事に行こう。"
+msgstr "もっと稼ぐために居酒屋に仕事に行こう。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -111212,7 +111211,7 @@ msgstr "朝からずっと店で働く。"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_love_36"
-msgstr "食堂で2回目の労働を始める。"
+msgstr "居酒屋で2回目の労働を始める。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -111267,7 +111266,7 @@ msgstr "店の仕事に戻る。"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_love_44"
-msgstr "食堂が待っている。"
+msgstr "居酒屋が待っている。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -111292,7 +111291,7 @@ msgstr "店に働きに行く。"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_love_48"
-msgstr "食堂に働きに行く。"
+msgstr "居酒屋に働きに行く。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -111567,17 +111566,17 @@ msgstr "夜になる前に{{kimochi.n}}に会いに行く。"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_corruption_34"
-msgstr "食堂に働きに行く。"
+msgstr "居酒屋に働きに行く。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_corruption_35"
-msgstr "食堂に働きに行く。"
+msgstr "居酒屋に働きに行く。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_corruption_36"
-msgstr "食堂から出る。"
+msgstr "居酒屋から出る。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -111592,7 +111591,7 @@ msgstr "帰って寝る。"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_corruption_39"
-msgstr "いつも通り食堂に働きに行く。"
+msgstr "いつも通り居酒屋に働きに行く。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -111712,12 +111711,12 @@ msgstr "自分の部屋で寝る。"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_corruption_63"
-msgstr "食堂に働きに行く。"
+msgstr "居酒屋に働きに行く。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_corruption_64"
-msgstr "食堂に働きに行く。"
+msgstr "居酒屋に働きに行く。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -114887,278 +114886,278 @@ msgstr "{{saito.n}} (座る)"
 #: game/scenes/locations/canal.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "AsamiLay"
-msgstr ""
+msgstr "{{asami.n}} (寝転がる)"
 
 #: game/scenes/locations/canal.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "NatsumeLean"
-msgstr ""
+msgstr "{{natsume.n}} (寄りかかる)"
 
 #: game/scenes/locations/canal.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "Diary"
-msgstr ""
+msgstr "日記"
 
 #: game/scenes/locations/coffeebar_exterior.tscn game/scenes/locations/hostess_club_interior.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "NetoruSit"
-msgstr ""
+msgstr "{{netoru.n}} (座る)"
 
 #: game/scenes/locations/coffeebar_interior.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "YasukaBarista"
-msgstr ""
+msgstr "{{yasuka.n}} (バリスタ)"
 
 #: game/scenes/locations/dojo_exterior.tscn game/scenes/locations/hostess_club_exterior.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "ThugsStand"
-msgstr ""
+msgstr "不良 (待つ)"
 
 #: game/scenes/locations/home_asami_asami_room.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "AsamiSitNormal"
-msgstr ""
+msgstr "{{asami.n}} (座る 通常)"
 
 #: game/scenes/locations/home_asami_asami_room.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "AsamiSitSexy"
-msgstr ""
+msgstr "{{asami.n}} (座る セクシー)"
 
 #: game/scenes/locations/home_asami_exterior.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "SayuriWait"
-msgstr ""
+msgstr "{{sayuri.n}} (待つ)"
 
 #: game/scenes/locations/home_asami_exterior.tscn game/scenes/locations/home_kimochi_exterior.tscn game/scenes/locations/home_player_exterior.tscn game/scenes/locations/konbini_exterior.tscn
 #: game/scenes/locations/restaurant_exterior.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "CopStand"
-msgstr ""
+msgstr "{{cop.n}} (警備)"
 
 #: game/scenes/locations/home_asami_exterior.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "NetoruStand"
-msgstr ""
+msgstr "{{netoru.n}} (チャイム)"
 
 #: game/scenes/locations/home_asami_livingroom.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "SayuriCook"
-msgstr ""
+msgstr "{{sayuri.n}} (料理)"
 
 #: game/scenes/locations/home_asami_livingroom.tscn game/scenes/locations/home_player_livingroom.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "SayuriSit"
-msgstr ""
+msgstr "{{sayuri.n}} (座る)"
 
 #: game/scenes/locations/home_kimochi_interior.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "Clean"
-msgstr ""
+msgstr "片付け後"
 
 #: game/scenes/locations/home_kimochi_interior.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "KimochiSit"
-msgstr ""
+msgstr "{{kimochi.n}} (座る)"
 
 #: game/scenes/locations/home_kimochi_interior.tscn game/scenes/locations/home_player_livingroom.tscn game/scenes/locations/lake.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "NorikoSit"
-msgstr ""
+msgstr "{{noriko.n}} (座る)"
 
 #: game/scenes/locations/home_minato_exterior.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "Car"
-msgstr ""
+msgstr "車"
 
 #: uid://dip6xejjm2f6n
 msgctxt "galleries.backgrounds.sprite"
 msgid "NatsumeLay"
-msgstr ""
+msgstr "{{natsume.n}} (横になる)"
 
 #: uid://dip6xejjm2f6n
 msgctxt "galleries.backgrounds.sprite"
 msgid "SaitoLay"
-msgstr ""
+msgstr "{{saito.n}} (横になる)"
 
 #: game/scenes/locations/home_player_corridor.tscn game/scenes/locations/home_player_livingroom.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "NorikoStand"
-msgstr ""
+msgstr "{{noriko.n}} (待つ)"
 
 #: game/scenes/locations/home_player_exterior.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "ChiakiCat"
-msgstr ""
+msgstr "{{chiaki.n}} (猫)"
 
 #: game/scenes/locations/home_player_exterior.tscn game/scenes/locations/restaurant_sakuya_room.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "SakuyaStand"
-msgstr ""
+msgstr "{{sakuya.n}} (待つ)"
 
 #: game/scenes/locations/home_player_livingroom.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "YasukaCoffee"
-msgstr ""
+msgstr "{{yasuka.n}} (コーヒー)"
 
 #: game/scenes/locations/home_player_livingroom.tscn game/scenes/locations/hostess_club_exterior.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "YasukaStand"
-msgstr ""
+msgstr "{{yasuka.n}} (待つ)"
 
 #: game/scenes/locations/home_player_livingroom.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "SakuyaTea"
-msgstr ""
+msgstr "{{sakuya.n}} (お茶)"
 
 #: game/scenes/locations/home_player_noriko_room.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "NorikoPC"
-msgstr ""
+msgstr "{{noriko.n}} (PC)"
 
 #: game/scenes/locations/home_player_noriko_room.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "NorikoSitNude"
-msgstr ""
+msgstr "{{noriko.n}} (座る 裸)"
 
 #: game/scenes/locations/home_player_noriko_room.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "NorikoLeanNude"
-msgstr ""
+msgstr "{{noriko.n}} (待つ 裸)"
 
 #: game/scenes/locations/home_player_noriko_room.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "NorikoSleep"
-msgstr ""
+msgstr "{{noriko.n}} (眠る)"
 
 #: uid://din2p3sn0xw5i
 msgctxt "galleries.backgrounds.sprite"
 msgid "Walkman"
-msgstr ""
+msgstr "ウォークマン"
 
 #: uid://din2p3sn0xw5i
 msgctxt "galleries.backgrounds.sprite"
 msgid "Dumbbells"
-msgstr ""
+msgstr "ダンベル"
 
 #: uid://din2p3sn0xw5i
 msgctxt "galleries.backgrounds.sprite"
 msgid "NorikoSitting"
-msgstr ""
+msgstr "{{noriko.n}} (座る)"
 
 #: uid://din2p3sn0xw5i
 msgctxt "galleries.backgrounds.sprite"
 msgid "AsamiDreamcastNormal"
-msgstr ""
+msgstr "{{asami.n}} (ドリームキャスト 通常)"
 
 #: uid://din2p3sn0xw5i
 msgctxt "galleries.backgrounds.sprite"
 msgid "AsamiDreamcastSexy"
-msgstr ""
+msgstr "{{asami.n}} (ドリームキャスト セクシー)"
 
 #: game/scenes/locations/home_player_yasuka_room.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "YasukaRest"
-msgstr ""
+msgstr "{{yasuka.n}} (休む)"
 
 #: game/scenes/locations/home_player_yasuka_room.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "YasukaSleep"
-msgstr ""
+msgstr "{{yasuka.n}} (眠る)"
 
 #: game/scenes/locations/home_player_yasuka_room.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "NorikoCrouchNude"
-msgstr ""
+msgstr "{{noriko.n}} (しゃがむ 裸)"
 
 #: game/scenes/locations/hostess_club_interior.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "MacumbaGuard"
-msgstr ""
+msgstr "{{macumba.n}} (警備)"
 
 #: game/scenes/locations/hostess_club_interior.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "YasukaSit"
-msgstr ""
+msgstr "{{yasuka.n}} (座る)"
 
 #: game/scenes/locations/konbini_interior.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "SayuriWork"
-msgstr ""
+msgstr "{{sayuri.n}} (働く)"
 
 #: game/scenes/locations/onsen_bath.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "SayuriBath"
-msgstr ""
+msgstr "{{sayuri.n}} (入浴)"
 
 #: game/scenes/locations/onsen_bath.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "SaitoBath"
-msgstr ""
+msgstr "{{saito.n}} (入浴)"
 
 #: game/scenes/locations/onsen_bath.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "SakuyaBath"
-msgstr ""
+msgstr "{{sakuya.n}} (入浴)"
 
 #: game/scenes/locations/onsen_interior.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "SakuyaReception"
-msgstr ""
+msgstr "{{sakuya.n}} (受付)"
 
 #: game/scenes/locations/park.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "AsamiSit"
-msgstr ""
+msgstr "{{asami.n}} (座る)"
 
 #: game/scenes/locations/park.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "MacumbaSit"
-msgstr ""
+msgstr "{{macumba.n}} (座る)"
 
 #: game/scenes/locations/park.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "MacumbaSitWalkman"
-msgstr ""
+msgstr "{{macumba.n}} (ウォークマン)"
 
 #: game/scenes/locations/park.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "NatsumeWalk"
-msgstr ""
+msgstr "{{natsume.n}} (散歩)"
 
 #: game/scenes/locations/park.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "AsamiWalkDress"
-msgstr ""
+msgstr "{{asami.n}} (散歩 ドレス)"
 
 #: game/scenes/locations/park.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "AsamiWalkSexy"
-msgstr ""
+msgstr "{{asami.n}} (散歩 セクシー)"
 
 #: game/scenes/locations/restaurant_exterior.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "ChefSmoke"
-msgstr ""
+msgstr "{{chef.n}} (喫煙)"
 
 #: game/scenes/locations/restaurant_interior.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "ChefCook"
-msgstr ""
+msgstr "{{chef.n}} (調理)"
 
 #: game/scenes/locations/restaurant_interior.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "SakuyaClean"
-msgstr ""
+msgstr "{{sakuya.n}} (掃除)"
 
 #: game/scenes/locations/restaurant_sakuya_room.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "AkiraWindowNeutral"
-msgstr ""
+msgstr "{{akira.n}} (窓)"
 
 #: game/scenes/locations/restaurant_sakuya_room.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "AkiraWindowSurprised"
-msgstr ""
+msgstr "{{akira.n}} (窓 驚く)"
 
 #: game/scenes/cg/list.tres
 msgctxt "galleries.images.hints"
@@ -115168,27 +115167,27 @@ msgstr "{{macumba.n}}とトレーニング。"
 #: attributes.galleries/cgs/saito/run
 msgctxt "galleries.movies.attribute"
 msgid "glare"
-msgstr ""
+msgstr "にらむ"
 
 #: attributes.galleries/cgs/saito/run
 msgctxt "galleries.movies.attribute"
 msgid "appear"
-msgstr ""
+msgstr "出現"
 
 #: attributes.galleries/cgs/saito/run
 msgctxt "galleries.movies.attribute"
 msgid "disappear"
-msgstr ""
+msgstr "消失"
 
 #: game/scenes/cg/list.tres
 msgctxt "galleries.images.hints"
 msgid "Rencontrer {{asami.n}}."
-msgstr ""
+msgstr "{{asami.n}}と出会う。"
 
 #: game/scenes/cg/list.tres
 msgctxt "galleries.images.hints"
 msgid "Vouloir travailler pour le restaurant."
-msgstr "食堂で仕事を探す。"
+msgstr "居酒屋で仕事を探す。"
 
 #: game/scenes/cg/list.tres
 msgctxt "galleries.images.hints"
@@ -115198,12 +115197,12 @@ msgstr "{{yasuka.n}}がホステスになるのを阻止する。"
 #: game/scenes/cg/list.tres
 msgctxt "galleries.images.hints"
 msgid "Faire chanter {{noriko.n}}."
-msgstr "{{noriko.n}}を脅迫する。"
+msgstr "{{noriko.n}}を脅す。"
 
 #: game/scenes/cg/list.tres
 msgctxt "galleries.images.hints"
 msgid "Ne pas rejeter {{noriko.n}}."
-msgstr ""
+msgstr "{{noriko.n}}を拒絶しない。"
 
 #: game/scenes/cg/list.tres
 msgctxt "galleries.images.hints"
@@ -115218,7 +115217,7 @@ msgstr "{{noriko.n}}に支配される。"
 #: game/scenes/cg/list.tres
 msgctxt "galleries.images.hints"
 msgid "Écouter à la porte de {{noriko.n}}."
-msgstr "{{noriko.n}}の部屋のドアから盗み聞きする。"
+msgstr "{{noriko.n}}のドアに聞き耳を立てる。"
 
 #: game/scenes/cg/list.tres
 msgctxt "galleries.images.hints"
@@ -115228,7 +115227,7 @@ msgstr "メインストーリーを進める。"
 #: game/scenes/cg/list.tres
 msgctxt "galleries.images.hints"
 msgid "Travailler au restaurant."
-msgstr "食堂で働く。"
+msgstr "居酒屋で働く。"
 
 #: game/scenes/cg/list.tres
 msgctxt "galleries.images.hints"
@@ -115243,13 +115242,13 @@ msgstr "{{asami.n}}を堕落させる。"
 #: game/scenes/cg/list.tres
 msgctxt "galleries.images.hints"
 msgid "Suivre l'histoire d'{{asami.n}}."
-msgstr ""
+msgstr "{{asami.n}}のストーリーを進める。"
 
 #: attributes.galleries/cgs/asami/missionary attributes.galleries/cgs/asami/amazone attributes.galleries/cgs/asami/standing_asami_room attributes.galleries/cgs/asami/sit_minato_basement
 #: attributes.galleries/cgs/asami/bed_minato_basement attributes.galleries/cgs/asami/kidnapping
 msgctxt "galleries.movies.attribute"
 msgid "tan"
-msgstr ""
+msgstr "日焼け"
 
 #: attributes.galleries/cgs/yasuka/love/room_timelapse
 msgctxt "galleries.movies.attribute"
@@ -115259,28 +115258,27 @@ msgstr "後ろを見る"
 #: game/scenes/cg/list.tres
 msgctxt "galleries.images.hints"
 msgid "Laisser travailler {{yasuka.n}} comme hôtesse."
-msgstr "{{yasuka.n}}がホステスになるのを認める。"
+msgstr "{{yasuka.n}}がホステスになるのを許す。"
 
 #: attributes.galleries/cgs/yasuka/69
 msgctxt "galleries.movies.attribute"
 msgid "sakuya"
-msgstr ""
+msgstr "{{sakuya.n}}の影。"
 
 #: game/scenes/cg/list.tres
 msgctxt "galleries.images.hints"
 msgid "Ne pas garder {{asami.n}} dans la friendzone."
-msgstr ""
+msgstr "{{asami.n}} と友達以上になる。"
 
 #: game/scenes/cg/list.tres
 msgctxt "galleries.images.hints"
 msgid "Accepter les avances de {{sakuya.n}}."
-msgstr ""
+msgstr "{{sakuya.n}}の提案を受け入れる。"
 
 #: attributes.galleries/cgs/sakuya/chair_sakuya_room
-#, fuzzy
 msgctxt "galleries.movies.attribute"
 msgid "akira"
-msgstr "{akira.n}と"
+msgstr "{{akira.n}}"
 
 #: game/scenes/cg/list.tres
 msgctxt "galleries.images.hints"
@@ -115290,22 +115288,22 @@ msgstr "{{sakuya.n}}のストーリーを進める。"
 #: game/scenes/cg/list.tres
 msgctxt "galleries.images.hints"
 msgid "Suivre l'histoire de {{noriko.n}}."
-msgstr ""
+msgstr "{{noriko.n}}のストーリーを進める。"
 
 #: game/scenes/cg/list.tres
 msgctxt "galleries.images.hints"
 msgid "Se laisser dominer par {{noriko.n}}."
-msgstr ""
+msgstr "{{noriko.n}}に支配される。"
 
 #: game/scenes/cg/list.tres
 msgctxt "galleries.images.hints"
 msgid "Suivre l'histoire de {{sayuri.n}}."
-msgstr ""
+msgstr "{{sayuri.n}}のストーリーを進める。"
 
 #: game/scenes/cg/list.tres
 msgctxt "galleries.images.hints"
 msgid "Se laisser séduire par {{sayuri.n}}."
-msgstr ""
+msgstr "{{sayuri.n}}の誘惑に身を委ねる。"
 
 #: game/scenes/cg/list.tres
 msgctxt "galleries.images.hints"
