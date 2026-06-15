@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: info@teot-studio.com\n"
 "POT-Creation-Date: 2025-12-12 13:32+0100\n"
-"PO-Revision-Date: 2026-03-31 06:16+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-06-15 20:40+0000\n"
+"Last-Translator: Hexin <kazusa7512@gmail.com>\n"
 "Language-Team: Japanese <https://translations.teot-studio.com/projects/goodbye-eternity/game/ja/>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
@@ -241,7 +241,7 @@ msgstr "あなたは彼女を[color=yellow]ホステスバーで働かせる[/co
 
 #: game/scenes/gui/gui_start_yasuka.tscn
 msgid "Vous avez fait le choix de vous [color=yellow]concentrer sur la dette de votre père[/color]."
-msgstr ""
+msgstr "あなたは[color=yellow]父親の借金と向き合う[/color]道を選んだ。"
 
 #: game/scenes/gui/splashscreen.tscn
 msgid "Certaines scènes de ce jeu peuvent contenir du contenu sexuellement explicite et pourrait choquer un jeune public. Tous les personnages de ce jeu sont majeurs."
@@ -561,22 +561,22 @@ msgstr "セーブ"
 #: game/scripts/gui/menu/save_ui.gd:405
 msgctxt "saves.export"
 msgid "Exporter les sauvegardes"
-msgstr ""
+msgstr "セーブデータをエクスポート"
 
 #: game/scripts/gui/menu/save_ui.gd:429
 msgctxt "saves.export.error"
 msgid "Impossible d'écrire un fichier à cet endroit (refusé par le système)"
-msgstr ""
+msgstr "この場所にはファイルを書き込めません（システムによる拒否）"
 
 #: game/scripts/gui/menu/save_ui.gd:447
 msgctxt "saves.import"
 msgid "Importer les sauvegardes"
-msgstr ""
+msgstr "セーブデータをインポート"
 
 #: game/scripts/gui/menu/save_ui.gd:461
 msgctxt "saves.import.error"
 msgid "Impossible de lire un fichier à cet endroit (refusé par le système)"
-msgstr ""
+msgstr "この場所のファイルを読み込めません（システムによる拒否）"
 
 #: game/scenes/gui/game_menu/save_button_template.tscn
 msgid "SAUVEGARDER"
@@ -768,11 +768,11 @@ msgstr "{{sayuri.n}}のストーリーを続けられるようになった。"
 
 #: game/scenes/gui/gui_start_sayuri.tscn
 msgid "La mère de votre [color=yellow]petite amie[/color] semble déprimée suite à l'absence de sa fille. Peut-être pourriez-vous la réconforter ?"
-msgstr ""
+msgstr "君の[color=yellow]彼女の母親[/color]は娘がいなくなって落ち込んでいるようだ。励ましてみるのもいいかもしれない。"
 
 #: game/scenes/gui/gui_start_sayuri.tscn
 msgid "La mère de votre [color=yellow]meilleure amie[/color] semble déprimée suite à l'absence de sa fille. Peut-être pourriez-vous la réconforter ?"
-msgstr ""
+msgstr "君の[color=yellow]親友の母親[/color]は娘がいなくなって落ち込んでいるようだ。励ましてみるのもいいかもしれない。"
 
 #: game/scenes/gui/gui_start_sayuri.tscn
 msgid "Remontons-lui le moral"
@@ -823,7 +823,7 @@ msgstr "デフォルト"
 
 #: core/scenes/ui/notification.tscn
 msgid "[center]Vous arrêtez l'enregistrement sous les yeux de Noriko. Faut pas oublier aussi que ça peut dépasser.[/center]"
-msgstr ""
+msgstr "[center]あなたはノリコの目の前で録音を止めた。忘れるな、一線を越えたら手に負えない状況になるかもしれない。[/center]"
 
 #: core/scenes/lovense_notification.gd:52
 msgctxt "lovense.messages"
