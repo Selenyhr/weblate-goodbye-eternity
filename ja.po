@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: info@teot-studio.com\n"
 "POT-Creation-Date: 2025-12-12 13:32+0100\n"
-"PO-Revision-Date: 2026-06-15 20:40+0000\n"
+"PO-Revision-Date: 2026-06-24 06:51+0000\n"
 "Last-Translator: Hexin <kazusa7512@gmail.com>\n"
 "Language-Team: Japanese <https://translations.teot-studio.com/projects/goodbye-eternity/game/ja/>\n"
 "Language: ja\n"
@@ -200,7 +200,7 @@ msgstr "あなたは彼女と[color=yellow]友達[/color]になる道を選択�
 
 #: game/scenes/gui/gui_start_asami.tscn
 msgid "Vous avez fait le choix de la [color=yellow]corrompre[/color]."
-msgstr "あなたら彼女を[color=yellow]堕落[/color]させる道を選択した。"
+msgstr "あなたは彼女を[color=yellow]堕落[/color]させる道を選んだ。"
 
 #: game/scenes/gui/gui_start_asami.tscn
 msgid "Vous avez fait le choix de [color=yellow]rester amis[/color]."
@@ -117537,16 +117537,14 @@ msgid "main_18_noriko_femdom_maledom"
 msgstr "{{yasuka.n}}を探してCDプレイヤーを返してもらう。"
 
 #: game/scripts/variables/quests.gd
-#, fuzzy
 msgctxt "quests.hints"
 msgid "main_19_noriko_femdom_maledom"
-msgstr "CDプレイヤーを手に入れて{macumba.n}}に会いに行く。"
+msgstr "CDプレイヤーを手に入れて{{macumba.n}}に会いに行く。"
 
 #: game/scripts/variables/quests.gd
-#, fuzzy
 msgctxt "quests.hints"
 msgid "main_19_1_noriko_femdom_maledom"
-msgstr "CDプレイヤーを手に入れて{macumba.n}}に会いに行く。"
+msgstr "CDプレイヤーを手に入れて{{macumba.n}}に会いに行く。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -118317,7 +118315,7 @@ msgstr "{{kimochi.n}}と喫茶店で会う。"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_love_12"
-msgstr "{{kimochi.n}}と喫茶店で会う。"
+msgstr "{{yasuka.n}}に話しかける。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
