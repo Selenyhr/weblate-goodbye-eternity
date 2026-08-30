@@ -112,8 +112,8 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: info@teot-studio.com\n"
 "POT-Creation-Date: 2025-12-12 13:32+0100\n"
-"PO-Revision-Date: 2026-06-27 01:12+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-08-30 20:40+0000\n"
+"Last-Translator: Eito <jigenbogani@gmail.com>\n"
 "Language-Team: Italian <https://translations.teot-studio.com/projects/goodbye-eternity/game/it/>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -351,7 +351,7 @@ msgstr "Hai scelto di farla [color=yellow]lavorare nell'hostess club[/color]."
 
 #: game/scenes/gui/gui_start_yasuka.tscn
 msgid "Vous avez fait le choix de vous [color=yellow]concentrer sur la dette de votre père[/color]."
-msgstr ""
+msgstr "Hai scelto di [color=yellow]concentrarti sul debito di tuo padre[/color]."
 
 #: game/scenes/gui/splashscreen.tscn
 msgid "Certaines scènes de ce jeu peuvent contenir du contenu sexuellement explicite et pourrait choquer un jeune public. Tous les personnages de ce jeu sont majeurs."
@@ -433,7 +433,7 @@ msgstr "Indietro"
 
 #: game/scenes/gui/game_menu/main.tscn
 msgid "Auto"
-msgstr ""
+msgstr "Auto"
 
 #: game/scenes/gui/game_menu/main.tscn
 msgid "Avance rapide"
@@ -449,7 +449,7 @@ msgstr "Preferenze"
 
 #: game/scenes/gui/game_menu/main.tscn
 msgid "Skins"
-msgstr ""
+msgstr "Skin"
 
 #: game/scenes/gui/game_menu/main.tscn
 msgid "OPTIONS"
@@ -511,13 +511,13 @@ msgstr "PREFERENZE"
 #: game/scenes/gui/game_menu/preferences.tscn:200
 msgctxt "preferences.group"
 msgid "lovense"
-msgstr ""
+msgstr "Lovense"
 
 #: game/scenes/gui/game_menu/preferences.tscn:380
 #: game/scenes/gui/game_menu/preferences.tscn:453
 msgctxt "preferences.variables.typing_speed"
 msgid "MAX"
-msgstr ""
+msgstr "MAX"
 
 #: game/scenes/gui/game_menu/preferences.tscn:382
 msgctxt "preferences.unit.skip_frame_delay"
@@ -527,42 +527,42 @@ msgstr "frame(s)"
 #: game/scenes/gui/game_menu/preferences.tscn:474
 #: game/scenes/gui/game_menu/preferences.tscn:488
 msgid "À jour"
-msgstr ""
+msgstr "Aggiornato"
 
 #: game/scenes/gui/game_menu/preferences.tscn:477
 #: game/scenes/gui/game_menu/preferences.tscn:491
 msgid "En cours"
-msgstr ""
+msgstr "Sincronizzando"
 
 #: game/scenes/gui/game_menu/preferences.tscn:480
 #: game/scenes/gui/game_menu/preferences.tscn
 msgid "Synchroniser"
-msgstr ""
+msgstr "Sincronizza"
 
 #: game/scenes/gui/game_menu/preferences.tscn:491
 #: game/scenes/gui/game_menu/preferences.tscn:494
 #: game/scenes/gui/game_menu/preferences.tscn
 msgid "Télécharger"
-msgstr ""
+msgstr "Scarica"
 
 #: game/scenes/gui/game_menu/preferences.tscn:505
 msgctxt "preferences.translations.errors"
 msgid "Une erreur s'est produite durant la synchronisation. Veuillez rééssayer."
-msgstr ""
+msgstr "Si è verificato un errore durante la sincronizzazione, per favore riprova di nuovo."
 
 #: game/scenes/gui/game_menu/preferences.tscn:519
 msgctxt "preferences.translations.errors"
 msgid "Le serveur a répondu avec code {response_code}."
-msgstr ""
+msgstr "Il server ha risposto con {response_code}."
 
 #: game/scenes/gui/game_menu/preferences.tscn:521
 msgctxt "preferences.translations.errors"
 msgid "Impossible de joindre le serveur. Vérifiez votre connexion."
-msgstr ""
+msgstr "Impossibile unirsi al server. Verifica la tua connessione."
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgid "Changer\n"
-msgstr ""
+msgstr "Cambia"
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgid ""
@@ -576,7 +576,7 @@ msgstr ""
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgid "Lovense Remote"
-msgstr ""
+msgstr "Lovense Remote"
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgid ""
@@ -584,42 +584,45 @@ msgid ""
 "Si l'application est sur le même périphérique que le jeu, laissez les champs IP locale, ainsi que port vides.\n"
 "[color=red]Pour le moment, seul le Lovense Max 2 a été implémenté, et donc seuls les jouets supportant vibration et/ou pompe à air sont supportés.[/color]"
 msgstr ""
+"Il gioco supporta l'uso dei giochi Lovense attaverso l'applicazione Lovense Remote, disponibile su Windows e smartphone.\n"
+"Se l'applicazione è presente sullo stesso dispositivo del gioco, lascia vuote le voci IP locale e portali.\n"
+"[color=red]Per il momento, è stato implementato solo Lovense Max 2, e per questo solo i giochi con vibrazione e/o pompa d'aria sono supportati.[/color]"
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgid "Activer l'intégration"
-msgstr ""
+msgstr "Attiva l'integrazione"
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgid "Bannière publicitaire"
-msgstr ""
+msgstr "Annuncio pubblicitario"
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgid "IP locale"
-msgstr ""
+msgstr "IP locale"
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgid "192.168.0.X"
-msgstr ""
+msgstr "192.168.0.X"
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgid "Port (non SSL)"
-msgstr ""
+msgstr "Porta (non SSL)"
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgid "20010"
-msgstr ""
+msgstr "20010"
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgid "Vitesse de synchronisation"
-msgstr ""
+msgstr "Velocità di sincronizzazione"
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgid "100"
-msgstr ""
+msgstr "100"
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgid "%"
-msgstr ""
+msgstr "%"
 
 #: game/scenes/gui/game_menu/saves.tscn
 msgid "<<"
@@ -668,22 +671,22 @@ msgstr "SALVATAGGI"
 #: game/scripts/gui/menu/save_ui.gd:482
 msgctxt "saves.export"
 msgid "Exporter les sauvegardes"
-msgstr ""
+msgstr "Esporta salvataggi"
 
 #: game/scripts/gui/menu/save_ui.gd:506
 msgctxt "saves.export.error"
 msgid "Impossible d'écrire un fichier à cet endroit (refusé par le système)"
-msgstr ""
+msgstr "Impossibile scrivere un file in questo percorso (accesso negato dal sistema)"
 
 #: game/scripts/gui/menu/save_ui.gd:524
 msgctxt "saves.import"
 msgid "Importer les sauvegardes"
-msgstr ""
+msgstr "Importa salvataggi"
 
 #: game/scripts/gui/menu/save_ui.gd:538
 msgctxt "saves.import.error"
 msgid "Impossible de lire un fichier à cet endroit (refusé par le système)"
-msgstr ""
+msgstr "Impossibile leggere un file in questo percorso (negato dal sistema)"
 
 #: game/scenes/gui/game_menu/save_button_template.tscn
 msgid "SAUVEGARDER"
@@ -756,7 +759,7 @@ msgstr "ATTRIBUTE"
 
 #: game/scenes/gui/game_menu/galleries/sprites.tscn
 msgid "Un skin est actif pour ce personnage. Certaines images peuvent être remplacées."
-msgstr ""
+msgstr "Una skin è attiva per questo personaggio. Alcune immagini potrebbero essere sostituite."
 
 #: game/scripts/gui/menu/save_button_template.gd:137
 msgctxt "saves.button.invalid"
@@ -863,7 +866,7 @@ msgstr "Galleria"
 
 #: game/scenes/gui/rename.tscn
 msgid "COMMENCER"
-msgstr ""
+msgstr "INIZIA"
 
 #: game/scenes/gui/gui_start_sayuri.tscn
 msgid "SAYURI"
@@ -883,7 +886,7 @@ msgstr "La madre della tua [color=yellow]migliore amica[/color] sembra triste da
 
 #: game/scenes/gui/gui_start_sayuri.tscn
 msgid "Remontons-lui le moral"
-msgstr ""
+msgstr "Tiriamola su di morale"
 
 #: game/scenes/gui/chapters/chapters.tscn
 msgid "Quand voulez-vous commencer l'histoire ?"
@@ -901,7 +904,7 @@ msgstr "Conferma"
 #: game/scenes/gui/game_menu/galleries/cgs.gd:7
 msgctxt "game_menu.crumbs.galleries"
 msgid "CG"
-msgstr ""
+msgstr "Grafiche"
 
 #: game/scenes/gui/game_menu/galleries/cgs_characters_list.tscn
 msgid "TOUT"
@@ -910,7 +913,7 @@ msgstr "TUTTO"
 #: game/scenes/gui/game_menu/galleries/cgs_visualization.gd:195
 msgctxt "galleries.movies.attribute"
 msgid "Poils pubiens"
-msgstr ""
+msgstr "Peli pubici"
 
 #: game/scenes/gui/game_menu/galleries/cgs_visualization.tscn
 msgid "Fellation"
@@ -926,7 +929,7 @@ msgstr "Anale"
 
 #: game/scenes/gui/game_menu/skins.tscn
 msgid "Défaut"
-msgstr ""
+msgstr "Predefinito"
 
 #: core/scenes/ui/notification.tscn
 msgid "[center]Vous arrêtez l'enregistrement sous les yeux de Noriko. Faut pas oublier aussi que ça peut dépasser.[/center]"
@@ -965,7 +968,7 @@ msgstr "Ora compatibile con {{lovense}}."
 #: game/scenes/gui/bad_ending/betrayed_girl.gd:27
 msgctxt "game_over.title"
 msgid "[i]La fille qui a été trahie.[/i]"
-msgstr ""
+msgstr "[i]La ragazza che fu tradita.[/i]"
 
 #: game/scenes/gui/bad_ending/betrayed_girl.gd:31
 msgctxt "game_over.summary"
@@ -980,18 +983,27 @@ msgid ""
 "\n"
 "[fill]{{asami.n}}, de son côté, reviendra renouer les liens avec sa mère durant sa grossesse. Elle lui présentera {{netoru.n}}. Malgré le choc ressenti en voyant l'homme qui avait l'âge d'être le père de sa fille, {{sayuri.n}} ravalera ses pensées et se contentera de les accueillir à bras ouverts en voyant le bonheur affiché par {{asami.n}}. Après tout elle aura bientôt des petits enfants...[/fill]"
 msgstr ""
+"[fill]{{asami.n}} si lasciò manipolare da {{netoru.n}}. Approfittando della sua angoscia e sete di vendetta, la spinse ad assumere volontariamente l'X3. Nonostante la sua repulsione per lui, gli effetti della droga riprogrammarono la sua percezione, e il desiderio la travolse non appena incrociò il suo sguardo . {{netoru.n}} divenne l'unica persona che contava. {{saito.n}} svanì dai suoi pensieri; non c'era semplicemente più spazio per lui—né nel suo cuore né nella sua mente. La sua vita adesso ruota attorno all'uomo che un tempo odiava così tanto, ma che imporvvisamente iniziò ad amare da quel momento in poi.[/fill]\n"
+"\n"
+"[fill]{{minato.n}} la lascierà andare. Prima di abbandonare la città, {{asami.n}} si fermerà al konbini per vedere sua madre e annunciarle il suo ritorno. {{sayuri.n}} capirà all'istante, vedendo il suo sguardo, che lei conosce la verità. Scusarsi e implorare perdono non cambierà niente. {{asami.n}} le lancerà solo uno sguardo freddo e sprezzante prima di dire che se ne va di casa. Sua madre, sull'orlo delle lacrime, le chiederà soltanto di tenersi in contatto ogni tanto, aggiungendo che sarà sempre sua figlia e che la amerà sempre.[/fill]\n"
+"\n"
+"[fill]{{saito.n}} verrà a sapere del ritorno di {{asami.n}} e della sua partenza improvvisa grazie alla madre in lacrime, ma non avrà mai il coraggio di rivelarle la macabra verità. Da quel momento in poi, tutte le settimane riceverà dei video nella sua casella postale spediti da {{asami.n}}, o [i]La ragazza che fu tradita[/i], come ama definirsi nei suoi mesaggi. Menzionerà costantemente il tradimento durante ogni incontro sessuale registrato con {{netoru.n}}.[/fill]\n"
+"\n"
+"[fill]{{saito.n}} non ne parlerà mai con nessuno, consumato dai sensi di colpa. Il giorno in cui si renderà conto che lei è incinta, non riuscirà più a sopportarlo: preso dall'imbarazzo, deciderà di lasciare città e iniziare una nuova vita altrove.[/fill]\n"
+"\n"
+"[fill]Nel frattempo, {{asami.n}} si riconcilierà con sua madre durante la sua gravidanza. Le introdurrà {{netoru.n}}. Nonstante lo shock di vedere un uomo vecchio quanto il padre di sua figlia, {{sayuri.n}} se ne farà una ragione e li accoglierà a braccia aperte vedendo la felicità sul viso di {{asami.n}}. Dopotutto, avrà presto dei nipotini…[/fill]"
 
 #: game/scenes/gui/bad_ending/game_over.tscn
 msgid "Voir ce qui s'est passé."
-msgstr ""
+msgstr "Vedi cos'è successo."
 
 #: game/scenes/gui/bad_ending/game_over.tscn
 msgid "Retourner en arrière."
-msgstr ""
+msgstr "Torna indietro."
 
 #: game/scenes/gui/bad_ending/game_over.tscn
 msgid "Skin débloqué !"
-msgstr ""
+msgstr "Skin sbloccata!"
 
 #. Character:`saito`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
@@ -2440,259 +2452,259 @@ msgstr "Ora vattene!"
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "JE_COMPRENDS_MIEUX_POURQUOI_TU_B831A8"
 msgid "Je comprends mieux pourquoi tu ne voulais pas revenir travailler ici."
-msgstr ""
+msgstr "Ora capisco perché non volevi tornare a lavorare qui."
 
 #. Character:`saito`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "CE_TYPE_EST_UN_ENFOIR_6D8537"
 msgid "Ce type est un enfoiré !"
-msgstr ""
+msgstr "Quel tipo è un cafone!"
 
 #. Character:`yasuka` | Attributes:`pouting`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "SHHHHHT_SI_JAMAIS_IL_T_ENTEND_EECF82"
 msgid "Shhhhht ! Si jamais il t'entend parler de lui comme ça tu vas avoir des problèmes !"
-msgstr ""
+msgstr "Shhhhh! Se ti sente parlare così di lui, finirai nei guai!"
 
 #. Character:`saito` | Attributes:`sad`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "IL_M_A_LITT_RALEMENT_INSULT_SA_DB7B64"
 msgid "Il m'a littéralement insulté sans vergogne."
-msgstr ""
+msgstr "Mi ha letteralmente insultato senza un'ombra di vergogna."
 
 #. Character:`yasuka` | Attributes:`upset`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "JE_VAIS_TOUT_DE_SUITE_LUI_EXP_4E3E28"
 msgid "... Je vais tout de suite lui expliquer qu'il ne peut pas faire ça, surtout pas avec toi !"
-msgstr ""
+msgstr "...Ora vado a dirgli che non può farlo, specialmente non a te!"
 
 #. Character:`saito` | Attributes:`sad`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "NON_OUBLIE_JE_NE_VEUX_PAS_TE_C_E1FA4D"
 msgid "Non, oublie, je ne veux pas te compliquer davantage la situation."
-msgstr ""
+msgstr "No, lascia perdere, non voglio complicarti di più le cose."
 
 #. Character:`yasuka` | Attributes:`sad`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "MAIS_IL_T_A_1F9ACD"
 msgid "Mais il t'a..."
-msgstr ""
+msgstr "Ma ti ha..."
 
 #. Character:`saito` | Attributes:`happy`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "A_IRA_TOUT_VA_BIEN_NORIKO_N_E_F81769"
 msgid "Ça ira, tout va bien, {{noriko.n}} est bien plus sévère avec moi. Dis-moi plutôt, il est tout le temps comme ça ?"
-msgstr ""
+msgstr "Tranquilla, andrà tutto bene, {{noriko.n}} è molto più severa con me. Dimmi una cosa, ma fa sempre così?"
 
 #. Character:`yasuka`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "OUI_IL_PASSE_SA_JOURN_E_EN_TER_601A24"
 msgid "Oui... Il passe sa journée en terrasse à faire fuir les gens."
-msgstr ""
+msgstr "Sì... spende tutto il tempo sulla terrazza a spaventare la gente."
 
 #. Character:`yasuka` | Attributes:`upset`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "ME_REFOURGUER_TOUTES_LES_T_CH_37A51A"
 msgid "À me refourguer toutes les tâches ingrates de la boutique."
-msgstr ""
+msgstr "E a scaricare tutte le mansioni inutili su di me."
 
 #. Character:`narrator` | Attributes:`upset`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "C_EST_DONC_CETTE_ESP_CE_D_ORDU_9993A2"
 msgid "C'est donc cette espèce d'ordure qui pourrit la vie de {{yasuka.n}}."
-msgstr ""
+msgstr "Quindi questo è il pezzo di merda che sta rendendo la vita di {{yasuka.n}} un inferno."
 
 #. Character:`narrator`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "CE_MEC_N_EN_A_PAS_SEULEMENT_L_C07A8D"
 msgid "Ce mec n'en a pas seulement l'air, c'est un véritable connard."
-msgstr ""
+msgstr "Questo tizio non sembra solo un bastardo, lo è a tutti gli effetti."
 
 #. Character:`narrator`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "MON_INSTINCT_NE_M_A_PAS_TROMP_7FA285"
 msgid "Mon instinct ne m'a pas trompé."
-msgstr ""
+msgstr "Il mio istinto aveva ragione."
 
 #. Character:`netoru` | Attributes:`angry`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "YASUKA_N_JE_NE_TE_PAIE_PAS_PO_F40491"
 msgid "{{yasuka.n}} !! Je ne te paie pas pour faire du charme aux clients !"
-msgstr ""
+msgstr "{{yasuka.n}}!!! Non ti pago per farti rimorchiare dai clienti!"
 
 #. Character:`netoru`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "JE_D_DUIRAI_LE_TEMPS_QUE_TU_PA_4944B4"
 msgid "Je déduirai le temps que tu passes à discuter avec les gens de ton salaire."
-msgstr ""
+msgstr "Detrarrò tutto il tempo che spendi parlando con la gente dal tuo stipendio."
 
 #. Character:`saito` | Attributes:`surprised`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "QUOI_MAIS_IL_A_PAS_LE_DROIT_DE_F4C38D"
 msgid "Quoi ?! Mais il a pas le droit de faire ça !"
-msgstr ""
+msgstr "Cosa!? Ma non può farlo!"
 
 #. Character:`netoru` | Attributes:`arrogant`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "ET_VOUS_VOUS_AVEZ_PASS_COMMAND_6A4042"
 msgid "Et vous ?! Vous avez passé commande ou vous êtes là pour jouer au touriste ?"
-msgstr ""
+msgstr "E tu!? Per quale ragione sei qui? Hai ordinato qualcosa o sei solo qui a fare il turista?"
 
 #. Character:`netoru` | Attributes:`angry`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "PARCE_QUE_SI_C_EST_LE_SECOND_C_914727"
 msgid "Parce que si c'est le second cas c'est moi qui vous mettrai à la porte !"
-msgstr ""
+msgstr "Perché se è la seconda sarò io a buttarti fuori!"
 
 #. Character:`yasuka` | Attributes:`sad`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "JE_SUIS_D_SOL_E_MON_CH_RI_QUE_CDD8AC"
 msgid "Je suis désolée, mon chéri, que tu aies à subir ça..."
-msgstr ""
+msgstr "Mi dispiace che hai dovuto sopportarlo, tesoro..."
 
 #. Character:`notice`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "VOUS_AVEZ_DONN_300_YASUKA_4DFD82"
 msgid "Vous avez donné 300¥ à {{yasuka.n}}."
-msgstr ""
+msgstr "Hai dato 300¥ {{yasuka.n}}."
 
 #. Character:`netoru` | Attributes:`bad`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "SINON_QUOI_TU_VAS_FAIRE_QUOI_M_BAB138"
 msgid "Sinon quoi ? Tu vas faire quoi, microbe ?"
-msgstr ""
+msgstr "Altrimenti? Cosa pensi di fare moccioso?"
 
 #. Character:`netoru` | Attributes:`neutral`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "YASUKA_N_PRENEZ_UNE_PAUSE_ET_D7595E"
 msgid "{{yasuka.n}} prenez une pause et venez discuter avec moi."
-msgstr ""
+msgstr "{{yasuka.n}}, prenditi una pausa e vieni a parlare con me."
 
 #. Character:`netoru`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "J_AI_BIEN_VU_QUE_QUELQUE_CHOSE_EEF98B"
 msgid "J'ai bien vu que quelque chose n'allait pas ce matin et j'aimerais comprendre."
-msgstr ""
+msgstr "Ho intuito che qualcosa non andasse bene stamattina e vorrei capire cosa sta succedendo."
 
 #. Character:`netoru` | Attributes:`frustrated`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "SI_L_UNE_DE_MES_EMPLOY_E_N_AS_7C7A72"
 msgid "Si l'une de mes employée n'as pas le moral les clients vont finir par penser que je vous maltraite !"
-msgstr ""
+msgstr "Se una delle mie dipendenti si sente giù di morale, i clienti finiranno per pensare che ti stia maltrattando!"
 
 #. Character:`yasuka` | Attributes:`sad`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "JE_SUIS_D_SOL_E_MONSIEUR_MAIS_1D00ED"
 msgid "Je suis désolée Monsieur mais c'est que... Je n'ai pas envie de vous embêter avec mes problèmes."
-msgstr ""
+msgstr "Mi scusi, capo, ma è solo che... Non voglio importunarla con i miei problemi."
 
 #. Character:`netoru`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "J_INSISTE_EN_PARLER_VOUS_FERA_5CCD6A"
 msgid "J'insiste... En parler vous fera du bien !"
-msgstr ""
+msgstr "Insisto... Parlandone con me ti farà solo del bene!"
 
 #. Character:`yasuka` | Attributes:`depressed`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "JE_COMPREND_MERCI_MONSIEUR_MAI_FF8058"
 msgid "Je comprend, merci Monsieur mais ça reste assez personnel et..."
-msgstr ""
+msgstr "Capisco, grazie capo, ma è una cosa piuttosto personale e..."
 
 #. Character:`netoru` | Attributes:`neutral`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "YASUKA_N_J_ATTEND_DE_MES_EMPL_299907"
 msgid "{{yasuka.n}} ! J'attends de mes employés qu'ils soient investis à 100% dans leur travail et ce n'est visiblement pas le cas !"
-msgstr ""
+msgstr "{{yasuka.n}}! Mi aspetto che i miei dipendenti si impegnino al 100% a lavoro, e questo chiaramente non è il caso!"
 
 #. Character:`netoru`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "SI_CE_QUI_VOUS_PR_OCCUPE_TANT_99D0EF"
 msgid "Si ce qui vous préoccupe tant déteint sur votre travail ce n'est plus personnel !"
-msgstr ""
+msgstr "Se quello che ti preoccupa così tanto sta influenzando il tuo lavoro, allora non è più personale!"
 
 #. Character:`netoru`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "RACONTEZ_MOI_21A336"
 msgid "Racontez moi !"
-msgstr ""
+msgstr "Dimmelo!"
 
 #. Character:`yasuka` | Attributes:`sad`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "W_TR_S_BIEN_800DD5"
 msgid "...[w] Très bien..."
-msgstr ""
+msgstr "...[w] Va bene..."
 
 #. Character:`yasuka`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "J_AI_DIT_DES_CHOSES_QUE_JE_REG_1B8388"
 msgid "J'ai... dit des choses que je regrette à une personne que j'aime beaucoup et depuis j'ai l'impression que ça a crée une distance entre nous. J'ai l'impression que plus rien ne sera jamais comme avant."
-msgstr ""
+msgstr "Io... ho detto cose di cui mi pento a una persona a cui tengo molto, e da quel momento, sento come se si fosse creata una distanza tra di noi. Sento che niente sarà più come lo stesso."
 
 #. Character:`netoru` | Attributes:`frustrated`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "JE_NE_SAVAIS_PAS_QUE_VOUS_AVIE_928DB8"
 msgid "Je ne savais pas que vous aviez quelqu'un dans votre vie..."
-msgstr ""
+msgstr "Non sapevo che avevi qualcuno nella tua vita..."
 
 #. Character:`yasuka` | Attributes:`surprised`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "QUOI_OH_NON_JE_N_AI_PERSONNE_I_5FF780"
 msgid "Quoi ?! Oh non, je n'ai personne, il s'agit d'un jeune garçon qui m'a été confié quand il était bien plus jeune et aujourd'hui c'est un adulte."
-msgstr ""
+msgstr "Cosa!? Oh, no, non ho nessuno, è solo un ragazzino che mi fu affidato quando era ancora un bambino, ma ora è un adulto."
 
 #. Character:`netoru` | Attributes:`bad`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "JE_VOIS_CA_ME_RASSURE_ET_QUEL_537595"
 msgid "Je vois.. Ça me rassure... Et quelle était l'origine de cette dispute ?"
-msgstr ""
+msgstr "Capisco... Mi fa piacere... Ma qual è la causa di questa discussione?"
 
 #. Character:`yasuka` | Attributes:`sad`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "JE_01112C"
 msgid "Je...."
-msgstr ""
+msgstr "Io..."
 
 #. Character:`netoru` | Attributes:`arrogant`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "OUI_308D25"
 msgid "Oui ?"
-msgstr ""
+msgstr "Sì?"
 
 #. Character:`yasuka`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
@@ -108839,7 +108851,7 @@ msgstr ""
 #: game/story/love_hotel_exterior.dialogue
 msgctxt "JE_5E837B"
 msgid "... Je..."
-msgstr ""
+msgstr "...Io..."
 
 #. Character:`asami` | Attributes:`bored`
 #: game/story/love_hotel_exterior.dialogue
@@ -134682,13 +134694,13 @@ msgstr ""
 #: game/story/home_player_garden.dialogue
 msgctxt "FONT_SIZE_14_TU_ME_FATIGUES_F_D5B377"
 msgid "[font_size=14]Tu me fatigues...[/font_size]"
-msgstr ""
+msgstr "[font_size=14]Sei così stancante...[/font_size]"
 
 #. Character:`sakuya`
 #: game/story/home_player_garden.dialogue
 msgctxt "W_TR_S_BIEN_TU_VEUX_LA_GUERRE_97F503"
 msgid "...[w] Très bien, tu veux la guerre, tu vas l'avoir..."
-msgstr ""
+msgstr "...[w] Bene, se vuoi la guerra, l'avrai..."
 
 #. Character:`sakuya` | Attributes:`happy`
 #: game/story/home_player_garden.dialogue
@@ -141458,7 +141470,7 @@ msgstr "Naturale"
 #: game/scenes/characters/sprites/asami.tscn
 msgctxt "character.sprite.attribute"
 msgid "new"
-msgstr ""
+msgstr "Nuovo"
 
 #: game/scenes/characters/sprites/asami.tscn
 #: game/scenes/characters/sprites/noriko.tscn
@@ -141702,7 +141714,7 @@ msgstr "Demone"
 #: game/scenes/characters/sprites/yasuka.tscn
 msgctxt "character.sprite.attribute"
 msgid "hakama"
-msgstr ""
+msgstr "Hakama"
 
 #: game/scenes/characters/sprites/chiaki.tscn
 msgctxt "character.sprite.attribute"
@@ -141744,7 +141756,7 @@ msgstr "Kitsune"
 #: game/scenes/characters/sprites/chiaki.tscn
 msgctxt "character.sprite.attribute"
 msgid "maid"
-msgstr "Cameriera"
+msgstr "Domestica"
 
 #: game/scenes/characters/sprites/minato.tscn
 msgctxt "character.sprite.attribute"
@@ -141804,7 +141816,7 @@ msgstr "Legati"
 #: game/scenes/characters/sprites/sakuya.tscn
 msgctxt "character.sprite.attribute"
 msgid "bloody"
-msgstr ""
+msgstr "Insanguinata"
 
 #: game/scenes/characters/sprites/sakuya.tscn
 msgctxt "character.sprite.attribute"
@@ -142678,12 +142690,12 @@ msgstr "Segui la storia di {{sayuri.n}}."
 #: game/scenes/cg/list.tres
 msgctxt "galleries.images.hints"
 msgid "Se laisser séduire par {{sayuri.n}}."
-msgstr ""
+msgstr "Lasciati sedurre da {{sayuri.n}}."
 
 #: game/scenes/cg/list.tres
 msgctxt "galleries.images.hints"
 msgid "Trahir {{asami.n}}."
-msgstr ""
+msgstr "Tradisci {{asami.n}}."
 
 #: game/scenes/cg/list.tres
 msgctxt "galleries.images.hints"
@@ -142696,7 +142708,7 @@ msgstr "Ricatto"
 
 msgctxt "chapters.choices"
 msgid "noriko/noblackmail"
-msgstr ""
+msgstr "Niente ricatto"
 
 msgctxt "chapters.choices"
 msgid "asami/corruption"
@@ -142708,11 +142720,11 @@ msgstr "Amicizia"
 
 msgctxt "chapters.choices"
 msgid "asami/truelove"
-msgstr ""
+msgstr "Amore"
 
 msgctxt "chapters.choices"
 msgid "yasuka"
-msgstr ""
+msgstr "Comune"
 
 msgctxt "chapters.choices"
 msgid "yasuka/corruption"
@@ -142720,7 +142732,7 @@ msgstr "Corruzione"
 
 msgctxt "chapters.choices"
 msgid "yasuka/friendship"
-msgstr ""
+msgstr "Amicizia"
 
 msgctxt "chapters.choices"
 msgid "yasuka/love"
@@ -142744,11 +142756,11 @@ msgstr "Maledom"
 
 msgctxt "chapters.description.title"
 msgid "Juste nous deux"
-msgstr ""
+msgstr "Momenti spensierati con la mia ragazza tomboy"
 
 msgctxt "chapters.description.route"
 msgid "Route Amour"
-msgstr ""
+msgstr "Route Amore"
 
 msgctxt "chapter.description.summary"
 msgid ""
@@ -142756,14 +142768,17 @@ msgid ""
 "\n"
 "{{asami.n}} a beaucoup aimé votre honnêteté et s'est beaucoup attachée à vous. C'est à vous de lui montrer qu'elle ne s'est pas trompée en vous choisissant."
 msgstr ""
+"Rifiutando l'idea di {{asami.n}} di vendicarsi di {{minato.n}}, le hai mostrato che il modo migliore per farlo è dimostrare che  poteva essere felice senza di lui.\n"
+"\n"
+"{{asami.n}} ha apprezzato la tua honestà e si è affezionata molto a te. Sta a te mostrarle che ha fatto la scelta giusta ad averti scelto."
 
 msgctxt "chapters.description.title"
 msgid "Plongée dans les abysses"
-msgstr ""
+msgstr "Tuffarsi nell'abisso"
 
 msgctxt "chapters.description.route"
 msgid "Route Corruption"
-msgstr ""
+msgstr "Route corruzione"
 
 msgctxt "chapter.description.summary"
 msgid ""
@@ -142841,11 +142856,11 @@ msgstr ""
 
 msgctxt "chapters.description.title"
 msgid "Double jeu"
-msgstr ""
+msgstr "Doppio gioco"
 
 msgctxt "chapters.description.route"
 msgid "Route Femdom"
-msgstr ""
+msgstr "Route femdom"
 
 msgctxt "chapter.description.summary"
 msgid ""
@@ -142860,7 +142875,7 @@ msgstr ""
 
 msgctxt "chapters.description.route"
 msgid "Route Maledom"
-msgstr ""
+msgstr "Route maledom"
 
 msgctxt "chapter.description.summary"
 msgid ""
@@ -142875,7 +142890,7 @@ msgstr ""
 
 msgctxt "chapters.description.route"
 msgid "Route Trangression"
-msgstr ""
+msgstr "Route trasgressione"
 
 msgctxt "chapter.description.summary"
 msgid ""
@@ -142890,7 +142905,7 @@ msgstr ""
 
 msgctxt "chapters.description.route"
 msgid "Route Kidnapping"
-msgstr ""
+msgstr "Route rapimento"
 
 msgctxt "chapter.description.summary"
 msgid ""
@@ -142930,91 +142945,91 @@ msgstr "Abito"
 
 msgctxt "character.skin"
 msgid "asami_jacket"
-msgstr ""
+msgstr "Giacca"
 
 msgctxt "character.skin"
 msgid "asami_nude"
-msgstr ""
+msgstr "Nuda"
 
 msgctxt "character.skin"
 msgid "asami_pregnant"
-msgstr ""
+msgstr "La ragazza tradita"
 
 msgctxt "character.skin"
 msgid "asami_sexy"
-msgstr ""
+msgstr "Sexy"
 
 msgctxt "character.skin"
 msgid "asami_summer"
-msgstr ""
+msgstr "Estate"
 
 msgctxt "character.skin"
 msgid "asami_summer2"
-msgstr ""
+msgstr "Estate (2)"
 
 msgctxt "character.skin"
 msgid "asami_winter"
-msgstr ""
+msgstr "Inverno"
 
 msgctxt "character.skin"
 msgid "chiaki_dress"
-msgstr ""
+msgstr "Vestito"
 
 msgctxt "character.skin"
 msgid "chiaki_kitsune"
-msgstr ""
+msgstr "Kitsune"
 
 msgctxt "character.skin"
 msgid "chiaki_lingerie"
-msgstr ""
+msgstr "Lingerie"
 
 msgctxt "character.skin"
 msgid "chiaki_maid"
-msgstr ""
+msgstr "Domestica"
 
 msgctxt "character.skin"
 msgid "chiaki_nude"
-msgstr ""
+msgstr "Nuda"
 
 msgctxt "character.skin"
 msgid "chiaki_winter"
-msgstr ""
+msgstr "Inverno"
 
 msgctxt "character.skin"
 msgid "erika_nude"
-msgstr ""
+msgstr "Nuda"
 
 msgctxt "character.skin"
 msgid "hanako_clean"
-msgstr ""
+msgstr "Pulita"
 
 msgctxt "character.skin"
 msgid "hanako_nude"
-msgstr ""
+msgstr "Nuda"
 
 msgctxt "character.skin"
 msgid "macumba_frog"
-msgstr ""
+msgstr "Rana"
 
 msgctxt "character.skin"
 msgid "macumba_suit"
-msgstr ""
+msgstr "Completo"
 
 msgctxt "character.skin"
 msgid "natsume_nude"
-msgstr ""
+msgstr "Nuda"
 
 msgctxt "character.skin"
 msgid "natsume_pantsu"
-msgstr ""
+msgstr "Mutandine"
 
 msgctxt "character.skin"
 msgid "natsume_tharja"
-msgstr ""
+msgstr "Tharja"
 
 msgctxt "character.skin"
 msgid "natsume_underwear"
-msgstr ""
+msgstr "Biancheria intima"
 
 msgctxt "character.skin"
 msgid "netoru_pig"
@@ -143062,63 +143077,63 @@ msgstr ""
 
 msgctxt "character.skin"
 msgid "noriko_pyjama"
-msgstr ""
+msgstr "Pigiama"
 
 msgctxt "character.skin"
 msgid "noriko_sexy"
-msgstr ""
+msgstr "Sexy"
 
 msgctxt "character.skin"
 msgid "noriko_succubus"
-msgstr ""
+msgstr "Succuba"
 
 msgctxt "character.skin"
 msgid "noriko_summer"
-msgstr ""
+msgstr "Estate"
 
 msgctxt "character.skin"
 msgid "noriko_winter"
-msgstr ""
+msgstr "Inverno"
 
 msgctxt "character.skin"
 msgid "noriko_witch"
-msgstr ""
+msgstr "Strega"
 
 msgctxt "character.skin"
 msgid "saito_casual"
-msgstr ""
+msgstr "Casual"
 
 msgctxt "character.skin"
 msgid "saito_hiraga"
-msgstr ""
+msgstr "Hiraga Saito"
 
 msgctxt "character.skin"
 msgid "saito_suit"
-msgstr ""
+msgstr "Completo"
 
 msgctxt "character.skin"
 msgid "saito_towel"
-msgstr ""
+msgstr "Asciugamano"
 
 msgctxt "character.skin"
 msgid "saito_underwear"
-msgstr ""
+msgstr "Biancheria intima"
 
 msgctxt "character.skin"
 msgid "sakuya_alice"
-msgstr ""
+msgstr "Domestica"
 
 msgctxt "character.skin"
 msgid "sakuya_bloody"
-msgstr ""
+msgstr "Graffiato appena"
 
 msgctxt "character.skin"
 msgid "sakuya_mitsuri"
-msgstr ""
+msgstr "Mitsuri"
 
 msgctxt "character.skin"
 msgid "sakuya_nude"
-msgstr ""
+msgstr "Nuda"
 
 msgctxt "character.skin"
 msgid "sakuya_stealth"
@@ -143182,27 +143197,27 @@ msgstr ""
 
 msgctxt "character.skin"
 msgid "yasuka_hakama"
-msgstr ""
+msgstr "Hakama"
 
 msgctxt "character.skin"
 msgid "yasuka_nude"
-msgstr ""
+msgstr "Nuda"
 
 msgctxt "character.skin"
 msgid "yasuka_pantsu"
-msgstr ""
+msgstr "Mutandine"
 
 msgctxt "character.skin"
 msgid "yasuka_pregnant"
-msgstr ""
+msgstr "Incinta"
 
 msgctxt "character.skin"
 msgid "yasuka_succubus"
-msgstr ""
+msgstr "Succuba"
 
 msgctxt "character.skin"
 msgid "yasuka_summer"
-msgstr ""
+msgstr "Estate"
 
 #~ msgctxt "home_player_corridor_b6d19808"
 #~ msgid "C'est l'occasion de te présenter à ma mère !"
