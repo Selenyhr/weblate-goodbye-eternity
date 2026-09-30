@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: info@teot-studio.com\n"
 "POT-Creation-Date: 2025-12-12 13:32+0100\n"
-"PO-Revision-Date: 2026-09-30 05:01+0000\n"
+"PO-Revision-Date: 2026-09-30 07:44+0000\n"
 "Last-Translator: Hexin <kazusa7512@gmail.com>\n"
 "Language-Team: Japanese <https://translations.teot-studio.com/projects/goodbye-eternity/game/ja/>\n"
 "Language: ja\n"
@@ -229,7 +229,7 @@ msgstr "ヤスカ"
 
 #: game/scenes/gui/gui_start_yasuka.tscn
 msgid "Vous pouvez dès à présent poursuivre l’histoire de {{yasuka.n}}."
-msgstr "{{yasuka.n}}のストーリーを続けられるようになった"
+msgstr "{{yasuka.n}}のストーリーを続けられるようになった。"
 
 #: game/scenes/gui/gui_start_yasuka.tscn
 msgid "Vous avez fait le choix de l'[color=yellow]aimer et de la soutenir[/color]."
@@ -237,7 +237,7 @@ msgstr "あなたは[color=yellow]彼女を愛して支える[/color]道を選�
 
 #: game/scenes/gui/gui_start_yasuka.tscn
 msgid "Vous avez fait le choix de la laisser [color=yellow]travailler au bar à hôtesse[/color]."
-msgstr "あなたは彼女を[color=yellow]ホステスバーで働かせる[/color]ことにしました。"
+msgstr "あなたは彼女を[color=yellow]ホステスバーで働かせる[/color]ことにした。"
 
 #: game/scenes/gui/gui_start_yasuka.tscn
 msgid "Vous avez fait le choix de vous [color=yellow]concentrer sur la dette de votre père[/color]."
@@ -412,7 +412,7 @@ msgstr "MAX"
 #: game/scenes/gui/game_menu/preferences.tscn:382
 msgctxt "preferences.unit.skip_frame_delay"
 msgid "frame(s)"
-msgstr "フレーム(秒)"
+msgstr "フレーム"
 
 #: game/scenes/gui/game_menu/preferences.tscn:474
 #: game/scenes/gui/game_menu/preferences.tscn:488
@@ -448,7 +448,7 @@ msgstr "サーバの応答： {response_code}"
 #: game/scenes/gui/game_menu/preferences.tscn:521
 msgctxt "preferences.translations.errors"
 msgid "Impossible de joindre le serveur. Vérifiez votre connexion."
-msgstr "サーバーに参加できません。接続を確認してください。"
+msgstr "サーバーに接続できません。接続を確認してください。"
 
 #: game/scenes/gui/game_menu/preferences.tscn
 msgid "Changer\n"
@@ -732,7 +732,7 @@ msgstr "あなたは{{noriko.n}}に付け入らせず、自分で片を付ける
 
 #: game/scenes/gui/gui_start_noriko.tscn
 msgid "Oui, mais c'est moi qui commande maintenant."
-msgstr "ああ、俺の責任だ。"
+msgstr "ああ、でも今は俺が主導権を握ってる。"
 
 #: game/scenes/gui/main_menu.tscn
 msgid "© THE END OF TIME STUDIOS - ALL RIGHTS RESERVED"
@@ -780,7 +780,7 @@ msgstr "彼女を励まそう"
 
 #: game/scenes/gui/chapters/chapters.tscn
 msgid "Quand voulez-vous commencer l'histoire ?"
-msgstr "いつからストーリを開始しますか？"
+msgstr "いつからストーリーを開始しますか？"
 
 #: game/scenes/gui/chapters/chapters.tscn
 #: game/scenes/gui/chapters/chapters_new.tscn
@@ -875,7 +875,7 @@ msgid ""
 msgstr ""
 "[fill]{{asami.n}}は{{netoru.n}}の策略に落ちた。彼は彼女の傷心と復讐心につけ込み、自らの意思でX3を受け入れるよう追い込んだのだ。心の底から嫌悪していた相手だというのに、薬は彼女の感覚を作り変え、彼と目が合った瞬間、抗いがたい欲望が込み上げた。{{netoru.n}}だけが、彼女にとってのすべてになった。{{saito.n}}は彼女の頭から消え去った。心にも頭にも、もう彼の入る隙間などなかったのだ。彼女の人生は今や、かつて憎んでいたこの男を中心に回っていた。その瞬間から、彼女は彼を狂おしいほど愛するようになったのだ。[/fill]\n"
 "\n"
-"[[fill]{{minato.n}}は彼女を解放するだろう。町を離れる前に、{{asami.n}}はコンビニに立ち寄り、母親に自分の帰りを伝えることになる。目が合った瞬間、{{sayuri.n}}は悟るはずだ――娘はすべてを知っているのだと。いくら謝り、許しを乞うても、もう何も変わりはしない。{{asami.n}}は冷ややかな軽蔑の眼差しを向け、家を出ていくとだけ告げる。今にも泣き出しそうな母親にできるのは、たまには連絡してほしいと頼むことだけだ。いつまでも愛する娘であることに変わりはないと言い添えて。[/fill]\n"
+"[fill]{{minato.n}}は彼女を解放するだろう。町を離れる前に、{{asami.n}}はコンビニに立ち寄り、母親に自分の帰りを伝えることになる。目が合った瞬間、{{sayuri.n}}は悟るはずだ――娘はすべてを知っているのだと。いくら謝り、許しを乞うても、もう何も変わりはしない。{{asami.n}}は冷ややかな軽蔑の眼差しを向け、家を出ていくとだけ告げる。今にも泣き出しそうな母親にできるのは、たまには連絡してほしいと頼むことだけだ。いつまでも愛する娘であることに変わりはないと言い添えて。[/fill]\n"
 "\n"
 "[fill]{{saito.n}}は、涙をこぼしながら語る{{asami.n}}の母親から、彼女が戻り、そしてすぐに去ってしまったことを聞かされるだろう。だが、母親に暗い真実を打ち明ける勇気は、最後まで持てないはずだ。それからというもの、彼の受信箱には毎週{{asami.n}}から動画が届くようになる。送り主は[i]裏切られた少女[/i]――メッセージの中で、彼女は好んでそう名乗るのだ。{{netoru.n}}との情事を撮影するたびに、彼女はその裏切りを繰り返し突きつけてくることになる。[/fill]\n"
 "\n"
@@ -885,11 +885,11 @@ msgstr ""
 
 #: game/scenes/gui/bad_ending/game_over.tscn
 msgid "Voir ce qui s'est passé."
-msgstr ""
+msgstr "何が起きたのかを見る。"
 
 #: game/scenes/gui/bad_ending/game_over.tscn
 msgid "Retourner en arrière."
-msgstr ""
+msgstr "戻る。"
 
 #: game/scenes/gui/bad_ending/game_over.tscn
 msgid "Skin débloqué !"
@@ -134363,7 +134363,7 @@ msgstr "確認"
 #: game/scenes/gui/bad_ending/sakuya_kidnapped.gd:27
 msgctxt "game_over.title"
 msgid "J'aurais dû l'écouter."
-msgstr ""
+msgstr "彼の言うことを聞くべきだった。"
 
 #: game/scenes/gui/bad_ending/sakuya_kidnapped.gd:31
 msgctxt "game_over.summary"
@@ -134384,7 +134384,7 @@ msgstr ""
 #: game/scenes/gui/bad_ending/yasuka_abused.gd:27
 msgctxt "game_over.title"
 msgid "Destinée inaltérée"
-msgstr ""
+msgstr "変わらぬ運命"
 
 #: game/scenes/gui/bad_ending/yasuka_abused.gd:31
 msgctxt "game_over.summary"
@@ -135648,7 +135648,7 @@ msgid "..."
 msgstr ""
 
 msgid "Goodbye Eternity"
-msgstr ""
+msgstr "Goodbye Eternity"
 
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
@@ -135663,7 +135663,7 @@ msgstr "遊園地の外"
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "amusement_park_interior"
-msgstr ""
+msgstr "遊園地の中"
 
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
@@ -135673,7 +135673,7 @@ msgstr "ゲームセンター前"
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "arcade_interior"
-msgstr ""
+msgstr "ゲームセンター内部"
 
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
@@ -135738,7 +135738,7 @@ msgstr "{{saito.n}}の部屋"
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "home_player_garden"
-msgstr ""
+msgstr "庭"
 
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
@@ -135788,12 +135788,12 @@ msgstr "{{asami.n}}の部屋"
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "home_asami_bathroom"
-msgstr ""
+msgstr "{{asami.n}}の家の浴室"
 
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "home_asami_sayuri_room"
-msgstr ""
+msgstr "{{sayuri.n}}の部屋"
 
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
@@ -135838,7 +135838,7 @@ msgstr "{{natsume.n}}の家"
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "home_natsume_natsume_room"
-msgstr ""
+msgstr "{{natsume.n}}の部屋"
 
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
@@ -135928,17 +135928,17 @@ msgstr "大学前"
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "college_pool"
-msgstr ""
+msgstr "大学のプール"
 
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "clothing_shop_exterior"
-msgstr ""
+msgstr "洋服店前"
 
 #: game/scripts/locations/location_pathing.tscn
 msgctxt "location"
 msgid "clothing_shop_interior"
-msgstr ""
+msgstr "洋服店内部"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -136078,27 +136078,27 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "introduction_1"
-msgstr ""
+msgstr "[null]"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "introduction_2"
-msgstr ""
+msgstr "部屋を出る。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "introduction_3"
-msgstr ""
+msgstr "リビングの{{yasuka.n}}のところへ行く。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "introduction_4"
-msgstr ""
+msgstr "外に出る。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "introduction_5"
-msgstr ""
+msgstr "外に出る。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -136108,12 +136108,12 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "introduction_7"
-msgstr ""
+msgstr "居酒屋を探す。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "introduction_8"
-msgstr ""
+msgstr "大将に自己紹介する。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -136128,7 +136128,7 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "introduction_11"
-msgstr ""
+msgstr "道場に入門する。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -136138,17 +136138,17 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "introduction_13"
-msgstr ""
+msgstr "家に帰る。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "introduction_14"
-msgstr ""
+msgstr "自分の部屋に行く。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "introduction_15"
-msgstr ""
+msgstr "自分の部屋に行く。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -136158,7 +136158,7 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "introduction_17"
-msgstr ""
+msgstr "公園に行く。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -136173,22 +136173,22 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "introduction_20"
-msgstr ""
+msgstr "壊れたウォークマンを持ち主に返す。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "introduction_21"
-msgstr ""
+msgstr "自分の部屋でウォークマンを取ってくる。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "introduction_22"
-msgstr ""
+msgstr "{{yasuka.n}}と話す。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "introduction_23"
-msgstr ""
+msgstr "{{noriko.n}}のところへ行ってウォークマンを取り返す。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -136203,7 +136203,7 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "introduction_26"
-msgstr ""
+msgstr "{{macumba.n}}に会いに行く。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -136213,37 +136213,37 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "introduction_28"
-msgstr ""
+msgstr "{{macumba.n}}に会いに行く。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "introduction_29"
-msgstr ""
+msgstr "家に帰って寝る。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "introduction_30"
-msgstr ""
+msgstr "家に帰って寝る。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "introduction_31"
-msgstr ""
+msgstr "公園で走る。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "introduction_32"
-msgstr ""
+msgstr "公園で走る。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "introduction_33"
-msgstr ""
+msgstr "仕事をもらうために居酒屋に戻る。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "introduction_34"
-msgstr ""
+msgstr "公園に戻って散歩する。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -136268,12 +136268,12 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "introduction_39"
-msgstr ""
+msgstr "家に帰って寝る。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "introduction_40"
-msgstr ""
+msgstr "明日の朝、{{macumba.n}}に会いに行く。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -136293,7 +136293,7 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "introduction_44"
-msgstr ""
+msgstr "家に帰ってシャワーを浴びる。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -136303,22 +136303,22 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "introduction_46"
-msgstr ""
+msgstr "{{noriko.n}}と会う。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "introduction_47"
-msgstr ""
+msgstr "自分の部屋で{{noriko.n}}と会う。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "introduction_48"
-msgstr ""
+msgstr "もう一度だけ居酒屋で運を試す。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "introduction_49"
-msgstr ""
+msgstr "もう一度だけ居酒屋で運を試す。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -136343,17 +136343,17 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "introduction_54"
-msgstr ""
+msgstr "家に帰って寝る。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "introduction_55"
-msgstr ""
+msgstr "家に帰って寝る。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "introduction_56"
-msgstr ""
+msgstr "家に帰って寝る。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -136738,17 +136738,17 @@ msgstr "{{noriko.n}}を問いただす必要がある。"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "chef_1"
-msgstr "この仕事がほしいなら身体を鍛えなければいけない。"
+msgstr "しまった、ぐずぐずしすぎた。初日なのにもう遅刻だ。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "chef_2"
-msgstr "{{sakuya.n}}のおかげでまだ望みはある。トレーニングを続けないと。"
+msgstr "[null]"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_50"
-msgstr "しまった、ぐずぐずしすぎた。初日なのにもう遅刻だ。"
+msgstr "もう寝よう。明日は{{asami.n}}に会いに行く。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -136758,17 +136758,17 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "asami_2"
-msgstr ""
+msgstr "{{minato.n}}の家に行く。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "asami_3"
-msgstr ""
+msgstr "{{asami.n}}の家の前で彼女に追いつく。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "asami_4"
-msgstr ""
+msgstr "居酒屋での仕事を始める。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -136788,17 +136788,17 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "asami_8"
-msgstr ""
+msgstr "家に帰る。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "asami_9"
-msgstr ""
+msgstr "寝る。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "asami_10"
-msgstr ""
+msgstr "トレーニングのために公園へ行く。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -137263,7 +137263,7 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "asami_truelove_3"
-msgstr ""
+msgstr "{{asami.n}}と一緒に居酒屋へ向かう。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -137288,7 +137288,7 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "asami_truelove_8"
-msgstr ""
+msgstr "{{asami.n}}と一緒にコンビニへ向かう。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -137298,17 +137298,17 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "asami_truelove_10"
-msgstr ""
+msgstr "{{asami.n}}について家まで行く。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "asami_truelove_11"
-msgstr ""
+msgstr "{{asami.n}}について家まで行く。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "asami_truelove_12"
-msgstr ""
+msgstr "{{asami.n}}の部屋で彼女と会う。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -137323,12 +137323,12 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "asami_truelove_15"
-msgstr ""
+msgstr "家に帰って寝る。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "asami_truelove_16"
-msgstr ""
+msgstr "家に帰って寝る。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -137348,12 +137348,12 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "asami_truelove_20"
-msgstr ""
+msgstr "リビングの{{yasuka.n}}に会いに行く。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "asami_truelove_21"
-msgstr ""
+msgstr "{{noriko.n}}と{{asami.n}}のところに戻る。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -137373,7 +137373,7 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "asami_truelove_25"
-msgstr ""
+msgstr "居酒屋での仕事を始める。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -137428,27 +137428,27 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "asami_truelove_36"
-msgstr ""
+msgstr "{{asami.n}}を家に送る。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "asami_truelove_37"
-msgstr ""
+msgstr "家に帰って寝る。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "asami_truelove_38"
-msgstr ""
+msgstr "寝る。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "asami_truelove_39"
-msgstr ""
+msgstr "寝る。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "asami_truelove_40"
-msgstr ""
+msgstr "リビングに行く。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -137498,32 +137498,32 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "asami_truelove_50"
-msgstr ""
+msgstr "{{asami.n}}とラブホテルに行く。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "asami_truelove_51"
-msgstr ""
+msgstr "{{sakuya.n}}を家に送る。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "asami_truelove_52"
-msgstr ""
+msgstr "{{asami.n}}を家に送る。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "asami_truelove_53"
-msgstr ""
+msgstr "家に帰って寝る。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "asami_truelove_54"
-msgstr ""
+msgstr "寝る。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "asami_truelove_55"
-msgstr ""
+msgstr "寝る。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -137603,7 +137603,7 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "asami_truelove_71"
-msgstr ""
+msgstr "{{asami.n}}について家まで行く。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -137613,7 +137613,7 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "asami_truelove_73"
-msgstr ""
+msgstr "{{asami.n}}の部屋で待つ。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -137628,17 +137628,17 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "asami_truelove_76"
-msgstr ""
+msgstr "{{noriko.n}}と一緒に家に帰る。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "asami_truelove_77"
-msgstr ""
+msgstr "寝る。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "asami_truelove_78"
-msgstr ""
+msgstr "家を出る。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -137693,7 +137693,7 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "asami_truelove_89"
-msgstr ""
+msgstr "大学で{{asami.n}}を見つけて助ける。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -137708,7 +137708,7 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "asami_truelove_92"
-msgstr ""
+msgstr "{{asami.n}}について家まで行く。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -137763,7 +137763,7 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_4"
-msgstr ""
+msgstr "公園に行く。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -137773,27 +137773,27 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_6"
-msgstr ""
+msgstr "部屋に居る{{asami.n}}に会いに行く。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_7"
-msgstr ""
+msgstr "部屋に居る{{asami.n}}に会いに行く。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_8"
-msgstr ""
+msgstr "{{yasuka.n}}の部屋で彼女と話す。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_9"
-msgstr ""
+msgstr "リビングで{{asami.n}}と合流する。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_10"
-msgstr ""
+msgstr "寝る。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -137828,17 +137828,17 @@ msgstr "{{yasuka.n}}の帰りを待つ。"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_love_6"
-msgstr "明日の夕方店に戻る。"
+msgstr "明日の午後、店に戻る。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_love_7"
-msgstr "明日の夕方店に戻る。"
+msgstr "明日の午後、店に戻る。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_love_8"
-msgstr "明日の夕方店に戻る。"
+msgstr "明日の午後、店に戻る。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -139115,12 +139115,12 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "noriko_1"
-msgstr ""
+msgstr "[color=yellow]道場[/color]へ入門しに行く。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "noriko_femdom_5"
-msgstr "[null]"
+msgstr "[color=yellow]道場[/color]へ入門しに行く。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -139520,7 +139520,7 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "noriko_maledom_15"
-msgstr "[null]"
+msgstr "部屋に居る{{asami.n}}と話す。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -139785,7 +139785,7 @@ msgstr "{{noriko.n}}が取り返しのつかないことをしでかす前にラ
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "noriko_maledom_63"
-msgstr "[null]"
+msgstr "{{noriko.n}}が取り返しのつかないことをしでかす前にラブホテルまで追いつく。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -140850,7 +140850,7 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "natsume_46"
-msgstr "{{natsume.n}}と話す。"
+msgstr "[null]"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -141184,7 +141184,7 @@ msgstr "普段着"
 #: game/scenes/characters/sprites/saito.tscn
 msgctxt "character.sprite.attribute"
 msgid "hiraga"
-msgstr ""
+msgstr "平賀才人"
 
 #: game/scenes/characters/sprites/saito.tscn
 #: game/scenes/characters/sprites/macumba.tscn
@@ -141371,7 +141371,7 @@ msgstr "自然"
 #: game/scenes/characters/sprites/asami.tscn
 msgctxt "character.sprite.attribute"
 msgid "new"
-msgstr ""
+msgstr "新"
 
 #: game/scenes/characters/sprites/asami.tscn
 #: game/scenes/characters/sprites/noriko.tscn
@@ -141478,7 +141478,7 @@ msgstr "夏"
 #: game/scenes/characters/sprites/asami.tscn
 msgctxt "character.sprite.attribute"
 msgid "summer2"
-msgstr ""
+msgstr "夏 (2)"
 
 #: game/scenes/characters/sprites/asami.tscn
 #: game/scenes/characters/sprites/noriko.tscn
@@ -141497,7 +141497,7 @@ msgstr "通常"
 #: game/scenes/characters/sprites/noriko.tscn
 msgctxt "character.sprite.attribute"
 msgid "director"
-msgstr ""
+msgstr "ディレクターズ版"
 
 #: game/scenes/characters/sprites/noriko.tscn
 #: game/scenes/characters/sprites/natsume.tscn
@@ -141615,7 +141615,7 @@ msgstr "悪魔"
 #: game/scenes/characters/sprites/yasuka.tscn
 msgctxt "character.sprite.attribute"
 msgid "hakama"
-msgstr ""
+msgstr "袴"
 
 #: game/scenes/characters/sprites/chiaki.tscn
 msgctxt "character.sprite.attribute"
@@ -142203,12 +142203,12 @@ msgstr "{{sayuri.n}} (料理)"
 #: game/scenes/locations/home_asami_livingroom.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "SayuriPopcorn"
-msgstr ""
+msgstr "{{sayuri.n}} (ポップコーン)"
 
 #: game/scenes/locations/home_asami_livingroom.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "SayuriWindow"
-msgstr ""
+msgstr "{{sayuri.n}} (窓)"
 
 #: game/scenes/locations/home_asami_livingroom.tscn
 #: game/scenes/locations/home_player_livingroom.tscn
@@ -142262,7 +142262,7 @@ msgstr "{{chiaki.n}} (猫)"
 #: uid://dhp5cvcadr3k4
 msgctxt "galleries.backgrounds.sprite"
 msgid "AsamiWindow"
-msgstr ""
+msgstr "{{asami.n}} (窓)"
 
 #: game/scenes/locations/home_player_livingroom.tscn
 msgctxt "galleries.backgrounds.sprite"
@@ -142343,7 +142343,7 @@ msgstr "{{noriko.n}} (しゃがむ 裸)"
 #: game/scenes/locations/hostess_club_alley.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "SakuyaAkiraChoke"
-msgstr ""
+msgstr "{{sakuya.n}} ({{akira.n}}の首を絞める)"
 
 #: game/scenes/locations/hostess_club_interior.tscn
 msgctxt "galleries.backgrounds.sprite"
@@ -142383,7 +142383,7 @@ msgstr "{{sakuya.n}} (受付)"
 #: game/scenes/locations/onsen_interior.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "YasukaReception"
-msgstr ""
+msgstr "{{yasuka.n}} (受付)"
 
 #: game/scenes/locations/park.tscn
 msgctxt "galleries.backgrounds.sprite"
@@ -142439,7 +142439,7 @@ msgstr "{{akira.n}} (窓 驚く)"
 #: game/scenes/cg/list.tres
 msgctxt "galleries.images.hints"
 msgid "Suivre l'introduction."
-msgstr ""
+msgstr "プロローグを進める。"
 
 #: attributes.galleries/cgs/saito/run
 msgctxt "galleries.movies.attribute"
@@ -142509,12 +142509,12 @@ msgstr "{{asami.n}}と友だちになる。"
 #: game/scenes/cg/list.tres
 msgctxt "galleries.images.hints"
 msgid "Choisir la route amour pour {{asami.n}}."
-msgstr ""
+msgstr "{{asami.n}}のラブルートを選ぶ。"
 
 #: attributes.galleries/cgs/asami/timelapse_saito_room
 msgctxt "galleries.movies.attribute"
 msgid "blinds"
-msgstr ""
+msgstr "ブラインド"
 
 #: attributes.galleries/cgs/asami/timelapse_saito_room
 #: attributes.galleries/cgs/yasuka/69
@@ -142609,7 +142609,7 @@ msgstr "脅迫"
 
 msgctxt "chapters.choices"
 msgid "noriko/noblackmail"
-msgstr ""
+msgstr "脅迫なし"
 
 msgctxt "chapters.choices"
 msgid "asami/corruption"
@@ -142621,11 +142621,11 @@ msgstr "友情"
 
 msgctxt "chapters.choices"
 msgid "asami/truelove"
-msgstr ""
+msgstr "ラブ"
 
 msgctxt "chapters.choices"
 msgid "yasuka"
-msgstr ""
+msgstr "共通"
 
 msgctxt "chapters.choices"
 msgid "yasuka/corruption"
@@ -142633,7 +142633,7 @@ msgstr "堕落"
 
 msgctxt "chapters.choices"
 msgid "yasuka/friendship"
-msgstr ""
+msgstr "友情"
 
 msgctxt "chapters.choices"
 msgid "yasuka/love"
@@ -142672,7 +142672,7 @@ msgstr ""
 
 msgctxt "chapters.description.title"
 msgid "Plongée dans les abysses"
-msgstr ""
+msgstr "深淵へ"
 
 msgctxt "chapters.description.route"
 msgid "Route Corruption"
@@ -142687,7 +142687,7 @@ msgstr ""
 
 msgctxt "chapters.description.title"
 msgid "Amis pour la vie"
-msgstr ""
+msgstr "ずっとそばにいる友達"
 
 msgctxt "chapters.description.route"
 msgid "Route Amitié"
@@ -142702,7 +142702,7 @@ msgstr ""
 
 msgctxt "chapters.description.title"
 msgid "À tes côtés"
-msgstr ""
+msgstr "君のそばに"
 
 msgctxt "chapter.description.summary"
 msgid ""
@@ -142713,7 +142713,7 @@ msgstr ""
 
 msgctxt "chapters.description.title"
 msgid "Sous les néons"
-msgstr ""
+msgstr "ネオンの下で"
 
 msgctxt "chapter.description.summary"
 msgid ""
@@ -142724,11 +142724,11 @@ msgstr ""
 
 msgctxt "chapters.description.title"
 msgid "Une dette impossible"
-msgstr ""
+msgstr "返せない借金"
 
 msgctxt "chapters.description.route"
 msgid "Route amitié"
-msgstr ""
+msgstr "友情ルート"
 
 msgctxt "chapter.description.summary"
 msgid ""
@@ -142739,11 +142739,11 @@ msgstr ""
 
 msgctxt "chapters.description.title"
 msgid "J'étais la première"
-msgstr ""
+msgstr "あなたは最初から私のもの"
 
 msgctxt "chapters.description.route"
 msgid "Route Yandere"
-msgstr ""
+msgstr "ヤンデレルート"
 
 msgctxt "chapter.description.summary"
 msgid ""
@@ -142754,11 +142754,11 @@ msgstr ""
 
 msgctxt "chapters.description.title"
 msgid "Double jeu"
-msgstr ""
+msgstr "隠された思惑"
 
 msgctxt "chapters.description.route"
 msgid "Route Femdom"
-msgstr ""
+msgstr "女優位ルート"
 
 msgctxt "chapter.description.summary"
 msgid ""
@@ -142769,11 +142769,11 @@ msgstr ""
 
 msgctxt "chapters.description.title"
 msgid "En position de force"
-msgstr ""
+msgstr "支配する者"
 
 msgctxt "chapters.description.route"
 msgid "Route Maledom"
-msgstr ""
+msgstr "男優位ルート"
 
 msgctxt "chapter.description.summary"
 msgid ""
@@ -142784,11 +142784,11 @@ msgstr ""
 
 msgctxt "chapters.description.title"
 msgid "Le point de non-retour"
-msgstr ""
+msgstr "一線を越えて"
 
 msgctxt "chapters.description.route"
 msgid "Route Trangression"
-msgstr ""
+msgstr "背徳ルート"
 
 msgctxt "chapter.description.summary"
 msgid ""
@@ -142799,11 +142799,11 @@ msgstr ""
 
 msgctxt "chapters.description.title"
 msgid "Destin scellé"
-msgstr ""
+msgstr "定められた運命"
 
 msgctxt "chapters.description.route"
 msgid "Route Kidnapping"
-msgstr ""
+msgstr "誘拐ルート"
 
 msgctxt "chapter.description.summary"
 msgid ""
@@ -142814,11 +142814,11 @@ msgstr ""
 
 msgctxt "chapters.description.title"
 msgid "Entre ombre et lumière"
-msgstr ""
+msgstr "表と裏のはざまで"
 
 msgctxt "chapters.description.route"
 msgid "Route Confiance"
-msgstr ""
+msgstr "信頼ルート"
 
 msgctxt "chapter.description.summary"
 msgid ""
@@ -142979,7 +142979,7 @@ msgstr "パジャマ"
 
 msgctxt "character.skin"
 msgid "noriko_sexy"
-msgstr ""
+msgstr "セクシー"
 
 msgctxt "character.skin"
 msgid "noriko_succubus"
@@ -143095,7 +143095,7 @@ msgstr "ドレス"
 
 msgctxt "character.skin"
 msgid "yasuka_hakama"
-msgstr ""
+msgstr "袴"
 
 msgctxt "character.skin"
 msgid "yasuka_nude"
@@ -143107,7 +143107,7 @@ msgstr "パンツ"
 
 msgctxt "character.skin"
 msgid "yasuka_pregnant"
-msgstr ""
+msgstr "妊婦"
 
 msgctxt "character.skin"
 msgid "yasuka_succubus"
