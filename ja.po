@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: info@teot-studio.com\n"
 "POT-Creation-Date: 2025-12-12 13:32+0100\n"
-"PO-Revision-Date: 2026-09-30 04:36+0000\n"
+"PO-Revision-Date: 2026-09-30 05:01+0000\n"
 "Last-Translator: Hexin <kazusa7512@gmail.com>\n"
 "Language-Team: Japanese <https://translations.teot-studio.com/projects/goodbye-eternity/game/ja/>\n"
 "Language: ja\n"
@@ -135948,17 +135948,17 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "sakuya_21_bad_ending"
-msgstr ""
+msgstr "{{sakuya.n}}と河川敷に向かう。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "sakuya_22_bad_ending"
-msgstr ""
+msgstr "帰って{{yasuka.n}}と会う。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "sakuya_23_bad_ending"
-msgstr ""
+msgstr "寝床に入って{{yasuka.n}}が来るのを待つ。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -135968,12 +135968,12 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "sakuya_25_bad_ending"
-msgstr ""
+msgstr "{{yasuka.n}}を探しに出る。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "sakuya_26_bad_ending"
-msgstr ""
+msgstr "居酒屋で{{sakuya.n}}を探す。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -135983,32 +135983,32 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "sakuya_28_bad_ending"
-msgstr ""
+msgstr "急いで{{noriko.n}}の部屋へ向かう。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "sakuya_29_bad_ending"
-msgstr ""
+msgstr "{{noriko.n}}の部屋に行く。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "sakuya_30_bad_ending"
-msgstr ""
+msgstr "リビングで{{asami.n}}と合流する。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "sakuya_31_bad_ending"
-msgstr ""
+msgstr "玄関を確認する。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "sakuya_32_bad_ending"
-msgstr ""
+msgstr "外を確認する。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "sakuya_33_bad_ending"
-msgstr ""
+msgstr "{{noriko.n}}を部屋まで呼びに行く。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -136023,17 +136023,17 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_friendship_30_bad"
-msgstr ""
+msgstr "公園に走りに行く。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_friendship_31_bad"
-msgstr ""
+msgstr "{{asami.n}}の部屋で彼女と一緒に過ごす。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_friendship_35_bad"
-msgstr ""
+msgstr "自分の部屋で{{asami.n}}と合流する。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -136043,7 +136043,7 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_friendship_37_bad"
-msgstr ""
+msgstr "リビングで{{yasuka.n}}と話をする。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -136063,7 +136063,7 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_friendship_45_bad"
-msgstr ""
+msgstr "リビングで{{noriko.n}}と会う。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -136403,7 +136403,7 @@ msgstr "後は[color=yellow]道場[/color]に行くだけだ。こんな日は�
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_5_1"
-msgstr ""
+msgstr "[color=yellow]コンビニ[/color]に寄る……"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -136563,12 +136563,12 @@ msgstr "すぐにダンベルを部屋に設置してトレーニングを始め
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_30_2"
-msgstr ""
+msgstr "これで朝はスタミナを、日中は力を鍛えられる。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_30_3"
-msgstr ""
+msgstr "体力トレーニングについて{{macumba.n}}に相談する。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -136603,17 +136603,17 @@ msgstr "今は{{macumba.n}}とのトレーニングに集中できる。"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_38_asami_love_corruption"
-msgstr ""
+msgstr "{{minato.n}}の家に行かないと"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_38_1_asami_love_corruption"
-msgstr ""
+msgstr "{{minato.n}}の家に行かないと"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_39_asami_love_corruption"
-msgstr ""
+msgstr "一刻も早く{{chiaki.n}}を見つけないと。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -136638,37 +136638,37 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_40_asami_love_corruption"
-msgstr ""
+msgstr "一刻も早く{{chiaki.n}}を見つけないと。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_41_asami_love_corruption"
-msgstr ""
+msgstr "公園で{{asami.n}}と会い、悪い知らせを伝える。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_42_asami_love_corruption"
-msgstr ""
+msgstr "またクソみたいな一日だった。もう寝よう。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_43_asami_love_corruption"
-msgstr ""
+msgstr "もう寝ないと。明日は居酒屋での仕事が始まる。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_38_asami_reject_friendship"
-msgstr ""
+msgstr "{{minato.n}}の様子を見に行く。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_38_1_asami_reject_friendship"
-msgstr ""
+msgstr "{{minato.n}}の様子を見に行く。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_39_asami_reject_friendship"
-msgstr ""
+msgstr "一刻も早く{{chiaki.n}}を見つけないと。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -136693,12 +136693,12 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_40_asami_reject_friendship"
-msgstr ""
+msgstr "一刻も早く{{chiaki.n}}を見つけないと。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_41_asami_reject_friendship"
-msgstr ""
+msgstr "家に帰る。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -137123,32 +137123,32 @@ msgstr "午後に公園で{{asami.n}} と会う。"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "asami_friendship_1"
-msgstr ""
+msgstr "明日の朝、{{asami.n}}を家の前まで迎えに行く。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "asami_friendship_2"
-msgstr ""
+msgstr "{{asami.n}}と一緒に家に帰る。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "asami_friendship_3"
-msgstr ""
+msgstr "{{asami.n}}と一緒に家に帰る。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "asami_friendship_4"
-msgstr ""
+msgstr "{{asami.n}}と一緒に家に帰る。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "asami_friendship_5"
-msgstr ""
+msgstr "{{asami.n}}と一緒に家に帰る。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "asami_friendship_6"
-msgstr ""
+msgstr "{{asami.n}}と{{noriko.n}}についてリビングに行く。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -137158,32 +137158,32 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "asami_friendship_8"
-msgstr ""
+msgstr "{{asami.n}}を家に送る。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "asami_friendship_9"
-msgstr ""
+msgstr "家に帰って寝る。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "asami_friendship_10"
-msgstr ""
+msgstr "{{macumba.n}}のもとへトレーニングに行く。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "asami_friendship_11"
-msgstr ""
+msgstr "{{asami.n}}について河川敷まで行く。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "asami_friendship_12"
-msgstr ""
+msgstr "{{asami.n}}を家に送る。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "asami_friendship_13"
-msgstr ""
+msgstr "{{minato.n}}に会いに行く。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -137193,12 +137193,12 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "asami_friendship_15"
-msgstr ""
+msgstr "一晩寝ればよくなるだろう。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "asami_friendship_16"
-msgstr ""
+msgstr "{{asami.n}}と一緒に河川敷へ向かう。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -137208,22 +137208,22 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "asami_friendship_17_1"
-msgstr ""
+msgstr "{{kimochi.n}}に会いに行く。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "asami_friendship_18"
-msgstr ""
+msgstr "家に帰る。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "asami_friendship_19"
-msgstr ""
+msgstr "明日まで待つ。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "asami_friendship_20"
-msgstr ""
+msgstr "公園に行く。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -137798,7 +137798,7 @@ msgstr ""
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_love_forced_sleep"
-msgstr ""
+msgstr "{{yasuka.n}}と一夜を過ごす。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -138518,7 +138518,7 @@ msgstr "見られずに家に帰る。"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_friendship_1"
-msgstr ""
+msgstr "リビングの{{yasuka.n}}に会いに行く。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -138528,7 +138528,7 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_friendship_3"
-msgstr ""
+msgstr "喫茶店の{{yasuka.n}}を訪れる。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -138543,7 +138543,7 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_friendship_6"
-msgstr ""
+msgstr "家で{{yasuka.n}}の帰りを待つ。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -138553,12 +138553,12 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_friendship_7_1"
-msgstr ""
+msgstr "寝る。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_friendship_8"
-msgstr ""
+msgstr "リビングの{{yasuka.n}}に会いに行く。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -138573,7 +138573,7 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_friendship_11"
-msgstr ""
+msgstr "居酒屋に働きに行く。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -138598,7 +138598,7 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_friendship_16"
-msgstr ""
+msgstr "リビングで{{noriko.n}}と合流する。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -138608,12 +138608,12 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_friendship_17_1"
-msgstr ""
+msgstr "寝る。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_friendship_18"
-msgstr ""
+msgstr "リビングの{{yasuka.n}}に会いに行く。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -138628,7 +138628,7 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_friendship_21"
-msgstr ""
+msgstr "{{asami.n}}に居酒屋までついて来てもらう。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -138658,22 +138658,22 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_friendship_27"
-msgstr ""
+msgstr "寝る。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_friendship_28"
-msgstr ""
+msgstr "寝る。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_friendship_29"
-msgstr ""
+msgstr "{{yasuka.n}}と話しに行く。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_friendship_30"
-msgstr ""
+msgstr "{{yasuka.n}}の仕事が始まる前に彼女をつかまえる。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -138683,7 +138683,7 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_friendship_32"
-msgstr ""
+msgstr "居酒屋での仕事を始める。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -138698,32 +138698,32 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_friendship_35"
-msgstr ""
+msgstr "{{yasuka.n}}を見つける。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_friendship_36"
-msgstr ""
+msgstr "河川敷に沿って{{yasuka.n}}を探す。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_friendship_37"
-msgstr ""
+msgstr "{{yasuka.n}}と一緒に家に帰る。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_friendship_38"
-msgstr ""
+msgstr "寝る。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_friendship_39"
-msgstr ""
+msgstr "{{kimochi.n}}に会いに行く。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_friendship_40"
-msgstr ""
+msgstr "居酒屋での仕事を始める。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -138753,7 +138753,7 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "yasuka_friendship_46"
-msgstr ""
+msgstr "{{asami.n}}と一緒に自宅へ帰る。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -139125,37 +139125,37 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "noriko_femdom_6"
-msgstr ""
+msgstr "{{noriko.n}}と一緒に道場へ行く。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "noriko_femdom_7"
-msgstr ""
+msgstr "{{kimochi.n}}に会いに行く。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "noriko_femdom_8"
-msgstr ""
+msgstr "{{kimochi.n}}に会いに行く。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "noriko_femdom_9"
-msgstr ""
+msgstr "道場に戻り、不良共がいなくなったか確かめる。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "noriko_femdom_10"
-msgstr ""
+msgstr "もう一度{{kimochi.n}}に会いに行く。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "noriko_femdom_11"
-msgstr ""
+msgstr "家に帰る前にコンビニに寄る。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "noriko_femdom_12"
-msgstr ""
+msgstr "家に帰る。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -139170,12 +139170,12 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "noriko_femdom_15"
-msgstr ""
+msgstr "部屋の{{noriko.n}}に会いに行く。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "noriko_femdom_16"
-msgstr ""
+msgstr "明日はもっといい日になる。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -139185,12 +139185,12 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "noriko_femdom_18"
-msgstr ""
+msgstr "{{noriko.n}}に会いに行く。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "noriko_femdom_19"
-msgstr ""
+msgstr "{{noriko.n}}と一緒に{{kimochi.n}}の家に行く。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -139200,12 +139200,12 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "noriko_femdom_21"
-msgstr ""
+msgstr "道場へ不良共を偵察しに行く。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "noriko_femdom_22"
-msgstr ""
+msgstr "{{nobu.n}}をゲームセンターまで尾行する。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -139215,17 +139215,17 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "noriko_femdom_24"
-msgstr ""
+msgstr "{{nobu.n}}の尾行を続け、コンビニの方へ向かう。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "noriko_femdom_25"
-msgstr ""
+msgstr "{{nobu.n}}の尾行を続け、コンビニの方へ向かう。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "noriko_femdom_26"
-msgstr ""
+msgstr "{{nobu.n}}の家までこっそり尾行する。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -139235,17 +139235,17 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "noriko_femdom_28"
-msgstr ""
+msgstr "家に帰って休む。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "noriko_femdom_29"
-msgstr ""
+msgstr "家に帰って休む。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "noriko_femdom_30"
-msgstr ""
+msgstr "コンビニへ行って{{sayuri.n}}にお金を返す。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -139260,7 +139260,7 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "noriko_femdom_33"
-msgstr ""
+msgstr "家に帰って部屋の{{noriko.n}}に会う。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -139270,17 +139270,17 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "noriko_femdom_35"
-msgstr ""
+msgstr "寝る。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "noriko_femdom_36"
-msgstr ""
+msgstr "スラム街のバーへ向かう。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "noriko_femdom_37"
-msgstr ""
+msgstr "{{noriko.n}}について公園まで行く。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -139290,27 +139290,27 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "noriko_femdom_39"
-msgstr ""
+msgstr "バーに戻って{{kenji.n}}と片を付ける。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "noriko_femdom_40"
-msgstr ""
+msgstr "家に帰る。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "noriko_femdom_41"
-msgstr ""
+msgstr "リビングで{{noriko.n}}と会う。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "noriko_femdom_42"
-msgstr ""
+msgstr "{{yasuka.n}}の部屋で{{noriko.n}}と会う。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "noriko_femdom_43"
-msgstr ""
+msgstr "{{noriko.n}}がこっそり抜け出せるよう、{{yasuka.n}}の気を引いておく。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -139320,22 +139320,22 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "noriko_femdom_45"
-msgstr ""
+msgstr "自分の部屋に戻る。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "noriko_femdom_46"
-msgstr ""
+msgstr "寝る時間だ。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "noriko_femdom_47"
-msgstr ""
+msgstr "{{kimochi.n}}に会いに行く。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "noriko_femdom_48"
-msgstr ""
+msgstr "{{kimochi.n}}に会いに行く。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -139345,7 +139345,7 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "noriko_femdom_50"
-msgstr ""
+msgstr "コンビニへ{{asami.n}}と話しに行く。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -139380,7 +139380,7 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "noriko_femdom_57"
-msgstr ""
+msgstr "明日の最後の戦いに備えて、家に帰って寝る。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -139395,32 +139395,32 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "noriko_femdom_60"
-msgstr ""
+msgstr "部屋の{{noriko.n}}に会いに行く。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "noriko_femdom_61"
-msgstr ""
+msgstr "家を出る。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "noriko_femdom_62"
-msgstr ""
+msgstr "湖のそばで{{noriko.n}}と会う。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "noriko_femdom_63"
-msgstr ""
+msgstr "ラブホテルの前で{{akira.n}}と対決する。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "noriko_femdom_64"
-msgstr ""
+msgstr "バス停で{{noriko.n}}と会う。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "noriko_femdom_65"
-msgstr ""
+msgstr "{{noriko.n}}と一緒に帰る。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -139540,7 +139540,7 @@ msgstr "{{yasuka.n}}にもっと詳しく聞く。"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "noriko_maledom_15_1_yf"
-msgstr ""
+msgstr "{{yasuka.n}}に詳しく聞きに行く。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -139890,7 +139890,7 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "sayuri_11"
-msgstr ""
+msgstr "廊下で{{kimochi.n}}と会う"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -139900,17 +139900,17 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "sayuri_13"
-msgstr ""
+msgstr "部屋で{{kimochi.n}}と話す"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "sayuri_14"
-msgstr ""
+msgstr "{{kimochi.n}}を外まで見送る"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "sayuri_15"
-msgstr ""
+msgstr "{{noriko.n}}について彼女の部屋に行く"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -139940,17 +139940,17 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "sayuri_21"
-msgstr ""
+msgstr "公園で{{macumba.n}}と合流する"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "sayuri_22"
-msgstr ""
+msgstr "公園で{{macumba.n}}と合流する"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "sayuri_23"
-msgstr ""
+msgstr "家に帰ってシャワーを浴びる。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -139975,17 +139975,17 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "sayuri_28"
-msgstr ""
+msgstr "自分の部屋に行く"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "sayuri_29"
-msgstr ""
+msgstr "自分の部屋に行く"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "sayuri_30"
-msgstr ""
+msgstr "居酒屋の{{sakuya.n}}と話しに行く"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -140000,12 +140000,12 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "sayuri_33"
-msgstr ""
+msgstr "{{sayuri.n}}の家の前で彼女と合流する。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "sayuri_34"
-msgstr ""
+msgstr "{{sayuri.n}}を温泉に連れて行く"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -140040,12 +140040,12 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "sayuri_41"
-msgstr ""
+msgstr "{{sayuri.n}}を家に送る。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "sayuri_42"
-msgstr ""
+msgstr "家に帰って寝る"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -140055,27 +140055,27 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "sayuri_44"
-msgstr ""
+msgstr "寝床に入る"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "sayuri_45"
-msgstr ""
+msgstr "部屋を出る"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "sayuri_46"
-msgstr ""
+msgstr "{{sayuri.n}}の家の前で彼女と会う"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "sayuri_47"
-msgstr ""
+msgstr "街の中心部へ行く"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "sayuri_48"
-msgstr ""
+msgstr "ゲームセンターに入る"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -140100,7 +140100,7 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "sayuri_53"
-msgstr ""
+msgstr "家に帰って寝る"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -140115,12 +140115,12 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "sayuri_56"
-msgstr ""
+msgstr "もう一度{{sayuri.n}}に会いに行く"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "sayuri_57"
-msgstr ""
+msgstr "{{sayuri.n}}と遊園地に行く"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -140145,17 +140145,17 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "sayuri_62"
-msgstr ""
+msgstr "路地で雨宿りする"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "sayuri_63"
-msgstr ""
+msgstr "{{sayuri.n}}の家で雨宿りする"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "sayuri_64"
-msgstr ""
+msgstr "浴室で{{sayuri.n}}と合流する"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -140185,22 +140185,22 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "sayuri_70"
-msgstr ""
+msgstr "家に帰る"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "sayuri_71"
-msgstr ""
+msgstr "公園で{{macumba.n}}と会って少し走る"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "sayuri_72"
-msgstr ""
+msgstr "コンビニの{{sayuri.n}}のところに立ち寄る"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "sayuri_73"
-msgstr ""
+msgstr "日が暮れたら、ラブホテルの前で{{sayuri.n}}と会う"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -140230,7 +140230,7 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "sayuri_78"
-msgstr ""
+msgstr "{{sayuri.n}}を家に送る"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -140250,12 +140250,12 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_54"
-msgstr ""
+msgstr "{{kimochi.n}}に会いに行く。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_55"
-msgstr ""
+msgstr "{{kimochi.n}}の家で話の続きをする。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -140265,7 +140265,7 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_57"
-msgstr ""
+msgstr "{{minato.n}}の家に警察が踏み込むのを見に行く。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -140280,7 +140280,7 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_60"
-msgstr ""
+msgstr "{{sayuri.n}}に会いに家へ行く。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -140295,7 +140295,7 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_63"
-msgstr ""
+msgstr "{{kimochi.n}}に写真を渡しに行く。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -140310,32 +140310,32 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_66"
-msgstr ""
+msgstr "廊下で{{noriko.n}}と合流する。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_67"
-msgstr ""
+msgstr "公園で{{macumba.n}}と会う。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_68"
-msgstr ""
+msgstr "{{kimochi.n}}の家でポスターを受け取る。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_69"
-msgstr ""
+msgstr "人通りの多い場所にポスターを貼る。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_69_1"
-msgstr ""
+msgstr "コンビニにポスターを貼りに行く。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_70"
-msgstr ""
+msgstr "{{sayuri.n}}の様子を見に行く。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -140345,7 +140345,7 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_72"
-msgstr ""
+msgstr "{{sayuri.n}}を部屋まで送る。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -140360,27 +140360,27 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_75"
-msgstr ""
+msgstr "家を出る。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_76"
-msgstr ""
+msgstr "河川敷で{{akira.n}}を探す。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_77"
-msgstr ""
+msgstr "ゲームセンターで{{nobu.n}}を問いただす。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_78"
-msgstr ""
+msgstr "外で{{nobu.n}}に追いつく。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_79"
-msgstr ""
+msgstr "{{nobu.n}}の家まで尾行する。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -140425,7 +140425,7 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_88"
-msgstr ""
+msgstr "家に帰る。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -140450,12 +140450,12 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_93"
-msgstr ""
+msgstr "公園の{{macumba.n}}に会いに行く。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_94"
-msgstr ""
+msgstr "急いで公園の{{macumba.n}}に会いに行く。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -140475,7 +140475,7 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_98"
-msgstr ""
+msgstr "{{sayuri.n}}の様子をうかがう。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -140510,7 +140510,7 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_105"
-msgstr ""
+msgstr "{{sakuya.n}}と廃倉庫へ向かう。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -140535,7 +140535,7 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_110"
-msgstr ""
+msgstr "答えを得るため、廃倉庫に戻る。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -140550,7 +140550,7 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_113"
-msgstr ""
+msgstr "{{kimochi.n}}に会って、わかったことを話す。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -140580,7 +140580,7 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_119"
-msgstr ""
+msgstr "コンビニへ向かう{{netoru.n}}を尾行する。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -140595,12 +140595,12 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_122"
-msgstr ""
+msgstr "{{kimochi.n}}の家に戻る。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "main_123"
-msgstr ""
+msgstr "{{minato.n}}と正面から対決する。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -140675,22 +140675,22 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "natsume_11"
-msgstr ""
+msgstr "家の前を見てみる。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "natsume_12"
-msgstr ""
+msgstr "{{kimochi.n}}の家に行ってみる。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "natsume_13"
-msgstr ""
+msgstr "{{sayuri.n}}の家に行ってみる。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "natsume_14"
-msgstr ""
+msgstr "河川敷で気分転換する。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -140760,7 +140760,7 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "natsume_28"
-msgstr ""
+msgstr "{{natsume.n}}について家まで行く。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -141045,7 +141045,7 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "natsume_85"
-msgstr ""
+msgstr "下水道を通って師匠のもとへ向かう。"
 
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
@@ -141085,7 +141085,7 @@ msgstr "[null]"
 #: game/scripts/variables/quests.gd
 msgctxt "quests.hints"
 msgid "natsume_93"
-msgstr ""
+msgstr "{{natsume.n}}の家に行く。"
 
 #: game/scenes/characters/sprites/saito.tscn
 #: game/scenes/characters/sprites/asami.tscn
