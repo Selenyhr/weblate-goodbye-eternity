@@ -112,8 +112,8 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: info@teot-studio.com\n"
 "POT-Creation-Date: 2025-12-12 13:32+0100\n"
-"PO-Revision-Date: 2026-08-21 10:40+0000\n"
-"Last-Translator: Lorgx <vasyaprince@gmail.com>\n"
+"PO-Revision-Date: 2026-10-10 08:09+0000\n"
+"Last-Translator: Alex <kirpinaa@gmail.com>\n"
 "Language-Team: Russian <https://translations.teot-studio.com/projects/goodbye-eternity/game/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -46850,31 +46850,31 @@ msgstr "Почему ты всё ещё дуешься?"
 #: game/story/konbini_interior.dialogue
 msgctxt "JE_VIENS_D_ACCOMPAGNER_SAITO_N_A9A84B"
 msgid "Je viens d’accompagner {{saito.n}} à son travail."
-msgstr "Я только что сопровождала {{saito.n}} в его работа."
+msgstr "Я только что проводила {{saito.n}} на работу."
 
 #. Character:`asami`
 #: game/story/konbini_interior.dialogue
 msgctxt "ET_MAINTENANT_JE_ME_RETROUVE_T_F91C72"
 msgid "Et maintenant, je me retrouve toute seule à les imaginer tous les deux..."
-msgstr "И теперь я застрял здесь один, представляя их двоих..."
+msgstr "И теперь я застряла здесь одна, представляя их двоих..."
 
 #. Character:`sayuri` | Attributes:`surprised`
 #: game/story/konbini_interior.dialogue
 msgctxt "PARCE_QU_EN_PLUS_IL_TRAVAILLE_CF6F59"
 msgid "Parce qu’en plus il travaille ? Ma chérie, il va falloir que tu me le présentes... Peut-être que..."
-msgstr "Он работает на пределе своих возможностей Дорогая, тебе придётся меня с ним познакомить...Возможно..."
+msgstr "Он помимо всего еще и работает? Дорогая, тебе придётся меня с ним познакомить... Может быть..."
 
 #. Character:`asami` | Attributes:`upset`
 #: game/story/konbini_interior.dialogue
 msgctxt "VOUS_ALLEZ_VOUS_CALMER_TOUT_DE_0155BB"
 msgid "Vous allez vous calmer tout de suite, toutes les deux !"
-msgstr "Успокойтесь, пожалуйста!"
+msgstr "Успокойся, пожалуйста!"
 
 #. Character:`asami` | Attributes:`pouting`
 #: game/story/konbini_interior.dialogue
 msgctxt "IL_M_A_FAIT_LA_M_ME_BLAGUE_CRO_1ED27B"
 msgid "Il m’a fait la même blague, à croire que vous avez le même âge !"
-msgstr "Он разыграл меня точно так же, можно подумать, мы одного возраста!"
+msgstr "Он шутил точно так же! Можно подумать, что вы одного возраста!"
 
 #. Character:`sayuri`
 #: game/story/konbini_interior.dialogue
@@ -46982,15 +46982,13 @@ msgstr "Но твои наряды слишком..."
 #: game/story/konbini_interior.dialogue
 msgctxt "TROP_QUOI_B0E5AF"
 msgid "Trop quoi ?"
-msgstr "Слишком много чего?"
+msgstr "Слишком какие?"
 
 #. Character:`asami`
 #: game/story/konbini_interior.dialogue
 msgctxt "OS_ES_SI_JE_PORTE_CE_QUE_TU_PO_8127D2"
 msgid "Osées ! Si je porte ce que tu portais plus jeune, je finirai presque les seins à l’air !"
-msgstr ""
-"Смело! Если я надену то же, что и ты!\n"
-"В молодости я чуть не оказалась с обнаженной грудью!"
+msgstr "Смелые! Если я надену то, что ты носила в молодости, то в итоге у меня чуть ли не грудь на виду окажется!"
 
 #. Character:`sayuri`
 #: game/story/konbini_interior.dialogue
@@ -47020,34 +47018,31 @@ msgstr "Здравствуйте, мадам, это..."
 #: game/story/konbini_interior.dialogue
 msgctxt "JE_T_ARR_TE_TOUT_DE_SUITE_C_ES_BC786A"
 msgid "Je t’arrête tout de suite, c’est {{sayuri.n}}."
-msgstr "Я вас сейчас прерву. Это {{sayuri.n}}."
+msgstr "Я тебя прерву сейчас. Я {{sayuri.n}}."
 
 #. Character:`sayuri`
 #: game/story/konbini_interior.dialogue
 msgctxt "PAS_DE_MADAME_AVEC_MOI_TU_VEUX_A7862F"
 msgid "Pas de « madame » avec moi, tu veux bien ?"
-msgstr "Никакой \"мадам\" со мной, вам это нужно?"
+msgstr "Никакой \"мадам\" ко мне, понятно?"
 
 #. Character:`saito`
 #: game/story/konbini_interior.dialogue
 msgctxt "D_ACCORD_DANS_CE_CAS_ENCHANT_S_3416A0"
 msgid "D’accord, dans ce cas, enchanté, {{sayuri.n}}."
-msgstr ""
-"Хорошо, в таком случае, рад(а) познакомиться.\n"
-"\n"
-"{{sayuri.n}}."
+msgstr "Хорошо, в таком случае, рад познакомиться, {{sayuri.n}}."
 
 #. Character:`sayuri` | Attributes:`happy`
 #: game/story/konbini_interior.dialogue
 msgctxt "A_FAIT_PLAISIR_DE_POUVOIR_ENF_C678B1"
 msgid "Ça fait plaisir de pouvoir enfin mettre un visage sur un nom."
-msgstr "Приятно наконец-то увидеть лицо человека, которому принадлежит это имя."
+msgstr "Приятно, что наконец-то можно соотнести имя с лицом."
 
 #. Character:`sayuri`
 #: game/story/konbini_interior.dialogue
 msgctxt "MA_FILLE_NE_CESSE_DE_PARLER_DE_A0121B"
 msgid "Ma fille ne cesse de parler de toi depuis plusieurs jours, je me demande bien ce que tu as pu lui faire ?"
-msgstr "Моя дочь уже несколько дней не перестает говорить о тебе. Интересно, что ты мог с ней сделать?"
+msgstr "Моя дочь уже несколько дней не перестаёт о тебе говорить, и я действительно задаюсь вопросом, что ты с ней такого сделал?"
 
 #. Character:`saito` | Attributes:`surprised`
 #: game/story/konbini_interior.dialogue
@@ -47059,7 +47054,7 @@ msgstr "Ты уверена, что это твоя мать? Она больш�
 #: game/story/konbini_interior.dialogue
 msgctxt "ARR_TE_NE_LA_PROVOQUE_PAS_168D3A"
 msgid "Arrête, ne la provoque pas !"
-msgstr "Стоп, не провоцируйте её!"
+msgstr "Стоп, не провоцируй её!"
 
 #. Character:`sayuri` | Attributes:`moved`
 #: game/story/konbini_interior.dialogue
@@ -47071,13 +47066,13 @@ msgstr "Я уже люблю его!"
 #: game/story/konbini_interior.dialogue
 msgctxt "SI_TU_VEUX_VENIR_ME_VOIR_QUAND_5810A0"
 msgid "Si tu veux venir me voir quand ma fille n’est pas là, n’hésite pas."
-msgstr "Если вы когда-нибудь захотите навестить меня, когда моей дочери не будет рядом, не стесняйтесь."
+msgstr "Если ты когда-нибудь захочешь навестить меня, когда моей дочери не будет рядом, не стесняйся."
 
 #. Character:`sayuri`
 #: game/story/konbini_interior.dialogue
 msgctxt "TU_VIENDRAS_DERRI_RE_LE_COMPTO_C3650D"
 msgid "Tu viendras derrière le comptoir avec moi, je te montrerai les ficelles du métier."
-msgstr "Можете пройти со мной за прилавок. Я вам покажу, как там всё устроено."
+msgstr "Можешь пройти со мной за прилавок. Я покажу тебе, все тонкости работы."
 
 #. Character:`asami` | Attributes:`angry`
 #: game/story/konbini_interior.dialogue
@@ -47089,7 +47084,7 @@ msgstr "Ладно, хватит! Я знаю, вам обоим смешно н
 #: game/story/konbini_interior.dialogue
 msgctxt "MAINTENANT_QUE_TU_L_AS_VU_TU_E_44977A"
 msgid "Maintenant que tu l’as vu, tu es rassurée ?"
-msgstr "Теперь, когда вы его увидели, вам стало лучше?"
+msgstr "Теперь, когда ты его увидела, стало легче?"
 
 #. Character:`sayuri` | Attributes:`happy`
 #: game/story/konbini_interior.dialogue
@@ -62487,7 +62482,7 @@ msgstr "Вы позволите мне войти, чтобы мы могли п
 #: game/story/home_asami_livingroom.dialogue
 msgctxt "FONT_SIZE_14_SNIFF_SI_TU_VEUX_3979E7"
 msgid "[font_size=14]Sniff... si tu veux... [/font_size]"
-msgstr "Понюхайте... Если хотите..."
+msgstr "[font_size=14]Хнык... Если хочешь... [/font_size]"
 
 #. Character:`asami` | Attributes:`pouting`
 #: game/story/home_asami_livingroom.dialogue
@@ -75516,7 +75511,7 @@ msgstr "Ах, мне нравится, как это звучит! Всегда 
 #: game/story/lake.dialogue
 msgctxt "TU_SAIS_SI_TU_N_AS_PAS_DE_COPI_7195D6"
 msgid "Tu sais... Si tu n’as pas de copines mignonnes à me présenter, tu peux toujours me présenter ta mère."
-msgstr "Знаешь... Если у тебя нет симпатичных подружек, с которыми ты мог бы меня познакомить, ты всегда можешь познакомить меня со своей мамой."
+msgstr "Знаешь... Если у тебя нет симпатичных подружек, с которыми ты могла бы меня познакомить, ты всегда можешь познакомить меня со своей мамой."
 
 #. Character:`asami`
 #: game/story/lake.dialogue
@@ -75528,19 +75523,19 @@ msgstr "Ни в коем случае, она бы точно сказала «�
 #: game/story/lake.dialogue
 msgctxt "D_AILLEURS_TU_SAIS_QU_ELLE_N_A_79175E"
 msgid "D'ailleurs, tu sais qu'elle n'arrêtait pas d'insister pour avoir ton numéro."
-msgstr "Кроме того, ты же знаешь, она всё время настаивала на том, чтобы получить твой номер."
+msgstr "Кроме того, знаешь, она всё время настаивала на том, чтобы получить твой номер."
 
 #. Character:`saito`
 #: game/story/lake.dialogue
 msgctxt "A_NE_ME_D_RANGE_PAS_DE_LUI_DO_0F0320"
 msgid "Ça ne me dérange pas de lui donner."
-msgstr "Я не против отдать это ей."
+msgstr "Я не против дать ей его."
 
 #. Character:`asami`
 #: game/story/lake.dialogue
 msgctxt "JE_N_AI_PAS_ENVIE_QUE_TU_TE_ME_F4EA80"
 msgid "Je n’ai pas envie que tu te mettes à flirter avec elle, ça serait... vraiment trop étrange. Et en plus, elle est mariée ! Tu devras te contenter de moi !"
-msgstr "Я не хочу, чтобы ты с ней флиртовал, это было бы... слишком странно. И кроме того, она замужем! Придётся довольствоваться мной"
+msgstr "Я не хочу, чтобы ты с ней флиртовал, это было бы... слишком странно. И кроме того, она замужем! Придётся довольствоваться мной!"
 
 #. Character:`saito`
 #: game/story/lake.dialogue
@@ -75558,13 +75553,13 @@ msgstr "Перестань делать такое лицо!"
 #: game/story/lake.dialogue
 msgctxt "JE_SUIS_ADORABLE_VAS_Y_POSE_MO_67FF4C"
 msgid "Je suis adorable, vas-y, pose-moi des questions !"
-msgstr "Я очаровательна; смело задавайте мне любые вопросы!"
+msgstr "Я очаровательна; давай, спрашивай меня о чем-угодно!"
 
 #. Character:`saito`
 #: game/story/lake.dialogue
 msgctxt "TU_VEUX_QUE_JE_TE_POSE_DES_QUE_9B4C73"
 msgid "Tu veux que je te pose des questions pour prouver que tu peux être adorable ?"
-msgstr "Ты хочешь, чтобы я задавала тебе вопросы, чтобы доказать, что ты можешь быть очаровательной?"
+msgstr "Ты хочешь, чтобы я задавал тебе вопросы, чтобы доказать, что ты можешь быть очаровательной?"
 
 #. Character:`asami`
 #: game/story/lake.dialogue
@@ -75582,7 +75577,7 @@ msgstr "Пффф... [w] Ладно. В таком случае, скажи мн�
 #: game/story/lake.dialogue
 msgctxt "C_EST_CAUSE_DE_CE_QUE_TU_AS_DI_C86399"
 msgid "C'est à cause de ce que tu as dit la première fois que nous nous sommes vus."
-msgstr "Это из-за того, что ты сказала при нашей первой встрече."
+msgstr "Это из-за того, что ты сказал при нашей первой встрече."
 
 #. Character:`asami`
 #: game/story/lake.dialogue
@@ -75594,7 +75589,7 @@ msgstr "Знаете, вся эта сцена, падающие лепестк�
 #: game/story/lake.dialogue
 msgctxt "C_EST_CURIEUX_J_AI_L_IMPRESSIO_F1C9D8"
 msgid "C'est curieux, j'ai l'impression que ce n'est pas exactement ce que j'ai dit..."
-msgstr "Забавно, я не думаю, что именно это я сказал..."
+msgstr "Забавно, я не думаю, что это именно то, что я сказал..."
 
 #. Character:`asami`
 #: game/story/lake.dialogue
@@ -75624,19 +75619,19 @@ msgstr "Ты... Стой спокойно!"
 #: game/story/lake.dialogue
 msgctxt "JE_T_AI_DIT_QUE_TU_DOIS_TE_CON_E917B2"
 msgid "Je t’ai dit que tu dois te contenter de moi !"
-msgstr "Я же тебе говорил, тебе придётся довольствоваться мной!"
+msgstr "Я же тебе говорила, тебе придётся довольствоваться мной!"
 
 #. Character:`saito`
 #: game/story/lake.dialogue
 msgctxt "BON_TR_S_BIEN_JE_VAIS_ME_CONTE_6CCAF9"
 msgid "Bon... Très bien... Je vais me contenter de toi..."
-msgstr "Хорошо... Отлично... Я справлюсь и с тобой..."
+msgstr "Хорошо... Отлично... Я соглашусь на тебя..."
 
 #. Character:`asami`
 #: game/story/lake.dialogue
 msgctxt "PARFAIT_ALORS_D_J_JE_VEUX_EN_S_21C357"
 msgid "Parfait ! Alors déjà, je veux en savoir plus. C’est quoi cet entraînement loufoque que tu es en train de suivre ?"
-msgstr "­Отлично! Теперь, прежде всего, я хочу узнать больше. Что это за нелепая тренировка, которую вы проводите?"
+msgstr "Отлично! Теперь, прежде всего, я хочу узнать больше. Что это за нелепая тренировка, которую вы проводите?"
 
 #. Character:`saito`
 #: game/story/lake.dialogue
@@ -75648,13 +75643,13 @@ msgstr "О, это?! Хе-хе, это... Ладно, со стороны это
 #: game/story/lake.dialogue
 msgctxt "UNE_SECONDE_IL_SE_PASSE_QUOI_S_28D3B1"
 msgid "Une seconde... Il se passe quoi s’il te rattrape ?"
-msgstr "Подождите... А что будет, если он вас поймает?"
+msgstr "Подожди... А что будет, если он тебя поймает?"
 
 #. Character:`macumba` | Attributes:`happy`
 #: game/story/lake.dialogue game/story/park.dialogue
 msgctxt "ET_SOUVIENS_TOI_SI_PETIT_FR_RE_0F3A1C"
 msgid "Et souviens-toi, si petit frère est trop lent..."
-msgstr "И помните, если младший брат слишком медлителен..."
+msgstr "И помни, если мини-бро слишком медлителен..."
 
 #. Character:`saito`
 #: game/story/lake.dialogue game/story/park.dialogue
@@ -75666,10 +75661,7 @@ msgstr "Если я буду слишком медлительным"
 #: game/story/lake.dialogue game/story/park.dialogue
 msgctxt "C_EST_CE_BANC_DANS_TON_CUL_W_D_7B0635"
 msgid "C'est ce banc dans ton cul.[w] Dans la largeur."
-msgstr ""
-"Эта скамейка тебе в задницу войдет.[w]\n"
-"\n"
-"В сторону."
+msgstr "Эта скамейка тебе в задницу войдет тебе в зад. [w] Горизонтально."
 
 #. Character:`saito`
 #: game/story/lake.dialogue
@@ -75717,7 +75709,7 @@ msgstr "Не понимаешь? Если я расскажу маме обо в
 #: game/story/lake.dialogue
 msgctxt "HA_HA_L_INSOUCIANCE_A_DU_BON_C_51419A"
 msgid "Ha ha... L’insouciance a du bon, c’est sûr. Tu es encore jeune..."
-msgstr "Ха-ха... Беззаботность, безусловно, имеет свои преимущества. Ты еще молод..."
+msgstr "Ха-ха... Беззаботность, безусловно, имеет свои преимущества. Ты еще молода..."
 
 #. Character:`asami`
 #: game/story/lake.dialogue
@@ -75795,19 +75787,19 @@ msgstr "Приходите оооооо!"
 #: game/story/lake.dialogue
 msgctxt "TU_SAIS_JE_N_AI_JAMAIS_FAIT_CE_A1026B"
 msgid "Tu sais... Je n’ai jamais fait ce genre de choses avec quelqu’un non plus, donc ce sera aussi une grande première !"
-msgstr "Знаете... я тоже никогда раньше ничего подобного не делал ни с кем, так что для меня это тоже будет впервые!"
+msgstr "Знаешь... я тоже никогда ранее ничего подобного не делал, так что для меня это тоже будет впервые!"
 
 #. Character:`asami`
 #: game/story/lake.dialogue
 msgctxt "PARFAIT_ALORS_FAISONS_NOS_PREM_F51BC4"
 msgid "Parfait alors ! Faisons nos premières fois ensemble !"
-msgstr "Отлично! Давайте вместе сделаем что-нибудь впервые!"
+msgstr "Отлично! Давай вместе сделаем что-нибудь впервые!"
 
 #. Character:`saito`
 #: game/story/lake.dialogue
 msgctxt "MHH_DIT_COMME_A_A_SONNE_UN_PE_989AEA"
 msgid "... Mhh, dit comme ça, ça sonne un peu...[w] tendancieux..."
-msgstr "...Ммм, если так сказать, звучит немного... [w] двусмысленно..."
+msgstr "...Хмм, когда ты так говоришь, звучит немного... [w] двусмысленно..."
 
 #. Character:`asami`
 #: game/story/lake.dialogue
@@ -80598,7 +80590,7 @@ msgstr "{{asami.n}}, подождите"
 #: game/story/home_asami_exterior.dialogue
 msgctxt "J_AI_T_TELLEMENT_STUPIDE_708484"
 msgid "J'ai été tellement stupide..."
-msgstr "Я был таким глупцом..."
+msgstr "Я была такой тупой..."
 
 #. Character:`asami`
 #: game/story/home_asami_exterior.dialogue
@@ -80616,7 +80608,7 @@ msgstr "Эй... Он вёл себя как полный придурок, с э
 #: game/story/home_asami_exterior.dialogue
 msgctxt "IMPOSSIBLE_POUR_MOI_DE_LE_CONS_BC052F"
 msgid "Impossible pour moi de le considérer comme un ami après un coup pareil."
-msgstr "После такого переезда я никак не могу считать его другом."
+msgstr "После такого поступка я не могу считать его своим другом."
 
 #. Character:`asami`
 #: game/story/home_asami_exterior.dialogue
@@ -80646,7 +80638,7 @@ msgstr "Какой же он мерзавец!"
 #: game/story/home_asami_exterior.dialogue
 msgctxt "JE_SUIS_TELLEMENT_NERV_J_AURAI_11D399"
 msgid "Je suis tellement énervé, j'aurais dû le frapper..."
-msgstr "Я так разозлилась, мне следовало его ударить..."
+msgstr "Я зол, мне следовало его ударить..."
 
 #. Character:`narrator`
 #: game/story/home_asami_exterior.dialogue
@@ -89739,7 +89731,7 @@ msgstr "Приступим к работе!"
 #: game/story/restaurant_exterior.dialogue
 msgctxt "TU_SEMBLES_D_J_AVOIR_TROUV_TON_56A300"
 msgid "Tu sembles déjà avoir trouvé ton rythme, même mon père est choqué."
-msgstr "Кажется, ты уже вошла в ритм. Даже мой отец в шоке."
+msgstr "Кажется, ты уже вошел в ритм. Даже мой отец в шоке."
 
 #. Character:`saito` | Attributes:`happy`
 #: game/story/restaurant_exterior.dialogue
@@ -89787,7 +89779,7 @@ msgstr "Да, я обещаю."
 #: game/story/restaurant_exterior.dialogue
 msgctxt "DANS_CE_CAS_JE_NE_T_EMBETERAIS_2969E7"
 msgid "Dans ce cas je ne t'embeterais plus avec ça, à demain {{saito.n}}."
-msgstr "В таком случае я больше не буду тебя этим беспокоить. До завтра, {{saito.n"
+msgstr "В таком случае я больше не буду тебя этим беспокоить. До завтра, {{saito.n}}."
 
 #. Character:`saito`
 #: game/story/restaurant_exterior.dialogue
@@ -89799,13 +89791,13 @@ msgstr "Увидимся завтра!"
 #: game/story/restaurant_exterior.dialogue
 msgctxt "OH_JE_NE_ME_SOUVIENS_PAS_D_TRE_EDF68A"
 msgid "Oh, je ne me souviens pas d’être venue ici auparavant, mais vu que tu y travailles, ça pourrait changer."
-msgstr "О, я не помню, чтобы раньше здесь бывал, но раз вы здесь работаете, это может измениться."
+msgstr "Оо, не помню, чтобы я раньше тут бывала, но раз ты здесь работаешь, это может измениться."
 
 #. Character:`asami`
 #: game/story/restaurant_exterior.dialogue
 msgctxt "TU_ME_PR_PARERAS_UN_BON_REPAS_0F4738"
 msgid "Tu me prépareras un bon repas ?"
-msgstr "Вы приготовите мне вкусную еду?"
+msgstr "Приготовишь мне вкусную еду?"
 
 #. Character:`saito` | Attributes:`guilty`
 #: game/story/restaurant_exterior.dialogue
@@ -89829,13 +89821,13 @@ msgstr "Понятно... Видимо, на тебе вся грязная ра
 #: game/story/restaurant_exterior.dialogue
 msgctxt "QUAND_JE_TE_DIS_QUE_LE_MONDE_D_4D96A2"
 msgid "Quand je te dis que le monde du travail est déprimant..."
-msgstr "Когда я говорю вам, что мир труда — это унылое место..."
+msgstr "Когда я говорю, что мир труда — это унылое место..."
 
 #. Character:`asami` | Attributes:`happy`
 #: game/story/restaurant_exterior.dialogue
 msgctxt "TU_COMPRENDS_POURQUOI_JE_PR_F_20F74A"
 msgid "Tu comprends pourquoi je préfère profiter de la vie à présent."
-msgstr "Теперь вы понимаете, почему я предпочитаю наслаждаться жизнью."
+msgstr "Теперь ты понимаешь, почему я предпочитаю наслаждаться жизнью."
 
 #. Character:`asami`
 #: game/story/restaurant_exterior.dialogue
@@ -89925,7 +89917,7 @@ msgstr "Я прощаю тебя!"
 #: game/story/restaurant_exterior.dialogue
 msgctxt "JE_VIENDRAI_TE_CHERCHER_APR_S_110C5B"
 msgid "Je viendrai te chercher après ton service, t’as intérêt à tout faire briller jusqu’au plafond !"
-msgstr "Я заеду за тобой после смены. Смотри, чтобы тут всё сверкало!"
+msgstr "Я зайду за тобой после смены. Смотри, чтобы тут всё сверкало!"
 
 #. Character:`saito` | Attributes:`guilty`
 #: game/story/restaurant_exterior.dialogue
@@ -90003,7 +89995,7 @@ msgstr "...Да, конечно... Это... точно."
 #: game/story/restaurant_exterior.dialogue
 msgctxt "MERCI_SAKUYA_N_D_AVOIR_VEILL_S_6CF5CF"
 msgid "Merci, {{sakuya.n}}, d’avoir veillé sur lui, je vais prendre le relais."
-msgstr "Спасибо, {{sakuya. n}}, что присмотрела за ним, теперь я возьму это на себя."
+msgstr "Спасибо, {{sakuya.n}}, что присмотрела за ним, теперь я возьму это на себя."
 
 #. Character:`asami`
 #: game/story/restaurant_exterior.dialogue
@@ -90051,43 +90043,43 @@ msgstr "Ну же, пора готовиться к вечерней служб�
 #: game/story/restaurant_exterior.dialogue
 msgctxt "J_ARRIVE_LAISSE_MOI_JUSTE_UN_M_70FE41"
 msgid "J'arrive, laisse moi juste un moment..."
-msgstr "Я иду, дайте мне минутку..."
+msgstr "Я иду, дай мне минутку..."
 
 #. Character:`asami`
 #: game/story/restaurant_exterior.dialogue
 msgctxt "FONT_SIZE_14_TU_NE_M_AS_PAS_D_48E0EF"
 msgid "[font_size=14]Tu ne m’as pas dit ce que tu pensais de ma nouvelle tenue ?![/font_size]"
-msgstr "Ты не сказала мне, что думаешь о моем новом наряде?!"
+msgstr "[font_size=14]Ты не сказал мне, что думаешь о моем новом наряде!?[/font_size]"
 
 #. Character:`asami`
 #: game/story/restaurant_exterior.dialogue
 msgctxt "FONT_SIZE_14_NE_ME_DIS_PAS_QU_A07138"
 msgid "[font_size=14]Ne me dis pas que j’ai fait ça pour rien ?[/font_size]"
-msgstr "Не говорите мне, что я все это сделал зря?"
+msgstr "[font_size=14]Не говори мне, что я все это сделала зря?[/font_size]"
 
 #. Character:`saito`
 #: game/story/restaurant_exterior.dialogue
 msgctxt "FONT_SIZE_14_C_EST_UNE_ANCIEN_323BE3"
 msgid "[font_size=14]C’est une ancienne tenue de ta mère ?[/font_size]"
-msgstr "Это один из старых нарядов твоей мамы?"
+msgstr "[font_size=14]Это один из старых нарядов твоей мамы?[/font_size]"
 
 #. Character:`asami`
 #: game/story/restaurant_exterior.dialogue
 msgctxt "FONT_SIZE_14_ARR_TE_DE_FANTAS_ED05B8"
 msgid "[font_size=14]Arrête de fantasmer sur ma mère, bon sang ![/font_size]"
-msgstr "Прекратите, ради бога, фантазировать о моей маме!"
+msgstr "[font_size=14]Прекрати, ради бога, фантазировать о моей маме![/font_size]"
 
 #. Character:`asami`
 #: game/story/restaurant_exterior.dialogue
 msgctxt "FONT_SIZE_14_JE_VAIS_TE_LA_PR_2B3E94"
 msgid "[font_size=14]Je vais te la présenter tu verras que c'est une vieille peau.[/font_size]"
-msgstr "Я познакомлю вас с ней, и вы увидите, что она старая карга."
+msgstr "[font_size=14]Я познакомлю вас с ней, и ты увидишь, что она старая карга.[/font_size]"
 
 #. Character:`saito`
 #: game/story/restaurant_exterior.dialogue
 msgctxt "FONT_SIZE_14_WOAH_T_ES_DURE_F_0FFC6E"
 msgid "[font_size=14]Woah t'es dure.[/font_size]"
-msgstr "Ого, ты слишком суров."
+msgstr "[font_size=14]Воу, ты слишком сурова.[/font_size]"
 
 #. Character:`saito`
 #: game/story/restaurant_exterior.dialogue
@@ -92781,7 +92773,7 @@ msgstr "Дорогая... Мы столько раз об этом говори�
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "TU_TE_VOILAIS_LA_FACE_W_REGARD_8E4586"
 msgid "Tu te voilais la face...[w] Regarde le positif à présent !"
-msgstr "Вы отрицали это... [w] Посмотрите на ситуацию с позитивной стороны!"
+msgstr "Ты отрицала это... [w] Посмотри на ситуацию с позитивной стороны!"
 
 #. Character:`asami`
 #: game/story/home_asami_asami_room.dialogue
@@ -96696,9 +96688,7 @@ msgstr "Ты правда собираешься меня с ней познак
 #: game/story/konbini_exterior.dialogue
 msgctxt "JE_N_AIME_PAS_LE_TON_DE_CETTE_3892A0"
 msgid "Je n'aime pas le ton de cette insinuation..."
-msgstr ""
-"Мне не нравится тон этого высказывания.\n"
-"инсинуация..."
+msgstr "Мне не нравится тон этого намека."
 
 #. Character:`saito` | Attributes:`guilty`
 #: game/story/konbini_exterior.dialogue
@@ -96746,25 +96736,25 @@ msgstr "И мне кажется, что после столь долгого о
 #: game/story/konbini_exterior.dialogue
 msgctxt "JE_SUIS_S_R_QU_ELLE_PLAISANTAI_2CC3BC"
 msgid "Je suis sûr qu’elle plaisantait et qu’elle voulait t’embêter."
-msgstr "Я уверена, она просто пошутила и пыталась тебя поддразнить."
+msgstr "Я уверен, она просто пошутила и попыталсь тебя поддразнить."
 
 #. Character:`asami` | Attributes:`pouting`
 #: game/story/konbini_exterior.dialogue
 msgctxt "C_EST_NATUREL_CHEZ_TOI_CETTE_N_B28E3C"
 msgid "C'est naturel chez toi, cette naïveté ?"
-msgstr "Такая наивность с вашей стороны вполне естественна?"
+msgstr "Это твоя врожденная наивность?"
 
 #. Character:`asami`
 #: game/story/konbini_exterior.dialogue
 msgctxt "C_EST_VRAI_QUE_JE_NE_T_AI_PAS_99BD9C"
 msgid "C’est vrai que je ne t’ai pas demandé, après tout..."
-msgstr "Если подумать, я тебя об этом никогда и не спрашивал..."
+msgstr "Если подумать, я тебя об этом никогда и не спрашивала..."
 
 #. Character:`asami` | Attributes:`neutral`
 #: game/story/konbini_exterior.dialogue
 msgctxt "TU_PR_F_RES_LES_FEMMES_DE_TON_42E815"
 msgid "Tu préfères les femmes de ton âge ou les femmes... plus âgées ?"
-msgstr "Вы предпочитаете женщин своего возраста или... женщин постарше?"
+msgstr "Ты предпочитаешь женщин своего возраста или... постарше?"
 
 #. Character:`saito`
 #: game/story/konbini_exterior.dialogue
@@ -96782,13 +96772,13 @@ msgstr "Да, идиот! Именно это я и имею в виду!"
 #: game/story/konbini_exterior.dialogue
 msgctxt "MAINTENANT_QUE_J_Y_PENSE_J_AI_CDCC7E"
 msgid "Maintenant que j’y pense... j’ai quel âge ?"
-msgstr "Теперь, когда я об этом подумала... Сколько мне лет?"
+msgstr "Теперь, когда я об этом задумался... Сколько мне лет?"
 
 #. Character:`narrator`
 #: game/story/konbini_exterior.dialogue
 msgctxt "EST_CE_QUE_JE_DOIS_PRENDRE_EN_09F1C4"
 msgid "Est-ce que je dois prendre en compte mon âge d’avant ou juste mon âge de maintenant ?"
-msgstr "Мне ориентироваться на свой возраст до или только на свой нынешний возраст?"
+msgstr "Мне нужно учитывать свой прежний возраст или только нынешний?"
 
 #. Character:`narrator`
 #: game/story/konbini_exterior.dialogue
@@ -96800,7 +96790,7 @@ msgstr "Если я скажу, что предпочитаю женщин св�
 #: game/story/konbini_exterior.dialogue
 msgctxt "JE_N_AIME_PAS_TROP_LE_TEMPS_QU_6D4E73"
 msgid "Je n’aime pas trop le temps que tu mets à répondre !"
-msgstr "Мне очень не нравится, как долго вы отвечаете!"
+msgstr "Мне действительно не нравится, что ты так долго отвечаешь!"
 
 #. Character:`saito` | Attributes:`happy`
 #: game/story/konbini_exterior.dialogue
@@ -96836,10 +96826,7 @@ msgstr "Да, именно так! Честно говоря, мне больш�
 #: game/story/konbini_exterior.dialogue
 msgctxt "A_SONNE_UN_PEU_TRISTE_MAIS_JE_0B0243"
 msgid "Ça sonne un peu triste, mais je m'en contenterai. Allez, allons chez moi !"
-msgstr ""
-"Звучит немного грустно, но меня это устроит.\n"
-"\n"
-"Пойдём, я к тебе домой!"
+msgstr "Звучит немного грустно, но меня вполне устроит. Ну же, пойдем ко мне!"
 
 #. Character:`sakuya`
 #: game/story/restaurant_sakuya_room.dialogue
@@ -107198,7 +107185,7 @@ msgstr "Так что будьте осторожны с тем, что вы с 
 #: game/story/home_player_exterior.dialogue
 msgctxt "POURQUOI_TU_LA_CONNAIS_C_EST_U_5B9EAE"
 msgid "Pourquoi ? Tu la connais, c'est une amie à toi ?"
-msgstr "Почему? Вы её знаете? Она ваша подруга?"
+msgstr "Почему? Ты её знаешь? Она твоя подруга?"
 
 #. Character:`natsume` | Attributes:`cute`
 #: game/story/home_player_exterior.dialogue
@@ -107222,7 +107209,7 @@ msgstr "Я даже не знаю, хочет ли она меня снова в
 #: game/story/home_player_exterior.dialogue
 msgctxt "TU_ES_MIGNON_MAIS_TU_ES_BIEN_T_9ACCDA"
 msgid "Tu es mignon, mais tu es bien trop naïf."
-msgstr "Ты милая, но слишком наивная."
+msgstr "Ты милый, но слишком наивный."
 
 #. Character:`narrator` | Attributes:`guilty`
 #: game/story/home_player_exterior.dialogue
@@ -122547,16 +122534,13 @@ msgstr "50¥...?"
 #: game/story/park.dialogue
 msgctxt "HORS_DE_QUESTION_30D085"
 msgid "[hint=INDISPONIBLE POUR LE MOMENT]Hors de question !"
-msgstr "[подсказка=В НАСТОЯЩЕЕ ВРЕМЯ НЕДОСТУПНО] Исключено!"
+msgstr "[hint=В НАСТОЯЩЕЕ ВРЕМЯ НЕДОСТУПНО] Исключено!"
 
 #. Character:`narrator`
 #: game/story/park.dialogue
 msgctxt "ON_PEUT_PEUT_TRE_S_ARRANGER_A_C714E4"
 msgid "[hint=ROUTE AMOUR/CORRUPTION]On peut peut-être s'arranger autrement?"
-msgstr ""
-"подсказка=ПУТЬ ЛЮБВИ/КОРРУПЦИЯ]\n"
-"\n"
-"[МАРШРУТ] Может, мы сможем придумать что-нибудь другое"
+msgstr "[hint=РУТ ЛЮБВИ/РАЗВРАЩЕНИЯ]Может, мы сможем придумать что-нибудь другое"
 
 #. TRANSLATORS: # Hate path Character:`centered`
 #: game/story/park.dialogue
@@ -122568,7 +122552,7 @@ msgstr "Этот маршрут будет переработан в одном 
 #: game/story/park.dialogue
 msgctxt "CURIEUX_J_AI_LE_M_ME_ET_IL_M_741FDD"
 msgid "[hint=ROUTE AMITIÉ]Curieux, j'ai le même et il m'a pas coûté ce prix-là..."
-msgstr "[подсказка=ПУТЬ ДРУЖБЫ] Забавно, у меня такой же, и он мне не так уж и дорого стоил..."
+msgstr "[hint=ПУТЬ ДРУЖБЫ] Забавно, у меня такой же, и он мне не так уж и дорого стоил..."
 
 #. Character:`asami` | Attributes:`neutral`
 #: game/story/park.dialogue
@@ -122586,7 +122570,7 @@ msgstr "Зависит от обстоятельств. Это ведь не п�
 #: game/story/park.dialogue
 msgctxt "POUR_QUI_TU_ME_PRENDS_8FF377"
 msgid "Pour qui tu me prends ?"
-msgstr "За кого вы меня принимаете?"
+msgstr "За кого ты меня принимаешь?"
 
 #. Character:`saito`
 #: game/story/park.dialogue
@@ -122622,19 +122606,20 @@ msgstr "Спасибо!"
 #: game/story/park.dialogue
 msgctxt "TU_ES_AMI_AVEC_MINATO_N_CA88DC"
 msgid "Tu es ami avec {{minato.n}} ?"
-msgstr "Вы дружите с {{minato.n}}?"
+msgstr "Ты дружишь с {{minato.n}}?"
 
 #. Character:`saito` | Attributes:`happy`
 #: game/story/park.dialogue
 msgctxt "EN_EFFET_ON_EST_ASSEZ_PROCHES_3C2181"
 msgid "En effet, on est assez proches, lui et moi..."
-msgstr "Действительно, мы с ним довольно близки..."
+msgstr "Ну да, мы с ним довольно близки..."
 
 #. Character:`asami` | Attributes:`happy`
 #: game/story/park.dialogue
+#, fuzzy
 msgctxt "PARFAIT_DBF822"
 msgid "Parfait !"
-msgstr "Идеальный!"
+msgstr "Идеально!"
 
 #. Character:`asami`
 #: game/story/park.dialogue
@@ -122652,28 +122637,25 @@ msgstr "Это не в моём стиле — говорить о девушк�
 #: game/story/park.dialogue
 msgctxt "TOUT_CE_QU_IL_VA_ME_DEMANDER_C_1CC95B"
 msgid "Tout ce qu'il va me demander, c'est si j'ai pris de la drogue."
-msgstr "Он всего лишь спросит, употреблял ли я наркотики."
+msgstr "Он всего лишь спросит, не употреблял ли я наркотики."
 
 #. Character:`saito` | Attributes:`guilty`
 #: game/story/park.dialogue
 msgctxt "ET_PUIS_T_ES_PAS_SI_MIGNONNE_1C07C3"
 msgid "Et puis t'es pas si mignonne-"
-msgstr "И кроме того, ты не такой уж и симпатичный."
+msgstr "И кроме того, ты не такая уж симпатичная."
 
 #. Character:`asami` | Attributes:`upset`
 #: game/story/park.dialogue
 msgctxt "ATTENTION_CE_QUE_TU_VAS_DIRE_1D468A"
 msgid "Attention à ce que tu vas dire !"
-msgstr "Следите за тем, что вы собираетесь сказать"
+msgstr "Следи за тем, что собираетешься сказать!"
 
 #. Character:`asami` | Attributes:`pouting`
 #: game/story/park.dialogue
 msgctxt "TR_S_BIEN_DANS_CE_CAS_TROUVE_Q_99EDA8"
 msgid "Très bien, dans ce cas, trouve quelque chose de crédible !"
-msgstr ""
-"Хорошо, тогда придумайте что-нибудь.\n"
-"\n"
-"правдоподобно!"
+msgstr "Хорошо, тогда придумай что-нибудь правдоподобное!"
 
 #. Character:`saito` | Attributes:`neutral`
 #: game/story/park.dialogue
@@ -122697,7 +122679,7 @@ msgstr "Договорились, мне все равно нужно с ним 
 #: game/story/park.dialogue
 msgctxt "TU_PR_F_RES_PAS_PLUT_T_ALLER_L_3FB009"
 msgid "Tu préfères pas plutôt aller le voir et être honnête avec lui ?"
-msgstr "Разве вам не лучше просто пойти к нему и честно с ним поговорить?"
+msgstr "Разве тебе не лучше просто пойти к нему и честно с ним поговорить?"
 
 #. Character:`asami` | Attributes:`pouting`
 #: game/story/park.dialogue
@@ -122709,13 +122691,13 @@ msgstr "Эх... Совершенно очевидно, что у тебя ник
 #: game/story/park.dialogue
 msgctxt "J_AI_LA_FLEMME_DE_T_EXPLIQUER_B8F29F"
 msgid "J'ai la flemme de t'expliquer, fais comme je t'ai dit et c'est tout !"
-msgstr "Мне лень объяснять, просто сделайте, как я сказал, и всё!"
+msgstr "Мне лень объяснять, просто сделай, как я сказала, и всё!"
 
 #. Character:`saito` | Attributes:`guilty`
 #: game/story/park.dialogue
 msgctxt "D_ACCORD_C_EST_TOI_QUI_VOIS_4AD269"
 msgid "D'accord... c'est toi qui vois."
-msgstr "Хорошо... Как скажете."
+msgstr "Хорошо... Как скажешь."
 
 #. Character:`narrator`
 #: game/story/park.dialogue
@@ -122745,19 +122727,19 @@ msgstr "Не знаю почему, но я знал, что найду тебя
 #: game/story/park.dialogue
 msgctxt "IL_FAUT_CROIRE_QUE_CE_BANC_ET_6E246A"
 msgid "Il faut croire que ce banc et toi ne faites qu'un."
-msgstr "Полагаю, вы и эта скамейка — одно и то же лицо."
+msgstr "Полагаю, ты и эта скамейка — одно целое."
 
 #. Character:`asami` | Attributes:`neutral`
 #: game/story/park.dialogue
 msgctxt "OUI_C_EST_L_ENDROIT_OU_JE_ME_S_E3F47D"
 msgid "Oui... C'est l'endroit où je me sens la plus à l'aise."
-msgstr "Да... Именно там я чувствую себя наиболее комфортно."
+msgstr "Да... Именно здесь я чувствую себя наиболее комфортно."
 
 #. Character:`saito` | Attributes:`neutral`
 #: game/story/park.dialogue
 msgctxt "COMMENT_A_VA_DEPUIS_HIER_95B319"
 msgid "Comment ça va depuis hier ?"
-msgstr "Как вы себя чувствуете со вчерашнего дня"
+msgstr "Как ты себя чувствуешь после вчерашнего?"
 
 #. Character:`asami` | Attributes:`happy`
 #: game/story/park.dialogue
@@ -122826,13 +122808,13 @@ msgstr "Я знаю. [w] И что?"
 #: game/story/park.dialogue
 msgctxt "FAISONS_LUI_REGRETTER_6DCF06"
 msgid "[hint=ROUTE CORRUPTION]Faisons lui regretter."
-msgstr "[подсказка=ПУТЬ КОРРУПЦИИ] Давайте заставим его пожалеть об этом."
+msgstr "[hint=ПУТЬ РАЗВРАЩЕНИЯ] Давайте заставим его пожалеть об этом."
 
 #. Character:`narrator`
 #: game/story/park.dialogue
 msgctxt "OUBLIONS_LE_2C0630"
 msgid "[hint=ROUTE AMOUR]Oublions le !"
-msgstr "[подсказка=любовный путь] Давайте забудем о нём!"
+msgstr "[hint=ПУТЬ ЛЮБВИ] Давайте забудем о нём!"
 
 #. Character:`saito`
 #: game/story/park.dialogue
