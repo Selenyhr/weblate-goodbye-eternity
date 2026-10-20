@@ -112,7 +112,7 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: info@teot-studio.com\n"
 "POT-Creation-Date: 2025-12-12 13:32+0100\n"
-"PO-Revision-Date: 2026-10-20 14:21+0000\n"
+"PO-Revision-Date: 2026-10-20 18:09+0000\n"
 "Last-Translator: Veydzher <veydzherdgswift008@gmail.com>\n"
 "Language-Team: Ukrainian <https://translations.teot-studio.com/projects/goodbye-eternity/game/uk/>\n"
 "Language: uk\n"
@@ -759,7 +759,7 @@ msgstr "АТРИБУТИ"
 
 #: game/scenes/gui/game_menu/galleries/sprites.tscn
 msgid "Un skin est actif pour ce personnage. Certaines images peuvent être remplacées."
-msgstr "Для цього персонажа активний скін. Деякі зображення можуть бути замінені."
+msgstr "Для цього персонажа скин активний. Деякі зображення можуть бути замінені."
 
 #: game/scripts/gui/menu/save_button_template.gd:137
 msgctxt "saves.button.invalid"
@@ -904,7 +904,7 @@ msgstr "Підтвердити"
 #: game/scenes/gui/game_menu/galleries/cgs.gd:7
 msgctxt "game_menu.crumbs.galleries"
 msgid "CG"
-msgstr "Комп’ютерна графіка"
+msgstr "ЗОБРАЖЕННЯ"
 
 #: game/scenes/gui/game_menu/galleries/cgs_characters_list.tscn
 msgid "TOUT"
@@ -16768,7 +16768,7 @@ msgstr "Чудово! Вона запам’ятає це на все життя
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_1d26945b"
 msgid "Je devrais rejoindre {{yasuka.n}} dans la salle de bain."
-msgstr "{{yasuka.n}} запрошує до ванни, треба приєднатися."
+msgstr "{{yasuka.n}} запрошує приєднатися до ванни."
 
 #. Character:`saito`
 #: game/story/home_player_saito_room.dialogue
@@ -18154,7 +18154,7 @@ msgstr "Можеш пояснити, що робиш у моїй кімнаті,
 #: game/story/home_player_saito_room.dialogue
 msgctxt "talk_noriko_0cd7fbf8"
 msgid "Oh, attends..."
-msgstr "О-о, стривай-но..."
+msgstr "Стривай..."
 
 #. Character:`saito` | Attributes:`upset`
 #: game/story/home_player_saito_room.dialogue
@@ -18184,31 +18184,31 @@ msgstr "Я хочу, щоб ти видалив той запис..."
 #: game/story/home_player_saito_room.dialogue
 msgctxt "talk_noriko_fd517036"
 msgid "Pourquoi je ferai ça ?"
-msgstr "Навіщо мені це робити?"
+msgstr "Навіщо мені його видаляти?"
 
 #. Character:`saito`
 #: game/story/home_player_saito_room.dialogue
 msgctxt "talk_noriko_73ee8bea"
 msgid "Qu'est-ce que j'y gagne ?"
-msgstr "Що я отримую від цього?"
+msgstr "Що я від цього отримаю?"
 
 #. Character:`noriko`
 #: game/story/home_player_saito_room.dialogue
 msgctxt "talk_noriko_b97be1f3"
 msgid "Je... je promets de ne plus t'embêter et..."
-msgstr "Я... Обіцяю, що більше не турбуватиму тебе, і..."
+msgstr "Я... обіцяю, що більше не чіпатиму тебе, і..."
 
 #. Character:`saito`
 #: game/story/home_player_saito_room.dialogue
 msgctxt "talk_noriko_84789409"
 msgid "Non ! Je n'ai aucune garantie que tu tiendras ta parole."
-msgstr "Ні! Я не маю жодних гарантій, що ти дотримаєшся свого слова."
+msgstr "Ні! У мене жодних гарантій, що ти дотримаєшся свого слова."
 
 #. Character:`saito`
 #: game/story/home_player_saito_room.dialogue
 msgctxt "talk_noriko_ffa3d66a"
 msgid "De plus, j'ai déjà un moyen de pression sur toi plutôt efficace, pourquoi je m'en séparerais ?"
-msgstr "Мало того, у мене вже є досить ефективний спосіб тиску на тебе, тож навіщо мені від нього відмовлятися?"
+msgstr "Мало того, у мене вже є досить ефективний спосіб тиснути на тебе, то навіщо мені знищувати його?"
 
 #. Character:`noriko` | Attributes:`disgusted`
 #: game/story/home_player_saito_room.dialogue
@@ -18226,7 +18226,7 @@ msgstr "Що я хочу?"
 #: game/story/home_player_saito_room.dialogue
 msgctxt "talk_noriko_d6f83c2a"
 msgid "Je n'ai pas d'idée vraiment..."
-msgstr "Поняття не маю, чесно кажучи..."
+msgstr "Чесно кажучи, навіть не знаю..."
 
 #. Character:`saito`
 #: game/story/home_player_saito_room.dialogue
@@ -18250,13 +18250,13 @@ msgstr "Агов! Довбаний..."
 #: game/story/home_player_saito_room.dialogue
 msgctxt "talk_noriko_e73a231d"
 msgid "De quoi ?"
-msgstr "Довбаний що?"
+msgstr "Довбаний хто?"
 
 #. Character:`noriko` | Attributes:`afraid`
 #: game/story/home_player_saito_room.dialogue
 msgctxt "talk_noriko_7cd2ffc1"
 msgid "Ahem, non, rien..."
-msgstr "Кхе-кхе, ні, нічого..."
+msgstr "Кхм-кхм, ні, нічого..."
 
 #. Character:`noriko` | Attributes:`shame`
 #: game/story/home_player_saito_room.dialogue
@@ -18268,13 +18268,13 @@ msgstr "...А якщо я... відсмокчу тобі?"
 #: game/story/home_player_saito_room.dialogue
 msgctxt "talk_noriko_8c34a254"
 msgid "Attends, quoi ?! Elle a bien dit ça ?"
-msgstr "Чекайте, що?! Вона справді так сказала?"
+msgstr "Чекайте, що?! Вона справді це сказала?"
 
 #. Character:`narrator`
 #: game/story/home_player_saito_room.dialogue
 msgctxt "talk_noriko_523cc4b2"
 msgid "Merde, ça va pas trop loin là ?"
-msgstr "Дідько, не заходить це вже занадто далеко?"
+msgstr "Дідько, хіба це не занадто?"
 
 #. Character:`narrator`
 #: game/story/home_player_saito_room.dialogue
@@ -18322,13 +18322,13 @@ msgstr "Побачимо... Але тільки якщо ти добре поп�
 #: game/story/home_player_saito_room.dialogue
 msgctxt "talk_noriko_a6a070f1"
 msgid "Mais..."
-msgstr "Проте..."
+msgstr "Але..."
 
 #. Character:`saito`
 #: game/story/home_player_saito_room.dialogue
 msgctxt "talk_noriko_943ae61a"
 msgid "C'est à toi de voir, mais tu as beaucoup à te faire pardonner."
-msgstr "Вирішувати тобі, але тобі потрібно багато чого надолужити."
+msgstr "Вирішувати тобі, але тобі доведеться багато чого надолужити."
 
 #. Character:`saito` | Attributes:`happy`
 #: game/story/home_player_saito_room.dialogue
@@ -18346,7 +18346,7 @@ msgstr "...Ти справді найгірший з..."
 #: game/story/home_player_saito_room.dialogue
 msgctxt "talk_noriko_2ecdf241"
 msgid "{{noriko.n}}, moins d'agressivité et plus de langue s'il te plait."
-msgstr "{{noriko.n}}, трохи менше ставлення і трохи більше язика, будь ласка."
+msgstr "{{noriko.n}}, менше мовлення і більше лизання, прошу."
 
 #. Character:`saito`
 #: game/story/home_player_saito_room.dialogue
@@ -18394,13 +18394,13 @@ msgstr "..."
 #: game/story/home_player_saito_room.dialogue
 msgctxt "talk_noriko_c8a7ae17"
 msgid "Je comprends, je vais être gentil, je vais te guider."
-msgstr "Я розумію. Я буду обережним і направлятиму тебе."
+msgstr "Я зрозумів. Буду обережним і підказувати тобі."
 
 #. Character:`saito`
 #: game/story/home_player_saito_room.dialogue
 msgctxt "talk_noriko_5d7d431a"
 msgid "Pour commencer, tu vas doucement sortir ta langue et me lécher le gland."
-msgstr "Для початку ти повільно висунеш язика та оближеш мій кінчик."
+msgstr "Спочатку ти повільно висунеш язика та оближеш мій кінчик."
 
 #. Character:`saito`
 #: game/story/home_player_saito_room.dialogue
@@ -18412,13 +18412,13 @@ msgstr "Ось так. Кінчик чутливий, тому не зачіпа
 #: game/story/home_player_saito_room.dialogue
 msgctxt "talk_noriko_dd4f1173"
 msgid "Tu peux donner quelques coups de langue comme si léchait une glace."
-msgstr "Можеш погладити його язиком, ніби лижеш морозиво."
+msgstr "Лижи його язиком, ніби морозиво."
 
 #. Character:`saito`
 #: game/story/home_player_saito_room.dialogue
 msgctxt "talk_noriko_c9de58d8"
 msgid "À présent, tu peux commencer à la glisser un peu plus profond dans ta bouche."
-msgstr "Тепер почни брати його трохи глибше в рот."
+msgstr "Тепер візьми його трохи глибше в рот."
 
 #. Character:`saito`
 #: game/story/home_player_saito_room.dialogue
@@ -18472,13 +18472,13 @@ msgstr "Я... Я походу кінчаю, {{noriko.n}}."
 #: game/story/home_player_saito_room.dialogue
 msgctxt "talk_noriko_c2edaa54"
 msgid "Bon, je vais être honnête avec toi, c'était bien, mais je n'ai pas ressenti beaucoup d'amour."
-msgstr "Тож буду з тобою відвертим. Це було чудово, але я не відчув особливого кохання."
+msgstr "Буду з тобою відвертим. Це було чудово, але я не відчув особливої любові."
 
 #. Character:`saito`
 #: game/story/home_player_saito_room.dialogue
 msgctxt "talk_noriko_b1f57db0"
 msgid "Surtout des coups de dents."
-msgstr "Я здебільшого відчував твої зуби."
+msgstr "Здебільшого твої зуби."
 
 #. Character:`saito`
 #: game/story/home_player_saito_room.dialogue
@@ -18502,7 +18502,7 @@ msgstr "Я вже заплатив за твої помилки. Тепер тв
 #: game/story/home_player_saito_room.dialogue
 msgctxt "talk_noriko_b2375319"
 msgid "Tu n'es pas obligée de faire tout ce que tu fais, tu as juste à te tenir tranquille et me foutre la paix."
-msgstr "Ти не мусиш робити все, що ти робиш. Просто мовчи та дай мені спокій."
+msgstr "Ти не мусиш робити все, що ти робиш. Просто мовчи і не заважай мені."
 
 #. Character:`noriko` | Attributes:`afraid`
 #: game/story/home_player_saito_room.dialogue
@@ -18532,7 +18532,7 @@ msgstr "Ти отримуєш право на життя, ось що ти от�
 #: game/story/home_player_saito_room.dialogue
 msgctxt "talk_noriko_d4f7e951"
 msgid "Attends, quoi ? C'est quoi ton délire ?"
-msgstr "Стривай, що? Що це за дурниці?"
+msgstr "Стривай, що? Що за дурниці?"
 
 #. Character:`noriko` | Attributes:`angry`
 #: game/story/home_player_saito_room.dialogue
@@ -18568,19 +18568,19 @@ msgstr "Зрозуміло..."
 #: game/story/home_player_saito_room.dialogue
 msgctxt "talk_noriko_0994ca9b"
 msgid "Alors ?"
-msgstr "То ж?"
+msgstr "То що?"
 
 #. Character:`saito` | Attributes:`happy`
 #: game/story/home_player_saito_room.dialogue
 msgctxt "talk_noriko_5d6b26e1"
 msgid "Alors, je pense que je vais aller voir {{yasuka.n}} tout de suite ?"
-msgstr "Тоді мені варто поговорити з {{yasuka.n}} прямо зараз?"
+msgstr "То може мені варто поговорити з {{yasuka.n}} прямо зараз?"
 
 #. Character:`noriko` | Attributes:`neutral`
 #: game/story/home_player_saito_room.dialogue
 msgctxt "talk_noriko_35c13fbc"
 msgid "Pfff, j'y crois pas une seule seconde."
-msgstr "Пф-ф-ф, ні на секунду не вірю, що ти це зробиш."
+msgstr "Пф-ф-ф, ні на секунду не вірю, що ти підеш і поговориш."
 
 #. Character:`noriko`
 #: game/story/home_player_saito_room.dialogue
@@ -18598,13 +18598,13 @@ msgstr "Цей запис дуже важливий для тебе."
 #: game/story/home_player_saito_room.dialogue
 msgctxt "talk_noriko_452cbf7c"
 msgid "Peut-être bien, mais en derniers recours je n'hésiterai pas à m'en servir."
-msgstr "Можливо, так і є, але в крайньому разі я без вагань скористаюся ним."
+msgstr "Може й так, але в крайньому разі я без вагань скористаюся ним."
 
 #. Character:`noriko` | Attributes:`neutral`
 #: game/story/home_player_saito_room.dialogue
 msgctxt "talk_noriko_7cb23f4f"
 msgid "Et moi, je suis prête à tout pour le récupérer."
-msgstr "І я готова зробити все, щоб його повернути."
+msgstr "А я готова зробити все, щоб його повернути."
 
 #. Character:`noriko`
 #: game/story/home_player_saito_room.dialogue
@@ -18622,7 +18622,7 @@ msgstr "І врешті-решт у тебе не залишиться іншо�
 #: game/story/home_player_saito_room.dialogue
 msgctxt "talk_noriko_5a9244c2"
 msgid "À tous les coups, elle va m'envoyer les trois thugs..."
-msgstr "Б'юся об заклад, вона пошле тих трьох бандитів за мною..."
+msgstr "Вона точно пошле тих трьох головорізів за мною..."
 
 #. Character:`narrator`
 #: game/story/home_player_saito_room.dialogue
@@ -18634,7 +18634,7 @@ msgstr "І що вона пообіцяла їм натомість?"
 #: game/story/home_player_saito_room.dialogue
 msgctxt "talk_noriko_d0f1124f"
 msgid "Il va falloir faire encore plus attention à présent."
-msgstr "Тепер мені потрібно бути ще більш обережним."
+msgstr "Тепер треба бути ще більш обачним."
 
 #. Character:`notice`
 #: game/story/home_player_saito_room.dialogue
@@ -18652,13 +18652,13 @@ msgstr "Добре, просто покладу їх туди, і все буд�
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_d70d07ed"
 msgid "J'espère que les décharges ne seront pas trop fortes."
-msgstr "Сподіваюся, виділення будуть не надто сильними."
+msgstr "Сподіваюся, навантаження не будуть надто сильними."
 
 #. Character:`narrator`
 #: game/story/home_player_saito_room.dialogue
 msgctxt "halteres_c8558839"
 msgid "J'ai assez donné pour aujourd'hui, je pense."
-msgstr "Гадаю, на сьогодні я зробив достатньо."
+msgstr "Фух, думаю на сьогодні все."
 
 #. Character:`narrator`
 #: game/story/home_player_saito_room.dialogue
@@ -18670,7 +18670,7 @@ msgstr "Завтра побачимо."
 #: game/story/home_player_saito_room.dialogue
 msgctxt "t2aa9fab2bb"
 msgid "Je me suis déjà pas mal entraîné. On verra plus tard."
-msgstr "Я вже достатньо потренувався. Подивимось пізніше."
+msgstr "Я вже достатньо потренувався. Подивимось що буде пізніше."
 
 #. Character:`saito` | Attributes:`sad`
 #: game/story/home_player_saito_room.dialogue
@@ -18910,19 +18910,19 @@ msgstr "Ай-ай-ай, у мене все болить!"
 #: game/story/home_player_saito_room.dialogue
 msgctxt "t84f7dbe1ba"
 msgid "Tout mon corps me fait souffrir..."
-msgstr "У мене болить усе тіло..."
+msgstr "Усе тіло болить..."
 
 #. Character:`saito`
 #: game/story/home_player_saito_room.dialogue
 msgctxt "tc500b97f36"
 msgid "Ce n'est pas possible d'avoir aussi mal après une séance de sport."
-msgstr "Не може бути, щоб після тренування так сильно все боліло."
+msgstr "Та не може бути такого, щоб усе так сильно боліло після тренування."
 
 #. Character:`saito` | Attributes:`guilty`
 #: game/story/home_player_saito_room.dialogue
 msgctxt "t44cd473260"
 msgid "Je ne dois pas faire les choses correctement."
-msgstr "Мабуть, я щось роблю не так."
+msgstr "Я певно щось не так роблю."
 
 #. Character:`saito`
 #: game/story/home_player_saito_room.dialogue
