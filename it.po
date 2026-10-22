@@ -112,7 +112,7 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: info@teot-studio.com\n"
 "POT-Creation-Date: 2025-12-12 13:32+0100\n"
-"PO-Revision-Date: 2026-10-20 09:35+0000\n"
+"PO-Revision-Date: 2026-10-23 10:40+0000\n"
 "Last-Translator: SiriosDev <siriosdev@users.noreply.translations.teot-studio.com>\n"
 "Language-Team: Italian <https://translations.teot-studio.com/projects/goodbye-eternity/game/it/>\n"
 "Language: it\n"
@@ -56764,13 +56764,13 @@ msgstr "Mio padre non ti ha ancora offerto qualcosa di sospetto da fare o da man
 #: game/story/restaurant_interior.dialogue
 msgctxt "talk_sakuya_caa7de9f"
 msgid "Bonjour {{saito.n}}."
-msgstr "Ciao {{saito.n}}."
+msgstr "Buongiorno {{saito.n}}."
 
 #. Character:`sakuya`
 #: game/story/restaurant_interior.dialogue
 msgctxt "talk_sakuya_e170beed"
 msgid "Prêt pour une nouvelle journée ?"
-msgstr "Pronto per un nuovo giorno?"
+msgstr "Pronto per una nuova giornata?"
 
 #. Character:`chef`
 #: game/story/restaurant_interior.dialogue
@@ -56818,13 +56818,13 @@ msgstr "Al lavoro, i bagni non si puliranno da soli."
 #: game/story/restaurant_interior.dialogue
 msgctxt "talk_chef_interior_c83f2cc2"
 msgid "Bonjour, Chef."
-msgstr "Buongiorno, chef."
+msgstr "Buongiorno, Chef."
 
 #. Character:`chef`
 #: game/story/restaurant_interior.dialogue
 msgctxt "talk_chef_interior_2dae05b4"
 msgid "Salut gamin, ne perds pas plus de temps et mets-toi au boulot !"
-msgstr "Ehi ragazzo, non perdere altro tempo e mettiti al lavoro!"
+msgstr "Ciao ragazzo, non perdere altro tempo e mettiti al lavoro!"
 
 #. Character:`saito`
 #: game/story/restaurant_interior.dialogue
@@ -56836,13 +56836,13 @@ msgstr "Subito, chef!"
 #: game/story/restaurant_interior.dialogue
 msgctxt "talk_chef_interior_d2de46f4"
 msgid "{{saito.n}} travaille plusieurs heures en se donnant à fond, il est exténué, mais satisfait du travail accompli."
-msgstr "{{saito.n}} lavorò per diverse ore, dando il massimo. È esausto, ma soddisfatto del lavoro svolto."
+msgstr "{{saito.n}} ha lavorato per diverse ore dando il massimo, è esausto, ma soddisfatto del lavoro svolto."
 
 #. Character:`chef` | Attributes:`happy`
 #: game/story/restaurant_interior.dialogue
 msgctxt "talk_chef_interior_f7e10f7d"
 msgid "Tu as bien bossé aujourd'hui, j'en attends pas moins la prochaine fois."
-msgstr "Oggi hai fatto un ottimo lavoro, non mi aspetto di meno la prossima volta."
+msgstr "Hai lavorato bene oggi, mi aspetto lo stesso anche la prossima volta."
 
 #. Character:`saito` | Attributes:`happy`
 #: game/story/restaurant_interior.dialogue
@@ -56860,7 +56860,7 @@ msgstr "Hai guadagnato {{restaurant_salary}}¥."
 #: game/story/restaurant_interior.dialogue
 msgctxt "talk_chef_interior_9776430c"
 msgid "Allez, prend ça et dégage !"
-msgstr "Forza, prendi questo e vattene!"
+msgstr "Forza, prendi questi e vattene!"
 
 #. Character:`chef` | Attributes:`happy`
 #: game/story/restaurant_interior.dialogue
@@ -57316,7 +57316,7 @@ msgstr "Hai guadagnato {{restaurant_salary}}¥."
 #: game/story/restaurant_interior.dialogue
 msgctxt "talk_chef_interior_e2542a74"
 msgid "Allez, prend ça et déguerpis !"
-msgstr "Forza, prendili e vattene!"
+msgstr "Forza, prendi questi e vattene!"
 
 #. Character:`saito`
 #: game/story/restaurant_interior.dialogue
@@ -86206,13 +86206,13 @@ msgstr ""
 #: game/story/restaurant_exterior.dialogue
 msgctxt "talk_chef_a039f7d6"
 msgid "Laisse-moi savourer ma pause, gamin."
-msgstr ""
+msgstr "Lasciami godere la mia pausa, ragazzo."
 
 #. Character:`chef`
 #: game/story/restaurant_exterior.dialogue
 msgctxt "talk_chef_a09ad975"
 msgid "Tu n'as pas des trucs à faire ?"
-msgstr ""
+msgstr "Non hai niente di meglio da fare?"
 
 #. Character:`akira`
 #: game/story/restaurant_exterior.dialogue
@@ -128273,61 +128273,61 @@ msgstr "E si va... Chi sarà che dovrà setacciare tutta la città..."
 #: game/story/home_minato_exterior.dialogue
 msgctxt "EN_Y_REPENSANT_A_FAIT_UNE_TERN_4C8D93"
 msgid "En y repensant, ça fait une éternité que je ne suis pas allé chez lui..."
-msgstr ""
+msgstr "A pensarci bene, è da una vita che non passo a trovarlo..."
 
 #. Character:`narrator` | Attributes:`guilty`
 #: game/story/home_minato_exterior.dialogue
 msgctxt "UNE_SECONDE_EST_CE_QUE_JE_SUIS_87E8A6"
 msgid "Une seconde... Est-ce que je suis déjà rentré chez lui ? J'ai aucun souvenir de ça..."
-msgstr ""
+msgstr "Un attimo... Sono mai stato a casa sua? Non me lo ricordo affatto..."
 
 #. Character:`minato` | Attributes:`upset`
 #: game/story/home_minato_exterior.dialogue
 msgctxt "SAITO_N_QU_EST_CE_QUE_TU_FOUS_738C58"
 msgid "{{saito.n}} ?! Qu'est-ce que tu fous devant chez moi ?"
-msgstr ""
+msgstr "{{saito.n}}?! Che ci fai davanti a casa mia?"
 
 #. Character:`saito` | Attributes:`guilty`
 #: game/story/home_minato_exterior.dialogue
 msgctxt "EH_BIEN_A_ME_FAIT_PLAISIR_DE_T_034F38"
 msgid "Eh bien, ça me fait plaisir de te voir, moi aussi..."
-msgstr ""
+msgstr "Beh, è un piacere vederti, anche per me..."
 
 #. Character:`minato`
 #: game/story/home_minato_exterior.dialogue
 msgctxt "JE_SUIS_S_RIEUX_J_AI_BEAUCOUP_4B7652"
 msgid "Je suis sérieux, j'ai beaucoup de travail de mon côté et j'ai pas le temps de m'amuser avec toi !"
-msgstr ""
+msgstr "Dico sul serio, ho un sacco di lavoro da sbrigare e non ho tempo per cazzeggiare con te!"
 
 #. Character:`saito` | Attributes:`sad`
 #: game/story/home_minato_exterior.dialogue
 msgctxt "OKAY_TR_S_BIEN_JE_NE_TE_D_RANG_E671F5"
 msgid "Okay, très bien, je ne te dérangerai plus, mais je voudrais juste savoir quelque chose et, promis, je disparais."
-msgstr ""
+msgstr "Ok, va bene, non ti darò più fastidio, vorrei solo sapere una cosa e, te lo prometto, poi sparisco."
 
 #. Character:`minato` | Attributes:`suspicious`
 #: game/story/home_minato_exterior.dialogue
 msgctxt "A_ME_PARA_T_TROP_BEAU_POUR_TR_F42B6D"
 msgid "Ça me paraît trop beau pour être vrai, mais vas-y."
-msgstr ""
+msgstr "Mi sembra troppo bello per essere vero, ma va bene."
 
 #. Character:`narrator` | Attributes:`upset`
 #: game/story/home_minato_exterior.dialogue
 msgctxt "IL_A_TOUJOURS_T_UN_ENFOIR_COMM_E831BB"
 msgid "Il a toujours été un enfoiré comme ça ?"
-msgstr ""
+msgstr "È sempre stato un così stronzo?"
 
 #. Character:`narrator`
 #: game/story/home_minato_exterior.dialogue
 msgctxt "C_EST_TRANGE_C_EST_PAS_LE_SOUV_E90986"
 msgid "C'est étrange... c'est pas le souvenir que j'en ai de lui."
-msgstr ""
+msgstr "Strano... Non era così che me lo ricordavo."
 
 #. Character:`narrator`
 #: game/story/home_minato_exterior.dialogue
 msgctxt "IL_TAIT_PLUS_SYMPA_AVANT_DBB423"
 msgid "Il était plus sympa avant."
-msgstr ""
+msgstr "Era più gentile una volta."
 
 #. Character:`minato`
 #: game/story/home_minato_exterior.dialogue
