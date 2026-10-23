@@ -112,7 +112,7 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: info@teot-studio.com\n"
 "POT-Creation-Date: 2025-12-12 13:32+0100\n"
-"PO-Revision-Date: 2026-10-23 10:40+0000\n"
+"PO-Revision-Date: 2026-10-23 21:36+0000\n"
 "Last-Translator: SiriosDev <siriosdev@users.noreply.translations.teot-studio.com>\n"
 "Language-Team: Italian <https://translations.teot-studio.com/projects/goodbye-eternity/game/it/>\n"
 "Language: it\n"
@@ -40672,7 +40672,7 @@ msgstr "Di notte sguscerò fuori dalla finestra."
 #: game/story/home_player_livingroom.dialogue
 msgctxt "BONJOUR_YASUKA_A2F9F3"
 msgid "Bonjour Yasuka !"
-msgstr "Buongiorno, Yasuka!"
+msgstr "Buongiorno, {{yasuka.n}}!"
 
 #. Character:`yasuka` | Attributes:`depressed`
 #: game/story/home_player_livingroom.dialogue
