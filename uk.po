@@ -112,7 +112,7 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: info@teot-studio.com\n"
 "POT-Creation-Date: 2025-12-12 13:32+0100\n"
-"PO-Revision-Date: 2026-11-01 17:15+0000\n"
+"PO-Revision-Date: 2026-11-01 17:56+0000\n"
 "Last-Translator: Veydzher <veydzherdgswift008@gmail.com>\n"
 "Language-Team: Ukrainian <https://translations.teot-studio.com/projects/goodbye-eternity/game/uk/>\n"
 "Language: uk\n"
@@ -12820,19 +12820,19 @@ msgstr "Привіт, {{kimochi.n}}, це я!"
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "FONT_SIZE_14_QUI_A_MOI_MOI_C_752932"
 msgid "[font_size=14]Qui ça \"moi\" ? \"Moi\" c'est trop vague. Je ne connais pas de \"moi\"."
-msgstr "[font_size=14]Хто цей “я”? “Я” – занадто нечіткий термін. Я не знаю жодного такого “я”."
+msgstr "[font_size=14]Хто «я»? «Я» — надто розпливчасто. Я ніякого «я» не знаю.[/font_size]"
 
 #. Character:`saito` | Attributes:`upset`
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "BORDEL_C_EST_TOI_QUI_M_AS_DIT_379C6E"
 msgid "Bordel, c'est toi qui m'as dit de passer te voir à cette adresse précisément."
-msgstr "Блін, саме ти сказав мені зайти до тебе саме за цією адресою."
+msgstr "Та заради всього святого, це ж ти сказав мені прийти до тебе саме за цією адресою!"
 
 #. Character:`kimochi`
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "FONT_SIZE_14_TU_AURAIS_TR_S_B_D161FC"
 msgid "[font_size=14]Tu aurais très bien pu récupérer le papier sur le cadavre de {{saito.n}}.[/font_size]"
-msgstr "[font_size=14]Ти цілком міг забрати цей документ з тіла {{saito.n}}.[/font_size]"
+msgstr "[font_size=14]Або ж ти міг підібрати записку з трупа {{saito.n}}.[/font_size]"
 
 #. Character:`kimochi`
 #: game/story/home_kimochi_exterior.dialogue
@@ -12844,13 +12844,13 @@ msgstr "[font_size=14]Який пароль?[/font_size]"
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "LE_MOT_DE_8C369E"
 msgid "Le mot de..."
-msgstr "Слово..."
+msgstr "Паро..."
 
 #. Character:`kimochi`
 #: game/story/home_kimochi_exterior.dialogue
 msgctxt "FONT_SIZE_14_PARFAITEMENT_JE_F2A6E1"
 msgid "[font_size=14]Parfaitement ! Je veux le mot de passe ![/font_size]"
-msgstr "[font_size=14]Ідеально! Мені потрібен пароль![font_size=14]"
+msgstr "[font_size=14]Саме так! Мені потрібен пароль![/font_size]"
 
 #. Character:`kimochi`
 #: game/story/home_kimochi_exterior.dialogue
@@ -30644,241 +30644,241 @@ msgstr "Але?"
 #: game/story/home_player_saito_room.dialogue
 msgctxt "MAIS_JE_PENSE_QU_ELLE_POURRAIT_D7A318"
 msgid "Mais je pense qu'elle pourrait être mieux."
-msgstr "Але я думаю, що вона могла б бути кращою."
+msgstr "Але думаю, її можна зробити ще кращою."
 
 #. Character:`saito` | Attributes:`surprised`
 #: game/story/home_player_saito_room.dialogue
 msgctxt "MIEUX_COMMENT_A_MIEUX_09EE46"
 msgid "Mieux ?! Comment ça, mieux ?"
-msgstr "Краще?! Що маєш на увазі, краще?"
+msgstr "Кращою?! Тобто кращою?"
 
 #. Character:`asami`
 #: game/story/home_player_saito_room.dialogue
 msgctxt "JE_PENSE_QU_ELLE_A_BESOIN_DE_V_42D27A"
 msgid "Je pense qu'elle a besoin de voir des choses encore jamais vues..."
-msgstr "Я думаю, їй потрібно побачити те, чого вона ніколи раніше не бачила..."
+msgstr "Думаю, їй варто побачити те, чого вона ще ніколи не бачила..."
 
 #. Character:`saito` | Attributes:`happy`
 #: game/story/home_player_saito_room.dialogue
 msgctxt "OOOH_CE_GENRE_DE_CHOSES_8E74BE"
 msgid "Oooh... Ce genre de choses..."
-msgstr "Ооо... Такі речі..."
+msgstr "О-о-о... Оце ти про що..."
 
 #. Character:`saito`
 #: game/story/home_player_saito_room.dialogue
 msgctxt "ESSAIE_DE_NE_PAS_ALERTER_TOUT_3B94B8"
 msgid "Essaie de ne pas alerter tout le quartier non plus, cette fois-ci."
-msgstr "Цього разу спробуй також не привертати уваги всього району."
+msgstr "І цього разу постарайся не привертати уваги сусідам."
 
 #. Character:`asami` | Attributes:`pouting`
 #: game/story/home_player_saito_room.dialogue
 msgctxt "W_JE_NE_TE_PROMETS_RIEN_CE_N_F2844E"
 msgid "...[w] Je ne te promets rien ! Ce n'est pas ma faute si ton truc fait la taille de mon avant-bras."
-msgstr "...[w] Я нічого не обіцяю! Це не моя вина, що твій предмет розміром з мій передпліччя."
+msgstr "...[w] Нічого не обіцяю! І взагалі, не моя провина, що в тебе там розміром із моє передпліччя."
 
 #. Character:`asami`
 #: game/story/home_player_saito_room.dialogue
 msgctxt "ET_PUIS_NORIKO_N_S_EST_ABSENT_61FD77"
 msgid "Et puis {{noriko.n}} s'est absentée et {{yasuka.n}} est même sortie pour nous permettre d'avoir un moment pour nous."
-msgstr "А потім {{noriko.n}} відійшла, а {{yasuka.n}} навіть вийшла, щоб дати нам можливість побути наодинці."
+msgstr "До того ж {{noriko.n}} вийшла, а {{yasuka.n}} навіть пішла, щоб залишити нас наодинці."
 
 #. Character:`asami`
 #: game/story/home_player_saito_room.dialogue
 msgctxt "RIEN_VOIR_AVEC_MA_M_RE_QUI_COU_F716C5"
 msgid "Rien à voir avec ma mère qui écoute aux portes !"
-msgstr "Це зовсім не схоже на мою маму, яка постійно прислуховується за дверима!"
+msgstr "Не те що моя мама, яка завжди підслуховує під дверима!"
 
 #. Character:`saito` | Attributes:`nude,happy`
 #: game/story/home_player_saito_room.dialogue
 msgctxt "DANS_CE_CAS_IL_EST_TEMPS_DE_SE_81FE62"
 msgid "Dans ce cas, il est temps de se mettre au travail."
-msgstr "У такому випадку настав час приступати до роботи."
+msgstr "У такому разі, час братися до роботи."
 
 #. Character:`asami` | Attributes:`nude,happy`
 #: game/story/home_player_saito_room.dialogue
 msgctxt "TOUT_FAIT_83437A"
 msgid "Tout à fait !"
-msgstr "Звісно!"
+msgstr "Авжеж!"
 
 #. Character:`asami`
 #: game/story/home_player_saito_room.dialogue
 msgctxt "C_EST_QUOI_CETTE_NOUVELLE_POSI_D56723"
 msgid "C'est quoi cette nouvelle position ?!"
-msgstr "Що це за нова позиція?!"
+msgstr "Що це за нова поза?!"
 
 #. Character:`saito`
 #: game/story/home_player_saito_room.dialogue
 msgctxt "JE_NE_SAIS_PAS_MAIS_J_AIMERAIS_84CBB4"
 msgid "Je ne sais pas, mais j'aimerais bien toutes les tester avec toi."
-msgstr "Не знаю, але дуже хотів би спробувати всі їх разом з тобою."
+msgstr "Не знаю, але дуже хотів би спробувати із тобою їх усі."
 
 #. Character:`asami`
 #: game/story/home_player_saito_room.dialogue
 msgctxt "CA_RISQUE_DE_PRENDRE_NORMEMENT_0F5A34"
 msgid "Ça risque de prendre énormement de temps, tu en es conscient ?"
-msgstr "Це може зайняти дуже багато часу, ти усвідомлюєш це?"
+msgstr "Ти усвідомлюєш, скільки часу на це піде?"
 
 #. Character:`saito`
 #: game/story/home_player_saito_room.dialogue
 msgctxt "J_EN_AI_BIEN_PEUR_C_EST_UN_PRO_C339D6"
 msgid "J'en ai bien peur. C'est un probleme ?"
-msgstr "Боюсь, що так. Це проблема?"
+msgstr "Боюся, що так. Це проблема?"
 
 #. Character:`asami`
 #: game/story/home_player_saito_room.dialogue
 msgctxt "AU_CONTRAIRE_1EC0C5"
 msgid "Au contraire..."
-msgstr "Навпаки..."
+msgstr "Та зовсім навпаки..."
 
 #. Character:`asami`
 #: game/story/home_player_saito_room.dialogue
 msgctxt "FONT_SIZE_14_BON_SANG_QU_EST_874B79"
 msgid "[font_size=14]Bon sang... Qu'est-ce qu'elle fout là celle-là ?![/font_size]"
-msgstr "[font_size=14]Боже мій... Що вона тут робить?! [/font_size]"
+msgstr "[font_size=14]Господи... Якого біса вона тут робить?![/font_size]"
 
 #. Character:`saito`
 #: game/story/home_player_saito_room.dialogue
 msgctxt "UN_PROBLEME_887F94"
 msgid "Un probleme ?"
-msgstr "Проблема?"
+msgstr "Щось не так?"
 
 #. Character:`asami`
 #: game/story/home_player_saito_room.dialogue
 msgctxt "NON_NON_JUSTE_LAISSE_MOI_TIRER_74FF50"
 msgid "Non, non, juste... Laisse moi tirer le rideau..."
-msgstr "Ні, ні, просто... Дозволь мені зітхнути..."
+msgstr "Ні-ні, просто... Дай-но я зашторю вікно..."
 
 #. Character:`saito`
 #: game/story/home_player_saito_room.dialogue
 msgctxt "TROP_DE_T_MOINS_53077E"
 msgid "Trop de témoins ?"
-msgstr "Занадто багато свідків?"
+msgstr "Забагато свідків?"
 
 #. Character:`asami`
 #: game/story/home_player_saito_room.dialogue
 msgctxt "JE_ME_SENT_PLUS_TRANQUILLE_COM_867639"
 msgid "Je me sens plus tranquille comme ça !"
-msgstr "Так я почуваюся більш спокійною!"
+msgstr "Так мені спокійніше!"
 
 #. Character:`asami`
 #: game/story/home_player_saito_room.dialogue
 msgctxt "ALLEZ_ON_CHANGE_509BB5"
 msgid "Allez on change !"
-msgstr "Ходімо, змінимо тему!"
+msgstr "Ну ж бо, поміняймося!"
 
 #. Character:`saito`
 #: game/story/home_player_saito_room.dialogue
 msgctxt "ON_CHANGE_QUOI_70D944"
 msgid "On change quoi ?"
-msgstr "Що потрібно змінити?"
+msgstr "Чим поміняємося?"
 
 #. Character:`asami`
 #: game/story/home_player_saito_room.dialogue
 msgctxt "TU_AS_BESOIN_QUE_JE_TE_FASSE_U_034616"
 msgid "Tu as besoin que je te fasse un dessin ?"
-msgstr "Тобі потрібно, щоб я намалювала тобі малюнок?"
+msgstr "Мені що, розжувати тобі?"
 
 #. Character:`asami`
 #: game/story/home_player_saito_room.dialogue
 msgctxt "J_AURAIS_JAMAIS_PENS_PRENDRE_M_57D355"
 msgid "J'aurais jamais pensé prendre mon pied comme ça !"
-msgstr "Ніколи б не подумала, що можна отримати настільки багато задоволення в такий спосіб!"
+msgstr "Ніколи не думала, що мені настільки сподобається!"
 
 #. Character:`saito`
 #: game/story/home_player_saito_room.dialogue
 msgctxt "MOI_NON_PLUS_81EDDE"
 msgid "Moi non plus..."
-msgstr "Я теж не..."
+msgstr "Я теж..."
 
 #. Character:`saito`
 #: game/story/home_player_saito_room.dialogue
 msgctxt "TU_SAIS_QUE_SI_ON_DOIT_FAIRE_T_8243FA"
 msgid "Tu sais que si on doit faire toutes les positions avec ces deux variations, ça nous en fait deux fois plus ?"
-msgstr "Ти ж знаєш, що якщо нам доведеться виконувати всі позиції з цими двома варіаціями, то їх кількість подвоїться, чи не так?"
+msgstr "Ти ж розумієш, що якщо ми спробуємо всі пози в цих двох варіантах, то роботи в нас буде вдвічі більше?"
 
 #. Character:`asami`
 #: game/story/home_player_saito_room.dialogue
 msgctxt "ET_DONC_TU_TE_D_FILES_B8A93A"
 msgid "Et donc tu te défiles ?"
-msgstr "То ти просто втікаєш?"
+msgstr "То ти вже передумав?"
 
 #. Character:`saito`
 #: game/story/home_player_saito_room.dialogue
 msgctxt "JAMAIS_DE_LA_VIE_DAB816"
 msgid "Jamais de la vie !"
-msgstr "Ніколи в житті!"
+msgstr "Анітрохи!"
 
 #. Character:`asami`
 #: game/story/home_player_saito_room.dialogue
 msgctxt "TU_SAIS_QUE_SI_ON_INVITE_NORIK_8A5196"
 msgid "Tu sais que si on invite {{noriko.n}} à nous rejoindre ça fait encore plus de possibilités."
-msgstr "Ти ж знаєш, що якщо ми запросимо {{noriko.n}} приєднатися до нас, це розширить наші можливості ще більше."
+msgstr "Знаєш, якщо запросимо {{noriko.n}} приєднатися до нас, можливостей стане ще більше."
 
 #. Character:`saito`
 #: game/story/home_player_saito_room.dialogue
 msgctxt "QUAND_TU_ES_COMME_A_JE_NE_SAIS_3C524B"
 msgid "Quand tu es comme ça, je ne sais jamais si tu es sérieuse ou pas."
-msgstr "Коли ти така, я ніколи не знаю, серйозна ти чи ні."
+msgstr "Коли ти така, я ніколи не можу зрозуміти, жартуєш ти чи ні."
 
 #. Character:`asami`
 #: game/story/home_player_saito_room.dialogue
 msgctxt "H_H_C_EST_VOULU_9ACC9F"
 msgid "Héhé ! C'est voulu !"
-msgstr "Хе-хе! Це було зроблено навмисно!"
+msgstr "Хе-хе! У цьому й увесь сенс!"
 
 #. TRANSLATORS: # SEX SCENE TIMELAPS Character:`asami` | Attributes:`happy`
 #: game/story/home_player_saito_room.dialogue
 msgctxt "BON_JE_CROIS_QUE_J_AI_EU_MA_DO_59E518"
 msgid "Bon, je crois que j'ai eu ma dose pour le moment..."
-msgstr "Ну, гадаю, на цей час мені вже досить..."
+msgstr "Ну, гадаю, на сьогодні мені вже досить..."
 
 #. Character:`asami`
 #: game/story/home_player_saito_room.dialogue
 msgctxt "JE_VAIS_EN_PROFITER_POUR_ME_RE_7C9A99"
 msgid "Je vais en profiter pour me reposer ici."
-msgstr "Я скористаюся нагодою, щоб відпочити тут."
+msgstr "Скористаюся нагодою й трохи тут відпочину."
 
 #. Character:`saito` | Attributes:`happy`
 #: game/story/home_player_saito_room.dialogue
 msgctxt "DANS_MON_LIT_C34A0E"
 msgid "Dans mon lit ?"
-msgstr "У моїй ліжку?"
+msgstr "На моєму ліжку?"
 
 #. Character:`asami`
 #: game/story/home_player_saito_room.dialogue
 msgctxt "IL_Y_A_TON_ODEUR_7332A0"
 msgid "Il y a ton odeur..."
-msgstr "Від тебе такий запах..."
+msgstr "Тут пахне тобою..."
 
 #. Character:`saito` | Attributes:`everyday`
 #: game/story/home_player_saito_room.dialogue
 msgctxt "D_ACCORD_A_TE_D_RANGERAIT_PAS_ED2E7F"
 msgid "D'accord... Ça te dérangerait pas si j'en profitais pour faire quelques courses de mon côté ?"
-msgstr "Гаразд... Чи заважало б тобі, якби я скористався цією нагодою, щоб сходити за покупками?"
+msgstr "Гаразд... Ти не проти, якщо я тим часом збігаю у кількох справах?"
 
 #. Character:`asami`
 #: game/story/home_player_saito_room.dialogue
 msgctxt "PAS_DU_TOUT_TANT_QUE_TU_REVIEN_F0D4D8"
 msgid "Pas du tout, tant que tu reviens vite !"
-msgstr "Зовсім не обов’язково, головне – щоб ти швидко повернувся!"
+msgstr "Зовсім ні, головне — повертайся швидше!"
 
 #. Character:`saito`
 #: game/story/home_player_saito_room.dialogue
 msgctxt "JE_VAIS_ALLER_VOIR_UN_AMI_JE_N_635BA6"
 msgid "Je vais aller voir un ami, je n'en aurai pas pour longtemps, c'est promis."
-msgstr "Я збираюся зайти до друга, не затримаюся довго, обіцяю."
+msgstr "Піду провідаю одного друга. Обіцяю, що надовго не затримаюся."
 
 #. Character:`saito`
 #: game/story/home_player_saito_room.dialogue
 msgctxt "REPOSE_TOI_BIEN_421F67"
 msgid "Repose-toi bien."
-msgstr "Відпочивай добре."
+msgstr "Відпочинь."
 
 #. Character:`asami`
 #: game/story/home_player_saito_room.dialogue
 msgctxt "OH_QUE_OUI_PAS_LA_PEINE_DE_ME_C74291"
 msgid "Oh que oui, pas la peine de me le dire deux fois."
-msgstr "О, звісно, немає потреби казати мені це двічі."
+msgstr "О, неодмінно. Можеш не повторювати двічі."
 
 #. Character:`noriko` | Attributes:`excited`
 #: game/story/home_player_saito_room.dialogue
@@ -59188,49 +59188,49 @@ msgstr "...[w]...[w]..."
 #: game/story/restaurant_interior.dialogue
 msgctxt "ARR_TE_DE_TOURNER_EN_ROND_TU_M_3692FD"
 msgid "Arrête de tourner en rond, tu me donnes mal au crâne !"
-msgstr "Перестань ходити кругами — у мене від цього болить голова!"
+msgstr "Припини вже ходити кругами, від тебе в мене голова болить!"
 
 #. Character:`sakuya` | Attributes:`sad`
 #: game/story/restaurant_interior.dialogue
 msgctxt "JE_SUIS_D_SOL_E_76DDD1"
 msgid "Je suis désolée..."
-msgstr "Вибачте..."
+msgstr "Вибач..."
 
 #. Character:`chef`
 #: game/story/restaurant_interior.dialogue
 msgctxt "SI_TU_ATTENDS_SAITO_N_LAISSE_T_965B16"
 msgid "Si tu attends {{saito.n}}, laisse tomber, il ne viendra pas aujourd'hui. Je lui ai donné un jour de repos."
-msgstr "Якщо ти чекаєш на {{saito.n}}, забудь про це – він сьогодні не прийде. Я дав йому день відпочинку."
+msgstr "Якщо ти чекаєш на {{saito.n}}, то можеш не чекати. Сьогодні він не прийде. Я дав йому вихідний."
 
 #. Character:`sakuya` | Attributes:`melancholic`
 #: game/story/restaurant_interior.dialogue
 msgctxt "OH_E1714A"
 msgid "Oh !"
-msgstr "Ох!"
+msgstr "А?"
 
 #. Character:`sakuya` | Attributes:`happy`
 #: game/story/restaurant_interior.dialogue
 msgctxt "MAIS_A_VEUT_DIRE_QUE_SI_JE_ME_EAC955"
 msgid "Mais ça veut dire que, si je me dépêche, je pourrais peut-être passer la journée avec lui !?"
-msgstr "Але це означає, що якщо поспішу, можливо, зможу провести з ним весь день!?"
+msgstr "Але це ж означає, що якщо я покваплюся, то зможу провести з ним цілий день?!"
 
 #. Character:`chef` | Attributes:`upset`
 #: game/story/restaurant_interior.dialogue
 msgctxt "TU_OUBLIS_QU_IL_A_UNE_PETITE_A_3DE9FE"
 msgid "Tu oublies qu'il a une petite amie !"
-msgstr "Ти забуваєш, що у нього є дівчина!"
+msgstr "Ти забуваєш, що в нього є дівчина!"
 
 #. Character:`sakuya`
 #: game/story/restaurant_interior.dialogue
 msgctxt "C_EST_TEMPORAIRE_B1B08A"
 msgid "C'est temporaire..."
-msgstr "Це тимчасово..."
+msgstr "Ненадовго..."
 
 #. Character:`chef` | Attributes:`neutral`
 #: game/story/restaurant_interior.dialogue
 msgctxt "D_SOL_GAMIN_T_ES_DANS_LA_MERDE_5E007C"
 msgid "Désolé gamin... T'es dans la merde."
-msgstr "Вибач, хлопче... Ти в глухому куті."
+msgstr "Вибач, мала... Ти в глухому куті."
 
 #. TRANSLATORS: Contre l'armoire Character:`sayuri`
 #: game/story/home_asami_sayuri_room.dialogue
@@ -62734,43 +62734,43 @@ msgstr "Слухняний хлопчик!"
 #: game/story/home_asami_livingroom.dialogue
 msgctxt "C_EST_BON_ELLE_DORT_COMME_UN_B_5D98B8"
 msgid "C'est bon, elle dort comme un bébé !"
-msgstr "Гаразд, вона спить, як немовля!"
+msgstr "Вона міцно спить!"
 
 #. Character:`asami`
 #: game/story/home_asami_livingroom.dialogue
 msgctxt "DANS_LE_DOUTE_JE_LUI_AI_M_ME_M_AB701D"
 msgid "Dans le doute, je lui ai même mis des boules Quies."
-msgstr "У разі сумніві я навіть вставила їй вушні затички."
+msgstr "Про всяк випадок я навіть вставила їй вушні затички."
 
 #. Character:`saito` | Attributes:`guilty`
 #: game/story/home_asami_livingroom.dialogue
 msgctxt "RASSURE_MOI_TU_N_AS_PAS_L_INTE_EEECCF"
 msgid "Rassure-moi, tu n'as pas l'intention d'hurler non plus ?"
-msgstr "Заспокой мене, ти ж не збираєшся кричати, правда?"
+msgstr "Тільки скажи, що ти теж не збираєшся кричати..."
 
 #. Character:`asami` | Attributes:`pouting`
 #: game/story/home_asami_livingroom.dialogue
 msgctxt "SI_J_AI_ENVIE_DE_HURLER_DE_PLA_F867D7"
 msgid "Si j'ai envie de hurler de plaisir, j'aimerais pouvoir le faire sans me retenir."
-msgstr "Якщо мені хочеться кричати від насолоди, я б хотіла мати змогу робити це без жодних обмежень."
+msgstr "Якщо мені захочеться кричати від насолоди, то я хочу мати змогу кричати без жодних обмежень."
 
 #. Character:`saito` | Attributes:`happy`
 #: game/story/home_asami_livingroom.dialogue
 msgctxt "BON_TR_S_BIEN_JE_TE_FAIS_CONFI_8C01D5"
 msgid "Bon... très bien, je te fais confiance là-dessus."
-msgstr "Ну... добре, я довіряю тобі в цьому плані."
+msgstr "Гаразд... Справедливо, довірюся тобі."
 
 #. Character:`asami`
 #: game/story/home_asami_livingroom.dialogue
 msgctxt "J_ATTENDS_DE_FAIRE_A_DANS_MA_C_FA44AE"
 msgid "J'attends de faire ça dans ma chambre depuis bien trop longtemps."
-msgstr "Я вже давно хотіла зробити це у своїй кімнаті."
+msgstr "Я вже сто років мріяла зробити це у своїй кімнаті."
 
 #. Character:`asami` | Attributes:`happy`
 #: game/story/home_asami_livingroom.dialogue
 msgctxt "ALLEZ_HOP_HOP_HOP_ON_SE_D_SHAB_E32BCA"
 msgid "Allez ! Hop, hop, hop ! On se déshabille, et vite !"
-msgstr "Ходімо! Хоп, хоп, хоп! Роздягаємося, і швидко!"
+msgstr "Ходімо! Рухом-рухом! Швидше роздягайся!"
 
 #. Character:`sakuya`
 #: game/story/onsen_room.dialogue
@@ -93491,175 +93491,175 @@ msgstr "Хе-хе!"
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "C_EST_FOU_A_QUEL_POINT_LE_PLAI_911D61"
 msgid "C'est fou à quel point le plaisir peut être différent selon la position."
-msgstr "Дивно, наскільки насолода може відрізнятися залежно від позиції."
+msgstr "Дивовижно, наскільки по-різному відчувається задоволення залежно від пози."
 
 #. Character:`asami`
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "JE_CROIS_QUE_J_ADORE_TRE_AU_DE_4DC922"
 msgid "Je crois que j'adore être au dessus de toi !"
-msgstr "Я гадаю, мені подобається перебувати над тобою!"
+msgstr "Здається, мені найбільше подобається бути зверху!"
 
 #. Character:`saito`
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "ATTEND_DE_VOIR_LES_AUTRES_POSI_978367"
 msgid "Attends de voir les autres positions avant de te décider."
-msgstr "Почекай, поки не побачиш інші варіанти, перш ніж приймати рішення."
+msgstr "От побачиш інші пози — тоді й вирішиш."
 
 #. Character:`asami`
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "NON_JE_VEUX_ENCORE_EN_PROFITER_D4E3A4"
 msgid "Non je veux encore en profiter un peu !"
-msgstr "Ні, я ще хочу трохи насолодитися цим!"
+msgstr "Ні, я хочу ще трохи насолодитися цим!"
 
 #. Character:`asami`
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "POUR_UNE_FOIS_QUE_C_EST_MOI_QU_03C8BA"
 msgid "Pour une fois que c'est moi qui mène !"
-msgstr "Хоча б цього разу я сама веду розмову!"
+msgstr "Хоч раз саме я всім керую!"
 
 #. Character:`asami`
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "EN_FAIT_JE_CROIS_QUE_JE_FATIG_12A63E"
 msgid "... En fait, je crois que je fatigue..."
-msgstr "Власне, мені здається, що я вже втомилася..."
+msgstr "...Хоча, здається, я вже втомлююся..."
 
 #. Character:`saito`
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "LAISSE_MOI_PRENDRE_LE_RELAI_B256A8"
 msgid "Laisse-moi prendre le relais !"
-msgstr "Дозволь мені взяти на себе цю роль!"
+msgstr "Дозволь мені перебрати ініціативу!"
 
 #. Character:`saito`
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "C_EST_PAS_SI_MAL_NON_PLUS_NON_012025"
 msgid "C'est pas si mal non plus non ?"
-msgstr "Це теж не так вже й погано, чи не так?"
+msgstr "Цей варіант теж непоганий, правда?"
 
 #. Character:`asami`
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "OUI_MAIS_JE_PREFERERAIS_TE_VOI_AAD744"
 msgid "Oui... Mais je préfèrerais te voir..."
-msgstr "Так... Але я б краще побачила тебе особисто..."
+msgstr "Так... Але я б воліла бачити тебе..."
 
 #. Character:`saito`
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "C_EST_MIEUX_2123F9"
 msgid "C'est mieux ?"
-msgstr "Краще так?"
+msgstr "Так краще?"
 
 #. Character:`asami`
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "OUI_BEAUCOUP_MIEUX_MERCI_MON_A_DBF0E3"
 msgid "Oui beaucoup mieux merci mon amour !"
-msgstr "Так, набагато краще, дякую, коханий мій!"
+msgstr "Так, набагато краще, дякую, коханий!"
 
 #. Character:`asami`
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "LE_PIED_6D0BD3"
 msgid "Le pied !"
-msgstr "Ой!"
+msgstr "Оце було щось неймовірне!"
 
 #. Character:`asami`
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "TU_SAIS_JE_CROIS_QUE_JE_VAIS_A_746A3F"
 msgid "Tu sais... je crois que je vais avoir du mal à m'en passer à présent."
-msgstr "Знаєш... гадаю, мені буде важко без цього тепер."
+msgstr "Знаєш... Гадаю, тепер мені буде дуже важко без цього обходитися."
 
 #. Character:`saito` | Attributes:`happy`
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "J_ESP_RE_BIEN_POURQUOI_JE_ME_D_CFDBED"
 msgid "J'espère bien ! Pourquoi je me donne autant de mal, selon toi ?!"
-msgstr "Сподіваюся ж! Навіщо, на твою думку, я взагалі докладаю всіх цих зусиль?!"
+msgstr "Дуже на це сподіваюся! Як думаєш, навіщо я стільки старався?!"
 
 #. Character:`asami`
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "H_H_MERCI_MON_CH_RI_A1436C"
 msgid "Hé hé ! Merci mon chéri."
-msgstr "Хе-хе! Дякую, коханий мій."
+msgstr "Хе-хе! Дякую, любий."
 
 #. Character:`saito`
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "MERCI_POURQUOI_762C66"
 msgid "Merci, pourquoi ?"
-msgstr "Дякую, чому?"
+msgstr "Дякуєш... За що?"
 
 #. Character:`asami`
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "POUR_TRE_ENTR_DANS_MA_VIE_E3B200"
 msgid "Pour être entré dans ma vie !"
-msgstr "Щоб увійти в моє життя!"
+msgstr "За те, що з’явився в моєму житті!"
 
 #. Character:`asami` | Attributes:`sad`
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "SANS_TOI_JE_NE_SAIS_PAS_CE_QUE_DFAB4E"
 msgid "Sans toi, je ne sais pas ce que je serais devenue..."
-msgstr "Без тебе я не знаю, чим би я стала..."
+msgstr "Якби не ти, навіть не знаю, що зі мною було б..."
 
 #. Character:`saito`
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "JE_SUIS_S_R_QUE_TU_EXAG_RES_FA1BED"
 msgid "Je suis sûr que tu exagères !"
-msgstr "Я впевнений, що ти перебільшуєш!"
+msgstr "Мені здається, ти перебільшуєш!"
 
 #. Character:`asami`
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "NON_NON_JE_T_ASSURE_J_TAIS_LA_D8F284"
 msgid "Non, non, je t'assure. J'étais la plupart du temps seule, sans avoir de réels amis à qui me confier."
-msgstr "Ні, ні, я тобі запевняю. Більшу частину часу я була сама, у мене не було справжніх друзів, кому можна було б довіритися."
+msgstr "Ні-ні, я серйозно. Більшу частину часу я була сама, без справжніх друзів, яким могла б довіритися."
 
 #. Character:`asami`
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "MINATO_N_M_A_TRAIT_E_COMME_UN_AA4EFD"
 msgid "{{minato.n}} m'a traitée comme une moins que rien, j'étais au plus bas..."
-msgstr "{{minato.n}} поводилася зі мною як з нікчемною людиною; я була на самому дні..."
+msgstr "{{minato.n}} ставився до мене так, наче я ніщо, і я була на самому дні..."
 
 #. Character:`asami`
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "SI_J_AVAIS_RENCONTR_LA_MAUVAIS_566826"
 msgid "Si j'avais rencontré la mauvaise personne, ça aurait pu finir mal."
-msgstr "Якби я зустріла неправильну людину, все могло б закінчитися погано."
+msgstr "Якби мені тоді трапилася не та людина, все могло б закінчитися дуже погано."
 
 #. Character:`asami` | Attributes:`neutral`
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "ET_TOI_TU_ES_CONTENT_DE_M_AVOI_8482AD"
 msgid "Et toi ? Tu es content de m'avoir trouvée ?"
-msgstr "А ти? Ти радий, що знайшов мене?"
+msgstr "А ти? Ти радий, що зустрів мене?"
 
 #. Character:`saito`
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "CES_DERNIERS_JOURS_ONT_T_POUR_E79D80"
 msgid "Ces derniers jours ont été pour moi à la fois les plus stressants, mais aussi les plus formidables de ma vie."
-msgstr "Останні дні були для мене одночасно найбільш стресовими та найчудовішими в моєму житті."
+msgstr "Ці останні кілька днів були водночас найстресовішими й найнеймовірнішими в моєму житті."
 
 #. Character:`asami` | Attributes:`surprised`
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "STRESSANTS_POURQUOI_AA81E0"
 msgid "Stressants ? Pourquoi ?"
-msgstr "Стресові ситуації? Чому?"
+msgstr "Стресовими? Чому?"
 
 #. Character:`saito`
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "QUAND_UNE_FILLE_MIGNONNE_T_ACC_756592"
 msgid "Quand une fille mignonne t'accorde soudainement son attention, tu ne sais jamais vraiment si elle se moque de toi ou si elle est vraiment intéressée."
-msgstr "Коли якась симпатична дівчина раптово звертає до тебе увагу, ніколи не можна знати напевно, чи вона звертається з іронією, чи справді зацікавлена в тобі."
+msgstr "Коли симпатична дівчина раптом починає приділяти тобі увагу, ніколи не знаєш, чи вона просто з тебе кепкує, чи справді зацікавлена."
 
 #. Character:`asami` | Attributes:`pouting`
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "IDIOT_IL_FAUT_APPRENDRE_LIRE_L_742487"
 msgid "Idiot ! Il faut apprendre à lire les signaux."
-msgstr "Дурень! Треба навчитися розбиратися в сигналах."
+msgstr "Дурнику! Тобі треба навчитися розпізнавати натяки."
 
 #. Character:`saito` | Attributes:`guilty`
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "OUAIS_JE_N_AI_JAMAIS_T_TR_S_DO_71B771"
 msgid "Ouais... je n'ai jamais été très doué avec ça."
-msgstr "Так... я ніколи не був дуже добрим у цьому."
+msgstr "Так... Мені ніколи особливо не вдавалося це робити."
 
 #. Character:`asami` | Attributes:`happy`
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "TANT_PIS_MAINTENANT_TU_VAS_DEV_6A21F3"
 msgid "Tant pis, maintenant tu vas devoir supporter ça toute ta vie !"
-msgstr "Що ж, тепер тобі доведеться терпіти це все життя!"
+msgstr "От і шкода! Тепер тобі доведеться терпіти мене до кінця свого життя!"
 
 #. Character:`saito` | Attributes:`surprised`
 #: game/story/home_asami_asami_room.dialogue
@@ -93671,19 +93671,19 @@ msgstr "Усе моє життя?"
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "OUI_J_AI_BIEN_L_INTENTION_DE_F_0D913E"
 msgid "Oui ! J'ai bien l'intention de faire partie de la tienne encore longtemps."
-msgstr "Так! Я дійсно маю намір залишатися частиною твого життя ще довго."
+msgstr "Атож! Я твердо вирішила ще дуже довго бути частиною твого життя."
 
 #. Character:`sayuri` | Attributes:`happy`
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "ALORS_LES_DEUX_TOURTEREAUX_JE_6F6FD7"
 msgid "Alors, les deux tourtereaux, je suppose que la nuit s'est bien passée ?"
-msgstr "Ну що ж, ці двоє „голубків“... Гадаю, ніч пройшла добре, чи не так?"
+msgstr "Ну що, голубки, судячи з усього, вечір удався?"
 
 #. Character:`sayuri` | Attributes:`neutral`
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "MA_CH_RIE_JE_CROIS_QU_ON_DOIT_BF3A92"
 msgid "Ma chérie, je crois qu'on doit avoir une discussion sur le fait de modérer un peu sa voix dans ce genre de situation."
-msgstr "Кохана, мені здається, нам варто поговорити про те, щоб у таких ситуаціях трохи зменшувати гучність свого голосу."
+msgstr "Сонце, гадаю, нам треба поговорити про те, що в таких ситуаціях варто поводитися трохи тихіше."
 
 #. Character:`sayuri`
 #: game/story/home_asami_asami_room.dialogue
@@ -93695,25 +93695,25 @@ msgstr "Ти справді думала, що я нічого не почую?"
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "MAMAN_ARR_TE_TU_ME_METS_LA_HON_E2A913"
 msgid "Maman, arrête, tu me mets la honte !"
-msgstr "Мамо, припини, ти мене зводиш з розуму!"
+msgstr "Мамо, припини! Ти мене ганьбиш!"
 
 #. Character:`sayuri` | Attributes:`pouting`
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "COMMENT_A_LA_HONTE_TU_CRIAIS_T_149D75"
 msgid "Comment ça, la honte ? Tu criais tellement fort que je me suis même demandé si tu ne te faisais pas agresser."
-msgstr "Що значить, сором? Ти так голосно кричала, що я навіть замислилася, чи не тебе хтось атакує."
+msgstr "Ганьблю? Ти так голосно кричала, що я навіть подумала, чи тебе там часом не ґвалтують!"
 
 #. Character:`asami` | Attributes:`surprised`
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "TU_ES_VENUE_NOUS_COUTER_LA_POR_BAF649"
 msgid "Tu es venue nous écouter à la porte ?"
-msgstr "Ти підійшла, щоб послухати нас біля дверей?"
+msgstr "Ти що, під дверима підслуховувала?!"
 
 #. Character:`sayuri`
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "IL_FALLAIT_BIEN_QUE_JE_M_ASSUR_D25890"
 msgid "Il fallait bien que je m'assure que tout aille bien, voyons !"
-msgstr "Я мусила переконатися, що все гаразд, розумієте!"
+msgstr "Ну, я ж мала переконатися, що все гаразд. Сама розумієш."
 
 #. Character:`asami` | Attributes:`sad`
 #: game/story/home_asami_asami_room.dialogue
@@ -93725,43 +93725,43 @@ msgstr "Допоможіть..."
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "EN_TOUT_CAS_JE_NE_SAIS_PAS_CE_D93CA0"
 msgid "En tout cas, je ne sais pas ce que tu lui as fait pour faire crier ma fille comme ça, mais j'avoue que je suis assez curieuse."
-msgstr "У будь-якому разі, я не знаю, що ти зробив з нею, щоб моя донька так закричала, але зізнаюся, мені досить цікаво."
+msgstr "До речі, не знаю, що саме ти зробив із моєю донькою, що вона так кричала, але мушу зізнатися, мені дуже цікаво."
 
 #. Character:`saito` | Attributes:`guilty`
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "C_EST_DIRE_QUE_446ADF"
 msgid "C'est-à-dire que..."
-msgstr "Тобто..."
+msgstr "Ну..."
 
 #. Character:`sayuri`
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "TU_NE_VOUDRAIS_PAS_ME_MONTRER_A03652"
 msgid "Tu ne voudrais pas me montrer ?"
-msgstr "Чи не могла б ти мені це показати?"
+msgstr "Не міг би ти мені продемонструвати?"
 
 #. Character:`asami` | Attributes:`angry`
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "ARR_TE_A_NE_T_APPROCHE_PAS_DE_EB3371"
 msgid "Arrête ça ! Ne t'approche pas de mon petit ami ! Tu n'as qu'à t'en trouver un rien que pour toi !"
-msgstr "Перестань це робити! Не підходь до мого хлопця! Просто знайди собі когось іншого, хто підійде тобі!"
+msgstr "Ану припини! І не смій наближатися до мого хлопця! Знайди собі власного!"
 
 #. Character:`sayuri` | Attributes:`pouting`
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "TU_N_ES_D_CID_MENT_PAS_PARTAGE_2E2444"
 msgid "Tu n'es décidément pas partageuse !"
-msgstr "Ти справді не дуже щедра!"
+msgstr "Ну ти й жаднюга! Навіть поділитися не хочеш!"
 
 #. Character:`asami` | Attributes:`sad`
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "PAR_PITI_ALLONS_CHEZ_TOI_ELLE_EA1947"
 msgid "Par pitié, allons chez toi, elle est insupportable !"
-msgstr "Будь ласка, поїдемо до тебе додому, вона просто нестерпна!"
+msgstr "Господи, ходімо вже до тебе! Вона просто нестерпна!"
 
 #. Character:`saito` | Attributes:`happy`
 #: game/story/home_asami_asami_room.dialogue
 msgctxt "J_AI_UN_JOUR_DE_REPOS_AUJOURD_D04936"
 msgid "J'ai un jour de repos aujourd'hui, donc ça tombe plutôt bien."
-msgstr "У мене сьогодні день відпочинку, тому це досить вдалий випадок."
+msgstr "У мене сьогодні вихідний, тому час якраз підходящий."
 
 #. Character:`noriko`
 #: game/story/home_nobu_exterior.dialogue
@@ -99233,43 +99233,43 @@ msgstr "Сподіваюся, що колись зможу познайомит�
 #: game/story/restaurant_sakuya_room.dialogue
 msgctxt "ESP_CES_DE_SALE_TRAIN_E_F461CE"
 msgid "Espèces de sale trainée !"
-msgstr "Ох, яка ж ти негідниця!"
+msgstr "Брудна хвойдо!"
 
 #. Character:`sakuya`
 #: game/story/restaurant_sakuya_room.dialogue
 msgctxt "JE_JURE_QU_UN_JOUR_JE_TE_FERAI_9AD91A"
 msgid "Je jure qu'un jour, je te ferais payer au centuple tout ce que tu m'as pris !"
-msgstr "Я клянуся, що одного дня я змусю тебе віддати в сто разів більше за все, що ти забрав у мене!"
+msgstr "Присягаюся, одного дня ти заплатиш мені сторицею за все, що в мене відібрала!"
 
 #. Character:`sakuya`
 #: game/story/restaurant_sakuya_room.dialogue
 msgctxt "CREVE_545D06_1"
 msgid "CRÈVE !"
-msgstr "Розтворись!"
+msgstr "ЗДОХНИ!"
 
 #. Character:`sakuya`
 #: game/story/restaurant_sakuya_room.dialogue
 msgctxt "CREVE_545D06_2"
 msgid "CRÈVE !"
-msgstr "Розірвись!"
+msgstr "ЗДОХНИ!"
 
 #. Character:`sakuya`
 #: game/story/restaurant_sakuya_room.dialogue
 msgctxt "CREVE_545D06_3"
 msgid "CRÈVE !"
-msgstr "Розірвись!"
+msgstr "ЗДОХНИ!"
 
 #. Character:`sakuya`
 #: game/story/restaurant_sakuya_room.dialogue
 msgctxt "CREVE_545D06_4"
 msgid "CRÈVE !"
-msgstr "Розтворись!"
+msgstr "ЗДОХНИ!"
 
 #. Character:`sakuya`
 #: game/story/restaurant_sakuya_room.dialogue
 msgctxt "CREVE_545D06_5"
 msgid "CRÈVE !"
-msgstr "Розбийся!"
+msgstr "ЗДОХНИ!"
 
 #. Character:`narrator`
 #: game/story/home_player_exterior.dialogue
@@ -134627,49 +134627,49 @@ msgstr "Якщо я вас знайду — вам хана! Ви мене чу�
 #: game/story/college_exterior.dialogue
 msgctxt "FAIRE_SA_PREMI_RE_FOIS_ET_LE_F_47C7DF"
 msgid "Faire sa première fois et le faire en plus dans la piscine de son ancien lycée..."
-msgstr "Провести свій перший раз... і ще й у басейні своєї колишньої старшої школи..."
+msgstr "Провести свій перший раз, та ще й у басейні своєї колишньої школи..."
 
 #. Character:`asami`
 #: game/story/college_exterior.dialogue
 msgctxt "C_TAIT_VRAIMENT_TR_S_EXCITANT_6F2D83"
 msgid "C'était vraiment très excitant !"
-msgstr "Це було справді дуже захоплююче!"
+msgstr "Це було неймовірно захопливо!"
 
 #. Character:`saito` | Attributes:`happy`
 #: game/story/college_exterior.dialogue
 msgctxt "JE_CROIS_QU_ON_PENSE_LA_M_ME_C_404A70"
 msgid "Je crois qu'on pense la même chose."
-msgstr "Я думаю, ми обидва думаємо однаково."
+msgstr "Здається, ми думаємо про одне й те саме."
 
 #. Character:`saito`
 #: game/story/college_exterior.dialogue
 msgctxt "ET_MAINTENANT_D23AB5"
 msgid "Et maintenant ?"
-msgstr "І що тепер?"
+msgstr "Ну, що тепер?"
 
 #. Character:`asami`
 #: game/story/college_exterior.dialogue
 msgctxt "L_AUTRE_IDIOT_A_D_PARTIR_ET_TO_3F1E36"
 msgid "L'autre idiot a dû partir et tout ce sport m'a donné faim !"
-msgstr "Той ідіот певно вже пішов, а від усього цього спорту я капець як зголодніла!"
+msgstr "Той придурок певно вже пішов, а після всіх цих активних розваг я зголодніла!"
 
 #. Character:`asami`
 #: game/story/college_exterior.dialogue
 msgctxt "VIENS_LA_MAISON_A1C7F2"
 msgid "Viens à la maison !"
-msgstr "Приходь до мене додому!"
+msgstr "Ходімо до мене!"
 
 #. Character:`saito` | Attributes:`guilty`
 #: game/story/college_exterior.dialogue
 msgctxt "A_NE_VA_PAS_POSER_PROBL_ME_AV_94B761"
 msgid "Ça ne va pas poser problème avec ta mère ?"
-msgstr "Це не створить проблем з твоєю мамою?"
+msgstr "А твоя мама не буде проти?"
 
 #. Character:`asami` | Attributes:`pouting`
 #: game/story/college_exterior.dialogue
 msgctxt "ON_S_EN_FICHE_ELLE_AURA_QU_COU_B72DE5"
 msgid "On s'en fiche, elle aura qu'à écouter si ça l'amuse."
-msgstr "Та що з того, нехай слухає, якщо їй це так потрібно."
+msgstr "Та яка різниця? Хай підслуховує, якщо їй так хочеться."
 
 #. TRANSLATORS: # Placeholder Asami qui se penche par la fenetre Character:`asami`
 #: game/story/home_player_garden.dialogue
@@ -134741,43 +134741,43 @@ msgstr "...[w] Добре, якщо хочеш війни, то отримаєш
 #: game/story/home_player_garden.dialogue
 msgctxt "JE_ME_DEMANDE_S_IL_SERA_SURPRI_A58126"
 msgid "Je me demande s'il sera surpris de me voir ?"
-msgstr "Цікаво, чи здивується він, коли побачить мене?"
+msgstr "Цікаво, чи здивується він, побачивши мене?"
 
 #. Character:`sakuya` | Attributes:`pouting`
 #: game/story/home_player_garden.dialogue
 msgctxt "J_ESP_RE_QUE_NOUS_POURRONS_PAS_FD2C54"
 msgid "J'espère que nous pourrons passer du temps ensemble sans avoir... cette... dans nos pattes..."
-msgstr "Сподіваюся, ми зможемо побути вдвох так, щоб... ця... не крутилася поруч..."
+msgstr "Сподіваюся, ми зможемо побути вдвох, і нам не заважатиме... та сама..."
 
 #. Character:`saito` | Attributes:`guilty`
 #: game/story/college_pool.dialogue
 msgctxt "BON_ALORS_EXPLIQUE_MOI_CE_QU_I_2900E7"
 msgid "Bon, alors explique-moi ce qu'il s'est passé, parce que là, j'ai un peu de mal à comprendre..."
-msgstr "Ну, тоді розкажи мені, що там стряслося, бо я, чесно кажучи, трохи в ступорі..."
+msgstr "Гаразд, поясни мені, що сталося, бо я вже трохи в ступорі..."
 
 #. Character:`saito`
 #: game/story/college_pool.dialogue
 msgctxt "D_HABITUDE_C_EST_MOI_QUI_DOIS_CF09C7"
 msgid "D'habitude, c'est moi qui dois échapper à {{akira.n}}."
-msgstr "Зазвичай саме мені доводиться уникати {{akira.n}}."
+msgstr "Зазвичай саме мені доводиться тікати від {{akira.n}}."
 
 #. Character:`saito` | Attributes:`upset`
 #: game/story/college_pool.dialogue
 msgctxt "ET_VOIR_MA_PETITE_AMIE_SUBIR_L_A694CE"
 msgid "Et voir ma petite amie subir le même sort me dérange énormément !"
-msgstr "А бачити, що моя дівчина зазнає тієї ж участі, мене страшенно дратує!"
+msgstr "І мені страшенно не подобається бачити, як моя дівчина проходить через те саме!"
 
 #. Character:`asami` | Attributes:`happy`
 #: game/story/college_pool.dialogue
 msgctxt "OOOH_C_EST_TROP_MIGNON_J_ADORE_0CAEE8"
 msgid "Oooh, c'est trop mignon ! J'adore quand tu dis \"ma petite amie\" !"
-msgstr "Ооо, це так мило! Мені дуже подобається, коли ти кажеш „моя дівчина“!"
+msgstr "О-о-о, як мило! Мені так подобається, коли ти кажеш «моя дівчина»!"
 
 #. Character:`saito` | Attributes:`happy`
 #: game/story/college_pool.dialogue
 msgctxt "RESTE_CONCENTR_E_TU_VEUX_BIEN_46D319"
 msgid "Reste concentrée, tu veux bien ?"
-msgstr "Будь зосередженою, гаразд?"
+msgstr "Зосередься, гаразд?"
 
 #. Character:`asami` | Attributes:`pouting`
 #: game/story/college_pool.dialogue
@@ -134789,13 +134789,13 @@ msgstr "Так, вибач!"
 #: game/story/college_pool.dialogue
 msgctxt "JE_SUIS_SORTIE_EN_VILLE_AVEC_Y_D66C2E"
 msgid "Je suis sortie en ville avec {{yasuka.n}} et {{noriko.n}} aujourd'hui."
-msgstr "Сьогодні я пішла в місто з {{yasuka.n}} і {{noriko.n}}."
+msgstr "Сьогодні я ходила до міста разом із {{yasuka.n}} та {{noriko.n}}."
 
 #. Character:`asami`
 #: game/story/college_pool.dialogue
 msgctxt "ET_DANS_UNE_BOUTIQUE_DE_V_TEME_EF17D4"
 msgid "Et dans une boutique de vêtements, il a débarqué en pensant qu'il pouvait draguer ouvertement {{yasuka.n}}."
-msgstr "І в крамниці одягу він заявився, думаючи, що може відкрито залицятися до {{yasuka.n}}."
+msgstr "І в одній крамниці одягу з’явився він. Думав, що може запросто залицятися до {{yasuka.n}}."
 
 #. Character:`saito` | Attributes:`surprised`
 #: game/story/college_pool.dialogue
@@ -134807,49 +134807,49 @@ msgstr "Серйозно?!"
 #: game/story/college_pool.dialogue
 msgctxt "ELLE_L_A_REMBARR_E_POLIMENT_MA_DBBC79"
 msgid "Elle l'a rembarrée poliment, mais il était insistant."
-msgstr "Вона ввічливо відмовила йому, але він не відступав."
+msgstr "Вона ввічливо йому відмовила, але він ніяк не вгамовувався."
 
 #. Character:`asami` | Attributes:`happy`
 #: game/story/college_pool.dialogue
 msgctxt "J_AI_T_UN_PEU_PLUS_DIRECTE_F5F9D2"
 msgid "J'ai été un peu plus directe..."
-msgstr "Я була трохи більш прямолінійною..."
+msgstr "А я була трохи прямолінійнішою..."
 
 #. Character:`saito` | Attributes:`sad`
 #: game/story/college_pool.dialogue
 msgctxt "JE_COMPRENDS_MIEUX_CE_TYPE_EST_E274A5"
 msgid "Je comprends mieux... Ce type est une plaie..."
-msgstr "Усе зрозуміло... Цей тип — справжня заноза в дупі..."
+msgstr "Тепер зрозуміло... Цей тип — справжня заноза в дупі..."
 
 #. Character:`saito` | Attributes:`upset`
 #: game/story/college_pool.dialogue
 msgctxt "A_FAIT_DES_ANN_ES_QUE_JE_L_AI_E297F1"
 msgid "Ça fait des années que je l'ai sur le dos."
-msgstr "Він вже роками не дає мені спокою."
+msgstr "Він уже роками мені життя не дає."
 
 #. Character:`saito`
 #: game/story/college_pool.dialogue
 msgctxt "PENDANT_TOUTE_MA_SCOLARIT_JUSQ_7447C7"
 msgid "Pendant toute ma scolarité jusqu'à aujourd'hui, ce type n'est qu'une brute qui ne gère les choses que par la peur ou la force."
-msgstr "Протягом усього навчання в школі і аж дотепер цей тип був нічим іншим, як головорізом, який вирішує всі питання лише страхом та силою."
+msgstr "Ще зі школи й до сьогодні цей тип тільки й робить, що залякує людей і вирішує всі питання силою."
 
 #. Character:`asami` | Attributes:`pouting`
 #: game/story/college_pool.dialogue
 msgctxt "SI_J_AVAIS_SU_QU_IL_T_AVAIT_FA_B33604"
 msgid "Si j'avais su qu'il t'avait fait autant de mal, je lui aurais envoyé mon pied dans les c-"
-msgstr "Якби я тільки знала, що він завдав тобі стільки болю, я б йому так дала по..."
+msgstr "Якби я знала, що він так сильно тебе діставав, то копнула б його по..."
 
 #. Character:`saito` | Attributes:`surprised`
 #: game/story/college_pool.dialogue
 msgctxt "NON_SURTOUT_PAS_A3347A"
 msgid "Non ! Surtout pas !"
-msgstr "Ні! Цього ще не вистачало!"
+msgstr "Ні! Що б ти не робила, цього ще не вистачало!"
 
 #. Character:`saito` | Attributes:`upset`
 #: game/story/college_pool.dialogue
 msgctxt "IL_N_EST_PAS_DU_GENRE_SE_RETEN_1F50AC"
 msgid "Il n'est pas du genre à se retenir, même face à une femme."
-msgstr "Він не з тих, хто стримується, навіть перед жінкою."
+msgstr "Він не з тих, хто стримується навіть із жінками."
 
 #. Character:`saito`
 #: game/story/college_pool.dialogue
@@ -134861,115 +134861,115 @@ msgstr "Я знайду спосіб..."
 #: game/story/college_pool.dialogue
 msgctxt "QU_EST_CE_QUE_TU_FAIS_8735C0"
 msgid "Qu'est-ce que tu fais ?!!"
-msgstr "Що ти робиш?!!"
+msgstr "Ти що робиш?!"
 
 #. Character:`asami`
 #: game/story/college_pool.dialogue
 msgctxt "BAH_QUOI_TU_AS_VU_L_ENDROIT_ES_C16AA5"
 msgid "Bah quoi ? Tu as vu l'endroit ? Est-ce que tu vois un meilleur moment pour faire ça ?"
-msgstr "Ну а що? Ти на місце подивися! Чи, по-твоєму, є кращий час для цього?"
+msgstr "А що? Ти на місце подивися! Чи, по-твоєму, є кращий час для цього?"
 
 #. Character:`asami`
 #: game/story/college_pool.dialogue
 msgctxt "AUTANT_EN_PROFITER_NON_5BD17A"
 msgid "Autant en profiter, non ?"
-msgstr "Гріх цим не скористатися, хіба ні?"
+msgstr "Гріх не скористатися нагодою, правда?"
 
 #. Character:`asami`
 #: game/story/college_pool.dialogue
 msgctxt "TU_ME_REJOINS_DB05D3"
 msgid "Tu me rejoins ?"
-msgstr "Ти приєднаєшся до мене?"
+msgstr "Ну що, приєднаєшся?"
 
 #. Character:`saito`
 #: game/story/college_pool.dialogue
 msgctxt "W_TU_ME_CROIRAIS_SI_JE_TE_DIS_8D09F0"
 msgid "...[w] Tu me croirais si je te disais que c'était exactement là où je voulais t'amener ce soir ?"
-msgstr "...[w] Чи повірила б ти мені, якби я сказала, що саме сюди я і хотіла тебе привести сьогодні ввечері?"
+msgstr "...[w] Повіриш, якщо я скажу, що саме сюди й хотів привести тебе сьогодні ввечері?"
 
 #. Character:`asami`
 #: game/story/college_pool.dialogue
 msgctxt "LA_COURSE_POURSUITE_AUSSI_852CA8"
 msgid "La course-poursuite aussi ?"
-msgstr "Навіть з погонею?"
+msgstr "Навіть погоня була частиною плану?"
 
 #. Character:`saito`
 #: game/story/college_pool.dialogue
 msgctxt "RIEN_DE_TEL_QU_UNE_PETITE_SU_E_9BC625"
 msgid "Rien de tel qu'une petite suée avant de se baigner."
-msgstr "Немає нічого кращого, ніж трохи попотіти перед купанням."
+msgstr "Ніщо так не розігріває перед плаванням, як трохи фізичного навантаження."
 
 #. Character:`asami`
 #: game/story/college_pool.dialogue
 msgctxt "C_EST_PLAUSIBLE_C_EST_TOI_LE_M_E8718C"
 msgid "C'est plausible, c'est toi le meilleur !"
-msgstr "Звучить переконливо. Ти найкращий!"
+msgstr "Чом би й ні? Ти в мене найкращий!"
 
 #. Character:`saito`
 #: game/story/college_pool.dialogue
 msgctxt "J_ESP_RE_SEULEMENT_QU_ON_NE_SE_E2F9F4"
 msgid "J'espère seulement qu'on ne se fera pas surprendre !"
-msgstr "Я лише сподіваюся, що нас не застукають!"
+msgstr "Тільки сподіваюся, що нас не спіймають!"
 
 #. Character:`asami`
 #: game/story/college_pool.dialogue
 msgctxt "RAISON_DE_PLUS_POUR_NE_PAS_PER_46DAA0"
 msgid "Raison de plus pour ne pas perdre une seconde."
-msgstr "Ще одна причина, чому не варто втрачати ні секунди."
+msgstr "Тим більше не варто гаяти ані секунди."
 
 #. Character:`asami`
 #: game/story/college_pool.dialogue
 msgctxt "TU_COMPTES_ME_LAISSER_COMME_A_E191A1"
 msgid "Tu comptes me laisser comme ça encore longtemps ?"
-msgstr "Ти збираєшся залишати мене в такому стані ще довго?"
+msgstr "Ти ще довго змушуватимеш мене так чекати?"
 
 #. Character:`saito`
 #: game/story/college_pool.dialogue
 msgctxt "J_AI_PAS_LE_DROIT_DE_PROFITER_A4F83F"
 msgid "J'ai pas le droit de profiter de la vue ?"
-msgstr "Я що, не маю права насолоджуватися краєвидом?"
+msgstr "А мені хіба не можна трохи помилуватися краєвидом?"
 
 #. Character:`asami`
 #: game/story/college_pool.dialogue
 msgctxt "ALLEZ_0F42E8"
 msgid "Allez !"
-msgstr "Ходімо!"
+msgstr "Ну ж бо!"
 
 #. Character:`narrator`
 #: game/story/college_pool.dialogue
 msgctxt "J_AURAIS_JAMAIS_PENS_POUVOIR_F_B902C5"
 msgid "J'aurais jamais pensé pouvoir faire ça un jour dans la piscine dans mon ancienne école."
-msgstr "Я ніколи б не подумала, що колись зможу зробити це у басейні своєї старої школи."
+msgstr "Ніколи б не подумав, що колись зможу займатися таким у басейні своєї колишньої школи."
 
 #. Character:`narrator`
 #: game/story/college_pool.dialogue
 msgctxt "TOUT_CE_QUI_SE_PASSE_CES_DERNI_02E477"
 msgid "Tout ce qui se passe ces derniers temps est complètement dingue."
-msgstr "Усе, що відбувається останнім часом, просто божевільно."
+msgstr "Усе, що відбувається останнім часом, просто якесь божевілля."
 
 #. Character:`asami`
 #: game/story/college_pool.dialogue
 msgctxt "TU_TU_PEUX_Y_ALLER_PLUS_FORT_8C1E4D"
 msgid "Tu... Tu peux y aller plus fort ?"
-msgstr "Можеш... Можеш ще сильніше?"
+msgstr "М-можеш... Можеш сильніше?"
 
 #. Character:`saito`
 #: game/story/college_pool.dialogue
 msgctxt "COMME_A_71BE5D"
 msgid "Comme ça ?"
-msgstr "Так?"
+msgstr "Ось так?"
 
 #. Character:`asami`
 #: game/story/college_pool.dialogue
 msgctxt "OUIII_TU_PEUX_M_ME_Y_ALLER_PLU_6CEAA9"
 msgid "Ouiii... Tu peux même y aller plus fort encore !"
-msgstr "Та-а-ак... Можеш бути навіть ще жорсткішим!"
+msgstr "Та-а-ак... Можна навіть ще сильніше!"
 
 #. Character:`asami`
 #: game/story/college_pool.dialogue
 msgctxt "OH_OUI_OUI_AD6279"
 msgid "Oh ! Oui... Oui !"
-msgstr "Ох! Так... Так !"
+msgstr "О! Так... Так!"
 
 #. Character:`asami`
 #: game/story/college_pool.dialogue
@@ -134987,7 +134987,7 @@ msgstr "Це..."
 #: game/story/college_pool.dialogue
 msgctxt "JE_LA_DETESTE_E41B4B"
 msgid "... Je la déteste !"
-msgstr "... Я ненавиджу її!"
+msgstr "...Я її ненавиджу!"
 
 #. Character:`saito`
 #: game/story/college_pool.dialogue
@@ -134999,13 +134999,13 @@ msgstr "Кого?"
 #: game/story/college_pool.dialogue
 msgctxt "SAKUYA_N_W_ON_AURAIT_PU_FAIRE_5B4FB2"
 msgid "{{sakuya.n}} ![w] On aurait pu faire ça bien plus tôt !"
-msgstr "{{sakuya.n}} ![w] Ми могли б зробити це набагато раніше!"
+msgstr "{{sakuya.n}}![w] Ми могли зробити це набагато раніше!"
 
 #. Character:`asami`
 #: game/story/college_pool.dialogue
 msgctxt "DIS_6FD06D"
 msgid "... dis"
-msgstr "... до речі"
+msgstr "...До речі..."
 
 #. Character:`saito`
 #: game/story/college_pool.dialogue
@@ -135017,13 +135017,13 @@ msgstr "Так?"
 #: game/story/college_pool.dialogue
 msgctxt "JE_SAIS_QUE_TU_FANTASMES_LA_DE_6228AA"
 msgid "Je sais que tu fantasmes là-dessus...[w] alors...[w] on peut essayer si tu veux."
-msgstr "Я знаю, що ти мрієш про це... [w] тож... [w] якщо хочеш, ми можемо спробувати."
+msgstr "Я знаю, що ти про це фантазуєш...[w] Тому... Можемо спробувати, якщо хочеш."
 
 #. Character:`saito`
 #: game/story/college_pool.dialogue
 msgctxt "TU_VEUX_DIRE_219C8D"
 msgid "Tu veux dire...?"
-msgstr "Ти маєш на увазі...?"
+msgstr "Ти про...?"
 
 #. Character:`asami`
 #: game/story/college_pool.dialogue
@@ -135035,7 +135035,7 @@ msgstr "Так! Але повільно..."
 #: game/story/college_pool.dialogue
 msgctxt "J_IRAIS_PROGRESSIVEMENT_56139F"
 msgid "J'irai progressivement !"
-msgstr "Я не поспішатиму!"
+msgstr "Не поспішатиму!"
 
 #. Character:`asami`
 #: game/story/college_pool.dialogue
@@ -135059,13 +135059,13 @@ msgstr "........."
 #: game/story/college_pool.dialogue
 msgctxt "TOUT_VA_BIEN_TU_NE_DIS_RIEN_100117"
 msgid "Tout va bien tu ne dis rien ?"
-msgstr "Все гаразд, ти нічого не кажеш?"
+msgstr "Усе гаразд? Чому ти мовчиш?"
 
 #. Character:`asami`
 #: game/story/college_pool.dialogue
 msgctxt "C_EST_PAS_JUSTE_POURQUOI_JE_P_1E8B73"
 msgid "... C'est pas juste ! Pourquoi je prends autant mon pied !"
-msgstr "... Це нечесно! Чому я отримую від цього стільки задоволення?!"
+msgstr "...Це нечесно! Чому мені настільки це подобається?!"
 
 #. Character:`asami`
 #: game/story/college_pool.dialogue
@@ -135077,19 +135077,19 @@ msgstr "Мені... Мені потрібна твоя допомога."
 #: game/story/college_pool.dialogue
 msgctxt "AH_POURQUOI_77D3F3"
 msgid "Ah... Pourquoi ?"
-msgstr "Ах... Чому?"
+msgstr "А... Навіщо?"
 
 #. Character:`asami`
 #: game/story/college_pool.dialogue
 msgctxt "JE_SENT_PLUS_MES_JAMBES_ET_JE_DDC9D9"
 msgid "Je sens plus mes jambes et je crois que je vais couler au fond de la piscine..."
-msgstr "Я взагалі не відчуваю ніг і, здається, зараз потону в цьому басейні..."
+msgstr "Я вже не відчуваю ніг і, здається, зараз піду на дно басейну..."
 
 #. Character:`saito`
 #: game/story/college_pool.dialogue
 msgctxt "HAHAHA_741CDF"
 msgid "Hahaha."
-msgstr "Хахаха."
+msgstr "Ха-ха-ха."
 
 #. Character:`noriko` | Attributes:`cute`
 #: game/story/clothing_shop_exterior.dialogue
