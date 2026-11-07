@@ -112,7 +112,7 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: info@teot-studio.com\n"
 "POT-Creation-Date: 2025-12-12 13:32+0100\n"
-"PO-Revision-Date: 2026-11-03 00:25+0000\n"
+"PO-Revision-Date: 2026-11-08 04:23+0000\n"
 "Last-Translator: Veydzher <veydzherdgswift008@gmail.com>\n"
 "Language-Team: Ukrainian <https://translations.teot-studio.com/projects/goodbye-eternity/game/uk/>\n"
 "Language: uk\n"
@@ -5254,25 +5254,25 @@ msgstr "Мене звільнять, якщо я запізнюся на пер�
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_55ee076d"
 msgid "Qu'est-ce que tu me veux encore ?"
-msgstr "Що ти ще хочеш від мене?"
+msgstr "Чого тобі від мене треба?"
 
 #. Character:`noriko`
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_e25835cc"
 msgid "Tu ne donnes plus aucun signe de vie depuis plusieurs jours."
-msgstr "Ти не подаєш ознак життя вже кілька днів."
+msgstr "Ти вже кілька днів не подаєш жодних ознак життя."
 
 #. Character:`noriko` | Attributes:`shame`
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_21b32491"
 msgid "T'es trop occupé avec ta nouvelle copine ?"
-msgstr "Занадто зайнятий зі своєю новою дівчиною?"
+msgstr "Дуже зайнятий своєю новою дівчиною?"
 
 #. Character:`saito`
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_ac66cee5"
 msgid "Qu'est-ce que ça peut te faire, je croyais que tu me détestais ?"
-msgstr "Що тобі до того? Я думав, ти мене ненавидиш."
+msgstr "А тобі яке діло? Я думав, ти мене ненавидиш."
 
 #. Character:`noriko`
 #: game/story/home_player_corridor.dialogue
@@ -5290,7 +5290,7 @@ msgstr "Ти нічого не розумієш!"
 #: game/story/home_player_corridor.dialogue
 msgctxt "home_player_corridor_a6e3dbd3"
 msgid "Mais bordel..."
-msgstr "Чорт..."
+msgstr "Бляха..."
 
 #. Character:`noriko` | Attributes:`shame`
 #: game/story/home_player_corridor.dialogue
@@ -19252,13 +19252,13 @@ msgstr "Не можу дочекатися."
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_2ed812b1"
 msgid "Je ne dois pas oublier {{asami.n}} cet après-midi."
-msgstr "Я не повинен забути про {{asami.n}} сьогодні вдень."
+msgstr "Не можна забути про {{asami.n}} сьогодні після обіду."
 
 #. Character:`saito`
 #: game/story/home_player_saito_room.dialogue
 msgctxt "home_player_room_5f77ecc2"
 msgid "J'ai hâte de voir cette fameuse surprise."
-msgstr "Не можу дочекатися, як вона здивується."
+msgstr "Не можу дочекатися її сюрпризу."
 
 #. Character:`asami`
 #: game/story/home_player_saito_room.dialogue
@@ -63718,37 +63718,37 @@ msgstr "Ні, я просто зайшов привітався!"
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "talk_kimochi_e951c0b4"
 msgid "Hey, le stalker, tu es là ?"
-msgstr "Гей, сталкере, ти тут?"
+msgstr "Гей, сталкере, ти вдома?"
 
 #. Character:`saito`
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "talk_kimochi_890939a7"
 msgid "Allez, je sais que tu es là, j'entends des bruits dans ton appartement."
-msgstr "Я знаю, що ти тут. Я чую шум у твоїй квартирі."
+msgstr "Я знаю, що ти тут. Чую, як ти шарудиш."
 
 #. Character:`saito` | Attributes:`happy`
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "talk_kimochi_68b2673b"
 msgid "Ouvre-moi ou je dis à {{minato.n}} où tu habites !"
-msgstr "Відчини двері, поки я не сказав {{minato.n}}, де ти живеш!"
+msgstr "Відчиняй, поки я не розповів {{minato.n}}, де ти живеш!"
 
 #. Character:`kimochi`
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "talk_kimochi_2868bdf3"
 msgid "[font_size=14]Tu ne ferais pas ça quand même ?[/font_size]"
-msgstr "[font_size=14]Ти б так не зробив, правда?[/font_size]"
+msgstr "[font_size=14]Ти ж не розповів б йому, правда?[/font_size]"
 
 #. Character:`saito`
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "talk_kimochi_4d82a4e6"
 msgid "Ça dépend si tu ouvres la porte ou pas."
-msgstr "Залежить від того, відчиниш ти ці двері чи ні."
+msgstr "Залежить від того, відчиниш ти двері чи ні."
 
 #. Character:`kimochi`
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "talk_kimochi_e8dc186b"
 msgid "[font_size=14]C'est bon, tu as gagné, je sors.[/font_size]"
-msgstr "[font_size=14]Гаразд, твоя взяла. Я виходжу.[/font_size]"
+msgstr "[font_size=14]Гаразд, ти переміг. Уже виходжу.[/font_size]"
 
 #. Character:`saito`
 #: game/story/home_kimochi_interior.dialogue
@@ -63766,7 +63766,7 @@ msgstr "{{kimochi.n}}."
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "talk_kimochi_7cc65d9c"
 msgid "{{kimochi.n}} Warui."
-msgstr "{{kimochi.n}} Лихо."
+msgstr "{{kimochi.n}} Варуй."
 
 #. Character:`saito` | Attributes:`surprised`
 #: game/story/home_kimochi_interior.dialogue
@@ -63778,31 +63778,31 @@ msgstr "Але..."
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "talk_kimochi_b1a2f02d"
 msgid "Oui, je sais, mes parents qui ne me désiraient pas ont eu l'idée de me donner ce nom."
-msgstr "Так, я знаю. Мої батьки не хотіли мене, тому придумали це ім'я зі злості."
+msgstr "Ага, знаю. Батьки мене не хотіли, тому назвали так просто зі злості."
 
 #. Character:`kimochi` | Attributes:`neutral`
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "talk_kimochi_4951233c"
 msgid "Bref, on s'en bat les couilles, tu as trouvé une solution à notre problème ?"
-msgstr "Та яка різниця. Ти знайшов вирішення нашої проблеми?"
+msgstr "Та байдуже. Ти знайшов вихід із нашої проблеми?"
 
 #. Character:`saito` | Attributes:`upset`
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "talk_kimochi_141ef3dd"
 msgid "Dis-moi plutôt de quoi tu soupçonnes {{minato.n}} ?"
-msgstr "Чому ти не скажеш мені, чому у тебе є сумніви щодо {{minato.n}}?"
+msgstr "Може, спершу розкажеш, чому ти підозрюєш {{minato.n}}?"
 
 #. Character:`kimochi` | Attributes:`happy`
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "talk_kimochi_c401bf33"
 msgid "Ça veut dire que tu me crois ?"
-msgstr "Це означає, що ти мені віриш?"
+msgstr "Тобто ти мені віриш?"
 
 #. Character:`saito` | Attributes:`sad`
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "talk_kimochi_6d132d89"
 msgid "Oui... J'ai eu un aperçu de son vrai visage et ce que j'ai vu ne m'a pas plus."
-msgstr "Так... Я побачив його справжнє обличчя, і мені не дуже сподобалося те, що я побачив."
+msgstr "Так... Я побачив його справжнє обличчя, і те, що побачив, мені зовсім не сподобалося."
 
 #. Character:`kimochi`
 #: game/story/home_kimochi_interior.dialogue
@@ -63814,43 +63814,43 @@ msgstr "Розкажи мені все!"
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "talk_kimochi_7274a40f"
 msgid "Il m'a juste avoué avoir fait semblant de se faire passer pour mon meilleur ami pour être aux premières loges lorsque je me faisais harceler."
-msgstr "Він просто зізнався, що прикидався моїм найкращим другом, щоб мати місце в першому ряду, коли наді мною знущалися."
+msgstr "Він щойно зізнався, що лише вдавав із себе мого найкращого друга, щоб мати змогу спостерігати з першого ряду, як мене цькують."
 
 #. Character:`kimochi` | Attributes:`sad`
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "talk_kimochi_e0fea42f"
 msgid "Et après, on dit que c'est moi le pervers..."
-msgstr "А люди називають мене збоченцем..."
+msgstr "А ще мене називають збоченцем..."
 
 #. Character:`saito` | Attributes:`upset`
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "talk_kimochi_8d6e304d"
 msgid "J'ai eu l'impression de parler à un véritable psychopathe."
-msgstr "У мене таке відчуття, що він справжній псих."
+msgstr "Мені здається, він і справді справжній психопат."
 
 #. Character:`saito`
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "talk_kimochi_4b4ac996"
 msgid "J'en ai eu des frissons."
-msgstr "У мене від цього мурашки по шкірі."
+msgstr "Від нього аж мороз по шкірі."
 
 #. Character:`kimochi` | Attributes:`think`
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "talk_kimochi_7c41b277"
 msgid "C'est une réaction normale."
-msgstr "Це нормальна реакція."
+msgstr "Це цілком нормальна реакція."
 
 #. Character:`kimochi`
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "talk_kimochi_66c07b2a"
 msgid "Notre cerveau, qui est une merveille d'ingénierie biologique, nous avertit d'un danger imminent ou de quelque chose qui pourrait menacer notre vie."
-msgstr "Наш людський мозок, який є справжнім дивом біоінженерії, попереджає нас про неминучу небезпеку і речі, які можуть загрожувати нашому життю."
+msgstr "Наш мозок — справжнє диво біоінженерії — попереджає нас про неминучу небезпеку та все, що може загрожувати нашому життю."
 
 #. Character:`kimochi` | Attributes:`frustrated`
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "talk_kimochi_74a27bb6"
 msgid "J'ai ce sentiment-là depuis que j'ai croisé son regard la première fois, c'était il y a quelques années."
-msgstr "У мене було це відчуття відтоді, як я вперше подивився йому в очі. Це було кілька років тому."
+msgstr "Я відчув це ще під час нашого першого зорового контакту. Це було кілька років тому."
 
 #. Character:`saito` | Attributes:`sad`
 #: game/story/home_kimochi_interior.dialogue
@@ -63862,85 +63862,85 @@ msgstr "Як думаєш, що він робить зі своєю молодш
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "talk_kimochi_14d773c1"
 msgid "...Es-tu sûr de vouloir l'entendre ?"
-msgstr "...Ти впевнений, що дійсно хочеш почути відповідь на це питання?"
+msgstr "...Ти впевнений, що хочеш почути відповідь на це запитання?"
 
 #. Character:`saito`
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "talk_kimochi_d50c87f5"
 msgid "Je dois savoir."
-msgstr "Я маю знати."
+msgstr "Я мушу знати."
 
 #. Character:`kimochi`
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "talk_kimochi_c9df85d4"
 msgid "Je ne sais pas grand-chose, car je n'ai jamais pu m'approcher assez."
-msgstr "Я знаю не дуже багато, бо ніколи не мав змоги наблизитися до них достатньо близько."
+msgstr "Я не так багато знаю, бо мені жодного разу не вдалося підібратися достатньо близько."
 
 #. Character:`kimochi`
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "talk_kimochi_00977ff0"
 msgid "Mais tous les weekends, le sous-sol de leur maison est allumé et il y a une grosse berline garée juste à côté."
-msgstr "Але кожні вихідні в їхньому підвалі горить світло, а на вулиці припаркований великий седан."
+msgstr "Але щовихідних в їхньому підвалі горить світло, а просто перед будинком стоїть великий седан."
 
 #. Character:`kimochi`
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "talk_kimochi_bbb32214"
 msgid "J'ai fait des recherches afin de savoir à qui appartient la plaque et il s'avère qu'il s'agit de la voiture d'un clan de yakuza local."
-msgstr "Я провів невелике дослідження, щоб дізнатися, чия це машина. Виявилося, що вона належить місцевому клану Якудза."
+msgstr "Я провів невелике розслідування, щоб дізнатися, кому належить машина. Виявилося, що вона належить місцевому клану Якудза."
 
 #. Character:`saito` | Attributes:`surprised`
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "talk_kimochi_b1d1f111"
 msgid "Putain, c'est quoi le nom du clan ?"
-msgstr "Дідько. Як називається клан?"
+msgstr "Їбать. Який ще блять клан?"
 
 #. Character:`kimochi` | Attributes:`think`
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "talk_kimochi_1607a7f3"
 msgid "Lune sanglante."
-msgstr "Кривавий місяць."
+msgstr "«Кривавий Місяць»."
 
 #. Character:`saito` | Attributes:`upset`
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "talk_kimochi_ed9864f8"
 msgid "Merde."
-msgstr "Дідько."
+msgstr "Сука."
 
 #. Character:`narrator`
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "talk_kimochi_a5418e10"
 msgid "Je ne pensais pas entendre ce nom aussi vite."
-msgstr "Я не думав, що почую цю назву так скоро."
+msgstr "Не думав, що почую цю назву так скоро."
 
 #. Character:`narrator`
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "talk_kimochi_28248520"
 msgid "Si {{minato.n}} est en lien avec ce clan, alors {{chiaki.n}} et {{natsume.n}} sont en danger de mort."
-msgstr "Якщо {{minato.n}} має зв'язки з цим кланом, можу гарантувати, що життя {{chiaki.n}} і {{natsume.n}} у небезпеці."
+msgstr "Якщо {{minato.n}} пов’язаний із цим кланом, можу гарантувати, що життя {{chiaki.n}} й {{natsume.n}} в небезпеці."
 
 #. Character:`narrator`
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "talk_kimochi_0321e5fc"
 msgid "On n'a jamais su comment tout avait commencé, mais à la base Lune sanglante était un clan mineur."
-msgstr "Ми так і не дізналися, як усе почалося, але спочатку Кривавий місяць був лише невеликим кланом."
+msgstr "Ми так і не дізналися, з чого все почалося, але спочатку «Кривавий Місяць» був лише незначним кланом."
 
 #. Character:`narrator`
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "talk_kimochi_c9c453ac"
 msgid "Mais des années plus tard, quand la vérité a éclaté, il s'est avéré qu'ils avaient gangréné absolument toutes les institutions de l'État, ils étaient intouchables."
-msgstr "Через роки, коли правда вийшла назовні, здавалося, що вони корумпували кожну державну установу. Вони були недоторканними."
+msgstr "Через роки, коли правда випливла назовні, з’ясувалося, що вони підкупили всі державні установи до єдиної. Їм усе сходило з рук."
 
 #. Character:`narrator`
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "talk_kimochi_6a82d9ed"
 msgid "Prostitution, trafic d'organe, esclavage, drogue et ce n'était que le haut de l'iceberg."
-msgstr "Проституція, торгівля органами, рабство, наркотики... І це лише верхівка криги."
+msgstr "Проституція, торгівля органами, рабство, наркотики... І це була лише верхівка айсберга."
 
 #. Character:`narrator`
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "talk_kimochi_a409ae00"
 msgid "La police ne faisait rien, elle était de toute façon contrôlée par le clan."
-msgstr "Поліція нічого не робила. Вона теж була під контролем клану."
+msgstr "Поліція нічого не робила. Вона теж перебувала під контролем клану."
 
 #. Character:`saito` | Attributes:`upset`
 #: game/story/home_kimochi_interior.dialogue
@@ -63952,25 +63952,25 @@ msgstr "Це катастрофа, {{kimochi.n}}!"
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "talk_kimochi_818da754"
 msgid "Je sais que parler de yakuza ça impressionne, mais il s'agit d'un petit clan mineur."
-msgstr "Я знаю, що розмова про Якудза може бути неприємною, але це лише маленький клан."
+msgstr "Розумію, що сама згадка про Якудза може тебе тривожити, але це лише невеликий клан."
 
 #. Character:`kimochi`
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "talk_kimochi_f70b7761"
 msgid "Pas de quoi fouetter un chat. Tu sais de nos jours à part faire des bubble tea, les yakusas ne font plus grand-chose."
-msgstr "Нічого страшного. Знаєш, Якудза зараз мало що робить, окрім як заварює чай з бульбашками."
+msgstr "Нічого страшного. Ти ж знаєш, що нині Якудза хіба що бабл-ті продають."
 
 #. Character:`saito`
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "talk_kimochi_05b2aed3"
 msgid "Fais-moi confiance là-dessus, ceux-là sont extrêmement dangereux."
-msgstr "Повір, вони дуже небезпечні."
+msgstr "Повір, ці люди надзвичайно небезпечні."
 
 #. Character:`saito`
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "talk_kimochi_0348b611"
 msgid "À tout hasard, as-tu déjà contacté la police ou les services sociaux ?"
-msgstr "Ти випадково не викликав поліцію чи соціальні служби?"
+msgstr "А ти часом не звертався до поліції чи соціальних служб?"
 
 #. Character:`kimochi`
 #: game/story/home_kimochi_interior.dialogue
@@ -63982,37 +63982,37 @@ msgstr "Так..."
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "talk_kimochi_4280a9bf"
 msgid "Laisse-moi deviner, ils ont voulu te mettre en garde à vue pour en savoir plus sur toi ?"
-msgstr "Дай вгадаю, вони хотіли взяти тебе під варту, щоб «дізнатися про тебе більше»?"
+msgstr "Дай вгадаю: вони хотіли взяти тебе під варту, щоб «дізнатися про тебе більше»?"
 
 #. Character:`kimochi` | Attributes:`frustrated`
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "talk_kimochi_1e6a3fe5"
 msgid "CO- Comment tu as su ?"
-msgstr "З-Звідки ти знаєш?"
+msgstr "Я-як ти здогадався?"
 
 #. Character:`narrator`
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "talk_kimochi_7a694400"
 msgid "Merde, ils sont déjà bien implantés dans la ville."
-msgstr "Чорт, вони вже добре зарекомендували себе в місті."
+msgstr "От лайно, вони вже міцно вкорінилися в цьому місті."
 
 #. Character:`saito` | Attributes:`sad`
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "talk_kimochi_b01c1755"
 msgid "Il va falloir être prudent à présent... Dis-toi que nos vies sont menacées."
-msgstr "Тепер нам треба бути обережними... Кажу тобі, наші життя в небезпеці."
+msgstr "Тепер нам доведеться бути обережними... Кажу тобі, наше життя в небезпеці."
 
 #. Character:`kimochi` | Attributes:`sad`
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "talk_kimochi_2e942a4e"
 msgid "Quoi ? À ce point ? Tu as l'air d'en savoir plus que moi."
-msgstr "Що? Справді? Здається, ти знаєш набагато більше за мене."
+msgstr "Що? Справді? Ти, схоже, знаєш набагато більше за мене."
 
 #. Character:`saito`
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "talk_kimochi_97ba2862"
 msgid "Je te garantis que je te dirai tout le moment venu, mais là, si on veut pouvoir sortir {{chiaki.n}} et {{natsume.n}} de ce merdier, il va nous falloir plus qu'un simple plan."
-msgstr "Запевняю тебе, я усе розповім, коли прийде час. Але наразі, якщо ми хочемо врятувати {{chiaki.n}} та {{natsume.n}} від небезпеки, нам знадобиться більше, ніж простий план."
+msgstr "Запевняю, коли настане час, я тобі все розповім. Але поки що, якщо ми хочемо вберегти {{chiaki.n}} й {{natsume.n}} від небезпеки, нам потрібно щось більше, ніж просто план."
 
 #. Character:`kimochi`
 #: game/story/home_kimochi_interior.dialogue
@@ -64030,43 +64030,43 @@ msgstr "Дівчина {{minato.n}}."
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "talk_kimochi_3111da4d"
 msgid "Mais elle est de quel côté ? Elle est au courant de ce qui se passe ?"
-msgstr "Як думаєш, на чиєму вона боці? Чи усвідомлює вона, що відбувається?"
+msgstr "Як думаєш, на чиєму вона боці? Вона знає, що відбувається?"
 
 #. Character:`saito`
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "talk_kimochi_7e3e0efb"
 msgid "Je n'en sais rien, c'est ce que je vais essayer de découvrir."
-msgstr "Не знаю, але спробую з'ясувати."
+msgstr "Не знаю, але спробую з’ясувати."
 
 #. Character:`kimochi`
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "talk_kimochi_26f65224"
 msgid "On ne peut pas aller voir la police tous les deux ?"
-msgstr "А якщо ми обидва підемо в поліцію?"
+msgstr "А що, як нам обом звернутися до поліції?"
 
 #. Character:`saito`
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "talk_kimochi_766c6017"
 msgid "La police n'interviendra pas, il y a des membres du clan dans la police."
-msgstr "Поліція нам не допоможе. У поліції працюють члени клану."
+msgstr "Поліція нам не допоможе. Серед них є члени цього клану."
 
 #. Character:`kimochi` | Attributes:`sad`
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "talk_kimochi_6e750445"
 msgid "Mais... Comment on va faire ?"
-msgstr "Тоді... Що ми будемо робити?"
+msgstr "Тоді... Що нам робити?"
 
 #. Character:`saito`
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "talk_kimochi_b44ca111"
 msgid "Il va falloir se préparer comme jamais."
-msgstr "Нам потрібно тренуватися. Більше, ніж будь-коли раніше."
+msgstr "Нам доведеться тренуватися. Як ніколи раніше."
 
 #. Character:`saito`
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "talk_kimochi_541a6a73"
 msgid "Trouver des renforts prêts à mettre leur vie en jeu."
-msgstr "Знайди більше людей, які будуть готові ризикувати своїм життям, щоб допомогти нам."
+msgstr "Знайти більше союзників, готових ризикувати власним життям заради нашої допомоги."
 
 #. Character:`saito` | Attributes:`upset`
 #: game/story/home_kimochi_interior.dialogue
@@ -64078,7 +64078,7 @@ msgstr "Ти готовий до цього?"
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "talk_kimochi_58596d72"
 msgid "Si je tourne le dos à une petite fille en détresse, je ne serais plus digne d'être considéré comme un homme."
-msgstr "Якщо я відвернуся від дівчини, яка потрапила в біду, я більше не буду гідний вважатися чоловіком."
+msgstr "Якщо я відвернуся від дівчини, яка потрапила в біду, то більше не буду гідний вважатися чоловіком."
 
 #. Character:`saito` | Attributes:`happy`
 #: game/story/home_kimochi_interior.dialogue
@@ -64090,31 +64090,31 @@ msgstr "Добре сказано."
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "talk_kimochi_f845be84"
 msgid "Je vais continuer de chercher des informations de mon côté, je te tiens informé dès que j'en apprendrai plus."
-msgstr "Я продовжу шукати інформацію, і як тільки дізнаюся більше, одразу ж дам тобі знати."
+msgstr "Я продовжу збирати інформацію й одразу повідомлю тобі, щойно щось дізнаюся."
 
 #. Character:`saito` | Attributes:`neutral`
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "talk_kimochi_c9353cf6"
 msgid "Ça marche !"
-msgstr "Це працює!"
+msgstr "Домовилися!"
 
 #. Character:`narrator`
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "talk_kimochi_1f961e4c"
 msgid "Bon, j'ai un allié de plus et un nouvel ennemi colossal qui vient d'apparaitre."
-msgstr "Що ж, схоже, у мене з'явився ще одна людина, і один новий колосальний ворог."
+msgstr "Що ж, схоже, у мене з’явився ще один союзник, а водночас постав новий колосальний ворог."
 
 #. Character:`narrator`
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "talk_kimochi_b5cdc75f"
 msgid "Et le fait de savoir que {{minato.n}} est lié à Lune sanglante..."
-msgstr "І знаючи, що {{minato.n}} пов'язаний з Кривавим місяцем..."
+msgstr "І знаючи, що {{minato.n}} пов’язаний із «Кривавим Місяцем»..."
 
 #. Character:`narrator`
 #: game/story/home_kimochi_interior.dialogue
 msgctxt "talk_kimochi_14bde82e"
 msgid "Est bien plus flippant que tout ce que j'aurais pu imaginer."
-msgstr "...набагато страшніше, ніж я міг собі уявити."
+msgstr "...лякає мене набагато більше, ніж будь-що, що я міг собі уявити."
 
 #. Character:`kimochi`
 #: game/story/home_kimochi_interior.dialogue
@@ -76360,13 +76360,13 @@ msgstr "Мені потрібно залишатися в тіні, поки я 
 #: game/story/home_asami_exterior.dialogue
 msgctxt "home_asami_exterior_8f47e2c4"
 msgid "Alors ? Qu'est-ce que tu penses de la nouvelle {{asami.n}} ?"
-msgstr "І? Що ти думаєш про нову {{asami.n}}?"
+msgstr "Ну що? Як тобі нова {{asami.n}}?"
 
 #. Character:`saito`
 #: game/story/home_asami_exterior.dialogue
 msgctxt "home_asami_exterior_e385705d"
 msgid "...Je suis sans voix, tu es...[w] magnifique."
-msgstr "...У мене немає слів. Ти...[w] неперевершена."
+msgstr "...У мене просто немає слів. Ти...[w] розкішна."
 
 #. Character:`saito` | Attributes:`happy`
 #: game/story/home_asami_exterior.dialogue
@@ -76384,13 +76384,13 @@ msgstr "Ти справді так думаєш?"
 #: game/story/home_asami_exterior.dialogue
 msgctxt "home_asami_exterior_867c1f4b"
 msgid "Oh que oui !"
-msgstr "О так!"
+msgstr "Ще б пак!"
 
 #. Character:`saito`
 #: game/story/home_asami_exterior.dialogue
 msgctxt "home_asami_exterior_33d4a4cc"
 msgid "Ça n'a pas été trop dur de changer totalement d'apparence en si peu de temps ?"
-msgstr "Чи не важко було повністю змінити свою зовнішність за такий короткий час?"
+msgstr "Тобі ж певно було непросто так кардинально змінити зовнішність за такий короткий час?"
 
 #. Character:`saito`
 #: game/story/home_asami_exterior.dialogue
@@ -76408,43 +76408,43 @@ msgstr "Як тобі це вдалося?"
 #: game/story/home_asami_exterior.dialogue
 msgctxt "home_asami_exterior_6bf891ed"
 msgid "Ah ça ? Eh bien, hmmm..."
-msgstr "А, це? Ну, гм..."
+msgstr "А, вони? Ну-у-у..."
 
 #. Character:`asami`
 #: game/story/home_asami_exterior.dialogue
 msgctxt "home_asami_exterior_6eac5e54"
 msgid "On a un jardin à l'abri des regards indiscrets."
-msgstr "У нас є сад, якомога далі від сторонніх очей."
+msgstr "У нас є садок, де ніхто не зможе підглядати."
 
 #. Character:`saito`
 #: game/story/home_asami_exterior.dialogue
 msgctxt "home_asami_exterior_c6489ca1"
 msgid "Oh, je vois."
-msgstr "А, зрозуміло."
+msgstr "А-а, зрозуміло."
 
 #. Character:`asami` | Attributes:`happy`
 #: game/story/home_asami_exterior.dialogue
 msgctxt "home_asami_exterior_1204ae8b"
 msgid "Allons au parc {{saito.n}} ! {{natsume.n}} doit nous attendre, elle n'a pas vu le résultat final de la transformation."
-msgstr "Ходімо в парк, {{saito.n}}! {{natsume.n}} чекає на нас, вона ще не бачила остаточного результату мого перетворення."
+msgstr "Ходімо в парк, {{saito.n}}! {{natsume.n}} певно вже чекає на нас. Вона ще не бачила остаточного результату мого перетворення."
 
 #. Character:`narrator`
 #: game/story/home_asami_exterior.dialogue
 msgctxt "home_asami_exterior_898513a1"
 msgid "Mince, elle doit pas être au courant que je me suis brouillé avec elle..."
-msgstr "Чорт, вона, мабуть, не знає, що я з нею посварився..."
+msgstr "Бляха, вона не знає, що ми з нею посварилися..."
 
 #. Character:`narrator`
 #: game/story/home_asami_exterior.dialogue
 msgctxt "home_asami_exterior_708fb377"
 msgid "Et {{minato.n}} étant un dangereux psychopathe, je ne sais pas si c'est une bonne idée de le rendre jaloux."
-msgstr "А оскільки {{minato.n}} — небезпечний псих, я не впевнений, що це гарна ідея — змушувати його ревнувати."
+msgstr "А оскільки {{minato.n}} — небезпечний псих, не знаю, чи варто змушувати його ревнувати."
 
 #. Character:`saito` | Attributes:`surprised`
 #: game/story/home_asami_exterior.dialogue
 msgctxt "home_asami_exterior_000166b3"
 msgid "Hey, attends-moi !"
-msgstr "Гей, зачекай на мене!"
+msgstr "Ей, зачекай на мене!"
 
 #. Character:`asami`
 #: game/story/home_asami_exterior.dialogue
@@ -116591,19 +116591,19 @@ msgstr "Я зможу його зловити, якщо скорочу залі�
 #: game/story/park.dialogue
 msgctxt "asami_choice_b74640bb"
 msgid "Tout va bien {{saito.n}} ?"
-msgstr "Усе в порядку, {{saito.n}}?"
+msgstr "{{saito.n}}, все нормально?"
 
 #. Character:`natsume` | Attributes:`surprised`
 #: game/story/park.dialogue
 msgctxt "asami_choice_8bc54c0d"
 msgid "Oh la vache, tu en fais une tête d'enterrement."
-msgstr "О, чорт, чому таке обличчя?"
+msgstr "Ого, чого такий кислий?"
 
 #. Character:`saito` | Attributes:`neutral`
 #: game/story/park.dialogue
 msgctxt "asami_choice_ac7f517f"
 msgid "...Tout va bien, vraiment. Du coup ? Cette séance shopping ?"
-msgstr "...Усе добре, правда. То як? Як пройшов шопінг?"
+msgstr "...Усе нормально, правда. Ну що, як пройшов шопінг?"
 
 #. Character:`natsume` | Attributes:`neutral`
 #: game/story/park.dialogue
@@ -116615,7 +116615,7 @@ msgstr "..."
 #: game/story/park.dialogue
 msgctxt "asami_choice_6a5be5de"
 msgid "C'était génial ! Je ne suis pas quelqu'un qui aime traîner dans les magasins, mais là..."
-msgstr "Це було круто! Зазвичай я не дуже люблю ходити по магазинах, але..."
+msgstr "Круто! Зазвичай я не дуже люблю ходити по крамницях, але..."
 
 #. Character:`asami`
 #: game/story/park.dialogue
@@ -116639,79 +116639,79 @@ msgstr "Вона ще не готова!"
 #: game/story/park.dialogue
 msgctxt "asami_choice_9f5cdb78"
 msgid "Comment ça ?"
-msgstr "Тобто?"
+msgstr "Ти про що?"
 
 #. Character:`natsume`
 #: game/story/park.dialogue
 msgctxt "asami_choice_fd1e1a85"
 msgid "La tenue, c'est une chose, mais le mental, c'en est une autre."
-msgstr "Вбрання — це одне, а мислення — зовсім інше."
+msgstr "Одяг — це одне, а мислення — зовсім інше."
 
 #. Character:`natsume` | Attributes:`happy`
 #: game/story/park.dialogue
 msgctxt "asami_choice_b2cec094"
 msgid "Si elle s'habille comme ça maintenant, elle ne ressemblera à rien avec ces traces de bronzages."
-msgstr "Якби вона вдягла це зараз, то виглядала б не дуже добре зі своїми лініями засмаги."
+msgstr "Якби вона одягла це просто зараз, її лінії засмаги все зіпсували б."
 
 #. Character:`asami` | Attributes:`pouting`
 #: game/story/park.dialogue
 msgctxt "asami_choice_3a0d0a56"
 msgid "Hey, c'est parce que je vais souvent à la piscine."
-msgstr "Ей, це тому, що я постійно ходжу в басейн."
+msgstr "Ей, вони там через те, що я постійно ходжу в басейн."
 
 #. Character:`natsume`
 #: game/story/park.dialogue
 msgctxt "asami_choice_b4e2ddb3"
 msgid "Tu ferais mieux de te baigner sans maillots !"
-msgstr "Тобі краще без купальника."
+msgstr "Тобі краще було б ходити туди без купальника."
 
 #. Character:`asami` | Attributes:`sad`
 #: game/story/park.dialogue
 msgctxt "asami_choice_7e85cda2"
 msgid "Oh... Je ne sais pas... c'est un peu osé, non ?"
-msgstr "Ох... Я не знаю... А це не занадто сміливо?"
+msgstr "Ой... Не знаю... А це не надто зухвало?"
 
 #. Character:`natsume`
 #: game/story/park.dialogue
 msgctxt "asami_choice_4f08d4a0"
 msgid "Si tu veux rendre jaloux tous ceux qui se sont moqués de ton côté garçon manqué, on va mettre le paquet."
-msgstr "Якщо ти хочеш змусити всіх, хто сміявся з твого прикиду, відчувати заздрість, треба викластися на повну."
+msgstr "Якщо хочеш, щоб усі, хто насміхався з твого образу пацанки, тепер тобі заздрили, треба діяти на повну."
 
 #. Character:`natsume`
 #: game/story/park.dialogue
 msgctxt "asami_choice_c07e2343"
 msgid "Tu dois apprendre à être à l'aise avec ton corps."
-msgstr "Потрібно навчитися відчувати себе комфортно у своєму тілі."
+msgstr "Тобі потрібно навчитися почуватися комфортно у власному тілі."
 
 #. Character:`asami` | Attributes:`neutral`
 #: game/story/park.dialogue
 msgctxt "asami_choice_80e5d102"
 msgid "Je comprends."
-msgstr "Гадаю, я розумію."
+msgstr "Здається, я розумію."
 
 #. Character:`natsume`
 #: game/story/park.dialogue
 msgctxt "asami_choice_c2f0c827"
 msgid "Tu ne dois plus avoir peur de la nudité, et surtout être familière avec l'anatomie masculine, héhé."
-msgstr "Не потрібно боятися відкрито показувати тіло, а тим більше знати чоловічу анатомію."
+msgstr "Не бійся відкрито показувати тіло. А ще тобі особливо потрібно більше знати чоловічу анатомію."
 
 #. Character:`asami`
 #: game/story/park.dialogue
 msgctxt "asami_choice_7558dac8"
 msgid "C'est-à-dire ?"
-msgstr "Що це означає?"
+msgstr "Тобто?"
 
 #. Character:`saito` | Attributes:`surprised`
 #: game/story/park.dialogue
 msgctxt "asami_choice_51b445fb"
 msgid "Qu'est-ce que tu comptes lui faire faire ?"
-msgstr "Що ти збираєшся з нею зробити?"
+msgstr "Що ти збираєшся з нею робити?"
 
 #. Character:`natsume`
 #: game/story/park.dialogue
 msgctxt "asami_choice_3c0b84bb"
 msgid "Ce n'est pas \"qu'est-ce que je vais lui faire\", mais plutôt qu'est-ce qu'elle va te faire ?"
-msgstr "Хіба справа не в тому, що я збираюся зробити з нею, а в тому, що вона збирається зробити з тобою?"
+msgstr "Хіба питання не в тому, що вона збирається зробити з тобою?"
 
 #. Character:`asami` | Attributes:`pouting`
 #: game/story/park.dialogue
@@ -116723,25 +116723,25 @@ msgstr "{{natsume.n}}!"
 #: game/story/park.dialogue
 msgctxt "asami_choice_17021a4c"
 msgid "Je crains le pire."
-msgstr "У мене погане передчуття."
+msgstr "Передчуваю щось недобре."
 
 #. Character:`natsume` | Attributes:`happy`
 #: game/story/park.dialogue
 msgctxt "asami_choice_f901ba7c"
 msgid "Rien de bien méchant, ne t'en fais pas. Tu me remercieras après."
-msgstr "Нічого поганого, повір мені. Ти мені ще подякуєш."
+msgstr "Та нічого поганого, повір мені. Потім ще подякуєш."
 
 #. Character:`natsume`
 #: game/story/park.dialogue
 msgctxt "asami_choice_658c78fe"
 msgid "Sur ce, je vous laisse, j'ai à faire, je te laisse entre de bonnes mains."
-msgstr "Так чи інакше, я мушу з вами попрощатися. У мене є справи, і я залишаю тебе у надійних руках."
+msgstr "Усе, мушу з вами залишити. В мене справи, а тебе я залишаю в надійних руках."
 
 #. Character:`asami`
 #: game/story/park.dialogue
 msgctxt "asami_choice_949cdf8f"
 msgid "Rhoo, celle-là !"
-msgstr "Ох, ця дівчина!"
+msgstr "Ох, ну й дівчина!"
 
 #. Character:`saito` | Attributes:`happy`
 #: game/story/park.dialogue
@@ -116753,7 +116753,7 @@ msgstr "Щось не так?"
 #: game/story/park.dialogue
 msgctxt "asami_choice_5ef565a0"
 msgid "Non, je... tout va bien."
-msgstr "Ні, я... Я в порядку."
+msgstr "Та ні, я... я в порядку."
 
 #. Character:`saito`
 #: game/story/park.dialogue
@@ -116765,7 +116765,7 @@ msgstr "Вибач. Я досі нічого для тебе не зробив."
 #: game/story/park.dialogue
 msgctxt "asami_choice_9ac40ff3"
 msgid "Ne dis pas ça, c'est grâce à toi que je peux faire tout ça."
-msgstr "Не кажи так. Я зайшла так далеко тільки завдяки тобі."
+msgstr "Не кажи так. Я зайшла так далеко лише завдяки тобі."
 
 #. Character:`asami`
 #: game/story/park.dialogue
@@ -116777,43 +116777,43 @@ msgstr "Я більше не хочу виглядати як пацанка."
 #: game/story/park.dialogue
 msgctxt "asami_choice_63d3d8cf"
 msgid "Le rejet de {{minato.n}} m'a fait comprendre qu'on me regardait comme une gamine et non comme une femme."
-msgstr "Відмова {{minato.n}} дала мені зрозуміти, що люди сприймали мене як дитину, а не як жінку."
+msgstr "Відмова {{minato.n}} дала мені зрозуміти, що інші сприймають мене як дитину, а не як жінку."
 
 #. Character:`saito`
 #: game/story/park.dialogue
 msgctxt "asami_choice_3b43f4b6"
 msgid "Tu n'es pas obligée de le faire aussi vite, tu peux prendre ton temps."
-msgstr "Тобі не потрібно змінюватися так швидко, ти можеш не поспішати."
+msgstr "Тобі зовсім не обов’язково так швидко змінюватися. Можеш не поспішати."
 
 #. Character:`asami`
 #: game/story/park.dialogue
 msgctxt "asami_choice_c326ea64"
 msgid "Non, de la même façon que tu enlèves un pansement, il faut tirer d'un coup sec."
-msgstr "Ні, це як зняти пластир. Його треба відірвати одним швидким ривком."
+msgstr "Ні, це як пластир здерти. Треба різко смикнути — і все."
 
 #. Character:`saito`
 #: game/story/park.dialogue
 msgctxt "asami_choice_2b27740b"
 msgid "Je vois..."
-msgstr "Зрозуміло..."
+msgstr "Розумію..."
 
 #. Character:`asami`
 #: game/story/park.dialogue
 msgctxt "asami_choice_890d811d"
 msgid "{{saito.n}}...[w] Tu veux bien me suivre ?"
-msgstr "{{saito.n}}...[w] Ти можеш піти зі мною?"
+msgstr "{{saito.n}}...[w] Можеш піти зі мною?"
 
 #. Character:`saito`
 #: game/story/park.dialogue
 msgctxt "asami_choice_52a94886"
 msgid "Bien sûr, mais où ?"
-msgstr "Звичайно, а куди?"
+msgstr "Звісно, куди?"
 
 #. Character:`asami`
 #: game/story/park.dialogue
 msgctxt "asami_choice_187800ce"
 msgid "Ferme les yeux et prends ma main. Ne triche pas surtout !"
-msgstr "Заплющ очі та візьми мене за руку. І не підглядай!"
+msgstr "Заплющ очі й візьми мене за руку. І не підглядай!"
 
 #. Character:`saito` | Attributes:`surprised`
 #: game/story/park.dialogue
@@ -116825,7 +116825,7 @@ msgstr "Д-Добре!"
 #: game/story/park.dialogue
 msgctxt "asami_choice_bccbf31a"
 msgid "Attention à la marche."
-msgstr "Обережно."
+msgstr "Дивись під ноги."
 
 #. Character:`asami`
 #: game/story/park.dialogue
@@ -116837,61 +116837,61 @@ msgstr "Пройди трохи сюди."
 #: game/story/park.dialogue
 msgctxt "asami_choice_ec9e0155"
 msgid "Voila... Colle-toi contre le mur comme ça."
-msgstr "Сюди... Стань спиною до стіни, ось так."
+msgstr "Ось... Стань спиною до стіни, отак."
 
 #. Character:`saito`
 #: game/story/park.dialogue
 msgctxt "asami_choice_e6435803"
 msgid "Hé, qu'est-ce que...."
-msgstr "Гей, що ти..."
+msgstr "Ей, що ти..."
 
 #. Character:`asami`
 #: game/story/park.dialogue
 msgctxt "asami_choice_5db3a3d3"
 msgid "Tu... tu n'as pas envie ?"
-msgstr "Ти що... Не хочеш, щоб я це зробила?"
+msgstr "Ти... Ти не хочеш, щоб я це зробила?"
 
 #. Character:`narrator`
 #: game/story/park.dialogue
 msgctxt "asami_choice_30fabff3"
 msgid "Wow, la vache, elle s'apprêtait vraiment à me sucer sans prévenir ?"
-msgstr "Ого, чорт, вона справді збиралася відсмоктати мені, не попередивши мене?"
+msgstr "Їбать, невже вона й справді зібралася відсмоктати мені, не попередивши мене?"
 
 #. Character:`narrator`
 #: game/story/park.dialogue
 msgctxt "asami_choice_237cc366"
 msgid "Qu'est-ce que {{natsume.n}} a bien pu lui mettre dans la tête ?"
-msgstr "Які ідеї {{natsume.n}} вклала в її голову?"
+msgstr "Які ідеї {{natsume.n}} встигла їй навіяти?"
 
 #. Character:`narrator`
 #: game/story/park.dialogue
 msgctxt "asami_choice_9b1048b4"
 msgid "Je ne m'y attendais vraiment pas..."
-msgstr "Я справді не очікував такого..."
+msgstr "Я такого точно не очікував..."
 
 #. Character:`saito`
 #: game/story/park.dialogue
 msgctxt "asami_choice_c422b8a5"
 msgid "Si... Si bien au contraire."
-msgstr "Так... Так, я знаю."
+msgstr "Так... Так, хочу."
 
 #. Character:`asami`
 #: game/story/park.dialogue
 msgctxt "asami_choice_85a8e325"
 msgid "Je sais que ça doit te paraitre un peu rapide, mais..."
-msgstr "Ти, мабуть, думаєш, що я роблю надто швидко, але..."
+msgstr "Ти певно думаєш, що я надто поспішаю, але..."
 
 #. Character:`asami`
 #: game/story/park.dialogue
 msgctxt "asami_choice_f1596dae"
 msgid "Elle m'a dit que je devais arrêter les glaces à l'eau et passer aux choses sérieuses."
-msgstr "Вона сказала, що я маю припинити бавитися і почати ставитися до цього серйозно."
+msgstr "Вона сказала, що мені час припинити дуріти й почати ставитися до всього серйозно."
 
 #. Character:`asami`
 #: game/story/park.dialogue
 msgctxt "asami_choice_f99205ca"
 msgid "Je n'avais pas compris tout de suite de quoi elle parlait."
-msgstr "Спочатку я не зрозуміла, про що вона говорить."
+msgstr "Спочатку я не розуміла про що вона."
 
 #. Character:`asami`
 #: game/story/park.dialogue
@@ -116903,13 +116903,13 @@ msgstr "Але тепер..."
 #: game/story/park.dialogue
 msgctxt "asami_choice_e0adecce"
 msgid "C'est la première fois que je fais ça, c'est pour te remercier du mal que tu t'es donné."
-msgstr "Я роблю це вперше, але хочу подякувати тобі за все, що ти зробив для мене."
+msgstr "Я роблю це вперше, але хочу подякувати тобі за все, на що ти пішов заради мене."
 
 #. Character:`saito`
 #: game/story/park.dialogue
 msgctxt "asami_choice_d8c2184e"
 msgid "Mais tu sais, tu n'es pas obligé d-"
-msgstr "Знаєш, ти не маєш..."
+msgstr "Знаєш, тобі зовсім не обов’язково..."
 
 #. Character:`asami`
 #: game/story/park.dialogue
@@ -116921,19 +116921,19 @@ msgstr "А тепер помовч."
 #: game/story/park.dialogue
 msgctxt "asami_choice_060fc720"
 msgid "Hmmmm, hmmmm..."
-msgstr "Хм, м-м-м..."
+msgstr "М-м-м, м-м-м..."
 
 #. Character:`narrator`
 #: game/story/park.dialogue
 msgctxt "asami_choice_170afae5"
 msgid "[i]*Bruits de succion*[/i]"
-msgstr "[i]*Звук смоктання*[/i]"
+msgstr "[i]*Звуки смоктання*[/i]"
 
 #. Character:`saito`
 #: game/story/park.dialogue
 msgctxt "asami_choice_ae88312e"
 msgid "Oh la vache, je n'étais pas préparé à ça !"
-msgstr "О, чорт, я не був готовий до цього!"
+msgstr "Ох, бля, я до такого не був готовий!"
 
 #. Character:`saito`
 #: game/story/park.dialogue
@@ -116945,13 +116945,13 @@ msgstr "Це..."
 #: game/story/park.dialogue
 msgctxt "asami_choice_50338b04"
 msgid "Où as-tu appris un truc pareil... ?"
-msgstr "Де ти цього навчилася...?"
+msgstr "Де ти навчилася такому...?"
 
 #. Character:`asami`
 #: game/story/park.dialogue
 msgctxt "asami_choice_777df40d"
 msgid "Hmmm- Slurp- Hmm, mmmmm..."
-msgstr "Хм-м-м... сьорб... хм-м, м-м-м-м-м..."
+msgstr "М-м-м... *сьорб*... м-м-м..."
 
 #. Character:`saito`
 #: game/story/park.dialogue
@@ -116969,7 +116969,7 @@ msgstr "М-м-м-мх, м-м-мх..."
 #: game/story/park.dialogue
 msgctxt "asami_choice_bd0678eb"
 msgid "Ah... Je sens que ça vient !"
-msgstr "Ах... Я відчуваю, що зараз кінчу!"
+msgstr "А-а... Я відчуваю, що вже кінчу!"
 
 #. Character:`saito`
 #: game/story/park.dialogue
@@ -116981,7 +116981,7 @@ msgstr "Хм-м-м... м-м-м-м..."
 #: game/story/park.dialogue
 msgctxt "asami_choice_51cbd8e2"
 msgid "Alors, c'était comment ?"
-msgstr "Ну, і як воно було?"
+msgstr "Ну як тобі?"
 
 #. Character:`saito`
 #: game/story/park.dialogue
@@ -116993,31 +116993,31 @@ msgstr "Це було просто чудово."
 #: game/story/park.dialogue
 msgctxt "asami_choice_5b0b0ac3"
 msgid "{{asami.n}} est beaucoup plus douce que {{noriko.n}}."
-msgstr "{{asami.n}} набагато ніжніша, ніж {{noriko.n}}."
+msgstr "{{asami.n}} набагато ніжніша за {{noriko.n}}."
 
 #. Character:`narrator`
 #: game/story/park.dialogue
 msgctxt "asami_choice_9962d76a"
 msgid "Et au moins, je n'ai pas senti ses dents..."
-msgstr "І зубів я теж не відчув..."
+msgstr "І її зубів я теж не відчував..."
 
 #. Character:`narrator`
 #: game/story/park.dialogue
 msgctxt "asami_choice_0ed79176"
 msgid "Ma nouvelle vie est vraiment intéressante."
-msgstr "Моє нове життя дійсно цікаве."
+msgstr "Моє нове життя й справді цікаве."
 
 #. Character:`asami`
 #: game/story/park.dialogue
 msgctxt "asami_choice_0ac1a333"
 msgid "{{natsume.n}} m'a montrée plein de vidéos..."
-msgstr "{{natsume.n}} показала мені багато відео..."
+msgstr "{{natsume.n}} показала мені купу відео..."
 
 #. Character:`asami`
 #: game/story/park.dialogue
 msgctxt "asami_choice_13783061"
 msgid "Et elle m'a surtout dit et je la cite \"La meilleure façon de garder son mec, c'est de lui montrer que tu es sa meilleure option.\""
-msgstr "А найбільше вона сказала мені, цитую: «Найкращий спосіб утримати свого хлопця — це показати йому, що ти найкращий варіант для нього.»"
+msgstr "А найголовніше — вона сказала мені, цитую: «Найкращий спосіб утримати хлопця — показати йому, що кращого варіанту за тебе для нього немає»."
 
 #. Character:`saito`
 #: game/story/park.dialogue
@@ -117029,7 +117029,7 @@ msgstr "О! І ти з цим згодна?"
 #: game/story/park.dialogue
 msgctxt "asami_choice_2b02ee92"
 msgid "Tu as l'intention d'aller voir ailleurs ?"
-msgstr "Ти плануєш шукати деінде?"
+msgstr "А ти плануєш шукати когось на стороні?"
 
 #. Character:`narrator`
 #: game/story/park.dialogue
@@ -117047,73 +117047,73 @@ msgstr "Тільки через мій труп"
 #: game/story/park.dialogue
 msgctxt "asami_choice_9ef2ab04"
 msgid "Et quand est-ce que je m'occupe de toi ?"
-msgstr "То коли я зможу віддячити?"
+msgstr "То коли мені випаде нагода віддячити тобі тим самим?"
 
 #. Character:`asami` | Attributes:`neutral`
 #: game/story/park.dialogue
 msgctxt "asami_choice_0ac8673b"
 msgid "Je... Je ne suis pas encore prête, mais ne t'inquiète pas."
-msgstr "Я... Я ще не готова, але не хвилюйся."
+msgstr "Я... Ще не готова, але не хвилюйся."
 
 #. Character:`asami` | Attributes:`happy`
 #: game/story/park.dialogue
 msgctxt "asami_choice_c4e611fd"
 msgid "J'ai encore des progrès à faire."
-msgstr "Мені ще є над чим працювати."
+msgstr "Мені ще є куди вдосконалюватися."
 
 #. Character:`narrator`
 #: game/story/park.dialogue
 msgctxt "asami_choice_267ae4c1"
 msgid "Elle lui a totalement retourné le cerveau ma parole."
-msgstr "Чорт, вона повністю промила їй мізки."
+msgstr "Чорт, вона геть промила їй мізки."
 
 #. Character:`narrator`
 #: game/story/park.dialogue
 msgctxt "asami_choice_b836d2b8"
 msgid "Mais bon, c'est ce qu'elle voulait."
-msgstr "Але це те, чого вона хотіла."
+msgstr "Але ж саме цього вона й хотіла."
 
 #. Character:`narrator`
 #: game/story/park.dialogue
 msgctxt "asami_choice_ea7364d5"
 msgid "Pourquoi je m'en plaindrai ?"
-msgstr "На що мені скаржитися?"
+msgstr "То чого мені скаржитися?"
 
 #. Character:`narrator`
 #: game/story/park.dialogue
 msgctxt "asami_choice_32fb36b2"
 msgid "Faut que je chasse de mon esprit ce sentiment de culpabilité après tout."
-msgstr "Мені потрібно позбутися відчуття провини."
+msgstr "Треба викинути з голови це почуття провини."
 
 #. Character:`narrator`
 #: game/story/park.dialogue
 msgctxt "asami_choice_59452e29"
 msgid "Je me fais sucer par une fille super mignonne alors que dans ma précédente vie, j'avais dû payer pour ça."
-msgstr "Мені смокчу супермила дівчина, тоді як у попередньому житті мені доводилося за таке платити."
+msgstr "Мені смокче супермила дівчина, тоді як у минулому житті за таке доводилося платити."
 
 #. Character:`narrator`
 #: game/story/park.dialogue
 msgctxt "asami_choice_f7cdaf90"
 msgid "On verra comment les choses vont évoluer."
-msgstr "Побачимо, що буде далі."
+msgstr "Подивимося, що буде далі."
 
 #. Character:`saito`
 #: game/story/park.dialogue
 msgctxt "asami_choice_a731cfeb"
 msgid "Je comprends."
-msgstr "Я розумію."
+msgstr "Зрозумів."
 
 #. Character:`asami`
 #: game/story/park.dialogue
 msgctxt "asami_choice_5ef0c486"
 msgid "Il faut que je te laisse, {{natsume.n}} m'a donné tout un programme à suivre."
-msgstr "Мені треба йти. {{natsume.n}} дала мені цілу програму, якої я маю дотримуватися."
+msgstr "Мені вже час іти. {{natsume.n}} дала мені цілу програму, якої треба дотримуватися."
 
 #. Character:`saito` | Attributes:`happy`
 #: game/story/park.dialogue
 msgctxt "asami_choice_ee50aa6d"
 msgid "Ah !? Ça consiste en quoi ?"
-msgstr "А!? Про що вона?"
+msgstr "А?! І про що вона?"
 
 #. Character:`asami` | Attributes:`happy`
 #: game/story/park.dialogue
@@ -117125,7 +117125,7 @@ msgstr "Хе-хе, це секрет."
 #: game/story/park.dialogue
 msgctxt "park_811b939a"
 msgid "Je suis arrivé à temps, on dirait..."
-msgstr "Здається, я прийшов вчасно..."
+msgstr "Схоже, я встиг вчасно..."
 
 #. Character:`saito`
 #: game/story/park.dialogue
@@ -117137,13 +117137,13 @@ msgstr "Сподіваюся, {{macumba.n}} не забув про мене."
 #: game/story/park.dialogue
 msgctxt "park_bc42b592"
 msgid "Tiens, tiens, tiens, si c'est pas {{saito.n}} le déchet."
-msgstr "Ну, ну, якщо це не {{saito.n}}, то мудак."
+msgstr "Ну-ну, хто це в нас тут? Сам {{saito.n}}, довбаний мудак."
 
 #. Character:`takeo`
 #: game/story/park.dialogue
 msgctxt "park_16cbbc47"
 msgid "Mais c'est qu'il est venu, ma parole. {{kenji.n}}, tu me dois 10 000¥ !"
-msgstr "Схоже, він справді прийшов, {{kenji.n}}. Ти винен мені 10 000¥!"
+msgstr "Схоже, він таки прийшов, {{kenji.n}}. Ти сторчиш мені 10 000¥!"
 
 #. Character:`kenji`
 #: game/story/park.dialogue
@@ -117155,19 +117155,19 @@ msgstr "Трясця!"
 #: game/story/park.dialogue
 msgctxt "park_b386e0f6"
 msgid "Raboule le fric."
-msgstr "Давай гроші."
+msgstr "Гони гроші."
 
 #. Character:`kenji`
 #: game/story/park.dialogue
 msgctxt "park_07ba5ad0"
 msgid "C'est le déchet qui a mon billet de 10 000¥."
-msgstr "Це той покидьок, в якого мої 10 000¥."
+msgstr "Це ж той покидьок, через якого я проїбав свої 10 000¥."
 
 #. Character:`takeo`
 #: game/story/park.dialogue
 msgctxt "park_1385cd16"
 msgid "T'as entendu, tu me dois 10 000, et les intérêts doublent chaque jour."
-msgstr "Ти чув його, ти винен мені 10 000¥, і відсотки подвоюються кожного дня."
+msgstr "Сам чув. Ти сторчиш мені 10 000¥, а відсотки щодня подвоюватимуться."
 
 #. Character:`saito` | Attributes:`upset`
 #: game/story/park.dialogue
@@ -117179,13 +117179,13 @@ msgstr "У мене немає грошей..."
 #: game/story/park.dialogue
 msgctxt "park_d7e122ec"
 msgid "Toujours de la mauvaise volonté, c'est pas croyable."
-msgstr "Ти завжди такий неохочий, що це неймовірно."
+msgstr "Ти завжди такий скупий, просто неймовірно."
 
 #. Character:`takeo`
 #: game/story/park.dialogue
 msgctxt "park_d4109777"
 msgid "Est-ce qu'au moins les filles sont là ?"
-msgstr "Принаймні дівчата тут, так?"
+msgstr "Хоч дівчата тут?"
 
 #. Character:`saito` | Attributes:`sad`
 #: game/story/park.dialogue
@@ -117197,73 +117197,73 @@ msgstr "...[w] Так."
 #: game/story/park.dialogue
 msgctxt "park_3972784a"
 msgid "T'es vraiment la pire des raclures quand même. Tu livres tes deux amies aux premiers thugs venus."
-msgstr "Ти справді найгірший, ти це знаєш? Ти віддаєш своїх двох подружок першим головорізам, яких бачиш."
+msgstr "Ти й справді остання паскуда, знаєш? Віддаєш своїх двох дівчат першому-ліпшому бандюгану."
 
 #. Character:`kenji`
 #: game/story/park.dialogue
 msgctxt "park_c092f9a9"
 msgid "Je suis sûr qu'elles avaient confiance en toi..."
-msgstr "Я впевнений, що вони тобі довіряли..."
+msgstr "А вони ж певно тобі довіряли..."
 
 #. Character:`takeo` | Attributes:`mocking`
 #: game/story/park.dialogue
 msgctxt "park_72ede46a"
 msgid "Elles vont pas être déçues."
-msgstr "Вони не будуть розчаровані."
+msgstr "Не розчаруються."
 
 #. Character:`nobu` | Attributes:`angry`
 #: game/story/park.dialogue
 msgctxt "park_eb172038"
 msgid "Allez, j'en peux plus, faut que je me fasse sucer et vite."
-msgstr "Нумо, я не можу більше чекати. Мене потрібно, щоб хтось відсмоктав, швидко."
+msgstr "Та годі вже, я більше не можу чекати. Мені терміново треба, щоб мені відсмоктали!"
 
 #. Character:`takeo`
 #: game/story/park.dialogue
 msgctxt "park_02b6d8ab"
 msgid "Je prends la blonde, j'ai un fantasme avec les étrangères."
-msgstr "Я візьму біляву. Люблю іноземних дівчат."
+msgstr "Я заберу білявку. Обожнюю іноземок."
 
 #. Character:`kenji`
 #: game/story/park.dialogue
 msgctxt "park_72edc34d"
 msgid "Je prends le garçon manqué, je suis sûr que je peux la faire couiner comme une femme."
-msgstr "Я беру пацанку. Упевнений, що зможу змусити її скиглити, як дівчина."
+msgstr "А я беру пацанку. Впевнений, що змушу її скиглити, як справжню дівчину."
 
 #. Character:`nobu` | Attributes:`-angry`
 #: game/story/park.dialogue
 msgctxt "park_3375984f"
 msgid "Hey ! Et moi ?"
-msgstr "Агов! А я?"
+msgstr "Ей! А мені що?"
 
 #. Character:`takeo` | Attributes:`mocking`
 #: game/story/park.dialogue
 msgctxt "park_8d6f4d7b"
 msgid "Toi, tu te pignoles et tu filmes."
-msgstr "Ти можеш дрочити й усе записувати."
+msgstr "Ти будеш дрочити й записувати все на відео."
 
 #. Character:`kenji` | Attributes:`angry`
 #: game/story/park.dialogue
 msgctxt "park_53f5e177"
 msgid "Fais pas chier, tu passeras après."
-msgstr "Не хвилюйся. Ти можеш перейти далі, коли ми закінчимо."
+msgstr "Не нуди. Наступним будеш ти, коли ми закінчимо."
 
 #. Character:`nobu` | Attributes:`angry`
 #: game/story/park.dialogue
 msgctxt "park_4a4c1de6"
 msgid "Putain, vous êtes vraiment des crevards."
-msgstr "Чорт, ви справді мудаки."
+msgstr "От лайно, ну ви й мудаки."
 
 #. Character:`takeo`
 #: game/story/park.dialogue
 msgctxt "park_d3fbbfd6"
 msgid "Allez les filles, ne soyez pas timides, on va vous faire oublier l'autre loque."
-msgstr "Нумо, дівчата, не соромтеся. Ми змусимо вас забути про цього невдаху."
+msgstr "Нумо, дівчата, не соромтеся. Ми допоможемо вам забути про того невдаху."
 
 #. Character:`kenji` | Attributes:`bad`
 #: game/story/park.dialogue
 msgctxt "park_6ffe926c"
 msgid "Si vous montrez de la bonne volonté, tout se passera bien et vous y prendrez même beaucoup de plaisir."
-msgstr "Усе буде добре, якщо ти просто покажеш нам свою хорошу сторону, і ти навіть добре проведеш час."
+msgstr "Усе буде добре, якщо покажете нам, на що здатні. Навіть отримаєте задоволення."
 
 #. Character:`macumba`
 #: game/story/park.dialogue
@@ -117281,7 +117281,7 @@ msgstr "Чорт!"
 #: game/story/park.dialogue
 msgctxt "park_0169d3d3"
 msgid "Petit frère ne m'avait pas dit que c'était aussi les responsables de la destruction de mon ancien walkman."
-msgstr "Братику, ти не сказав мені, що вони також знищили мій старий плеєр."
+msgstr "Братику, ти не казав, що саме вони розтрощили мій старий плеєр."
 
 #. Character:`macumba` | Attributes:`happy`
 #: game/story/park.dialogue
@@ -117293,55 +117293,55 @@ msgstr "Це найкращий день у моєму житті."
 #: game/story/park.dialogue
 msgctxt "park_2bb79539"
 msgid "Putain de déchet, tu vas regr-"
-msgstr "Довбаний мудак, ти будеш відпиз-"
+msgstr "Довбаний виродку, ти зараз пошкоду..."
 
 #. Character:`kenji`
 #: game/story/park.dialogue
 msgctxt "park_a8aba9eb"
 msgid "Merde... {{takeo.n}} s'est fait éclater."
-msgstr "Чорт... {{takeo.n}} був вибитий начисто!"
+msgstr "Чорт... {{takeo.n}} просто вирубили одним ударом!"
 
 #. Character:`nobu`
 #: game/story/park.dialogue
 msgctxt "park_44378337"
 msgid "Il sert à rien, laisse tomber, on lui saute dessus !"
-msgstr "Не зважай на нього, він нікудишній! Нумо знищимо цього хлопця!"
+msgstr "Забий на нього, він ні на що не здатний! Покінчімо з цим типом!"
 
 #. Character:`macumba`
 #: game/story/park.dialogue
 msgctxt "park_7edbd353"
 msgid "Ne touchez plus un seul cheveu de mon petit frère."
-msgstr "Тобі краще більше не торкатися волосини на голові мого брата."
+msgstr "Краще вам більше й волосини не торкнутися на голові мого брата."
 
 #. Character:`nobu`
 #: game/story/park.dialogue
 msgctxt "park_fcded0b7"
 msgid "Pourquoi ? C'est ta petite pute ? Tu lui casses le cul tous les jours ?"
-msgstr "Чому? Він твоя маленька повія? Ти щодня трахаєш його дупу?"
+msgstr "А що таке? Він твоя маленька повія? Ти щодня трахаєш його сраку?"
 
 #. Character:`macumba`
 #: game/story/park.dialogue
 msgctxt "park_ceaf582b"
 msgid "Vous êtes bien trop irrespectueux."
-msgstr "Ти надто неповажний..."
+msgstr "Ви поводитеся вкрай нешанобливо..."
 
 #. Character:`macumba`
 #: game/story/park.dialogue
 msgctxt "park_c9c86d85"
 msgid "{{saito.n}} est mon ami et je ne laisserai personne lui manquer de respect !"
-msgstr "{{saito.n}} мій друг, і я ніколи не дозволю нікому зневажати його!"
+msgstr "{{saito.n}} — мій друг, і я нікому не дозволю його ображати!"
 
 #. Character:`kenji`
 #: game/story/park.dialogue
 msgctxt "park_e24b68fc"
 msgid "Okay, on a compris, on recommencera plus !"
-msgstr "Добре, ми розуміємо, більше так не робитимемо!"
+msgstr "Гаразд, ми все зрозуміли, більше такого не повториться!"
 
 #. Character:`macumba`
 #: game/story/park.dialogue
 msgctxt "park_f4164179"
 msgid "Vraiment ?"
-msgstr "Обіцяєш?"
+msgstr "Чесно?"
 
 #. Character:`kenji`
 #: game/story/park.dialogue
@@ -117359,217 +117359,217 @@ msgstr "Добре, я задоволений!"
 #: game/story/park.dialogue
 msgctxt "park_aabc825d"
 msgid "Je peux partir maintenant ?"
-msgstr "Чи можу я піти зараз?"
+msgstr "Тепер я можу йти?"
 
 #. Character:`macumba`
 #: game/story/park.dialogue
 msgctxt "park_c4d4361c"
 msgid "Impossible, mon walkman réclame vengeance."
-msgstr "Я боюся, що це неможливо. Привид мого плеєра кличе до помсти."
+msgstr "Боюся, це неможливо. Привид мого плеєра вимагає помсти."
 
 #. Character:`kenji`
 #: game/story/park.dialogue
 msgctxt "park_d69b7ea7"
 msgid "M-"
-msgstr "Але..."
+msgstr "А..."
 
 #. Character:`macumba` | Attributes:`happy`
 #: game/story/park.dialogue
 msgctxt "park_5845997e"
 msgid "Et voilà, petit frère !"
-msgstr "Ось і ми!"
+msgstr "Ну, почнімо!"
 
 #. Character:`saito`
 #: game/story/park.dialogue
 msgctxt "park_27409093"
 msgid "...[w] Merci pour tout {{macumba.n}}."
-msgstr "...[w] Дякую за все, {{macumba.n}}."
+msgstr "...[w] Дякую тобі за все, {{macumba.n}}."
 
 #. Character:`macumba`
 #: game/story/park.dialogue
 msgctxt "park_d1283139"
 msgid "C'est normal, les amis se serrent les coudent."
-msgstr "Це нормально, коли друзі допомагають один одному."
+msgstr "Друзі для того й потрібні, щоб допомагати одне одному."
 
 #. Character:`saito` | Attributes:`happy`
 #: game/story/park.dialogue
 msgctxt "park_30c67a41"
 msgid "J'ai vraiment de la chance d'avoir croisé ta route."
-msgstr "Я дуже радий, що зустрівся з тобою."
+msgstr "Я дуже радий, що зустрів тебе."
 
 #. Character:`macumba` | Attributes:`happy`
 #: game/story/park.dialogue
 msgctxt "park_2da72980"
 msgid "Ne dis pas ça petit frère, c'est moi qui suis chanceux."
-msgstr "З моєї точки зору, мені пощастило."
+msgstr "А я, зі свого боку, вважаю, що мені пощастило ще більше."
 
 #. Character:`macumba` | Attributes:`sad`
 #: game/story/park.dialogue
 msgctxt "park_8ec86b11"
 msgid "Personne ne m'approchait avant, je suis un étranger ici et les gens avaient peur de moi."
-msgstr "До мене ніхто ніколи не звертався. Я тут іноземець, і люди мене боялися."
+msgstr "Раніше ніхто ніколи не намагався зі мною потоваришувати. Я тут іноземець, і люди мене боялися."
 
 #. Character:`macumba` | Attributes:`-sad`
 #: game/story/park.dialogue
 msgctxt "park_98d6c717"
 msgid "Grâce à toi, j'ai une nouvelle motivation de me lever le matin."
-msgstr "Завдяки тобі я маю нову мотивацію вставати з ліжка щоранку."
+msgstr "Завдяки тобі я щоранку прокидаюся з новою мотивацією."
 
 #. Character:`macumba`
 #: game/story/park.dialogue
 msgctxt "park_5bcc94d7"
 msgid "Tu es mon premier ami ici."
-msgstr "Ти тут мій перший друг."
+msgstr "Ти мій перший друг тут."
 
 #. Character:`saito` | Attributes:`sad`
 #: game/story/park.dialogue
 msgctxt "park_cdd32440"
 msgid "Je... Je ne savais pas. Tout d'un coup, c'est beaucoup de pression."
-msgstr "Я... Я не знав. Раптом я відчуваю сильний тиск."
+msgstr "Я... Я й не знав. Тепер раптом відчуваю величезну відповідальність."
 
 #. Character:`macumba` | Attributes:`happy`
 #: game/story/park.dialogue
 msgctxt "park_0101f38b"
 msgid "Petit frère, ne t'inquiète pas, tout ira bien dorénavant, je couvrirais tes arrières."
-msgstr "Не переживай, тепер усе буде добре. Я з тобою."
+msgstr "Не переживай, тепер усе буде добре. Я тебе не підведу."
 
 #. Character:`macumba`
 #: game/story/park.dialogue
 msgctxt "park_1aa8da10"
 msgid "À très vite !"
-msgstr "Побачимось!"
+msgstr "Ще побачимось!"
 
 #. Character:`saito` | Attributes:`happy`
 #: game/story/park.dialogue
 msgctxt "park_32c58094"
 msgid "À bientôt, {{macumba.n}}."
-msgstr "Побачимось, {{macumba.n}}."
+msgstr "Бувай, {{macumba.n}}."
 
 #. Character:`narrator`
 #: game/story/park.dialogue
 msgctxt "park_80d29890"
 msgid "Mon Dieu... Il les a tellement défoncés."
-msgstr "Боже мій... Він їх знищив."
+msgstr "О боже... Він їх просто розніс."
 
 #. Character:`narrator`
 #: game/story/park.dialogue
 msgctxt "park_5d65362c"
 msgid "J'arrive pas à croire que je vais être tranquille à présent."
-msgstr "Не можу повірити все ще, що відтепер я буду в безпеці."
+msgstr "Усе ще не можу повірити, що відтепер я буду в безпеці."
 
 #. Character:`narrator`
 #: game/story/park.dialogue
 msgctxt "park_ad343fa0"
 msgid "C'est presque trop beau pour être vrai."
-msgstr "Здається, це занадто добре, щоб бути правдою."
+msgstr "Занадто добре, щоб бути правдою."
 
 #. Character:`natsume`
 #: game/story/park.dialogue
 msgctxt "talk_natsume_fe2171cb"
 msgid "Hey {{saito.n}}, tu as l'air de bonne humeur ce matin !"
-msgstr "Привіт, {{saito.n}}, схоже, ти сьогодні вранці в гарному настрої!"
+msgstr "Привіт, {{saito.n}}, ти сьогодні зранку виглядаєш таким щасливим!"
 
 #. Character:`natsume`
 #: game/story/park.dialogue
 msgctxt "talk_natsume_a110bfac"
 msgid "Tu as rêvé de moi cette nuit ?"
-msgstr "Я тобі приснилася минулої ночі?"
+msgstr "Невже минулої ночі тобі снилася я?"
 
 #. Character:`saito`
 #: game/story/park.dialogue
 msgctxt "talk_natsume_39a99cdf"
 msgid "Salut, non pas vraiment."
-msgstr "Привіт. Ні, не зовсім."
+msgstr "Привіт. Та ні, не зовсім."
 
 #. Character:`saito` | Attributes:`upset`
 #: game/story/park.dialogue
 msgctxt "talk_natsume_eb33f652"
 msgid "Et puis, je ne me vois pas fantasmer sur la copine de mon m- de {{minato.n}}."
-msgstr "І я не бачу, щоб я фантазував про дівчину мого друг... {{minato.n}}."
+msgstr "Та й не уявляю, щоб я фантазував про дівчину свого най... {{minato.n}}."
 
 #. Character:`natsume` | Attributes:`neutral`
 #: game/story/park.dialogue
 msgctxt "talk_natsume_28439819"
 msgid "C'était quoi ça ? Vous vous êtes disputé ?"
-msgstr "Що це було? Ти посварився?"
+msgstr "Що було? Ви посварилися?"
 
 #. Character:`saito`
 #: game/story/park.dialogue
 msgctxt "talk_natsume_d537a0a8"
 msgid "Je ne sais pas si on peut parler de dispute à ce niveau-là."
-msgstr "Я не знаю, чи можна це назвати аргументом на даному етапі."
+msgstr "Не знаю, чи можна тепер це назвати сваркою."
 
 #. Character:`saito` | Attributes:`sad`
 #: game/story/park.dialogue
 msgctxt "talk_natsume_67c20605"
 msgid "{{natsume.n}}... Je peux savoir ce que tu lui trouves ?"
-msgstr "{{natsume.n}}... Можу запитати, що тобі в ньому подобається?"
+msgstr "{{natsume.n}}... Можна запитати, що тобі в ньому подобається?"
 
 #. Character:`natsume` | Attributes:`cute`
 #: game/story/park.dialogue
 msgctxt "talk_natsume_31ba1d87"
 msgid "Je le savais, je t'ai tapé dans l'œil, n'est-ce pas ?"
-msgstr "Я так і знала. Ти закохався в мене, чи не так?"
+msgstr "Я так і знала. Ти ж запав на мене, еге ж?"
 
 #. Character:`natsume` | Attributes:`happy`
 #: game/story/park.dialogue
 msgctxt "talk_natsume_f0684cab"
 msgid "Ça ne m'étonne même plus."
-msgstr "Мене це вже не дивує."
+msgstr "Мене це вже навіть не дивує."
 
 #. Character:`natsume`
 #: game/story/park.dialogue
 msgctxt "talk_natsume_459e1b4a"
 msgid "Les hommes préfèrent les blondes."
-msgstr "Чоловіки віддають перевагу неслухняним дівчатам."
+msgstr "Чоловіки віддають перевагу розпусним дівчатам."
 
 #. Character:`saito` | Attributes:`sad`
 #: game/story/park.dialogue
 msgctxt "talk_natsume_e5912ff2"
 msgid "Tu ne réponds pas à ma question."
-msgstr "Ти не відповідаєш на моє запитання."
+msgstr "Ти не відповіла на моє питання."
 
 #. Character:`natsume` | Attributes:`pouting`
 #: game/story/park.dialogue
 msgctxt "talk_natsume_3e4097d1"
 msgid "...[w] Je ne veux pas discuter de ça."
-msgstr "...[w] Я не хочу про це говорити."
+msgstr "...[w] Не хочу про це говорити."
 
 #. Character:`narrator`
 #: game/story/park.dialogue
 msgctxt "talk_natsume_db2040ff"
 msgid "Merde, si je continue à insister, elle va se braquer."
-msgstr "Дідько, якщо я продовжуватиму наполягати, вона піде."
+msgstr "Дідько, якщо продовжу наполягати, вона замкнеться в собі."
 
 #. Character:`narrator`
 #: game/story/park.dialogue
 msgctxt "talk_natsume_525c0bfb"
 msgid "Elle ne me fait pas assez confiance."
-msgstr "Вона недостатньо мені довіряє."
+msgstr "Вона мені недостатньо довіряє."
 
 #. Character:`saito` | Attributes:`happy`
 #: game/story/park.dialogue
 msgctxt "talk_natsume_195dec52"
 msgid "Je comprends, je n'insisterai pas, désolé."
-msgstr "Я розумію. Не наполягатиму. Вибач."
+msgstr "Розумію. Не наполягатиму. Вибач."
 
 #. Character:`saito`
 #: game/story/park.dialogue
 msgctxt "talk_natsume_1a4055f4"
 msgid "Dis-moi plutôt, c'est toi qui as conseillé à {{asami.n}} de... de..."
-msgstr "Усе одно, ти порадила {{asami.n}} щоб... щоб..."
+msgstr "До речі, це ти порадила {{asami.n}}... ну, ти знаєш..."
 
 #. Character:`natsume` | Attributes:`surprised`
 #: game/story/park.dialogue
 msgctxt "talk_natsume_61dba160"
 msgid "De te sucer ?[w] Non, sérieusement, elle l'a vraiment fait ?"
-msgstr "Відсмоктала тобі?[w] Ні, вона що серйозно це зробила?"
+msgstr "Відсмоктати тобі?[w] Ні, вона реально відсмоктала?"
 
 #. Character:`natsume` | Attributes:`happy`
 #: game/story/park.dialogue
 msgctxt "talk_natsume_10dd9993"
 msgid "Une vraie petite cochonne celle-là."
-msgstr "Вона така збоченка."
+msgstr "Оце вона збоченка!"
 
 #. Character:`saito`
 #: game/story/park.dialogue
@@ -117581,25 +117581,25 @@ msgstr "..."
 #: game/story/park.dialogue
 msgctxt "talk_natsume_30f63c3e"
 msgid "Tu sais, elle t'apprécie beaucoup."
-msgstr "Знаєш, ти їй дуже подобаєшся."
+msgstr "Знаєш, ти їй справді дуже подобаєшся."
 
 #. Character:`natsume`
 #: game/story/park.dialogue
 msgctxt "talk_natsume_f1f130b7"
 msgid "Elle m'avait demandé comment elle pouvait te remercier."
-msgstr "Вона запитала, як їй віддячити."
+msgstr "Вона запитувала мене, як могла б тобі віддячити."
 
 #. Character:`natsume`
 #: game/story/park.dialogue
 msgctxt "talk_natsume_8f6699a1"
 msgid "Moi, j'ai répondu sur le ton de la plaisanterie. \"Tu peux toujours le sucer !\""
-msgstr "А я відповіла жартома: «Ти завжди можеш йому відсмоктати!»"
+msgstr "А я жартома відповіла: «Завжди можеш відсмоктати йому!»"
 
 #. Character:`natsume`
 #: game/story/park.dialogue
 msgctxt "talk_natsume_b63c9628"
 msgid "Je ne pensais pas qu'elle irait jusque-là."
-msgstr "Не думала, що вона справді це зробить."
+msgstr "Навіть не думала, що вона й справді відсмокче."
 
 #. Character:`saito` | Attributes:`sad`
 #: game/story/park.dialogue
@@ -117611,7 +117611,7 @@ msgstr "Дідько..."
 #: game/story/park.dialogue
 msgctxt "talk_natsume_b340366a"
 msgid "Alors de toi à moi, c'était bien ?"
-msgstr "Тож, лише між нами, це було добре?"
+msgstr "То скажи мені, тільки між нами, тобі сподобалося?"
 
 #. Character:`saito` | Attributes:`happy`
 #: game/story/park.dialogue
@@ -117623,37 +117623,37 @@ msgstr "Так..."
 #: game/story/park.dialogue
 msgctxt "talk_natsume_5d0ca632"
 msgid "Mais quelle coquine celle-là."
-msgstr "Вона справді неслухняна."
+msgstr "Ну й розпусниця вона."
 
 #. Character:`saito` | Attributes:`-happy`
 #: game/story/park.dialogue
 msgctxt "talk_natsume_697bf350"
 msgid "Et aujourd'hui, où est-elle ?"
-msgstr "І де вона сьогодні?"
+msgstr "А де вона сьогодні?"
 
 #. Character:`natsume`
 #: game/story/park.dialogue
 msgctxt "talk_natsume_c172ae46"
 msgid "Elle te prépare une surprise, ça prendra quelques jours."
-msgstr "Вона готує для тебе невеличкий сюрприз, але це займе кілька днів."
+msgstr "Готує для тебе невеличкий сюрприз, але він займе кілька днів."
 
 #. Character:`natsume` | Attributes:`pouting`
 #: game/story/park.dialogue
 msgctxt "talk_natsume_a1ea5e79"
 msgid "Pourquoi ? Tu n'es pas content d'être en ma compagnie ?"
-msgstr "Чому? Моя компанія недостатньо хороша для тебе?"
+msgstr "А що таке? Моєї компанії тобі недостатньо?"
 
 #. Character:`saito`
 #: game/story/park.dialogue
 msgctxt "talk_natsume_b6efa973"
 msgid "Si bien sûr, je suis ravi d'être avec une aussi jolie fille que toi."
-msgstr "Звісно, що так. Я щасливий бути з такою милою дівчиною, як ти."
+msgstr "Та звісно, достатньо. Я радий проводити час із такою милою дівчиною, як ти."
 
 #. Character:`natsume`
 #: game/story/park.dialogue
 msgctxt "talk_natsume_6884b6b4"
 msgid "Ce charmeur du dimanche, ce n'est pas avec ce genre de compliment que tu me mettras dans ton lit."
-msgstr "Ти недільний заклинатель... Щоб затягнути мене у твоє ліжко, потрібно щось більше, ніж комплімент."
+msgstr "Ох і підлеснику! Але одним таким компліментом мене до ліжка не заманиш."
 
 #. Character:`saito` | Attributes:`sad`
 #: game/story/park.dialogue
@@ -117671,13 +117671,13 @@ msgstr "Ха-ха, тебе так легко дражнити."
 #: game/story/park.dialogue
 msgctxt "talk_natsume_15328214"
 msgid "Détends-toi un peu."
-msgstr "Розслабся трохи."
+msgstr "Та розслабся трохи."
 
 #. Character:`natsume` | Attributes:`cute`
 #: game/story/park.dialogue
 msgctxt "talk_natsume_dcf79cd6"
 msgid "Mais j'avoue que tu es mignon !"
-msgstr "Але я визнаю, ти симпатичний!"
+msgstr "Але мушу визнати, ти милий!"
 
 #. Character:`saito`
 #: game/story/park.dialogue
@@ -117689,7 +117689,7 @@ msgstr "..."
 #: game/story/park.dialogue
 msgctxt "talk_natsume_88bd0320"
 msgid "En plus, {{asami.n}} m'a dit que la nature t'avait plutôt bien doté..."
-msgstr "Мало того, {{asami.n}} сказала мені, що у тебе все добре в усіх потрібних місцях..."
+msgstr "Мало того, {{asami.n}} розповіла мені, що в тебе все як треба... і в потрібних місцях."
 
 #. Character:`natsume` | Attributes:`happy`
 #: game/story/park.dialogue
@@ -117701,7 +117701,7 @@ msgstr "Наступного разу попрошу її сфотографув
 #: game/story/park.dialogue
 msgctxt "talk_natsume_ccc28594"
 msgid "Putain, tu es folle !"
-msgstr "Дідько, ти божевільна!"
+msgstr "Боже, ти ненормальна!"
 
 #. Character:`natsume`
 #: game/story/park.dialogue
@@ -117713,19 +117713,19 @@ msgstr "Ха-ха."
 #: game/story/park.dialogue
 msgctxt "talk_natsume_757914e4"
 msgid "{{natsume.n}} ! Je peux savoir pourquoi tu traines avec ce déchet ?"
-msgstr "{{natsume.n}}! Не хочеш пояснити, чому ти тусуєшся з цим нікчемою?"
+msgstr "{{natsume.n}}! Не поясниш, чому ти стовбичиш із тим нікчемою?"
 
 #. Character:`minato`
 #: game/story/park.dialogue
 msgctxt "talk_natsume_4e2d94e7"
 msgid "Éloigne-toi de lui tout de suite !"
-msgstr "Негайно відійди від нього!"
+msgstr "Ану відійшла від нього!"
 
 #. Character:`saito`
 #: game/story/park.dialogue
 msgctxt "talk_natsume_23bb0c5b"
 msgid "Elle n'est pas ta chose, de quel droit tu-"
-msgstr "Вона не твоя власність! Яке право ти маєш..."
+msgstr "Вона не твоя власність! Яке ти маєш право..."
 
 #. Character:`natsume`
 #: game/story/park.dialogue
@@ -117743,13 +117743,13 @@ msgstr "Але..."
 #: game/story/park.dialogue
 msgctxt "talk_natsume_feac1dae"
 msgid "Si je te revois à trainer autour d'elle."
-msgstr "Наступного разу, коли я побачу тебе з нею..."
+msgstr "Наступного разу, коли побачу тебе поруч із нею..."
 
 #. Character:`minato`
 #: game/story/park.dialogue
 msgctxt "talk_natsume_8ee1da1f"
 msgid "Tu auras de gros problèmes crois-moi."
-msgstr "У тебе будуть великі проблеми. Повір мені."
+msgstr "Тобі добряче дістанеться. Повір"
 
 #. Character:`saito`
 #: game/story/park.dialogue
@@ -117761,31 +117761,31 @@ msgstr "..."
 #: game/story/park.dialogue
 msgctxt "talk_natsume_3965c347"
 msgid "Ça devient problématique."
-msgstr "Це починає дратувати."
+msgstr "Усе це вже починає дратувати."
 
 #. Character:`narrator`
 #: game/story/park.dialogue
 msgctxt "talk_natsume_a1ce7653"
 msgid "Il va falloir gérer {{minato.n}} rapidement."
-msgstr "Мені потрібно швидко розібратися з {{minato.n}}."
+msgstr "Треба якнайшвидше розібратися з {{minato.n}}."
 
 #. Character:`narrator`
 #: game/story/park.dialogue
 msgctxt "talk_natsume_47359097"
 msgid "Autant pour sa petite sœur que pour sa petite amie."
-msgstr "Як заради своєї молодшої сестри, так і заради своєї дівчини."
+msgstr "Як заради його молодшої сестри, так і заради його дівчини."
 
 #. Character:`narrator`
 #: game/story/park.dialogue
 msgctxt "talk_natsume_e48d41d0"
 msgid "Je devrais peut-être retourner voir le pervers que j'avais croisé ?"
-msgstr "Може варто мені повернутися до збоченця, з яким я познайомився?"
+msgstr "Може, мені знову навідатися до того збоченця, якого я зустрів?"
 
 #. Character:`saito`
 #: game/story/park.dialogue
 msgctxt "talk_natsume_6dbfffdb"
 msgid "Salut {{natsume.n}}, je ne pensais pas sincèrement te revoir."
-msgstr "Привіт, {{natsume.n}}, а я не думав, що побачу тебе знову."
+msgstr "Привіт, {{natsume.n}}, навіть не думав, що побачу тебе знову."
 
 #. Character:`natsume`
 #: game/story/park.dialogue
@@ -117797,13 +117797,13 @@ msgstr "...[w] Тобі не варто зі мною розмовляти."
 #: game/story/park.dialogue
 msgctxt "talk_natsume_06e38554"
 msgid "Je sais, mais il y a une chose que j'aimerais savoir."
-msgstr "Я знаю, але мені треба тебе дещо запитати."
+msgstr "Знаю, але мені потрібно дещо в тебе запитати."
 
 #. Character:`natsume`
 #: game/story/park.dialogue
 msgctxt "talk_natsume_72fbdbc7"
 msgid "Si c'est au sujet d'{{asami.n}}, elle t'attend devant chez elle demain après-midi."
-msgstr "Якщо ти про {{asami.n}}, то вона чекатиме тебе перед своїм будинком завтра вдень."
+msgstr "Якщо ти про {{asami.n}}, то завтра після обіду вона чекатиме на тебе біля свого будинку."
 
 #. Character:`saito` | Attributes:`sad`
 #: game/story/park.dialogue
@@ -117815,37 +117815,37 @@ msgstr "..."
 #: game/story/park.dialogue
 msgctxt "talk_natsume_bcff6ec5"
 msgid "Je sais à quel point il est dangereux."
-msgstr "Ти знаєш, який він небезпечний."
+msgstr "Ти ж знаєш, наскільки він небезпечний."
 
 #. Character:`natsume` | Attributes:`shame`
 #: game/story/park.dialogue
 msgctxt "talk_natsume_e22356cf"
 msgid "Alors, tu es le garçon le plus idiot que je connaisse."
-msgstr "Ти, мабуть, найтупіший хлопець якого я знаю."
+msgstr "Ти певно найтупіший хлопець із усіх, кого я знаю."
 
 #. Character:`natsume`
 #: game/story/park.dialogue
 msgctxt "talk_natsume_e889403a"
 msgid "Si tu sais qu'il est dangereux, pourquoi tu continues de venir me parler ?"
-msgstr "Якщо ти знаєш, що він такий небезпечний, чому ти досі зі мною розмовляєш?"
+msgstr "Якщо ти знаєш, наскільки він небезпечний, навіщо й далі зі мною розмовляєш?"
 
 #. Character:`saito` | Attributes:`neutral`
 #: game/story/park.dialogue
 msgctxt "talk_natsume_1413eb61"
 msgid "Si tu es ici, c'est qu'au fond de toi, tu savais que je viendrais."
-msgstr "Якщо ти тут, то це тому, що в глибині душі ти знала, що я прийду."
+msgstr "Якби ти не хотіла мене бачити, то не вийшла б сюди. Десь глибоко всередині ти знала, що я прийду."
 
 #. Character:`natsume`
 #: game/story/park.dialogue
 msgctxt "talk_natsume_f0e8c2e1"
 msgid "...[w] peut-être que je me promène simplement."
-msgstr "...[w] Може, я просто вийшла погуляти."
+msgstr "...[w] Може, я просто вийшла прогулятися."
 
 #. Character:`saito`
 #: game/story/park.dialogue
 msgctxt "talk_natsume_15c50a8f"
 msgid "Tu es toujours franche, ce genre de réponse ne te ressemble pas."
-msgstr "Ти завжди така відверта. Така відповідь на тебе не схожа."
+msgstr "Ти завжди така відверта. Така відповідь на тебе зовсім не схожа."
 
 #. Character:`natsume`
 #: game/story/park.dialogue
@@ -117863,7 +117863,7 @@ msgstr "Я лише хочу тобі допомогти."
 #: game/story/park.dialogue
 msgctxt "talk_natsume_80867e78"
 msgid "Je n'ai jamais demandé ton aide, fiche-moi la paix !"
-msgstr "Я ніколи не просила про допомогу, тому дай мені спокій!"
+msgstr "Я ніколи не просила тебе про допомогу, тому дай мене в спокої!"
 
 #. Character:`narrator`
 #: game/story/park.dialogue
@@ -117875,13 +117875,13 @@ msgstr "Вона нічого не скаже..."
 #: game/story/park.dialogue
 msgctxt "talk_natsume_a293082a"
 msgid "Je peux la comprendre, je n'ai pas la puissance de {{macumba.n}}."
-msgstr "Я розумію її. У мене немає такої сили, як у {{macumba.n}}."
+msgstr "Я можу її зрозуміти. Мені бракує сили, як у {{macumba.n}}."
 
 #. Character:`narrator`
 #: game/story/park.dialogue
 msgctxt "talk_natsume_729182c9"
 msgid "Je dois absolument gagner en force."
-msgstr "Мені конче потрібно набратися сил."
+msgstr "Мені конче треба стати сильнішим."
 
 #. Character:`natsume`
 #: game/story/park.dialogue
@@ -117893,121 +117893,121 @@ msgstr "Боже мій, хто ця фатальна жінка?"
 #: game/story/park.dialogue
 msgctxt "park_fde246d1"
 msgid "Héhé."
-msgstr "Хі-хі."
+msgstr "Хе-хе."
 
 #. Character:`natsume` | Attributes:`happy`
 #: game/story/park.dialogue
 msgctxt "park_71e7614b"
 msgid "{{saito.n}}, tu as vu ça ?"
-msgstr "{{saito.n}}, ти це бачив?"
+msgstr "{{saito.n}}, ти це бачиш?"
 
 #. Character:`saito`
 #: game/story/park.dialogue
 msgctxt "park_ebe7aaad"
 msgid "Comment je pourrais ne pas le voir ?"
-msgstr "Як я можу цього не бачити?"
+msgstr "Та як тут не помітити?"
 
 #. Character:`natsume`
 #: game/story/park.dialogue
 msgctxt "park_07b79088"
 msgid "Tu comptes faire quoi à présent ?"
-msgstr "Що ти плануєш робити зараз?"
+msgstr "І що ти тепер плануєш робити?"
 
 #. Character:`asami` | Attributes:`neutral`
 #: game/story/park.dialogue
 msgctxt "park_33c88d68"
 msgid "Je ne sais pas trop, profiter des vacances qui nous restent avec mon cher {{saito.n}}."
-msgstr "Я дійсно не знаю, можливо, насолоджуюсь канікулами, що залишилася, з моїм дорогим {{saito.n}}."
+msgstr "Навіть не знаю. Мабуть, насолоджуватимуся рештою канікул у компанії мого люб’язного {{saito.n}}."
 
 #. Character:`asami`
 #: game/story/park.dialogue
 msgctxt "park_6cf6fb65"
 msgid "Qu'est-ce que tu penses ?"
-msgstr "Що ти думаєш про це?"
+msgstr "Як тобі така ідея?"
 
 #. Character:`saito`
 #: game/story/park.dialogue
 msgctxt "park_d33240a9"
 msgid "Je crois que c'est la meilleure chose que j'ai entendue aujourd'hui."
-msgstr "Я думаю, що це найкраще, що я чув за весь день."
+msgstr "Думаю, це найкраще, що я чув за сьогодні."
 
 #. Character:`minato`
 #: game/story/park.dialogue
 msgctxt "park_29eba297"
 msgid "Eh bien, eh bien, qui voilà ?"
-msgstr "Ну-ну, хто це?"
+msgstr "Ну-ну, хто це в нас тут?"
 
 #. Character:`minato` | Attributes:`neutral`
 #: game/story/park.dialogue
 msgctxt "park_82ff5eff"
 msgid "Salut, chère voisine, je ne t'avais pas reconnu !"
-msgstr "Привіт, люба сусідко, я тебе майже не впізнав!"
+msgstr "Привіт, люба сусідко, я тебе ледь упізнав!"
 
 #. Character:`asami` | Attributes:`happy`
 #: game/story/park.dialogue
 msgctxt "park_aa71f117"
 msgid "J'avais envie de changement."
-msgstr "Я хотіла змінитись."
+msgstr "Мені просто захотілося змін."
 
 #. Character:`minato`
 #: game/story/park.dialogue
 msgctxt "park_eb4da582"
 msgid "Je vois, c'est vraiment magnifique."
-msgstr "Зрозуміло. Ти справді прекрасна."
+msgstr "Зрозуміло. Ти справді красуня."
 
 #. Character:`minato`
 #: game/story/park.dialogue
 msgctxt "park_59baf7c5"
 msgid "Je ne pensais pas que sous ce gros blouson dégoutant pouvait se cacher un véritable trésor."
-msgstr "Я не думав, що ця величезна, огидна куртка може приховувати такий скарб."
+msgstr "Не думав, що під тією величезною огидною курткою ховається такий скарб."
 
 #. Character:`asami` | Attributes:`pouting`
 #: game/story/park.dialogue
 msgctxt "park_302a2705"
 msgid "Merci... Je suppose."
-msgstr "Дякую... Напевно."
+msgstr "Дякую... напевно."
 
 #. Character:`minato`
 #: game/story/park.dialogue
 msgctxt "park_f2635a3b"
 msgid "Quel dommage, quel dommage, vraiment."
-msgstr "Дуже шкода. Дуже шкода, справді."
+msgstr "Яка прикрість. Справді шкода."
 
 #. Character:`asami` | Attributes:`-pouting`
 #: game/story/park.dialogue
 msgctxt "park_af1e09d1"
 msgid "Arrête de dire des bêtises, je trouve {{natsume.n}} bien plus belle et sexy que moi."
-msgstr "Перестань говорити нісенітницю. Я думаю, що {{natsume.n}} є милою і сексуальною ніж я."
+msgstr "Припини верзти дурниці. На мою думку, {{natsume.n}} набагато миліша й сексуальніша за мене."
 
 #. Character:`minato` | Attributes:`neutral`
 #: game/story/park.dialogue
 msgctxt "park_ab06c376"
 msgid "Quand tu es venu me demander si ça me dérangeait que tu sortes avec {{asami.n}}, je ne pensais pas que tu réussirais à la séduire."
-msgstr "Коли ти прийшов запитати, чи турбує мене, що ти висиш з {{asami.n}}, я не думав, що тобі насправді вдалося спокусити її."
+msgstr "Коли ти прийшов запитати, чи не проти я, щоб ти проводив час з {{asami.n}}, я й подумати не міг, що тобі справді вдасться її спокусити."
 
 #. Character:`minato`
 #: game/story/park.dialogue
 msgctxt "park_38f0d426"
 msgid "Je suis vraiment surpris, je ne te pensais pas capable de ça."
-msgstr "Я дуже здивований. Я не думав, що ти на таке здатна."
+msgstr "Я неабияк здивований. Не думав, що ти на таке здатен."
 
 #. Character:`asami` | Attributes:`upset`
 #: game/story/park.dialogue
 msgctxt "park_b03036db"
 msgid "{{minato.n}} laisse le tranquille."
-msgstr "{{minato.n}}, залиш його."
+msgstr "{{minato.n}}, залиш його в спокої."
 
 #. Character:`saito` | Attributes:`happy`
 #: game/story/park.dialogue
 msgctxt "park_26020a6d"
 msgid "Ne t'en fais pas, il a toujours eu tendance à sous-estimer les autres."
-msgstr "Не хвилюйся, він завжди недооцінює інших людей."
+msgstr "Не хвилюйся, він завжди недооцінює інших."
 
 #. Character:`asami` | Attributes:`happy`
 #: game/story/park.dialogue
 msgctxt "park_2fc7ad83"
 msgid "Haha, c'est bien vrai."
-msgstr "Ха-ха, це правда."
+msgstr "Ха-ха, це точно."
 
 #. Character:`minato` | Attributes:`suspicious`
 #: game/story/park.dialogue
@@ -118019,43 +118019,43 @@ msgstr "..."
 #: game/story/park.dialogue
 msgctxt "park_3381f4c5"
 msgid "Toutes mes félicitations à vous deux, vous faites un couple parfait."
-msgstr "Вітаю вас обох. Ви ідеальна пара."
+msgstr "Вітаю вас, голуб’ята. Ви чудова пара."
 
 #. Character:`minato`
 #: game/story/park.dialogue
 msgctxt "park_5d151971"
 msgid "Tu vas devoir faire attention {{saito.n}}, tu as une petite amie à protéger à présent."
-msgstr "Тобі потрібно бути обережним, {{saito.n}}. Тепер у тебе є дівчина, яку потрібно захищати."
+msgstr "Тобі доведеться бути обережним, {{saito.n}}. Тепер у тебе є дівчина, яку треба захищати."
 
 #. Character:`narrator`
 #: game/story/park.dialogue
 msgctxt "park_8ac66e39"
 msgid "Ce connard me menace en plus..."
-msgstr "Цей мудак ще й погрожує мені..."
+msgstr "Цей виродок ще й погрожує мені..."
 
 #. Character:`narrator`
 #: game/story/park.dialogue
 msgctxt "park_ff9d0016"
 msgid "J'espère qu'{{asami.n}} ne vas pas en ra-"
-msgstr "Сподіваюся, {{asami.n}} не додасть до в-"
+msgstr "Сподіваюся, {{asami.n}} не почне ще й підливати олії у вого..."
 
 #. Character:`asami` | Attributes:`happy`
 #: game/story/park.dialogue
 msgctxt "park_048653d3"
 msgid "Fais plutôt attention à toi {{minato.n}}, si tu ne fais pas assez attention, tu risqueras de perdre {{natsume.n}}."
-msgstr "Я думаю, тобі слід бути обережним, {{minato.n}}. Якщо ти не подбаєш достатньо, ти втратиш {{natsume.n}}."
+msgstr "Думаю, тобі теж варто бути обережним, {{minato.n}}. Якщо не приділятимеш {{natsume.n}} достатньо уваги, то втратиш її."
 
 #. Character:`asami`
 #: game/story/park.dialogue
 msgctxt "park_941f7c1f"
 msgid "Tu as tendances à tout tenir pour acquis, donc tu ferais mieux de lui montrer à quel point elle compte pour toi."
-msgstr "Зазвичай ти сприймаєш все як належне, тому краще покажи їй, як сильно ти про неї дбаєш."
+msgstr "Ти зазвичай сприймаєш усе як належне, тому тобі краще показати їй, наскільки вона тобі дорога."
 
 #. Character:`narrator`
 #: game/story/park.dialogue
 msgctxt "park_5ee612b8"
 msgid "{{asami.n}} stop, tu jettes de l'huile sur le feu."
-msgstr "Зупинися, {{asami.n}}. Ти підливаєш масла у вогонь."
+msgstr "Припини, {{asami.n}}. Ти тільки підливаєш олії у вогонь."
 
 #. Character:`natsume`
 #: game/story/park.dialogue
@@ -118073,43 +118073,43 @@ msgstr "Я матиму це на увазі."
 #: game/story/park.dialogue
 msgctxt "park_4e692868"
 msgid "Eh bien, ça alors... Je ne l'ai jamais vu aussi furieux."
-msgstr "Що ж... Я ніколи не бачила його таким розлюченим."
+msgstr "Ну... Ніколи не бачила його таким розлюченим."
 
 #. Character:`asami`
 #: game/story/park.dialogue
 msgctxt "park_ea085602"
 msgid "Le plan a fonctionné, il est terriblement jaloux."
-msgstr "План вдався, він страшенно ревнує."
+msgstr "План спрацював. Він страшенно ревнує."
 
 #. Character:`narrator`
 #: game/story/park.dialogue
 msgctxt "park_440eb2d0"
 msgid "Oui, et ça va être un gros problème."
-msgstr "Так, і це буде величезна проблема."
+msgstr "Ага, і це створить нам величезні проблеми."
 
 #. Character:`asami`
 #: game/story/park.dialogue
 msgctxt "park_b4187d20"
 msgid "Je me sens tellement légère à présent."
-msgstr "Тепер я відчуваю таку легкість."
+msgstr "Тепер мені так легко на душі."
 
 #. Character:`saito` | Attributes:`happy`
 #: game/story/park.dialogue
 msgctxt "park_07d94a4f"
 msgid "Si tu es heureuse, c'est le principal."
-msgstr "Головне, щоб ти була щасливою."
+msgstr "Головне, що ти щаслива."
 
 #. Character:`asami`
 #: game/story/park.dialogue
 msgctxt "park_0192a831"
 msgid "{{saito.n}}, je veux rester avec toi, je me sens bien plus à l'aise quand tu es là."
-msgstr "{{saito.n}}, я хочу залишитися з тобою. Мені набагато комфортніше з тобою поруч."
+msgstr "{{saito.n}}, я хочу бути з тобою. Поруч із тобою мені набагато спокійніше."
 
 #. Character:`saito`
 #: game/story/park.dialogue
 msgctxt "park_74d8f8ed"
 msgid "Je me sens bien avec toi aussi..."
-msgstr "Мені теж добре поруч з тобою..."
+msgstr "Мені з тобою теж добре..."
 
 #. Character:`asami` | Attributes:`sad`
 #: game/story/park.dialogue
@@ -118121,7 +118121,7 @@ msgstr "Знаєш, спочатку мені було страшно... Я не
 #: game/story/park.dialogue
 msgctxt "park_3f8ca7e1"
 msgid "Je pensais le faire pour de mauvaises raisons."
-msgstr "Я думала, що роблю це з неправильних причин."
+msgstr "Думала, що роблю це з неправильних причин."
 
 #. Character:`asami`
 #: game/story/park.dialogue
@@ -118133,7 +118133,7 @@ msgstr "Але зрештою..."
 #: game/story/park.dialogue
 msgctxt "park_2f81b0a0"
 msgid "Au final, tu es magnifique."
-msgstr "Зрештою, ти прекрасна."
+msgstr "Зрештою ти стала справжньою красунею."
 
 #. Character:`asami` | Attributes:`happy`
 #: game/story/park.dialogue
@@ -118145,13 +118145,13 @@ msgstr "Дякую..."
 #: game/story/park.dialogue
 msgctxt "park_d9bd3da3"
 msgid "Je... J'ai une confession à te faire."
-msgstr "Я... Я маю в дечому зізнатися."
+msgstr "Я... я маю в дечому зізнатися."
 
 #. Character:`asami`
 #: game/story/park.dialogue
 msgctxt "park_90641958"
 msgid "Depuis la dernière fois que je... que je t'ai...."
-msgstr "З тих пір, як я востаннє... я..."
+msgstr "Відтоді, як я востаннє... Я..."
 
 #. Character:`saito` | Attributes:`neutral`
 #: game/story/park.dialogue
@@ -118163,19 +118163,19 @@ msgstr "Відсмоктала мені?"
 #: game/story/park.dialogue
 msgctxt "park_bb53b1d7"
 msgid "Je n'aime pas ce mot, ça me parait vulgaire."
-msgstr "Мені не подобається це слово, воно звучить грубо."
+msgstr "Мені не подобається це слово. Воно звучить огидно."
 
 #. Character:`asami` | Attributes:`happy`
 #: game/story/park.dialogue
 msgctxt "park_5a7fc626"
 msgid "Depuis cette fois-là, j'ai très envie de toi."
-msgstr "Відтоді я так сильно хочу тебе."
+msgstr "Відтоді я страшенно тебе хочу."
 
 #. Character:`asami`
 #: game/story/park.dialogue
 msgctxt "park_4ab30cb2"
 msgid "Tu crois qu'on pourrait... Tous les deux... Au même endroit que la dernière fois ?"
-msgstr "Як думаєш, ми могли б... Удвох... На тому ж місці, що і минулого разу?"
+msgstr "Як думаєш, ми могли б... Удвох... Там само, де й минулого разу?"
 
 #. Character:`narrator`
 #: game/story/park.dialogue
@@ -118187,7 +118187,7 @@ msgstr "Вона стала набагато сміливішою."
 #: game/story/park.dialogue
 msgctxt "park_114abb98"
 msgid "Elle m'intimiderait presque."
-msgstr "Вона майже залякує мене."
+msgstr "Вона мене аж трохи лякає."
 
 #. Character:`saito` | Attributes:`happy`
 #: game/story/park.dialogue
@@ -118199,49 +118199,49 @@ msgstr "Залюбки."
 #: game/story/park.dialogue
 msgctxt "park_5c3c3c2f"
 msgid "Je veux te montrer à quel point je me suis améliorée."
-msgstr "Я хочу показати тобі, наскільки я змінилася."
+msgstr "Хочу показати тобі, наскільки я вдосконалилася."
 
 #. Character:`saito`
 #: game/story/park.dialogue
 msgctxt "park_a710e65b"
 msgid "Montre-moi ça."
-msgstr "Покажи мені."
+msgstr "Ну, показуй."
 
 #. Character:`asami`
 #: game/story/park.dialogue
 msgctxt "park_21b75a3e"
 msgid "Hmmmm, hmmmm, mmmh..."
-msgstr "Хмммм хммммм мммх..."
+msgstr "Хм-м-м... хм-м-м... м-м-мх..."
 
 #. Character:`saito`
 #: game/story/park.dialogue
 msgctxt "park_036be183"
 msgid "En effet, c'est... beaucoup..."
-msgstr "Це дійсно... дуже..."
+msgstr "Це й справді... набагато..."
 
 #. Character:`saito`
 #: game/story/park.dialogue
 msgctxt "park_ef54738e"
 msgid "Mieux... Putain, c'est trop bon !"
-msgstr "краще... Чорт, це дуже добре!"
+msgstr "краще... Бляха, як же добре!"
 
 #. Character:`asami`
 #: game/story/park.dialogue
 msgctxt "park_8d997f8f"
 msgid "Hmm, hmmm..."
-msgstr "Хмм хммм..."
+msgstr "Хм-м... хм-м-м..."
 
 #. Character:`saito`
 #: game/story/park.dialogue
 msgctxt "park_1d5fcdba"
 msgid "Oh, doucement, c'est... vraiment trop... bon..."
-msgstr "Ах, повільніше... Це... дуже... добре..."
+msgstr "А-а, повільніше... Це... справді дуже... добре..."
 
 #. Character:`asami`
 #: game/story/park.dialogue
 msgctxt "park_ac8c155f"
 msgid "Mmmh..."
-msgstr "Мммх..."
+msgstr "М-м-мх..."
 
 #. Character:`saito`
 #: game/story/park.dialogue
@@ -118253,25 +118253,25 @@ msgstr "Я довго не протягну..."
 #: game/story/park.dialogue
 msgctxt "park_c073c2b9"
 msgid "Attention !"
-msgstr "Ах, я кінчаю!"
+msgstr "А-а, я кінчаю!"
 
 #. Character:`asami`
 #: game/story/park.dialogue
 msgctxt "park_e11267f0"
 msgid "Mmmmmh... Vas-y !"
-msgstr "М-м-м-м, все гаразд!"
+msgstr "М-м-мх, все добре!"
 
 #. Character:`asami`
 #: game/story/park.dialogue
 msgctxt "park_0c2b2d78"
 msgid "Mmmmph..."
-msgstr "Ммммпх..."
+msgstr "М-м-мх..."
 
 #. Character:`saito`
 #: game/story/park.dialogue
 msgctxt "park_da846f30"
 msgid "Oh, bon sang, c'était vraiment..."
-msgstr "Ох, бляха, це було так..."
+msgstr "Ох бляха, це було так..."
 
 #. Character:`saito`
 #: game/story/park.dialogue
@@ -118289,31 +118289,31 @@ msgstr "Рада, що тобі сподобалося!"
 #: game/story/park.dialogue
 msgctxt "park_bc53ae8c"
 msgid "Mais... Je suis encore plus excitée maintenant !"
-msgstr "Але... Я ще більше збудилася!"
+msgstr "Але... Тепер я ще більше збуджена!"
 
 #. Character:`asami`
 #: game/story/park.dialogue
 msgctxt "park_571d09f1"
 msgid "C'est légèrement salé, {{natsume.n}} ne m'avait pas menti."
-msgstr "Воно злегка солоне. Гадаю, {{natsume.n}} не брехала мені."
+msgstr "Трохи солонувате. Мабуть, {{natsume.n}} не збрехала."
 
 #. Character:`saito` | Attributes:`surprised`
 #: game/story/park.dialogue
 msgctxt "park_f0e9191d"
 msgid "Attends, c'est elle qui t'a dit de faire ça ?"
-msgstr "Стривай, це вона сказала тобі це зробити?"
+msgstr "Стривай, це вона порадила тобі таке зробити?"
 
 #. Character:`asami` | Attributes:`happy`
 #: game/story/park.dialogue
 msgctxt "park_ab127ebd"
 msgid "Mais non idiot, elle n'a fait que de me parler de son expérience et me donner des conseils."
-msgstr "Ні, дурню, вона просто розповіла про свій досвід і дала мені кілька порад."
+msgstr "Ні, дурнику, вона просто розповіла про власний досвід і дала мені кілька порад."
 
 #. Character:`narrator`
 #: game/story/park.dialogue
 msgctxt "park_ffc9cd9f"
 msgid "Mouais, j'ai quand même l'impression qu'elle est extrêmement influençable..."
-msgstr "Так, у мене все ще є відчуття, що вона надзвичайно вразлива."
+msgstr "Ага, але я все одно відчуваю, що вона надзвичайно піддається чужому впливу."
 
 #. Character:`asami` | Attributes:`sad`
 #: game/story/park.dialogue
@@ -118325,19 +118325,19 @@ msgstr "Тобі не сподобалося?"
 #: game/story/park.dialogue
 msgctxt "park_827c5aab"
 msgid "Si, si, bien sûr que j'ai aimé, c'est que... Tout ça se passe si vite que c'en est presque déroutant."
-msgstr "Звичайно, що так. Просто... Усе відбувається так швидко, що це майже збиває з пантелику."
+msgstr "Та ні, звісно, сподобалося. Просто... Усе відбувається так швидко, що я навіть трохи збитий з пантелику."
 
 #. Character:`asami` | Attributes:`pouting`
 #: game/story/park.dialogue
 msgctxt "park_e3fce3f1"
 msgid "{{saito.n}}... Tu crois que toi et moi ce soir, on peut..."
-msgstr "{{saito.n}}... Як думаєш, сьогодні ввечері ми з тобою могли б..."
+msgstr "{{saito.n}}... Як думаєш, чи могли б ми сьогодні ввечері з тобою..."
 
 #. Character:`saito` | Attributes:`neutral`
 #: game/story/park.dialogue
 msgctxt "park_618e59ed"
 msgid "Tu... Tu te sens prête ?"
-msgstr "Ти... Ти думаєш, ти готова?"
+msgstr "Ти... Ти впевнена, що готова?"
 
 #. Character:`asami`
 #: game/story/park.dialogue
@@ -118349,19 +118349,19 @@ msgstr "Так..."
 #: game/story/park.dialogue
 msgctxt "park_c93fec3d"
 msgid "Et puis... Voir {{minato.n}} crever de jalousie, c'était... vraiment satisfaisant."
-msgstr "І... Бачити {{minato.n}} таким ревнивим було... справжнє задоволення."
+msgstr "І... Побачити {{minato.n}} таким ревнивим було... неймовірно приємно."
 
 #. Character:`asami`
 #: game/story/park.dialogue
 msgctxt "park_273a6e41"
 msgid "J'avais très envie de le faire avec toi, là tout de suite !"
-msgstr "Я так хотіла зробити це з тобою на місці!"
+msgstr "Мені так хотілося зайнятися з тобою сексом прямо там!"
 
 #. Character:`asami`
 #: game/story/park.dialogue
 msgctxt "park_20d81f23"
 msgid "Quitte à ce qu'il nous regarde."
-msgstr "Навіть якби це означало, що він може бачити нас."
+msgstr "Навіть якби він міг нас побачити."
 
 #. Character:`saito` | Attributes:`happy`
 #: game/story/park.dialogue
@@ -118379,31 +118379,31 @@ msgstr "Добре, ти мене переконала!"
 #: game/story/park.dialogue
 msgctxt "park_901fb7aa"
 msgid "Qu'est-ce que tu aimerais faire à présent ?"
-msgstr "Що ти хочеш робити зараз?"
+msgstr "То чим хочеш зайнятися тепер?"
 
 #. Character:`asami` | Attributes:`pouting`
 #: game/story/park.dialogue
 msgctxt "park_a3eaf7aa"
 msgid "Je... J'aimerais continuer chez toi, tu crois que c'est possible ?"
-msgstr "Я... Я б хотіла продовжити у тебе. Як гадаєш, це можливо?"
+msgstr "Я... Я хотіла б продовжити в тебе вдома. Як думаєш, це можливо?"
 
 #. Character:`saito`
 #: game/story/park.dialogue
 msgctxt "park_be596df0"
 msgid "Sans problème, mais en journée, ça va être compliqué, cette nuit, ce sera parfait."
-msgstr "Без проблем, але в середині дня буде важко. Увечері буде ідеально."
+msgstr "Без проблем, але серед білого дня буде важко. А от сьогодні ввечері буде ідеально."
 
 #. Character:`asami` | Attributes:`neutral`
 #: game/story/park.dialogue
 msgctxt "park_f2f9cbb8"
 msgid "Je te rejoindrai devant chez toi dès qu'il fera nuit."
-msgstr "Я прийду до тебе, як тільки стемніє."
+msgstr "Щойно стемніє, одразу прийду до тебе."
 
 #. Character:`asami`
 #: game/story/park.dialogue
 msgctxt "park_0b6d656d"
 msgid "À ce soir, mon petit poney !"
-msgstr "До вечора, мій жеребчик!"
+msgstr "До вечора, мій жеребчику!"
 
 #. Character:`saito` | Attributes:`surprised`
 #: game/story/park.dialogue
@@ -118415,7 +118415,7 @@ msgstr "Що?!"
 #: game/story/park.dialogue
 msgctxt "park_aacdb73a"
 msgid "Bah quoi, elle est grosse, assume."
-msgstr "Що? Він у тебе величезний."
+msgstr "А що? Він у тебе величезний, мусиш визнати."
 
 #. Character:`asami` | Attributes:`happy`
 #: game/story/park.dialogue
@@ -118427,7 +118427,7 @@ msgstr "Ха-ха!"
 #: game/story/park.dialogue
 msgctxt "park_5e5195e0"
 msgid "Bordel... Elle a changé si vite, elle est devenue sexy, entreprenante."
-msgstr "Чорт... Вона так швидко змінилася. Вона стала дійсно сексуальною і зухвалою."
+msgstr "Бляха... Вона так швидко змінилася. Стала неймовірно сексуальною та сміливою."
 
 #. Character:`narrator`
 #: game/story/park.dialogue
@@ -118445,7 +118445,7 @@ msgstr "Сподіваюся, тепер усе буде добре."
 #: game/story/park.dialogue
 msgctxt "park_7f1f6a2f"
 msgid "Je dois continuer mes efforts pour changer, sinon tout ça ne servira à rien."
-msgstr "Я маю продовжувати свої зусилля, щоб змінитися, інакше все буде марним."
+msgstr "Я маю й далі працювати над собою, інакше всі мої зусилля виявляться марними."
 
 #. Character:`natsume`
 #: game/story/park.dialogue
