@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: info@teot-studio.com\n"
 "POT-Creation-Date: 2025-12-12 13:32+0100\n"
-"PO-Revision-Date: 2026-11-10 15:40+0000\n"
+"PO-Revision-Date: 2026-11-11 17:40+0000\n"
 "Last-Translator: Gabe Kotshur <kocurgabriel@protonmail.com>\n"
 "Language-Team: Czech <https://translations.teot-studio.com/projects/goodbye-eternity/game/cs/>\n"
 "Language: cs\n"
@@ -524,7 +524,7 @@ msgstr "<"
 
 #: game/scenes/gui/game_menu/saves.tscn
 msgid "A"
-msgstr ""
+msgstr "A"
 
 #: game/scenes/gui/game_menu/saves.tscn
 msgid "Q"
@@ -819,7 +819,7 @@ msgstr "Anál"
 
 #: game/scenes/gui/game_menu/skins.tscn
 msgid "Défaut"
-msgstr ""
+msgstr "Výchozí"
 
 #: core/scenes/ui/notification.tscn
 msgid "[center]Vous arrêtez l'enregistrement sous les yeux de Noriko. Faut pas oublier aussi que ça peut dépasser.[/center]"
@@ -873,6 +873,15 @@ msgid ""
 "\n"
 "[fill]{{asami.n}}, de son côté, reviendra renouer les liens avec sa mère durant sa grossesse. Elle lui présentera {{netoru.n}}. Malgré le choc ressenti en voyant l'homme qui avait l'âge d'être le père de sa fille, {{sayuri.n}} ravalera ses pensées et se contentera de les accueillir à bras ouverts en voyant le bonheur affiché par {{asami.n}}. Après tout elle aura bientôt des petits enfants...[/fill]"
 msgstr ""
+"[fill]{{asami.n}} podlehla manipulaci {{netoru.n}}. Využil její zoufalství a touhu po pomstě a dotlačil ji, aby si dobrovolně vzala drogu X3. Navzdory hlubokému odporu, který k němu cítila, silné složení této drogy přetvořilo její vnímání a jakmile s ním střetla jeho pohled, touha převládla vše ostatní. {{netoru.n}} se stal jediným člověkem, na kterém jí záleželo. {{saito.n}} vybledl z její mysly; prostě už pro něj v její mysli ani v srdci nezůstal žádný prostor. Její život nyní koloval kolem muže, kterého kdysi nenáviděla, ale od daného okamžiku ho náhle divoce miluje.\n"
+"\n"
+"{{minato.n}} ji pustí pryč. Před odjezdem z města se {{asami.n}} zastaví ve večerce, aby navštívila svou matku a oznámila svůj návrat. {{sayuri.n}} okamžitě při pohledu do jejích očí pochopí že zná pravdu. Omluvy a prosby o odpuštění nic nezmění. {{asami.n}} jí jen vrhne chladný, opovržlivý pohled, než oznámí, že odchází z domova. Její matka, na pokraji slz, se ji pouze zeptá, zda jí občas dá vědět, a dodá, že pro ni bude vždy její milovanou dcerou.\n"
+"\n"
+"{{saito.n}} se dozví o návratu {{asami.n}} a jejím náhlém odjezdu skrze její pláčící matku, ale nikdy nebude mít odvahu prozradit jí tu temnou pravdu. Od té doby bude každý týden dostávat do e-mailové schránky videa zasílaná {{asami.n}}, která si ve svých zprávách ráda říká [i]Dívka, která byla zradena[/i]. Při každém natočeném sexuálním aktu s {{netoru.n}} bude neustále zdůrazňovat právě tu zradu.\n"
+"\n"
+"{{saito.n}} o tom nikdy nikomu neřekne, pohltěn pocity viny. V den, kdy se dozví, že je těhotná, už to nebude zvládat: zahlcený studem se rozhodne opustit město a začít nový život.\n"
+"\n"
+"Mezitím se {{asami.n}} během svého těhotenství znovu spojí se svou matkou. Představí jí {{netoru.n}}. Navzdory šoku z muže, který je stejně starý jako otec její dcery, {{sayuri.n}} potlačí své myšlenky a přivítá je s otevřenou náručí, když uvidí štěstí na tváři {{asami.n}}. Přeci jenom už brzy bude mít vnouče..."
 
 #: game/scenes/gui/bad_ending/game_over.tscn
 msgid "Voir ce qui s'est passé."
@@ -2683,616 +2692,619 @@ msgstr "Je to.... je to dost osobní, víš jak..."
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "YASUKA_N_JE_VOUS_L_AI_D_J_R_P_CE415A"
 msgid "{{yasuka.n}} je vous l'ai déjà répété plusieurs fois, si l'un des employés n'est pas au top, c'est le service qui en pâtira."
-msgstr ""
+msgstr "{{yasuka.n}}, už jsem ti to několikrát říkal. Pokud není jeden z mých zaměstnanců ve své nejlepší formě, trpí tím servis."
 
 #. Character:`netoru`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "JE_PENSAIS_SINC_REMENT_QUE_NOU_A656F3"
 msgid "Je pensais sincèrement que nous avions franchi un cap hier et que vous pouviez vous confier à moi sans crainte."
-msgstr ""
+msgstr "Opravdu jsem věřil, že jsme se s tím včera už vyrovnali a že mi můžeš důvěřovat bez obav."
 
 #. Character:`netoru`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "PEUT_TRE_QUE_JE_ME_TROMPAIS_FI_AB4FCA"
 msgid "Peut-être que je me trompais finalement..."
-msgstr ""
+msgstr "Možná sem se přece mílil..."
 
 #. Character:`yasuka`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "ATTENDEZ_DE81AE"
 msgid "Attendez..."
-msgstr ""
+msgstr "Počkej..."
 
 #. Character:`yasuka`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "C_EST_UNE_HISTOIRE_DE_DETTES_J_6B68BC"
 msgid "C'est une histoire de dettes. J'ai énormément de dettes."
-msgstr ""
+msgstr "Jde o  dluh. Mám nehorázně velký dluh."
 
 #. Character:`netoru`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "JE_COMPRENDS_PR_SENT_MAIS_NE_V_DFEC6C"
 msgid "Je comprends à présent... Mais ne vous en faites pas, je suis aussi passé par là par le passé et je m'en suis sorti."
-msgstr ""
+msgstr "Teď už rozumím... Ale nestrachuj se, v minulosti jsem si prošel tím samým a zvládl jsem to."
 
 #. Character:`yasuka`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "VRAIMENT_2FAD55"
 msgid "Vraiment ?!"
-msgstr ""
+msgstr "Opravdu?!"
 
 #. Character:`netoru`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "BIEN_S_R_ET_J_AI_R_USSI_REBOND_A4D76D"
 msgid "Bien sûr ! Et j'ai réussi à rebondir comme vous pouvez le constater !"
-msgstr ""
+msgstr "Samozřejmě!  A vidíš, že jsem se zase postavil na nohy!"
 
 #. Character:`yasuka`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "C_EST_INCROYABLE_4C3615"
 msgid "... C'est incroyable."
-msgstr ""
+msgstr "...To je obdivuhodné."
 
 #. Character:`netoru`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "PR_SENT_RACONTEZ_MOI_COMMENT_DB0C92"
 msgid "À présent, racontez-moi comment vous en êtes arrivée là."
-msgstr ""
+msgstr "Teď mi pověž jak si se do té situace dostala."
 
 #. Character:`yasuka`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "J_AI_VRAIMENT_HONTE_D_EN_PARLE_11687B"
 msgid "J'ai vraiment honte d'en parler vous savez."
-msgstr ""
+msgstr "Je se za to stydím když o tom mluvím."
 
 #. Character:`netoru`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "IL_NE_FAUT_PAS_PARFOIS_IL_FAUT_36CE28"
 msgid "Il ne faut pas, parfois il faut savoir demander de l'aide. Et si je peux vous aider d'une quelconque manière je le ferai."
-msgstr ""
+msgstr "Neměla bys. Někdy je potřeba vědět, kdy požádat o pomoc. A pokud ti mohu jakkoli pomoci, udělám to."
 
 #. Character:`yasuka`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "A_REMONTE_AU_TEMPS_O_JE_SUIS_A5DDB5"
 msgid "Ça remonte au temps où je suis tombée enceinte, je n'avais pas terminé mes études, je voulais pouvoir élever mon enfant dans un environnement sain..."
-msgstr ""
+msgstr "Začalo to, když jsem otěhotněla. Ještě jsem nedokončila školu a chtěla sem vychovat své dítě v lepším prostředí..."
 
 #. Character:`netoru`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "C_EST_TOUT_VOTRE_HONNEUR_D2470F"
 msgid "C'est tout à votre honneur."
-msgstr ""
+msgstr "To je od tebe velmi vznešené."
 
 #. Character:`yasuka`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "OUI_MAIS_J_TAIS_JEUNE_ET_J_AI_58D082"
 msgid "Oui mais... j'étais jeune et j'ai emprunté à des taux bien trop élevés sans savoir ce que je faisais. Je n'y connaissais rien et je n'avais pas la tête à m'intéresser à ça à cette époque."
-msgstr ""
+msgstr "Ano, ale... byla jsem mladá a půjčovala si peníze za naprosto absurdní úroky, aniž bych věděla, co vlastně dělám. Tehdy jsem tomu vůbec nerozuměla a nebyla jsem v psychické kondici, abych se o takové věci starala."
 
 #. Character:`netoru`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "JE_VOIS_CERTAINS_ORGANISMES_MA_8D09DA"
 msgid "Je vois... Certains organismes mafieux font ça volontairement pour avoir des gens qui vont payer toute leur vie."
-msgstr ""
+msgstr "Chápu... Některé kriminální organizace to dělají záměrně, aby lidi chytily do pasti a ti pak spláceli zbytek života."
 
 #. Character:`yasuka`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "APR_S_A_UNE_ANCIENNE_CONNAISSA_30E622"
 msgid "Après ça, une ancienne connaissance m'a confié son enfant avant de disparaître pour échapper à ses dettes lui aussi. Mais les personnes à qui il devait de l'argent se sont retournées vers moi et m'ont demandé des comptes. Rembourser deux prêts en même temps était impossible, j'ai dû faire racheter ma dette et comme aucune banque n'a voulu le faire j'ai dû me tourner vers des organismes plus... controversés..."
-msgstr ""
+msgstr "Poté mi jeden starý známý svěřil své dítě, než zmizel, aby unikl vlastním dluhům. Ale lidé, kterým dlužil, se pak zaměřili na mě a chtěli, abych všechno splácela. Splácet dva úvěry najednou bylo nemožné, takže jsem musela nechat svůj dluh odkoupit, ale protože žádná banka nesouhlasila, musela jsem se obrátit na... pochybnější organizace..."
 
 #. Character:`netoru`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "BON_SANG_YASUKA_N_VOUS_VOUS_TE_2866A8"
 msgid "Bon sang {{yasuka.n}}, vous vous êtes mise dedans jusqu'au cou, je comprends à présent d'où vient cette pression que vous avez sur les épaules."
-msgstr ""
+msgstr "Můj bože, {{yasuka.n}}, jsi v tom až po krk. Už chápu, odkud pramení ta tíha na tvých ramenech."
 
 #. Character:`netoru`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "VOTRE_GENTILLESSE_VOUS_PERDRA_E62741"
 msgid "Votre gentillesse vous perdra. Les gens autour de vous en ont abusé..."
-msgstr ""
+msgstr "Tvá laskavost bude tvou záhubou. Lidé kolem tebe ji totiž využili..."
 
 #. Character:`yasuka`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "OUI_JE_SAIS_C_TAIT_IL_Y_A_LONG_04BB52"
 msgid "Oui je sais... C'était il y a longtemps et ça ne se reproduira plus."
-msgstr ""
+msgstr "Ano, vím... To bylo dávno a už se to nebude opakovat."
 
 #. Character:`netoru`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "ACCEPTER_ET_PRENDRE_LA_CHARGE_CF4D81"
 msgid "Accepter et prendre la charge de cet enfant vous a mise dans une situation délicate."
-msgstr ""
+msgstr "Převzetí toho dítěte a přijetí zodpovědnosti tě postavilo do velmi těžké situace."
 
 #. Character:`yasuka`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "IL_TAIT_SI_JEUNE_IL_AVAIT_D_J_05AAFA"
 msgid "Il était si jeune, il avait déjà perdu sa mère et son père l'abandonnait littéralement. Que serait-il devenu si je ne m'étais pas occupée de lui ?"
-msgstr ""
+msgstr "Byl tak mladý. Už přišel o matku a jeho otec ho úplně opustil. Co by se z něj stalo, kdybych se o něj nepostarala?"
 
 #. Character:`netoru`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "PFFF_JE_COMPRENDS_PARFOIS_IMPO_575212"
 msgid "Pfff... Je comprends, parfois impossible d'ignorer son cœur."
-msgstr ""
+msgstr "Pfff... chápu, někdy prostě nemůžeš ignorovat své srdce."
 
 #. Character:`yasuka`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "EXACTEMENT_452344"
 msgid "Exactement !"
-msgstr ""
+msgstr "Přesně tak!"
 
 #. Character:`netoru`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "ET_AUJOURD_HUI_COMBIEN_DEVEZ_V_2568AE"
 msgid "Et aujourd'hui combien devez-vous rembourser ?"
-msgstr ""
+msgstr "A kolik ti dnes zbývá splatit?"
 
 #. Character:`yasuka`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "ENVIRON_50M_C16065"
 msgid "... Environ 50,000,000¥"
-msgstr ""
+msgstr "...Zhruba 50 000 000 ¥."
 
 #. Character:`netoru`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "C_EST_UNE_SACR_E_SOMME_JE_NE_V_7087A1"
 msgid "C'est une sacrée somme... Je ne vous promets rien mais je vais essayer d'y réfléchir et de revenir vers vous avec une solution."
-msgstr ""
+msgstr "To je docela vysoká částka... Nechci nic slibovat, ale zkusím o tom přemýšlet a pak se k tobě vrátím s řešením."
 
 #. Character:`yasuka`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "OH_NE_VOUS_EMB_TEZ_PAS_AVEC_A_4BED51"
 msgid "Oh ne vous embêtez pas avec ça, s'il vous plaît !"
-msgstr ""
+msgstr "Ó, prosím, neobtěžuj se tím!"
 
 #. Character:`netoru`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "J_AI_PAS_MAL_DE_TEMPS_LIBRE_DO_2F751D"
 msgid "J'ai pas mal de temps libre donc autant utiliser ce temps de manière constructive."
-msgstr ""
+msgstr "Mám docela hodně volného času, takže bych ho mohl využít užitečněji."
 
 #. Character:`yasuka`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "JE_MERCI_INFINIMENT_MONSIEUR_D848E9"
 msgid "Je... merci infiniment Monsieur."
-msgstr ""
+msgstr "Já... moc vám děkuji, pane."
 
 #. Character:`yasuka`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "JE_VAIS_REPRENDRE_LE_TRAVAIL_P_90576E"
 msgid "Je vais reprendre le travail à présent, je vous ai assez pris de votre temps."
-msgstr ""
+msgstr "Už se vrátím k práci, vzala jsem vám příliš mnoho času."
 
 #. Character:`netoru` | Attributes:`bad`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "LA_JOURN_E_EST_TERMIN_E_LAISSE_7EC330"
 msgid "La journée est terminée, laissez-moi vous raccompagner chez vous pour une fois."
-msgstr ""
+msgstr "Den už skončil, tak tě pro jednou odvezu domů."
 
 #. Character:`yasuka` | Attributes:`happy`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "OH_C_EST_TR_S_GENTIL_VOUS_MAIS_DD332C"
 msgid "Oh c'est très gentil à vous mais ce n'est pas..."
-msgstr ""
+msgstr "Ó, to je od vás velmi laskavé, ale není třeba..."
 
 #. Character:`netoru` | Attributes:`arrogant`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "J_AI_CERTAINS_CONTACTS_DANS_LE_F73795"
 msgid "J'ai certains contacts dans le milieu et en passant quelques coups de fil nous pourrons déjà faire baisser votre taux d'intérêt."
-msgstr ""
+msgstr "Mám kontakt na lidi, kteří když jím zavolám dokáží váše úroky snížit."
 
 #. Character:`netoru`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "A_VOUS_INT_RESSE_EF4A30"
 msgid "Ça vous intéresse ?"
-msgstr ""
+msgstr "Máš zájem?"
 
 #. Character:`yasuka` | Attributes:`surprised`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "QUOI_VOUS_TES_S_R_VIDEMMENT_QU_77193E"
 msgid "Quoi ?! Vous êtes sûr ? Évidemment que ça m'intéresse..."
-msgstr ""
+msgstr "Co?! Jste si jistý ? Samozřejmě že mám zájem..."
 
 #. Character:`netoru` | Attributes:`bad`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "PARFAIT_DANS_CE_CAS_DISCUTONS_B71263"
 msgid "Parfait, dans ce cas discutons-en sur le chemin car j'aurai besoin de quelques informations supplémentaires."
-msgstr ""
+msgstr "Perfektní! Pojdmě o tom diskutovat při cestě, neboť od tebe potřebuju jěště pár detailů."
 
 #. Character:`yasuka`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "D_ACCORD_DANS_CE_CAS_J_ACCEPTE_487017"
 msgid "D'accord, dans ce cas j'accepte volontiers."
-msgstr ""
+msgstr "Dobrá, v tom případě ráda přikívnu."
 
 #. Character:`netoru` | Attributes:`bad`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "JE_VOUS_EN_PRIE_PASSEZ_DEVANT_F91FCE"
 msgid "Je vous en prie, passez devant."
-msgstr ""
+msgstr "Prosím, až po vás."
 
 #. Character:`netoru` | Attributes:`frustrated`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "BON_J_AI_R_FL_CHI_NORM_MENT_VO_EB5301"
 msgid "Bon j'ai réfléchi énormément à votre situation et après avoir refait plusieurs fois les calculs je suis arrivé à un constat qui ne vous plaira probablement pas."
-msgstr ""
+msgstr "Podívej se. Dost jsem přemýšlel o tvé situaci, a po několika telefonátech, jsem dospěl k záveru který se ti nebude líbit."
 
 #. Character:`yasuka` | Attributes:`sad`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "C_EST_SI_MAUVAIS_QUE_A_D750CD"
 msgid "C'est si mauvais que ça ?"
-msgstr ""
+msgstr "Opravdu je to tak špatné?"
 
 #. Character:`netoru`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
+#, fuzzy
 msgctxt "JE_SERAI_HONN_TE_AVEC_VOUS_YAS_CA7A83"
 msgid "Je serai honnête avec vous {{yasuka.n}} mais au vu des dépenses nécessaires pour maintenir votre train de vie et celui de votre foyer, l'éducation de votre fille et potentiellement celle du garçon que vous hébergez, la hauteur des intérêts fait que vous ne pourrez jamais rembourser à temps."
-msgstr ""
+msgstr "Budu zcela upřímný, {{yasuka.n}},  ale vzhledem k nákladům potřebným na udržení tvého životního stylu a tvé domácnosti, nehledě na vzdělání tvé dcery a potenciálně toho kluka o kterého se staráš. Ten úrok samotný znamená že nikdy nedokážeš splatit dluhy včas."
 
 #. Character:`yasuka` | Attributes:`depressed`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "MON_DIEU_QU_EST_CE_QUE_JE_VAI_91FB2A"
 msgid "... Mon dieu... Qu'est-ce que je vais faire ?"
-msgstr ""
+msgstr "Pane bože... Co si počnu?"
 
 #. Character:`netoru`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "CES_GENS_QUI_VOUS_AVEZ_EMPRUNT_7A2F4E"
 msgid "Ces gens à qui vous avez emprunté de l'argent savaient très bien que vous ne pourriez jamais rembourser."
-msgstr ""
+msgstr "Lidé od kterých sis půjčila moc dobře věděli, že to nikdy nedokážeš zplatit."
 
 #. Character:`netoru`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "JE_PENSE_M_ME_QU_ILS_AVAIENT_D_D4C0BA"
 msgid "Je pense même qu'ils avaient d'autres projets pour vous."
-msgstr ""
+msgstr "Dokonce si myslím že s tebou měli jiné plány."
 
 #. Character:`yasuka` | Attributes:`sad`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "MAIS_C_EST_HORRIBLE_EST_CE_QUE_CD5656"
 msgid "Mais c'est horrible ! Est-ce que tout ça n'est pas illégal ?!"
-msgstr ""
+msgstr "Ale to je hrozné! Není tohle všechno nezákonné?!"
 
 #. Character:`netoru` | Attributes:`neutral`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
+#, fuzzy
 msgctxt "MALHEUREUSEMENT_LES_CONTRATS_S_1F4060"
 msgid "Malheureusement les contrats signés sont difficilement contestables même devant la justice."
-msgstr ""
+msgstr "Bohužel, podepsaným smlouvam je těžké se vyhnout, dokonce i u soudu."
 
 #. Character:`netoru` | Attributes:`frustrated`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "ET_CE_N_EST_PAS_LE_PIRE_F38EA0"
 msgid "Et ce n'est pas le pire..."
-msgstr ""
+msgstr "A to ani není ta nejhorší část..."
 
 #. Character:`netoru`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "SI_MES_CALCULS_SONT_BONS_ET_IL_9BFE5B"
 msgid "Si mes calculs sont bons et ils le sont toujours, même si vous n'offrez pas d'études supérieures à votre fille et que vous vendez votre maison, vous devrez encore rembourser pendant des années..."
-msgstr ""
+msgstr "Pokud jsou mé výpočty pravdivé, a že vždy jsou, i kdyby jsi prodala svůj dům a dceru neposlala na vysokou, tak budeś dluh splácet roky..."
 
 #. Character:`yasuka` | Attributes:`depressed`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "JE_PENSAIS_QUE_SI_JE_FAISAIS_D_36C43E"
 msgid "Je pensais que si je faisais de mon mieux cela suffirait..."
-msgstr ""
+msgstr "Já myslela, že když udělám vše ve svých silách, tak to bude stačit..."
 
 #. Character:`netoru`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "PARFOIS_M_ME_LES_MEILLEURES_IN_F6C8B6"
 msgid "Parfois même les meilleures intentions ne suffisent pas."
-msgstr ""
+msgstr "Občas ani nejlepší mínění není dostatečné."
 
 #. Character:`netoru` | Attributes:`neutral`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "JE_VAIS_VOUS_LAISSER_R_FL_CHIR_0AD5EC"
 msgid "Je vais vous laisser réfléchir à tout ça mais préparez-vous à faire des choix drastiques si vous voulez vous en sortir, quitte à mettre votre fierté de côté."
-msgstr ""
+msgstr "Nechám tě přeprat si to hlavou, ale buď pripravená provést razantní změny, pokud se tímto chceš probojovat, i kdyby jsi musela spolknout svojí hrdost."
 
 #. Character:`netoru` | Attributes:`bad`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "JE_VOUS_TIENS_AU_COURANT_J_AI_E44D21"
 msgid "Je vous tiens au courant, j'ai quelques pistes que j'aimerais éclaircir mais ne vous inquiétez pas, je serai là pour vous aider."
-msgstr ""
+msgstr "Dám ti vědět. Mám pár vodítek na které se chci podívat, ale nestrachuj se, jsem tu abych ti pomohl."
 
 #. Character:`yasuka`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "MERCI_MONSIEUR_6A2D45"
 msgid "Merci Monsieur..."
-msgstr ""
+msgstr "Děkuji vám, pane..."
 
 #. Character:`netoru`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "MAIS_C_EST_TOUT_NATUREL_45E967"
 msgid "Mais c'est tout naturel !"
-msgstr ""
+msgstr "Není za co!"
 
 #. Character:`netoru` | Attributes:`bad`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "JE_CROIS_QUE_VOUS_NE_SEREZ_PAS_12BF0C"
 msgid "Je crois que vous ne serez pas déçue, j'ai trouvé une solution pour régler tous vos problèmes en une seule fois !"
-msgstr ""
+msgstr "Věřím že nebudeš zklamaná. Našel sem řešení které vyřeší všechny tvé problémy najednou."
 
 #. Character:`yasuka` | Attributes:`happy`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "VRAIMENT_UNE_TELLE_SOLUTION_EX_1798D1"
 msgid "Vraiment ?! Une telle solution existe ?"
-msgstr ""
+msgstr "Opravdu?! Takové řešení existuje?"
 
 #. Character:`netoru`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "ABSOLUMENT_IL_FAUDRA_Y_METTRE_511E3E"
 msgid "Absolument ! Il faudra y mettre un peu du vôtre mais vous serez à jamais débarrassée de votre dette."
-msgstr ""
+msgstr "Samozřejmně! Musíš udělat svou část, ale zbaví tě to dluhů pro jednou a navždy."
 
 #. Character:`yasuka` | Attributes:`pouting`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "JE_SUIS_PR_TE_FAIRE_CE_QU_IL_F_0D02FA"
 msgid "Je suis prête à faire ce qu'il faudra pour m'en sortir, ne faites pas autant de mystère s'il vous plaît!"
-msgstr ""
+msgstr "Jsem ochotná uďelat cokoliv abych se zkrz tohle dostala, tak prosím už neotalujte!"
 
 #. Character:`netoru` | Attributes:`frustrated`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "YASUKA_N_J_AIMERAIS_QUE_VOUS_2664EC"
 msgid "{{yasuka.n}}... J'aimerais que vous compreniez que ça ne sera pas non plus une solution facile."
-msgstr ""
+msgstr "{{yasuka.n}}... Musíš pochopit že to ale nebude jednoduché řešení."
 
 #. Character:`netoru`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "J_AI_BESOIN_DE_SAVOIR_JUSQU_O_A62D47"
 msgid "J'ai besoin de savoir jusqu'où vous serez prête à aller ?"
-msgstr ""
+msgstr "Potřebuji vědět jak daleko jsi ochotná zajít."
 
 #. Character:`yasuka` | Attributes:`moved`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
+#, fuzzy
 msgctxt "SI_GR_CE_UN_SACRIFICE_MA_FAMIL_4330AE"
 msgid "Si grâce à un sacrifice ma famille peut vivre dignement et se concentrer sur son avenir alors je serai la plus heureuse qui soit."
-msgstr ""
+msgstr "Pokud má rodiná může, díky mé obéti ,důstojně žít a soustředit se na svojí budoucnost, budu nejštastnější žena naživu."
 
 #. Character:`yasuka`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "J_AI_FAIT_BIEN_TROP_DE_MAUVAIS_AEDD24"
 msgid "J'ai fait bien trop de mauvais choix dans ma vie par le passé et je dois arrêter de me voiler la face."
-msgstr ""
+msgstr "Udělala jsem za život příliš mnoho špatných rozhodnutí, a musím se přestat schovávat před zodpovědností."
 
 #. Character:`yasuka` | Attributes:`neutral`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "JE_DOIS_ASSUMER_LES_CONS_QUENC_9D412F"
 msgid "Je dois assumer les conséquences de mes actes, quitte à souffrir un peu. Mais mon confort passera toujours après eux..."
-msgstr ""
+msgstr "Musím čelit následkům mých činnů, i přesto že to znamená že budu trpět. Ale na mém pohodlí  záleží až po tom jejich..."
 
 #. Character:`netoru` | Attributes:`neutral`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "C_EST_TOUT_FAIT_ADMIRABLE_DE_V_E76DE1"
 msgid "C'est tout à fait admirable de votre part... J'en suis ému, vraiment..."
-msgstr ""
+msgstr "To je od tebe obdivuhodné. Opravdu se mě to dotklo..."
 
 #. Character:`yasuka` | Attributes:`happy`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "MAINTENANT_SOYEZ_SINC_RE_AVEC_981DDE"
 msgid "Maintenant... Soyez sincère avec moi, quelle est cette solution ?"
-msgstr ""
+msgstr "Teď... buď se mnou upřímný, co je to za řešení?"
 
 #. Character:`netoru` | Attributes:`arrogant`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "W_POUSEZ_MOI_818244"
 msgid "...[w] Épousez-moi !"
-msgstr ""
+msgstr "...[w] Vem si mě za muže!"
 
 #. Character:`yasuka` | Attributes:`surprised`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "JE_JE_VOUS_DEMANDE_PARDON_BFE971"
 msgid "Je... Je vous demande pardon ?"
-msgstr ""
+msgstr "Já.... nechápu?"
 
 #. Character:`netoru` | Attributes:`neutral`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "VOUS_M_AVEZ_TR_S_BIEN_ENTENDU_C764A0"
 msgid "Vous m'avez très bien entendu."
-msgstr ""
+msgstr "Slyšela jsi mě velice dobře."
 
 #. Character:`yasuka`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "MAIS_510779"
 msgid "Mais..."
-msgstr ""
+msgstr "Ale..."
 
 #. Character:`netoru` | Attributes:`neutral`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "SI_VOUS_ACCEPTEZ_DE_M_POUSER_J_D0266D"
 msgid "Si vous acceptez de m'épouser je m'engage à recouvrir toutes vos dettes et à traiter votre fille comme ma propre fille, je m'engagerai également à faire tout ce qui est en mon pouvoir pour financer ses études. Après tout vous voulez le meilleur pour elle n'est-ce pas ?"
-msgstr ""
+msgstr "Pokud si mě vezmeš, splatím všechny tvé dluhy a budu se o tvou dceru starat jako o vlastní. Také udélám vše ve svých silách abych zaplatil její vzdělání. Chceš pro ní to nejlepší ne ?"
 
 #. Character:`netoru` | Attributes:`bad`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "DE_PLUS_EN_M_POUSANT_LA_BOUTIQ_37156B"
 msgid "De plus, en m'épousant la boutique vous appartiendra à vous aussi, ainsi que les bénéfices qu'elle rapporte."
-msgstr ""
+msgstr "A co více, jestli si mě vezmeš, kavárna bude patřit i tobě, včetně veškerého příjmu co přináší."
 
 #. Character:`netoru`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "VOUS_SEREZ_DONC_D_BARRASS_E_DE_149599"
 msgid "Vous serez donc débarrassée de votre dette que je prendrai en charge, vous aurez un travail bien mieux payé et vous pourrez offrir à {{noriko.n}} tout ce dont vous n'avez jamais eu la chance d'avoir..."
-msgstr ""
+msgstr "Takže by jsi byla volná od svého dluhu, který bych na sebe převzal já; Měla by jsi lépe placenou práci; A mohla by jsi {{noriko.n}} dopřád vše co jsi nikdy sama nemohla mít..."
 
 #. Character:`netoru`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "LA_SEULE_CHOSE_QUE_JE_DEMANDE_8588F1"
 msgid "La seule chose que je demande en échange, c'est vous !"
-msgstr ""
+msgstr "Jediné co chci na oplátku jsi ty!"
 
 #. Character:`yasuka`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "MOI_082F23"
 msgid "Moi ?"
-msgstr ""
+msgstr "Mně ?"
 
 #. Character:`netoru` | Attributes:`neutral`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "OUI_VOUS_TES_UNE_FEMME_MAGNIFI_80A431"
 msgid "Oui... Vous êtes une femme magnifique pour qui je suis prêt à sacrifier toute une vie d'économies et à le partager avec vous. Mais je veux votre amour inconditionnel en retour. Pensez à votre fille {{yasuka.n}} ! Pensez à ce qu'ils pourraient lui faire si vous ne remboursez pas à temps !"
-msgstr ""
+msgstr "Ano... jsi překrásná žena a já jsem ochotný obětovat mé žívotní úspory a vše s tebou zdílet. Chci ale naoplátku tvojí bezprostřednou lásku. Přemýšlej nad svojí dcerou, {{yasuka.n}}! Přemýšlej co by jí mohli udělat pokud nesplatíš dluh včas!"
 
 #. Character:`narrator`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "ACCEPTER_LA_PROPOSITION_IF_FL_5178D2"
 msgid "Accepter la proposition."
-msgstr ""
+msgstr "Přijmout nabídku."
 
 #. Character:`narrator`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "REFUSER_LA_PROPOSITION_DE8244"
 msgid "Refuser la proposition."
-msgstr ""
+msgstr "Odmítnout nabídku."
 
 #. Character:`yasuka` | Attributes:`sad`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "VOUS_TIENDREZ_VRAIMENT_PAROLE_E30EB2"
 msgid "Vous tiendrez vraiment parole ?"
-msgstr ""
+msgstr "Dodržíš svoje slovo ?"
 
 #. Character:`netoru` | Attributes:`arrogant`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "MA_CH_RE_SACHEZ_QUE_JE_NE_PLAI_3CF605"
 msgid "Ma chère, sachez que je ne plaisante jamais à propos de ces choses-là. Je suis un homme d'honneur !"
-msgstr ""
+msgstr "Má milá, víš přeci že o těhle věcech nikdy nevtipkuji. Jsem čestný muž!"
 
 #. Character:`netoru`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "JE_FERAI_TOUJOURS_TOUT_MON_POS_0A632B"
 msgid "Je ferai toujours tout mon possible pour vous rendre heureuse."
-msgstr ""
+msgstr "Vždy budu dělat vše proto aby jsi byla šťasná."
 
 #. Character:`yasuka`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "MAIS_CE_CONTRAT_TOUT_DE_M_ME_54B5DF"
 msgid "Mais ce contrat tout de même..."
-msgstr ""
+msgstr "Ale ta smlouva..."
 
 #. Character:`netoru` | Attributes:`frustrated`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "IL_Y_A_UNE_EXPLICATION_CELA_01F396"
 msgid "Il y a une explication à cela."
-msgstr ""
+msgstr "I na to je vysvětlení."
 
 #. Character:`netoru`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "J_AI_EU_UNE_EX_FEMME_IL_FUT_UN_AF16C2"
 msgid "J'ai eu une ex-femme il fut un temps et ça s'est très mal terminé pour moi, j'ai été humilié et elle a pris tout ce que je possédais."
-msgstr ""
+msgstr "Kdysi jsem mýval manželku, a skončilo to pro mě velice špatně. Byl jsem zesměšněn a vzala si sebou vše co jsem vlastnil."
 
 #. Character:`netoru`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "C_EST_DE_L_QUE_VENAIENT_MES_PR_62A050"
 msgid "C'est de là que venaient mes problèmes à l'origine. J'ai réussi à remonter la pente et je ne me laisserai plus jamais avoir !"
-msgstr ""
+msgstr "Tam počali všechny moje problémy. Podařilo se mi dostat se zpátky na svě chodidla, ale už nikoho nenechám mě zneužívat!"
 
 #. Character:`yasuka`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "JE_NE_SAVAIS_PAS_B0E734"
 msgid "Je ne savais pas..."
-msgstr ""
+msgstr "Já... to jsem nevěděla..."
 
 #. Character:`netoru`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "CE_N_EST_PAS_NON_PLUS_QUELQUE_419A7B"
 msgid "Ce n'est pas non plus quelque chose sur lequel j'aime m'étaler, vous pouvez facilement l'imaginer."
-msgstr ""
+msgstr "Není to něco o čem bych rád hovořil, jak si sama určitě dokážeš představit."
 
 #. Character:`yasuka` | Attributes:`neutral`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
 #: game/story/hostess_club_exterior.dialogue
 msgctxt "OUI_EN_EFFET_10D6E4"
 msgid "Oui en effet."
-msgstr ""
+msgstr "Ano, samozřejmně."
 
 #. Character:`netoru` | Attributes:`neutral`
 #: game/story/coffeebar_interior.dialogue game/story/onsen_interior.dialogue
