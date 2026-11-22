@@ -112,8 +112,8 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: info@teot-studio.com\n"
 "POT-Creation-Date: 2025-12-12 13:32+0100\n"
-"PO-Revision-Date: 2026-11-20 17:45+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-11-22 22:40+0000\n"
+"Last-Translator: Lorgx <vasyaprince@gmail.com>\n"
 "Language-Team: Russian <https://translations.teot-studio.com/projects/goodbye-eternity/game/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -131738,7 +131738,7 @@ msgstr ""
 #: game/scenes/locations/home_player_yasuka_room.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "YasukaSayuriSleep"
-msgstr ""
+msgstr "{{yasuka.n}} (спит {{sayuri.n}})"
 
 #: game/scenes/locations/home_player_yasuka_room.tscn
 msgctxt "galleries.backgrounds.sprite"
@@ -131773,7 +131773,7 @@ msgstr "{{sayuri.n}} (работает)"
 #: game/scenes/locations/konbini_interior.tscn
 msgctxt "galleries.backgrounds.sprite"
 msgid "SayuriPhone"
-msgstr ""
+msgstr "{{sayuri.n}} (телефон)"
 
 #: game/scenes/locations/lake.tscn game/scenes/locations/park.tscn
 msgctxt "galleries.backgrounds.sprite"
@@ -131960,22 +131960,22 @@ msgstr "{{sakuya.n}}"
 #: game/scenes/cg/list.tres
 msgctxt "galleries.images.hints"
 msgid "Route {{asami.n}} rivales."
-msgstr ""
+msgstr "Путь {{asami.n}} -соперницы."
 
 #: attributes.galleries/cgs/sayuri/drink_konbini_roof
 msgctxt "galleries.movies.attribute"
 msgid "sexy"
-msgstr ""
+msgstr "Сексуальный наряд"
 
 #: game/scenes/cg/list.tres
 msgctxt "galleries.images.hints"
 msgid "Route {{asami.n}} rivales, choisir {{asami.n}}."
-msgstr ""
+msgstr "Путь {{asami.n}} соперницы, выбрать {{asami.n}}."
 
 #: game/scenes/cg/list.tres
 msgctxt "galleries.images.hints"
 msgid "Route {{asami.n}} amour ou rivales."
-msgstr ""
+msgstr "Путь {{asami.n}}: любовь или соперницы."
 
 #: attributes.galleries/cgs/yasuka/love/room_timelapse
 msgctxt "galleries.movies.attribute"
@@ -132059,7 +132059,7 @@ msgstr "Любовь"
 
 msgctxt "chapters.choices"
 msgid "asami/rivals"
-msgstr ""
+msgstr "Соперницы"
 
 msgctxt "chapters.choices"
 msgid "yasuka/corruption"
@@ -132523,7 +132523,7 @@ msgstr "Ночнушка"
 
 msgctxt "character.skin"
 msgid "sayuri_dancer"
-msgstr ""
+msgstr "Танцовщица"
 
 msgctxt "character.skin"
 msgid "sayuri_dress"
