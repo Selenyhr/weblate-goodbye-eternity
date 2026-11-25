@@ -112,7 +112,7 @@ msgstr ""
 "Project-Id-Version: Goodbye Eternity\n"
 "Report-Msgid-Bugs-To: info@teot-studio.com\n"
 "POT-Creation-Date: 2025-12-12 13:32+0100\n"
-"PO-Revision-Date: 2026-11-24 19:04+0000\n"
+"PO-Revision-Date: 2026-11-25 13:19+0000\n"
 "Last-Translator: Aleksandr <aleksandr-tugai@mail.ru>\n"
 "Language-Team: Russian <https://translations.teot-studio.com/projects/goodbye-eternity/game/ru/>\n"
 "Language: ru\n"
@@ -124140,7 +124140,7 @@ msgid "Oui, je suis convaincu qu’il est un régresseur !"
 msgstr "Да, я уверен что он – регрессор!"
 
 msgid "VALIDER"
-msgstr "ПРОВЕРИТЬ"
+msgstr "ПОДТВЕРДИТЬ"
 
 msgid "Quels choix avez-vous effectués ?"
 msgstr "Какой выбор вы сделали?"
@@ -130769,6 +130769,7 @@ msgid "jacket"
 msgstr "Куртка"
 
 #: game/scenes/characters/sprites/asami.tscn
+#, fuzzy
 msgctxt "character.sprite.attribute"
 msgid "girly"
 msgstr "Девчачий"
@@ -131650,6 +131651,7 @@ msgid "AsamiStandEveryday"
 msgstr "{{asami.n}} (стоит, в куртке)"
 
 #: game/scenes/locations/home_player_exterior.tscn
+#, fuzzy
 msgctxt "galleries.backgrounds.sprite"
 msgid "AsamiStandGirly"
 msgstr "{{asami.n}} (стоит, девчачий)"
@@ -132315,6 +132317,7 @@ msgctxt "character.skin"
 msgid "asami_dress"
 msgstr "Платье"
 
+#, fuzzy
 msgctxt "character.skin"
 msgid "asami_girly"
 msgstr "Девчачий"
